@@ -261,6 +261,8 @@ body{font-family:-apple-system,'Inter','PingFang SC',sans-serif;background:var(-
   <label>模型</label>
   <input type="text" id="cfgModel" placeholder="glm-4-flash" />
   <button class="save-btn" onclick="saveSettings()">保存</button>
+  <button class="save-btn" style="background:#555;margin-top:6px" onclick="testConnection()">测试连接</button>
+  <div id="connResult" style="font-size:12px;margin-top:6px;white-space:pre-wrap;display:none"></div>
 </div>
 
 <div class="footer">数据每日自动更新 · Powered by GitHub Actions</div>
@@ -465,11 +467,15 @@ async function generate() {
   document.getElementById('wsOutputArea').textContent = '';
 
   try {
+    const ctrl = new AbortController();
+    const timeout = setTimeout(() => ctrl.abort(), 60000);
     const res = await fetch(cfg.apiUrl, {
       method: 'POST',
       headers: {'Content-Type':'application/json','Authorization':'Bearer '+cfg.apiKey},
-      body: JSON.stringify({model:cfg.model,messages:[{role:'user',content:prompt}],stream:true})
+      body: JSON.stringify({model:cfg.model,messages:[{role:'user',content:prompt}],stream:true}),
+      signal: ctrl.signal
     });
+    clearTimeout(timeout);
     if (!res.ok) throw new Error(`API ${res.status}: ${await res.text().catch(()=>'')}`);
     const reader = res.body.getReader();
     const decoder = new TextDecoder();
@@ -516,7 +522,11 @@ async function generate() {
       const text = j.choices?.[0]?.message?.content || '生成失败，请检查 API 配置';
       document.getElementById('wsOutputArea').textContent = text;
     } catch(e2) {
-      document.getElementById('wsOutputArea').textContent = '生成失败: ' + e.message;
+      let hint = '';
+      if (e.message.includes('Failed to fetch') || e2.message.includes('Failed to fetch')) {
+        hint = '\n\n💡 提示：无法连接 API 服务器，请检查：\n1. 是否开了 VPN？→ 关闭 VPN 重试（国内API走海外会不通）\n2. 在浏览器新标签打开 open.bigmodel.cn 看能否访问\n3. 点 ⚙ 设置 → 测试连接 查看详细诊断';
+      }
+      document.getElementById('wsOutputArea').textContent = '生成失败: ' + e.message + hint;
     }
   }
   isGenerating = false;
@@ -699,6 +709,81 @@ function toggleSettings() {
   const o = document.getElementById('settingsOverlay');
   p.classList.toggle('show');
   o.classList.toggle('show');
+}
+
+/* ====== CONNECTION TEST ====== */
+async function testConnection() {
+  const cfg = getSettings();
+  const el = document.getElementById('connResult');
+  el.style.display = 'block';
+  el.textContent = '测试中...';
+  
+  const results = [];
+  
+  // Test 1: DNS / 基本连通
+  results.push('1. 测试网络连通...');
+  try {
+    const ctrl = new AbortController();
+    const timer = setTimeout(() => ctrl.abort(), 10000);
+    const res = await fetch(cfg.apiUrl, {
+      method: 'POST',
+      headers: {'Content-Type':'application/json','Authorization':'Bearer '+cfg.apiKey},
+      body: JSON.stringify({model:cfg.model,messages:[{role:'user',content:'hi'}],max_tokens:5}),
+      signal: ctrl.signal
+    });
+    clearTimeout(timer);
+    if (res.ok) {
+      const data = await res.json();
+      const content = data.choices?.[0]?.message?.content || '';
+      results.push('   ✅ 连接成功！模型回复: ' + content.slice(0,30));
+    } else {
+      const errText = await res.text().catch(()=>'');
+      results.push('   ❌ API 返回错误 ' + res.status + ': ' + errText.slice(0,100));
+    }
+  } catch(e) {
+    if (e.name === 'AbortError') {
+      results.push('   ❌ 连接超时（10秒无响应）');
+      results.push('\n可能原因：');
+      results.push('  • VPN 开启 → 国内 API 被墙，请关闭 VPN 重试');
+      results.push('  • 网络不稳定 → 换个网络环境试');
+    } else if (e.message.includes('Failed to fetch')) {
+      results.push('   ❌ 无法连接到 API 服务器');
+      results.push('\n可能原因：');
+      results.push('  • VPN 开启 → 国内 API 走了海外线路，请关闭 VPN');
+      results.push('  • 公司/学校防火墙屏蔽了 open.bigmodel.cn');
+      results.push('  • DNS 无法解析 → 试试在浏览器直接打开 open.bigmodel.cn');
+    } else {
+      results.push('   ❌ ' + e.message);
+    }
+  }
+  
+  // Test 2: 流式连接
+  results.push('\n2. 测试流式连接...');
+  try {
+    const ctrl = new AbortController();
+    const timer = setTimeout(() => ctrl.abort(), 10000);
+    const res = await fetch(cfg.apiUrl, {
+      method: 'POST',
+      headers: {'Content-Type':'application/json','Authorization':'Bearer '+cfg.apiKey},
+      body: JSON.stringify({model:cfg.model,messages:[{role:'user',content:'hi'}],max_tokens:5,stream:true}),
+      signal: ctrl.signal
+    });
+    clearTimeout(timer);
+    if (res.ok) {
+      results.push('   ✅ 流式连接正常');
+    } else {
+      results.push('   ❌ 流式连接失败: ' + res.status);
+    }
+  } catch(e) {
+    results.push('   ❌ 流式连接失败: ' + e.message);
+  }
+  
+  results.push('\n当前配置:');
+  results.push('  API: ' + cfg.apiUrl);
+  results.push('  模型: ' + cfg.model);
+  results.push('  Key: ' + cfg.apiKey.slice(0,8) + '...');
+  
+  el.textContent = results.join('\n');
 }
 
 init();
