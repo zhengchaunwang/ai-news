@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html lang="zh-CN" data-theme="light">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI 资讯聚合 · 全球权威媒体精选</title>
+<style>
+:root {
+  --bg: #fafafa; --surface: #fff; --surface2: #f5f5f5;
+  --border: #ececec; --border-strong: #d4d4d4;
+  --text: #0a0a0a; --text2: #4b5563; --text3: #9ca3af;
+  --accent: #2563eb; --accent-soft: #eff6ff;
+  --cn: #ef4444; --intl: #2563eb;
+  --tag-bg: #f3f4f6;
+  --shadow: 0 1px 3px rgba(0,0,0,0.06);
+  --radius: 12px;
+}
+[data-theme="dark"] {
+  --bg: #0a0a0b; --surface: #131316; --surface2: #1a1a1d;
+  --border: #26262a; --border-strong: #38383d;
+  --text: #f5f5f5; --text2: #a1a1aa; --text3: #71717a;
+  --accent: #60a5fa; --accent-soft: #1e293b;
+  --cn: #f87171; --intl: #60a5fa;
+  --tag-bg: #26262a;
+  --shadow: 0 1px 3px rgba(0,0,0,0.4);
+}
+*{margin:0;padding:0;box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{font-family:-apple-system,'Inter','PingFang SC',sans-serif;background:var(--bg);color:var(--text);font-size:14px;line-height:1.6;-webkit-font-smoothing:antialiased}
+
+/* Nav */
+.nav{position:sticky;top:0;z-index:50;display:flex;align-items:center;gap:20px;padding:12px 24px;background:color-mix(in srgb,var(--bg) 85%,transparent);backdrop-filter:saturate(180%) blur(12px);-webkit-backdrop-filter:saturate(180%) blur(12px);border-bottom:1px solid var(--border)}
+.nav-brand{font-weight:700;font-size:16px;color:var(--accent);text-decoration:none;display:flex;align-items:center;gap:6px}
+.nav-links{display:flex;gap:16px}
+.nav-links a{color:var(--text2);text-decoration:none;font-size:13px;padding:4px 0;border-bottom:2px solid transparent;transition:.15s}
+.nav-links a:hover{color:var(--accent);border-color:var(--accent)}
+.nav-right{margin-left:auto;display:flex;align-items:center;gap:10px}
+.search-box{background:var(--surface2);border:1px solid var(--border);border-radius:8px;padding:6px 12px;font-size:13px;width:180px;outline:none;color:var(--text);transition:.2s}
+.search-box:focus{border-color:var(--accent);width:240px}
+.theme-btn{background:var(--surface2);border:1px solid var(--border);border-radius:8px;width:32px;height:32px;cursor:pointer;font-size:14px;display:flex;align-items:center;justify-content:center;transition:.2s}
+.theme-btn:hover{background:var(--border)}
+
+/* Hero */
+.hero{text-align:center;padding:48px 24px 32px;max-width:640px;margin:0 auto}
+.hero h1{font-size:28px;font-weight:800;letter-spacing:-0.5px;margin-bottom:8px;background:linear-gradient(135deg,var(--accent),#8b5cf6);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text}
+.hero p{color:var(--text2);font-size:14px;margin-bottom:16px}
+.hero-stats{display:inline-flex;gap:20px;font-size:12px;color:var(--text3)}
+.hero-stats span{display:flex;align-items:center;gap:4px}
+
+/* Date tabs */
+.date-tabs{display:flex;gap:8px;justify-content:center;padding:8px 24px 16px;flex-wrap:wrap}
+.date-tab{background:var(--surface);border:1px solid var(--border);border-radius:8px;padding:6px 14px;font-size:12px;cursor:pointer;transition:.15s;color:var(--text2);font-weight:500}
+.date-tab:hover{border-color:var(--accent);color:var(--accent)}
+.date-tab.active{background:var(--accent);color:#fff;border-color:var(--accent)}
+
+/* Container */
+.container{max-width:720px;margin:0 auto;padding:0 20px 40px}
+
+/* Filter bar */
+.filter-bar{display:flex;gap:6px;align-items:center;padding:12px 0;border-bottom:1px solid var(--border);margin-bottom:20px}
+.filter-btn{background:var(--tag-bg);border:none;border-radius:6px;padding:4px 12px;font-size:12px;cursor:pointer;color:var(--text2);font-weight:500;transition:.15s}
+.filter-btn:hover{background:var(--border)}
+.filter-btn.active{background:var(--accent);color:#fff}
+.filter-count{margin-left:auto;font-size:12px;color:var(--text3)}
+
+/* News cards */
+.news-card{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:16px;margin-bottom:12px;transition:.2s;cursor:pointer;position:relative;overflow:hidden}
+.news-card:hover{border-color:var(--accent);box-shadow:var(--shadow);transform:translateY(-1px)}
+.news-card-top{display:flex;gap:12px}
+.news-card-body{flex:1;min-width:0}
+.news-card-date{font-size:11px;color:var(--text3);margin-bottom:4px;font-weight:500}
+.news-card-title{font-size:15px;font-weight:600;line-height:1.5;margin-bottom:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.news-card-title a{color:inherit;text-decoration:none}
+.news-card-title a:hover{color:var(--accent)}
+.news-card-desc{font-size:13px;color:var(--text2);line-height:1.5;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;margin-bottom:8px}
+.news-card-meta{display:flex;gap:6px;align-items:center;flex-wrap:wrap}
+.source-badge{font-size:11px;font-weight:600;padding:2px 8px;border-radius:4px;color:#fff}
+.tag{font-size:11px;padding:2px 8px;border-radius:4px;background:var(--tag-bg);color:var(--text3);font-weight:500}
+.tag.cn{background:#fef2f2;color:var(--cn)}
+.tag.model{background:#eff6ff;color:#2563eb}
+.tag.research{background:#f0fdf4;color:#16a34a}
+.tag.business{background:#fefce8;color:#ca8a04}
+.tag.policy{background:#faf5ff;color:#9333ea}
+.news-card-img{width:100px;height:72px;border-radius:8px;object-fit:cover;flex-shrink:0;background:var(--surface2)}
+
+/* Day divider */
+.day-divider{display:flex;align-items:center;gap:12px;padding:20px 0 12px;font-size:13px;font-weight:600;color:var(--text2)}
+.day-divider::after{content:'';flex:1;height:1px;background:var(--border)}
+
+/* Sources section */
+.sources-section{max-width:720px;margin:40px auto 0;padding:0 20px 60px}
+.sources-section h2{font-size:18px;font-weight:700;margin-bottom:16px;display:flex;align-items:center;gap:8px}
+.sources-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:12px}
+.source-card{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:16px;transition:.2s}
+.source-card:hover{border-color:var(--accent);box-shadow:var(--shadow)}
+.source-card-name{font-weight:600;font-size:14px;margin-bottom:2px}
+.source-card-url{font-size:12px;color:var(--text3);margin-bottom:6px}
+.source-card-desc{font-size:12px;color:var(--text2)}
+.source-card a{font-size:12px;color:var(--accent);text-decoration:none}
+
+/* Footer */
+.footer{text-align:center;padding:32px 20px;font-size:12px;color:var(--text3);border-top:1px solid var(--border)}
+
+/* Empty state */
+.empty-state{text-align:center;padding:48px 20px;color:var(--text3)}
+.empty-state p{font-size:14px;margin-top:8px}
+
+/* Loading */
+.loading{text-align:center;padding:48px;color:var(--text3);font-size:14px}
+
+/* Responsive */
+@media(max-width:640px){
+  .nav{padding:10px 16px;gap:12px}
+  .nav-links{display:none}
+  .search-box{width:120px;font-size:12px}
+  .search-box:focus{width:160px}
+  .hero{padding:32px 16px 24px}
+  .hero h1{font-size:22px}
+  .container{padding:0 12px 32px}
+  .news-card{padding:12px}
+  .news-card-img{width:80px;height:56px}
+  .news-card-title{font-size:14px}
+  .sources-grid{grid-template-columns:1fr}
+}
+</style>
+</head>
+<body>
+
+<nav class="nav">
+  <a href="#" class="nav-brand">🤖 AI 资讯聚合</a>
+  <div class="nav-links">
+    <a href="#news">资讯</a>
+    <a href="#sources">来源</a>
+  </div>
+  <div class="nav-right">
+    <input type="text" class="search-box" id="search" placeholder="搜索资讯..." />
+    <button class="theme-btn" id="themeBtn" title="切换主题">🌙</button>
+  </div>
+</nav>
+
+<div class="hero">
+  <h1>AI 资讯聚合</h1>
+  <p>全球权威媒体精选 · 近两周 AI 要闻</p>
+  <div class="hero-stats" id="heroStats"></div>
+</div>
+
+<div class="date-tabs" id="dateTabs"></div>
+
+<div class="container" id="news">
+  <div class="filter-bar" id="filterBar">
+    <button class="filter-btn active" data-filter="all">全部</button>
+    <button class="filter-btn" data-filter="model">🧠 大模型</button>
+    <button class="filter-btn" data-filter="research">🔬 研究</button>
+    <button class="filter-btn" data-filter="business">💰 商业</button>
+    <button class="filter-btn" data-filter="policy">📜 政策</button>
+    <span class="filter-count" id="filterCount"></span>
+  </div>
+  <div id="newsList"><div class="loading">加载中...</div></div>
+</div>
+
+<div class="sources-section" id="sources">
+  <h2>🌐 权威来源</h2>
+  <div class="sources-grid" id="sourcesGrid"></div>
+</div>
+
+<div class="footer">
+  💡 数据每日自动更新 · Powered by GitHub Actions
+</div>
+
+<script>
+const TAG_MAP = {model:'🧠 大模型',research:'🔬 研究',business:'💰 商业',policy:'📜 政策',cn:'🇨🇳 国内'};
+
+let DATA = null;
+let activeFilter = 'all';
+let activeDate = null;
+let searchQuery = '';
+
+async function init() {
+  try {
+    const resp = await fetch('data.json');
+    DATA = await resp.json();
+  } catch(e) {
+    document.getElementById('newsList').innerHTML = '<div class="empty-state">⚠️ 数据加载失败，请稍后刷新</div>';
+    return;
+  }
+
+  // Theme
+  const saved = localStorage.getItem('theme');
+  if (saved) document.documentElement.dataset.theme = saved;
+  updateThemeIcon();
+
+  renderStats();
+  renderDateTabs();
+  renderSources();
+  renderNews();
+
+  // Events
+  document.querySelectorAll('.filter-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      activeFilter = btn.dataset.filter;
+      renderNews();
+    });
+  });
+
+  document.getElementById('search').addEventListener('input', e => {
+    searchQuery = e.target.value.toLowerCase();
+    renderNews();
+  });
+
+  document.getElementById('themeBtn').addEventListener('click', () => {
+    const next = document.documentElement.dataset.theme === 'dark' ? 'light' : 'dark';
+    document.documentElement.dataset.theme = next;
+    localStorage.setItem('theme', next);
+    updateThemeIcon();
+  });
+}
+
+function updateThemeIcon() {
+  const isDark = document.documentElement.dataset.theme === 'dark';
+  document.getElementById('themeBtn').textContent = isDark ? '☀️' : '🌙';
+}
+
+function renderStats() {
+  const dates = DATA.newsData.map(d => d.date);
+  const from = dates[dates.length-1] || '';
+  const to = dates[0] || '';
+  document.getElementById('heroStats').innerHTML = `
+    <span>📅 涵盖: ${from.slice(5)} - ${to.slice(5)}</span>
+    <span>📰 总计: ${DATA.totalNews} 条资讯</span>
+    <span>🕐 更新: ${DATA.updateTime}</span>
+  `;
+}
+
+function renderDateTabs() {
+  const tabs = document.getElementById('dateTabs');
+  // All tab
+  let html = `<button class="date-tab active" data-date="all">全部日期</button>`;
+  DATA.newsData.forEach(day => {
+    const wd = ['日','一','二','三','四','五','六'][new Date(day.date).getDay()];
+    html += `<button class="date-tab" data-date="${day.date}">${day.dateLabel} 周${wd}</button>`;
+  });
+  tabs.innerHTML = html;
+
+  tabs.querySelectorAll('.date-tab').forEach(tab => {
+    tab.addEventListener('click', () => {
+      tabs.querySelectorAll('.date-tab').forEach(t => t.classList.remove('active'));
+      tab.classList.add('active');
+      activeDate = tab.dataset.date === 'all' ? null : tab.dataset.date;
+      renderNews();
+    });
+  });
+}
+
+function renderSources() {
+  const grid = document.getElementById('sourcesGrid');
+  grid.innerHTML = DATA.sourcesData.map(s => `
+    <div class="source-card">
+      <div class="source-card-name">${s.name}</div>
+      <div class="source-card-url">${s.url}</div>
+      <div class="source-card-desc">${s.desc}</div>
+      <a href="${s.fullUrl}" target="_blank" rel="noopener">访问 →</a>
+    </div>
+  `).join('');
+}
+
+function filterItems() {
+  let items = [];
+  const days = activeDate ? DATA.newsData.filter(d => d.date === activeDate) : DATA.newsData;
+  for (const day of days) {
+    for (const item of day.items) {
+      if (activeFilter !== 'all' && !item.tags.includes(activeFilter)) continue;
+      if (searchQuery && !item.title.toLowerCase().includes(searchQuery) && !(item.desc||'').toLowerCase().includes(searchQuery)) continue;
+      items.push({...item, date: day.date, dateLabel: day.dateLabel});
+    }
+  }
+  return items;
+}
+
+function renderNews() {
+  const items = filterItems();
+  document.getElementById('filterCount').textContent = `${items.length} 条`;
+
+  if (!items.length) {
+    document.getElementById('newsList').innerHTML = '<div class="empty-state">🔍 没有匹配的资讯</div>';
+    return;
+  }
+
+  // Group by date
+  const grouped = {};
+  items.forEach(item => {
+    if (!grouped[item.date]) grouped[item.date] = {dateLabel: item.dateLabel, items: []};
+    grouped[item.date].items.push(item);
+  });
+
+  let html = '';
+  for (const [date, group] of Object.entries(grouped)) {
+    html += `<div class="day-divider">${group.dateLabel}</div>`;
+    for (const item of group.items) {
+      const sourceColor = item.color || '#6366f1';
+      const tagsHtml = item.tags.map(t => `<span class="tag ${t}">${TAG_MAP[t]||t}</span>`).join('');
+      const imgHtml = item.image ? `<img class="news-card-img" src="${item.image}" alt="" loading="lazy" onerror="this.style.display='none'">` : '';
+      html += `
+        <div class="news-card" onclick="window.open('${item.url}','_blank')">
+          <div class="news-card-top">
+            <div class="news-card-body">
+              <div class="news-card-title"><a href="${item.url}" target="_blank" rel="noopener">${item.title}</a></div>
+              ${item.desc ? `<div class="news-card-desc">${item.desc}</div>` : ''}
+              <div class="news-card-meta">
+                <span class="source-badge" style="background:${sourceColor}">${item.source}</span>
+                ${tagsHtml}
+              </div>
+            </div>
+            ${imgHtml}
+          </div>
+        </div>
+      `;
+    }
+  }
+
+  document.getElementById('newsList').innerHTML = html;
+}
+
+init();
+</script>
+</body>
+</html>

@@ -1,0 +1,258 @@
+{
+  "newsData": [
+    {
+      "date": "2026-05-18",
+      "dateLabel": "5月18日",
+      "id": "d18",
+      "items": [
+        {
+          "id": "02c432bafa20",
+          "title": "给4个模型各发20美元“做播客”：谁赚钱了、谁离职了？",
+          "desc": "5个月后，4个模型一共赚了几百美元，算是个还不错的成绩。",
+          "source": "36氪",
+          "date": "2026-05-18",
+          "dateLabel": "5月18日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3814536444796676",
+          "image": "https://img.36krcdn.com/hsossms/20260518/v2_81b8ac24488b4ecf8437f76aca956b6a@000000@ai_oswg356793oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "97e4a35adb58",
+          "title": "你华强哥不但回来了，还开启了「买瓜宇宙」",
+          "desc": "华强买瓜又火了，更猛烈、更持久",
+          "source": "36氪",
+          "date": "2026-05-18",
+          "dateLabel": "5月18日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3814496685776644",
+          "image": "https://img.36krcdn.com/hsossms/20260518/v2_6eed73bf7b434b1fb3c10a89e6b77d86@000000@ai_oswg341311oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "f29d19b73ad3",
+          "title": "OpenHuman刷屏硅谷，开源、免费、能接100多个应用，但我越用越后怕",
+          "desc": "OpenHuman不想做agent，它只想做OS",
+          "source": "36氪",
+          "date": "2026-05-18",
+          "dateLabel": "5月18日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3814492491440392",
+          "image": "https://img.36krcdn.com/hsossms/20260518/v2_ad0beac5440b41369dd30b08f3acd3da@6100851_oswg307789oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "f01e529a5081",
+          "title": "中国AI圈刚排好座次，资本又改规则了",
+          "desc": "中国AI大模型资本三次定价跳变，终将回归基本面。",
+          "source": "36氪",
+          "date": "2026-05-18",
+          "dateLabel": "5月18日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3814463246016521",
+          "image": "https://img.36krcdn.com/hsossms/20260518/v2_f758439cefa648a6a21a79f5d06acb2b@5888275@ai_oswg1034278oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "1f1a93f18ad9",
+          "title": "OpenAI为何造手机？苹果不给的权限，ChatGPT自己抢",
+          "desc": "AI Agent 时代的入口焦虑。",
+          "source": "36氪",
+          "date": "2026-05-18",
+          "dateLabel": "5月18日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://36kr.com/p/3813583952093184",
+          "image": "https://img.36krcdn.com/hsossms/20260518/v2_8c50435859514cda851e48d00fe86739@5888275@ai_oswg998230oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "b169db0549f7",
+          "title": "陆奇，机器人最博爱的“父亲”",
+          "desc": "错过AI六小龙的陆奇，不愿再错过机器人",
+          "source": "36氪",
+          "date": "2026-05-18",
+          "dateLabel": "5月18日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://36kr.com/p/3814528821173761",
+          "image": "https://img.36krcdn.com/hsossms/20260518/v2_b3d953728085489bbc56042649067739@000000@ai_oswg336282oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "8072d34830c1",
+          "title": "AI修图师上岗，实测用GPT修照片：5分钟出图，「用力过猛」但真能用",
+          "desc": "AI修图才是未来。",
+          "source": "36氪",
+          "date": "2026-05-18",
+          "dateLabel": "5月18日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://36kr.com/p/3814455459913989",
+          "image": "https://img.36krcdn.com/hsossms/20260518/v2_cce7d04ac1104052bc0977012afe3d5b@5888275@ai_oswg928906oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "82e39d041d26",
+          "title": "谁在教千问认“好货”？",
+          "desc": "技术换了舞台，但剧本从来都是同一部。",
+          "source": "36氪",
+          "date": "2026-05-18",
+          "dateLabel": "5月18日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3814376459559171",
+          "image": "https://img.36krcdn.com/hsossms/20260518/v2_7a782e326a7a4006b09fe4c816f7c4d6@5888275@ai_oswg1044139oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-17",
+      "dateLabel": "5月17日",
+      "id": "d17",
+      "items": [
+        {
+          "id": "390901bd499e",
+          "title": "又诞生一位千亿女富豪",
+          "desc": "又一部“打工妹”逆袭成为女富豪的爽文剧本。",
+          "source": "36氪",
+          "date": "2026-05-17",
+          "dateLabel": "5月17日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3813040859258373",
+          "image": "https://img.36krcdn.com/hsossms/20260517/v2_3fb2886a61df40f3a9a02e8a731f66d2@5579416_oswg299040oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "716fcfa15dee",
+          "title": "AI围攻菜市场：算法驱赶“烟火气”",
+          "desc": "巨头们不再是和菜贩子在脏乱差的泥地里肉搏的莽夫，它们退到了云端，在用算法编纂兵法。",
+          "source": "36氪",
+          "date": "2026-05-17",
+          "dateLabel": "5月17日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://36kr.com/p/3812960335388680",
+          "image": "https://img.36krcdn.com/hsossms/20260517/v2_af1e3dfb0d87479296093877858d5361@115245665_oswg1056837oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "58cd61cb139c",
+          "title": "3个人带100个AI程序员，一个月烧掉130万美元！OpenAI：钱我出",
+          "desc": "如果token成本不是问题，软件开发会变成什么样。",
+          "source": "36氪",
+          "date": "2026-05-17",
+          "dateLabel": "5月17日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3812925591887368",
+          "image": "https://img.36krcdn.com/hsossms/20260517/v2_caf26eb7618749e6bc8312b5b911799d@000000_oswg110709oswg1280oswg544_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "d74bf63e1cad",
+          "title": "6.4k Stars！用Claude Code写论文的全套流水线，有人打包开源了",
+          "desc": "4个skill，跑通整套科研流程",
+          "source": "36氪",
+          "date": "2026-05-17",
+          "dateLabel": "5月17日",
+          "tags": [
+            "model",
+            "research",
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3812800346742274",
+          "image": "https://img.36krcdn.com/hsossms/20260517/v2_42781cb89d3141b68703da51ed15318d@000000_oswg54247oswg898oswg381_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "b615338ba0e2",
+          "title": "年薪132万美元，黄仁勋儿女管的却不是芯片",
+          "desc": "黄仁勋子女卡位英伟达新赛道，而非核心现金牛业务。",
+          "source": "36氪",
+          "date": "2026-05-17",
+          "dateLabel": "5月17日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3811650641682697",
+          "image": "https://img.36krcdn.com/hsossms/20260517/v2_81401e698721434cb23df0615810ebc8@5579416_oswg532399oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "ba4870b6d8f2",
+          "title": "一只机器狗，把英伟达的算力王座拱翻了",
+          "desc": "人造劳动力，离普通家庭还有多远？",
+          "source": "量子位",
+          "date": "2026-05-17",
+          "dateLabel": "5月17日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/05/418969.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "905a9c6bd6dc",
+          "title": "世界大学生超级计算机竞赛首设“英才对接”环节，搭建“赛场—职场”人才供需桥梁",
+          "desc": "全球规模最大、参与人数最多的大学生超算赛事",
+          "source": "量子位",
+          "date": "2026-05-17",
+          "dateLabel": "5月17日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/05/418964.html",
+          "image": "",
+          "color": "#7c3aed"
+        }
+      ]
+    }
+  ],
+  "sourcesData": [
+    {
+      "name": "36氪 AI",
+      "url": "36kr.com",
+      "fullUrl": "https://36kr.com/information/AI",
+      "desc": "科技创新商业媒体",
+      "region": "cn"
+    },
+    {
+      "name": "量子位",
+      "url": "qbitai.com",
+      "fullUrl": "https://www.qbitai.com",
+      "desc": "关注前沿科技，专注于AI和量子计算领域",
+      "region": "cn"
+    },
+    {
+      "name": "IT之家",
+      "url": "ithome.com",
+      "fullUrl": "https://www.ithome.com/tag/AI",
+      "desc": "IT资讯门户AI频道",
+      "region": "cn"
+    }
+  ],
+  "updateTime": "2026-05-18 18:52",
+  "totalNews": 15
+}
