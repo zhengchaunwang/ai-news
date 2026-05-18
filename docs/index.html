@@ -259,7 +259,7 @@ body{font-family:-apple-system,'Inter','PingFang SC',sans-serif;background:var(-
   <label>API Key</label>
   <input type="password" id="cfgApiKey" placeholder="粘贴你的 API Key" />
   <label>模型</label>
-  <input type="text" id="cfgModel" placeholder="glm-4-flash" />
+  <input type="text" id="cfgModel" placeholder="glm-4.6v" />
   <button class="save-btn" onclick="saveSettings()">保存</button>
 </div>
 
@@ -484,8 +484,10 @@ async function generate() {
         if (data === '[DONE]') break;
         try {
           const j = JSON.parse(data);
-          const delta = j.choices?.[0]?.delta?.content || '';
-          full += delta;
+          const delta = j.choices?.[0]?.delta;
+          // 豆包模型：content 是正文，reasoning_content 是思考链（跳过）
+          const text = delta?.content || '';
+          full += text;
           document.getElementById('wsOutputArea').textContent = full;
         } catch(e) {}
       }
@@ -654,8 +656,8 @@ function renderDrafts() {
 function getSettings() {
   return {
     apiUrl: localStorage.getItem('ai_news_api_url') || 'https://open.bigmodel.cn/api/paas/v4/chat/completions',
-    apiKey: localStorage.getItem('ai_news_api_key') || '',
-    model: localStorage.getItem('ai_news_model') || 'glm-4-flash'
+    apiKey: localStorage.getItem('ai_news_api_key') || '12c90df5222d4b12bb6861aafc01384b.JiJ8v1yjIVKJFyyD',
+    model: localStorage.getItem('ai_news_model') || 'glm-4.6v'
   };
 }
 function loadSettings() {
