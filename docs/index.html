@@ -3,198 +3,299 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>AI 资讯聚合 · 全球权威媒体精选</title>
+<title>AI 资讯聚合</title>
 <style>
 :root {
   --bg: #fafafa; --surface: #fff; --surface2: #f5f5f5;
-  --border: #ececec; --border-strong: #d4d4d4;
-  --text: #0a0a0a; --text2: #4b5563; --text3: #9ca3af;
-  --accent: #2563eb; --accent-soft: #eff6ff;
-  --cn: #ef4444; --intl: #2563eb;
-  --tag-bg: #f3f4f6;
-  --shadow: 0 1px 3px rgba(0,0,0,0.06);
-  --radius: 12px;
+  --border: #e5e5e5; --border-strong: #d4d4d4;
+  --text: #111; --text2: #555; --text3: #999;
+  --accent: #2563eb; --accent-soft: #eff6ff; --accent-hover: #1d4ed8;
+  --tag-bg: #f3f4f6; --shadow: 0 1px 3px rgba(0,0,0,0.06);
+  --radius: 10px;
 }
 [data-theme="dark"] {
-  --bg: #0a0a0b; --surface: #131316; --surface2: #1a1a1d;
-  --border: #26262a; --border-strong: #38383d;
-  --text: #f5f5f5; --text2: #a1a1aa; --text3: #71717a;
-  --accent: #60a5fa; --accent-soft: #1e293b;
-  --cn: #f87171; --intl: #60a5fa;
-  --tag-bg: #26262a;
-  --shadow: 0 1px 3px rgba(0,0,0,0.4);
+  --bg: #09090b; --surface: #141417; --surface2: #1c1c1f;
+  --border: #27272a; --border-strong: #3f3f46;
+  --text: #f0f0f0; --text2: #a1a1aa; --text3: #71717a;
+  --accent: #60a5fa; --accent-soft: #172554; --accent-hover: #93bbfd;
+  --tag-bg: #27272a; --shadow: 0 1px 3px rgba(0,0,0,0.4);
 }
 *{margin:0;padding:0;box-sizing:border-box}
 html{scroll-behavior:smooth}
 body{font-family:-apple-system,'Inter','PingFang SC',sans-serif;background:var(--bg);color:var(--text);font-size:14px;line-height:1.6;-webkit-font-smoothing:antialiased}
 
-/* Nav */
-.nav{position:sticky;top:0;z-index:50;display:flex;align-items:center;gap:20px;padding:12px 24px;background:color-mix(in srgb,var(--bg) 85%,transparent);backdrop-filter:saturate(180%) blur(12px);-webkit-backdrop-filter:saturate(180%) blur(12px);border-bottom:1px solid var(--border)}
-.nav-brand{font-weight:700;font-size:16px;color:var(--accent);text-decoration:none;display:flex;align-items:center;gap:6px}
-.nav-links{display:flex;gap:16px}
-.nav-links a{color:var(--text2);text-decoration:none;font-size:13px;padding:4px 0;border-bottom:2px solid transparent;transition:.15s}
-.nav-links a:hover{color:var(--accent);border-color:var(--accent)}
-.nav-right{margin-left:auto;display:flex;align-items:center;gap:10px}
-.search-box{background:var(--surface2);border:1px solid var(--border);border-radius:8px;padding:6px 12px;font-size:13px;width:180px;outline:none;color:var(--text);transition:.2s}
-.search-box:focus{border-color:var(--accent);width:240px}
-.theme-btn{background:var(--surface2);border:1px solid var(--border);border-radius:8px;width:32px;height:32px;cursor:pointer;font-size:14px;display:flex;align-items:center;justify-content:center;transition:.2s}
-.theme-btn:hover{background:var(--border)}
+/* NAV */
+.nav{position:sticky;top:0;z-index:50;display:flex;align-items:center;gap:16px;padding:10px 24px;background:color-mix(in srgb,var(--bg) 85%,transparent);backdrop-filter:blur(12px);border-bottom:1px solid var(--border)}
+.nav-brand{font-weight:700;font-size:15px;color:var(--accent);text-decoration:none;letter-spacing:-0.3px}
+.nav-tabs{display:flex;gap:2px;background:var(--surface2);border-radius:8px;padding:2px}
+.nav-tab{padding:5px 16px;font-size:13px;font-weight:500;border:none;background:none;border-radius:6px;cursor:pointer;color:var(--text2);transition:.15s}
+.nav-tab:hover{color:var(--text)}
+.nav-tab.active{background:var(--surface);color:var(--accent);box-shadow:0 1px 2px rgba(0,0,0,0.06)}
+.nav-right{margin-left:auto;display:flex;align-items:center;gap:8px}
+.search-box{background:var(--surface2);border:1px solid var(--border);border-radius:6px;padding:5px 10px;font-size:13px;width:160px;outline:none;color:var(--text);transition:.2s}
+.search-box:focus{border-color:var(--accent);width:220px}
+.icon-btn{background:var(--surface2);border:1px solid var(--border);border-radius:6px;width:30px;height:30px;cursor:pointer;font-size:14px;display:flex;align-items:center;justify-content:center;transition:.15s;color:var(--text2)}
+.icon-btn:hover{background:var(--border);color:var(--text)}
 
-/* Hero */
-.hero{text-align:center;padding:48px 24px 32px;max-width:640px;margin:0 auto}
-.hero h1{font-size:28px;font-weight:800;letter-spacing:-0.5px;margin-bottom:8px;background:linear-gradient(135deg,var(--accent),#8b5cf6);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text}
-.hero p{color:var(--text2);font-size:14px;margin-bottom:16px}
-.hero-stats{display:inline-flex;gap:20px;font-size:12px;color:var(--text3)}
-.hero-stats span{display:flex;align-items:center;gap:4px}
+/* HERO */
+.hero{text-align:center;padding:36px 24px 16px;max-width:600px;margin:0 auto}
+.hero h1{font-size:24px;font-weight:800;letter-spacing:-0.5px;margin-bottom:4px;color:var(--text)}
+.hero p{color:var(--text3);font-size:13px}
+.hero-stats{display:flex;gap:16px;justify-content:center;margin-top:8px;font-size:12px;color:var(--text3)}
 
-/* Date tabs */
-.date-tabs{display:flex;gap:8px;justify-content:center;padding:8px 24px 16px;flex-wrap:wrap}
-.date-tab{background:var(--surface);border:1px solid var(--border);border-radius:8px;padding:6px 14px;font-size:12px;cursor:pointer;transition:.15s;color:var(--text2);font-weight:500}
-.date-tab:hover{border-color:var(--accent);color:var(--accent)}
-.date-tab.active{background:var(--accent);color:#fff;border-color:var(--accent)}
+/* CALENDAR */
+.calendar-section{max-width:720px;margin:0 auto;padding:0 20px}
+.month-block{margin-bottom:12px}
+.month-header{font-size:13px;font-weight:600;color:var(--text2);padding:4px 0;border-bottom:1px solid var(--border);margin-bottom:4px}
+.cal-grid{display:grid;grid-template-columns:repeat(7,1fr);gap:1px}
+.cal-head{text-align:center;font-size:10px;color:var(--text3);padding:2px 0;font-weight:500}
+.cal-day{text-align:center;padding:5px 2px;border-radius:5px;font-size:12px;cursor:default;transition:.12s;position:relative;color:var(--text3)}
+.cal-day.has-news{color:var(--text);font-weight:600;background:var(--surface2);cursor:pointer}
+.cal-day.has-news:hover{background:var(--accent-soft)}
+.cal-day.active{background:var(--accent)!important;color:#fff!important}
+.cal-day.today{box-shadow:inset 0 0 0 1.5px var(--accent)}
+.cal-day.empty{cursor:default}
+.cal-day .cnt{position:absolute;top:0;right:1px;font-size:7px;color:var(--accent);font-weight:700}
+.cal-day.active .cnt{color:#fff}
+.cal-footer{display:flex;align-items:center;gap:8px;padding:6px 0}
+.cal-footer .action-btn{font-size:11px;padding:3px 10px;border:1px solid var(--border);border-radius:5px;background:var(--surface);color:var(--text2);cursor:pointer}
+.cal-footer .action-btn.sel{background:var(--accent);color:#fff;border-color:var(--accent)}
 
-/* Container */
+/* FILTER */
 .container{max-width:720px;margin:0 auto;padding:0 20px 40px}
-
-/* Filter bar */
-.filter-bar{display:flex;gap:6px;align-items:center;padding:12px 0;border-bottom:1px solid var(--border);margin-bottom:20px}
-.filter-btn{background:var(--tag-bg);border:none;border-radius:6px;padding:4px 12px;font-size:12px;cursor:pointer;color:var(--text2);font-weight:500;transition:.15s}
+.filter-bar{display:flex;gap:4px;align-items:center;padding:8px 0;border-bottom:1px solid var(--border);margin-bottom:12px}
+.filter-btn{background:var(--tag-bg);border:none;border-radius:5px;padding:3px 10px;font-size:12px;cursor:pointer;color:var(--text2);font-weight:500;transition:.12s}
 .filter-btn:hover{background:var(--border)}
 .filter-btn.active{background:var(--accent);color:#fff}
 .filter-count{margin-left:auto;font-size:12px;color:var(--text3)}
 
-/* News cards */
-.news-card{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:16px;margin-bottom:12px;transition:.2s;cursor:pointer;position:relative;overflow:hidden}
-.news-card:hover{border-color:var(--accent);box-shadow:var(--shadow);transform:translateY(-1px)}
-.news-card-top{display:flex;gap:12px}
-.news-card-body{flex:1;min-width:0}
-.news-card-date{font-size:11px;color:var(--text3);margin-bottom:4px;font-weight:500}
-.news-card-title{font-size:15px;font-weight:600;line-height:1.5;margin-bottom:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+/* NEWS CARDS */
+.day-divider{display:flex;align-items:center;gap:10px;padding:14px 0 6px;font-size:13px;font-weight:600;color:var(--text2)}
+.day-divider::after{content:'';flex:1;height:1px;background:var(--border)}
+.news-card{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:12px 14px;margin-bottom:8px;transition:.12s}
+.news-card:hover{border-color:var(--accent);box-shadow:var(--shadow)}
+.news-card-title{font-size:14px;font-weight:600;line-height:1.5;margin-bottom:3px}
 .news-card-title a{color:inherit;text-decoration:none}
 .news-card-title a:hover{color:var(--accent)}
-.news-card-desc{font-size:13px;color:var(--text2);line-height:1.5;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;margin-bottom:8px}
-.news-card-meta{display:flex;gap:6px;align-items:center;flex-wrap:wrap}
-.source-badge{font-size:11px;font-weight:600;padding:2px 8px;border-radius:4px;color:#fff}
-.tag{font-size:11px;padding:2px 8px;border-radius:4px;background:var(--tag-bg);color:var(--text3);font-weight:500}
-.tag.cn{background:#fef2f2;color:var(--cn)}
-.tag.model{background:#eff6ff;color:#2563eb}
-.tag.research{background:#f0fdf4;color:#16a34a}
-.tag.business{background:#fefce8;color:#ca8a04}
-.tag.policy{background:#faf5ff;color:#9333ea}
-.news-card-img{width:100px;height:72px;border-radius:8px;object-fit:cover;flex-shrink:0;background:var(--surface2)}
+.news-card-desc{font-size:12px;color:var(--text2);line-height:1.5;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;margin-bottom:6px}
+.news-card-meta{display:flex;gap:4px;align-items:center;flex-wrap:wrap}
+.source-badge{font-size:10px;font-weight:600;padding:1px 6px;border-radius:3px;color:#fff}
+.tag{font-size:10px;padding:1px 6px;border-radius:3px;background:var(--tag-bg);color:var(--text3);font-weight:500}
+.tag.model{background:#eff6ff;color:#2563eb}.tag.research{background:#f0fdf4;color:#16a34a}
+.tag.business{background:#fefce8;color:#ca8a04}.tag.policy{background:#faf5ff;color:#9333ea}
+.tag.cn{background:#fef2f2;color:#ef4444}
+.news-card-actions{display:flex;gap:5px;margin-top:6px}
+.action-btn{font-size:11px;padding:2px 8px;border:1px solid var(--border);border-radius:5px;background:var(--surface);color:var(--text2);cursor:pointer;transition:.12s;font-weight:500;white-space:nowrap}
+.action-btn:hover{border-color:var(--accent);color:var(--accent);background:var(--accent-soft)}
+.news-card-img{float:right;width:88px;height:62px;border-radius:6px;object-fit:cover;margin-left:8px;background:var(--surface2)}
 
-/* Day divider */
-.day-divider{display:flex;align-items:center;gap:12px;padding:20px 0 12px;font-size:13px;font-weight:600;color:var(--text2)}
-.day-divider::after{content:'';flex:1;height:1px;background:var(--border)}
+/* WORKSHOP */
+.workshop{max-width:720px;margin:0 auto;padding:0 20px 60px;display:none}
+.workshop.active{display:block}
+.ws-header{display:flex;align-items:center;justify-content:space-between;padding:14px 0;border-bottom:1px solid var(--border);margin-bottom:14px;flex-wrap:wrap;gap:8px}
+.ws-header h2{font-size:17px;font-weight:700}
+.ws-type-tabs{display:flex;gap:3px;background:var(--surface2);border-radius:8px;padding:3px}
+.ws-type-tab{padding:5px 12px;font-size:12px;font-weight:500;border:none;background:none;border-radius:6px;cursor:pointer;color:var(--text2);transition:.12s}
+.ws-type-tab:hover{color:var(--text)}
+.ws-type-tab.active{background:var(--surface);color:var(--accent);box-shadow:0 1px 2px rgba(0,0,0,0.06)}
+.ws-source{background:var(--accent-soft);border:1px solid color-mix(in srgb,var(--accent) 40%,transparent);border-radius:8px;padding:10px 14px;margin-bottom:14px;display:none}
+.ws-source.show{display:block}
+.ws-source-label{font-size:11px;font-weight:600;color:var(--accent);margin-bottom:3px}
+.ws-source-title{font-size:13px;font-weight:600;color:var(--text)}
+.ws-source-desc{font-size:12px;color:var(--text2);margin-top:2px}
+.ws-source .remove-btn{margin-top:4px;font-size:11px;color:var(--accent);background:none;border:none;cursor:pointer;padding:0}
+.ws-input{margin-bottom:12px}
+.ws-input label{display:block;font-size:12px;font-weight:600;color:var(--text2);margin-bottom:3px}
+.ws-input input,.ws-input textarea{width:100%;padding:8px 10px;border:1px solid var(--border);border-radius:7px;font-size:13px;font-family:inherit;background:var(--surface);color:var(--text);outline:none;transition:.12s;resize:vertical}
+.ws-input input:focus,.ws-input textarea:focus{border-color:var(--accent)}
+.ws-input textarea{min-height:80px}
+.ws-gen-row{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.ws-gen-btn{display:inline-flex;align-items:center;gap:5px;padding:7px 18px;background:var(--accent);color:#fff;border:none;border-radius:7px;font-size:13px;font-weight:600;cursor:pointer;transition:.15s}
+.ws-gen-btn:hover{background:var(--accent-hover)}
+.ws-gen-btn:disabled{opacity:.5;cursor:not-allowed}
+.ws-hint{font-size:11px;color:var(--text3)}
+.ws-output{margin-top:18px}
+.ws-output-bar{display:flex;align-items:center;justify-content:space-between;margin-bottom:6px;flex-wrap:wrap;gap:6px}
+.ws-output-bar h3{font-size:14px;font-weight:600}
+.ws-output-btns{display:flex;gap:5px}
+.ws-output-area{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:14px;min-height:180px;font-size:13px;line-height:1.8;white-space:pre-wrap;outline:none}
+.ws-output-area:focus{border-color:var(--accent)}
 
-/* Sources section */
-.sources-section{max-width:720px;margin:40px auto 0;padding:0 20px 60px}
-.sources-section h2{font-size:18px;font-weight:700;margin-bottom:16px;display:flex;align-items:center;gap:8px}
-.sources-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:12px}
-.source-card{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:16px;transition:.2s}
-.source-card:hover{border-color:var(--accent);box-shadow:var(--shadow)}
-.source-card-name{font-weight:600;font-size:14px;margin-bottom:2px}
-.source-card-url{font-size:12px;color:var(--text3);margin-bottom:6px}
-.source-card-desc{font-size:12px;color:var(--text2)}
-.source-card a{font-size:12px;color:var(--accent);text-decoration:none}
+/* DRAFTS */
+.drafts-section{margin-top:28px;border-top:1px solid var(--border);padding-top:16px}
+.drafts-header{display:flex;align-items:center;justify-content:space-between;margin-bottom:10px}
+.drafts-header h3{font-size:14px;font-weight:600}
+.draft-item{background:var(--surface);border:1px solid var(--border);border-radius:7px;padding:8px 12px;margin-bottom:6px;display:flex;align-items:center;gap:10px;transition:.12s}
+.draft-item:hover{border-color:var(--accent)}
+.draft-item-info{flex:1;min-width:0;cursor:pointer}
+.draft-item-title{font-size:13px;font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.draft-item-meta{font-size:11px;color:var(--text3);margin-top:1px}
+.draft-item-btns{display:flex;gap:3px}
 
-/* Footer */
-.footer{text-align:center;padding:32px 20px;font-size:12px;color:var(--text3);border-top:1px solid var(--border)}
+/* SOURCES */
+.sources-section{max-width:720px;margin:20px auto 0;padding:0 20px 40px}
+.sources-section h2{font-size:16px;font-weight:700;margin-bottom:10px}
+.sources-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:8px}
+.source-card{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:10px;transition:.12s}
+.source-card:hover{border-color:var(--accent)}
+.source-card-name{font-weight:600;font-size:13px}
+.source-card-url{font-size:11px;color:var(--text3);margin:1px 0 3px}
+.source-card-desc{font-size:11px;color:var(--text2)}
+.source-card a{font-size:11px;color:var(--accent);text-decoration:none}
 
-/* Empty state */
-.empty-state{text-align:center;padding:48px 20px;color:var(--text3)}
-.empty-state p{font-size:14px;margin-top:8px}
+/* SETTINGS */
+.settings-overlay{display:none;position:fixed;inset:0;background:rgba(0,0,0,0.3);z-index:99}
+.settings-overlay.show{display:block}
+.settings-panel{display:none;position:fixed;top:0;right:0;width:320px;height:100%;background:var(--surface);border-left:1px solid var(--border);z-index:100;padding:20px;overflow-y:auto}
+.settings-panel.show{display:block}
+.settings-panel h3{font-size:15px;font-weight:700;margin-bottom:14px}
+.settings-panel label{display:block;font-size:12px;font-weight:600;color:var(--text2);margin-bottom:3px;margin-top:12px}
+.settings-panel input,.settings-panel textarea{width:100%;padding:7px 10px;border:1px solid var(--border);border-radius:6px;font-size:12px;font-family:inherit;background:var(--surface2);color:var(--text);outline:none}
+.settings-panel input:focus,.settings-panel textarea:focus{border-color:var(--accent)}
+.settings-panel .save-btn{margin-top:14px;padding:6px 16px;background:var(--accent);color:#fff;border:none;border-radius:6px;font-size:12px;cursor:pointer}
+.settings-panel .close-btn{position:absolute;top:14px;right:14px;background:none;border:none;font-size:20px;cursor:pointer;color:var(--text3)}
 
-/* Loading */
-.loading{text-align:center;padding:48px;color:var(--text3);font-size:14px}
+/* FOOTER */
+.footer{text-align:center;padding:20px;font-size:12px;color:var(--text3);border-top:1px solid var(--border)}
+.loading{text-align:center;padding:40px;color:var(--text3);font-size:13px}
+.empty-state{text-align:center;padding:36px 20px;color:var(--text3);font-size:13px}
 
-/* Responsive */
 @media(max-width:640px){
-  .nav{padding:10px 16px;gap:12px}
-  .nav-links{display:none}
-  .search-box{width:120px;font-size:12px}
-  .search-box:focus{width:160px}
-  .hero{padding:32px 16px 24px}
-  .hero h1{font-size:22px}
-  .container{padding:0 12px 32px}
-  .news-card{padding:12px}
-  .news-card-img{width:80px;height:56px}
-  .news-card-title{font-size:14px}
-  .sources-grid{grid-template-columns:1fr}
+  .nav{padding:8px 12px;gap:8px}
+  .search-box{width:100px;font-size:12px}.search-box:focus{width:140px}
+  .hero{padding:24px 14px 12px}.hero h1{font-size:20px}
+  .container,.workshop,.calendar-section,.sources-section{padding:0 12px 32px}
+  .news-card{padding:10px}.news-card-img{width:68px;height:48px}
+  .cal-day{padding:4px 1px;font-size:11px}
+  .ws-type-tabs{flex-wrap:wrap}
+  .settings-panel{width:100%}
 }
 </style>
 </head>
 <body>
 
 <nav class="nav">
-  <a href="#" class="nav-brand">🤖 AI 资讯聚合</a>
-  <div class="nav-links">
-    <a href="#news">资讯</a>
-    <a href="#sources">来源</a>
+  <a href="#" class="nav-brand" onclick="switchTab('news');return false">AI 资讯</a>
+  <div class="nav-tabs">
+    <button class="nav-tab active" onclick="switchTab('news')">资讯</button>
+    <button class="nav-tab" onclick="switchTab('workshop')">创作</button>
   </div>
   <div class="nav-right">
-    <input type="text" class="search-box" id="search" placeholder="搜索资讯..." />
-    <button class="theme-btn" id="themeBtn" title="切换主题">🌙</button>
+    <input type="text" class="search-box" id="search" placeholder="搜索..." />
+    <button class="icon-btn" id="themeBtn" onclick="toggleTheme()">&#9790;</button>
+    <button class="icon-btn" onclick="toggleSettings()">&#9881;</button>
   </div>
 </nav>
 
-<div class="hero">
-  <h1>AI 资讯聚合</h1>
-  <p>全球权威媒体精选 · 近两周 AI 要闻</p>
-  <div class="hero-stats" id="heroStats"></div>
-</div>
-
-<div class="date-tabs" id="dateTabs"></div>
-
-<div class="container" id="news">
-  <div class="filter-bar" id="filterBar">
-    <button class="filter-btn active" data-filter="all">全部</button>
-    <button class="filter-btn" data-filter="model">🧠 大模型</button>
-    <button class="filter-btn" data-filter="research">🔬 研究</button>
-    <button class="filter-btn" data-filter="business">💰 商业</button>
-    <button class="filter-btn" data-filter="policy">📜 政策</button>
-    <span class="filter-count" id="filterCount"></span>
+<div id="newsTab">
+  <div class="hero">
+    <h1>AI 资讯聚合</h1>
+    <p>权威媒体精选，每日自动更新</p>
+    <div class="hero-stats" id="heroStats"></div>
   </div>
-  <div id="newsList"><div class="loading">加载中...</div></div>
+  <div class="calendar-section" id="calendarSection"></div>
+  <div class="container" id="news">
+    <div class="filter-bar" id="filterBar">
+      <button class="filter-btn active" data-filter="all">全部</button>
+      <button class="filter-btn" data-filter="model">大模型</button>
+      <button class="filter-btn" data-filter="research">研究</button>
+      <button class="filter-btn" data-filter="business">商业</button>
+      <button class="filter-btn" data-filter="policy">政策</button>
+      <span class="filter-count" id="filterCount"></span>
+    </div>
+    <div id="newsList"><div class="loading">加载中...</div></div>
+  </div>
+  <div class="sources-section" id="sources"><h2>数据来源</h2><div class="sources-grid" id="sourcesGrid"></div></div>
 </div>
 
-<div class="sources-section" id="sources">
-  <h2>🌐 权威来源</h2>
-  <div class="sources-grid" id="sourcesGrid"></div>
+<div id="workshopTab" class="workshop">
+  <div class="ws-header">
+    <h2>创作工坊</h2>
+    <div class="ws-type-tabs">
+      <button class="ws-type-tab active" data-type="xhs" onclick="switchWSType('xhs')">小红书</button>
+      <button class="ws-type-tab" data-type="article" onclick="switchWSType('article')">公众号</button>
+      <button class="ws-type-tab" data-type="pm" onclick="switchWSType('pm')">产品经理</button>
+    </div>
+  </div>
+  <div class="ws-source" id="wsSource">
+    <div class="ws-source-label">基于资讯创作</div>
+    <div class="ws-source-title" id="wsSourceTitle"></div>
+    <div class="ws-source-desc" id="wsSourceDesc"></div>
+    <button class="remove-btn" onclick="clearSource()">移除</button>
+  </div>
+  <div class="ws-input"><label>选题 / 关键词</label><input type="text" id="wsTopic" placeholder="输入主题，或从资讯卡片点「写文案」" /></div>
+  <div class="ws-input"><label>切入角度（可选）</label><input type="text" id="wsAngle" placeholder="如：产品拆解、竞品对比、用户视角..." /></div>
+  <div class="ws-input"><label>补充要求（可选）</label><textarea id="wsExtra" rows="2" placeholder="其他想法、风格偏好等"></textarea></div>
+  <div class="ws-gen-row">
+    <button class="ws-gen-btn" id="wsGenBtn" onclick="generate()">生成</button>
+    <span class="ws-hint" id="wsHint">需在设置中配置 API Key</span>
+  </div>
+  <div class="ws-output" id="wsOutput" style="display:none">
+    <div class="ws-output-bar">
+      <h3>生成结果</h3>
+      <div class="ws-output-btns">
+        <button class="action-btn" onclick="copyOutput()">复制</button>
+        <button class="action-btn" onclick="downloadOutput()">下载</button>
+        <button class="action-btn" onclick="saveDraft()">存稿</button>
+      </div>
+    </div>
+    <div class="ws-output-area" contenteditable="true" id="wsOutputArea"></div>
+  </div>
+  <div class="drafts-section">
+    <div class="drafts-header">
+      <h3>存稿箱 <span id="draftCount"></span></h3>
+      <button class="action-btn" onclick="clearDrafts()">清空</button>
+    </div>
+    <div id="draftsList"></div>
+  </div>
 </div>
 
-<div class="footer">
-  💡 数据每日自动更新 · Powered by GitHub Actions
+<div class="settings-overlay" id="settingsOverlay" onclick="toggleSettings()"></div>
+<div class="settings-panel" id="settingsPanel">
+  <button class="close-btn" onclick="toggleSettings()">&times;</button>
+  <h3>设置</h3>
+  <label>API 地址</label>
+  <input type="text" id="cfgApiUrl" placeholder="https://open.bigmodel.cn/api/paas/v4/chat/completions" />
+  <label>API Key</label>
+  <input type="password" id="cfgApiKey" placeholder="粘贴你的 API Key" />
+  <label>模型</label>
+  <input type="text" id="cfgModel" placeholder="glm-4-flash" />
+  <button class="save-btn" onclick="saveSettings()">保存</button>
 </div>
+
+<div class="footer">数据每日自动更新 · Powered by GitHub Actions</div>
 
 <script>
-const TAG_MAP = {model:'🧠 大模型',research:'🔬 研究',business:'💰 商业',policy:'📜 政策',cn:'🇨🇳 国内'};
-
+/* ====== STATE ====== */
 let DATA = null;
 let activeFilter = 'all';
 let activeDate = null;
-let searchQuery = '';
+let currentTab = 'news';
+let wsType = 'xhs';
+let wsSourceNews = null;
+let isGenerating = false;
+const TAG_MAP = {model:'大模型',research:'研究',business:'商业',policy:'政策',cn:'国内'};
+const WEEKDAYS = ['日','一','二','三','四','五','六'];
 
+/* ====== INIT ====== */
 async function init() {
   try {
-    const resp = await fetch('data.json');
-    DATA = await resp.json();
+    const r = await fetch('data.json');
+    DATA = await r.json();
   } catch(e) {
-    document.getElementById('newsList').innerHTML = '<div class="empty-state">⚠️ 数据加载失败，请稍后刷新</div>';
+    document.getElementById('newsList').innerHTML = '<div class="empty-state">数据加载失败</div>';
     return;
   }
-
-  // Theme
   const saved = localStorage.getItem('theme');
   if (saved) document.documentElement.dataset.theme = saved;
-  updateThemeIcon();
-
+  updateThemeBtn();
+  loadSettings();
   renderStats();
-  renderDateTabs();
+  renderCalendar();
   renderSources();
   renderNews();
+  renderDrafts();
 
-  // Events
   document.querySelectorAll('.filter-btn').forEach(btn => {
     btn.addEventListener('click', () => {
       document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
@@ -203,123 +304,383 @@ async function init() {
       renderNews();
     });
   });
-
   document.getElementById('search').addEventListener('input', e => {
-    searchQuery = e.target.value.toLowerCase();
-    renderNews();
-  });
-
-  document.getElementById('themeBtn').addEventListener('click', () => {
-    const next = document.documentElement.dataset.theme === 'dark' ? 'light' : 'dark';
-    document.documentElement.dataset.theme = next;
-    localStorage.setItem('theme', next);
-    updateThemeIcon();
+    renderNews(e.target.value.toLowerCase());
   });
 }
 
-function updateThemeIcon() {
-  const isDark = document.documentElement.dataset.theme === 'dark';
-  document.getElementById('themeBtn').textContent = isDark ? '☀️' : '🌙';
+/* ====== TABS ====== */
+function switchTab(tab) {
+  currentTab = tab;
+  document.querySelectorAll('.nav-tab').forEach(t => t.classList.remove('active'));
+  event.target.classList.add('active');
+  document.getElementById('newsTab').style.display = tab === 'news' ? '' : 'none';
+  document.getElementById('workshopTab').classList.toggle('active', tab === 'workshop');
+}
+function switchWSType(type) {
+  wsType = type;
+  document.querySelectorAll('.ws-type-tab').forEach(t => t.classList.toggle('active', t.dataset.type === type));
+  const L = {xhs:{l:'选题 / 关键词',a:'切入角度（如：产品拆解、用户痛点）'},article:{l:'文章主题',a:'切入角度（如：深度分析、趋势预判）'},pm:{l:'产品 / 功能主题',a:'分析维度（如：需求分析、竞品对比）'}};
+  document.querySelector('#wsTopic').parentElement.querySelector('label').textContent = L[type].l;
+  document.querySelector('#wsAngle').parentElement.querySelector('label').textContent = L[type].a;
 }
 
+/* ====== THEME ====== */
+function toggleTheme() {
+  const next = document.documentElement.dataset.theme === 'dark' ? 'light' : 'dark';
+  document.documentElement.dataset.theme = next;
+  localStorage.setItem('theme', next);
+  updateThemeBtn();
+}
+function updateThemeBtn() {
+  document.getElementById('themeBtn').innerHTML = document.documentElement.dataset.theme === 'dark' ? '&#9728;' : '&#9790;';
+}
+
+/* ====== STATS ====== */
 function renderStats() {
-  const dates = DATA.newsData.map(d => d.date);
-  const from = dates[dates.length-1] || '';
-  const to = dates[0] || '';
-  document.getElementById('heroStats').innerHTML = `
-    <span>📅 涵盖: ${from.slice(5)} - ${to.slice(5)}</span>
-    <span>📰 总计: ${DATA.totalNews} 条资讯</span>
-    <span>🕐 更新: ${DATA.updateTime}</span>
-  `;
+  const d = DATA.newsData;
+  document.getElementById('heroStats').innerHTML = `<span>${d[d.length-1].date.slice(5)} - ${d[0].date.slice(5)}</span><span>${DATA.totalNews} 条</span><span>更新 ${DATA.updateTime}</span>`;
 }
 
-function renderDateTabs() {
-  const tabs = document.getElementById('dateTabs');
-  // All tab
-  let html = `<button class="date-tab active" data-date="all">全部日期</button>`;
+/* ====== CALENDAR ====== */
+function renderCalendar() {
+  const section = document.getElementById('calendarSection');
+  const months = {};
   DATA.newsData.forEach(day => {
-    const wd = ['日','一','二','三','四','五','六'][new Date(day.date).getDay()];
-    html += `<button class="date-tab" data-date="${day.date}">${day.dateLabel} 周${wd}</button>`;
+    const ym = day.date.slice(0,7);
+    if (!months[ym]) months[ym] = {};
+    months[ym][day.date] = day.items.length;
   });
-  tabs.innerHTML = html;
-
-  tabs.querySelectorAll('.date-tab').forEach(tab => {
-    tab.addEventListener('click', () => {
-      tabs.querySelectorAll('.date-tab').forEach(t => t.classList.remove('active'));
-      tab.classList.add('active');
-      activeDate = tab.dataset.date === 'all' ? null : tab.dataset.date;
-      renderNews();
-    });
-  });
+  const todayStr = new Date().toISOString().slice(0,10);
+  let html = '';
+  for (const ym of Object.keys(months).sort().reverse()) {
+    const [y,m] = ym.split('-').map(Number);
+    const fd = new Date(y,m-1,1).getDay();
+    const dim = new Date(y,m,0).getDate();
+    html += `<div class="month-block"><div class="month-header">${m}月</div><div class="cal-grid">`;
+    for (let i=0;i<7;i++) html += `<div class="cal-head">${WEEKDAYS[i]}</div>`;
+    for (let i=0;i<fd;i++) html += `<div class="cal-day empty"></div>`;
+    for (let d=1;d<=dim;d++) {
+      const ds = `${ym}-${String(d).padStart(2,'0')}`;
+      const c = months[ym][ds];
+      const cls = ['cal-day', c?'has-news':'', ds===todayStr?'today':'', ds===activeDate?'active':''].filter(Boolean).join(' ');
+      const cnt = c ? `<span class="cnt">${c}</span>` : '';
+      const click = c ? `onclick="selectDate('${ds}')"` : '';
+      html += `<div class="${cls}" ${click}>${d}${cnt}</div>`;
+    }
+    html += `</div></div>`;
+  }
+  html += `<div class="cal-footer"><button class="action-btn ${!activeDate?'sel':''}" onclick="activeDate=null;renderCalendar();renderNews()">全部日期</button></div>`;
+  section.innerHTML = html;
+}
+function selectDate(ds) {
+  activeDate = activeDate === ds ? null : ds;
+  renderCalendar();
+  renderNews();
 }
 
+/* ====== SOURCES ====== */
 function renderSources() {
-  const grid = document.getElementById('sourcesGrid');
-  grid.innerHTML = DATA.sourcesData.map(s => `
-    <div class="source-card">
-      <div class="source-card-name">${s.name}</div>
-      <div class="source-card-url">${s.url}</div>
-      <div class="source-card-desc">${s.desc}</div>
-      <a href="${s.fullUrl}" target="_blank" rel="noopener">访问 →</a>
-    </div>
-  `).join('');
+  document.getElementById('sourcesGrid').innerHTML = DATA.sourcesData.map(s => `
+    <div class="source-card"><div class="source-card-name">${s.name}</div><div class="source-card-url">${s.url}</div><div class="source-card-desc">${s.desc}</div><a href="${s.fullUrl}" target="_blank">访问</a></div>`).join('');
 }
 
-function filterItems() {
+/* ====== NEWS LIST ====== */
+function filterItems(q) {
   let items = [];
   const days = activeDate ? DATA.newsData.filter(d => d.date === activeDate) : DATA.newsData;
   for (const day of days) {
     for (const item of day.items) {
       if (activeFilter !== 'all' && !item.tags.includes(activeFilter)) continue;
-      if (searchQuery && !item.title.toLowerCase().includes(searchQuery) && !(item.desc||'').toLowerCase().includes(searchQuery)) continue;
+      if (q && !item.title.toLowerCase().includes(q) && !(item.desc||'').toLowerCase().includes(q)) continue;
       items.push({...item, date: day.date, dateLabel: day.dateLabel});
     }
   }
   return items;
 }
-
-function renderNews() {
-  const items = filterItems();
-  document.getElementById('filterCount').textContent = `${items.length} 条`;
-
-  if (!items.length) {
-    document.getElementById('newsList').innerHTML = '<div class="empty-state">🔍 没有匹配的资讯</div>';
-    return;
-  }
-
-  // Group by date
+function renderNews(q) {
+  const items = filterItems(q || '');
+  document.getElementById('filterCount').textContent = items.length + ' 条';
+  if (!items.length) { document.getElementById('newsList').innerHTML = '<div class="empty-state">没有匹配的资讯</div>'; return; }
   const grouped = {};
-  items.forEach(item => {
-    if (!grouped[item.date]) grouped[item.date] = {dateLabel: item.dateLabel, items: []};
-    grouped[item.date].items.push(item);
-  });
-
+  items.forEach(it => { if (!grouped[it.date]) grouped[it.date] = {dateLabel:it.dateLabel,items:[]}; grouped[it.date].items.push(it); });
   let html = '';
-  for (const [date, group] of Object.entries(grouped)) {
-    html += `<div class="day-divider">${group.dateLabel}</div>`;
-    for (const item of group.items) {
-      const sourceColor = item.color || '#6366f1';
-      const tagsHtml = item.tags.map(t => `<span class="tag ${t}">${TAG_MAP[t]||t}</span>`).join('');
-      const imgHtml = item.image ? `<img class="news-card-img" src="${item.image}" alt="" loading="lazy" onerror="this.style.display='none'">` : '';
-      html += `
-        <div class="news-card" onclick="window.open('${item.url}','_blank')">
-          <div class="news-card-top">
-            <div class="news-card-body">
-              <div class="news-card-title"><a href="${item.url}" target="_blank" rel="noopener">${item.title}</a></div>
-              ${item.desc ? `<div class="news-card-desc">${item.desc}</div>` : ''}
-              <div class="news-card-meta">
-                <span class="source-badge" style="background:${sourceColor}">${item.source}</span>
-                ${tagsHtml}
-              </div>
-            </div>
-            ${imgHtml}
-          </div>
+  for (const [date, g] of Object.entries(grouped)) {
+    html += `<div class="day-divider">${g.dateLabel}</div>`;
+    for (const it of g.items) {
+      const tags = it.tags.map(t => `<span class="tag ${t}">${TAG_MAP[t]||t}</span>`).join('');
+      const img = it.image ? `<img class="news-card-img" src="${it.image}" alt="" loading="lazy" onerror="this.remove()">` : '';
+      html += `<div class="news-card">
+        ${img}
+        <div class="news-card-title"><a href="${it.url}" target="_blank" rel="noopener">${it.title}</a></div>
+        ${it.desc ? `<div class="news-card-desc">${it.desc}</div>` : ''}
+        <div class="news-card-meta"><span class="source-badge" style="background:${it.color||'#6366f1'}">${it.source}</span>${tags}</div>
+        <div class="news-card-actions">
+          <button class="action-btn" onclick="writeFromNews(this)" data-title="${encodeURIComponent(it.title)}" data-desc="${encodeURIComponent(it.desc||'')}" data-source="${encodeURIComponent(it.source)}" data-url="${encodeURIComponent(it.url)}">写文案</button>
+          <button class="action-btn" onclick="window.open('${it.url}','_blank')">阅读原文</button>
         </div>
-      `;
+      </div>`;
     }
   }
-
   document.getElementById('newsList').innerHTML = html;
+}
+
+/* ====== WRITE FROM NEWS ====== */
+function writeFromNews(btn) {
+  const d = btn.dataset;
+  wsSourceNews = {title:decodeURIComponent(d.title),desc:decodeURIComponent(d.desc),source:decodeURIComponent(d.source),url:decodeURIComponent(d.url)};
+  document.getElementById('wsSourceTitle').textContent = wsSourceNews.title;
+  document.getElementById('wsSourceDesc').textContent = wsSourceNews.source + ' · ' + wsSourceNews.desc.slice(0,80);
+  document.getElementById('wsSource').classList.add('show');
+  document.getElementById('wsTopic').value = wsSourceNews.title;
+  switchTab('workshop');
+  // Trigger tab switch manually
+  document.querySelectorAll('.nav-tab').forEach(t => t.classList.remove('active'));
+  document.querySelectorAll('.nav-tab')[1].classList.add('active');
+  document.getElementById('newsTab').style.display = 'none';
+  document.getElementById('workshopTab').classList.add('active');
+}
+function clearSource() {
+  wsSourceNews = null;
+  document.getElementById('wsSource').classList.remove('show');
+  document.getElementById('wsTopic').value = '';
+}
+
+/* ====== GENERATE ====== */
+async function generate() {
+  if (isGenerating) return;
+  const cfg = getSettings();
+  if (!cfg.apiKey) { alert('请先在设置中配置 API Key'); toggleSettings(); return; }
+  const topic = document.getElementById('wsTopic').value.trim();
+  if (!topic) { alert('请输入选题'); return; }
+  const angle = document.getElementById('wsAngle').value.trim();
+  const extra = document.getElementById('wsExtra').value.trim();
+
+  const prompt = buildPrompt(wsType, topic, angle, extra, wsSourceNews);
+  isGenerating = true;
+  const btn = document.getElementById('wsGenBtn');
+  btn.disabled = true;
+  btn.textContent = '生成中...';
+  document.getElementById('wsOutput').style.display = 'block';
+  document.getElementById('wsOutputArea').textContent = '';
+
+  try {
+    const res = await fetch(cfg.apiUrl, {
+      method: 'POST',
+      headers: {'Content-Type':'application/json','Authorization':'Bearer '+cfg.apiKey},
+      body: JSON.stringify({model:cfg.model,messages:[{role:'user',content:prompt}],stream:true})
+    });
+    if (!res.ok) throw new Error(`API ${res.status}: ${await res.text().catch(()=>'')}`);
+    const reader = res.body.getReader();
+    const decoder = new TextDecoder();
+    let full = '';
+    while (true) {
+      const {done,value} = await reader.read();
+      if (done) break;
+      const chunk = decoder.decode(value,{stream:true});
+      for (const line of chunk.split('\n')) {
+        if (!line.startsWith('data:')) continue;
+        const data = line.slice(5).trim();
+        if (data === '[DONE]') break;
+        try {
+          const j = JSON.parse(data);
+          const delta = j.choices?.[0]?.delta?.content || '';
+          full += delta;
+          document.getElementById('wsOutputArea').textContent = full;
+        } catch(e) {}
+      }
+    }
+    if (!full) throw new Error('API 返回为空');
+  } catch(e) {
+    // Fallback: non-streaming
+    try {
+      const res2 = await fetch(cfg.apiUrl, {
+        method:'POST',
+        headers:{'Content-Type':'application/json','Authorization':'Bearer '+cfg.apiKey},
+        body:JSON.stringify({model:cfg.model,messages:[{role:'user',content:prompt}]})
+      });
+      const j = await res2.json();
+      const text = j.choices?.[0]?.message?.content || '生成失败，请检查 API 配置';
+      document.getElementById('wsOutputArea').textContent = text;
+    } catch(e2) {
+      document.getElementById('wsOutputArea').textContent = '生成失败: ' + e.message;
+    }
+  }
+  isGenerating = false;
+  btn.disabled = false;
+  btn.textContent = '生成';
+}
+
+function buildPrompt(type, topic, angle, extra, source) {
+  const sourceCtx = source ? `\n\n【参考资讯】\n标题：${source.title}\n来源：${source.source}\n摘要：${source.desc}\n链接：${source.url}` : '';
+  const angleCtx = angle ? `\n\n【切入角度】${angle}` : '';
+  const extraCtx = extra ? `\n\n【补充要求】${extra}` : '';
+
+  if (type === 'xhs') return `你是一位小红书博主，账号定位是"用产品经理视角，把AI趣闻讲透"。
+
+核心人设：
+- 语气像朋友聊天，不是老师上课
+- 自称"我"，称呼读者"你们"
+- 专业术语第一次出现必须用大白话解释
+- 禁忌：说教感、跪舔感、标题党但正文空洞、贩卖焦虑
+
+请根据以下信息写一篇小红书文案：
+
+【选题】${topic}${sourceCtx}${angleCtx}${extraCtx}
+
+格式要求：
+1. 标题：20字以内，用数字+好奇心缺口结构
+2. 正文结构：钩子(1-2句) → 趣闻/现象 → 产品经理视角拆解(占40%) → 对普通人的影响 → 互动收尾
+3. 每段不超过3行，总字数300-600字
+4. 结尾必须有1个具体问题引导评论
+5. 3-5个话题标签（1大流量+2垂直+1-2长尾）
+6. emoji适中，不用emoji开头
+
+请直接输出文案，不要加任何前缀说明。`;
+
+  if (type === 'article') return `你是一位资深科技媒体撰稿人，擅长写公众号推文。
+
+请根据以下信息写一篇公众号推文：
+
+【主题】${topic}${sourceCtx}${angleCtx}${extraCtx}
+
+格式要求：
+1. 标题：吸引点击但不标题党，25字以内
+2. 开头：用场景或问题引入，3-5行
+3. 正文：深度分析，结构清晰，用小标题分段，1500-2500字
+4. 结尾：总结核心观点 + 引发思考
+5. 语气专业但不端着，逻辑严密
+6. 关键信息加粗，适当使用引用块
+
+请直接输出文章，不要加任何前缀说明。`;
+
+  // pm type
+  return `你是一位AI产品经理，要在"人人都是产品经理"平台发表专业文章。
+
+请根据以下信息写一篇产品经理视角的分析文章：
+
+【主题】${topic}${sourceCtx}${angleCtx}${extraCtx}
+
+格式要求：
+1. 标题：产品视角 + 具体主题，25字以内
+2. 开头：用产品问题引入（用户痛点/需求场景）
+3. 正文结构：
+   - 需求分析：为什么存在这个需求
+   - 产品拆解：核心功能/交互/技术架构分析
+   - 竞品对比（如适用）：差异化在哪
+   - 商业模式：怎么赚钱，天花板在哪
+   - 未来趋势：下一步会怎么演进
+4. 1500-3000字，专业严谨
+5. 有数据支撑观点，没有数据则标注"据观察"
+6. 结尾给出产品经理视角的判断和建议
+
+请直接输出文章，不要加任何前缀说明。`;
+}
+
+/* ====== OUTPUT ACTIONS ====== */
+function copyOutput() {
+  const text = document.getElementById('wsOutputArea').textContent;
+  navigator.clipboard.writeText(text).then(() => { alert('已复制到剪贴板'); });
+}
+function downloadOutput() {
+  const text = document.getElementById('wsOutputArea').textContent;
+  const typeNames = {xhs:'小红书文案',article:'公众号推文',pm:'产品经理文章'};
+  const topic = document.getElementById('wsTopic').value.trim() || '草稿';
+  const blob = new Blob([text], {type:'text/markdown'});
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = `[${typeNames[wsType]}]${topic}.md`;
+  a.click();
+}
+
+/* ====== DRAFTS ====== */
+function getDrafts() { try { return JSON.parse(localStorage.getItem('ai_news_drafts')||'[]'); } catch { return []; } }
+function saveDraft() {
+  const drafts = getDrafts();
+  const text = document.getElementById('wsOutputArea').textContent;
+  if (!text.trim()) return;
+  const typeNames = {xhs:'小红书',article:'公众号',pm:'产品经理'};
+  drafts.unshift({
+    id: Date.now(),
+    type: wsType,
+    typeLabel: typeNames[wsType],
+    topic: document.getElementById('wsTopic').value.trim(),
+    content: text,
+    time: new Date().toLocaleString('zh-CN')
+  });
+  localStorage.setItem('ai_news_drafts', JSON.stringify(drafts));
+  renderDrafts();
+  alert('已存稿');
+}
+function loadDraft(id) {
+  const drafts = getDrafts();
+  const d = drafts.find(x => x.id === id);
+  if (!d) return;
+  switchWSType(d.type);
+  document.getElementById('wsTopic').value = d.topic || '';
+  document.getElementById('wsOutputArea').textContent = d.content;
+  document.getElementById('wsOutput').style.display = 'block';
+}
+function deleteDraft(id) {
+  let drafts = getDrafts();
+  drafts = drafts.filter(x => x.id !== id);
+  localStorage.setItem('ai_news_drafts', JSON.stringify(drafts));
+  renderDrafts();
+}
+function clearDrafts() {
+  if (!confirm('确定清空所有存稿？')) return;
+  localStorage.removeItem('ai_news_drafts');
+  renderDrafts();
+}
+function renderDrafts() {
+  const drafts = getDrafts();
+  const el = document.getElementById('draftsList');
+  document.getElementById('draftCount').textContent = drafts.length ? `(${drafts.length})` : '';
+  if (!drafts.length) { el.innerHTML = '<div class="empty-state" style="padding:16px">暂无存稿</div>'; return; }
+  el.innerHTML = drafts.map(d => `
+    <div class="draft-item">
+      <div class="draft-item-info" onclick="loadDraft(${d.id})">
+        <div class="draft-item-title">[${d.typeLabel}] ${d.topic||'无标题'}</div>
+        <div class="draft-item-meta">${d.time}</div>
+      </div>
+      <div class="draft-item-btns">
+        <button class="action-btn" onclick="loadDraft(${d.id})">打开</button>
+        <button class="action-btn" onclick="deleteDraft(${d.id})">删除</button>
+      </div>
+    </div>`).join('');
+}
+
+/* ====== SETTINGS ====== */
+function getSettings() {
+  return {
+    apiUrl: localStorage.getItem('ai_news_api_url') || 'https://open.bigmodel.cn/api/paas/v4/chat/completions',
+    apiKey: localStorage.getItem('ai_news_api_key') || '',
+    model: localStorage.getItem('ai_news_model') || 'glm-4-flash'
+  };
+}
+function loadSettings() {
+  const s = getSettings();
+  document.getElementById('cfgApiUrl').value = s.apiUrl;
+  document.getElementById('cfgApiKey').value = s.apiKey;
+  document.getElementById('cfgModel').value = s.model;
+  updateHint();
+}
+function saveSettings() {
+  localStorage.setItem('ai_news_api_url', document.getElementById('cfgApiUrl').value.trim());
+  localStorage.setItem('ai_news_api_key', document.getElementById('cfgApiKey').value.trim());
+  localStorage.setItem('ai_news_model', document.getElementById('cfgModel').value.trim());
+  toggleSettings();
+  updateHint();
+}
+function updateHint() {
+  const s = getSettings();
+  document.getElementById('wsHint').textContent = s.apiKey ? `模型: ${s.model}` : '需在设置中配置 API Key';
+}
+function toggleSettings() {
+  const p = document.getElementById('settingsPanel');
+  const o = document.getElementById('settingsOverlay');
+  p.classList.toggle('show');
+  o.classList.toggle('show');
 }
 
 init();
