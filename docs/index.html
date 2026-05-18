@@ -259,7 +259,7 @@ body{font-family:-apple-system,'Inter','PingFang SC',sans-serif;background:var(-
   <label>API Key</label>
   <input type="password" id="cfgApiKey" placeholder="粘贴你的 API Key" />
   <label>模型</label>
-  <input type="text" id="cfgModel" placeholder="glm-4.6v" />
+  <input type="text" id="cfgModel" placeholder="glm-4-flash" />
   <button class="save-btn" onclick="saveSettings()">保存</button>
 </div>
 
@@ -474,6 +474,7 @@ async function generate() {
     const reader = res.body.getReader();
     const decoder = new TextDecoder();
     let full = '';
+    let hasReasoning = false;
     while (true) {
       const {done,value} = await reader.read();
       if (done) break;
@@ -485,10 +486,20 @@ async function generate() {
         try {
           const j = JSON.parse(data);
           const delta = j.choices?.[0]?.delta;
-          // 豆包模型：content 是正文，reasoning_content 是思考链（跳过）
+          // 思考模型：reasoning_content 是思考链，content 是正文
+          if (delta?.reasoning_content && !full) {
+            hasReasoning = true;
+            document.getElementById('wsOutputArea').textContent = '🤔 模型思考中...';
+          }
           const text = delta?.content || '';
-          full += text;
-          document.getElementById('wsOutputArea').textContent = full;
+          if (text) {
+            if (hasReasoning && !full) {
+              // 正文开始，清除思考提示
+              hasReasoning = false;
+            }
+            full += text;
+            document.getElementById('wsOutputArea').textContent = full;
+          }
         } catch(e) {}
       }
     }
@@ -654,10 +665,15 @@ function renderDrafts() {
 
 /* ====== SETTINGS ====== */
 function getSettings() {
+  // 自动修复旧版思考模型（思考时间过长导致"生成失败"）
+  const savedModel = localStorage.getItem('ai_news_model');
+  if (savedModel === 'glm-4.6v' || savedModel === 'glm-4-plus') {
+    localStorage.removeItem('ai_news_model');
+  }
   return {
     apiUrl: localStorage.getItem('ai_news_api_url') || 'https://open.bigmodel.cn/api/paas/v4/chat/completions',
     apiKey: localStorage.getItem('ai_news_api_key') || '12c90df5222d4b12bb6861aafc01384b.JiJ8v1yjIVKJFyyD',
-    model: localStorage.getItem('ai_news_model') || 'glm-4.6v'
+    model: localStorage.getItem('ai_news_model') || 'glm-4-flash'
   };
 }
 function loadSettings() {
