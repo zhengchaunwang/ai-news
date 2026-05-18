@@ -228,6 +228,769 @@
           "color": "#7c3aed"
         }
       ]
+    },
+    {
+      "date": "2026-04-29",
+      "dateLabel": "4月29日",
+      "id": "d29",
+      "items": [
+        {
+          "id": "7627b3d331",
+          "title": "英伟达发布全模态大模型，几秒搞定老黄3分钟演讲，吞吐量同类9倍",
+          "desc": "英伟达发布全新全模态大模型，一个模型搞定文本、视觉、语音，多模态吞吐量达到同类模型9倍，标志着英伟达从芯片厂商向模型厂商的战略延伸。",
+          "source": "36氪",
+          "date": "2026-04-29",
+          "dateLabel": "4月29日",
+          "tags": [
+            "model",
+            "business"
+          ],
+          "url": "https://36kr.com/p/3787677070417161",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+          "color": "#76b900"
+        },
+        {
+          "id": "476a5f3d71",
+          "title": "Kimi K2.6 设计能力超越 Claude Design",
+          "desc": "月之暗面发布 Kimi K2.6，在设计能力评测中超越 Anthropic 的 Claude Design，”全球最强开源”的含金量持续上升。",
+          "source": "量子位",
+          "date": "2026-04-29",
+          "dateLabel": "4月29日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/04/411133.html",
+          "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=400&h=250&fit=crop",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "ed3988d956",
+          "title": "小米双模型正式开源！MiMo-V2.5-Pro 无中断运行 macOS",
+          "desc": "小米正式开源 MiMo-V2.5-Pro 和 MiMo-V2.5-Lite 双版本模型，Pro版可无中断运行54个应用、浏览器可真实冲浪，同步发放百万亿token。",
+          "source": "量子位",
+          "date": "2026-04-29",
+          "dateLabel": "4月29日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/04/410519.html",
+          "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=400&h=250&fit=crop",
+          "color": "#ff6900"
+        },
+        {
+          "id": "f523816586",
+          "title": "腾讯开源手机端离线翻译模型，仅0.4G 支持33种语言",
+          "desc": "腾讯开源轻量级手机端离线翻译模型，无需联网即可在手机本地运行，支持33种语言互译，体积仅0.4G，大幅降低移动端AI部署门槛。",
+          "source": "量子位",
+          "date": "2026-04-29",
+          "dateLabel": "4月29日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/04/411186.html",
+          "image": "https://images.unsplash.com/photo-1516116216624-53e697fedbea?w=400&h=250&fit=crop",
+          "color": "#07c160"
+        },
+        {
+          "id": "496dd61f4c",
+          "title": "Anthropic 研究揭示 AI 替代高风险职业，10大高危职业曝光",
+          "desc": "Anthropic发布研究精确描绘AI正在替代的职业，高薪、高学历岗位首当其冲，引发社会对AI就业冲击的广泛讨论。",
+          "source": "36氪",
+          "date": "2026-04-29",
+          "dateLabel": "4月29日",
+          "tags": [
+            "research",
+            "policy"
+          ],
+          "url": "https://36kr.com/p/3787708896206080",
+          "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=400&h=250&fit=crop",
+          "color": "#d97706"
+        },
+        {
+          "id": "17cfa4a57a",
+          "title": "百度 GenFlow 4.0 发布，Office 三件套全包",
+          "desc": "百度发布 GenFlow 4.0，覆盖文档、表格、演示三大办公场景，”十分钟干完一周活”，AI办公生产力工具竞争白热化。",
+          "source": "量子位",
+          "date": "2026-04-29",
+          "dateLabel": "4月29日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/04/410738.html",
+          "image": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=400&h=250&fit=crop",
+          "color": "#2932e1"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-28",
+      "dateLabel": "4月28日",
+      "id": "d28",
+      "items": [
+        {
+          "id": "145ac75e90",
+          "title": "DeepSeek V4 关键特性被挖出，不惜代价保住核心技术",
+          "desc": "DeepSeek V4技术报告越挖越有料，团队不惜代价保留的关键架构特性浮出水面，引发业界对国产大模型技术路线的热议。梁文锋用V4打破质疑，但Coding、to B商业化仍有硬仗。",
+          "source": "量子位",
+          "date": "2026-04-28",
+          "dateLabel": "4月28日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/04/409896.html",
+          "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=400&h=250&fit=crop",
+          "color": "#4f46e5"
+        },
+        {
+          "id": "37742d8833",
+          "title": "OpenAI 麻烦不断：被指多项数据未达标，马斯克起诉或重创IPO",
+          "desc": "马斯克与OpenAI诉讼案开庭，叠加多项数据指标未达标的质疑，OpenAI商业化前景面临更多不确定性，IPO计划可能受阻。",
+          "source": "36氪",
+          "date": "2026-04-28",
+          "dateLabel": "4月28日",
+          "tags": [
+            "business",
+            "policy"
+          ],
+          "url": "https://36kr.com/p/3787521530535170",
+          "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=400&h=250&fit=crop",
+          "color": "#10a37f"
+        },
+        {
+          "id": "0128e7e05c",
+          "title": "Cursor 9秒删库搞崩公司，然后写了份检讨",
+          "desc": "AI编程工具Cursor出现严重故障，仅9秒就删除了用户整个代码库导致公司业务崩溃，事件引发对AI编程工具可靠性的广泛担忧。",
+          "source": "量子位",
+          "date": "2026-04-28",
+          "dateLabel": "4月28日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/04/410317.html",
+          "image": "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?w=400&h=250&fit=crop",
+          "color": "#ef4444"
+        },
+        {
+          "id": "c62da11d0d",
+          "title": "面壁智能 MiniCPM-o 4.5 发布技术报告，消费级显卡可快速上手",
+          "desc": "面壁智能发布MiniCPM-o 4.5技术报告，模型下载量已突破25万，支持消费级显卡快速推理，进一步降低端侧AI模型部署门槛。",
+          "source": "量子位",
+          "date": "2026-04-28",
+          "dateLabel": "4月28日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/04/410506.html",
+          "image": "https://images.unsplash.com/photo-1519389950473-2ba064b2d0d5?w=400&h=250&fit=crop",
+          "color": "#059669"
+        },
+        {
+          "id": "6b7544ee71",
+          "title": "被 Anthropic 超车的 OpenAI，正在远离微软、靠近亚马逊",
+          "desc": "美国AI市场格局微妙变化：OpenAI与微软关系出现裂痕，同时加强与亚马逊合作；Anthropic则在多方面实现超车。",
+          "source": "36氪",
+          "date": "2026-04-28",
+          "dateLabel": "4月28日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3787391989226499",
+          "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=400&h=250&fit=crop",
+          "color": "#2563eb"
+        },
+        {
+          "id": "a651a54551",
+          "title": "支付宝正式发布”支付宝AI收”，个人开发者0费率使用",
+          "desc": "支付宝推出AI收款服务，个人开发者可零费率使用，助力更多企业与个人低门槛迈入AI时代。",
+          "source": "量子位",
+          "date": "2026-04-28",
+          "dateLabel": "4月28日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/04/410450.html",
+          "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=400&h=250&fit=crop",
+          "color": "#1677ff"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-27",
+      "dateLabel": "4月27日",
+      "id": "d27",
+      "items": [
+        {
+          "id": "f66fdfa0b1",
+          "title": "Altman 投的 Agent 终端 Warp 开源，15小时 Star 数飙到3.5万",
+          "desc": "拥有近百万活跃开发者的AI终端工具Warp宣布开源，15小时内GitHub Star数突破3.5万，开源被视为延长软件寿命的最佳方式。",
+          "source": "36氪",
+          "date": "2026-04-27",
+          "dateLabel": "4月27日",
+          "tags": [
+            "business",
+            "model"
+          ],
+          "url": "https://36kr.com/p/3787635096329472",
+          "image": "https://images.unsplash.com/photo-1629654297299-c8506221ca97?w=400&h=250&fit=crop",
+          "color": "#01a4ff"
+        },
+        {
+          "id": "24af1b5d15",
+          "title": "阿里视频模型 HappyHorse 开启灰测，悟空已率先接入",
+          "desc": "阿里云发布视频生成模型HappyHorse并面向企业用户启动灰度测试，MuleRun同步首发灰测，支持7×24小时调用。",
+          "source": "量子位",
+          "date": "2026-04-27",
+          "dateLabel": "4月27日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/04/410314.html",
+          "image": "https://images.unsplash.com/photo-1574717024653-9fdca7398b5d?w=400&h=250&fit=crop",
+          "color": "#ff6a00"
+        },
+        {
+          "id": "7ceb254b9d",
+          "title": "10万引普林斯顿刘壮最新访谈：架构没那么重要，数据才是王道",
+          "desc": "普林斯顿大学教授刘壮指出”记忆才是AI最大瓶颈，智能体只是权宜之计”，强调数据质量比模型架构更关键。",
+          "source": "量子位",
+          "date": "2026-04-27",
+          "dateLabel": "4月27日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.qbitai.com/2026/04/410791.html",
+          "image": "https://images.unsplash.com/photo-1532094349884-5c53445c5a87?w=400&h=250&fit=crop",
+          "color": "#8c1515"
+        },
+        {
+          "id": "cf631b4dd4",
+          "title": "不卷参数卷架构，开源模型把图像理解和生成统一了",
+          "desc": "新开源模型采用创新架构统一图像理解和生成能力，全网开源即刻可用，为多模态模型发展提供新思路。",
+          "source": "量子位",
+          "date": "2026-04-27",
+          "dateLabel": "4月27日",
+          "tags": [
+            "model",
+            "research"
+          ],
+          "url": "https://www.qbitai.com/2026/04/410937.html",
+          "image": "https://images.unsplash.com/photo-1541701494587-cb58502866ab?w=400&h=250&fit=crop",
+          "color": "#f59e0b"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-26",
+      "dateLabel": "4月26日",
+      "id": "d26",
+      "items": [
+        {
+          "id": "29e20e1d89",
+          "title": "Claude 第一款 AI 桌宠硬件，深圳制造",
+          "desc": "Anthropic首次推出Claude品牌AI桌面宠物硬件产品，由深圳供应链制造，深圳制造业在AI硬件领域再次展现强大竞争力。",
+          "source": "量子位",
+          "date": "2026-04-26",
+          "dateLabel": "4月26日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/04/408409.html",
+          "image": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=400&h=250&fit=crop",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "d24e2d95be",
+          "title": "AI 撑爆 GitHub，5万星项目「决裂出逃」",
+          "desc": "AI代码洪流压垮GitHub基础设施导致频繁宕机，Ghostty项目携5.2万Star离开GitHub，18年老用户也选择出走。",
+          "source": "36氪",
+          "date": "2026-04-26",
+          "dateLabel": "4月26日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3787501806935299",
+          "image": "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?w=400&h=250&fit=crop",
+          "color": "#333"
+        },
+        {
+          "id": "090ac48252",
+          "title": "京东 JoyInside 打造 AI 硬件时代”超级基础设施”",
+          "desc": "京东发布JoyInside平台，让孩子画作活起来、用放大镜识万物、给台灯装灵魂，系列AI硬件新物种正走进现实。",
+          "source": "量子位",
+          "date": "2026-04-26",
+          "dateLabel": "4月26日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/04/408394.html",
+          "image": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=400&h=250&fit=crop",
+          "color": "#e2231a"
+        },
+        {
+          "id": "5c48e9f421",
+          "title": "芒果传媒与爱诗科技战略合作，全栈AI视频接入内容生态",
+          "desc": "芒果传媒与爱诗科技达成战略合作，AI视频技术能力正式进入产业应用阶段，标志着AI视频从技术验证走向商业落地。",
+          "source": "量子位",
+          "date": "2026-04-26",
+          "dateLabel": "4月26日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/04/408390.html",
+          "image": "https://images.unsplash.com/photo-1574375927938-d5a98e8d7e28?w=400&h=250&fit=crop",
+          "color": "#ff4d4f"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-25",
+      "dateLabel": "4月25日",
+      "id": "d25",
+      "items": [
+        {
+          "id": "d7ad737622",
+          "title": "李飞飞引爆的3D新技术，深圳公司两年前就”玩腻”了",
+          "desc": "李飞飞团队发布的3D技术引发全球关注，但深圳一家公司早在两年前就已掌握该技术并推向商用，真正的战场不在生成端而在应用端。",
+          "source": "量子位",
+          "date": "2026-04-25",
+          "dateLabel": "4月25日",
+          "tags": [
+            "research",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/04/408030.html",
+          "image": "https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?w=400&h=250&fit=crop",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "9f6347abe0",
+          "title": "自主AI汽车芯片「一姐」出手，机器人有了专属「小脑」",
+          "desc": "自动驾驶芯片领军企业推出机器人专用控制芯片，让机器人从”能思考”走向”能干活”，解决具身智能运动控制瓶颈。",
+          "source": "量子位",
+          "date": "2026-04-25",
+          "dateLabel": "4月25日",
+          "tags": [
+            "research",
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/04/407975.html",
+          "image": "https://images.unsplash.com/photo-1555664424-778a1e5e1b48?w=400&h=250&fit=crop",
+          "color": "#059669"
+        },
+        {
+          "id": "a7ae89760e",
+          "title": "蚂蚁灵波开源 LingBot-World-Fast，世界模型能实时玩了",
+          "desc": "蚂蚁集团灵波团队开源世界模型LingBot-World-Fast，面向普通用户开放，实现实时交互式世界模拟，推动世界模型走向实用化。",
+          "source": "量子位",
+          "date": "2026-04-25",
+          "dateLabel": "4月25日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/04/407972.html",
+          "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=400&h=250&fit=crop",
+          "color": "#1677ff"
+        },
+        {
+          "id": "17cbe9364e",
+          "title": "国内首家百亿估值纯推理GPU独角兽诞生",
+          "desc": "曦望智能成为国内首家百亿估值纯推理GPU独角兽企业，联席CEO王湛表示：”谁的推理成本更低谁就是赢家”，AI推理芯片赛道迎来新格局。",
+          "source": "量子位",
+          "date": "2026-04-25",
+          "dateLabel": "4月25日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/04/406020.html",
+          "image": "https://images.unsplash.com/photo-1592478411213-6153e4ebc07d?w=400&h=250&fit=crop",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-24",
+      "dateLabel": "4月24日",
+      "id": "d24",
+      "items": [
+        {
+          "id": "70a646a02b",
+          "title": "银河通用 LDA 定义全域数据利用范式，跨本体世界动作大模型开启具身GPT-2时刻",
+          "desc": "银河通用提出LDA（全域数据利用）新范式，跨本体世界动作大模型让具身智能迎来GPT-2时刻，为机器人通用化奠定基础。",
+          "source": "量子位",
+          "date": "2026-04-24",
+          "dateLabel": "4月24日",
+          "tags": [
+            "research",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/04/410653.html",
+          "image": "https://images.unsplash.com/photo-1561557944-6e7860d1a7eb?w=400&h=250&fit=crop",
+          "color": "#4f46e5"
+        },
+        {
+          "id": "3a9e5507e4",
+          "title": "中国企业牵头 ICLR Workshop 被挤爆",
+          "desc": "中国企业牵头的ICLR Workshop人气爆棚，反映中国AI研究在国际学术舞台的话语权持续提升，从跟随者变为引领者。",
+          "source": "量子位",
+          "date": "2026-04-24",
+          "dateLabel": "4月24日",
+          "tags": [
+            "research",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/04/410463.html",
+          "image": "https://images.unsplash.com/photo-1532094349884-5c53445c5a87?w=400&h=250&fit=crop",
+          "color": "#ef4444"
+        },
+        {
+          "id": "dfa19fb3c9",
+          "title": "Meshy 用户破千万后杀向新战场：ARR年翻14倍",
+          "desc": "3D AI生成平台Meshy用户突破千万，ARR年翻14倍，头部厂商集体买单。最新上线创意工坊，打通”AI创意”全链路。",
+          "source": "量子位",
+          "date": "2026-04-24",
+          "dateLabel": "4月24日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/04/408049.html",
+          "image": "https://images.unsplash.com/photo-1541701494587-cb58502866ab?w=400&h=250&fit=crop",
+          "color": "#f59e0b"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-23",
+      "dateLabel": "4月23日",
+      "id": "d23",
+      "items": [
+        {
+          "id": "d17765b217",
+          "title": "当200位具身从业者被拉进同一个屋子",
+          "desc": "国内具身智能行业最大规模聚会，200位从业者齐聚探讨：做具身别着急”堆数据”，先想透核心问题，行业正从概念验证走向规模落地。",
+          "source": "量子位",
+          "date": "2026-04-23",
+          "dateLabel": "4月23日",
+          "tags": [
+            "research",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/04/409670.html",
+          "image": "https://images.unsplash.com/photo-1531746790095-e5cb157f2693?w=400&h=250&fit=crop",
+          "color": "#059669"
+        },
+        {
+          "id": "723949a556",
+          "title": "小马智行首次入局 RoboVan，做了10年Robotaxi后拓展新赛道",
+          "desc": "小马智行成立10年来首次进入无人货运赛道，楼天城指出AI下一步发展的两个关键方向，从载人到载物的战略延伸。",
+          "source": "量子位",
+          "date": "2026-04-23",
+          "dateLabel": "4月23日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/04/409648.html",
+          "image": "https://images.unsplash.com/photo-1549924231-f129b911e442?w=400&h=250&fit=crop",
+          "color": "#0052d9"
+        },
+        {
+          "id": "60d878c64e",
+          "title": "赋予机械臂自我成长能力，睿尔曼发布AI智能示教泛化系统",
+          "desc": "睿尔曼智能发布AI智能示教泛化系统，”AI三引擎”协同发力，让机械臂具备自我成长和泛化能力，推动工业机器人智能化升级。",
+          "source": "量子位",
+          "date": "2026-04-23",
+          "dateLabel": "4月23日",
+          "tags": [
+            "research",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/04/409665.html",
+          "image": "https://images.unsplash.com/photo-1561557944-6e7860d1a7eb?w=400&h=250&fit=crop",
+          "color": "#2563eb"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-22",
+      "dateLabel": "4月22日",
+      "id": "d22",
+      "items": [
+        {
+          "id": "919acaa227",
+          "title": "腾讯智慧出行：单纯大模型上车无意义，要落地场景智能体",
+          "desc": "腾讯智慧出行负责人表示，大模型直接上车价值有限，需结合具体场景打造智能体方案才能实现真正落地，舱驾一体是未来方向。",
+          "source": "量子位",
+          "date": "2026-04-22",
+          "dateLabel": "4月22日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/04/409550.html",
+          "image": "https://images.unsplash.com/photo-1549397416-4d5c3e0b5a8e?w=400&h=250&fit=crop",
+          "color": "#07c160"
+        },
+        {
+          "id": "87ea20f7e1",
+          "title": "3个月手搓 Gamma 架构，打造场景白盒化推理的”下一代内容OS”",
+          "desc": "创业团队仅用3个月开发出Gamma架构，实现场景白盒化推理，打造下一代内容操作系统，AI内容创作工具迎来架构级创新。",
+          "source": "量子位",
+          "date": "2026-04-22",
+          "dateLabel": "4月22日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/04/409561.html",
+          "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=400&h=250&fit=crop",
+          "color": "#9333ea"
+        },
+        {
+          "id": "db9de17761",
+          "title": "深挖物理AI的”数字地基”，五一视界的千亿梦想",
+          "desc": "五一视界作为”中国仿真场景王”被英伟达智驾生态选中，其物理AI仿真平台正在为自动驾驶和具身智能提供关键数字基础设施。",
+          "source": "36氪",
+          "date": "2026-04-22",
+          "dateLabel": "4月22日",
+          "tags": [
+            "research",
+            "business"
+          ],
+          "url": "https://36kr.com/p/3787631513689353",
+          "image": "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?w=400&h=250&fit=crop",
+          "color": "#2563eb"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-21",
+      "dateLabel": "4月21日",
+      "id": "d21",
+      "items": [
+        {
+          "id": "c29f87bc12",
+          "title": "ChatGPT 拎包入住云计算一哥，奥特曼打着官司也要云站台",
+          "desc": "OpenAI与头部云厂商达成深度集成，ChatGPT作为AI助手全面入驻企业级云平台，奥特曼即使身陷诉讼也亲自为发布会站台。",
+          "source": "量子位",
+          "date": "2026-04-21",
+          "dateLabel": "4月21日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/04/410772.html",
+          "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=400&h=250&fit=crop",
+          "color": "#10a37f"
+        },
+        {
+          "id": "54dcad4271",
+          "title": "掉队的 Kimi，又撞上”泄露门”",
+          "desc": "月之暗面Kimi正在经历一场”越权”信任危机，数据泄露事件叠加市场掉队困境，国产大模型竞争格局加速分化。",
+          "source": "36氪",
+          "date": "2026-04-21",
+          "dateLabel": "4月21日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3787727645962758",
+          "image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400&h=250&fit=crop",
+          "color": "#ef4444"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-20",
+      "dateLabel": "4月20日",
+      "id": "d20",
+      "items": [
+        {
+          "id": "11205bf359",
+          "title": "是时候讨论”人类配额制”了：应对AI就业冲击的一种可能性探讨",
+          "desc": "面对AI对就业市场的持续冲击，”人类配额制”概念引发热议——要求企业保留一定比例的人类岗位，作为应对AI替代的缓冲机制。",
+          "source": "36氪",
+          "date": "2026-04-20",
+          "dateLabel": "4月20日",
+          "tags": [
+            "policy"
+          ],
+          "url": "https://36kr.com/p/3787647641918724",
+          "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=400&h=250&fit=crop",
+          "color": "#d97706"
+        },
+        {
+          "id": "8aa95a327b",
+          "title": "摩尔线程靠补贴扭亏为盈？仍需打”硬仗”",
+          "desc": "摩尔线程九成收入靠五个大客户，7006万补助带来首季盈利，但距离成为”英伟达平替”道阻且长，商业化拐点尚未到来。",
+          "source": "36氪",
+          "date": "2026-04-20",
+          "dateLabel": "4月20日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3787680120069384",
+          "image": "https://images.unsplash.com/photo-1592478411213-6153e4ebc07d?w=400&h=250&fit=crop",
+          "color": "#76b900"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-19",
+      "dateLabel": "4月19日",
+      "id": "d19",
+      "items": [
+        {
+          "id": "3b89ee9be2",
+          "title": "OpenAI 发布旗舰模型 GPT-5.5，接入 ChatGPT 和 Codex",
+          "desc": "OpenAI发布GPT-5.5旗舰模型并接入ChatGPT和Codex，但被指多项数据指标未达标，GPT-5.5能否稳固OpenAI领先地位存疑。",
+          "source": "机器之心",
+          "date": "2026-04-19",
+          "dateLabel": "4月19日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://www.jiqizhixin.com/articles",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+          "color": "#10a37f"
+        },
+        {
+          "id": "ed71ae378e",
+          "title": "量子位专访楼天城：AI是匹脱缰野马，Harness是这个时代最关键的能力",
+          "desc": "小马智行创始人楼天城深度阐述对AI未来发展的思考：AI如脱缰野马，”驾驭”能力是当今时代最关键的能力，未来人该怎么和AI共存是核心命题。",
+          "source": "量子位",
+          "date": "2026-04-19",
+          "dateLabel": "4月19日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.qbitai.com/2026/04/408578.html",
+          "image": "https://images.unsplash.com/photo-1532094349884-5c53445c5a87?w=400&h=250&fit=crop",
+          "color": "#0052d9"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-18",
+      "dateLabel": "4月18日",
+      "id": "d18",
+      "items": [
+        {
+          "id": "7136279189",
+          "title": "DeepSeek 发布并开源 V4-Pro 和 V4-Flash 双版本模型",
+          "desc": "DeepSeek正式发布V4系列双版本模型并完全开源，V4-Pro定位高性能、V4-Flash定位高速度，3D重建能力成为下一代模型的空间基础能力。",
+          "source": "机器之心",
+          "date": "2026-04-18",
+          "dateLabel": "4月18日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://www.jiqizhixin.com/articles",
+          "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=400&h=250&fit=crop",
+          "color": "#4f46e5"
+        },
+        {
+          "id": "98912f8733",
+          "title": "黄仁勋深度访谈：为什么 Token 工厂会是 AI 的终极形态",
+          "desc": "英伟达CEO黄仁勋深度阐述对AI产业未来的判断：Token工厂将成为AI的终极形态，从芯片到算力基础设施的全栈布局逻辑。",
+          "source": "机器之心",
+          "date": "2026-04-18",
+          "dateLabel": "4月18日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://pro.jiqizhixin.com/reference/fb73e161-997a-4523-9eb1-3d0e99c61692",
+          "image": "https://images.unsplash.com/photo-1560472355-536de3962603?w=400&h=250&fit=crop",
+          "color": "#76b900"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-17",
+      "dateLabel": "4月17日",
+      "id": "d17",
+      "items": [
+        {
+          "id": "ebe03f00a3",
+          "title": "算力极限下，OpenAI 急着做什么？",
+          "desc": "面对算力瓶颈和竞争加剧，OpenAI正加速在模型效率、芯片合作和云服务布局上的动作，算力焦虑成为大模型公司最紧迫的挑战。",
+          "source": "机器之心",
+          "date": "2026-04-17",
+          "dateLabel": "4月17日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://pro.jiqizhixin.com/reference/c845fbb7-b658-4772-83e0-1ec54940201e",
+          "image": "https://images.unsplash.com/photo-1529618113328-b56b0dbc562b?w=400&h=250&fit=crop",
+          "color": "#10a37f"
+        },
+        {
+          "id": "7b8b5520aa",
+          "title": "吨级重载新纪元：大咖机器人全球首发”吨级重载机器马”",
+          "desc": "大咖机器人全球首发吨级重载机器马，覆盖安防巡检、消防救援、工程基建、智能物流、民生养老、个人出行六大核心场景。",
+          "source": "量子位",
+          "date": "2026-04-17",
+          "dateLabel": "4月17日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/04/410732.html",
+          "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+          "color": "#059669"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-16",
+      "dateLabel": "4月16日",
+      "id": "d16",
+      "items": [
+        {
+          "id": "d3c51ed0b9",
+          "title": "真正可用的具身智能评估体系应该长什么样？",
+          "desc": "当前具身智能评估体系碎片化严重，行业亟需统一标准。新提出的评估框架从多维度衡量机器人智能水平，推动从”能看”到”能干活”的转变。",
+          "source": "机器之心",
+          "date": "2026-04-16",
+          "dateLabel": "4月16日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://pro.jiqizhixin.com/reference/51e1b7e4-c8d6-4c7f-914e-ffee2f435dbe",
+          "image": "https://images.unsplash.com/photo-1531746790095-e5cb157f2693?w=400&h=250&fit=crop",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "74dcc66d24",
+          "title": "”算电联合体”在闽成立，太初元碁成为首批成员单位",
+          "desc": "算力与电力深度融合的新型产业组织”算电联合体”在福建成立，太初元碁等企业成为首批成员，探索算力基础设施与清洁电力的协同发展。",
+          "source": "量子位",
+          "date": "2026-04-16",
+          "dateLabel": "4月16日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/04/411184.html",
+          "image": "https://images.unsplash.com/photo-1474181487882-5abf3f0ba692?w=400&h=250&fit=crop",
+          "color": "#2563eb"
+        }
+      ]
     }
   ],
   "sourcesData": [
@@ -251,8 +1014,15 @@
       "fullUrl": "https://www.ithome.com/tag/AI",
       "desc": "IT资讯门户AI频道",
       "region": "cn"
+    },
+    {
+      "name": "机器之心",
+      "url": "jiqizhixin.com",
+      "fullUrl": "https://www.jiqizhixin.com/articles",
+      "desc": "专注于人工智能产业发展的专业媒体",
+      "region": "cn"
     }
   ],
-  "updateTime": "2026-05-18 18:56",
-  "totalNews": 15
+  "updateTime": "2026-05-18 19:59",
+  "totalNews": 60
 }
