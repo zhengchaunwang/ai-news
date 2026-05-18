@@ -18,7 +18,7 @@ import feedparser
 # === 配置 ===
 OUTPUT_DIR = Path(__file__).parent.parent / "docs"
 OUTPUT_JSON = OUTPUT_DIR / "data.json"
-DAYS_TO_KEEP = 14
+DAYS_TO_KEEP = 33
 USER_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 HEADERS = {"User-Agent": USER_AGENT}
 
