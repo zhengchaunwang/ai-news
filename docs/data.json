@@ -1,125 +1,251 @@
 {
   "newsData": [
     {
+      "date": "2026-05-20",
+      "dateLabel": "5月20日",
+      "id": "d20",
+      "items": [
+        {
+          "id": "f0d2bbe4d795",
+          "title": "Coding的本质=强化学习+合成数据+万卡算力？",
+          "desc": "来自Composer 2.5的讯号",
+          "source": "36氪",
+          "date": "2026-05-20",
+          "dateLabel": "5月20日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3817098575421446",
+          "image": "https://img.36krcdn.com/hsossms/20260520/v2_da8bddfcb2ff44f7b7d2e7ad13300b43@000000_oswg37075oswg1280oswg545_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "c57e47b6a909",
+          "title": "最高奖励800万，海南押注AI一人公司，我们如何搭上这趟车？",
+          "desc": "海南推AI一人公司新政，给创业者红利，邀超级个体入局。",
+          "source": "36氪",
+          "date": "2026-05-20",
+          "dateLabel": "5月20日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3817001988989184",
+          "image": "https://img.36krcdn.com/hsossms/20260520/v2_ebe363e4501b4c1a88273800cfe7009c@1743780481@ai_oswg906161oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "f9baf76bbac5",
+          "title": "扛不住了，人形机器人企业批量倒闭",
+          "desc": "竞争不过中国公司、融不到钱，欧美机器人迎来倒闭潮。",
+          "source": "36氪",
+          "date": "2026-05-20",
+          "dateLabel": "5月20日",
+          "tags": [
+            "research",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3817070473184128",
+          "image": "https://img.36krcdn.com/hsossms/20260520/v2_2fd454b8fcf6437ca9293b66e4838dc3@1743780481@ai_oswg1032017oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "acc81e71bd3a",
+          "title": "把服务器沉到海底，这事儿是认真的",
+          "desc": "全球首个海风直连海底数据中心投用，海上算力新探索。",
+          "source": "36氪",
+          "date": "2026-05-20",
+          "dateLabel": "5月20日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3817051665875840",
+          "image": "https://img.36krcdn.com/hsossms/20260520/v2_24c977fc24b546d99db34dde64e7d724@1743780481@ai_oswg1016074oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "acb61099d1a0",
+          "title": "雷军旗下两大资本投资，00后哈工大“天才少年”融资数千万美元",
+          "desc": "顺为领投、小米追投！",
+          "source": "36氪",
+          "date": "2026-05-20",
+          "dateLabel": "5月20日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3817074971870084",
+          "image": "https://img.36krcdn.com/hsossms/20260520/v2_90f0fc4799524ee0bc7d9a5bf50357a1@1743780481@ai_oswg1028051oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "843b91aa81cd",
+          "title": "英特尔一年五倍，CPU快和GPU一样重要了？",
+          "desc": "还有“美积电”的叙事",
+          "source": "36氪",
+          "date": "2026-05-20",
+          "dateLabel": "5月20日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3817078482092929",
+          "image": "https://img.36krcdn.com/hsossms/20260520/v2_f01e3923c70f43fab29fc7c433a145d4@1743780481@ai_oswg1040258oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "4a0d929f1555",
+          "title": "“苏妈”上海行：Agent时代CPU不够用了",
+          "desc": "苏姿丰称AI进入Agent时代，CPU GPU配比将向1:1靠拢",
+          "source": "36氪",
+          "date": "2026-05-20",
+          "dateLabel": "5月20日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3817047045407874",
+          "image": "https://img.36krcdn.com/hsossms/20260520/v2_5471f1d29244450e9c3000d6f99069a1@1743780481@ai_oswg1097502oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "0aa4070d1656",
+          "title": "千亿估值，百亿亏损，投资人为何还排队抢份额？",
+          "desc": "单轮融资百亿起跳，AI大模型进入资本疯抢时刻。",
+          "source": "36氪",
+          "date": "2026-05-20",
+          "dateLabel": "5月20日",
+          "tags": [
+            "model",
+            "business"
+          ],
+          "url": "https://36kr.com/p/3816286668342409",
+          "image": "https://img.36krcdn.com/hsossms/20260519/v2_64144c1859bb41a6a13bf4fb83fc5946@000000@ai_oswg251726oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        }
+      ]
+    },
+    {
       "date": "2026-05-19",
       "dateLabel": "5月19日",
       "id": "d19",
       "items": [
         {
-          "id": "556ae4dc6bf4",
-          "title": "不“跟风”的天津机器人，用实干走出新路",
-          "desc": "天津机器人产业以实干谋未来",
+          "id": "5a1ab8ebc443",
+          "title": "Google I/O全盘点：两大新模型上线，音频眼镜登台，Gemini接管一切",
+          "desc": "明年改叫 Gemini I/O 算了。",
           "source": "36氪",
           "date": "2026-05-19",
           "dateLabel": "5月19日",
           "tags": [
+            "model",
+            "business"
+          ],
+          "url": "https://36kr.com/p/3816765912883200",
+          "image": "https://img.36krcdn.com/hsossms/20260520/v2_4a2b978a0509433fa8b31cc3fbb850fb@1743780481@ai_oswg1096979oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "38c528c35760",
+          "title": "谷歌用 AI“杀死”谷歌，这场发布会看得人缺氧",
+          "desc": "新的 Gemini 3.5、Agent 产品、视频模型都来了",
+          "source": "36氪",
+          "date": "2026-05-19",
+          "dateLabel": "5月19日",
+          "tags": [
+            "model",
+            "business"
+          ],
+          "url": "https://36kr.com/p/3816839373456520",
+          "image": "https://img.36krcdn.com/hsossms/20260520/v2_4fb68f2f561540d79e91ac85ad690e28@000000_oswg68355oswg1200oswg511_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "74bf7f9448e6",
+          "title": "富足的腾讯与饥饿的百度：BT的AI远虑近忧",
+          "desc": "手握场景者迟疑，手握技术者泣血。",
+          "source": "36氪",
+          "date": "2026-05-19",
+          "dateLabel": "5月19日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3816141172171016",
+          "image": "https://img.36krcdn.com/hsossms/20260519/v2_d939998eaab84ce6918d6144a0a24433@5888275@ai_oswg1063658oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "715a6dfbe7ed",
+          "title": "demo越惊艳的机器人公司，死得越快？",
+          "desc": "开源模型+过拟合=估值十亿的机器人?",
+          "source": "36氪",
+          "date": "2026-05-19",
+          "dateLabel": "5月19日",
+          "tags": [
+            "model",
+            "research",
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3816101079408649",
+          "image": "https://img.36krcdn.com/hsossms/20260519/v2_08b86bdd7e2b445bbd92c709f5e15b60@5888275@ai_oswg1080004oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "81b59d79ba19",
+          "title": "VLA已死，WAM当立：机器人的GPT时刻到了吗？",
+          "desc": "关于VLA的讣告可能发得太早了",
+          "source": "36氪",
+          "date": "2026-05-19",
+          "dateLabel": "5月19日",
+          "tags": [
+            "model",
             "research"
           ],
-          "url": "https://36kr.com/p/3815519162523138",
-          "image": "https://img.36krcdn.com/hsossms/20260519/v2_89b217a82e634cc2bebb6edaa0269754@000000@ai_oswg302105oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3816130162040579",
+          "image": "https://img.36krcdn.com/hsossms/20260519/v2_4dd4d68d0e7a410ca46f00af03601aee@5888275@ai_oswg1057357oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "2a04d3d605a7",
-          "title": "当「龙虾」走进编辑部，媒体工作流如何被AI重构？",
-          "desc": "当传播大脑的“灵思超级助手”部署在腾讯云ClawPro上，传统媒体工作流真正迎来了从“串行流水线”到“并行智能体”的效率重构。",
+          "id": "68d4b8bed4ca",
+          "title": "太意外，教皇和Anthropic创始人，要联袂开发布会",
+          "desc": "AI 时代，人何以为人？",
           "source": "36氪",
           "date": "2026-05-19",
           "dateLabel": "5月19日",
           "tags": [
-            "model",
-            "cn"
+            "business"
           ],
-          "url": "https://36kr.com/p/3815772025691909",
-          "image": "https://img.36krcdn.com/hsossms/20260519/v2_66b737af5a514ce3b198a79a5925d89f@000000_oswg43874oswg900oswg383_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "url": "https://36kr.com/p/3816133295087108",
+          "image": "https://img.36krcdn.com/hsossms/20260519/v2_33b51c370ca44669b77d7f9423731cfd@5888275@ai_oswg996315oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "ab962f578e43",
-          "title": "股价暴涨2300%，靠AI猛吸金的妖股，反手骂大模型都是“泔水”",
-          "desc": "今年以来，Palantir股价已累计下跌近20%。",
+          "id": "6eeccccdd452",
+          "title": "中国品牌，突然的全球化",
+          "desc": "AI正在重写中国品牌全球化的底层代码",
           "source": "36氪",
           "date": "2026-05-19",
           "dateLabel": "5月19日",
           "tags": [
-            "model"
-          ],
-          "url": "https://36kr.com/p/3814944512450052",
-          "image": "https://img.36krcdn.com/hsossms/20260519/v2_3a21e38bab774bfa8f8afec018ac16aa@1743780481@ai_oswg933339oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "3d8fdd5708b7",
-          "title": "唐杰的上联， 姚顺雨的下联",
-          "desc": "腾讯发布开源模型插件，专为解决模型记忆问题而生",
-          "source": "36氪",
-          "date": "2026-05-19",
-          "dateLabel": "5月19日",
-          "tags": [
-            "model",
             "business",
             "cn"
           ],
-          "url": "https://36kr.com/p/3815599953027328",
-          "image": "https://img.36krcdn.com/hsossms/20260519/v2_a0b49a79a64c4518afc2a618aef1df49@1743780481@ai_oswg1103313oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3816153566191106",
+          "image": "https://img.36krcdn.com/hsossms/20260519/v2_c6607188df13487788c35a44d2115ad1@5888275@ai_oswg1064266oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "d1db78a5ff71",
-          "title": "人与AI恋爱的“罪与罚”",
-          "desc": "虚拟伴侣，已经从“陪聊”走到“陪睡”。",
+          "id": "fd48eda1080b",
+          "title": "英特尔反攻 MacBook Neo",
+          "desc": "把旗舰制程下放到入门产品上，英特尔这是想开了？",
           "source": "36氪",
           "date": "2026-05-19",
           "dateLabel": "5月19日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3814835684761858",
-          "image": "https://img.36krcdn.com/hsossms/20260518/v2_87ad837757a540ada571ca206f6a98a0@1743780481@ai_oswg976707oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "d04688e24347",
-          "title": "AI行业集体告别“Token崇拜”",
-          "desc": "黄仁勋“造Token”，无招“效法自然”，李彦宏“数战果”",
-          "source": "36氪",
-          "date": "2026-05-19",
-          "dateLabel": "5月19日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3815589615657216",
-          "image": "https://img.36krcdn.com/hsossms/20260519/v2_db6e0a0137ed4c08a1d95de05d2d886f@1743780481@ai_oswg1017441oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "baf7cbdb88bd",
-          "title": "大厂HR：AI时代，我们招什么人？",
-          "desc": "简历上写“会用AI”，已经过时了。",
-          "source": "36氪",
-          "date": "2026-05-19",
-          "dateLabel": "5月19日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3815497925205507",
-          "image": "https://img.36krcdn.com/hsossms/20260519/v2_7c0113991ac544c3a10a400a0d9e6677@000000@ai_oswg292300oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "e0dee8e0a74e",
-          "title": "不换 Kimi 底座，1/10 成本追平 Opus 4.7？Cursor 用 Composer 2.5 反击 Claude Code",
-          "desc": "AI编程工具Cursor发布Composer 2.5，强化长任务能力降本竞争。",
-          "source": "36氪",
-          "date": "2026-05-19",
-          "dateLabel": "5月19日",
-          "tags": [
-            "model",
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3815548495142404",
-          "image": "https://img.36krcdn.com/hsossms/20260519/v2_27a6bed1fb45418b98dfb92250829ed0@000000@ai_oswg315315oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3816053075549700",
+          "image": "https://img.36krcdn.com/hsossms/20260519/v2_c6d91d7673f0477eb060e3d433530f30@5888275@ai_oswg972725oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         }
       ]
@@ -130,117 +256,18 @@
       "id": "d18",
       "items": [
         {
-          "id": "ee6c45aca013",
-          "title": "杨立昆的一个转推，宣布Meta AI“已死”",
-          "desc": "自研人才流失，投资也没成果",
-          "source": "36氪",
+          "id": "e8b60aaea747",
+          "title": "重塑主流PC，第三代英特尔酷睿开启全民AI轻薄本时代",
+          "desc": "芯片与系统级双重创新",
+          "source": "量子位",
           "date": "2026-05-18",
           "dateLabel": "5月18日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3814757216919809",
-          "image": "https://img.36krcdn.com/hsossms/20260518/v2_4cba062a3c7c4a308e8e7ed688e97e85@1743780481@ai_oswg910999oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "5ce408ce02fe",
-          "title": "9.9元起，三大运营商杀入Token生意，以后用AI就像交话费？",
-          "desc": "三大运营商齐推Token套餐。",
-          "source": "36氪",
-          "date": "2026-05-18",
-          "dateLabel": "5月18日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3814774715506436",
-          "image": "https://img.36krcdn.com/hsossms/20260518/v2_4e5740f841044d8f95d0dfa09a6893d7@000000@ai_oswg425698oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "9b6d745856f9",
-          "title": "今年戛纳，台上大骂“Fuck AI”",
-          "desc": "台下忙着赚 AI 的钱。",
-          "source": "36氪",
-          "date": "2026-05-18",
-          "dateLabel": "5月18日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3814755221856003",
-          "image": "https://img.36krcdn.com/hsossms/20260518/v2_09732e9b8e0549a4ac2f11ebfc2c5178@000000@ai_oswg237176oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "0850ae100fb0",
-          "title": "AI进入「结果交付时代」，百度率先跨过造血门槛",
-          "desc": "“芯云模体”构筑壁垒，DAA锚定价值，百度领跑AI下半场。",
-          "source": "36氪",
-          "date": "2026-05-18",
-          "dateLabel": "5月18日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3814847324200707",
-          "image": "https://img.36krcdn.com/hsossms/20260518/v2_edd8157e2f8c40f5bd0aec7aeb777d87@39566_oswg59280oswg600oswg400_img_jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "ed1358ada8ca",
-          "title": "全球首个全民免费用ChatGPT Plus的国家，OpenAI官宣了",
-          "desc": "一场大型社会实验。",
-          "source": "36氪",
-          "date": "2026-05-18",
-          "dateLabel": "5月18日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://36kr.com/p/3814704284475143",
-          "image": "https://img.36krcdn.com/hsossms/20260518/v2_cfb67f8d4a584bb296a12f381cc1270e@5888275@ai_oswg1021415oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "39d6befe6e5e",
-          "title": "跟着英伟达买，才是AI时代最“暴利”的赚钱策略",
-          "desc": "英伟达比伯克希尔更懂AI投资！",
-          "source": "36氪",
-          "date": "2026-05-18",
-          "dateLabel": "5月18日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3814702837571329",
-          "image": "https://img.36krcdn.com/hsossms/20260518/v2_4bb61861fa104f1eae2c1697ca968551@5888275@ai_oswg1067331oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "13704a437f4a",
-          "title": "Claude杀入华尔街，10个智能体接入Office全家桶，爆改分析师桌面",
-          "desc": "Anthropic闯入的是一片红海",
-          "source": "36氪",
-          "date": "2026-05-18",
-          "dateLabel": "5月18日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://36kr.com/p/3814703947701767",
-          "image": "https://img.36krcdn.com/hsossms/20260518/v2_381ae11f45ba4eba9adbc5e1abb66ff5@5888275@ai_oswg971613oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "47a747f12ca7",
-          "title": "抖快红B上最火的AI博主，在赚钱了吗？",
-          "desc": "AI博主的生存姿态。",
-          "source": "36氪",
-          "date": "2026-05-18",
-          "dateLabel": "5月18日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3814685114195721",
-          "image": "https://img.36krcdn.com/hsossms/20260518/v2_7ed8536b4ec94d67830128a299d77011@5888275@ai_oswg998273oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
+          "url": "https://www.qbitai.com/2026/05/419585.html",
+          "image": "",
+          "color": "#7c3aed"
         }
       ]
     },
@@ -1078,42 +1105,6 @@
           "color": "#059669"
         }
       ]
-    },
-    {
-      "date": "2026-04-16",
-      "dateLabel": "4月16日",
-      "id": "d16",
-      "items": [
-        {
-          "id": "d3c51ed0b9",
-          "title": "真正可用的具身智能评估体系应该长什么样？",
-          "desc": "当前具身智能评估体系碎片化严重，行业亟需统一标准。新提出的评估框架从多维度衡量机器人智能水平，推动从”能看”到”能干活”的转变。",
-          "source": "机器之心",
-          "date": "2026-04-16",
-          "dateLabel": "4月16日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://pro.jiqizhixin.com/reference/51e1b7e4-c8d6-4c7f-914e-ffee2f435dbe",
-          "image": "https://images.unsplash.com/photo-1531746790095-e5cb157f2693?w=400&h=250&fit=crop",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "74dcc66d24",
-          "title": "”算电联合体”在闽成立，太初元碁成为首批成员单位",
-          "desc": "算力与电力深度融合的新型产业组织”算电联合体”在福建成立，太初元碁等企业成为首批成员，探索算力基础设施与清洁电力的协同发展。",
-          "source": "量子位",
-          "date": "2026-04-16",
-          "dateLabel": "4月16日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/04/411184.html",
-          "image": "https://images.unsplash.com/photo-1474181487882-5abf3f0ba692?w=400&h=250&fit=crop",
-          "color": "#2563eb"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -1139,6 +1130,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-05-19 14:07",
-  "totalNews": 68
+  "updateTime": "2026-05-20 14:06",
+  "totalNews": 67
 }
