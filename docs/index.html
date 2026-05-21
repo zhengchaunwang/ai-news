@@ -255,11 +255,11 @@ body{font-family:-apple-system,'Inter','PingFang SC',sans-serif;background:var(-
   <button class="close-btn" onclick="toggleSettings()">&times;</button>
   <h3>设置</h3>
   <label>API 地址</label>
-  <input type="text" id="cfgApiUrl" placeholder="https://open.bigmodel.cn/api/paas/v4/chat/completions" />
+  <input type="text" id="cfgApiUrl" placeholder="https://ark.cn-beijing.volces.com/api/v3/chat/completions" />
   <label>API Key</label>
-  <input type="password" id="cfgApiKey" placeholder="粘贴你的 API Key" />
+  <input type="password" id="cfgApiKey" placeholder="粘贴你的 ARK API Key" />
   <label>模型</label>
-  <input type="text" id="cfgModel" placeholder="glm-4-flash" />
+  <input type="text" id="cfgModel" placeholder="doubao-seed-2-0-code-preview-260215" />
   <button class="save-btn" onclick="saveSettings()">保存</button>
   <button class="save-btn" style="background:#555;margin-top:6px" onclick="testConnection()">测试连接</button>
   <div id="connResult" style="font-size:12px;margin-top:6px;white-space:pre-wrap;display:none"></div>
@@ -681,9 +681,9 @@ function getSettings() {
     localStorage.removeItem('ai_news_model');
   }
   return {
-    apiUrl: localStorage.getItem('ai_news_api_url') || 'https://open.bigmodel.cn/api/paas/v4/chat/completions',
-    apiKey: localStorage.getItem('ai_news_api_key') || '12c90df5222d4b12bb6861aafc01384b.JiJ8v1yjIVKJFyyD',
-    model: localStorage.getItem('ai_news_model') || 'glm-4-flash'
+    apiUrl: localStorage.getItem('ai_news_api_url') || 'https://ark.cn-beijing.volces.com/api/v3/chat/completions',
+    apiKey: localStorage.getItem('ai_news_api_key') || 'ark-dd93e103-ee5c-414b-8931-f6c236aa2764-44a5f',
+    model: localStorage.getItem('ai_news_model') || 'doubao-seed-2-0-code-preview-260215'
   };
 }
 function loadSettings() {
