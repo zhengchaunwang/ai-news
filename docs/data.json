@@ -1,124 +1,245 @@
 {
   "newsData": [
     {
+      "date": "2026-05-21",
+      "dateLabel": "5月21日",
+      "id": "d21",
+      "items": [
+        {
+          "id": "a2d3bf290a67",
+          "title": "谷歌的命门",
+          "desc": "大而难赢",
+          "source": "36氪",
+          "date": "2026-05-21",
+          "dateLabel": "5月21日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3818489485516801",
+          "image": "https://img.36krcdn.com/hsossms/20260521/v2_34a3323d80444484972185c92031b768@1743780481@ai_oswg1037543oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "0aabc6a7bed2",
+          "title": "“打折”卖机器人冲进前四，乐聚智能要上市了",
+          "desc": "亏损逐年扩大，盈利至少等到2028年。",
+          "source": "36氪",
+          "date": "2026-05-21",
+          "dateLabel": "5月21日",
+          "tags": [
+            "research",
+            "business"
+          ],
+          "url": "https://36kr.com/p/3818453125832712",
+          "image": "https://img.36krcdn.com/hsossms/20260521/v2_b1d47e1557ea456e930a63d8626e9e7f@1743780481@ai_oswg1031490oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "3754240bb42f",
+          "title": "突发，马斯克递交史上最大IPO",
+          "desc": "目标融资750亿美元、估值直奔2万亿美元，全球首个万亿富翁要来了。",
+          "source": "36氪",
+          "date": "2026-05-21",
+          "dateLabel": "5月21日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3818516040352899",
+          "image": "https://img.36krcdn.com/hsossms/20260521/v2_87e18f32565f46a3a53554b5c0826e25@000000_oswg107295oswg1280oswg544_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "c70831b18fde",
+          "title": "没有AI能力的药厂，将不再被称作药厂",
+          "desc": "就像100年前没有电力的工厂不再被称作工厂",
+          "source": "36氪",
+          "date": "2026-05-21",
+          "dateLabel": "5月21日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3818431174909961",
+          "image": "https://img.36krcdn.com/hsossms/20260521/v2_fff15153d4eb48bd9df783954dc9c59f@1743780481@ai_oswg1131862oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "225f6cfd6c00",
+          "title": "9亿次点击背后，AI应用的真实江湖｜2026中国AI应用全景图谱报告",
+          "desc": "2026中国AI应用从聊天转向做事，产业生态成形",
+          "source": "36氪",
+          "date": "2026-05-21",
+          "dateLabel": "5月21日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3818450346738823",
+          "image": "https://img.36krcdn.com/hsossms/20260521/v2_69eefc756adb4cc98b6905c8ac54cd9d@6381723_oswg404582oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "6b2484ae292d",
+          "title": "义乌老板们，正在把AI接进工厂",
+          "desc": "进入价值生产阶段",
+          "source": "36氪",
+          "date": "2026-05-21",
+          "dateLabel": "5月21日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3818419978765441",
+          "image": "https://img.36krcdn.com/hsossms/20260521/v2_af3ee3f564e646eaa366fa69aa4977e9@000000@ai_oswg310536oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "4320fb4e7f0b",
+          "title": "Google I/O之后，AI的参照系变了",
+          "desc": "AI的下一个α在哪？",
+          "source": "36氪",
+          "date": "2026-05-21",
+          "dateLabel": "5月21日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3818402638733573",
+          "image": "https://img.36krcdn.com/hsossms/20260521/v2_5ae4d4ca353a4e61a472ba1a073440d6@1743780481@ai_oswg1131449oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "93be58214a91",
+          "title": "中国AI，不想再活在CUDA里",
+          "desc": "从黄仁勋的五层蛋糕理论，看中国的芯片发展。",
+          "source": "36氪",
+          "date": "2026-05-21",
+          "dateLabel": "5月21日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3818457345449989",
+          "image": "https://img.36krcdn.com/hsossms/20260521/v2_ddd5c6e11816403db010a6988074c228@1743780481@ai_oswg1071167oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        }
+      ]
+    },
+    {
       "date": "2026-05-20",
       "dateLabel": "5月20日",
       "id": "d20",
       "items": [
         {
-          "id": "f0d2bbe4d795",
-          "title": "Coding的本质=强化学习+合成数据+万卡算力？",
-          "desc": "来自Composer 2.5的讯号",
+          "id": "5f1ef232be9c",
+          "title": "时薪800、学历硕士起：大厂热抢的AI数据“炼金师”到底在做什么？",
+          "desc": "数据标注正成为一项更有技术含量的工作。",
           "source": "36氪",
           "date": "2026-05-20",
           "dateLabel": "5月20日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3817098575421446",
-          "image": "https://img.36krcdn.com/hsossms/20260520/v2_da8bddfcb2ff44f7b7d2e7ad13300b43@000000_oswg37075oswg1280oswg545_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "url": "https://36kr.com/p/3817645558694788",
+          "image": "https://img.36krcdn.com/hsossms/20260520/v2_4315e8b6d73c48a79234b8ad2dc0c7db@000000@ai_oswg303177oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "c57e47b6a909",
-          "title": "最高奖励800万，海南押注AI一人公司，我们如何搭上这趟车？",
-          "desc": "海南推AI一人公司新政，给创业者红利，邀超级个体入局。",
+          "id": "cae925cb7c30",
+          "title": "网易520发布会：质量为先，狙击细分赛道",
+          "desc": "转变并非一朝一夕。",
           "source": "36氪",
           "date": "2026-05-20",
           "dateLabel": "5月20日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3817001988989184",
-          "image": "https://img.36krcdn.com/hsossms/20260520/v2_ebe363e4501b4c1a88273800cfe7009c@1743780481@ai_oswg906161oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3817849322964098",
+          "image": "https://img.36krcdn.com/hsossms/20260521/v2_51b6da8639fd45b9a1eb2ce55933a6f8@000000_oswg85401oswg1007oswg429_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
           "color": "#2563eb"
         },
         {
-          "id": "f9baf76bbac5",
-          "title": "扛不住了，人形机器人企业批量倒闭",
-          "desc": "竞争不过中国公司、融不到钱，欧美机器人迎来倒闭潮。",
-          "source": "36氪",
-          "date": "2026-05-20",
-          "dateLabel": "5月20日",
-          "tags": [
-            "research",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3817070473184128",
-          "image": "https://img.36krcdn.com/hsossms/20260520/v2_2fd454b8fcf6437ca9293b66e4838dc3@1743780481@ai_oswg1032017oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "acc81e71bd3a",
-          "title": "把服务器沉到海底，这事儿是认真的",
-          "desc": "全球首个海风直连海底数据中心投用，海上算力新探索。",
+          "id": "93c3608e9e97",
+          "title": "Agent改写互联网，赢家通吃越来越难了",
+          "desc": "互联网大厂，集体叙事换挡",
           "source": "36氪",
           "date": "2026-05-20",
           "dateLabel": "5月20日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3817051665875840",
-          "image": "https://img.36krcdn.com/hsossms/20260520/v2_24c977fc24b546d99db34dde64e7d724@1743780481@ai_oswg1016074oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3817576434868489",
+          "image": "https://img.36krcdn.com/hsossms/20260520/v2_687a5f6627634bb09c11384610da74ae@5888275@ai_oswg1011425oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "acb61099d1a0",
-          "title": "雷军旗下两大资本投资，00后哈工大“天才少年”融资数千万美元",
-          "desc": "顺为领投、小米追投！",
+          "id": "1d575d8e2bb2",
+          "title": "谷歌打响反击战，Antigravity 2.0上手：开放模型是步聪明棋",
+          "desc": "学习 Codex、Claude Code，告别 IDE。",
           "source": "36氪",
           "date": "2026-05-20",
           "dateLabel": "5月20日",
           "tags": [
-            "business",
-            "cn"
+            "model"
           ],
-          "url": "https://36kr.com/p/3817074971870084",
-          "image": "https://img.36krcdn.com/hsossms/20260520/v2_90f0fc4799524ee0bc7d9a5bf50357a1@1743780481@ai_oswg1028051oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3817576331747331",
+          "image": "https://img.36krcdn.com/hsossms/20260520/v2_9c80a2d31e6947d79c1644e22c16afb8@5888275@ai_oswg970230oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "843b91aa81cd",
-          "title": "英特尔一年五倍，CPU快和GPU一样重要了？",
-          "desc": "还有“美积电”的叙事",
+          "id": "a065b347d53f",
+          "title": "嗜血的AI",
+          "desc": "AI破坏力真正爆发时，监管明显被忘在了身后",
+          "source": "36氪",
+          "date": "2026-05-20",
+          "dateLabel": "5月20日",
+          "tags": [
+            "policy"
+          ],
+          "url": "https://36kr.com/p/3817538261681030",
+          "image": "https://img.36krcdn.com/hsossms/20260520/v2_b3bd623a72ae4c42ba28d93dee290c7f@5888275@ai_oswg858978oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "f155c26db15d",
+          "title": "苹果转身，三星入局：AI眼镜为何成为巨头必争之地？",
+          "desc": "AI眼镜赛道爆发，上游核心环节更具确定性价值。",
           "source": "36氪",
           "date": "2026-05-20",
           "dateLabel": "5月20日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3817078482092929",
-          "image": "https://img.36krcdn.com/hsossms/20260520/v2_f01e3923c70f43fab29fc7c433a145d4@1743780481@ai_oswg1040258oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3817523788914952",
+          "image": "https://img.36krcdn.com/hsossms/20260520/v2_ea57f05d1f8d4f148bd3b1ce94bc77f6@5888275@ai_oswg923799oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "4a0d929f1555",
-          "title": "“苏妈”上海行：Agent时代CPU不够用了",
-          "desc": "苏姿丰称AI进入Agent时代，CPU GPU配比将向1:1靠拢",
-          "source": "36氪",
-          "date": "2026-05-20",
-          "dateLabel": "5月20日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3817047045407874",
-          "image": "https://img.36krcdn.com/hsossms/20260520/v2_5471f1d29244450e9c3000d6f99069a1@1743780481@ai_oswg1097502oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "0aa4070d1656",
-          "title": "千亿估值，百亿亏损，投资人为何还排队抢份额？",
-          "desc": "单轮融资百亿起跳，AI大模型进入资本疯抢时刻。",
+          "id": "c0c99e6acaf0",
+          "title": "AI生成视频“三国杀”：Seedance领跑，可灵分拆拟IPO，阿里紧跟入局",
+          "desc": "大模型只是\"工具\"， 业内从业者更关注工作流",
           "source": "36氪",
           "date": "2026-05-20",
           "dateLabel": "5月20日",
           "tags": [
             "model",
-            "business"
+            "business",
+            "cn"
           ],
-          "url": "https://36kr.com/p/3816286668342409",
-          "image": "https://img.36krcdn.com/hsossms/20260519/v2_64144c1859bb41a6a13bf4fb83fc5946@000000@ai_oswg251726oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3817497977455492",
+          "image": "https://img.36krcdn.com/hsossms/20260520/v2_f070ad69f9f946479dd8a358573a207d@5888275@ai_oswg980366oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "2a774a999d12",
+          "title": "中国新一轮万亿投资砸向这个领域，凭什么它是“国家战略优先级”？",
+          "desc": "万亿投资砸向算力网：下个十年的“国家底座”",
+          "source": "36氪",
+          "date": "2026-05-20",
+          "dateLabel": "5月20日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3817482602054528",
+          "image": "https://img.36krcdn.com/hsossms/20260520/v2_8a3c3e6346b0457fa59ad824c569282b@5888275@ai_oswg1152875oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         }
       ]
@@ -1069,42 +1190,6 @@
           "color": "#76b900"
         }
       ]
-    },
-    {
-      "date": "2026-04-17",
-      "dateLabel": "4月17日",
-      "id": "d17",
-      "items": [
-        {
-          "id": "ebe03f00a3",
-          "title": "算力极限下，OpenAI 急着做什么？",
-          "desc": "面对算力瓶颈和竞争加剧，OpenAI正加速在模型效率、芯片合作和云服务布局上的动作，算力焦虑成为大模型公司最紧迫的挑战。",
-          "source": "机器之心",
-          "date": "2026-04-17",
-          "dateLabel": "4月17日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://pro.jiqizhixin.com/reference/c845fbb7-b658-4772-83e0-1ec54940201e",
-          "image": "https://images.unsplash.com/photo-1529618113328-b56b0dbc562b?w=400&h=250&fit=crop",
-          "color": "#10a37f"
-        },
-        {
-          "id": "7b8b5520aa",
-          "title": "吨级重载新纪元：大咖机器人全球首发”吨级重载机器马”",
-          "desc": "大咖机器人全球首发吨级重载机器马，覆盖安防巡检、消防救援、工程基建、智能物流、民生养老、个人出行六大核心场景。",
-          "source": "量子位",
-          "date": "2026-04-17",
-          "dateLabel": "4月17日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/04/410732.html",
-          "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
-          "color": "#059669"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -1130,6 +1215,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-05-20 14:06",
-  "totalNews": 67
+  "updateTime": "2026-05-21 14:09",
+  "totalNews": 73
 }
