@@ -1,10 +1,232 @@
 {
   "newsData": [
     {
+      "date": "2026-05-24",
+      "dateLabel": "5月24日",
+      "id": "d24",
+      "items": [
+        {
+          "id": "4d1fa610dca5",
+          "title": "活宝团队试验「让 AI 当老板」，结果如何？",
+          "desc": "感谢 120 个生鸡蛋，它向全世界证明了，AI 还无法「开除人类」。",
+          "source": "36氪",
+          "date": "2026-05-24",
+          "dateLabel": "5月24日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3822860813684864",
+          "image": "https://img.36krcdn.com/hsossms/20260524/v2_854ee2b8897c43b1b144a9923cc1f3dc@000000_oswg37157oswg850oswg362_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "609e1fdeca0f",
+          "title": "活过来的Codex，扛起了 OpenAI上市的希望",
+          "desc": "ChatGPT证明了OpenAI有用户，Codex要证明OpenAI有生意。",
+          "source": "36氪",
+          "date": "2026-05-24",
+          "dateLabel": "5月24日",
+          "tags": [
+            "model",
+            "business"
+          ],
+          "url": "https://36kr.com/p/3822795128070149",
+          "image": "https://img.36krcdn.com/hsossms/20260524/v2_f498f54d34864f7a8e41e5004f8a0d17@000000_oswg35498oswg940oswg399_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "c5d40390455d",
+          "title": "AI四巨头内部报告首度公开：AI正在学会撒谎求生",
+          "desc": "【新智元导读】当四大巨头首次允许第三方深入测试最强模型，并开放完整思维链时，他们得到的答案令人吃惊：AI没有仇恨，却已精通「职场潜规则」！",
+          "source": "36氪",
+          "date": "2026-05-24",
+          "dateLabel": "5月24日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3822613261504645",
+          "image": "https://img.36krcdn.com/hsossms/20260524/v2_1f11dbe1f64b41ac92a9f1791c502bc4@5667365@ai_oswg963957oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "5062dd71eccb",
+          "title": "什么！你说胡彦斌也在苦修Vibe Coding",
+          "desc": "Vibe Coding还是太权威了vibe",
+          "source": "量子位",
+          "date": "2026-05-24",
+          "dateLabel": "5月24日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/05/423213.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "697dd540adfe",
+          "title": "消息称苹果 iOS 27 将升级相机、照片应用：增加自定义选项，补全视觉智能",
+          "desc": "IT之家 5 月 24 日消息，据科技媒体 9To5Mac 昨天报道，苹果将于 iOS 27 系统中升级相机、照片应用，在去年 iOS 26 的基础上进一步强化体验，并加入多项 AI 编辑功能。据报道，当前 iPhone 的相机界面布局相对固定，大多数专业选项隐藏在二级菜单中。据彭博社说法，苹果计划在 iOS 27 中加入相机界面自定义布局功能，让用户自行决定留在一级界面的功能，可调整的项目包括闪",
+          "source": "IT之家",
+          "date": "2026-05-24",
+          "dateLabel": "5月24日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/954/525.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/5/2f75555f-c4f2-44fd-a0c5-16ebd7f5763b.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "7390d8d564d1",
+          "title": "全球首款机器人手机：荣耀 Robot Phone 真机现身高通骁友会五周年派对",
+          "desc": "IT之家 5 月 24 日消息，据博主 @旺仔百事通 分享，全球首款机器人手机 —— 荣耀 Robot Phone 真机已现身高通骁友会五周年派对。荣耀今年 3 月在 MWC 2026 展会上带来了全新“机器人手机”Robot Phone，新机最显眼之处就是配备一颗硕大的电动翻转摄像头，号称是新形态具身智能 AI 终端。外观方面，Robot Phone 通体银灰色，边框则是采用了拉丝装饰。看起来就",
+          "source": "IT之家",
+          "date": "2026-05-24",
+          "dateLabel": "5月24日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.ithome.com/0/954/521.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/5/3b79f8fc-42f3-402f-b249-41502b7e3279.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "0c7f3fca0264",
+          "title": "华为自研全新 DoB 封装技术：绕过 400 层 NAND 造出 122TB 企业级 SSD，未来还计划推出 245TB 版本",
+          "desc": "IT之家 5 月 24 日消息，据 Blocks & Files 报道，华为于 5 月 20 日至 21 日在巴黎举行的 ID Forum 2026 活动上展示了基于自研 Die-on-Board（板上裸片封装，DoB）封装技术的大容量 SSD 系列。其中一款面向 AI 推理和数据中心的全新 SSD 提供 61.44TB 与 122.88TB 两种容量，而且华为未来还计划推出 245TB 版本。I",
+          "source": "IT之家",
+          "date": "2026-05-24",
+          "dateLabel": "5月24日",
+          "tags": [
+            "research",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/954/502.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/5/04606b7e-6c24-4307-8d5b-4311d1fa0628.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "6c8831198c95",
+          "title": "OPPO Reno 16 系列手机官宣搭载 AI 键，支持 AI 一键闪记",
+          "desc": "IT之家 5 月 24 日消息，OPPO 官方今天宣布，Reno 16 系列将首次搭载 AI 键，支持 AI 一键闪记。作为参考，一键闪记功能可以让用户在任何场景下轻松一按，智能解析屏幕内容，自动分层提取关键信息，将碎片内容“结构化”记录。闪记所有记录的内容，会统一归档到“小布记忆”应用中，不仅支持摘要提炼、原文跳转、历史关联与智能归类，还可自动生成主题合集。据IT之家此前援引博主 @数码闲聊站 ",
+          "source": "IT之家",
+          "date": "2026-05-24",
+          "dateLabel": "5月24日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/954/493.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/5/0bbc3379-29d8-4b53-a89b-5a566038b3aa.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-05-23",
       "dateLabel": "5月23日",
       "id": "d23",
       "items": [
+        {
+          "id": "03f093d72fb4",
+          "title": "圆桌对话：下一个杀手级AI产品，会出现在哪个赛道？| 2026AI Partner·北京亦庄AI+产业大会",
+          "desc": "下一个杀手级AI产品：“多模态+智能体+可穿戴”三位一体",
+          "source": "36氪",
+          "date": "2026-05-23",
+          "dateLabel": "5月23日",
+          "tags": [
+            "research",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3821714896408713",
+          "image": "https://img.36krcdn.com/hsossms/20260523/v2_d49ee7fdd22a4f62804c39b8971c9a2c@6381723_oswg86191oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "e4c03109cf9d",
+          "title": "谷歌搜索智能体大升级，AI却直接「罢工」了？",
+          "desc": "一头雾水，莫名其妙。",
+          "source": "36氪",
+          "date": "2026-05-23",
+          "dateLabel": "5月23日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3821580899553668",
+          "image": "https://img.36krcdn.com/hsossms/20260523/v2_95facaca5d234125aaece3c48b763d7e@6076018@ai_oswg735799oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "0a278d0a5e6c",
+          "title": "老板电器，等AI“开饭”",
+          "desc": "造不出新的自己。",
+          "source": "36氪",
+          "date": "2026-05-23",
+          "dateLabel": "5月23日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3821573572862212",
+          "image": "https://img.36krcdn.com/hsossms/20260523/v2_df2953dfb54d4b448822a81339ae5451@000000_oswg48975oswg1280oswg544_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "59e51377395f",
+          "title": "圆桌对话：当AI进入产业前线：未来最稀缺的AI人才，会是谁？| 2026AI Partner·北京亦庄AI+产业大会",
+          "desc": "圆桌探讨AI产业落地，稀缺低频高价值决策人才。",
+          "source": "36氪",
+          "date": "2026-05-23",
+          "dateLabel": "5月23日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3821542483857801",
+          "image": "https://img.36krcdn.com/hsossms/20260523/v2_75d4a0a4f9e2438ca6171fead758c0c0@6381723_oswg95064oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "07642835d9db",
+          "title": "圆桌对话：人才特种兵：“AI原生人才”与“产业老炮”的共生手册| 2026AI Partner·北京亦庄AI+产业大会",
+          "desc": "探讨AI人才的寻觅、培养与留存的实战干货",
+          "source": "36氪",
+          "date": "2026-05-23",
+          "dateLabel": "5月23日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3821533415985283",
+          "image": "https://img.36krcdn.com/hsossms/20260523/v2_2d5ff98fdacd4563851a6954a9e4da57@6381723_oswg80410oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "743c3728eeae",
+          "title": "对话王小川：离开通用人工智能的主干道之后",
+          "desc": "如果没有转型，继续走主流道路，你也会有同等程度的焦虑。",
+          "source": "36氪",
+          "date": "2026-05-23",
+          "dateLabel": "5月23日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3821521291038856",
+          "image": "https://img.36krcdn.com/hsossms/20260523/v2_60a07f6497064060a2e1d0800b36ef1c@000000_oswg44132oswg900oswg383_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "290645290a90",
+          "title": "圆桌对话：AI浓度与转化率：数字体验的实战增长法则",
+          "desc": "AIGC赋能文旅文娱，人机共生兼顾温度与增长",
+          "source": "36氪",
+          "date": "2026-05-23",
+          "dateLabel": "5月23日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3821519307591811",
+          "image": "https://img.36krcdn.com/hsossms/20260523/v2_c16b10495f3244b6b2350ae1fb687450@6381723_oswg88728oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
         {
           "id": "695a22670959",
           "title": "梁文锋有了“隆中对”",
@@ -20,107 +242,6 @@
           "url": "https://36kr.com/p/3821376674386305",
           "image": "https://img.36krcdn.com/hsossms/20260523/v2_0083786203ce44c988261b964875c0ff@000000@ai_oswg234623oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
-        },
-        {
-          "id": "de91dfd0c8fb",
-          "title": "AI的“火”，烧到了模拟芯片",
-          "desc": "算力越强，系统越复杂，模拟越重要。",
-          "source": "36氪",
-          "date": "2026-05-23",
-          "dateLabel": "5月23日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3821221087400326",
-          "image": "https://img.36krcdn.com/hsossms/20260523/v2_5daae8c11970465a8d68089b914ccbfe@6076018@ai_oswg958991oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "473cb5053d44",
-          "title": "美团外卖前负责人入局餐饮具身模型，元节智能获千万级种子轮融资",
-          "desc": "不造人形机器人，死磕餐饮后厨",
-          "source": "量子位",
-          "date": "2026-05-23",
-          "dateLabel": "5月23日",
-          "tags": [
-            "research",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/05/423159.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "a69acf4d8dca",
-          "title": "极氪全新一代液冷超充桩上线：单枪峰值电流 800A、峰值功率 800kW",
-          "desc": "IT之家 5 月 23 日消息，极氪汽车昨日宣布，新一代液冷超级充电桩全新上线。如图所示，极氪新一代液冷超级充电桩具备极速、节能、适配、安全四大卖点，IT之家整理如下：高输出：单枪峰值电流 800A、峰值功率 800kW；高适配：深度适配多品牌新能源车型；高节能：能耗较传统方案降低 20% 以上；高安全：具备多层级主动防护机制，搭载 AI 故障预测与隔离保护技术，实现毫秒级异常响应。今年 2 月，",
-          "source": "IT之家",
-          "date": "2026-05-23",
-          "dateLabel": "5月23日",
-          "tags": [
-            "business",
-            "policy"
-          ],
-          "url": "https://www.ithome.com/0/954/283.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/5/aa3c4d29-ea47-433c-aafd-79fa30e24eb0.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "52e0e702d972",
-          "title": "推广约 9 个月叫停：星巴克北美搁置 AI 库存系统，分不清燕麦奶和牛奶",
-          "desc": "IT之家 5 月 23 日消息，路透社昨日（5 月 22 日）发布博文，报道称星巴克已停止在北美门店使用 AI 库存工具，上线部署约 9 个月时间。IT之家援引博文介绍，星巴克首席执行官 Brian Niccol 推进其整改计划，于 2025 年 9 月开始在北美推广 AI 库存工具，依靠平板摄像头和 LiDAR（激光雷达）自动清点糖浆、牛奶等物料。在星巴克最初的设想中，该工具应当比人工盘点更快、",
-          "source": "IT之家",
-          "date": "2026-05-23",
-          "dateLabel": "5月23日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/954/281.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/5/4c4d74f8-a61b-4d86-acc2-a2c0203d3197.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "3bcc6e63d818",
-          "title": "年薪 32~40 万美元：Anthropic 推出高薪写作岗，打响 AI 传播战",
-          "desc": "IT之家 5 月 23 日消息，科技媒体 Business Insider 昨日（5 月 22 日）发布博文，报道称 Anthropic 正在扩招高薪写作岗位，从而强化品牌叙事和市场沟通，尤其重视把复杂产品能力转化为清晰、具体且有吸引力的表达。根据官方招聘信息显示，Anthropic 正在招募一名文案负责人，主要面向企业客户传播，岗位年薪范围为 25.5 万至 32 万美元（IT之家注：现汇率约合",
-          "source": "IT之家",
-          "date": "2026-05-23",
-          "dateLabel": "5月23日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/954/277.htm",
-          "image": "",
-          "color": "#d97706"
-        },
-        {
-          "id": "46034c92cc41",
-          "title": "Meta 美国在建 AI 数据中心被指恶化水源，当地居民靠外运水做饭洗澡",
-          "desc": "IT之家 5 月 23 日消息，科技媒体 Tom's Hardware 昨日（5 月 22 日）发布博文，报道称美国佐治亚州摩根县居民称，Meta 数据中心开工后，当地饮用水很快变浑浊，部分家庭不得不搬运外部水源，用于做饭和洗澡。根据当地社区反映，Meta 数据中心项目开工后不久，当地供水变得浑浊，居民井水中出现明显泥沙。一些家庭因此无法正常饮用，只能把外部水源运到家里，维持做饭和洗澡等基本生活。",
-          "source": "IT之家",
-          "date": "2026-05-23",
-          "dateLabel": "5月23日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/954/274.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/5/20c7d5d1-76f6-423a-a711-8e4c55f39574.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "641cae2d7155",
-          "title": "联想推出 LOQ 15AHP11 游戏本：AMD 锐龙 7 250 CPU、RTX 5050/5060/5070 显卡",
-          "desc": "IT之家 5 月 23 日消息，联想现已在海外市场推出 LOQ 15（15AHP11）游戏本，新品定位入门，主打疾风绿配色，搭载英伟达 RTX 50 系显卡。据介绍，这款笔记本的机身采用绿色配色方案，搭配黑色键盘、屏幕边框，视觉对比感较为强烈。，而机身后方的接口区域也加入了黑色装饰边框，凸显年轻化风格。官方选配的 2.4G 无线鼠标甚至也是绿色，可以与笔记本形成完美搭配。配置方面，这款笔记本提供英",
-          "source": "IT之家",
-          "date": "2026-05-23",
-          "dateLabel": "5月23日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/954/273.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/5/e2efa12f-3747-4bbe-8a17-26329c94ebb5.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
         }
       ]
     },
@@ -1228,42 +1349,6 @@
           "color": "#ef4444"
         }
       ]
-    },
-    {
-      "date": "2026-04-20",
-      "dateLabel": "4月20日",
-      "id": "d20",
-      "items": [
-        {
-          "id": "11205bf359",
-          "title": "是时候讨论”人类配额制”了：应对AI就业冲击的一种可能性探讨",
-          "desc": "面对AI对就业市场的持续冲击，”人类配额制”概念引发热议——要求企业保留一定比例的人类岗位，作为应对AI替代的缓冲机制。",
-          "source": "36氪",
-          "date": "2026-04-20",
-          "dateLabel": "4月20日",
-          "tags": [
-            "policy"
-          ],
-          "url": "https://36kr.com/p/3787647641918724",
-          "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=400&h=250&fit=crop",
-          "color": "#d97706"
-        },
-        {
-          "id": "8aa95a327b",
-          "title": "摩尔线程靠补贴扭亏为盈？仍需打”硬仗”",
-          "desc": "摩尔线程九成收入靠五个大客户，7006万补助带来首季盈利，但距离成为”英伟达平替”道阻且长，商业化拐点尚未到来。",
-          "source": "36氪",
-          "date": "2026-04-20",
-          "dateLabel": "4月20日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3787680120069384",
-          "image": "https://images.unsplash.com/photo-1592478411213-6153e4ebc07d?w=400&h=250&fit=crop",
-          "color": "#76b900"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -1289,6 +1374,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-05-23 13:38",
-  "totalNews": 78
+  "updateTime": "2026-05-24 14:00",
+  "totalNews": 84
 }
