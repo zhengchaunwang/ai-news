@@ -1,52 +1,158 @@
 {
   "newsData": [
     {
+      "date": "2026-05-25",
+      "dateLabel": "5月25日",
+      "id": "d25",
+      "items": [
+        {
+          "id": "248107bf9abb",
+          "title": "大模型头部玩家吸干一级市场",
+          "desc": "不烧钱，就出局。",
+          "source": "36氪",
+          "date": "2026-05-25",
+          "dateLabel": "5月25日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://36kr.com/p/3821479227134338",
+          "image": "https://img.36krcdn.com/hsossms/20260525/v2_3993ccbddfba43d3810b651b18ac4dcf@5091053@ai_oswg1061159oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "e1dd1d2cd232",
+          "title": "一家垂类 AI 创企的自救：当通用模型开始吃掉一切",
+          "desc": "​智能开始非线性增长，AI 企业的底层逻辑正被改写。",
+          "source": "36氪",
+          "date": "2026-05-25",
+          "dateLabel": "5月25日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3821594633769346",
+          "image": "https://img.36krcdn.com/hsossms/20260525/v2_a00cd3d2cda442f387315802e66e0b14@5091053@ai_oswg1003604oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "48593f48609b",
+          "title": "Gemini 3.5删了两万八千行代码后，给自己写了封表扬信",
+          "desc": "AI过度执行错误指令致生产事故，需AI敢“叫停”",
+          "source": "36氪",
+          "date": "2026-05-25",
+          "dateLabel": "5月25日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://36kr.com/p/3822047393914883",
+          "image": "https://img.36krcdn.com/hsossms/20260525/v2_5a4456d66d794748ad295f6aa23d2349@5091053@ai_oswg957859oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "fae6d4fe23a9",
+          "title": "谷歌CEO最新访谈：谷歌多模态能力领先，但Coding确实落后了",
+          "desc": "谷歌最新智能体Spark今年夏天发布",
+          "source": "36氪",
+          "date": "2026-05-25",
+          "dateLabel": "5月25日",
+          "tags": [
+            "research",
+            "business"
+          ],
+          "url": "https://36kr.com/p/3824178590077321",
+          "image": "https://img.36krcdn.com/hsossms/20260525/v2_ab5743dcdc5b441c9c2f1cc72390b7e0@5091053@ai_oswg1043007oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "ff9cac8976b5",
+          "title": "圆桌对话：从“千人千面”到“人心洞察”| 2026AI Partner·北京亦庄AI+产业大会",
+          "desc": "AIGC进阶情感洞察，人仍守审美判断与情感价值",
+          "source": "36氪",
+          "date": "2026-05-25",
+          "dateLabel": "5月25日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3824154127093892",
+          "image": "https://img.36krcdn.com/hsossms/20260525/v2_4d644f124f954c8ea4c01fc4f760351d@6381723_oswg100777oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "26ad9b9c6da2",
+          "title": "基于2025年发生的重大AI事件我们得出的十大戒律",
+          "desc": "基于2025年发生的重大AI事件我们得出的十大戒律",
+          "source": "36氪",
+          "date": "2026-05-25",
+          "dateLabel": "5月25日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3823087635599751",
+          "image": "https://img.36krcdn.com/hsossms/20260524/v2_9eaa5b3e75df4d96ad93ed6a8d1c7fa5@000000@ai_oswg314792oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "650aab046be1",
+          "title": "实测GPT For PPT：5分钟出稿质量堪忧，打工人“最后一公里”还得自己走",
+          "desc": "让 AI 做 PPT，还是世纪难题。",
+          "source": "36氪",
+          "date": "2026-05-25",
+          "dateLabel": "5月25日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://36kr.com/p/3822723397771271",
+          "image": "https://img.36krcdn.com/hsossms/20260525/v2_ec8d4dc9186a4db1b3cce29647d8de14@5091053@ai_oswg925996oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "aac13b66faf2",
+          "title": "AI Agent真的记得它看过什么吗？MemEye给多模态长期记忆做了一次“视觉体检”",
+          "desc": "多模态 Agent 不该只会“描述图片”",
+          "source": "36氪",
+          "date": "2026-05-25",
+          "dateLabel": "5月25日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://36kr.com/p/3822773869252744",
+          "image": "https://img.36krcdn.com/hsossms/20260525/v2_48e7ab3db06a4f7e915cbd53e089d381@5091053@ai_oswg1024018oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        }
+      ]
+    },
+    {
       "date": "2026-05-24",
       "dateLabel": "5月24日",
       "id": "d24",
       "items": [
         {
-          "id": "4d1fa610dca5",
-          "title": "活宝团队试验「让 AI 当老板」，结果如何？",
-          "desc": "感谢 120 个生鸡蛋，它向全世界证明了，AI 还无法「开除人类」。",
-          "source": "36氪",
+          "id": "733fbdd6fd28",
+          "title": "卷到今天，Agent的含金量还在提升丨AIGC2026圆桌论坛",
+          "desc": "大厂集体下场后，创业公司还有哪些机会？",
+          "source": "量子位",
           "date": "2026-05-24",
           "dateLabel": "5月24日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3822860813684864",
-          "image": "https://img.36krcdn.com/hsossms/20260524/v2_854ee2b8897c43b1b144a9923cc1f3dc@000000_oswg37157oswg850oswg362_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
+          "url": "https://www.qbitai.com/2026/05/423421.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "609e1fdeca0f",
-          "title": "活过来的Codex，扛起了 OpenAI上市的希望",
-          "desc": "ChatGPT证明了OpenAI有用户，Codex要证明OpenAI有生意。",
-          "source": "36氪",
-          "date": "2026-05-24",
-          "dateLabel": "5月24日",
-          "tags": [
-            "model",
-            "business"
-          ],
-          "url": "https://36kr.com/p/3822795128070149",
-          "image": "https://img.36krcdn.com/hsossms/20260524/v2_f498f54d34864f7a8e41e5004f8a0d17@000000_oswg35498oswg940oswg399_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "c5d40390455d",
-          "title": "AI四巨头内部报告首度公开：AI正在学会撒谎求生",
-          "desc": "【新智元导读】当四大巨头首次允许第三方深入测试最强模型，并开放完整思维链时，他们得到的答案令人吃惊：AI没有仇恨，却已精通「职场潜规则」！",
-          "source": "36氪",
+          "id": "2bffa1eee714",
+          "title": "谷歌CEO承认Coding落后了",
+          "desc": "搜索25年来最大改版，但谷歌还不敢一脚切到AI",
+          "source": "量子位",
           "date": "2026-05-24",
           "dateLabel": "5月24日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3822613261504645",
-          "image": "https://img.36krcdn.com/hsossms/20260524/v2_1f11dbe1f64b41ac92a9f1791c502bc4@5667365@ai_oswg963957oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
+          "url": "https://www.qbitai.com/2026/05/423390.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
           "id": "5062dd71eccb",
@@ -61,63 +167,6 @@
           "url": "https://www.qbitai.com/2026/05/423213.html",
           "image": "",
           "color": "#7c3aed"
-        },
-        {
-          "id": "697dd540adfe",
-          "title": "消息称苹果 iOS 27 将升级相机、照片应用：增加自定义选项，补全视觉智能",
-          "desc": "IT之家 5 月 24 日消息，据科技媒体 9To5Mac 昨天报道，苹果将于 iOS 27 系统中升级相机、照片应用，在去年 iOS 26 的基础上进一步强化体验，并加入多项 AI 编辑功能。据报道，当前 iPhone 的相机界面布局相对固定，大多数专业选项隐藏在二级菜单中。据彭博社说法，苹果计划在 iOS 27 中加入相机界面自定义布局功能，让用户自行决定留在一级界面的功能，可调整的项目包括闪",
-          "source": "IT之家",
-          "date": "2026-05-24",
-          "dateLabel": "5月24日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/954/525.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/5/2f75555f-c4f2-44fd-a0c5-16ebd7f5763b.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "7390d8d564d1",
-          "title": "全球首款机器人手机：荣耀 Robot Phone 真机现身高通骁友会五周年派对",
-          "desc": "IT之家 5 月 24 日消息，据博主 @旺仔百事通 分享，全球首款机器人手机 —— 荣耀 Robot Phone 真机已现身高通骁友会五周年派对。荣耀今年 3 月在 MWC 2026 展会上带来了全新“机器人手机”Robot Phone，新机最显眼之处就是配备一颗硕大的电动翻转摄像头，号称是新形态具身智能 AI 终端。外观方面，Robot Phone 通体银灰色，边框则是采用了拉丝装饰。看起来就",
-          "source": "IT之家",
-          "date": "2026-05-24",
-          "dateLabel": "5月24日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://www.ithome.com/0/954/521.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/5/3b79f8fc-42f3-402f-b249-41502b7e3279.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "0c7f3fca0264",
-          "title": "华为自研全新 DoB 封装技术：绕过 400 层 NAND 造出 122TB 企业级 SSD，未来还计划推出 245TB 版本",
-          "desc": "IT之家 5 月 24 日消息，据 Blocks & Files 报道，华为于 5 月 20 日至 21 日在巴黎举行的 ID Forum 2026 活动上展示了基于自研 Die-on-Board（板上裸片封装，DoB）封装技术的大容量 SSD 系列。其中一款面向 AI 推理和数据中心的全新 SSD 提供 61.44TB 与 122.88TB 两种容量，而且华为未来还计划推出 245TB 版本。I",
-          "source": "IT之家",
-          "date": "2026-05-24",
-          "dateLabel": "5月24日",
-          "tags": [
-            "research",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/0/954/502.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/5/04606b7e-6c24-4307-8d5b-4311d1fa0628.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "6c8831198c95",
-          "title": "OPPO Reno 16 系列手机官宣搭载 AI 键，支持 AI 一键闪记",
-          "desc": "IT之家 5 月 24 日消息，OPPO 官方今天宣布，Reno 16 系列将首次搭载 AI 键，支持 AI 一键闪记。作为参考，一键闪记功能可以让用户在任何场景下轻松一按，智能解析屏幕内容，自动分层提取关键信息，将碎片内容“结构化”记录。闪记所有记录的内容，会统一归档到“小布记忆”应用中，不仅支持摘要提炼、原文跳转、历史关联与智能归类，还可自动生成主题合集。据IT之家此前援引博主 @数码闲聊站 ",
-          "source": "IT之家",
-          "date": "2026-05-24",
-          "dateLabel": "5月24日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/954/493.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/5/0bbc3379-29d8-4b53-a89b-5a566038b3aa.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
         }
       ]
     },
@@ -127,121 +176,18 @@
       "id": "d23",
       "items": [
         {
-          "id": "03f093d72fb4",
-          "title": "圆桌对话：下一个杀手级AI产品，会出现在哪个赛道？| 2026AI Partner·北京亦庄AI+产业大会",
-          "desc": "下一个杀手级AI产品：“多模态+智能体+可穿戴”三位一体",
-          "source": "36氪",
+          "id": "3283b00e5283",
+          "title": "“五类人AI替代不了，企业做第二名最稳妥” | 昆仑万维方汉@AIGC2026",
+          "desc": "“AI时代经验不再是护城河”",
+          "source": "量子位",
           "date": "2026-05-23",
           "dateLabel": "5月23日",
           "tags": [
-            "research",
-            "cn"
+            "policy"
           ],
-          "url": "https://36kr.com/p/3821714896408713",
-          "image": "https://img.36krcdn.com/hsossms/20260523/v2_d49ee7fdd22a4f62804c39b8971c9a2c@6381723_oswg86191oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "e4c03109cf9d",
-          "title": "谷歌搜索智能体大升级，AI却直接「罢工」了？",
-          "desc": "一头雾水，莫名其妙。",
-          "source": "36氪",
-          "date": "2026-05-23",
-          "dateLabel": "5月23日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3821580899553668",
-          "image": "https://img.36krcdn.com/hsossms/20260523/v2_95facaca5d234125aaece3c48b763d7e@6076018@ai_oswg735799oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "0a278d0a5e6c",
-          "title": "老板电器，等AI“开饭”",
-          "desc": "造不出新的自己。",
-          "source": "36氪",
-          "date": "2026-05-23",
-          "dateLabel": "5月23日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3821573572862212",
-          "image": "https://img.36krcdn.com/hsossms/20260523/v2_df2953dfb54d4b448822a81339ae5451@000000_oswg48975oswg1280oswg544_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "59e51377395f",
-          "title": "圆桌对话：当AI进入产业前线：未来最稀缺的AI人才，会是谁？| 2026AI Partner·北京亦庄AI+产业大会",
-          "desc": "圆桌探讨AI产业落地，稀缺低频高价值决策人才。",
-          "source": "36氪",
-          "date": "2026-05-23",
-          "dateLabel": "5月23日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3821542483857801",
-          "image": "https://img.36krcdn.com/hsossms/20260523/v2_75d4a0a4f9e2438ca6171fead758c0c0@6381723_oswg95064oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "07642835d9db",
-          "title": "圆桌对话：人才特种兵：“AI原生人才”与“产业老炮”的共生手册| 2026AI Partner·北京亦庄AI+产业大会",
-          "desc": "探讨AI人才的寻觅、培养与留存的实战干货",
-          "source": "36氪",
-          "date": "2026-05-23",
-          "dateLabel": "5月23日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3821533415985283",
-          "image": "https://img.36krcdn.com/hsossms/20260523/v2_2d5ff98fdacd4563851a6954a9e4da57@6381723_oswg80410oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "743c3728eeae",
-          "title": "对话王小川：离开通用人工智能的主干道之后",
-          "desc": "如果没有转型，继续走主流道路，你也会有同等程度的焦虑。",
-          "source": "36氪",
-          "date": "2026-05-23",
-          "dateLabel": "5月23日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3821521291038856",
-          "image": "https://img.36krcdn.com/hsossms/20260523/v2_60a07f6497064060a2e1d0800b36ef1c@000000_oswg44132oswg900oswg383_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "290645290a90",
-          "title": "圆桌对话：AI浓度与转化率：数字体验的实战增长法则",
-          "desc": "AIGC赋能文旅文娱，人机共生兼顾温度与增长",
-          "source": "36氪",
-          "date": "2026-05-23",
-          "dateLabel": "5月23日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3821519307591811",
-          "image": "https://img.36krcdn.com/hsossms/20260523/v2_c16b10495f3244b6b2350ae1fb687450@6381723_oswg88728oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "695a22670959",
-          "title": "梁文锋有了“隆中对”",
-          "desc": "700亿融资落地，DeepSeek瞄准Code Harness招兵买马.",
-          "source": "36氪",
-          "date": "2026-05-23",
-          "dateLabel": "5月23日",
-          "tags": [
-            "model",
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3821376674386305",
-          "image": "https://img.36krcdn.com/hsossms/20260523/v2_0083786203ce44c988261b964875c0ff@000000@ai_oswg234623oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
+          "url": "https://www.qbitai.com/2026/05/423202.html",
+          "image": "",
+          "color": "#7c3aed"
         }
       ]
     },
@@ -1313,42 +1259,6 @@
           "color": "#2563eb"
         }
       ]
-    },
-    {
-      "date": "2026-04-21",
-      "dateLabel": "4月21日",
-      "id": "d21",
-      "items": [
-        {
-          "id": "c29f87bc12",
-          "title": "ChatGPT 拎包入住云计算一哥，奥特曼打着官司也要云站台",
-          "desc": "OpenAI与头部云厂商达成深度集成，ChatGPT作为AI助手全面入驻企业级云平台，奥特曼即使身陷诉讼也亲自为发布会站台。",
-          "source": "量子位",
-          "date": "2026-04-21",
-          "dateLabel": "4月21日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/04/410772.html",
-          "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=400&h=250&fit=crop",
-          "color": "#10a37f"
-        },
-        {
-          "id": "54dcad4271",
-          "title": "掉队的 Kimi，又撞上”泄露门”",
-          "desc": "月之暗面Kimi正在经历一场”越权”信任危机，数据泄露事件叠加市场掉队困境，国产大模型竞争格局加速分化。",
-          "source": "36氪",
-          "date": "2026-04-21",
-          "dateLabel": "4月21日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3787727645962758",
-          "image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400&h=250&fit=crop",
-          "color": "#ef4444"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -1374,6 +1284,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-05-24 14:00",
-  "totalNews": 84
+  "updateTime": "2026-05-25 14:26",
+  "totalNews": 78
 }
