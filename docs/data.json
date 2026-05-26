@@ -1,123 +1,246 @@
 {
   "newsData": [
     {
+      "date": "2026-05-26",
+      "dateLabel": "5月26日",
+      "id": "d26",
+      "items": [
+        {
+          "id": "9e847dab5e0b",
+          "title": "4180万美元种子轮爆火：韩国物理AI撕开视频预训练的真实落地逻辑",
+          "desc": "视频预训练商业化价值争议不断。",
+          "source": "36氪",
+          "date": "2026-05-26",
+          "dateLabel": "5月26日",
+          "tags": [
+            "research",
+            "business"
+          ],
+          "url": "https://36kr.com/p/3824732997116163",
+          "image": "https://img.36krcdn.com/hsossms/20260526/v2_71a7f72d64eb4e3d8f5bde8f06db3620@5091053@ai_oswg1016124oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "f910ea3e42a5",
+          "title": "刚刚，国产Agent模型闯入全球第一梯队，限时免费",
+          "desc": "深度适配OpenClaw、Claude Code、Hermes等",
+          "source": "36氪",
+          "date": "2026-05-26",
+          "dateLabel": "5月26日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3825582437536391",
+          "image": "https://img.36krcdn.com/hsossms/20260526/v2_4f7ae60f82b746d49f4363fcfafad655@5091053@ai_oswg963348oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "0e2487af3a77",
+          "title": "Grok最新模型吃上Cursor「加餐」，马斯克：Coding实现巨大改进",
+          "desc": "1.5T参数，加入了大量Cursor数据",
+          "source": "36氪",
+          "date": "2026-05-26",
+          "dateLabel": "5月26日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3825583434879880",
+          "image": "https://img.36krcdn.com/hsossms/20260526/v2_57b88c36c6aa454293bdc95a0d1aec4b@5091053@ai_oswg1086111oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "bc3ce5ddbff5",
+          "title": "处方药网络零售“最严指南”出台，京东健康、阿里健康们被带上紧箍咒",
+          "desc": "实体药店有望价值重估",
+          "source": "36氪",
+          "date": "2026-05-26",
+          "dateLabel": "5月26日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3825550770905091",
+          "image": "https://img.36krcdn.com/hsossms/20260526/v2_0a05f8f457914cb0bd0006c472313e5d@5091053@ai_oswg1103309oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "a0a67dd73556",
+          "title": "算法1年翻倍，芯片2年翻倍？重磅实锤：AI正在自我加速，拦不住了",
+          "desc": "NBER重磅论文证明：AI研发的自我加速反馈环强度远超所有科技领域，算法效率每年翻倍，经济学家模拟显示6年内可能触发奇点。",
+          "source": "36氪",
+          "date": "2026-05-26",
+          "dateLabel": "5月26日",
+          "tags": [
+            "research",
+            "business"
+          ],
+          "url": "https://36kr.com/p/3825538895827849",
+          "image": "https://img.36krcdn.com/hsossms/20260526/v2_07208ee5a4cd4ec19d5313aa77d198ee@5091053@ai_oswg1045198oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "3ecb0f01400a",
+          "title": "聊聊Harness时代AI-First的组织架构：从信任人到信任AI",
+          "desc": "你敢让AI当家吗？",
+          "source": "36氪",
+          "date": "2026-05-26",
+          "dateLabel": "5月26日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://36kr.com/p/3825551742489222",
+          "image": "https://img.36krcdn.com/hsossms/20260526/v2_71d5511c23de44e6819f1d67fdd01380@5091053@ai_oswg1027553oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "276d7abf6f0c",
+          "title": "QuestMobile AI平台采信逻辑与信源偏好研究报告：信息分发权重构，用户行为跃迁，两大改变背后蕴藏品牌资产重塑的关键",
+          "desc": "从“意图理解”到“信源检索”、“内容召回”再到“答案生成”，品牌的“可信数据资产”必须做到“面”的覆盖和“点”的精准……",
+          "source": "36氪",
+          "date": "2026-05-26",
+          "dateLabel": "5月26日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://36kr.com/p/3825497154196353",
+          "image": "https://img.36krcdn.com/hsossms/20260526/v2_ef804d0946b54ff3843963fca6f28717@5091053@ai_oswg1060862oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "da91dcf0819c",
+          "title": "AI时代，大厂重回PC战场",
+          "desc": "生产力优势显著，PC产品将被重塑",
+          "source": "36氪",
+          "date": "2026-05-26",
+          "dateLabel": "5月26日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3825505246470406",
+          "image": "https://img.36krcdn.com/hsossms/20260526/v2_7b519f9d79b5401ba663736d6af17645@5091053@ai_oswg964184oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        }
+      ]
+    },
+    {
       "date": "2026-05-25",
       "dateLabel": "5月25日",
       "id": "d25",
       "items": [
         {
-          "id": "248107bf9abb",
-          "title": "大模型头部玩家吸干一级市场",
-          "desc": "不烧钱，就出局。",
-          "source": "36氪",
-          "date": "2026-05-25",
-          "dateLabel": "5月25日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://36kr.com/p/3821479227134338",
-          "image": "https://img.36krcdn.com/hsossms/20260525/v2_3993ccbddfba43d3810b651b18ac4dcf@5091053@ai_oswg1061159oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "e1dd1d2cd232",
-          "title": "一家垂类 AI 创企的自救：当通用模型开始吃掉一切",
-          "desc": "​智能开始非线性增长，AI 企业的底层逻辑正被改写。",
-          "source": "36氪",
-          "date": "2026-05-25",
-          "dateLabel": "5月25日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3821594633769346",
-          "image": "https://img.36krcdn.com/hsossms/20260525/v2_a00cd3d2cda442f387315802e66e0b14@5091053@ai_oswg1003604oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "48593f48609b",
-          "title": "Gemini 3.5删了两万八千行代码后，给自己写了封表扬信",
-          "desc": "AI过度执行错误指令致生产事故，需AI敢“叫停”",
-          "source": "36氪",
-          "date": "2026-05-25",
-          "dateLabel": "5月25日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://36kr.com/p/3822047393914883",
-          "image": "https://img.36krcdn.com/hsossms/20260525/v2_5a4456d66d794748ad295f6aa23d2349@5091053@ai_oswg957859oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "fae6d4fe23a9",
-          "title": "谷歌CEO最新访谈：谷歌多模态能力领先，但Coding确实落后了",
-          "desc": "谷歌最新智能体Spark今年夏天发布",
+          "id": "9bdde4d6a3ec",
+          "title": "1100亿的赌注：中国机器人离赢钱还差五年",
+          "desc": "下了注、上了桌，不等于赢钱。",
           "source": "36氪",
           "date": "2026-05-25",
           "dateLabel": "5月25日",
           "tags": [
             "research",
-            "business"
-          ],
-          "url": "https://36kr.com/p/3824178590077321",
-          "image": "https://img.36krcdn.com/hsossms/20260525/v2_ab5743dcdc5b441c9c2f1cc72390b7e0@5091053@ai_oswg1043007oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "ff9cac8976b5",
-          "title": "圆桌对话：从“千人千面”到“人心洞察”| 2026AI Partner·北京亦庄AI+产业大会",
-          "desc": "AIGC进阶情感洞察，人仍守审美判断与情感价值",
-          "source": "36氪",
-          "date": "2026-05-25",
-          "dateLabel": "5月25日",
-          "tags": [
-            "business",
             "cn"
           ],
-          "url": "https://36kr.com/p/3824154127093892",
-          "image": "https://img.36krcdn.com/hsossms/20260525/v2_4d644f124f954c8ea4c01fc4f760351d@6381723_oswg100777oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "url": "https://36kr.com/p/3824520810221702",
+          "image": "https://img.36krcdn.com/hsossms/20260525/v2_ab366e7b820a4061b2b9f3b6e3f4d117@46958@ai_oswg1056296oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "26ad9b9c6da2",
-          "title": "基于2025年发生的重大AI事件我们得出的十大戒律",
-          "desc": "基于2025年发生的重大AI事件我们得出的十大戒律",
+          "id": "0615648af38e",
+          "title": "版权市场大洗牌，AI焦虑下的孤注一掷",
+          "desc": "资本抢的不是版权，而是人类记忆。",
           "source": "36氪",
           "date": "2026-05-25",
           "dateLabel": "5月25日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3823087635599751",
-          "image": "https://img.36krcdn.com/hsossms/20260524/v2_9eaa5b3e75df4d96ad93ed6a8d1c7fa5@000000@ai_oswg314792oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3824637653406601",
+          "image": "https://img.36krcdn.com/hsossms/20260525/v2_284698278c1b4c0e825b40932b6a28ae@000000@ai_oswg385332oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "650aab046be1",
-          "title": "实测GPT For PPT：5分钟出稿质量堪忧，打工人“最后一公里”还得自己走",
-          "desc": "让 AI 做 PPT，还是世纪难题。",
-          "source": "36氪",
-          "date": "2026-05-25",
-          "dateLabel": "5月25日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://36kr.com/p/3822723397771271",
-          "image": "https://img.36krcdn.com/hsossms/20260525/v2_ec8d4dc9186a4db1b3cce29647d8de14@5091053@ai_oswg925996oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "aac13b66faf2",
-          "title": "AI Agent真的记得它看过什么吗？MemEye给多模态长期记忆做了一次“视觉体检”",
-          "desc": "多模态 Agent 不该只会“描述图片”",
+          "id": "5cc7db178419",
+          "title": "零代码自主发现科学图像处理算法，美阿贡国家实验室提出CVEvolve，具备写代码/结果自查/策略优化等全栈能力",
+          "desc": "攻克三大成像难题",
           "source": "36氪",
           "date": "2026-05-25",
           "dateLabel": "5月25日",
           "tags": [
             "research"
           ],
-          "url": "https://36kr.com/p/3822773869252744",
-          "image": "https://img.36krcdn.com/hsossms/20260525/v2_48e7ab3db06a4f7e915cbd53e089d381@5091053@ai_oswg1024018oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3824653858952070",
+          "image": "https://img.36krcdn.com/hsossms/20260525/v2_f0ab27aa024b40dbafd7fa9e2e46c75a@46958@ai_oswg1024150oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
+        },
+        {
+          "id": "457fe376fc67",
+          "title": "做“机器狗”的云深处，靠什么撑起41倍市销率？",
+          "desc": "3亿营收撑起139亿估值，资本市场在赌什么？",
+          "source": "36氪",
+          "date": "2026-05-25",
+          "dateLabel": "5月25日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3824642275169160",
+          "image": "https://img.36krcdn.com/hsossms/20260525/v2_125e35c088d24520bfa99d2862299a02@000000@ai_oswg328787oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "7a18e0f353ff",
+          "title": "并购激励金都不要了？全程踩中AI Coding，Windsurf核心工程师离开DeepMind",
+          "desc": "找到真正值得攀登的山。",
+          "source": "36氪",
+          "date": "2026-05-25",
+          "dateLabel": "5月25日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3824601714250121",
+          "image": "https://img.36krcdn.com/hsossms/20260525/v2_f6407fa829f047f88bf1d26fe50dd95d@000000@ai_oswg393492oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "333cfbef2703",
+          "title": "京东JoyInside戴文军：AI的终极形态不是聊天，是融入你家每一件物品丨AIGC2026",
+          "desc": "硬件不该让人适应，它应该主动适应你",
+          "source": "量子位",
+          "date": "2026-05-25",
+          "dateLabel": "5月25日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/05/424794.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "0bce3d6fff56",
+          "title": "无人车遇水则瘫？Waymo大规模召回，叫停多城Robotaxi服务",
+          "desc": "特斯拉学会“躲交警”了",
+          "source": "量子位",
+          "date": "2026-05-25",
+          "dateLabel": "5月25日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/05/424610.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "e0e58ab1b9f4",
+          "title": "打造创投生态的超级枢纽， 2026投资界SuperLink大会定档6月",
+          "desc": "6月10-11日盛大启幕",
+          "source": "量子位",
+          "date": "2026-05-25",
+          "dateLabel": "5月25日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/05/424605.html",
+          "image": "",
+          "color": "#7c3aed"
         }
       ]
     },
@@ -1207,58 +1330,6 @@
           "color": "#2563eb"
         }
       ]
-    },
-    {
-      "date": "2026-04-22",
-      "dateLabel": "4月22日",
-      "id": "d22",
-      "items": [
-        {
-          "id": "919acaa227",
-          "title": "腾讯智慧出行：单纯大模型上车无意义，要落地场景智能体",
-          "desc": "腾讯智慧出行负责人表示，大模型直接上车价值有限，需结合具体场景打造智能体方案才能实现真正落地，舱驾一体是未来方向。",
-          "source": "量子位",
-          "date": "2026-04-22",
-          "dateLabel": "4月22日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/04/409550.html",
-          "image": "https://images.unsplash.com/photo-1549397416-4d5c3e0b5a8e?w=400&h=250&fit=crop",
-          "color": "#07c160"
-        },
-        {
-          "id": "87ea20f7e1",
-          "title": "3个月手搓 Gamma 架构，打造场景白盒化推理的”下一代内容OS”",
-          "desc": "创业团队仅用3个月开发出Gamma架构，实现场景白盒化推理，打造下一代内容操作系统，AI内容创作工具迎来架构级创新。",
-          "source": "量子位",
-          "date": "2026-04-22",
-          "dateLabel": "4月22日",
-          "tags": [
-            "model",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/04/409561.html",
-          "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=400&h=250&fit=crop",
-          "color": "#9333ea"
-        },
-        {
-          "id": "db9de17761",
-          "title": "深挖物理AI的”数字地基”，五一视界的千亿梦想",
-          "desc": "五一视界作为”中国仿真场景王”被英伟达智驾生态选中，其物理AI仿真平台正在为自动驾驶和具身智能提供关键数字基础设施。",
-          "source": "36氪",
-          "date": "2026-04-22",
-          "dateLabel": "4月22日",
-          "tags": [
-            "research",
-            "business"
-          ],
-          "url": "https://36kr.com/p/3787631513689353",
-          "image": "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?w=400&h=250&fit=crop",
-          "color": "#2563eb"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -1284,6 +1355,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-05-25 14:26",
-  "totalNews": 78
+  "updateTime": "2026-05-26 14:05",
+  "totalNews": 83
 }
