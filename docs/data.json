@@ -1,125 +1,233 @@
 {
   "newsData": [
     {
+      "date": "2026-05-27",
+      "dateLabel": "5月27日",
+      "id": "d27",
+      "items": [
+        {
+          "id": "0a9cc706d2cc",
+          "title": "AMD新论文颠覆认知：FP4训练不稳定，原因不是随机性不足",
+          "desc": "在原生 FP4 硬件上实现端到端 9-10% 的训练加速",
+          "source": "36氪",
+          "date": "2026-05-27",
+          "dateLabel": "5月27日",
+          "tags": [
+            "research",
+            "business"
+          ],
+          "url": "https://36kr.com/p/3827014998233733",
+          "image": "https://img.36krcdn.com/hsossms/20260527/v2_381effe9a5bb4a09a4c4336d506e491d@000000@ai_oswg385238oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "13bdb80f5d30",
+          "title": "谷歌全家桶，都被新模型“污染”了",
+          "desc": "皮查伊吹爆的Gemini 3.5，网友贴脸狂喷它是垃圾",
+          "source": "36氪",
+          "date": "2026-05-27",
+          "dateLabel": "5月27日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://36kr.com/p/3827021244899584",
+          "image": "https://img.36krcdn.com/hsossms/20260527/v2_f55ac033d25846b984ab919683d7885c@46958@ai_oswg947949oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "3d53ac17e52d",
+          "title": "湖北冲出一个光纤IPO，华为持股，开盘暴涨1193%",
+          "desc": "华中科技大学教授创办。",
+          "source": "36氪",
+          "date": "2026-05-27",
+          "dateLabel": "5月27日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3826964406211457",
+          "image": "https://img.36krcdn.com/hsossms/20260527/v2_784b4ddb22644ef38f3b17a59418b40f@5091053@ai_oswg991962oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "cd59e24875ae",
+          "title": "小米跟了DeepSeek价格战，直降99%，全面对标",
+          "desc": "套餐额度暴涨5到8倍，最低档也有5亿Token。",
+          "source": "36氪",
+          "date": "2026-05-27",
+          "dateLabel": "5月27日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3826964226691972",
+          "image": "https://img.36krcdn.com/hsossms/20260527/v2_24054cf0891a4d19a8b33cef92db4c48@5091053@ai_oswg880839oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "048d3ccb6ba6",
+          "title": "王慧文那个框，框出了AI时代的财富新流向",
+          "desc": "最好走进框里。",
+          "source": "36氪",
+          "date": "2026-05-27",
+          "dateLabel": "5月27日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3826952304022409",
+          "image": "https://img.36krcdn.com/hsossms/20260527/v2_451db63d5cda427ca0bb3dd0d8f63e9a@5091053@ai_oswg997542oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "aa922284eb5d",
+          "title": "宇树科技估值420亿，王兴兴冲A关键一战",
+          "desc": "一季度研发与营销投入推高。",
+          "source": "36氪",
+          "date": "2026-05-27",
+          "dateLabel": "5月27日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3826956231562113",
+          "image": "https://img.36krcdn.com/hsossms/20260527/v2_ad85b748e69e4a209c3526fe0447f0ff@5091053@ai_oswg1009496oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "2de18f26129d",
+          "title": "1年暴涨8倍，借力AI，存储大厂美光市值突破 1 万亿美元",
+          "desc": "当所有人都在盯着 GPU，真正卡住 AI 脖子的，是另一块芯片。",
+          "source": "36氪",
+          "date": "2026-05-27",
+          "dateLabel": "5月27日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3826950812390019",
+          "image": "https://img.36krcdn.com/hsossms/20260527/v2_2987c2a4da124232badbf8849af056df@5091053@ai_oswg930894oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "4a2fedc731bf",
+          "title": "150亿，深圳博士今天IPO敲钟",
+          "desc": "始于深圳南山。",
+          "source": "36氪",
+          "date": "2026-05-27",
+          "dateLabel": "5月27日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3826951882592901",
+          "image": "https://img.36krcdn.com/hsossms/20260527/v2_b04a730b59ca4b298b3ed3c3c1681eef@5091053@ai_oswg940743oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        }
+      ]
+    },
+    {
       "date": "2026-05-26",
       "dateLabel": "5月26日",
       "id": "d26",
       "items": [
         {
-          "id": "9e847dab5e0b",
-          "title": "4180万美元种子轮爆火：韩国物理AI撕开视频预训练的真实落地逻辑",
-          "desc": "视频预训练商业化价值争议不断。",
-          "source": "36氪",
+          "id": "919f5c402e92",
+          "title": "将DSA注意力引入多模态，快手Keye2.0开启强化推理新范式",
+          "desc": "光影之间，读懂未尽之意",
+          "source": "量子位",
           "date": "2026-05-26",
           "dateLabel": "5月26日",
           "tags": [
             "research",
-            "business"
-          ],
-          "url": "https://36kr.com/p/3824732997116163",
-          "image": "https://img.36krcdn.com/hsossms/20260526/v2_71a7f72d64eb4e3d8f5bde8f06db3620@5091053@ai_oswg1016124oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "f910ea3e42a5",
-          "title": "刚刚，国产Agent模型闯入全球第一梯队，限时免费",
-          "desc": "深度适配OpenClaw、Claude Code、Hermes等",
-          "source": "36氪",
-          "date": "2026-05-26",
-          "dateLabel": "5月26日",
-          "tags": [
-            "model",
             "cn"
           ],
-          "url": "https://36kr.com/p/3825582437536391",
-          "image": "https://img.36krcdn.com/hsossms/20260526/v2_4f7ae60f82b746d49f4363fcfafad655@5091053@ai_oswg963348oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
+          "url": "https://www.qbitai.com/2026/05/425600.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "0e2487af3a77",
-          "title": "Grok最新模型吃上Cursor「加餐」，马斯克：Coding实现巨大改进",
-          "desc": "1.5T参数，加入了大量Cursor数据",
-          "source": "36氪",
+          "id": "a108d83c80e3",
+          "title": "刚刚，国产AI自己造了AI，全球首例！",
+          "desc": "训练速度比英伟达Megatron快10%",
+          "source": "量子位",
+          "date": "2026-05-26",
+          "dateLabel": "5月26日",
+          "tags": [
+            "research",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/05/425511.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "9a9be9a9341b",
+          "title": "留给人类数学家的悬赏不多了！谷歌DeepMind一口气解决9道埃尔德什问题",
+          "desc": "解决卡了人类56年的数学难题",
+          "source": "量子位",
           "date": "2026-05-26",
           "dateLabel": "5月26日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3825583434879880",
-          "image": "https://img.36krcdn.com/hsossms/20260526/v2_57b88c36c6aa454293bdc95a0d1aec4b@5091053@ai_oswg1086111oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
+          "url": "https://www.qbitai.com/2026/05/425455.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "bc3ce5ddbff5",
-          "title": "处方药网络零售“最严指南”出台，京东健康、阿里健康们被带上紧箍咒",
-          "desc": "实体药店有望价值重估",
-          "source": "36氪",
+          "id": "be6dd580b6f7",
+          "title": "卡帕西Anthropic最新头衔：技术员工（MTS）",
+          "desc": "MTS（技术员工） @Anthropic",
+          "source": "量子位",
+          "date": "2026-05-26",
+          "dateLabel": "5月26日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/05/425304.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "e7add05fcbe5",
+          "title": "华为发布AI DC数据基础设施全栈方案，加速行业智能化跃升",
+          "desc": "华为发布AI DC数据基础设施全栈方案，加速行业智能化跃升",
+          "source": "量子位",
           "date": "2026-05-26",
           "dateLabel": "5月26日",
           "tags": [
             "business",
             "cn"
           ],
-          "url": "https://36kr.com/p/3825550770905091",
-          "image": "https://img.36krcdn.com/hsossms/20260526/v2_0a05f8f457914cb0bd0006c472313e5d@5091053@ai_oswg1103309oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
+          "url": "https://www.qbitai.com/2026/05/425296.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "a0a67dd73556",
-          "title": "算法1年翻倍，芯片2年翻倍？重磅实锤：AI正在自我加速，拦不住了",
-          "desc": "NBER重磅论文证明：AI研发的自我加速反馈环强度远超所有科技领域，算法效率每年翻倍，经济学家模拟显示6年内可能触发奇点。",
-          "source": "36氪",
-          "date": "2026-05-26",
-          "dateLabel": "5月26日",
-          "tags": [
-            "research",
-            "business"
-          ],
-          "url": "https://36kr.com/p/3825538895827849",
-          "image": "https://img.36krcdn.com/hsossms/20260526/v2_07208ee5a4cd4ec19d5313aa77d198ee@5091053@ai_oswg1045198oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "3ecb0f01400a",
-          "title": "聊聊Harness时代AI-First的组织架构：从信任人到信任AI",
-          "desc": "你敢让AI当家吗？",
-          "source": "36氪",
-          "date": "2026-05-26",
-          "dateLabel": "5月26日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://36kr.com/p/3825551742489222",
-          "image": "https://img.36krcdn.com/hsossms/20260526/v2_71d5511c23de44e6819f1d67fdd01380@5091053@ai_oswg1027553oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "276d7abf6f0c",
-          "title": "QuestMobile AI平台采信逻辑与信源偏好研究报告：信息分发权重构，用户行为跃迁，两大改变背后蕴藏品牌资产重塑的关键",
-          "desc": "从“意图理解”到“信源检索”、“内容召回”再到“答案生成”，品牌的“可信数据资产”必须做到“面”的覆盖和“点”的精准……",
-          "source": "36氪",
-          "date": "2026-05-26",
-          "dateLabel": "5月26日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://36kr.com/p/3825497154196353",
-          "image": "https://img.36krcdn.com/hsossms/20260526/v2_ef804d0946b54ff3843963fca6f28717@5091053@ai_oswg1060862oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "da91dcf0819c",
-          "title": "AI时代，大厂重回PC战场",
-          "desc": "生产力优势显著，PC产品将被重塑",
-          "source": "36氪",
+          "id": "cd4e89ac33b2",
+          "title": "荣耀600系列手机发布：4K闪光微单Live，国补价2294.15元起",
+          "desc": "独特“幸运星”ID设计，打造数字系列史上最精致外观",
+          "source": "量子位",
           "date": "2026-05-26",
           "dateLabel": "5月26日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3825505246470406",
-          "image": "https://img.36krcdn.com/hsossms/20260526/v2_7b519f9d79b5401ba663736d6af17645@5091053@ai_oswg964184oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
+          "url": "https://www.qbitai.com/2026/05/425155.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "49683213a1b0",
+          "title": "“卡车界特斯拉”，刚刚又融了2亿美元",
+          "desc": "90后天才+70后老将打造",
+          "source": "量子位",
+          "date": "2026-05-26",
+          "dateLabel": "5月26日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/05/425058.html",
+          "image": "",
+          "color": "#7c3aed"
         }
       ]
     },
@@ -1278,58 +1386,6 @@
           "color": "#f59e0b"
         }
       ]
-    },
-    {
-      "date": "2026-04-23",
-      "dateLabel": "4月23日",
-      "id": "d23",
-      "items": [
-        {
-          "id": "d17765b217",
-          "title": "当200位具身从业者被拉进同一个屋子",
-          "desc": "国内具身智能行业最大规模聚会，200位从业者齐聚探讨：做具身别着急”堆数据”，先想透核心问题，行业正从概念验证走向规模落地。",
-          "source": "量子位",
-          "date": "2026-04-23",
-          "dateLabel": "4月23日",
-          "tags": [
-            "research",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/04/409670.html",
-          "image": "https://images.unsplash.com/photo-1531746790095-e5cb157f2693?w=400&h=250&fit=crop",
-          "color": "#059669"
-        },
-        {
-          "id": "723949a556",
-          "title": "小马智行首次入局 RoboVan，做了10年Robotaxi后拓展新赛道",
-          "desc": "小马智行成立10年来首次进入无人货运赛道，楼天城指出AI下一步发展的两个关键方向，从载人到载物的战略延伸。",
-          "source": "量子位",
-          "date": "2026-04-23",
-          "dateLabel": "4月23日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/04/409648.html",
-          "image": "https://images.unsplash.com/photo-1549924231-f129b911e442?w=400&h=250&fit=crop",
-          "color": "#0052d9"
-        },
-        {
-          "id": "60d878c64e",
-          "title": "赋予机械臂自我成长能力，睿尔曼发布AI智能示教泛化系统",
-          "desc": "睿尔曼智能发布AI智能示教泛化系统，”AI三引擎”协同发力，让机械臂具备自我成长和泛化能力，推动工业机器人智能化升级。",
-          "source": "量子位",
-          "date": "2026-04-23",
-          "dateLabel": "4月23日",
-          "tags": [
-            "research",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/04/409665.html",
-          "image": "https://images.unsplash.com/photo-1561557944-6e7860d1a7eb?w=400&h=250&fit=crop",
-          "color": "#2563eb"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -1355,6 +1411,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-05-26 14:05",
-  "totalNews": 83
+  "updateTime": "2026-05-27 14:19",
+  "totalNews": 87
 }
