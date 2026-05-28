@@ -1,43 +1,135 @@
 {
   "newsData": [
     {
+      "date": "2026-05-28",
+      "dateLabel": "5月28日",
+      "id": "d28",
+      "items": [
+        {
+          "id": "47264038a462",
+          "title": "OpenAI和Anthropic带头念的经可能是歪的",
+          "desc": "过去一年，多智能体系统成为 AI 世界最热门的方向之一，关键是热门的可能是错的。",
+          "source": "36氪",
+          "date": "2026-05-28",
+          "dateLabel": "5月28日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3828396865741065",
+          "image": "https://img.36krcdn.com/hsossms/20260528/v2_4074c2909b434cd3bdcdc2a69362f487@5091053@ai_oswg971701oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "1d26c009d2de",
+          "title": "前逸动员工创立消费级智能船艇公司，半年内再获新融资｜硬氪首发",
+          "desc": "电动智能、易操作、低维护的新一代水上载具。",
+          "source": "36氪",
+          "date": "2026-05-28",
+          "dateLabel": "5月28日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3820713545846917",
+          "image": "https://img.36krcdn.com/hsossms/20260524/v2_214fe30c81174333a76938a68cdb6684@6022551_oswg159145oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "ee2e431aeea2",
+          "title": "国产AI编程冲上全球第二，实测五大模型，谁才是Vibe Coding神器",
+          "desc": "国产模型哪家强，中国浙江看……",
+          "source": "36氪",
+          "date": "2026-05-28",
+          "dateLabel": "5月28日",
+          "tags": [
+            "model",
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3828430341542789",
+          "image": "https://img.36krcdn.com/hsossms/20260528/v2_9174ff32060b4aa287dee484e501b85c@5091053@ai_oswg1008304oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "a98bedc59aa0",
+          "title": "“ASIC巨头”Marvell季度营收创纪录、连续上调指引，CEO称数据中心业务“燃爆了”",
+          "desc": "营收创纪录、指引大幅上调，Marvell交出了一份看起来相当亮眼的成绩单。",
+          "source": "36氪",
+          "date": "2026-05-28",
+          "dateLabel": "5月28日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3828373351076488",
+          "image": "https://img.36krcdn.com/hsossms/20260528/v2_1525d7afa3d847e895ee246ff32634fa@5091053@ai_oswg1060324oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "a8740f48d33b",
+          "title": "给4个大模型20美元让它当老板，创业半年后：罢工、胡说八道...全员开启“摆烂式运营”",
+          "desc": "明明起点几乎一样，但仅仅两个月后，四个 AI DJ 就已经发展出了完全不同的“人格”。",
+          "source": "36氪",
+          "date": "2026-05-28",
+          "dateLabel": "5月28日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://36kr.com/p/3828391939592833",
+          "image": "https://img.36krcdn.com/hsossms/20260528/v2_73a4f8b270944c16b200101c221c8005@5091053_oswg1041369oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "d59cbd1df51b",
+          "title": "近10亿融资落地，墨芯加速稀疏计算商业化闭环，年底发新一代加速卡",
+          "desc": "云边端及算力网络已拿下不少商业化订单。",
+          "source": "36氪",
+          "date": "2026-05-28",
+          "dateLabel": "5月28日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3828243885707913",
+          "image": "https://img.36krcdn.com/hsossms/20260528/v2_1297d814d64c4ec19f8bab698c96681e@5091053@ai_oswg1156302oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "207053e523be",
+          "title": "ASI决战，OpenAI与Anthropic双雄争霸",
+          "desc": "ASI双雄争霸。",
+          "source": "36氪",
+          "date": "2026-05-28",
+          "dateLabel": "5月28日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3828254143844999",
+          "image": "https://img.36krcdn.com/hsossms/20260528/v2_b9416355a90f4d5e88ae5add75cbe4d1@5091053@ai_oswg1208482oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "b12babfbda81",
+          "title": "给AI“降本”，墨芯C轮融资近十亿元",
+          "desc": "谁能把token的生成成本打下来，谁就可能拿到下一轮竞争的入场券。",
+          "source": "36氪",
+          "date": "2026-05-28",
+          "dateLabel": "5月28日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3828296184337027",
+          "image": "https://img.36krcdn.com/hsossms/20260528/v2_33cfb3efe4924a8ea4161f66455a94b6@5091053@ai_oswg1159507oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        }
+      ]
+    },
+    {
       "date": "2026-05-27",
       "dateLabel": "5月27日",
       "id": "d27",
       "items": [
         {
-          "id": "0a9cc706d2cc",
-          "title": "AMD新论文颠覆认知：FP4训练不稳定，原因不是随机性不足",
-          "desc": "在原生 FP4 硬件上实现端到端 9-10% 的训练加速",
-          "source": "36氪",
-          "date": "2026-05-27",
-          "dateLabel": "5月27日",
-          "tags": [
-            "research",
-            "business"
-          ],
-          "url": "https://36kr.com/p/3827014998233733",
-          "image": "https://img.36krcdn.com/hsossms/20260527/v2_381effe9a5bb4a09a4c4336d506e491d@000000@ai_oswg385238oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "13bdb80f5d30",
-          "title": "谷歌全家桶，都被新模型“污染”了",
-          "desc": "皮查伊吹爆的Gemini 3.5，网友贴脸狂喷它是垃圾",
-          "source": "36氪",
-          "date": "2026-05-27",
-          "dateLabel": "5月27日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://36kr.com/p/3827021244899584",
-          "image": "https://img.36krcdn.com/hsossms/20260527/v2_f55ac033d25846b984ab919683d7885c@46958@ai_oswg947949oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "3d53ac17e52d",
-          "title": "湖北冲出一个光纤IPO，华为持股，开盘暴涨1193%",
-          "desc": "华中科技大学教授创办。",
+          "id": "3df337197d77",
+          "title": "腾讯游戏的One More Thing，是AI",
+          "desc": "AI已然成为未来游戏行业发展的必选项。",
           "source": "36氪",
           "date": "2026-05-27",
           "dateLabel": "5月27日",
@@ -45,14 +137,28 @@
             "business",
             "cn"
           ],
-          "url": "https://36kr.com/p/3826964406211457",
-          "image": "https://img.36krcdn.com/hsossms/20260527/v2_784b4ddb22644ef38f3b17a59418b40f@5091053@ai_oswg991962oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3827658881323649",
+          "image": "https://img.36krcdn.com/hsossms/20260527/v2_a4e406359fc345db894aafb57f9e5024@242988687_oswg511887oswg600oswg400_img_png",
           "color": "#2563eb"
         },
         {
-          "id": "cd59e24875ae",
-          "title": "小米跟了DeepSeek价格战，直降99%，全面对标",
-          "desc": "套餐额度暴涨5到8倍，最低档也有5亿Token。",
+          "id": "434d721e875f",
+          "title": "创业2年，干出270亿：这家机器人公司，赚麻了",
+          "desc": "踩中了钱袋子。",
+          "source": "36氪",
+          "date": "2026-05-27",
+          "dateLabel": "5月27日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://36kr.com/p/3827461417833352",
+          "image": "https://img.36krcdn.com/hsossms/20260527/v2_d608dc0361904770a3f21b362129faa6@000000@ai_oswg300032oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "ada63bd0562d",
+          "title": "双标实锤，Kimi误判老外秒解封，国内付费用户炸锅",
+          "desc": "寒了国内开发者的心。",
           "source": "36氪",
           "date": "2026-05-27",
           "dateLabel": "5月27日",
@@ -60,65 +166,78 @@
             "model",
             "cn"
           ],
-          "url": "https://36kr.com/p/3826964226691972",
-          "image": "https://img.36krcdn.com/hsossms/20260527/v2_24054cf0891a4d19a8b33cef92db4c48@5091053@ai_oswg880839oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3827328850334336",
+          "image": "https://img.36krcdn.com/hsossms/20260527/v2_adeec5c7e96b4b04aec5c4c0021d5b84@000000@ai_oswg348283oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "048d3ccb6ba6",
-          "title": "王慧文那个框，框出了AI时代的财富新流向",
-          "desc": "最好走进框里。",
+          "id": "2af9d3d49965",
+          "title": "月薪7000的抽卡师，只是AI短剧的「临时工」",
+          "desc": "一个新岗位的速生速死",
           "source": "36氪",
           "date": "2026-05-27",
           "dateLabel": "5月27日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3826952304022409",
-          "image": "https://img.36krcdn.com/hsossms/20260527/v2_451db63d5cda427ca0bb3dd0d8f63e9a@5091053@ai_oswg997542oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3827470501122690",
+          "image": "https://img.36krcdn.com/hsossms/20260527/v2_9336f6d37f8f4d1b80502f9ecc076774@46958@ai_oswg1106636oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "aa922284eb5d",
-          "title": "宇树科技估值420亿，王兴兴冲A关键一战",
-          "desc": "一季度研发与营销投入推高。",
+          "id": "d487cf793f08",
+          "title": "AI商业化的十字路口：为什么广告与订阅都难以单独走通？",
+          "desc": "这可能才是AI Agent商业模式真正成熟的起点。",
           "source": "36氪",
           "date": "2026-05-27",
           "dateLabel": "5月27日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3826956231562113",
-          "image": "https://img.36krcdn.com/hsossms/20260527/v2_ad85b748e69e4a209c3526fe0447f0ff@5091053@ai_oswg1009496oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3827388168360833",
+          "image": "https://img.36krcdn.com/hsossms/20260527/v2_0969a3537b5b4345bd8a861c35ae0e10@000000@ai_oswg299574oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "2de18f26129d",
-          "title": "1年暴涨8倍，借力AI，存储大厂美光市值突破 1 万亿美元",
-          "desc": "当所有人都在盯着 GPU，真正卡住 AI 脖子的，是另一块芯片。",
+          "id": "d932aef200bf",
+          "title": "宇树还没上市，王兴兴的宁波老乡已经赢麻了",
+          "desc": "减速器大佬成最牛“卖铲人”。",
           "source": "36氪",
           "date": "2026-05-27",
           "dateLabel": "5月27日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3826950812390019",
-          "image": "https://img.36krcdn.com/hsossms/20260527/v2_2987c2a4da124232badbf8849af056df@5091053@ai_oswg930894oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3827401882001409",
+          "image": "https://img.36krcdn.com/hsossms/20260527/v2_56ab9dd44fae40e88aaf72df5f207063@46958@ai_oswg1023564oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "4a2fedc731bf",
-          "title": "150亿，深圳博士今天IPO敲钟",
-          "desc": "始于深圳南山。",
+          "id": "262c86a57075",
+          "title": "10亿亏损挡不住股价暴涨1300%，“短剧+AI”带飞中文在线？",
+          "desc": "进化中的“AI短剧工厂”，预计年化产能可达3000部",
           "source": "36氪",
           "date": "2026-05-27",
           "dateLabel": "5月27日",
           "tags": [
-            "business",
-            "cn"
+            "business"
           ],
-          "url": "https://36kr.com/p/3826951882592901",
-          "image": "https://img.36krcdn.com/hsossms/20260527/v2_b04a730b59ca4b298b3ed3c3c1681eef@5091053@ai_oswg940743oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3827409033076745",
+          "image": "https://img.36krcdn.com/hsossms/20260527/v2_c8326aca52234236ba1076eb77cf97fa@46958@ai_oswg1070988oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "e6cea3e99c86",
+          "title": "2026年，最大的认知偏差",
+          "desc": "无数人踏空",
+          "source": "36氪",
+          "date": "2026-05-27",
+          "dateLabel": "5月27日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3827439813513861",
+          "image": "https://img.36krcdn.com/hsossms/20260527/v2_7b7112ee958e4efa819eb18b87d3b7cc@000000@ai_oswg439141oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         }
       ]
@@ -155,77 +274,6 @@
             "cn"
           ],
           "url": "https://www.qbitai.com/2026/05/425511.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "9a9be9a9341b",
-          "title": "留给人类数学家的悬赏不多了！谷歌DeepMind一口气解决9道埃尔德什问题",
-          "desc": "解决卡了人类56年的数学难题",
-          "source": "量子位",
-          "date": "2026-05-26",
-          "dateLabel": "5月26日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/05/425455.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "be6dd580b6f7",
-          "title": "卡帕西Anthropic最新头衔：技术员工（MTS）",
-          "desc": "MTS（技术员工） @Anthropic",
-          "source": "量子位",
-          "date": "2026-05-26",
-          "dateLabel": "5月26日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/05/425304.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "e7add05fcbe5",
-          "title": "华为发布AI DC数据基础设施全栈方案，加速行业智能化跃升",
-          "desc": "华为发布AI DC数据基础设施全栈方案，加速行业智能化跃升",
-          "source": "量子位",
-          "date": "2026-05-26",
-          "dateLabel": "5月26日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/05/425296.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "cd4e89ac33b2",
-          "title": "荣耀600系列手机发布：4K闪光微单Live，国补价2294.15元起",
-          "desc": "独特“幸运星”ID设计，打造数字系列史上最精致外观",
-          "source": "量子位",
-          "date": "2026-05-26",
-          "dateLabel": "5月26日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/05/425155.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "49683213a1b0",
-          "title": "“卡车界特斯拉”，刚刚又融了2亿美元",
-          "desc": "90后天才+70后老将打造",
-          "source": "量子位",
-          "date": "2026-05-26",
-          "dateLabel": "5月26日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/05/425058.html",
           "image": "",
           "color": "#7c3aed"
         }
@@ -1334,58 +1382,6 @@
           "color": "#d97706"
         }
       ]
-    },
-    {
-      "date": "2026-04-24",
-      "dateLabel": "4月24日",
-      "id": "d24",
-      "items": [
-        {
-          "id": "70a646a02b",
-          "title": "银河通用 LDA 定义全域数据利用范式，跨本体世界动作大模型开启具身GPT-2时刻",
-          "desc": "银河通用提出LDA（全域数据利用）新范式，跨本体世界动作大模型让具身智能迎来GPT-2时刻，为机器人通用化奠定基础。",
-          "source": "量子位",
-          "date": "2026-04-24",
-          "dateLabel": "4月24日",
-          "tags": [
-            "research",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/04/410653.html",
-          "image": "https://images.unsplash.com/photo-1561557944-6e7860d1a7eb?w=400&h=250&fit=crop",
-          "color": "#4f46e5"
-        },
-        {
-          "id": "3a9e5507e4",
-          "title": "中国企业牵头 ICLR Workshop 被挤爆",
-          "desc": "中国企业牵头的ICLR Workshop人气爆棚，反映中国AI研究在国际学术舞台的话语权持续提升，从跟随者变为引领者。",
-          "source": "量子位",
-          "date": "2026-04-24",
-          "dateLabel": "4月24日",
-          "tags": [
-            "research",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/04/410463.html",
-          "image": "https://images.unsplash.com/photo-1532094349884-5c53445c5a87?w=400&h=250&fit=crop",
-          "color": "#ef4444"
-        },
-        {
-          "id": "dfa19fb3c9",
-          "title": "Meshy 用户破千万后杀向新战场：ARR年翻14倍",
-          "desc": "3D AI生成平台Meshy用户突破千万，ARR年翻14倍，头部厂商集体买单。最新上线创意工坊，打通”AI创意”全链路。",
-          "source": "量子位",
-          "date": "2026-04-24",
-          "dateLabel": "4月24日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/04/408049.html",
-          "image": "https://images.unsplash.com/photo-1541701494587-cb58502866ab?w=400&h=250&fit=crop",
-          "color": "#f59e0b"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -1411,6 +1407,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-05-27 14:19",
+  "updateTime": "2026-05-28 14:11",
   "totalNews": 87
 }
