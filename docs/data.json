@@ -1,42 +1,194 @@
 {
   "newsData": [
     {
+      "date": "2026-05-29",
+      "dateLabel": "5月29日",
+      "id": "d29",
+      "items": [
+        {
+          "id": "fb7fc6b90917",
+          "title": "火星人携代言人解锁厨房新范式",
+          "desc": "火星人联合京东发空间魔法师套系，代言人王安宇到场。",
+          "source": "36氪",
+          "date": "2026-05-29",
+          "dateLabel": "5月29日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3829869977200520",
+          "image": "https://img.36krcdn.com/hsossms/20260529/v2_ee0bddda299742e188245aeadeda67e0@6062546_oswg810646oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "5ae9e1778d89",
+          "title": "中国版 Anthropic 是个伪命题",
+          "desc": "200倍的裂缝",
+          "source": "36氪",
+          "date": "2026-05-29",
+          "dateLabel": "5月29日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3829831545759617",
+          "image": "https://img.36krcdn.com/hsossms/20260529/v2_7707175ded574ed1b2fa1570ad3dca9b@5091053@ai_oswg1028092oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "7bf703eb28bd",
+          "title": "倒反天罡，AI越来越强，人类开始“自证清白”",
+          "desc": "反向图灵测试每天都在上演",
+          "source": "36氪",
+          "date": "2026-05-29",
+          "dateLabel": "5月29日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3829840739952263",
+          "image": "https://img.36krcdn.com/hsossms/20260529/v2_064cea31be254e90a92f018981b144d3@5091053@ai_oswg915309oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "106ef07ccb99",
+          "title": "刚刚，拓竹对手IPO敲钟了",
+          "desc": "白手起家。",
+          "source": "36氪",
+          "date": "2026-05-29",
+          "dateLabel": "5月29日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3829786442409346",
+          "image": "https://img.36krcdn.com/hsossms/20260529/v2_bcb348de6568491d8edba45e79ee8978@5091053@ai_oswg1019013oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "fafb81b700cf",
+          "title": "国内同行羡慕硅谷有钱，硅谷在羡慕宇树有副好身体",
+          "desc": "宇树真正的价值，不在招股书的财务报表里，而在它在全球具身浪潮里站的那个位置上。",
+          "source": "36氪",
+          "date": "2026-05-29",
+          "dateLabel": "5月29日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3828940754199683",
+          "image": "https://img.36krcdn.com/hsossms/20260529/v2_98a764376e7c47feb3eb536594a0b5a2@5091053@ai_oswg988196oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "4371e9277d39",
+          "title": "巨头卡位AI支付，安全屏障如何构建？",
+          "desc": "智能体让支付决策从人来决策转向人与智能体共同决策。在不少业内人士的未来畅享中，支付还可能一定程度上变成智能体自主决策",
+          "source": "36氪",
+          "date": "2026-05-29",
+          "dateLabel": "5月29日",
+          "tags": [
+            "policy"
+          ],
+          "url": "https://36kr.com/p/3828918212727686",
+          "image": "https://img.36krcdn.com/hsossms/20260529/v2_d437615460524f34b6b9f613789c5622@5091053@ai_oswg901564oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "2f5a8e9efcce",
+          "title": "Opus 4.8：一个不太诚实的模型",
+          "desc": "Mythos 压着不发,Opus 4.8 这波是收着打……",
+          "source": "36氪",
+          "date": "2026-05-29",
+          "dateLabel": "5月29日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3829725758203267",
+          "image": "https://img.36krcdn.com/hsossms/20260529/v2_d6d2aeb2375648d2b3e716074f381cf3@5091053@ai_oswg968705oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "e8915d019c20",
+          "title": "爆了的AI编码工具，联合创始人亲口说工程师还有救",
+          "desc": "当AI让生成代码越来越廉价时，真正稀缺的是判断力",
+          "source": "36氪",
+          "date": "2026-05-29",
+          "dateLabel": "5月29日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3829518101062785",
+          "image": "https://img.36krcdn.com/hsossms/20260529/v2_0d725887ce534c91a362033b2d6f2382@5091053@ai_oswg1041930oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        }
+      ]
+    },
+    {
       "date": "2026-05-28",
       "dateLabel": "5月28日",
       "id": "d28",
       "items": [
         {
-          "id": "47264038a462",
-          "title": "OpenAI和Anthropic带头念的经可能是歪的",
-          "desc": "过去一年，多智能体系统成为 AI 世界最热门的方向之一，关键是热门的可能是错的。",
+          "id": "fd388a0b57b9",
+          "title": "苏州AI独角兽重启IPO，三年期间阿里陆续减持",
+          "desc": "过去三年，阿里网络和联想系基金启迪创新大幅减持思必驰的持股比例，阿里从原来18%的持股，减持到如今5%左右。",
+          "source": "36氪",
+          "date": "2026-05-28",
+          "dateLabel": "5月28日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3828987897831433",
+          "image": "https://img.36krcdn.com/hsossms/20260529/v2_7ddce8708b3e4fe49647998c3e7c2f36@5091053@ai_oswg1007092oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "769d2ba81809",
+          "title": "半数华人、3位亿万富翁：这张十年前的量化实习生合照，藏着 AI 时代的新贵版图",
+          "desc": "从HRT到幻方量化，AI圈的半壁江山，被这帮量化交易员接管了。",
           "source": "36氪",
           "date": "2026-05-28",
           "dateLabel": "5月28日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3828396865741065",
-          "image": "https://img.36krcdn.com/hsossms/20260528/v2_4074c2909b434cd3bdcdc2a69362f487@5091053@ai_oswg971701oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3828911935574918",
+          "image": "https://img.36krcdn.com/hsossms/20260529/v2_3caa7b656c3b494485dd03aa6b3f4733@5091053@ai_oswg1035216oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "1d26c009d2de",
-          "title": "前逸动员工创立消费级智能船艇公司，半年内再获新融资｜硬氪首发",
-          "desc": "电动智能、易操作、低维护的新一代水上载具。",
+          "id": "8548fc7a1f9f",
+          "title": "裁掉的人，养不起的 Token",
+          "desc": "我们并不确定这笔交易是否划算，我们只是知道，如果不做这笔交易，投资人会不高兴。",
           "source": "36氪",
           "date": "2026-05-28",
           "dateLabel": "5月28日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3820713545846917",
-          "image": "https://img.36krcdn.com/hsossms/20260524/v2_214fe30c81174333a76938a68cdb6684@6022551_oswg159145oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "url": "https://36kr.com/p/3829498865378441",
+          "image": "https://img.36krcdn.com/hsossms/20260529/v2_fa428ea05ceb45eb95c001624d7ce886@5091053@ai_oswg1030651oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "ee2e431aeea2",
-          "title": "国产AI编程冲上全球第二，实测五大模型，谁才是Vibe Coding神器",
-          "desc": "国产模型哪家强，中国浙江看……",
+          "id": "4e25502afa09",
+          "title": "刚刚，Claude Opus 4.8来了，两个史上首次改写历史",
+          "desc": "Opus 4.7发布刚43天，Opus 4.8就来了！编程实力暴增，全面霸榜。Claude Code一口气放出上百个agent并行干活，一个人11天就能重写75万行代码、99.8%测试通过。更狠的Claude Mythos，几周后就来。",
+          "source": "36氪",
+          "date": "2026-05-28",
+          "dateLabel": "5月28日",
+          "tags": [
+            "model",
+            "business"
+          ],
+          "url": "https://36kr.com/p/3829499738465408",
+          "image": "https://img.36krcdn.com/hsossms/20260529/v2_0480fe03043b40f1bab7d3ebe6932b87@5091053@ai_oswg1011339oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "e2802897f9c6",
+          "title": "刚刚，Claude Opus 4.8 上线，张口就说自己是 DeepSeek、Qwen",
+          "desc": "Claude 的野心，是要变成企业的 AI 工作系统",
           "source": "36氪",
           "date": "2026-05-28",
           "dateLabel": "5月28日",
@@ -45,78 +197,52 @@
             "business",
             "cn"
           ],
-          "url": "https://36kr.com/p/3828430341542789",
-          "image": "https://img.36krcdn.com/hsossms/20260528/v2_9174ff32060b4aa287dee484e501b85c@5091053@ai_oswg1008304oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3829512317379713",
+          "image": "https://img.36krcdn.com/hsossms/20260529/v2_a14f521e2c044f68871201ef0375ac29@5091053@ai_oswg1087478oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "a98bedc59aa0",
-          "title": "“ASIC巨头”Marvell季度营收创纪录、连续上调指引，CEO称数据中心业务“燃爆了”",
-          "desc": "营收创纪录、指引大幅上调，Marvell交出了一份看起来相当亮眼的成绩单。",
+          "id": "a7bd3232b19f",
+          "title": "让机器人学会番茄炒蛋爆红网络的 Genesis AI，开源了自己的机器人「训练场」",
+          "desc": "​真实世界需要 200 多个小时的模型评测任务，可以在仿真中不到 0.5 小时内完成。",
+          "source": "36氪",
+          "date": "2026-05-28",
+          "dateLabel": "5月28日",
+          "tags": [
+            "research",
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3828813719130761",
+          "image": "https://img.36krcdn.com/hsossms/20260528/v2_4cab57cc759349fd8f5d44a9659562ce@000000@ai_oswg320644oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "11db5217c9c8",
+          "title": "谷歌AI不认识Google",
+          "desc": "AI 很强，但能力分布不均",
           "source": "36氪",
           "date": "2026-05-28",
           "dateLabel": "5月28日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3828373351076488",
-          "image": "https://img.36krcdn.com/hsossms/20260528/v2_1525d7afa3d847e895ee246ff32634fa@5091053@ai_oswg1060324oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3828794163565188",
+          "image": "https://img.36krcdn.com/hsossms/20260528/v2_34de7644b8564ff09cd58beb77d0980b@46958@ai_oswg853482oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "a8740f48d33b",
-          "title": "给4个大模型20美元让它当老板，创业半年后：罢工、胡说八道...全员开启“摆烂式运营”",
-          "desc": "明明起点几乎一样，但仅仅两个月后，四个 AI DJ 就已经发展出了完全不同的“人格”。",
+          "id": "4ddf7776b033",
+          "title": "夸父追日，乐聚追钱：26亿能让机器人学会“搬砖”吗？",
+          "desc": "押注干活能力，加速工业落地。",
           "source": "36氪",
           "date": "2026-05-28",
           "dateLabel": "5月28日",
           "tags": [
-            "model"
+            "research"
           ],
-          "url": "https://36kr.com/p/3828391939592833",
-          "image": "https://img.36krcdn.com/hsossms/20260528/v2_73a4f8b270944c16b200101c221c8005@5091053_oswg1041369oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "d59cbd1df51b",
-          "title": "近10亿融资落地，墨芯加速稀疏计算商业化闭环，年底发新一代加速卡",
-          "desc": "云边端及算力网络已拿下不少商业化订单。",
-          "source": "36氪",
-          "date": "2026-05-28",
-          "dateLabel": "5月28日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3828243885707913",
-          "image": "https://img.36krcdn.com/hsossms/20260528/v2_1297d814d64c4ec19f8bab698c96681e@5091053@ai_oswg1156302oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "207053e523be",
-          "title": "ASI决战，OpenAI与Anthropic双雄争霸",
-          "desc": "ASI双雄争霸。",
-          "source": "36氪",
-          "date": "2026-05-28",
-          "dateLabel": "5月28日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3828254143844999",
-          "image": "https://img.36krcdn.com/hsossms/20260528/v2_b9416355a90f4d5e88ae5add75cbe4d1@5091053@ai_oswg1208482oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "b12babfbda81",
-          "title": "给AI“降本”，墨芯C轮融资近十亿元",
-          "desc": "谁能把token的生成成本打下来，谁就可能拿到下一轮竞争的入场券。",
-          "source": "36氪",
-          "date": "2026-05-28",
-          "dateLabel": "5月28日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3828296184337027",
-          "image": "https://img.36krcdn.com/hsossms/20260528/v2_33cfb3efe4924a8ea4161f66455a94b6@5091053@ai_oswg1159507oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3828816885666696",
+          "image": "https://img.36krcdn.com/hsossms/20260528/v2_5aa95397911d427ca4a57ed90d728389@000000@ai_oswg303650oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         }
       ]
@@ -1315,73 +1441,6 @@
           "color": "#ff4d4f"
         }
       ]
-    },
-    {
-      "date": "2026-04-25",
-      "dateLabel": "4月25日",
-      "id": "d25",
-      "items": [
-        {
-          "id": "d7ad737622",
-          "title": "李飞飞引爆的3D新技术，深圳公司两年前就”玩腻”了",
-          "desc": "李飞飞团队发布的3D技术引发全球关注，但深圳一家公司早在两年前就已掌握该技术并推向商用，真正的战场不在生成端而在应用端。",
-          "source": "量子位",
-          "date": "2026-04-25",
-          "dateLabel": "4月25日",
-          "tags": [
-            "research",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/04/408030.html",
-          "image": "https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?w=400&h=250&fit=crop",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "9f6347abe0",
-          "title": "自主AI汽车芯片「一姐」出手，机器人有了专属「小脑」",
-          "desc": "自动驾驶芯片领军企业推出机器人专用控制芯片，让机器人从”能思考”走向”能干活”，解决具身智能运动控制瓶颈。",
-          "source": "量子位",
-          "date": "2026-04-25",
-          "dateLabel": "4月25日",
-          "tags": [
-            "research",
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/04/407975.html",
-          "image": "https://images.unsplash.com/photo-1555664424-778a1e5e1b48?w=400&h=250&fit=crop",
-          "color": "#059669"
-        },
-        {
-          "id": "a7ae89760e",
-          "title": "蚂蚁灵波开源 LingBot-World-Fast，世界模型能实时玩了",
-          "desc": "蚂蚁集团灵波团队开源世界模型LingBot-World-Fast，面向普通用户开放，实现实时交互式世界模拟，推动世界模型走向实用化。",
-          "source": "量子位",
-          "date": "2026-04-25",
-          "dateLabel": "4月25日",
-          "tags": [
-            "model",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/04/407972.html",
-          "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=400&h=250&fit=crop",
-          "color": "#1677ff"
-        },
-        {
-          "id": "17cbe9364e",
-          "title": "国内首家百亿估值纯推理GPU独角兽诞生",
-          "desc": "曦望智能成为国内首家百亿估值纯推理GPU独角兽企业，联席CEO王湛表示：”谁的推理成本更低谁就是赢家”，AI推理芯片赛道迎来新格局。",
-          "source": "量子位",
-          "date": "2026-04-25",
-          "dateLabel": "4月25日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/04/406020.html",
-          "image": "https://images.unsplash.com/photo-1592478411213-6153e4ebc07d?w=400&h=250&fit=crop",
-          "color": "#d97706"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -1407,6 +1466,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-05-28 14:11",
-  "totalNews": 87
+  "updateTime": "2026-05-29 14:12",
+  "totalNews": 91
 }
