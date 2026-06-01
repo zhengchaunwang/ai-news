@@ -1,124 +1,246 @@
 {
   "newsData": [
     {
+      "date": "2026-06-01",
+      "dateLabel": "6月1日",
+      "id": "d01",
+      "items": [
+        {
+          "id": "e7613445e4f7",
+          "title": "“无共识”的AI眼镜在找差异化，是好迹象吗？",
+          "desc": "痛点vs痒点",
+          "source": "36氪",
+          "date": "2026-06-01",
+          "dateLabel": "6月1日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3834183757488384",
+          "image": "https://img.36krcdn.com/hsossms/20260601/v2_45d5167ff223427aa20cb1e85df548c1@5888275@ai_oswg891359oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "b0ee4231f31c",
+          "title": "美股AI新风口：“老七雄”力压“七巨头”？",
+          "desc": "科技“老七雄”",
+          "source": "36氪",
+          "date": "2026-06-01",
+          "dateLabel": "6月1日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3834196925835137",
+          "image": "https://img.36krcdn.com/hsossms/20260601/v2_2c4db219ba264a41bb05b63d2509bc44@5888275@ai_oswg915944oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "b2536f38ce41",
+          "title": "倒反天罡，AI开始给人类打分，Claude评分标准曝光：优秀人类得7.5分",
+          "desc": "你在AI眼里值几分",
+          "source": "36氪",
+          "date": "2026-06-01",
+          "dateLabel": "6月1日",
+          "tags": [
+            "model",
+            "policy"
+          ],
+          "url": "https://36kr.com/p/3834214666135426",
+          "image": "https://img.36krcdn.com/hsossms/20260601/v2_b529ad9cc0f6418598a080f9e5fda869@5888275@ai_oswg1040127oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "9ba3e8d0fad6",
+          "title": "人工智能伦理：当模型强加你的组织未选择的价值观时",
+          "desc": "人工智能伦理：当模型强加你的组织未选择的价值观时",
+          "source": "36氪",
+          "date": "2026-06-01",
+          "dateLabel": "6月1日",
+          "tags": [
+            "policy"
+          ],
+          "url": "https://36kr.com/p/3831567399855749",
+          "image": "https://img.36krcdn.com/hsossms/20260601/v2_d05e00d4041d48a4a47f4c96f0a38e3d@1743780481@ai_oswg944328oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "09476c77cd6d",
+          "title": "稚晖君不是智元机器人的全部",
+          "desc": "华为班底",
+          "source": "36氪",
+          "date": "2026-06-01",
+          "dateLabel": "6月1日",
+          "tags": [
+            "research",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3834085403830146",
+          "image": "https://img.36krcdn.com/hsossms/20260601/v2_a4b3e34b9b20477aabe7e9c89cfece9b@1743780481@ai_oswg990777oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "118ff1a6f04d",
+          "title": "AI投入暂未兑现红利：复刻百年电气化，产业变革将至拐点",
+          "desc": "当技术与产业体系完成深度融合的那一刻，AI 积蓄多年的生产力红利将会集中爆发。",
+          "source": "36氪",
+          "date": "2026-06-01",
+          "dateLabel": "6月1日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3834068301062407",
+          "image": "https://img.36krcdn.com/hsossms/20260601/v2_94f2ed5605b94ad5913cf5446c6b0bb8@1743780481@ai_oswg1031504oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "5ed2371dce41",
+          "title": "不限时免费，全球榜单前十AI Lab开放全模态API，我先替你测了",
+          "desc": "代码、图片、视频免费生成！",
+          "source": "36氪",
+          "date": "2026-06-01",
+          "dateLabel": "6月1日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3834038018287488",
+          "image": "https://img.36krcdn.com/hsossms/20260601/v2_999ce5a83c904869a2bdb7f3204095e4@1743780481@ai_oswg1063054oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "a50502dfec66",
+          "title": "只需几个抽象符号替代思维链，就能将推理成本压缩11倍",
+          "desc": "A、B、C、D、E、F……",
+          "source": "36氪",
+          "date": "2026-06-01",
+          "dateLabel": "6月1日",
+          "tags": [
+            "research",
+            "policy"
+          ],
+          "url": "https://36kr.com/p/3831564438169473",
+          "image": "https://img.36krcdn.com/hsossms/20260530/v2_607e3662ad6e42518d59d8ff08058458@000000@ai_oswg351879oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        }
+      ]
+    },
+    {
       "date": "2026-05-31",
       "dateLabel": "5月31日",
       "id": "d31",
       "items": [
         {
-          "id": "10508071b373",
-          "title": "复旦学姐，估值1000亿",
-          "desc": "AI盛况。",
+          "id": "a81831492ede",
+          "title": "阿里“上货”，字节“练功”",
+          "desc": "基因决定动作",
           "source": "36氪",
-          "date": "2026-05-31",
-          "dateLabel": "5月31日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3831510606473090",
-          "image": "https://img.36krcdn.com/hsossms/20260531/v2_58808ed7a1a046b1ab06cb53fd0acf33@6076018@ai_oswg871589oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "45f1e0a30d64",
-          "title": "AI原生时代下，让世界适应Agent，而非教AI做人 | 港大黄超@AIGC2026",
-          "desc": "CLI更像是Agent的母语",
-          "source": "量子位",
-          "date": "2026-05-31",
-          "dateLabel": "5月31日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/05/426819.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "6a511b856a23",
-          "title": "从Token无上限到全员Agent：MiniMax的AI Native组织进化实践",
-          "desc": "与其焦虑AI，不如加入AI",
-          "source": "量子位",
-          "date": "2026-05-31",
-          "dateLabel": "5月31日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/05/426793.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "1f4e9cb71a1e",
-          "title": "Steam 页面确认：《使命召唤：现代战争 4》存在生成式 AI 制作的内容",
-          "desc": "IT之家 5 月 31 日消息，《使命召唤：现代战争 4》即将发售，这部新作意义非凡，标志着该系列开启次世代主机平台全面适配。IT之家注意到，《使命召唤：现代战争 4》还将登陆任天堂 Switch 2 平台。随着 Infinity Ward 接连放出新消息，目前这款游戏的口碑相当不错。不过该游戏的 Steam 商店页面证实，本作将再度使用生成式 AI 制作内容。前作《黑色行动 7》曾因大量使用 A",
-          "source": "IT之家",
-          "date": "2026-05-31",
-          "dateLabel": "5月31日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/957/752.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/5/6c36f1fe-9f10-46f0-a38b-59021ed057f5.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "b1eb484dbcf5",
-          "title": "AI 编程工具普及背后：效率提升的假象与代码维护的隐患",
-          "desc": "IT之家 5 月 31 日消息，研究人员发现，2026 年，AI 编程工具已然成为开发者离不开的帮手。但另有研究者提醒，尽管 AI 无疑能让程序员写代码的速度变得更快，代码质量却未必随之提升，这在未来可能会埋下诸多隐患。具体来看，知名人工智能研究实验室 METR 在 2026 年 2 月公布了一项出人意料的结论：如今绝大多数开发者哪怕只是处理少量工作，也离不开 AI 工具。此前在 2025 年，该",
-          "source": "IT之家",
-          "date": "2026-05-31",
-          "dateLabel": "5月31日",
-          "tags": [
-            "research",
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/957/744.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/5/95c42cd9-8106-4f88-9259-9d55dac0a9e3.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "76a3ad3a5b22",
-          "title": "乐道沈斐总结焕新款 L60 汽车六大维度升级关键信息，称智驾进入第一梯队",
-          "desc": "IT之家 5 月 31 日消息，在 5 月 29 日上午的粤港澳大湾区车展期间，蔚来新款乐道 L60 正式发布并开启预售。新车具有 106 项升级，展车已到达全国门店，6 月 6 日开放试驾、6 月 11 日正式上市。蔚来高级副总裁兼乐道汽车总裁沈斐昨日发文总结了此次乐道 L60 六大升级的关键信息：① 智驾进入第一梯队神玑 NX9031 芯片 + 蔚来世界模型 NWM + 激光雷达 + SkyO",
-          "source": "IT之家",
           "date": "2026-05-31",
           "dateLabel": "5月31日",
           "tags": [
             "business",
             "cn"
           ],
-          "url": "https://www.ithome.com/0/957/738.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/5/b36cb061-14d8-4b84-8059-63f067bf6905.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
+          "url": "https://36kr.com/p/3832960755507456",
+          "image": "https://img.36krcdn.com/hsossms/20260531/v2_35b9a00362e942a8afd03c8dfa04e5d0@1743780481@ai_oswg1054688oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
         },
         {
-          "id": "4032c4f2b13c",
-          "title": "20 亿美元机器人独角兽将民宿当实验室：多套 Airbnb 房源受损，房东发起诉讼",
-          "desc": "IT之家 5 月 31 日消息，旧金山一家估值 20 亿美元的初创企业“The Bot Company（机器人公司）”，疑似利用短租房源秘密开展机器人测试工作。多名爱彼迎（Airbnb）房东反映，自家房屋遭到严重损毁，且该区域内多处房源出现特征相似的破损情况。房东肖恩 · 多诺万更是就此提起诉讼，索赔 12383.50 美元（IT之家注：现汇率约合 84044 元人民币）。截至目前，这家机器人公司",
-          "source": "IT之家",
+          "id": "08f76fc9a67e",
+          "title": "开源编程语言Zig，向AI代码说「不」",
+          "desc": "Zig创建者：AI辅助贡献就是「垃圾」",
+          "source": "36氪",
           "date": "2026-05-31",
           "dateLabel": "5月31日",
           "tags": [
-            "research",
-            "business"
+            "business",
+            "cn"
           ],
-          "url": "https://www.ithome.com/0/957/734.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/5/de44081c-4700-4f3d-b98e-2820d2903cbc.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
+          "url": "https://36kr.com/p/3832633186952833",
+          "image": "https://img.36krcdn.com/hsossms/20260531/v2_0ff69d986fba44b09c155674d8b5af9e@1743780481@ai_oswg1081498oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
         },
         {
-          "id": "8c2a8f2a0c57",
-          "title": "技嘉确认将推出限定版 INFINITY 系列主板、显卡、机箱与电脑周边产品",
-          "desc": "IT之家 5 月 31 日消息，今年迎来成立 40 周年的技嘉 (GIGABYTE) 本月 27 日宣布将以 \"ENTER INFINITY\" 为主题参展 COMPUTEX 2026 台北国际电脑展，展示自身技术实力和电脑产业与 AI 的融合发展。而在新闻稿中，技嘉特别提到将“首度推出限定版 INFINITY 系列产品，涵盖主板、显卡、机箱与电脑周边产品”。INFINITY 系列由技嘉旗下高阶电竞",
-          "source": "IT之家",
+          "id": "ad6cc44d63e9",
+          "title": "宇树上会，机器人会成为半导体下一个超级终端吗？",
+          "desc": "具身智能，能带飞谁？",
+          "source": "36氪",
+          "date": "2026-05-31",
+          "dateLabel": "5月31日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://36kr.com/p/3832629304780423",
+          "image": "https://img.36krcdn.com/hsossms/20260531/v2_8526cc72fdbe4d5f94de96f2302b4447@1743780481@ai_oswg1176511oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "94261d97acdb",
+          "title": "4月AI月报：全球原生AI下载3.65亿，豆包、即梦等大陆市场下载量全面收缩",
+          "desc": "2026年4月全球原生AI应用下载量下滑，头部增速分层",
+          "source": "36氪",
           "date": "2026-05-31",
           "dateLabel": "5月31日",
           "tags": [
             "business"
           ],
-          "url": "https://www.ithome.com/0/957/732.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/5/0dc73fdf-9633-4f9c-a1ab-c40ccf7ed896.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
+          "url": "https://36kr.com/p/3832446191462021",
+          "image": "https://img.36krcdn.com/hsossms/20260531/v2_837e1bf2a15a464987c68a3510db79b9@1743780481@ai_oswg1006588oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "6794211a7927",
+          "title": "翻倍又闪崩！AI故事讲不下去了？",
+          "desc": "炒作还是转型？",
+          "source": "36氪",
+          "date": "2026-05-31",
+          "dateLabel": "5月31日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3832898367170185",
+          "image": "https://img.36krcdn.com/hsossms/20260531/v2_7a5ca473dfac4231a831211b7b2dfa19@000000@ai_oswg352517oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "e29b92e5bb3b",
+          "title": "华尔街最火00后",
+          "desc": "新晋天才交易员。",
+          "source": "36氪",
+          "date": "2026-05-31",
+          "dateLabel": "5月31日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3832884398598024",
+          "image": "https://img.36krcdn.com/hsossms/20260531/v2_93cd66d301634491b692483e878d294b@6076018@ai_oswg893133oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "222097749b7b",
+          "title": "“中国最会烧钱的4个男人，坐上了同一张牌桌”",
+          "desc": "4个理工男，撑起中国AI半边天。",
+          "source": "36氪",
+          "date": "2026-05-31",
+          "dateLabel": "5月31日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3831900268865157",
+          "image": "https://img.36krcdn.com/hsossms/20260530/v2_fdfbf87f2e08412cafc97846e50ab33e@000000@ai_oswg298411oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "fa6e3f5ae9b6",
+          "title": "DDIM之父宋佳铭，宣布离职",
+          "desc": "新的浪潮，还在继续往前推",
+          "source": "量子位",
+          "date": "2026-05-31",
+          "dateLabel": "5月31日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/05/427104.html",
+          "image": "",
+          "color": "#7c3aed"
         }
       ]
     },
@@ -1460,102 +1582,6 @@
           "color": "#2932e1"
         }
       ]
-    },
-    {
-      "date": "2026-04-28",
-      "dateLabel": "4月28日",
-      "id": "d28",
-      "items": [
-        {
-          "id": "145ac75e90",
-          "title": "DeepSeek V4 关键特性被挖出，不惜代价保住核心技术",
-          "desc": "DeepSeek V4技术报告越挖越有料，团队不惜代价保留的关键架构特性浮出水面，引发业界对国产大模型技术路线的热议。梁文锋用V4打破质疑，但Coding、to B商业化仍有硬仗。",
-          "source": "量子位",
-          "date": "2026-04-28",
-          "dateLabel": "4月28日",
-          "tags": [
-            "model",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/04/409896.html",
-          "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=400&h=250&fit=crop",
-          "color": "#4f46e5"
-        },
-        {
-          "id": "37742d8833",
-          "title": "OpenAI 麻烦不断：被指多项数据未达标，马斯克起诉或重创IPO",
-          "desc": "马斯克与OpenAI诉讼案开庭，叠加多项数据指标未达标的质疑，OpenAI商业化前景面临更多不确定性，IPO计划可能受阻。",
-          "source": "36氪",
-          "date": "2026-04-28",
-          "dateLabel": "4月28日",
-          "tags": [
-            "business",
-            "policy"
-          ],
-          "url": "https://36kr.com/p/3787521530535170",
-          "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=400&h=250&fit=crop",
-          "color": "#10a37f"
-        },
-        {
-          "id": "0128e7e05c",
-          "title": "Cursor 9秒删库搞崩公司，然后写了份检讨",
-          "desc": "AI编程工具Cursor出现严重故障，仅9秒就删除了用户整个代码库导致公司业务崩溃，事件引发对AI编程工具可靠性的广泛担忧。",
-          "source": "量子位",
-          "date": "2026-04-28",
-          "dateLabel": "4月28日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/04/410317.html",
-          "image": "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?w=400&h=250&fit=crop",
-          "color": "#ef4444"
-        },
-        {
-          "id": "c62da11d0d",
-          "title": "面壁智能 MiniCPM-o 4.5 发布技术报告，消费级显卡可快速上手",
-          "desc": "面壁智能发布MiniCPM-o 4.5技术报告，模型下载量已突破25万，支持消费级显卡快速推理，进一步降低端侧AI模型部署门槛。",
-          "source": "量子位",
-          "date": "2026-04-28",
-          "dateLabel": "4月28日",
-          "tags": [
-            "model",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/04/410506.html",
-          "image": "https://images.unsplash.com/photo-1519389950473-2ba064b2d0d5?w=400&h=250&fit=crop",
-          "color": "#059669"
-        },
-        {
-          "id": "6b7544ee71",
-          "title": "被 Anthropic 超车的 OpenAI，正在远离微软、靠近亚马逊",
-          "desc": "美国AI市场格局微妙变化：OpenAI与微软关系出现裂痕，同时加强与亚马逊合作；Anthropic则在多方面实现超车。",
-          "source": "36氪",
-          "date": "2026-04-28",
-          "dateLabel": "4月28日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3787391989226499",
-          "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=400&h=250&fit=crop",
-          "color": "#2563eb"
-        },
-        {
-          "id": "a651a54551",
-          "title": "支付宝正式发布”支付宝AI收”，个人开发者0费率使用",
-          "desc": "支付宝推出AI收款服务，个人开发者可零费率使用，助力更多企业与个人低门槛迈入AI时代。",
-          "source": "量子位",
-          "date": "2026-04-28",
-          "dateLabel": "4月28日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/04/410450.html",
-          "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=400&h=250&fit=crop",
-          "color": "#1677ff"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -1581,6 +1607,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-05-31 14:17",
-  "totalNews": 99
+  "updateTime": "2026-06-01 14:54",
+  "totalNews": 101
 }
