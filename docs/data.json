@@ -1,123 +1,244 @@
 {
   "newsData": [
     {
+      "date": "2026-06-02",
+      "dateLabel": "6月2日",
+      "id": "d02",
+      "items": [
+        {
+          "id": "dea2647d0c1e",
+          "title": "给宇树甩了两张工牌",
+          "desc": "一张写着身体，一张写着大脑",
+          "source": "36氪",
+          "date": "2026-06-02",
+          "dateLabel": "6月2日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3834686249219465",
+          "image": "https://img.36krcdn.com/hsossms/20260601/v2_ec9be3bae5d8474fb290adeec78060ec@000000@ai_oswg310989oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "a1360998beae",
+          "title": "一场国家级产业换道，藏在王兴兴的宇树IPO棋局里",
+          "desc": "押注终翻盘",
+          "source": "36氪",
+          "date": "2026-06-02",
+          "dateLabel": "6月2日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3835403709276421",
+          "image": "https://img.36krcdn.com/hsossms/20260602/v2_2c2efb6f67594760884b95cb60a16cd5@1743780481@ai_oswg1195885oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "1f49912705c0",
+          "title": "7个500亿富豪诞生，冲刺1万亿IPO",
+          "desc": "7个人，合计身家1162亿美元",
+          "source": "36氪",
+          "date": "2026-06-02",
+          "dateLabel": "6月2日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3835494803158153",
+          "image": "https://img.36krcdn.com/hsossms/20260602/v2_f7009a83c5864374acc729171f95e01a@1743780481@ai_oswg1059344oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "129c34937d62",
+          "title": "AI落地像算命，领导“心诚”项目就灵，心不诚就废？",
+          "desc": "企业AI项目落地需要玄学吗？",
+          "source": "36氪",
+          "date": "2026-06-02",
+          "dateLabel": "6月2日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3835217757418888",
+          "image": "https://img.36krcdn.com/hsossms/20260602/v2_b4c77684070e4d678136d49a693fb72a@000000@ai_oswg318743oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "0c39b16a6696",
+          "title": "黄仁勋联手宇树，造了个人形机器人底座",
+          "desc": "宇树发布人形机器人H2 Plus。",
+          "source": "36氪",
+          "date": "2026-06-02",
+          "dateLabel": "6月2日",
+          "tags": [
+            "research",
+            "business"
+          ],
+          "url": "https://36kr.com/p/3835379943437443",
+          "image": "https://img.36krcdn.com/hsossms/20260602/v2_35e946259991458faae0bb01aa1b62f6@1743780481@ai_oswg1035861oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "0affaee781b8",
+          "title": "谨慎的金融圈，等来真正会干活的AI",
+          "desc": "进门接入腾讯云后，把“投研龙虾”从个人工具推进企业级工作流，支撑研究员完成资料整理、自选股扫描、报告生成等任务。今年一季度，进门AI产品使用量增长了10倍。",
+          "source": "36氪",
+          "date": "2026-06-02",
+          "dateLabel": "6月2日",
+          "tags": [
+            "research",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3835399000913032",
+          "image": "https://img.36krcdn.com/hsossms/20260602/v2_71e08e8680bf488c8aa5e3b7cc7d95fa@000000_oswg42589oswg897oswg383_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "71a1c181a2ac",
+          "title": "山东诞生一家AI黑马",
+          "desc": "工业AI分水岭。",
+          "source": "36氪",
+          "date": "2026-06-02",
+          "dateLabel": "6月2日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3835395576493184",
+          "image": "https://img.36krcdn.com/hsossms/20260602/v2_285d16cbfe224fca8540b894ae865e5a@000000@ai_oswg366229oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "5e5247a992c3",
+          "title": "死脑筋的达里奥，这次把OpenAI干翻了",
+          "desc": "Anthropic认准一件事：全力搞coding，在企业级市场里当老大。",
+          "source": "36氪",
+          "date": "2026-06-02",
+          "dateLabel": "6月2日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3834671179773065",
+          "image": "https://img.36krcdn.com/hsossms/20260601/v2_316c7f57ef9f45a181b2683454e9e9dc@1743780481@ai_oswg1115822oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        }
+      ]
+    },
+    {
       "date": "2026-06-01",
       "dateLabel": "6月1日",
       "id": "d01",
       "items": [
         {
-          "id": "e7613445e4f7",
-          "title": "“无共识”的AI眼镜在找差异化，是好迹象吗？",
-          "desc": "痛点vs痒点",
+          "id": "9d56c11e4043",
+          "title": "黄仁勋突袭英特尔AMD腹地，联手王兴兴，打平三大国产模型",
+          "desc": "英伟达的AI基础设施版图大幅扩张。",
           "source": "36氪",
           "date": "2026-06-01",
           "dateLabel": "6月1日",
           "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3834183757488384",
-          "image": "https://img.36krcdn.com/hsossms/20260601/v2_45d5167ff223427aa20cb1e85df548c1@5888275@ai_oswg891359oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "b0ee4231f31c",
-          "title": "美股AI新风口：“老七雄”力压“七巨头”？",
-          "desc": "科技“老七雄”",
-          "source": "36氪",
-          "date": "2026-06-01",
-          "dateLabel": "6月1日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3834196925835137",
-          "image": "https://img.36krcdn.com/hsossms/20260601/v2_2c4db219ba264a41bb05b63d2509bc44@5888275@ai_oswg915944oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "b2536f38ce41",
-          "title": "倒反天罡，AI开始给人类打分，Claude评分标准曝光：优秀人类得7.5分",
-          "desc": "你在AI眼里值几分",
-          "source": "36氪",
-          "date": "2026-06-01",
-          "dateLabel": "6月1日",
-          "tags": [
-            "model",
-            "policy"
-          ],
-          "url": "https://36kr.com/p/3834214666135426",
-          "image": "https://img.36krcdn.com/hsossms/20260601/v2_b529ad9cc0f6418598a080f9e5fda869@5888275@ai_oswg1040127oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "9ba3e8d0fad6",
-          "title": "人工智能伦理：当模型强加你的组织未选择的价值观时",
-          "desc": "人工智能伦理：当模型强加你的组织未选择的价值观时",
-          "source": "36氪",
-          "date": "2026-06-01",
-          "dateLabel": "6月1日",
-          "tags": [
-            "policy"
-          ],
-          "url": "https://36kr.com/p/3831567399855749",
-          "image": "https://img.36krcdn.com/hsossms/20260601/v2_d05e00d4041d48a4a47f4c96f0a38e3d@1743780481@ai_oswg944328oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "09476c77cd6d",
-          "title": "稚晖君不是智元机器人的全部",
-          "desc": "华为班底",
-          "source": "36氪",
-          "date": "2026-06-01",
-          "dateLabel": "6月1日",
-          "tags": [
-            "research",
+            "business",
             "cn"
           ],
-          "url": "https://36kr.com/p/3834085403830146",
-          "image": "https://img.36krcdn.com/hsossms/20260601/v2_a4b3e34b9b20477aabe7e9c89cfece9b@1743780481@ai_oswg990777oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3834628914295170",
+          "image": "https://img.36krcdn.com/hsossms/20260601/v2_20f4bf8e10f94a4e835998c29d57faa6@1743780481@ai_oswg957067oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "118ff1a6f04d",
-          "title": "AI投入暂未兑现红利：复刻百年电气化，产业变革将至拐点",
-          "desc": "当技术与产业体系完成深度融合的那一刻，AI 积蓄多年的生产力红利将会集中爆发。",
+          "id": "e36e892b313f",
+          "title": "Token成本仅3000元？——10天爆短片，3个月出游戏，今年第一个AI爆款太“野”了",
+          "desc": "打铁还需自身硬。",
           "source": "36氪",
           "date": "2026-06-01",
           "dateLabel": "6月1日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3834068301062407",
-          "image": "https://img.36krcdn.com/hsossms/20260601/v2_94f2ed5605b94ad5913cf5446c6b0bb8@1743780481@ai_oswg1031504oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3834628888522886",
+          "image": "https://img.36krcdn.com/hsossms/20260601/v2_96a2422f203b42c8b765c0cf09c2222e@000000@ai_oswg343680oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "5ed2371dce41",
-          "title": "不限时免费，全球榜单前十AI Lab开放全模态API，我先替你测了",
-          "desc": "代码、图片、视频免费生成！",
+          "id": "226dc5ec0d62",
+          "title": "哈佛最年轻华人教授，被曝加入OpenAI",
+          "desc": "曝OpenAI再揽两位华人学者。",
           "source": "36氪",
           "date": "2026-06-01",
           "dateLabel": "6月1日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3834038018287488",
-          "image": "https://img.36krcdn.com/hsossms/20260601/v2_999ce5a83c904869a2bdb7f3204095e4@1743780481@ai_oswg1063054oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3834628713902213",
+          "image": "https://img.36krcdn.com/hsossms/20260601/v2_014cd174f6374f8d94287f036e8d1e0e@000000@ai_oswg391265oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "a50502dfec66",
-          "title": "只需几个抽象符号替代思维链，就能将推理成本压缩11倍",
-          "desc": "A、B、C、D、E、F……",
+          "id": "f68f169766ed",
+          "title": "身价13亿美元的OpenRouter，国内学不了？",
+          "desc": "AI中转站，技术门槛不高，但想合规很难。",
           "source": "36氪",
           "date": "2026-06-01",
           "dateLabel": "6月1日",
           "tags": [
-            "research",
-            "policy"
+            "policy",
+            "cn"
           ],
-          "url": "https://36kr.com/p/3831564438169473",
-          "image": "https://img.36krcdn.com/hsossms/20260530/v2_607e3662ad6e42518d59d8ff08058458@000000@ai_oswg351879oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3834566154920194",
+          "image": "https://img.36krcdn.com/hsossms/20260601/v2_a9b7b6d356254ae1a620c8d89a996429@1743780481@ai_oswg997843oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "8465febe0410",
+          "title": "传统企业过度AI化：想法很好，但结果很糟",
+          "desc": "可能把企业拉入深渊",
+          "source": "36氪",
+          "date": "2026-06-01",
+          "dateLabel": "6月1日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3834465978066560",
+          "image": "https://img.36krcdn.com/hsossms/20260601/v2_214d1e9ae62d4b74b2a1f9b804f94e66@5888275@ai_oswg991540oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "053c880c93f4",
+          "title": "10万亿，中国正成为AI基建狂魔",
+          "desc": "请注意，中国要发力了。",
+          "source": "36氪",
+          "date": "2026-06-01",
+          "dateLabel": "6月1日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3834567522726280",
+          "image": "https://img.36krcdn.com/hsossms/20260601/v2_c6ce9b6f3cdd484e9dec76a81990d150@5888275@ai_oswg1104434oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "ac4b3a551430",
+          "title": "Hinton宣告“AI醒了”，教皇却断言它没有灵魂",
+          "desc": "当诺奖得主、神经网络之父Geoffrey Hinton在采访中低沉说出「Yes, I do」，他宣布：AI已经觉醒了。",
+          "source": "36氪",
+          "date": "2026-06-01",
+          "dateLabel": "6月1日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3834555030581637",
+          "image": "https://img.36krcdn.com/hsossms/20260601/v2_ab47163382234117b793b6534786381d@5888275@ai_oswg1030085oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "e2925b91b8b6",
+          "title": "Agent硬件大爆发，高通押注的“计算连续体”是什么鬼？",
+          "desc": "所有地方都会运行 AI，而这一切会发生在整个计算连续体上。",
+          "source": "36氪",
+          "date": "2026-06-01",
+          "dateLabel": "6月1日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3834522611425280",
+          "image": "https://img.36krcdn.com/hsossms/20260601/v2_96c55e852be641b68b99da601e389e16@5888275@ai_oswg1053602oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         }
       ]
@@ -1485,103 +1606,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-04-29",
-      "dateLabel": "4月29日",
-      "id": "d29",
-      "items": [
-        {
-          "id": "7627b3d331",
-          "title": "英伟达发布全模态大模型，几秒搞定老黄3分钟演讲，吞吐量同类9倍",
-          "desc": "英伟达发布全新全模态大模型，一个模型搞定文本、视觉、语音，多模态吞吐量达到同类模型9倍，标志着英伟达从芯片厂商向模型厂商的战略延伸。",
-          "source": "36氪",
-          "date": "2026-04-29",
-          "dateLabel": "4月29日",
-          "tags": [
-            "model",
-            "business"
-          ],
-          "url": "https://36kr.com/p/3787677070417161",
-          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
-          "color": "#76b900"
-        },
-        {
-          "id": "476a5f3d71",
-          "title": "Kimi K2.6 设计能力超越 Claude Design",
-          "desc": "月之暗面发布 Kimi K2.6，在设计能力评测中超越 Anthropic 的 Claude Design，”全球最强开源”的含金量持续上升。",
-          "source": "量子位",
-          "date": "2026-04-29",
-          "dateLabel": "4月29日",
-          "tags": [
-            "model",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/04/411133.html",
-          "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=400&h=250&fit=crop",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "ed3988d956",
-          "title": "小米双模型正式开源！MiMo-V2.5-Pro 无中断运行 macOS",
-          "desc": "小米正式开源 MiMo-V2.5-Pro 和 MiMo-V2.5-Lite 双版本模型，Pro版可无中断运行54个应用、浏览器可真实冲浪，同步发放百万亿token。",
-          "source": "量子位",
-          "date": "2026-04-29",
-          "dateLabel": "4月29日",
-          "tags": [
-            "model",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/04/410519.html",
-          "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=400&h=250&fit=crop",
-          "color": "#ff6900"
-        },
-        {
-          "id": "f523816586",
-          "title": "腾讯开源手机端离线翻译模型，仅0.4G 支持33种语言",
-          "desc": "腾讯开源轻量级手机端离线翻译模型，无需联网即可在手机本地运行，支持33种语言互译，体积仅0.4G，大幅降低移动端AI部署门槛。",
-          "source": "量子位",
-          "date": "2026-04-29",
-          "dateLabel": "4月29日",
-          "tags": [
-            "model",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/04/411186.html",
-          "image": "https://images.unsplash.com/photo-1516116216624-53e697fedbea?w=400&h=250&fit=crop",
-          "color": "#07c160"
-        },
-        {
-          "id": "496dd61f4c",
-          "title": "Anthropic 研究揭示 AI 替代高风险职业，10大高危职业曝光",
-          "desc": "Anthropic发布研究精确描绘AI正在替代的职业，高薪、高学历岗位首当其冲，引发社会对AI就业冲击的广泛讨论。",
-          "source": "36氪",
-          "date": "2026-04-29",
-          "dateLabel": "4月29日",
-          "tags": [
-            "research",
-            "policy"
-          ],
-          "url": "https://36kr.com/p/3787708896206080",
-          "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=400&h=250&fit=crop",
-          "color": "#d97706"
-        },
-        {
-          "id": "17cfa4a57a",
-          "title": "百度 GenFlow 4.0 发布，Office 三件套全包",
-          "desc": "百度发布 GenFlow 4.0，覆盖文档、表格、演示三大办公场景，”十分钟干完一周活”，AI办公生产力工具竞争白热化。",
-          "source": "量子位",
-          "date": "2026-04-29",
-          "dateLabel": "4月29日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/04/410738.html",
-          "image": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=400&h=250&fit=crop",
-          "color": "#2932e1"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -1607,6 +1631,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-06-01 14:54",
-  "totalNews": 101
+  "updateTime": "2026-06-02 14:40",
+  "totalNews": 103
 }
