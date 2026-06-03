@@ -1,122 +1,245 @@
 {
   "newsData": [
     {
+      "date": "2026-06-03",
+      "dateLabel": "6月3日",
+      "id": "d03",
+      "items": [
+        {
+          "id": "a743ae8d59f4",
+          "title": "AI，开始偷懒了？",
+          "desc": "体验感下降，问题出在哪？",
+          "source": "36氪",
+          "date": "2026-06-03",
+          "dateLabel": "6月3日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3837040339760516",
+          "image": "https://img.36krcdn.com/hsossms/20260603/v2_1a64929a8a59446385ea552e991d9c61@5888275@ai_oswg927273oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "af931fae065e",
+          "title": "Anthropic秘密递表背后：算力赎身迫在眉睫",
+          "desc": "算力账单到期，上市即是赎身",
+          "source": "36氪",
+          "date": "2026-06-03",
+          "dateLabel": "6月3日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3836194689088130",
+          "image": "https://img.36krcdn.com/hsossms/20260603/v2_770bed0a60224c838190b9e0c6508c8a@1743780481@ai_oswg988449oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "eb47e609e90c",
+          "title": "别盯着GPU了，英特尔甩出重磅大招，能否终结英伟达的算力垄断？",
+          "desc": "CPU，归来。",
+          "source": "36氪",
+          "date": "2026-06-03",
+          "dateLabel": "6月3日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3836035332619142",
+          "image": "https://img.36krcdn.com/hsossms/20260602/v2_32e4e8a84598491bbcbb5b4b86f96847@1743780481@ai_oswg986115oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "f7a5a1c292b5",
+          "title": "36氪独家 | 火山引擎提升MaaS营收目标至全年150亿元，Seedance 2.0单月营收已超10亿元",
+          "desc": "如果模型能力断层领先，那么买单的人自然会出现。",
+          "source": "36氪",
+          "date": "2026-06-03",
+          "dateLabel": "6月3日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3836973710423429",
+          "image": "https://img.36krcdn.com/hsossms/20260603/v2_5207205ad7c744238a9428af93c24a0c@000000_oswg48971oswg900oswg383_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "0636ad04520a",
+          "title": "机器人同事，开始撑起物流中心的夜班",
+          "desc": "星动纪元人形机器人落地物流分拣，推进规模化部署。",
+          "source": "36氪",
+          "date": "2026-06-03",
+          "dateLabel": "6月3日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://36kr.com/p/3836907415729280",
+          "image": "https://img.36krcdn.com/hsossms/20260603/v2_434989b304064c2a93368b3241165b3b@1743780481@ai_oswg1118316oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "e39c50b52b2d",
+          "title": "黄仁勋、Marvell CEO同台对谈：未来AI拼的不是算力是连接，“能用铜就用铜，必须用光才用光”",
+          "desc": "Computex上黄仁勋称Marvell将成下一个万亿美元公司",
+          "source": "36氪",
+          "date": "2026-06-03",
+          "dateLabel": "6月3日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3836916617246088",
+          "image": "https://img.36krcdn.com/hsossms/20260603/v2_b7fdd67a7a9f415e8c61533ebcbffa09@1743780481@ai_oswg1085514oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "5f968df54b44",
+          "title": "小米紧随 DeepSeek 疯狂降价，罗福莉却劝同行别盲目跟风？",
+          "desc": "DeepSeek刚宣布API永久降价，小米火速跟进，负责人罗福莉却提醒同行别跟风？",
+          "source": "36氪",
+          "date": "2026-06-03",
+          "dateLabel": "6月3日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3836917686320002",
+          "image": "https://img.36krcdn.com/hsossms/20260603/v2_d232d2a4ad63493a85fe371227079ae1@1743780481@ai_oswg980151oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "6c8c65b6640a",
+          "title": "AI 教父下场创业：硅谷开始押注“下一代 AI 范式”",
+          "desc": "LeCun创AMI，另辟蹊径研发世界模型探索AGI",
+          "source": "36氪",
+          "date": "2026-06-03",
+          "dateLabel": "6月3日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3836074669061512",
+          "image": "https://img.36krcdn.com/hsossms/20260602/v2_643ec627defe4078af8b1aa0ca480b04@000000@ai_oswg228153oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        }
+      ]
+    },
+    {
       "date": "2026-06-02",
       "dateLabel": "6月2日",
       "id": "d02",
       "items": [
         {
-          "id": "dea2647d0c1e",
-          "title": "给宇树甩了两张工牌",
-          "desc": "一张写着身体，一张写着大脑",
+          "id": "c728c2c93931",
+          "title": "今天，ChatGPT+Codex官宣合体，10亿人喜提“超级Agent”",
+          "desc": "OpenAI官宣ChatGPT将整合Codex，推出三大核心升级。",
           "source": "36氪",
           "date": "2026-06-02",
           "dateLabel": "6月2日",
           "tags": [
-            "business"
+            "model"
           ],
-          "url": "https://36kr.com/p/3834686249219465",
-          "image": "https://img.36krcdn.com/hsossms/20260601/v2_ec9be3bae5d8474fb290adeec78060ec@000000@ai_oswg310989oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3836668227466630",
+          "image": "https://img.36krcdn.com/hsossms/20260603/v2_3bc0006e65cd4569a4d8d12b17eb4c07@000000_oswg99763oswg1280oswg543_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
           "color": "#2563eb"
         },
         {
-          "id": "a1360998beae",
-          "title": "一场国家级产业换道，藏在王兴兴的宇树IPO棋局里",
-          "desc": "押注终翻盘",
+          "id": "06349e55efd3",
+          "title": "突发，字节AI大将顾全全离职",
+          "desc": "【新智元导读】「最好的模型还没来，Scaling不会停！」字节AI大牛顾全全挥手告别。从打爆AlphaFold 3到投身LLM基建，顶尖学者的下一步引爆全网猜测。",
           "source": "36氪",
           "date": "2026-06-02",
           "dateLabel": "6月2日",
           "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3835403709276421",
-          "image": "https://img.36krcdn.com/hsossms/20260602/v2_2c2efb6f67594760884b95cb60a16cd5@1743780481@ai_oswg1195885oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "1f49912705c0",
-          "title": "7个500亿富豪诞生，冲刺1万亿IPO",
-          "desc": "7个人，合计身家1162亿美元",
-          "source": "36氪",
-          "date": "2026-06-02",
-          "dateLabel": "6月2日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3835494803158153",
-          "image": "https://img.36krcdn.com/hsossms/20260602/v2_f7009a83c5864374acc729171f95e01a@1743780481@ai_oswg1059344oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "129c34937d62",
-          "title": "AI落地像算命，领导“心诚”项目就灵，心不诚就废？",
-          "desc": "企业AI项目落地需要玄学吗？",
-          "source": "36氪",
-          "date": "2026-06-02",
-          "dateLabel": "6月2日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3835217757418888",
-          "image": "https://img.36krcdn.com/hsossms/20260602/v2_b4c77684070e4d678136d49a693fb72a@000000@ai_oswg318743oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "0c39b16a6696",
-          "title": "黄仁勋联手宇树，造了个人形机器人底座",
-          "desc": "宇树发布人形机器人H2 Plus。",
-          "source": "36氪",
-          "date": "2026-06-02",
-          "dateLabel": "6月2日",
-          "tags": [
-            "research",
-            "business"
-          ],
-          "url": "https://36kr.com/p/3835379943437443",
-          "image": "https://img.36krcdn.com/hsossms/20260602/v2_35e946259991458faae0bb01aa1b62f6@1743780481@ai_oswg1035861oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "0affaee781b8",
-          "title": "谨慎的金融圈，等来真正会干活的AI",
-          "desc": "进门接入腾讯云后，把“投研龙虾”从个人工具推进企业级工作流，支撑研究员完成资料整理、自选股扫描、报告生成等任务。今年一季度，进门AI产品使用量增长了10倍。",
-          "source": "36氪",
-          "date": "2026-06-02",
-          "dateLabel": "6月2日",
-          "tags": [
-            "research",
+            "model",
             "cn"
           ],
-          "url": "https://36kr.com/p/3835399000913032",
-          "image": "https://img.36krcdn.com/hsossms/20260602/v2_71e08e8680bf488c8aa5e3b7cc7d95fa@000000_oswg42589oswg897oswg383_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "url": "https://36kr.com/p/3836085319103619",
+          "image": "https://img.36krcdn.com/hsossms/20260602/v2_80e9dfec3b964cf088b833d5320bb4ce@6100851_oswg446825oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
           "color": "#2563eb"
         },
         {
-          "id": "71a1c181a2ac",
-          "title": "山东诞生一家AI黑马",
-          "desc": "工业AI分水岭。",
+          "id": "482ceb86773b",
+          "title": "被AI吓崩的软件股，怎么突然成了美股最靓的仔？",
+          "desc": "被AI判死刑的软件股，活了",
           "source": "36氪",
           "date": "2026-06-02",
           "dateLabel": "6月2日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3835395576493184",
-          "image": "https://img.36krcdn.com/hsossms/20260602/v2_285d16cbfe224fca8540b894ae865e5a@000000@ai_oswg366229oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3835953136333958",
+          "image": "https://img.36krcdn.com/hsossms/20260602/v2_7289f9d2d529481c841068941fa0cb57@5888275@ai_oswg1103927oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "5e5247a992c3",
-          "title": "死脑筋的达里奥，这次把OpenAI干翻了",
-          "desc": "Anthropic认准一件事：全力搞coding，在企业级市场里当老大。",
+          "id": "cefb8fe4a243",
+          "title": "电商之后是团购，豆包不想只陪用户聊天",
+          "desc": "“去搜索化”无疑是绕开美团的一种方式。",
+          "source": "36氪",
+          "date": "2026-06-02",
+          "dateLabel": "6月2日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3835941302580354",
+          "image": "https://img.36krcdn.com/hsossms/20260602/v2_be84d5081f6c4f5b9aa66d787fcc0dcb@5888275@ai_oswg1032791oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "72ecdd3d9a5c",
+          "title": "具身智能8小时被攻破，机器人“肉身”安全风险亟待补课",
+          "desc": "目前的具身智能的产业化浪潮势不可挡，但安全短板依然愈发明显。",
+          "source": "36氪",
+          "date": "2026-06-02",
+          "dateLabel": "6月2日",
+          "tags": [
+            "research",
+            "policy"
+          ],
+          "url": "https://36kr.com/p/3835902318361221",
+          "image": "https://img.36krcdn.com/hsossms/20260602/v2_82462424374d42d898df57fa28ad05ac@5888275@ai_oswg951611oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "9edc05b43e8d",
+          "title": "企业人工智能最好基于工作流构建，而非自主代理",
+          "desc": "将代理与工作流程混淆，正是人工智能风险悄然潜入的方式。",
           "source": "36氪",
           "date": "2026-06-02",
           "dateLabel": "6月2日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3834671179773065",
-          "image": "https://img.36krcdn.com/hsossms/20260601/v2_316c7f57ef9f45a181b2683454e9e9dc@1743780481@ai_oswg1115822oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3835895706006916",
+          "image": "https://img.36krcdn.com/hsossms/20260602/v2_fca92c04465d4ba394ec8f29f1c0db10@5888275@ai_oswg822377oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "c83deb4e4364",
+          "title": "AI体检：有人赚得盆满钵满，有人只剩营销噱头",
+          "desc": "体量庞大且保持增长的体检市场，正迎来AI技术的全面渗透。",
+          "source": "36氪",
+          "date": "2026-06-02",
+          "dateLabel": "6月2日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3835893251766920",
+          "image": "https://img.36krcdn.com/hsossms/20260602/v2_0ee0aa66d8d14ff2927da0175db9d809@5888275@ai_oswg1046155oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "c157c4534af7",
+          "title": "谷歌800亿美元豪赌AI基建，A股谁能把握时代先机",
+          "desc": "6月1日，Bloomberg披露，科技巨头谷歌的母公司Alphabet，计划启动一场史无前例的融资——高达800亿美元。这笔钱，将悉数砸向AI数据中心、下一代TPU芯片，以及Gemini的模型训练。",
+          "source": "36氪",
+          "date": "2026-06-02",
+          "dateLabel": "6月2日",
+          "tags": [
+            "model",
+            "research",
+            "business"
+          ],
+          "url": "https://36kr.com/p/3835886294743938",
+          "image": "https://img.36krcdn.com/hsossms/20260602/v2_91d701fecf374d5dbbc61649619f47b6@5888275@ai_oswg1063815oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         }
       ]
@@ -1631,6 +1754,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-06-02 14:40",
-  "totalNews": 103
+  "updateTime": "2026-06-03 14:51",
+  "totalNews": 111
 }
