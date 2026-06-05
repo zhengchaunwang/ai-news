@@ -1,103 +1,141 @@
 {
   "newsData": [
     {
-      "date": "2026-06-04",
-      "dateLabel": "6月4日",
-      "id": "d04",
+      "date": "2026-06-05",
+      "dateLabel": "6月5日",
+      "id": "d05",
       "items": [
         {
-          "id": "488b890fe66f",
-          "title": "36氪独家｜2026 年字节 AI 的四个关键命题",
-          "desc": "世界模型、Seedance、Coding、豆包商业化。",
+          "id": "a468e42943c9",
+          "title": "别再碰瓷100 亿美元“身价”的世界模型了，李飞飞这次手把手教你分辨",
+          "desc": "“世界模型”是当今 AI 领域中最重要、同时也最被过度使用的术语之一。",
           "source": "36氪",
-          "date": "2026-06-04",
-          "dateLabel": "6月4日",
+          "date": "2026-06-05",
+          "dateLabel": "6月5日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3839685302241536",
+          "image": "https://img.36krcdn.com/hsossms/20260605/v2_ca6405f1eb4642ebbc4722b54cb156f3@1743780481@ai_oswg889188oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "736b196eb5da",
+          "title": "字节、阿里跟腾讯抢时间窗口： AI平台战争底层逻辑浮出水面",
+          "desc": "AI 接管用户的“选择权”？",
+          "source": "36氪",
+          "date": "2026-06-05",
+          "dateLabel": "6月5日",
           "tags": [
             "business",
             "cn"
           ],
-          "url": "https://36kr.com/p/3838454229027072",
-          "image": "https://img.36krcdn.com/hsossms/20260604/v2_b70166d693fb467c968125a5bd5b5fc5@5783683_oswg725116oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "url": "https://36kr.com/p/3839578919012609",
+          "image": "https://img.36krcdn.com/hsossms/20260605/v2_a5122f74b2784039b87449ce365211d3@1743780481@ai_oswg1021318oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "95ea17e828bd",
-          "title": "价格理论的复归：人工智能时代的一篇经济学散文",
-          "desc": "AI时代价格理论复归，开放市场才能催生新需求新生态",
+          "id": "3375b9dd0627",
+          "title": "比亚迪官宣自研人形机器人，“尧舜禹”计划曝光：已秘密研发了4年",
+          "desc": "比亚迪的新战场。",
           "source": "36氪",
-          "date": "2026-06-04",
-          "dateLabel": "6月4日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3837529770293889",
-          "image": "https://img.36krcdn.com/hsossms/20260604/v2_d6cded6d99ef47ffa0eaf70f14a66c04@1743780481@ai_oswg1027846oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "e0a2d7aab0c5",
-          "title": "AI眼镜的可能性：让生活场景成为学习场景",
-          "desc": "教育不是为未来生活做准备，教育本身就是生活。",
-          "source": "36氪",
-          "date": "2026-06-04",
-          "dateLabel": "6月4日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3838169987926532",
-          "image": "https://img.36krcdn.com/hsossms/20260604/v2_0c537c7d2fca4aa0b5c7845990381335@1200352198_oswg530281oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "4abd7fe6928d",
-          "title": "字节用Arm CPU了，黄仁勋：好难过没买Arm",
-          "desc": "Arm CEO：美国很难阻止AI CPU出口到中国。",
-          "source": "36氪",
-          "date": "2026-06-04",
-          "dateLabel": "6月4日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3838243749284099",
-          "image": "https://img.36krcdn.com/hsossms/20260604/v2_e770203624cf42a58c1b09540f33aa7e@1743780481@ai_oswg885498oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "224d5aae44c8",
-          "title": "量产破万，扎堆开店，宇树闯关IPO急着商业化",
-          "desc": "73天闯关IPO，“具身智能第一股”宇树稳了吗？",
-          "source": "36氪",
-          "date": "2026-06-04",
-          "dateLabel": "6月4日",
+          "date": "2026-06-05",
+          "dateLabel": "6月5日",
           "tags": [
             "research",
-            "business"
+            "cn"
           ],
-          "url": "https://36kr.com/p/3837541611227398",
-          "image": "https://img.36krcdn.com/hsossms/20260603/v2_4076fe260f804520845142be4af7447e@000000@ai_oswg440459oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3838956663650948",
+          "image": "https://img.36krcdn.com/hsossms/20260605/v2_8a2c6e438bd84865b8e6b9f432e3e227@1743780481@ai_oswg985653oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "2130edf3dcd3",
-          "title": "腾讯算生态、宁德算电表：DeepSeek 融资暗藏双重算盘",
-          "desc": "跨界资本入局，DeepSeek 成产业枢纽",
+          "id": "7e228d33ed9b",
+          "title": "93 亿参数打爆 800 亿，这个开源模型把 Midjourney 短板给秒了",
+          "desc": "开源模型Ideogram 4.0解决AI生图写字难问题",
           "source": "36氪",
-          "date": "2026-06-04",
-          "dateLabel": "6月4日",
+          "date": "2026-06-05",
+          "dateLabel": "6月5日",
           "tags": [
             "model",
             "business",
             "cn"
           ],
-          "url": "https://36kr.com/p/3837574746422145",
-          "image": "https://img.36krcdn.com/hsossms/20260604/v2_b8eebf5d0f384ce39fb18ae394ad3490@1743780481@ai_oswg1015402oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3838962672388356",
+          "image": "https://img.36krcdn.com/hsossms/20260604/v2_f6264dedba1546acb59c8dd35c62fcf7@000000@ai_oswg353377oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "50d842662950",
-          "title": "深圳具身公司获得汇川、中国电信亿元融资，“视触觉”传感器出货量行业第一｜硬氪首发",
-          "desc": "以“视触觉”技术搭建世界模型。",
+          "id": "0c278c8a33d7",
+          "title": "舔狗AI，和被预约的寿司郎",
+          "desc": "人类正在集体患上“AI精神病”",
+          "source": "36氪",
+          "date": "2026-06-05",
+          "dateLabel": "6月5日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3839594182985989",
+          "image": "https://img.36krcdn.com/hsossms/20260605/v2_114d4f3327c14723b6586509ea9b40f3@1200352198@ai_oswg881207oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "9f9de35cf646",
+          "title": "硬氪独家 | 唐文斌「原力灵机」并购物流机器人公司，并获智谱、商汤、阶跃等投资",
+          "desc": "被并购公司「Atomix」的年营收近十亿，有500多个项目的真实数据。",
+          "source": "36氪",
+          "date": "2026-06-05",
+          "dateLabel": "6月5日",
+          "tags": [
+            "model",
+            "research",
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3838835333253385",
+          "image": "https://img.36krcdn.com/hsossms/20260604/v2_8226abf7fd714b869c210d58e29feefa@000000_oswg18213oswg893oswg380_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "ed62e05adc0e",
+          "title": "Bonus独家｜小鹏机器人核心产品一号位施晓鑫6月初主动离职",
+          "desc": "服务1675天的老兵，曾主导IRON产品设计。",
+          "source": "36氪",
+          "date": "2026-06-05",
+          "dateLabel": "6月5日",
+          "tags": [
+            "research",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3839560961116417",
+          "image": "https://img.36krcdn.com/hsossms/20260605/v2_9c810e59c45b461dbb42c4af4f986c2d@5509299_oswg384952oswg600oswg400_img_png",
+          "color": "#2563eb"
+        },
+        {
+          "id": "a1ed0e2632d0",
+          "title": "国家队下场做AI虚拟细胞，「百曜科技」完成数千万元新一轮融资｜36氪首发",
+          "desc": "AI虚拟细胞有望成为“未来AI+生命科学最具有颠覆性的领域之一”。",
+          "source": "36氪",
+          "date": "2026-06-05",
+          "dateLabel": "6月5日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3835460873385348",
+          "image": "https://img.36krcdn.com/hsossms/20260602/v2_73ef2ed98d98497ab1ea8082aa82359c@5930287@ai_oswg1063135oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-04",
+      "dateLabel": "6月4日",
+      "id": "d04",
+      "items": [
+        {
+          "id": "4a408c07b2ff",
+          "title": "可灵头上缺了一朵遮风挡雨的云",
+          "desc": "无云的快手最狠心？",
           "source": "36氪",
           "date": "2026-06-04",
           "dateLabel": "6月4日",
@@ -105,22 +143,107 @@
             "business",
             "cn"
           ],
-          "url": "https://36kr.com/p/3837269482091656",
-          "image": "https://img.36krcdn.com/hsossms/20260603/v2_2e26185cb5e846eabe607fb6a132552f@6022551_oswg1034758oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "url": "https://36kr.com/p/3838758058019336",
+          "image": "https://img.36krcdn.com/hsossms/20260604/v2_6e1460fed4f748f9bc2cdb3f671934c5@576620215@ai_oswg1046519oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "dc0a764ce8c5",
-          "title": "“互联网女皇”基金领投，AI音乐独角兽估值达54亿美元",
-          "desc": "Suno获4亿美元D轮融资，投后估值达54亿美元。",
+          "id": "fc4cb282596a",
+          "title": "专家预测年底才到，Claude Mythos今天就跑出3小时6分",
+          "desc": "AI加速，超乎想象！",
+          "source": "36氪",
+          "date": "2026-06-04",
+          "dateLabel": "6月4日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://36kr.com/p/3838773292239105",
+          "image": "https://img.36krcdn.com/hsossms/20260604/v2_e3d2553fc8ab4d1d8bff99e1c2d03fca@5888275@ai_oswg1080212oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "724355cd30b0",
+          "title": "微软“意外泄密”：Claude Mythos万亿参数，训练规模浮出水面？",
+          "desc": "Scaling万岁！",
+          "source": "36氪",
+          "date": "2026-06-04",
+          "dateLabel": "6月4日",
+          "tags": [
+            "model",
+            "research"
+          ],
+          "url": "https://36kr.com/p/3838727884016128",
+          "image": "https://img.36krcdn.com/hsossms/20260604/v2_7d677554236e446fbd2b387857e6d65b@5888275@ai_oswg1201639oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "b1739cccf8f4",
+          "title": "Anthropic内部95%业务分析交给Claude，秘诀竟然不在更强模型",
+          "desc": "都以为让AI查数据省事，结果它答得漂亮你却不敢信。Anthropic最近说这事有解了，靠的是一套和代码无关的「笨功夫」。",
+          "source": "36氪",
+          "date": "2026-06-04",
+          "dateLabel": "6月4日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://36kr.com/p/3838727903201797",
+          "image": "https://img.36krcdn.com/hsossms/20260604/v2_3ed9b12ee2ae432e97b7ea1716d8ea83@5888275@ai_oswg965129oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "ac15415e872d",
+          "title": "连GitLab都开始裁程序员了",
+          "desc": "和GitHub齐名，业绩超预期却裁员14%",
           "source": "36氪",
           "date": "2026-06-04",
           "dateLabel": "6月4日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3838144949700865",
-          "image": "https://img.36krcdn.com/hsossms/20260604/v2_2d38937d652847e9b8ecd18cb14f048e@1743780481@ai_oswg974902oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3838727956662531",
+          "image": "https://img.36krcdn.com/hsossms/20260604/v2_2ffe24b6390a44528cc5ec0b90ac3326@5888275@ai_oswg984589oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "bdab4588a758",
+          "title": "思科、诺基亚、黑莓等老牌巨头集体新高？AI下一轮机会，藏在这些旧资产里",
+          "desc": "AI 算力大洪水，终于从云端数据中心，漫灌到了地面的物理世界基础设施。",
+          "source": "36氪",
+          "date": "2026-06-04",
+          "dateLabel": "6月4日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3838728962738696",
+          "image": "https://img.36krcdn.com/hsossms/20260604/v2_1b8af53183424e9a99aa98dfe21018f6@5888275@ai_oswg1071047oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "33219c0a2f0c",
+          "title": "李飞飞看不下去了，亲自下场“辟谣”世界模型",
+          "desc": "世界模型这个词被滥用了。",
+          "source": "36氪",
+          "date": "2026-06-04",
+          "dateLabel": "6月4日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3838623097080065",
+          "image": "https://img.36krcdn.com/hsossms/20260604/v2_5cc1dab1f68d406a84296b1a44b86b48@5888275@ai_oswg948078oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "46cc64bf8ff9",
+          "title": "GitHub，被 AI 打穿了",
+          "desc": "Github 被自己养的东西压垮了。",
+          "source": "36氪",
+          "date": "2026-06-04",
+          "dateLabel": "6月4日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3838634999417353",
+          "image": "https://img.36krcdn.com/hsossms/20260604/v2_c777827765834a9fa740deeda62783da@5888275@ai_oswg1026610oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         }
       ]
@@ -1778,6 +1901,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-06-04 14:41",
-  "totalNews": 112
+  "updateTime": "2026-06-05 14:21",
+  "totalNews": 120
 }
