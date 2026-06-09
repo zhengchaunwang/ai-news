@@ -1,100 +1,198 @@
 {
   "newsData": [
     {
+      "date": "2026-06-09",
+      "dateLabel": "6月9日",
+      "id": "d09",
+      "items": [
+        {
+          "id": "26f6fdbf208e",
+          "title": "24小时在线的Agent，正批量为外贸企业送来订单",
+          "desc": "一家深耕外贸SaaS二十多年的企业，如何用Agent跑通从获客到成交的全链路？富通天下将腾讯云ClawPro、智能体开发平台ADP与CodeBuddy深度接入业务，让Agent替业务员做背调、判线索、生成报价、24小时多语种自动回复。6万家外贸企业接入后，成交转化率提升100%。",
+          "source": "36氪",
+          "date": "2026-06-09",
+          "dateLabel": "6月9日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3844402952391177",
+          "image": "https://img.36krcdn.com/hsossms/20260608/v2_f649889c5ceb4f9c934f96f5ffe74e04@000000_oswg18829oswg450oswg450_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "61279620b65b",
+          "title": "谁来管住失控的token？",
+          "desc": "下一代企业AI平台，需要怎样的Agent？",
+          "source": "36氪",
+          "date": "2026-06-09",
+          "dateLabel": "6月9日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3845399248439553",
+          "image": "https://img.36krcdn.com/hsossms/20260609/v2_3d70a3e704114aa188a499cb60dcb1f7@5091053@ai_oswg1064603oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "f090024eec99",
+          "title": "微信agent发出“英雄令”，互联网半壁江山响应",
+          "desc": "14亿人的聊天工具，正在变成AI管家",
+          "source": "36氪",
+          "date": "2026-06-09",
+          "dateLabel": "6月9日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3845399354870020",
+          "image": "https://img.36krcdn.com/hsossms/20260609/v2_1e6090c412174a84b17de7c418781d6d@5091053@ai_oswg941221oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "ec4d758eb606",
+          "title": "全球AI行情踩下急刹车",
+          "desc": "在全球股市中，人工智能（AI）、半导体概念股的上涨势头已踩下急刹车。",
+          "source": "36氪",
+          "date": "2026-06-09",
+          "dateLabel": "6月9日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3845331888703751",
+          "image": "https://img.36krcdn.com/hsossms/20260609/v2_7e34b45b0d0344d7b53b651823cbe579@5091053@ai_oswg877415oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "085042d7a4ee",
+          "title": "DeepSeek开招土木老哥：自建GW级数据中心",
+          "desc": "追赶老马与微软",
+          "source": "36氪",
+          "date": "2026-06-09",
+          "dateLabel": "6月9日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3845338701892096",
+          "image": "https://img.36krcdn.com/hsossms/20260609/v2_4d24887bdce4456e93bf626094b69316@5091053@ai_oswg1123692oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "f56e0ddd0c10",
+          "title": "300个Agent预测104场比赛，Kimi拿世界杯做一场AI公开实验",
+          "desc": "国足没进世界杯，Kimi的300个Agent先“下场”了。",
+          "source": "36氪",
+          "date": "2026-06-09",
+          "dateLabel": "6月9日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3844566395947273",
+          "image": "https://img.36krcdn.com/hsossms/20260608/v2_86049a544dde4ac59caaaae37af568e3@000000@ai_oswg377823oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "2df59fe9c28e",
+          "title": "周靖人，阿里史上第一位首席科学家",
+          "desc": "吴泳铭亲自挂帅，阿里成立新事业部，AI组织大调整。",
+          "source": "36氪",
+          "date": "2026-06-09",
+          "dateLabel": "6月9日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3844515262761225",
+          "image": "https://img.36krcdn.com/hsossms/20260609/v2_eeb9ce960987442aa949335dd1be9ec0@5091053@ai_oswg991998oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "1342ff143ba2",
+          "title": "OpenAI秘交招股书，美股开启万亿IPO“三国杀”",
+          "desc": "马斯克抢先敲钟。",
+          "source": "36氪",
+          "date": "2026-06-09",
+          "dateLabel": "6月9日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3845271739288066",
+          "image": "https://img.36krcdn.com/hsossms/20260609/v2_de54c139a26f46c494e61c8e075efb38@5091053@ai_oswg1096362oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        }
+      ]
+    },
+    {
       "date": "2026-06-08",
       "dateLabel": "6月8日",
       "id": "d08",
       "items": [
         {
-          "id": "3cba1421c84c",
-          "title": "产品观察 | 小米创始员工范典创业AI硬件，做了台“无摩擦”的睡眠床头灯",
-          "desc": "不用戴手环就能检测睡眠数据。",
+          "id": "c8eba64fac18",
+          "title": "Agent自进化新范式：孙立超团队提出OpenSkill，刷新多项基准SOTA",
+          "desc": "让Agent自进化不再依赖目标任务监督",
           "source": "36氪",
           "date": "2026-06-08",
           "dateLabel": "6月8日",
           "tags": [
+            "research"
+          ],
+          "url": "https://36kr.com/p/3844303111031040",
+          "image": "https://img.36krcdn.com/hsossms/20260608/v2_eb744322f2694be9b0bd76194419dcc8@46958@ai_oswg968614oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "6147443ac0f5",
+          "title": "vivo、荣耀接连入场，戳破了具身智能的AI叙事",
+          "desc": "会动脑才能一直赚钱",
+          "source": "36氪",
+          "date": "2026-06-08",
+          "dateLabel": "6月8日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://36kr.com/p/3844291402021767",
+          "image": "https://img.36krcdn.com/hsossms/20260608/v2_41d9b1a8802440b8b4fcd8dd30c6df45@46958@ai_oswg886534oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "242ef46011bd",
+          "title": "9天Claude Code重写100万行代码、6755次提交，Bun完成史上最大AI重构后，开发者质疑：99.8%测试通过率，真的代表安全？",
+          "desc": "去年年底，Claude 背后的 Anthropic 收购了明星开源项目 Bun。",
+          "source": "36氪",
+          "date": "2026-06-08",
+          "dateLabel": "6月8日",
+          "tags": [
+            "model",
+            "business",
+            "policy",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3844285021047304",
+          "image": "https://img.36krcdn.com/hsossms/20260608/v2_f27ce7d26de0443bb4459be66a6f8b49@46958@ai_oswg1011774oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "9ecf253f8685",
+          "title": "中国具身智能“超级融资周期”，能否复制“新能源车时刻”？",
+          "desc": "此时此刻，恰如彼时彼刻。",
+          "source": "36氪",
+          "date": "2026-06-08",
+          "dateLabel": "6月8日",
+          "tags": [
+            "research",
             "business",
             "cn"
           ],
-          "url": "https://36kr.com/p/3844006775360002",
-          "image": "https://img.36krcdn.com/hsossms/20260608/v2_38028dece31040bc8e1c7bdc1fd801a8@000000_oswg34324oswg893oswg380_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "url": "https://36kr.com/p/3844275317082628",
+          "image": "https://img.36krcdn.com/hsossms/20260608/v2_2fa5df282285445a9b25c6eba49320eb@46958@ai_oswg1021579oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "846919a8da40",
-          "title": "深扒151份JD，揭秘“数据标注员”：两极分化，30倍薪水差，残酷的未来",
-          "desc": "是个好工作么",
-          "source": "36氪",
-          "date": "2026-06-08",
-          "dateLabel": "6月8日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3843976867989768",
-          "image": "https://img.36krcdn.com/hsossms/20260608/v2_41d60892461b4ad297073b63666eb81f@5091053@ai_oswg936708oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "65cfd65a742f",
-          "title": "SpaceX、OpenAI、Anthropic上市，AI时代的“阿波罗时刻”到了",
-          "desc": "我们正站在“智能奇点”的前夜。",
-          "source": "36氪",
-          "date": "2026-06-08",
-          "dateLabel": "6月8日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3843930550421760",
-          "image": "https://img.36krcdn.com/hsossms/20260608/v2_66592379366e450a89ddf0abf87b811c@5091053@ai_oswg1074815oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "65ef6e1424c3",
-          "title": "Chat已死，GPT史上最大改版，不只聊天",
-          "desc": "OpenAI亲口宣判「Chat is dead」！ChatGPT即将迎来上线以来最大改版，聊天框消失，Codex上位，Agent全面接管。",
-          "source": "36氪",
-          "date": "2026-06-08",
-          "dateLabel": "6月8日",
-          "tags": [
-            "model",
-            "business"
-          ],
-          "url": "https://36kr.com/p/3843921641736457",
-          "image": "https://img.36krcdn.com/hsossms/20260608/v2_5ace0ef882694ccba8384301992ec5fc@5091053@ai_oswg1004970oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "ae746414adce",
-          "title": "降维打击，数学博士熬秃头，AI数学家：上午出题，下午4点交证明",
-          "desc": "数学还是人类最后智力上的荣耀吗？",
-          "source": "36氪",
-          "date": "2026-06-08",
-          "dateLabel": "6月8日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3843922067868162",
-          "image": "https://img.36krcdn.com/hsossms/20260608/v2_5e094a30cee44439a1bc9f1ecfde3367@5091053@ai_oswg999921oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "89888e30037b",
-          "title": "对话 MiniMax 择因：Agent 终会超过人类，我们又将何去何从？",
-          "desc": "山雨欲来。",
-          "source": "36氪",
-          "date": "2026-06-08",
-          "dateLabel": "6月8日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3843925214693635",
-          "image": "https://img.36krcdn.com/hsossms/20260608/v2_080875afbb8b431387c7c1e29600d41c@5091053@ai_oswg1039736oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "d4a6410949fc",
-          "title": "智谱与MiniMax回A遭遇“七月围城”",
-          "desc": "2026年港股解禁规模高达1.55万亿港元，较2025年约6000亿港元猛增近3倍，创下有记录以来的年度解禁新高。在这轮解禁潮中，智谱与MiniMax尤其值得关注。",
+          "id": "94fabd53de66",
+          "title": "Kimi Work不是中国版Codex",
+          "desc": "它帮我把马斯克“取关”了。",
           "source": "36氪",
           "date": "2026-06-08",
           "dateLabel": "6月8日",
@@ -102,22 +200,50 @@
             "model",
             "cn"
           ],
-          "url": "https://36kr.com/p/3843832002971905",
-          "image": "https://img.36krcdn.com/hsossms/20260608/v2_0414c69b52254ec5b40a70807c1c3e06@5091053@ai_oswg1046650oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3844257852885256",
+          "image": "https://img.36krcdn.com/hsossms/20260608/v2_f079b2e824894e96b5ba064c83dbb14f@46958@ai_oswg819576oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "9fb08534f5e4",
-          "title": "“锈带”变“智带”：美国宾州凭什么拿下 900 亿美元 AI 注资",
-          "desc": "“旧工业基础设施”与“新算力需求”之间的隐秘契合，是锈带重生的真正起点。",
+          "id": "c2cdbb057564",
+          "title": "GPT-5作者复盘：趁OpenAI沉迷ChatGPT，Anthropic死磕代码，这是一场教科书级的“偷家”",
+          "desc": "狂喂万亿 Token 的大模型，为何仍缺“品味”？",
+          "source": "36氪",
+          "date": "2026-06-08",
+          "dateLabel": "6月8日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://36kr.com/p/3844470724708617",
+          "image": "https://img.36krcdn.com/hsossms/20260608/v2_c04304fda14d4cae9d4d95912b744097@46958@ai_oswg976121oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "6ab25bfb48e8",
+          "title": "八十三岁，他决定和AI死磕一下",
+          "desc": "焦虑的AI狂潮里，一位八旬老头逆流而上",
           "source": "36氪",
           "date": "2026-06-08",
           "dateLabel": "6月8日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3843856818030852",
-          "image": "https://img.36krcdn.com/hsossms/20260608/v2_923062153d744557898d89cbd0560432@5091053@ai_oswg1090028oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3844440491870466",
+          "image": "https://img.36krcdn.com/hsossms/20260608/v2_196faff455bd4354bb109e06392d0375@46958@ai_oswg913120oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "44bbd961196d",
+          "title": "拆解25笔超5000万A轮融资，AI最聪明的钱正在押注这三个方向",
+          "desc": "60亿美元押注AI新战场",
+          "source": "36氪",
+          "date": "2026-06-08",
+          "dateLabel": "6月8日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3844470639036680",
+          "image": "https://img.36krcdn.com/hsossms/20260608/v2_c8f1c9ff75ef4149b0a80e13dbecc80a@46958@ai_oswg855082oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         }
       ]
@@ -2131,6 +2257,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-06-08 14:45",
-  "totalNews": 135
+  "updateTime": "2026-06-09 14:08",
+  "totalNews": 143
 }
