@@ -1,123 +1,247 @@
 {
   "newsData": [
     {
+      "date": "2026-06-11",
+      "dateLabel": "6月11日",
+      "id": "d11",
+      "items": [
+        {
+          "id": "6797146b0e2d",
+          "title": "高校严查论文AI率，帮学生“降写”成了火爆生意，单商家销量就超4000件",
+          "desc": "被“AI率”困住的大学毕业生，正在养肥一个灰产。",
+          "source": "36氪",
+          "date": "2026-06-11",
+          "dateLabel": "6月11日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://36kr.com/p/3848075743056903",
+          "image": "https://img.36krcdn.com/hsossms/20260611/v2_f61823f4c7ed4af18f716712e2018cf9@5091053@ai_oswg1040459oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "60f145883c0a",
+          "title": "“AI+营养师”狂揽14.5亿融资，94%患者0自付：一家美国平台跑通银发慢病管理新闭环",
+          "desc": "从“重治疗”到“重预防”",
+          "source": "36氪",
+          "date": "2026-06-11",
+          "dateLabel": "6月11日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3848045682988033",
+          "image": "https://img.36krcdn.com/hsossms/20260611/v2_9db325ce544e446bade4fc2082fc4aa1@5091053@ai_oswg976708oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "576012c7e7c4",
+          "title": "智谱开始发起一场关于数字世界解释权的战争",
+          "desc": "SCAIL-2，不止于SCAIL-2",
+          "source": "36氪",
+          "date": "2026-06-11",
+          "dateLabel": "6月11日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3848005423797509",
+          "image": "https://img.36krcdn.com/hsossms/20260611/v2_f4befff4c7a54442b040572ccd21a756@5091053@ai_oswg982028oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "2e0b87a0cd24",
+          "title": "马斯克和黄仁勋的“AI工厂”背后，一场看不见硝烟的“淡水掠夺战”已经打响",
+          "desc": "华尔街的“新焦虑”与科技巨头的“零水谎言”。",
+          "source": "36氪",
+          "date": "2026-06-11",
+          "dateLabel": "6月11日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3847992280913155",
+          "image": "https://img.36krcdn.com/hsossms/20260611/v2_cbf87c44ee834c89a77666a7208d7462@5091053@ai_oswg1064880oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "8d0b8efd2423",
+          "title": "AGI只差最后一步了",
+          "desc": "数字囚笼",
+          "source": "36氪",
+          "date": "2026-06-11",
+          "dateLabel": "6月11日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3847999756129283",
+          "image": "https://img.36krcdn.com/hsossms/20260611/v2_6ee8663424da4d9b80d7aa39e46f0d75@5091053@ai_oswg1121638oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "a61b9c26abe4",
+          "title": "TRAE SOLO 正式升级 TRAE Work：让 AI 真正进入日常工作",
+          "desc": "TRAE 不局限于形式",
+          "source": "36氪",
+          "date": "2026-06-11",
+          "dateLabel": "6月11日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3848227262649350",
+          "image": "https://img.36krcdn.com/hsossms/20260611/v2_ff5f522f322542ef982046c3de0bc6ca@5091053@ai_oswg908810oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "c3fc865c4ff0",
+          "title": "实测小米最快1T大模型：吞吐量每秒1000+ Tokens，Vibe Coding七秒交付",
+          "desc": "通用GPU就能实现",
+          "source": "36氪",
+          "date": "2026-06-11",
+          "dateLabel": "6月11日",
+          "tags": [
+            "model",
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3848045553177602",
+          "image": "https://img.36krcdn.com/hsossms/20260611/v2_fbb234dae9874123a449d8b91b6cb518@5091053@ai_oswg906875oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "da4971f13ce0",
+          "title": "Claude 的增长飞轮",
+          "desc": "答案藏在聊天框外面",
+          "source": "36氪",
+          "date": "2026-06-11",
+          "dateLabel": "6月11日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://36kr.com/p/3847382318300041",
+          "image": "https://img.36krcdn.com/hsossms/20260611/v2_a5ed2d74b8f446178b79789c2d95a286@5091053@ai_oswg987907oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        }
+      ]
+    },
+    {
       "date": "2026-06-10",
       "dateLabel": "6月10日",
       "id": "d10",
       "items": [
         {
-          "id": "2fcc7feec267",
-          "title": "独家｜字节 AI 制药开启拆分融资，AI4S 进入产业化阶段",
-          "desc": "拆分后，字节仍将控股新公司，AI 制药核心团队、核心算法、技术平台和已有管线资产将整体进入新主体。",
+          "id": "9f7462962385",
+          "title": "全球首家AI情人馆开业，249欧一晚，来的最多的竟是已婚男人",
+          "desc": "249欧一夜的“完美情人”，为何让德国人上头？",
+          "source": "36氪",
+          "date": "2026-06-10",
+          "dateLabel": "6月10日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3847967397991425",
+          "image": "https://img.36krcdn.com/hsossms/20260611/v2_d6545d7d09234fe485d91aac990436df@5091053@ai_oswg1121082oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "919cabb4facd",
+          "title": "Anthropic 发了“最强模型”，但大多数人用不上",
+          "desc": "最强模型也最贵。",
+          "source": "36氪",
+          "date": "2026-06-10",
+          "dateLabel": "6月10日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3847982811731202",
+          "image": "https://img.36krcdn.com/hsossms/20260611/v2_7f20ce073918458a8079f33e479dd90b@5091053@ai_oswg1028868oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "7606a4f8511f",
+          "title": "只会说漂亮话的AI，办不了“填志愿”这件人生大事",
+          "desc": "从报志愿这件事开始，AI正在证明：它不仅能说漂亮话，更能办漂亮事。",
+          "source": "36氪",
+          "date": "2026-06-10",
+          "dateLabel": "6月10日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3847386672764161",
+          "image": "https://img.36krcdn.com/hsossms/20260610/v2_7a2d634dfa2f46e0b08c3a0d8478921d@11416942_oswg79553oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "aaaac157fc4d",
+          "title": "当中国机器人供应链，决定开始卖“基础设施”｜muShanghai现场笔记",
+          "desc": "中国具身智能核心部件公司，走在集体出海的前夜。",
           "source": "36氪",
           "date": "2026-06-10",
           "dateLabel": "6月10日",
           "tags": [
             "research",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3847394898679044",
+          "image": "https://img.36krcdn.com/hsossms/20260610/v2_4a0142dd9c2044359b1177d5854b3911@5509299_oswg311615oswg600oswg400_img_png",
+          "color": "#2563eb"
+        },
+        {
+          "id": "907259da03b4",
+          "title": "MiniMax改价引发众怒：3000亿市值神话悬了？",
+          "desc": "‍新版大模型上线、算力成本高企，一场突如其来的调价，让港股AI明星企业MiniMax陷入舆论漩涡。",
+          "source": "36氪",
+          "date": "2026-06-10",
+          "dateLabel": "6月10日",
+          "tags": [
+            "model",
+            "business"
+          ],
+          "url": "https://36kr.com/p/3847272900544769",
+          "image": "https://img.36krcdn.com/hsossms/20260610/v2_0dffe72566ec4169a88cdb885b513419@46958@ai_oswg1003350oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "dbf8a5c3a6de",
+          "title": "赛博无间道：AI时代的网络攻防战",
+          "desc": "AI重塑下的网络安全",
+          "source": "36氪",
+          "date": "2026-06-10",
+          "dateLabel": "6月10日",
+          "tags": [
+            "policy"
+          ],
+          "url": "https://36kr.com/p/3847236850321664",
+          "image": "https://img.36krcdn.com/hsossms/20260610/v2_fb406a575a90476f903f7a47e260886c@46958@ai_oswg887354oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "2e2dcb5050db",
+          "title": "智谱与MiniMax将进入解禁期：股价震荡，Kimi 300亿美元估值面临挑战",
+          "desc": "智谱、MiniMax很快进入解禁期，流动性将大幅增加，会增大Kimi后期投资者的投资风险。",
+          "source": "36氪",
+          "date": "2026-06-10",
+          "dateLabel": "6月10日",
+          "tags": [
+            "model",
             "business",
             "cn"
           ],
-          "url": "https://36kr.com/p/3846956646124036",
-          "image": "https://img.36krcdn.com/hsossms/20260610/v2_d73c3183c7e64ea68cf7c8e576ce7989@5783683_oswg821552oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "url": "https://36kr.com/p/3847278698514949",
+          "image": "https://img.36krcdn.com/hsossms/20260610/v2_150244154fbb47f0b7285a742220fed4@000000@ai_oswg334048oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "dff885bd9fd9",
-          "title": "能自动干活的AI浏览器，永久免费，来自美团",
-          "desc": "浏览器替你跑流程！",
+          "id": "68d874d9adcd",
+          "title": "拆了一台宇树机器人，美国研究机构说它会是下一个比亚迪",
+          "desc": "宇树离爆发，可能只差最后一步",
           "source": "36氪",
           "date": "2026-06-10",
           "dateLabel": "6月10日",
           "tags": [
-            "business",
+            "research",
             "cn"
           ],
-          "url": "https://36kr.com/p/3846828295293186",
-          "image": "https://img.36krcdn.com/hsossms/20260610/v2_31f2b3f3402d46ad87fb44f760340cf8@5091053@ai_oswg949650oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "00af9ad92342",
-          "title": "智驾人才，怎么在具身领域失宠了？",
-          "desc": "“坑位渐满，早点儿入场。”",
-          "source": "36氪",
-          "date": "2026-06-10",
-          "dateLabel": "6月10日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3846815490443784",
-          "image": "https://img.36krcdn.com/hsossms/20260610/v2_c49ea598fb8e4809aa3861dd2099bcfe@5091053@ai_oswg931957oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "6527fc20a625",
-          "title": "见顶 ，Token烧不动了？这可能是全市场最重要的一张图",
-          "desc": "Token支出的边际变化，通过GPU算力、DRAM内存及数据中心需求的传导链条，直接影响英伟达、存储芯片厂商及云服务商的资本开支预期。",
-          "source": "36氪",
-          "date": "2026-06-10",
-          "dateLabel": "6月10日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3846800758409728",
-          "image": "https://img.36krcdn.com/hsossms/20260610/v2_f883e20cf91d4f339e63cb77242a6cea@5091053@ai_oswg960357oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "12cdff4de359",
-          "title": "AI正在猎杀上一代独角兽",
-          "desc": "220家独角兽，被AI悄悄杀死。",
-          "source": "36氪",
-          "date": "2026-06-10",
-          "dateLabel": "6月10日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3846792708638982",
-          "image": "https://img.36krcdn.com/hsossms/20260610/v2_aef9ecba3da24bdbbde673cdf6ac0b3e@5091053@ai_oswg1099820oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "fc17e35e839a",
-          "title": "Siri补齐短板，苹果AI还需关键一跃",
-          "desc": "AI赛点生变，苹果掉队明显",
-          "source": "36氪",
-          "date": "2026-06-10",
-          "dateLabel": "6月10日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3846708419099520",
-          "image": "https://img.36krcdn.com/hsossms/20260610/v2_37df83cc52ca4117b9cca86f9bcda350@5091053@ai_oswg1076294oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "ef99c8b9d151",
-          "title": "万人内测，科研神器爆火实验室，4h肝出论文初稿，全自动接管科研",
-          "desc": "深度原理 Deep Principle，让Vibe Researching成真",
-          "source": "36氪",
-          "date": "2026-06-10",
-          "dateLabel": "6月10日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://36kr.com/p/3846731635821058",
-          "image": "https://img.36krcdn.com/hsossms/20260610/v2_abc8b461b04245a2966a9a00ee7aee35@5091053@ai_oswg1140827oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "6479fc5da6ef",
-          "title": "哈萨比斯最新震撼预言：留给旧世界的时间，不到2000天",
-          "desc": "留给人类的时间，可能不多了。",
-          "source": "36氪",
-          "date": "2026-06-10",
-          "dateLabel": "6月10日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3846000916122114",
-          "image": "https://img.36krcdn.com/hsossms/20260610/v2_65e1657d5b544489aec9c052e2979d39@5091053@ai_oswg933046oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3847303087166464",
+          "image": "https://img.36krcdn.com/hsossms/20260610/v2_9ef7f048d5034f3082f0f1390bd49895@46958@ai_oswg872129oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         }
       ]
@@ -2380,6 +2504,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-06-10 14:22",
-  "totalNews": 151
+  "updateTime": "2026-06-11 14:47",
+  "totalNews": 159
 }
