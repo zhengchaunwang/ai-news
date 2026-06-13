@@ -1,120 +1,246 @@
 {
   "newsData": [
     {
+      "date": "2026-06-13",
+      "dateLabel": "6月13日",
+      "id": "d13",
+      "items": [
+        {
+          "id": "4cc414e5f465",
+          "title": "通义团队再失核心？阿里首席科学家周靖人被曝离职",
+          "desc": "传阿里首席科学家周靖人履新六天离职，阿里AI核心团队动荡。",
+          "source": "36氪",
+          "date": "2026-06-13",
+          "dateLabel": "6月13日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3850978776759176",
+          "image": "https://img.36krcdn.com/hsossms/20260613/v2_72c18051e10f4177a9e831563d76d387@6384599_oswg425645oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "a3e79474cb7e",
+          "title": "人类首个万亿富豪诞生：SpaceX的2万亿，到底值不值？",
+          "desc": "沸腾的野心",
+          "source": "36氪",
+          "date": "2026-06-13",
+          "dateLabel": "6月13日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3851139471031173",
+          "image": "https://img.36krcdn.com/hsossms/20260613/v2_39975a70699348f5bfb6ec6ead1e5f81@000000_oswg47116oswg899oswg900_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "6789f5d5e6ca",
+          "title": "读懂SpaceX的两万亿故事：为什么马斯克每一手棋，永远都可以提前摆好？",
+          "desc": "飞向宇宙、浩瀚无垠",
+          "source": "36氪",
+          "date": "2026-06-13",
+          "dateLabel": "6月13日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3851073239372809",
+          "image": "https://img.36krcdn.com/hsossms/20260613/v2_2b95eaadc33a4fdb944f77aff0b845cc@000000_oswg29044oswg1080oswg460_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "14fefc18cfe3",
+          "title": "钉钉的“旧洞”，90后新帅能补上么？",
+          "desc": "万字长文引热议，钉钉陷入“钉内风波”。",
+          "source": "36氪",
+          "date": "2026-06-13",
+          "dateLabel": "6月13日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3850171792309122",
+          "image": "https://img.36krcdn.com/hsossms/20260612/v2_c16bfe4370cd427d87bf1d1d0497b07c@000000_oswg53519oswg1280oswg545_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "9fdb330931bd",
+          "title": "突发！Anthropic全球停用Claude 5",
+          "desc": "究竟为何，Anthropic突然下线了地表最强Claude？",
+          "source": "36氪",
+          "date": "2026-06-13",
+          "dateLabel": "6月13日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://36kr.com/p/3851015329027336",
+          "image": "https://img.36krcdn.com/hsossms/20260613/v2_4c0ba87489ea468cb6ccd71dcafdb6c0@5579416_oswg834153oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "0d4add8deb10",
+          "title": "9点1氪｜SpaceX市值破2.1万亿美元，马斯克身家达巴菲特7倍；胖东来回应“员工不值这么多钱”等言论；FIFA联名款labubu世界杯销量暴涨30倍",
+          "desc": "6月12日，SpaceX在纳斯达克交易所完成了上市，跻身美国市值第六大企业，总市值达到2.1万亿美元。",
+          "source": "36氪",
+          "date": "2026-06-13",
+          "dateLabel": "6月13日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3850898430989577",
+          "image": "https://img.36krcdn.com/hsossms/20260613/v2_27be5ad3156a41a4801968252cb8ca9e@5579416_oswg481340oswg1053oswg495_img_jpeg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "b01f640576f5",
+          "title": "马斯克远程敲钟穿了老黄的皮衣！SpaceX员工集体穿上绿鞋",
+          "desc": "马斯克成人类历史首位万亿美金富豪",
+          "source": "量子位",
+          "date": "2026-06-13",
+          "dateLabel": "6月13日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/06/435339.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "77c2575346ca",
+          "title": "SemiAnalysis 洞察 Token 经济：200 美元 AI 订阅榨出 70 倍用量",
+          "desc": "IT之家 6 月 13 日消息，研究机构和咨询公司 @SemiAnalysis_ 于 6 月 11 日在 X 平台发布推文，指出 Anthropic 的 Claude Max 与 OpenAI 的 ChatGPT Pro 月费虽然都是 200 美元（现汇率约合 1355 元人民币），但若按照 API 用量计算，用户最高可消耗价值 8000 美元和 14000 美元（IT之家注：现汇率约合 9487",
+          "source": "IT之家",
+          "date": "2026-06-13",
+          "dateLabel": "6月13日",
+          "tags": [
+            "model",
+            "research",
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/963/834.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/9bc38603-b749-44a0-a1b2-2dd01da95164.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-06-12",
       "dateLabel": "6月12日",
       "id": "d12",
       "items": [
         {
-          "id": "e2f7e7a70aa1",
-          "title": "OpenAI为什么要设两个CMO位？",
-          "desc": "OpenAI的营销，进入双轨时代",
+          "id": "fcbe544f203f",
+          "title": "志愿填报Agent：腾讯克制，阿里激进",
+          "desc": "陪伴的代价，就是让你离不开",
+          "source": "36氪",
+          "date": "2026-06-12",
+          "dateLabel": "6月12日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3850060424484105",
+          "image": "https://img.36krcdn.com/hsossms/20260612/v2_84adc9f9f1c941ecbb0ba57ba629bc85@000000@ai_oswg300992oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "aab1f5d0c1cf",
+          "title": "把提示词刻在墓碑上，这届开发者用AI封装自己，死了都能接单干活？",
+          "desc": "科技解放人类，可能真不是爽文。",
           "source": "36氪",
           "date": "2026-06-12",
           "dateLabel": "6月12日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3849547102590217",
-          "image": "https://img.36krcdn.com/hsossms/20260612/v2_f635245f6b744a259e290c7ae873bf14@5091053@ai_oswg1068575oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3850104991044614",
+          "image": "https://img.36krcdn.com/hsossms/20260612/v2_a2f450a9701d459883769daa4f88ff6f@000000@ai_oswg377509oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "f07dfe4a3fe7",
-          "title": "当AI取代智力劳动，是时候考虑“全民分红”了",
-          "desc": "本周的韩国综合股价指数，注定要走成一张惊跳的心电图了。",
-          "source": "36氪",
-          "date": "2026-06-12",
-          "dateLabel": "6月12日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3849576457982980",
-          "image": "https://img.36krcdn.com/hsossms/20260612/v2_954f64dc0f134c1aada535993e14ce8b@5091053@ai_oswg950957oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "5c5b6dc97baa",
-          "title": "新车热销竟是凭空捏造，AI到底给汽车营销制造多少假象？",
-          "desc": "只有你想不到，没有AI做不到",
-          "source": "36氪",
-          "date": "2026-06-12",
-          "dateLabel": "6月12日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3849634342065416",
-          "image": "https://img.36krcdn.com/hsossms/20260612/v2_80f66bfc548e4ebbae7dc663e448493d@5091053@ai_oswg1095929oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "bbf4a360226d",
-          "title": "“智能体最后的考试”，Fable 5竟然不敌GPT 5.5",
-          "desc": "不过最难档都吃了零蛋",
+          "id": "febce7a05cb6",
+          "title": "Claude Fable 5「发疯」，高数算网络攻击，问癌症直接封号？",
+          "desc": "【导读】AI本该加速科研，Claude Fable 5却把科学家当危险分子封杀。",
           "source": "36氪",
           "date": "2026-06-12",
           "dateLabel": "6月12日",
           "tags": [
             "model"
           ],
-          "url": "https://36kr.com/p/3849658955879427",
-          "image": "https://img.36krcdn.com/hsossms/20260612/v2_96d3f15b1e594ee69ceb6d3fdcb98ec7@5091053@ai_oswg994646oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3850107616678918",
+          "image": "https://img.36krcdn.com/hsossms/20260612/v2_7e01dece39924651ad8a974a39b2e762@46958@ai_oswg898733oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "30ccb0c607cf",
-          "title": "田渊栋创业公司首个成果：GPU内核优化，英伟达官方榜单SOTA",
-          "desc": "让AI系统改进AI系统本身",
+          "id": "5f5e0d6776eb",
+          "title": "小云雀vs万镜一刻，聊聊字节与阿里的内容Agent一番战",
+          "desc": "市场或许并不缺少工具甚至是内容。",
+          "source": "36氪",
+          "date": "2026-06-12",
+          "dateLabel": "6月12日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3850041320543490",
+          "image": "https://img.36krcdn.com/hsossms/20260612/v2_e39df899fed94a7d84d95574cf8a77a8@46958@ai_oswg797527oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "d3bc9d8e4b94",
+          "title": "MiniMax暴跌65%，AI泡沫破裂了？",
+          "desc": "MiniMax暴跌了，但“恒科接盘侠”是个伪命题。",
           "source": "36氪",
           "date": "2026-06-12",
           "dateLabel": "6月12日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3849659424216065",
-          "image": "https://img.36krcdn.com/hsossms/20260612/v2_03f2fbabb0e841d08f57de6ec07ec7cb@5091053@ai_oswg1033653oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3850027312698628",
+          "image": "https://img.36krcdn.com/hsossms/20260612/v2_7cfe1ded63d847e49ab6e79d21b0d8a6@000000@ai_oswg291489oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "a443e883d943",
-          "title": "Anthropic警告的递归AI，田渊栋新公司刚刚走出了「第一步」",
-          "desc": "一套能自主推进 AI 研究循环的系统，并在三个基准测试上刷新了最好成绩。",
-          "source": "36氪",
-          "date": "2026-06-12",
-          "dateLabel": "6月12日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://36kr.com/p/3849621199442945",
-          "image": "https://img.36krcdn.com/hsossms/20260612/v2_09514e7f73864d20b80d3084af3b3de1@5091053@ai_oswg1172714oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "27775165f8dc",
-          "title": "所有人都在为7000亿账单兜底",
-          "desc": "风险被层层转移。",
+          "id": "dd5331ef6357",
+          "title": "AI世代，警惕一场静悄悄发生的“认知投降”",
+          "desc": "当平庸的分析触手可及，人类作为思考者的底线在哪里？",
           "source": "36氪",
           "date": "2026-06-12",
           "dateLabel": "6月12日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3849609674773763",
-          "image": "https://img.36krcdn.com/hsossms/20260612/v2_665a5e1bf19441d4807c3f74c999ea5b@5091053@ai_oswg1173871oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3849962764063752",
+          "image": "https://img.36krcdn.com/hsossms/20260612/v2_dd8b0fbfe48d4ff18d7affb632cd8909@000000@ai_oswg339806oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "a3ac287f49c5",
-          "title": "AI预测世界杯大横评：豆包靠玄学，千问看数据，deepseek选黑马",
-          "desc": "我养了五只AI「章鱼保罗」，它们为世界杯谁夺冠吵起来了",
+          "id": "891ef6302978",
+          "title": "5人2周肝出5.1k星，小米 MiMo Code开源但bug不断，开发者炸锅",
+          "desc": "MiMo Code 现在暴露出了一批早期产品问题。 其他我没啥了",
           "source": "36氪",
           "date": "2026-06-12",
           "dateLabel": "6月12日",
           "tags": [
-            "model"
+            "business",
+            "cn"
           ],
-          "url": "https://36kr.com/p/3849637857377157",
-          "image": "https://img.36krcdn.com/hsossms/20260612/v2_a078c1d4b7784b16a7387a8048cb0dbc@5091053@ai_oswg1014427oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3849833227572226",
+          "image": "https://img.36krcdn.com/hsossms/20260612/v2_d80624dca3ab4104baa7dbfffca25a49@000000@ai_oswg345541oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "e1e7df96d9ba",
+          "title": "小米罗福莉：Fable 5只是阶段性成果",
+          "desc": "小米、生数科技、面壁智能、南洋理工大学AI大牛同台交锋。",
+          "source": "36氪",
+          "date": "2026-06-12",
+          "dateLabel": "6月12日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3849828928967684",
+          "image": "https://img.36krcdn.com/hsossms/20260612/v2_b3104fa090f845b09576ed9cd4f193bc@000000@ai_oswg357443oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         }
       ]
@@ -125,120 +251,18 @@
       "id": "d11",
       "items": [
         {
-          "id": "dd5d46c516c8",
-          "title": "补贴→Token计费→降价，OpenAI打响价格战，Token经济学拐点将至？",
-          "desc": "当Token价格战真正打响，AI行业靠什么赚钱？",
-          "source": "36氪",
+          "id": "b536e2196ebf",
+          "title": "Claude Fable 5省钱秘诀来了：调成Low档比Opus更便宜",
+          "desc": "聪明人总能花最少的钱办最好的事，AI也一样。",
+          "source": "量子位",
           "date": "2026-06-11",
           "dateLabel": "6月11日",
           "tags": [
-            "business"
+            "model"
           ],
-          "url": "https://36kr.com/p/3849372459816192",
-          "image": "https://img.36krcdn.com/hsossms/20260612/v2_eb052345e71544b896cb2b12ddc73b03@5091053@ai_oswg1181874oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "3ff65180f0e3",
-          "title": "Codex 大降价要来了，这份官方指南手把手教你高效榨干额度",
-          "desc": "是朋友就帮我「砍一刀」",
-          "source": "36氪",
-          "date": "2026-06-11",
-          "dateLabel": "6月11日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3849337071391751",
-          "image": "https://img.36krcdn.com/hsossms/20260612/v2_28c6af34cc2846d38730f5e1afa441fd@5091053@ai_oswg1042541oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "faa71b359a9f",
-          "title": "Anthropic CEO只直接管一个人",
-          "desc": "【导读】Anthropic执行团队由妹妹Daniela领导，她负责日常运营并向董事会汇报，Dario则专注长远战略和研究方向。他和妹妹把维护企业文化视为最重要任务。而他专注于真正该思考的事：AI到底会不会把人变成工具？",
-          "source": "36氪",
-          "date": "2026-06-11",
-          "dateLabel": "6月11日",
-          "tags": [
-            "research",
-            "business"
-          ],
-          "url": "https://36kr.com/p/3848711901189125",
-          "image": "https://img.36krcdn.com/hsossms/20260611/v2_0973876ca74040f9b26cfa282d1bb222@46958@ai_oswg842748oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "da2145f897da",
-          "title": "陶哲轩First Proof二期结果出炉，最低8美元1题，AI烧出7道论文级解法",
-          "desc": "新增双盲同行评议机制",
-          "source": "36氪",
-          "date": "2026-06-11",
-          "dateLabel": "6月11日",
-          "tags": [
-            "model",
-            "research"
-          ],
-          "url": "https://36kr.com/p/3848704210244866",
-          "image": "https://img.36krcdn.com/hsossms/20260611/v2_89ff14ab691a434682148c1b0dff7417@46958@ai_oswg815336oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "5296a8f80869",
-          "title": "OpenAI推理之父掀桌：AI真·满血的样子，你没钱见",
-          "desc": "【导读】OpenAI o1推理模型核心缔造者Noam Brown发长文炮轰整个行业：用单一跑分评价AI模型，从2024年就过时了。GPT-5.5看起来只比5.4强一点？控制推理预算后再看，那叫一个天壤之别。",
-          "source": "36氪",
-          "date": "2026-06-11",
-          "dateLabel": "6月11日",
-          "tags": [
-            "model",
-            "research"
-          ],
-          "url": "https://36kr.com/p/3848712049202439",
-          "image": "https://img.36krcdn.com/hsossms/20260611/v2_d3d33434d8034cb395fff40a6ddcbf20@46958@ai_oswg910771oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "1ed81b32623f",
-          "title": "Fable 5 的杀手锏不是写新代码，是迁移、重构、收拾烂摊子",
-          "desc": "Fable 5 到底在哪些场景里“贵，但值得”？",
-          "source": "36氪",
-          "date": "2026-06-11",
-          "dateLabel": "6月11日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3848491445163015",
-          "image": "https://img.36krcdn.com/hsossms/20260611/v2_c9f3bf2ff2e24b26919c49de308983b8@000000@ai_oswg330406oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "fd8e6a026ece",
-          "title": "Rokid“偷拍门”，撕开了智能眼镜的遮羞布",
-          "desc": "抢风口下的群体尴尬。",
-          "source": "36氪",
-          "date": "2026-06-11",
-          "dateLabel": "6月11日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3848719234585604",
-          "image": "https://img.36krcdn.com/hsossms/20260611/v2_bdf44d5209e540afa98c3fb9175c04a9@000000@ai_oswg318786oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "c509de299bd3",
-          "title": "周星驰入局、字节腾讯押注，AI互动到了爆发前夜？",
-          "desc": "AI互动的第一桶金，不在影游，而在广告？",
-          "source": "36氪",
-          "date": "2026-06-11",
-          "dateLabel": "6月11日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3848718593332231",
-          "image": "https://img.36krcdn.com/hsossms/20260611/v2_cb0cf31771b04113b57716f2df7d7308@000000@ai_oswg388840oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
+          "url": "https://www.qbitai.com/2026/06/434571.html",
+          "image": "",
+          "color": "#7c3aed"
         }
       ]
     },
@@ -2624,6 +2648,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-06-12 14:40",
-  "totalNews": 167
+  "updateTime": "2026-06-13 14:15",
+  "totalNews": 168
 }
