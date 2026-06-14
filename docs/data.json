@@ -1,10 +1,168 @@
 {
   "newsData": [
     {
+      "date": "2026-06-14",
+      "dateLabel": "6月14日",
+      "id": "d14",
+      "items": [
+        {
+          "id": "f88d87520685",
+          "title": "华人AI工程师也搭上了SpaceX的财富火箭",
+          "desc": "从多模态到代码智能体，xAI里的华人AI工程师也被装进了SpaceX上市故事。",
+          "source": "36氪",
+          "date": "2026-06-14",
+          "dateLabel": "6月14日",
+          "tags": [
+            "research",
+            "business"
+          ],
+          "url": "https://36kr.com/p/3852485841156997",
+          "image": "https://img.36krcdn.com/hsossms/20260614/v2_d0fe04f91faa4b719ab2a408efa7a671@000000_oswg121941oswg940oswg399_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "0e6c80b4906c",
+          "title": "大反转！Anthropic CEO拒修漏洞才被封，举报Claude新模型是自家大股东",
+          "desc": "Claude开启退款，金额按剩余时长折算。",
+          "source": "36氪",
+          "date": "2026-06-14",
+          "dateLabel": "6月14日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://36kr.com/p/3852376401220868",
+          "image": "https://img.36krcdn.com/hsossms/20260614/v2_75479a49974e46cdacb27c111c2f58be@000000@ai_oswg25480oswg900oswg382_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "f3fd6fcde6ba",
+          "title": "谷歌官宣3万字路线图：1亿人类水平的AI就是ASI！",
+          "desc": "【新智元导读】1000个实例每年翻10倍，五年后就是一亿个AI！谷歌DeepMind推演：一亿个共享大脑、思考快百倍的AI，本身就是ASI。但前路还有六道「叹息之墙」。",
+          "source": "36氪",
+          "date": "2026-06-14",
+          "dateLabel": "6月14日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3852349905900544",
+          "image": "https://img.36krcdn.com/hsossms/20260614/v2_f16aa54d6b2d4368bb6631f139770cf5@000000_oswg105977oswg1080oswg459_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "a34dd8b71450",
+          "title": "高瓴出手了一家消费级柔性机器人公司，要把“大白”从电影搬进现实家庭｜硬氪首发",
+          "desc": "从睡眠伴侣、卧室情绪管家延伸到覆盖全屋的关护中枢。",
+          "source": "36氪",
+          "date": "2026-06-14",
+          "dateLabel": "6月14日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://36kr.com/p/3851572421432324",
+          "image": "https://img.36krcdn.com/hsossms/20260613/v2_d97f26b6281c447b8ad8ac47c321d925@6022551_oswg117899oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "6f0f41d1c41c",
+          "title": "阿里巴巴：“周靖人辞职”纯属谣言",
+          "desc": "IT之家 6 月 14 日消息，6 月 14 日，阿里巴巴集团回复 36 氪询问称：“周靖人辞职”纯属谣言，“我们注意到近几日有人在网络上组织扩散该谣言，也呼吁大家不要传播不实信息。”IT之家注意到，6 月 8 日，阿里刚宣布周靖人出任阿里巴巴首席科学家，牵头成立阿里巴巴 AI 未来研究院，专注前沿 AI 科技的探索与突破。与此同时，阿里也宣布合并通义大模型事业部和未来生活实验室，成立 Token",
+          "source": "IT之家",
+          "date": "2026-06-14",
+          "dateLabel": "6月14日",
+          "tags": [
+            "model",
+            "research",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/964/066.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/479bdba8-d977-4b1a-b4bc-ff60056d4c8c.png?x-bce-process=image/format,f_auto/auto-orient,o_1",
+          "color": "#d97706"
+        },
+        {
+          "id": "9ef6ed6344c0",
+          "title": "神舟二十三乘组在轨动态更新：首次全系统压力应急演练、多项空间科学实验持续推进",
+          "desc": "IT之家 6 月 14 日消息，在轨工作生活已经三周，神舟二十三乘组状态如何？上周完成了哪些工作？中国载人航天办公室今日发布天宫 TV 第十一季第二集，IT之家整理主要内容如下。多项空间科学实（试）验持续推进在空间生命科学与人体研究领域，多项实验持续推进。上周，乘组开展了细胞学研究项目的样本观察、回收与保存等工作。此前，我国已将心肌细胞、皮肤干细胞、成骨细胞等多种细胞和人工血管芯片送上太空开展实验",
+          "source": "IT之家",
+          "date": "2026-06-14",
+          "dateLabel": "6月14日",
+          "tags": [
+            "research",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/964/064.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/b23aa4ab-ff0e-4e5a-9e57-e8d5e579ce9c.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "c441c3a54842",
+          "title": "小米新媒体高级工程师谈某大模型重新出山：技术竞争举双手欢迎，这片“无是非争端”净土来之不易",
+          "desc": "IT之家 6 月 14 日消息，小米公司新媒体高级工程师 @小米_邹師傅 今日发文谈及了某某大模型准备重新出山一事（具体大模型未公开明说）：1、技术竞争我举双手欢迎。多一个认真做大模型的玩家，对行业对用户都是好事。没什么可怕的。2、怕的是另一件事。按照某些公司的惯例，接下来不是比模型，是比嗓门、比情怀、搞捆绑。先刷榜、再刷屏、再刷水军、引发争端，把好好一个技术赛道打成营销战场。捆绑国产算力芯片和家",
+          "source": "IT之家",
+          "date": "2026-06-14",
+          "dateLabel": "6月14日",
+          "tags": [
+            "model",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/964/056.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/3df43e40-3e49-405a-ae0d-fc41d7ab2bdd.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "8f06f88ad6b2",
+          "title": "深开鸿参展华为 HDC 2026：KaihongOS 与 HarmonyOS 同根同源同生态，实现南北向生态全面兼容",
+          "desc": "IT之家 6 月 14 日消息，6 月 12-14 日，华为开发者大会 HDC 2026 在东莞松山湖举行。深开鸿携 KaihongOS 系列技术成果及解决方案参展。▲ IT之家 HDC 2026 现场实拍：鸿蒙街区据介绍，开鸿 Bot 系列已完成 OpenHarmony 6.1 新版本适配，同步上线石墨文档、红莲花安全浏览器、Coremail 邮箱等原生应用。同时，开鸿 Bot 系列可与 Har",
+          "source": "IT之家",
+          "date": "2026-06-14",
+          "dateLabel": "6月14日",
+          "tags": [
+            "business",
+            "policy",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/964/055.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/aceed0f1-21e9-4a2d-9616-9a756b190002.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-06-13",
       "dateLabel": "6月13日",
       "id": "d13",
       "items": [
+        {
+          "id": "eba2978bb5fc",
+          "title": "月之暗面们重写估值游戏规则",
+          "desc": "估值，归根到底是一种预期。",
+          "source": "36氪",
+          "date": "2026-06-13",
+          "dateLabel": "6月13日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3851306638621313",
+          "image": "https://img.36krcdn.com/hsossms/20260613/v2_5560d587d3c942998a2c1870e87ffef2@000000_oswg160290oswg1280oswg545_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "d6d6a11bf801",
+          "title": "新通教育与36氪联合发布《AI时代留学就业白皮书》，首次系统性定义AI时代留学生就业能力框架",
+          "desc": "2026新通发布AI留学就业白皮书，提出能力框架与黄金赛道",
+          "source": "36氪",
+          "date": "2026-06-13",
+          "dateLabel": "6月13日",
+          "tags": [
+            "business",
+            "policy"
+          ],
+          "url": "https://36kr.com/p/3851195290326275",
+          "image": "https://img.36krcdn.com/hsossms/20260613/v2_e70c74ed19a44d4f9d1186d19978e6d0@6062546_oswg1097078oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
         {
           "id": "4cc414e5f465",
           "title": "通义团队再失核心？阿里首席科学家周靖人被曝离职",
@@ -89,36 +247,6 @@
           "url": "https://36kr.com/p/3850898430989577",
           "image": "https://img.36krcdn.com/hsossms/20260613/v2_27be5ad3156a41a4801968252cb8ca9e@5579416_oswg481340oswg1053oswg495_img_jpeg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
           "color": "#2563eb"
-        },
-        {
-          "id": "b01f640576f5",
-          "title": "马斯克远程敲钟穿了老黄的皮衣！SpaceX员工集体穿上绿鞋",
-          "desc": "马斯克成人类历史首位万亿美金富豪",
-          "source": "量子位",
-          "date": "2026-06-13",
-          "dateLabel": "6月13日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/06/435339.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "77c2575346ca",
-          "title": "SemiAnalysis 洞察 Token 经济：200 美元 AI 订阅榨出 70 倍用量",
-          "desc": "IT之家 6 月 13 日消息，研究机构和咨询公司 @SemiAnalysis_ 于 6 月 11 日在 X 平台发布推文，指出 Anthropic 的 Claude Max 与 OpenAI 的 ChatGPT Pro 月费虽然都是 200 美元（现汇率约合 1355 元人民币），但若按照 API 用量计算，用户最高可消耗价值 8000 美元和 14000 美元（IT之家注：现汇率约合 9487",
-          "source": "IT之家",
-          "date": "2026-06-13",
-          "dateLabel": "6月13日",
-          "tags": [
-            "model",
-            "research",
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/963/834.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/9bc38603-b749-44a0-a1b2-2dd01da95164.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
         }
       ]
     },
@@ -2648,6 +2776,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-06-13 14:15",
-  "totalNews": 168
+  "updateTime": "2026-06-14 14:38",
+  "totalNews": 176
 }
