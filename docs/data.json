@@ -1,10 +1,161 @@
 {
   "newsData": [
     {
+      "date": "2026-06-15",
+      "dateLabel": "6月15日",
+      "id": "d15",
+      "items": [
+        {
+          "id": "75c581af871a",
+          "title": "Fable 5突遭封禁，Anthropic大会差点黄了",
+          "desc": "地表最强Fable 5惨遭一纸禁令「物理封印」，官方开发者日竟然没了主角！Anthropic高管连夜飞往华盛顿灭火，全网都在等一个反转。",
+          "source": "36氪",
+          "date": "2026-06-15",
+          "dateLabel": "6月15日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3854012780844289",
+          "image": "https://img.36krcdn.com/hsossms/20260615/v2_397273bb4749408ca0ebeea2dd7daa05@6100851_oswg895496oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "17c3bf9a61b9",
+          "title": "未上真车，AI先当教练，2026届高考生，将成为首批“原生AI司机”？",
+          "desc": "手动驾驶终将消亡？",
+          "source": "36氪",
+          "date": "2026-06-15",
+          "dateLabel": "6月15日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3851371727256199",
+          "image": "https://img.36krcdn.com/hsossms/20260615/v2_ee964e2d51024612bc371a0434b946af@1743780481@ai_oswg1078662oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "70fec155ba08",
+          "title": "造车的人，开始扎堆“造人”",
+          "desc": "不造机器人的车企，将从牌桌上消失？",
+          "source": "36氪",
+          "date": "2026-06-15",
+          "dateLabel": "6月15日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://36kr.com/p/3853922770425095",
+          "image": "https://img.36krcdn.com/hsossms/20260615/v2_0c04242ba1e34c989552c266d46f74fa@5888275@ai_oswg1054423oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "8812bab8628c",
+          "title": "第一批创业机器人的大学生，已经融资数亿",
+          "desc": "机器人赛道出现“低龄化”创业浪潮。",
+          "source": "36氪",
+          "date": "2026-06-15",
+          "dateLabel": "6月15日",
+          "tags": [
+            "research",
+            "business"
+          ],
+          "url": "https://36kr.com/p/3851352923411457",
+          "image": "https://img.36krcdn.com/hsossms/20260613/v2_65b5fe357187439c958377f780da29cb@000000@ai_oswg258574oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "7aeadf7b5f58",
+          "title": "红杉+顺为+真格等，押注世界模型",
+          "desc": "真格基金、红杉中国等持续加码",
+          "source": "36氪",
+          "date": "2026-06-15",
+          "dateLabel": "6月15日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3853993177044230",
+          "image": "https://img.36krcdn.com/hsossms/20260615/v2_20a56429d2b347c7b268efa45325db34@5888275@ai_oswg1079612oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "17caddcc9f90",
+          "title": "OpenAI遭多州传票围剿，AI怎么说话都要查",
+          "desc": "AI要被当成社交媒体来管了",
+          "source": "36氪",
+          "date": "2026-06-15",
+          "dateLabel": "6月15日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3854013255357440",
+          "image": "https://img.36krcdn.com/hsossms/20260615/v2_83a5f26428244467a945480784b47e17@5888275@ai_oswg1030839oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "67b9f9434866",
+          "title": "当 Token 越来越便宜，账单为什么越来越贵",
+          "desc": "AI顶级涨，普通跌。",
+          "source": "36氪",
+          "date": "2026-06-15",
+          "dateLabel": "6月15日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3851808805452676",
+          "image": "https://img.36krcdn.com/hsossms/20260614/v2_1d06aca18c844fe2b40b0a40a2d92eb1@1743780481@ai_oswg1126758oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "6eb7e3a5a6f1",
+          "title": "Fable 5被禁，Anthropic开始退钱了",
+          "desc": "谁在背后捅了Anthropic刀子？",
+          "source": "36氪",
+          "date": "2026-06-15",
+          "dateLabel": "6月15日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3854013493761024",
+          "image": "https://img.36krcdn.com/hsossms/20260615/v2_e3312e2afe5e4493a1259ac24b040399@5888275@ai_oswg1038397oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        }
+      ]
+    },
+    {
       "date": "2026-06-14",
       "dateLabel": "6月14日",
       "id": "d14",
       "items": [
+        {
+          "id": "f925940bd652",
+          "title": "Claude Fable 5四日惊魂",
+          "desc": "一场从高光到猝死的极速坠落。",
+          "source": "36氪",
+          "date": "2026-06-14",
+          "dateLabel": "6月14日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://36kr.com/p/3852737616876550",
+          "image": "https://img.36krcdn.com/hsossms/20260614/v2_a6d825380105418cbcfcba2b08e88cd5@000000@ai_oswg284137oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "244a5211b973",
+          "title": "最强Claude，卡在上市前夜",
+          "desc": "牌刚打出来，监管先一步坐上了牌桌。",
+          "source": "36氪",
+          "date": "2026-06-14",
+          "dateLabel": "6月14日",
+          "tags": [
+            "model",
+            "business",
+            "policy"
+          ],
+          "url": "https://36kr.com/p/3852759269980800",
+          "image": "https://img.36krcdn.com/hsossms/20260614/v2_0f7288a5b6714c1aaf2e50080aba1ea8@5657805_oswg398546oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
         {
           "id": "f88d87520685",
           "title": "华人AI工程师也搭上了SpaceX的财富火箭",
@@ -49,81 +200,19 @@
           "color": "#2563eb"
         },
         {
-          "id": "a34dd8b71450",
-          "title": "高瓴出手了一家消费级柔性机器人公司，要把“大白”从电影搬进现实家庭｜硬氪首发",
-          "desc": "从睡眠伴侣、卧室情绪管家延伸到覆盖全屋的关护中枢。",
-          "source": "36氪",
-          "date": "2026-06-14",
-          "dateLabel": "6月14日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://36kr.com/p/3851572421432324",
-          "image": "https://img.36krcdn.com/hsossms/20260613/v2_d97f26b6281c447b8ad8ac47c321d925@6022551_oswg117899oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "6f0f41d1c41c",
-          "title": "阿里巴巴：“周靖人辞职”纯属谣言",
-          "desc": "IT之家 6 月 14 日消息，6 月 14 日，阿里巴巴集团回复 36 氪询问称：“周靖人辞职”纯属谣言，“我们注意到近几日有人在网络上组织扩散该谣言，也呼吁大家不要传播不实信息。”IT之家注意到，6 月 8 日，阿里刚宣布周靖人出任阿里巴巴首席科学家，牵头成立阿里巴巴 AI 未来研究院，专注前沿 AI 科技的探索与突破。与此同时，阿里也宣布合并通义大模型事业部和未来生活实验室，成立 Token",
-          "source": "IT之家",
-          "date": "2026-06-14",
-          "dateLabel": "6月14日",
-          "tags": [
-            "model",
-            "research",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/0/964/066.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/479bdba8-d977-4b1a-b4bc-ff60056d4c8c.png?x-bce-process=image/format,f_auto/auto-orient,o_1",
-          "color": "#d97706"
-        },
-        {
-          "id": "9ef6ed6344c0",
-          "title": "神舟二十三乘组在轨动态更新：首次全系统压力应急演练、多项空间科学实验持续推进",
-          "desc": "IT之家 6 月 14 日消息，在轨工作生活已经三周，神舟二十三乘组状态如何？上周完成了哪些工作？中国载人航天办公室今日发布天宫 TV 第十一季第二集，IT之家整理主要内容如下。多项空间科学实（试）验持续推进在空间生命科学与人体研究领域，多项实验持续推进。上周，乘组开展了细胞学研究项目的样本观察、回收与保存等工作。此前，我国已将心肌细胞、皮肤干细胞、成骨细胞等多种细胞和人工血管芯片送上太空开展实验",
+          "id": "99886007cb07",
+          "title": "28000Pa 吸力 + 越障高度 40mm：小米米家扫拖机器人 6 上下水版 1888 元新低",
+          "desc": "小米旗下米家扫拖机器人 6 标准版发售于 2026 年 4 月，该机器人提供 28000Pa 吸力。其中水箱版本定价 2699 元，上下水版 3099 元。京东 618 大促期间，两款国补后：水箱版 1663 元，晒单返 20 元京豆 + 种草返 100 元后低至 1543 元。上下水 2007 元，晒单返 20 元京豆 + 种草返 100 元后低至 1887 元。下单时选择“以旧换新” → 个护",
           "source": "IT之家",
           "date": "2026-06-14",
           "dateLabel": "6月14日",
           "tags": [
             "research",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/0/964/064.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/b23aa4ab-ff0e-4e5a-9e57-e8d5e579ce9c.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "c441c3a54842",
-          "title": "小米新媒体高级工程师谈某大模型重新出山：技术竞争举双手欢迎，这片“无是非争端”净土来之不易",
-          "desc": "IT之家 6 月 14 日消息，小米公司新媒体高级工程师 @小米_邹師傅 今日发文谈及了某某大模型准备重新出山一事（具体大模型未公开明说）：1、技术竞争我举双手欢迎。多一个认真做大模型的玩家，对行业对用户都是好事。没什么可怕的。2、怕的是另一件事。按照某些公司的惯例，接下来不是比模型，是比嗓门、比情怀、搞捆绑。先刷榜、再刷屏、再刷水军、引发争端，把好好一个技术赛道打成营销战场。捆绑国产算力芯片和家",
-          "source": "IT之家",
-          "date": "2026-06-14",
-          "dateLabel": "6月14日",
-          "tags": [
-            "model",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/0/964/056.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/3df43e40-3e49-405a-ae0d-fc41d7ab2bdd.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "8f06f88ad6b2",
-          "title": "深开鸿参展华为 HDC 2026：KaihongOS 与 HarmonyOS 同根同源同生态，实现南北向生态全面兼容",
-          "desc": "IT之家 6 月 14 日消息，6 月 12-14 日，华为开发者大会 HDC 2026 在东莞松山湖举行。深开鸿携 KaihongOS 系列技术成果及解决方案参展。▲ IT之家 HDC 2026 现场实拍：鸿蒙街区据介绍，开鸿 Bot 系列已完成 OpenHarmony 6.1 新版本适配，同步上线石墨文档、红莲花安全浏览器、Coremail 邮箱等原生应用。同时，开鸿 Bot 系列可与 Har",
-          "source": "IT之家",
-          "date": "2026-06-14",
-          "dateLabel": "6月14日",
-          "tags": [
-            "business",
             "policy",
             "cn"
           ],
-          "url": "https://www.ithome.com/0/964/055.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/aceed0f1-21e9-4a2d-9616-9a756b190002.jpg?x-bce-process=image/format,f_auto",
+          "url": "https://www.ithome.com/0/964/180.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/5/8c539c22-aed8-46c0-8d86-08fb20e7df3f.png?x-bce-process=image/format,f_auto",
           "color": "#d97706"
         }
       ]
@@ -134,119 +223,60 @@
       "id": "d13",
       "items": [
         {
-          "id": "eba2978bb5fc",
-          "title": "月之暗面们重写估值游戏规则",
-          "desc": "估值，归根到底是一种预期。",
-          "source": "36氪",
-          "date": "2026-06-13",
-          "dateLabel": "6月13日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3851306638621313",
-          "image": "https://img.36krcdn.com/hsossms/20260613/v2_5560d587d3c942998a2c1870e87ffef2@000000_oswg160290oswg1280oswg545_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "d6d6a11bf801",
-          "title": "新通教育与36氪联合发布《AI时代留学就业白皮书》，首次系统性定义AI时代留学生就业能力框架",
-          "desc": "2026新通发布AI留学就业白皮书，提出能力框架与黄金赛道",
-          "source": "36氪",
-          "date": "2026-06-13",
-          "dateLabel": "6月13日",
-          "tags": [
-            "business",
-            "policy"
-          ],
-          "url": "https://36kr.com/p/3851195290326275",
-          "image": "https://img.36krcdn.com/hsossms/20260613/v2_e70c74ed19a44d4f9d1186d19978e6d0@6062546_oswg1097078oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "4cc414e5f465",
-          "title": "通义团队再失核心？阿里首席科学家周靖人被曝离职",
-          "desc": "传阿里首席科学家周靖人履新六天离职，阿里AI核心团队动荡。",
-          "source": "36氪",
-          "date": "2026-06-13",
-          "dateLabel": "6月13日",
-          "tags": [
-            "model",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3850978776759176",
-          "image": "https://img.36krcdn.com/hsossms/20260613/v2_72c18051e10f4177a9e831563d76d387@6384599_oswg425645oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "a3e79474cb7e",
-          "title": "人类首个万亿富豪诞生：SpaceX的2万亿，到底值不值？",
-          "desc": "沸腾的野心",
-          "source": "36氪",
-          "date": "2026-06-13",
-          "dateLabel": "6月13日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3851139471031173",
-          "image": "https://img.36krcdn.com/hsossms/20260613/v2_39975a70699348f5bfb6ec6ead1e5f81@000000_oswg47116oswg899oswg900_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "6789f5d5e6ca",
-          "title": "读懂SpaceX的两万亿故事：为什么马斯克每一手棋，永远都可以提前摆好？",
-          "desc": "飞向宇宙、浩瀚无垠",
-          "source": "36氪",
-          "date": "2026-06-13",
-          "dateLabel": "6月13日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3851073239372809",
-          "image": "https://img.36krcdn.com/hsossms/20260613/v2_2b95eaadc33a4fdb944f77aff0b845cc@000000_oswg29044oswg1080oswg460_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "14fefc18cfe3",
-          "title": "钉钉的“旧洞”，90后新帅能补上么？",
-          "desc": "万字长文引热议，钉钉陷入“钉内风波”。",
-          "source": "36氪",
-          "date": "2026-06-13",
-          "dateLabel": "6月13日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3850171792309122",
-          "image": "https://img.36krcdn.com/hsossms/20260612/v2_c16bfe4370cd427d87bf1d1d0497b07c@000000_oswg53519oswg1280oswg545_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "9fdb330931bd",
-          "title": "突发！Anthropic全球停用Claude 5",
-          "desc": "究竟为何，Anthropic突然下线了地表最强Claude？",
-          "source": "36氪",
+          "id": "9b490af40e61",
+          "title": "HuggingFace CEO力荐，Bengio团队也押注：这个1500美元训出的HRM模型，凭什么火了？",
+          "desc": "模型参数量只有1B",
+          "source": "量子位",
           "date": "2026-06-13",
           "dateLabel": "6月13日",
           "tags": [
             "model"
           ],
-          "url": "https://36kr.com/p/3851015329027336",
-          "image": "https://img.36krcdn.com/hsossms/20260613/v2_4c0ba87489ea468cb6ccd71dcafdb6c0@5579416_oswg834153oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
+          "url": "https://www.qbitai.com/2026/06/435483.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "0d4add8deb10",
-          "title": "9点1氪｜SpaceX市值破2.1万亿美元，马斯克身家达巴菲特7倍；胖东来回应“员工不值这么多钱”等言论；FIFA联名款labubu世界杯销量暴涨30倍",
-          "desc": "6月12日，SpaceX在纳斯达克交易所完成了上市，跻身美国市值第六大企业，总市值达到2.1万亿美元。",
-          "source": "36氪",
+          "id": "159232ae224d",
+          "title": "Agent终于长出了身体：Jiuwen Symbiosis背后的思考与实践",
+          "desc": "一起构建下一代物理世界的智能系统",
+          "source": "量子位",
           "date": "2026-06-13",
           "dateLabel": "6月13日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3850898430989577",
-          "image": "https://img.36krcdn.com/hsossms/20260613/v2_27be5ad3156a41a4801968252cb8ca9e@5579416_oswg481340oswg1053oswg495_img_jpeg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
+          "url": "https://www.qbitai.com/2026/06/435455.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "1c1927dfc2cb",
+          "title": "2026智源大会开幕：推动AI、物理世界和生命科学“三体互动”",
+          "desc": "2026智源大会开幕：推动AI、物理世界和生命科学“三体互动”",
+          "source": "量子位",
+          "date": "2026-06-13",
+          "dateLabel": "6月13日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/06/435394.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "b01f640576f5",
+          "title": "马斯克远程敲钟穿了老黄的皮衣！SpaceX员工集体穿上绿鞋",
+          "desc": "马斯克成人类历史首位万亿美金富豪",
+          "source": "量子位",
+          "date": "2026-06-13",
+          "dateLabel": "6月13日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/06/435339.html",
+          "image": "",
+          "color": "#7c3aed"
         }
       ]
     },
@@ -256,120 +286,32 @@
       "id": "d12",
       "items": [
         {
-          "id": "fcbe544f203f",
-          "title": "志愿填报Agent：腾讯克制，阿里激进",
-          "desc": "陪伴的代价，就是让你离不开",
-          "source": "36氪",
-          "date": "2026-06-12",
-          "dateLabel": "6月12日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3850060424484105",
-          "image": "https://img.36krcdn.com/hsossms/20260612/v2_84adc9f9f1c941ecbb0ba57ba629bc85@000000@ai_oswg300992oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "aab1f5d0c1cf",
-          "title": "把提示词刻在墓碑上，这届开发者用AI封装自己，死了都能接单干活？",
-          "desc": "科技解放人类，可能真不是爽文。",
-          "source": "36氪",
+          "id": "43cfaa7ef618",
+          "title": "神了，世界杯第一天真按千问剧本踢了",
+          "desc": "比分、红牌、绝杀全押中",
+          "source": "量子位",
           "date": "2026-06-12",
           "dateLabel": "6月12日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3850104991044614",
-          "image": "https://img.36krcdn.com/hsossms/20260612/v2_a2f450a9701d459883769daa4f88ff6f@000000@ai_oswg377509oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
+          "url": "https://www.qbitai.com/2026/06/435321.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "febce7a05cb6",
-          "title": "Claude Fable 5「发疯」，高数算网络攻击，问癌症直接封号？",
-          "desc": "【导读】AI本该加速科研，Claude Fable 5却把科学家当危险分子封杀。",
-          "source": "36氪",
-          "date": "2026-06-12",
-          "dateLabel": "6月12日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://36kr.com/p/3850107616678918",
-          "image": "https://img.36krcdn.com/hsossms/20260612/v2_7e01dece39924651ad8a974a39b2e762@46958@ai_oswg898733oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "5f5e0d6776eb",
-          "title": "小云雀vs万镜一刻，聊聊字节与阿里的内容Agent一番战",
-          "desc": "市场或许并不缺少工具甚至是内容。",
-          "source": "36氪",
-          "date": "2026-06-12",
-          "dateLabel": "6月12日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3850041320543490",
-          "image": "https://img.36krcdn.com/hsossms/20260612/v2_e39df899fed94a7d84d95574cf8a77a8@46958@ai_oswg797527oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "d3bc9d8e4b94",
-          "title": "MiniMax暴跌65%，AI泡沫破裂了？",
-          "desc": "MiniMax暴跌了，但“恒科接盘侠”是个伪命题。",
-          "source": "36氪",
+          "id": "5feafa067ea7",
+          "title": "千里收购了一家毫米波雷达公司",
+          "desc": "布局全栈闭环",
+          "source": "量子位",
           "date": "2026-06-12",
           "dateLabel": "6月12日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3850027312698628",
-          "image": "https://img.36krcdn.com/hsossms/20260612/v2_7cfe1ded63d847e49ab6e79d21b0d8a6@000000@ai_oswg291489oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "dd5331ef6357",
-          "title": "AI世代，警惕一场静悄悄发生的“认知投降”",
-          "desc": "当平庸的分析触手可及，人类作为思考者的底线在哪里？",
-          "source": "36氪",
-          "date": "2026-06-12",
-          "dateLabel": "6月12日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3849962764063752",
-          "image": "https://img.36krcdn.com/hsossms/20260612/v2_dd8b0fbfe48d4ff18d7affb632cd8909@000000@ai_oswg339806oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "891ef6302978",
-          "title": "5人2周肝出5.1k星，小米 MiMo Code开源但bug不断，开发者炸锅",
-          "desc": "MiMo Code 现在暴露出了一批早期产品问题。 其他我没啥了",
-          "source": "36氪",
-          "date": "2026-06-12",
-          "dateLabel": "6月12日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3849833227572226",
-          "image": "https://img.36krcdn.com/hsossms/20260612/v2_d80624dca3ab4104baa7dbfffca25a49@000000@ai_oswg345541oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "e1e7df96d9ba",
-          "title": "小米罗福莉：Fable 5只是阶段性成果",
-          "desc": "小米、生数科技、面壁智能、南洋理工大学AI大牛同台交锋。",
-          "source": "36氪",
-          "date": "2026-06-12",
-          "dateLabel": "6月12日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3849828928967684",
-          "image": "https://img.36krcdn.com/hsossms/20260612/v2_b3104fa090f845b09576ed9cd4f193bc@000000@ai_oswg357443oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
+          "url": "https://www.qbitai.com/2026/06/435196.html",
+          "image": "",
+          "color": "#7c3aed"
         }
       ]
     },
@@ -2776,6 +2718,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-06-14 14:38",
-  "totalNews": 176
+  "updateTime": "2026-06-15 15:19",
+  "totalNews": 172
 }
