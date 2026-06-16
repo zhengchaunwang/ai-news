@@ -1,71 +1,137 @@
 {
   "newsData": [
     {
+      "date": "2026-06-16",
+      "dateLabel": "6月16日",
+      "id": "d16",
+      "items": [
+        {
+          "id": "84167301030d",
+          "title": "智谱的发条",
+          "desc": "涨了10倍，有多少是模型的？",
+          "source": "36氪",
+          "date": "2026-06-16",
+          "dateLabel": "6月16日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3855323185583106",
+          "image": "https://img.36krcdn.com/hsossms/20260616/v2_98f53f7e6e3b4a63be74eaa720d0a59e@1743780481@ai_oswg914830oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "26a66cd8173e",
+          "title": "谷歌首席工程师：二十年自然生长出来的软件工程生态，快被大模型 10 倍提速撑爆",
+          "desc": "“AI 是放大器，不是方向。”",
+          "source": "36氪",
+          "date": "2026-06-16",
+          "dateLabel": "6月16日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://36kr.com/p/3855246928237830",
+          "image": "https://img.36krcdn.com/hsossms/20260616/v2_cfcc8a0a47924ba2b8ecf19d0a3eb951@1743780481@ai_oswg1104770oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "eb571abd5a81",
+          "title": "汽车行业装不下蔚小理了",
+          "desc": "蔚小理造芯，不是为了更好的汽车。",
+          "source": "36氪",
+          "date": "2026-06-16",
+          "dateLabel": "6月16日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3855237333597061",
+          "image": "https://img.36krcdn.com/hsossms/20260616/v2_6da1044039064991a18594838e634d0d@1743780481@ai_oswg1110361oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "3c0c9be4089b",
+          "title": "AI应用元年，只会yes，无视风险？软件开发的航行日志全面开源",
+          "desc": "北大开源Narwhal AI Code Risks项目，整理AI写代码风险",
+          "source": "36氪",
+          "date": "2026-06-16",
+          "dateLabel": "6月16日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3855211032827141",
+          "image": "https://img.36krcdn.com/hsossms/20260616/v2_17ab46b445e24aa49ff3bbfece5292e3@1743780481@ai_oswg1008262oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "538e859bec5b",
+          "title": "QuestMobile2026年AI电商与消费品类GEO研究报告：付费艰难，电商变现成核心路径，平台信源引用集中且“生态闭环”“消费决策”成商业通道",
+          "desc": "各平台表现相似，均由生态内头部信源主导——豆包的抖音+抖音电商内容最高达81.1%，文心对百度引用最高81.7%……",
+          "source": "36氪",
+          "date": "2026-06-16",
+          "dateLabel": "6月16日",
+          "tags": [
+            "model",
+            "research",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3855204672574728",
+          "image": "https://img.36krcdn.com/hsossms/20260616/v2_6bfb758abb9b43cfb9a261b676b64238@1743780481@ai_oswg1003738oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "8ba671112964",
+          "title": "AI眼镜赛道全面起势，离“非戴不可”还有多远？",
+          "desc": "仍需跨越隐私与标准之坎",
+          "source": "36氪",
+          "date": "2026-06-16",
+          "dateLabel": "6月16日",
+          "tags": [
+            "policy"
+          ],
+          "url": "https://36kr.com/p/3855201250507656",
+          "image": "https://img.36krcdn.com/hsossms/20260616/v2_caaf129eebac42bab2b4b94dfdbe3c4d@1743780481@ai_oswg1021693oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "2f92839ad49e",
+          "title": "我训练了另一个我：数字身份标记，刻不容缓",
+          "desc": "数字身份标记，刻不容缓。",
+          "source": "36氪",
+          "date": "2026-06-16",
+          "dateLabel": "6月16日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://36kr.com/p/3855181622940681",
+          "image": "https://img.36krcdn.com/hsossms/20260616/v2_3294443561fe4a4296f9896556552bbe@000000@ai_oswg281824oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "01e117087a63",
+          "title": "上线只活了180天，AI应用层的泡沫被戳破了",
+          "desc": "生成式AI应用出清，仅嵌入真实场景者存活",
+          "source": "36氪",
+          "date": "2026-06-16",
+          "dateLabel": "6月16日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3854657422119941",
+          "image": "https://img.36krcdn.com/hsossms/20260616/v2_aa912c5100e04d86a2cfbc801b64a882@1743780481@ai_oswg1038759oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        }
+      ]
+    },
+    {
       "date": "2026-06-15",
       "dateLabel": "6月15日",
       "id": "d15",
       "items": [
         {
-          "id": "75c581af871a",
-          "title": "Fable 5突遭封禁，Anthropic大会差点黄了",
-          "desc": "地表最强Fable 5惨遭一纸禁令「物理封印」，官方开发者日竟然没了主角！Anthropic高管连夜飞往华盛顿灭火，全网都在等一个反转。",
-          "source": "36氪",
-          "date": "2026-06-15",
-          "dateLabel": "6月15日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3854012780844289",
-          "image": "https://img.36krcdn.com/hsossms/20260615/v2_397273bb4749408ca0ebeea2dd7daa05@6100851_oswg895496oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "17c3bf9a61b9",
-          "title": "未上真车，AI先当教练，2026届高考生，将成为首批“原生AI司机”？",
-          "desc": "手动驾驶终将消亡？",
-          "source": "36氪",
-          "date": "2026-06-15",
-          "dateLabel": "6月15日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3851371727256199",
-          "image": "https://img.36krcdn.com/hsossms/20260615/v2_ee964e2d51024612bc371a0434b946af@1743780481@ai_oswg1078662oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "70fec155ba08",
-          "title": "造车的人，开始扎堆“造人”",
-          "desc": "不造机器人的车企，将从牌桌上消失？",
-          "source": "36氪",
-          "date": "2026-06-15",
-          "dateLabel": "6月15日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://36kr.com/p/3853922770425095",
-          "image": "https://img.36krcdn.com/hsossms/20260615/v2_0c04242ba1e34c989552c266d46f74fa@5888275@ai_oswg1054423oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "8812bab8628c",
-          "title": "第一批创业机器人的大学生，已经融资数亿",
-          "desc": "机器人赛道出现“低龄化”创业浪潮。",
-          "source": "36氪",
-          "date": "2026-06-15",
-          "dateLabel": "6月15日",
-          "tags": [
-            "research",
-            "business"
-          ],
-          "url": "https://36kr.com/p/3851352923411457",
-          "image": "https://img.36krcdn.com/hsossms/20260613/v2_65b5fe357187439c958377f780da29cb@000000@ai_oswg258574oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "7aeadf7b5f58",
-          "title": "红杉+顺为+真格等，押注世界模型",
-          "desc": "真格基金、红杉中国等持续加码",
+          "id": "d5df22d97357",
+          "title": "阿里为什么传出“周靖人离职”谣言？",
+          "desc": "一场被辟谣的“离职”与一场真实的“放逐”",
           "source": "36氪",
           "date": "2026-06-15",
           "dateLabel": "6月15日",
@@ -73,51 +139,110 @@
             "business",
             "cn"
           ],
-          "url": "https://36kr.com/p/3853993177044230",
-          "image": "https://img.36krcdn.com/hsossms/20260615/v2_20a56429d2b347c7b268efa45325db34@5888275@ai_oswg1079612oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3854443434670722",
+          "image": "https://img.36krcdn.com/hsossms/20260615/v2_0d087cc774474a4191d9357a453d75d7@1743780481@ai_oswg1094903oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "17caddcc9f90",
-          "title": "OpenAI遭多州传票围剿，AI怎么说话都要查",
-          "desc": "AI要被当成社交媒体来管了",
+          "id": "63c47481f186",
+          "title": "AI时代，最不值钱的就是“努力”",
+          "desc": "AI时代，普通人的活法。",
           "source": "36氪",
           "date": "2026-06-15",
           "dateLabel": "6月15日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3854013255357440",
-          "image": "https://img.36krcdn.com/hsossms/20260615/v2_83a5f26428244467a945480784b47e17@5888275@ai_oswg1030839oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3854490126275843",
+          "image": "https://img.36krcdn.com/hsossms/20260615/v2_f1e393ab65a94bdc820a68c3826b0857@1743780481@ai_oswg866806oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "67b9f9434866",
-          "title": "当 Token 越来越便宜，账单为什么越来越贵",
-          "desc": "AI顶级涨，普通跌。",
+          "id": "9965f2fe93ea",
+          "title": "配音师困在AI里：声音被盗后火遍全网，真人却快失业了",
+          "desc": "一个配音师的声音被偷了。",
           "source": "36氪",
           "date": "2026-06-15",
           "dateLabel": "6月15日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3851808805452676",
-          "image": "https://img.36krcdn.com/hsossms/20260614/v2_1d06aca18c844fe2b40b0a40a2d92eb1@1743780481@ai_oswg1126758oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3854402897574787",
+          "image": "https://img.36krcdn.com/hsossms/20260615/v2_6a746cb7ed2b4e068ee545d3977014b3@1743780481@ai_oswg1035118oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "6eb7e3a5a6f1",
-          "title": "Fable 5被禁，Anthropic开始退钱了",
-          "desc": "谁在背后捅了Anthropic刀子？",
+          "id": "07f273dea01c",
+          "title": "曝林俊旸获腾讯投资：首轮估值135亿，新一轮融资已开启",
+          "desc": "“林俊旸”名下，多了3家新公司。",
+          "source": "36氪",
+          "date": "2026-06-15",
+          "dateLabel": "6月15日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3854438054417670",
+          "image": "https://img.36krcdn.com/hsossms/20260615/v2_044165959d7b4026aa8d965b4c573cb4@000000@ai_oswg332532oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "543457f0a99d",
+          "title": "1680份员工履历揭开Anthropic招人底牌：「基础设施老兵」更吃香",
+          "desc": "「不招应届生、只要资深工程师」！",
           "source": "36氪",
           "date": "2026-06-15",
           "dateLabel": "6月15日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3854013493761024",
-          "image": "https://img.36krcdn.com/hsossms/20260615/v2_e3312e2afe5e4493a1259ac24b040399@5888275@ai_oswg1038397oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3854356944311297",
+          "image": "https://img.36krcdn.com/hsossms/20260615/v2_07ccff0bd6e2403d8f5a8d8ba85f10a3@000000@ai_oswg262700oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
+        },
+        {
+          "id": "e26b8029f235",
+          "title": "“我花近万元买的智能眼镜，最近不敢戴出门”",
+          "desc": "“如果用户知道自己真正录下了什么，恐怕没人敢继续戴这款眼镜。”",
+          "source": "36氪",
+          "date": "2026-06-15",
+          "dateLabel": "6月15日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3854356284134406",
+          "image": "https://img.36krcdn.com/hsossms/20260615/v2_c8f738f21a4a4501862f203ae3e8cd0a@5888275@ai_oswg776588oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "c86443211757",
+          "title": "校企共推AI4S 上海交通大学与太初元碁签署合作协议",
+          "desc": "校企共推AI4S 上海交通大学与太初元碁签署合作协议",
+          "source": "量子位",
+          "date": "2026-06-15",
+          "dateLabel": "6月15日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/06/435848.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "f3d29835e812",
+          "title": "从ICRA到CVPR，机器人圈最近到底在聊什么？｜北京·周三晚",
+          "desc": "从ICRA到CVPR，机器人圈最近到底在聊什么？｜北京·周三晚",
+          "source": "量子位",
+          "date": "2026-06-15",
+          "dateLabel": "6月15日",
+          "tags": [
+            "research",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/06/435841.html",
+          "image": "",
+          "color": "#7c3aed"
         }
       ]
     },
@@ -2718,6 +2843,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-06-15 15:19",
-  "totalNews": 172
+  "updateTime": "2026-06-16 15:25",
+  "totalNews": 180
 }
