@@ -1,125 +1,244 @@
 {
   "newsData": [
     {
+      "date": "2026-06-17",
+      "dateLabel": "6月17日",
+      "id": "d17",
+      "items": [
+        {
+          "id": "08d0b3f16461",
+          "title": "一年亏掉约 2600 亿，OpenAI 的“烧钱机器”停不下来了",
+          "desc": "这不是 AI 泡沫破裂，但也不是好消息。",
+          "source": "36氪",
+          "date": "2026-06-17",
+          "dateLabel": "6月17日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3856789405160455",
+          "image": "https://img.36krcdn.com/hsossms/20260617/v2_c2881fca13144a8b944ad0d7261fc01d@5888275@ai_oswg1084323oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "a9740097c439",
+          "title": "每月收200美元，却可能倒贴1.4万美元，ChatGPT和Claude背后的“赔本生意”曝光",
+          "desc": "微软、Meta、亚马逊都开始控制内部 AI 开销。",
+          "source": "36氪",
+          "date": "2026-06-17",
+          "dateLabel": "6月17日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://36kr.com/p/3856818962437125",
+          "image": "https://img.36krcdn.com/hsossms/20260617/v2_256b571fc79046fca9965f11149caa22@5888275@ai_oswg1044467oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "8cee30f2f449",
+          "title": "全球首富红眼All in，马斯克600亿收购Cursor，挤上ASI末班车",
+          "desc": "600亿全股票，IPO第四天落槌！马斯克拿下AI史上最大并购，但他为什么非买不可？",
+          "source": "36氪",
+          "date": "2026-06-17",
+          "dateLabel": "6月17日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3856818787833093",
+          "image": "https://img.36krcdn.com/hsossms/20260617/v2_d4c54bbb7b114e8b9528357ad2a59e38@5888275@ai_oswg1115350oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "948f8182fdef",
+          "title": "硬氪专访 | 罗剑岚：机器人真正的Scaling Law，发生在真实部署闭环里",
+          "desc": "全球都没突破的是大脑，应该快速跑通闭环，而不是只卷本体。",
+          "source": "36氪",
+          "date": "2026-06-17",
+          "dateLabel": "6月17日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://36kr.com/p/3856871787189252",
+          "image": "https://img.36krcdn.com/hsossms/20260617/v2_4479ab84befc41e38ecb29dcac0f01ad@000000_oswg31759oswg726oswg725_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "b4f384b9d129",
+          "title": "AI云换赛道：Token战落幕，谁落地谁赢",
+          "desc": "落地为王：AI云行业的游戏规则变了。",
+          "source": "36氪",
+          "date": "2026-06-17",
+          "dateLabel": "6月17日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3856668332725513",
+          "image": "https://img.36krcdn.com/hsossms/20260617/v2_6c538abc156d4eec9f665304bfd9d1df@000000@ai_oswg349345oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "f920e861fcb1",
+          "title": "黄仁勋亚洲行为什么跳过日本？",
+          "desc": "黄仁勋访中韩台未去日本，暴露日本半导体AI竞争力隐忧",
+          "source": "36氪",
+          "date": "2026-06-17",
+          "dateLabel": "6月17日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3856732102726913",
+          "image": "https://img.36krcdn.com/hsossms/20260617/v2_3fb12f5d10a64e868ee92b2fd277b531@1743780481@ai_oswg1093502oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "f2a2f4ad0fda",
+          "title": "林俊旸的新公司，卖的可能不是模型，而是“想象力”",
+          "desc": "一家连名字都没有的公司，为什么敢估值20亿美元？",
+          "source": "36氪",
+          "date": "2026-06-17",
+          "dateLabel": "6月17日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3856745968106118",
+          "image": "https://img.36krcdn.com/hsossms/20260617/v2_d1b0c902e4ea470eaad9e5d05bb3529a@1743780481@ai_oswg1001559oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "7870c23d1525",
+          "title": "Cursor认输，马斯克没赢",
+          "desc": "600亿美元，马斯克买的是安全感，但买不来护城河。",
+          "source": "36氪",
+          "date": "2026-06-17",
+          "dateLabel": "6月17日",
+          "tags": [
+            "business",
+            "policy"
+          ],
+          "url": "https://36kr.com/p/3856646387137412",
+          "image": "https://img.36krcdn.com/hsossms/20260617/v2_54fc127c96b840e58eed599aebd418f2@1743780481@ai_oswg1085363oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        }
+      ]
+    },
+    {
       "date": "2026-06-16",
       "dateLabel": "6月16日",
       "id": "d16",
       "items": [
         {
-          "id": "84167301030d",
-          "title": "智谱的发条",
-          "desc": "涨了10倍，有多少是模型的？",
-          "source": "36氪",
-          "date": "2026-06-16",
-          "dateLabel": "6月16日",
-          "tags": [
-            "model",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3855323185583106",
-          "image": "https://img.36krcdn.com/hsossms/20260616/v2_98f53f7e6e3b4a63be74eaa720d0a59e@1743780481@ai_oswg914830oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "26a66cd8173e",
-          "title": "谷歌首席工程师：二十年自然生长出来的软件工程生态，快被大模型 10 倍提速撑爆",
-          "desc": "“AI 是放大器，不是方向。”",
-          "source": "36氪",
-          "date": "2026-06-16",
-          "dateLabel": "6月16日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://36kr.com/p/3855246928237830",
-          "image": "https://img.36krcdn.com/hsossms/20260616/v2_cfcc8a0a47924ba2b8ecf19d0a3eb951@1743780481@ai_oswg1104770oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "eb571abd5a81",
-          "title": "汽车行业装不下蔚小理了",
-          "desc": "蔚小理造芯，不是为了更好的汽车。",
+          "id": "7dc2e2bd68b0",
+          "title": "不到一个月就解禁，MiniMax的泡沫却先破了",
+          "desc": "两周暴跌53%，两年巨亏160亿。",
           "source": "36氪",
           "date": "2026-06-16",
           "dateLabel": "6月16日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3855237333597061",
-          "image": "https://img.36krcdn.com/hsossms/20260616/v2_6da1044039064991a18594838e634d0d@1743780481@ai_oswg1110361oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3855844043668356",
+          "image": "https://img.36krcdn.com/hsossms/20260616/v2_a2bd4b9858df453a9fde3f416f6f97a8@1743780481@ai_oswg940615oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "3c0c9be4089b",
-          "title": "AI应用元年，只会yes，无视风险？软件开发的航行日志全面开源",
-          "desc": "北大开源Narwhal AI Code Risks项目，整理AI写代码风险",
-          "source": "36氪",
-          "date": "2026-06-16",
-          "dateLabel": "6月16日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3855211032827141",
-          "image": "https://img.36krcdn.com/hsossms/20260616/v2_17ab46b445e24aa49ff3bbfece5292e3@1743780481@ai_oswg1008262oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "538e859bec5b",
-          "title": "QuestMobile2026年AI电商与消费品类GEO研究报告：付费艰难，电商变现成核心路径，平台信源引用集中且“生态闭环”“消费决策”成商业通道",
-          "desc": "各平台表现相似，均由生态内头部信源主导——豆包的抖音+抖音电商内容最高达81.1%，文心对百度引用最高81.7%……",
-          "source": "36氪",
-          "date": "2026-06-16",
-          "dateLabel": "6月16日",
-          "tags": [
-            "model",
-            "research",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3855204672574728",
-          "image": "https://img.36krcdn.com/hsossms/20260616/v2_6bfb758abb9b43cfb9a261b676b64238@1743780481@ai_oswg1003738oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "8ba671112964",
-          "title": "AI眼镜赛道全面起势，离“非戴不可”还有多远？",
-          "desc": "仍需跨越隐私与标准之坎",
-          "source": "36氪",
-          "date": "2026-06-16",
-          "dateLabel": "6月16日",
-          "tags": [
-            "policy"
-          ],
-          "url": "https://36kr.com/p/3855201250507656",
-          "image": "https://img.36krcdn.com/hsossms/20260616/v2_caaf129eebac42bab2b4b94dfdbe3c4d@1743780481@ai_oswg1021693oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "2f92839ad49e",
-          "title": "我训练了另一个我：数字身份标记，刻不容缓",
-          "desc": "数字身份标记，刻不容缓。",
+          "id": "b4056266ee52",
+          "title": "具身智能进家庭：别把范围当场景，进门要先找切口",
+          "desc": "被打包的“家庭场景”。",
           "source": "36氪",
           "date": "2026-06-16",
           "dateLabel": "6月16日",
           "tags": [
             "research"
           ],
-          "url": "https://36kr.com/p/3855181622940681",
-          "image": "https://img.36krcdn.com/hsossms/20260616/v2_3294443561fe4a4296f9896556552bbe@000000@ai_oswg281824oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3855699426950025",
+          "image": "https://img.36krcdn.com/hsossms/20260616/v2_ec9b0ca7661a4f61b3afb13308138e2f@5888275@ai_oswg967072oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "01e117087a63",
-          "title": "上线只活了180天，AI应用层的泡沫被戳破了",
-          "desc": "生成式AI应用出清，仅嵌入真实场景者存活",
+          "id": "78a2c85cdc17",
+          "title": "AI时代的3条创业路径，你选择哪一条？",
+          "desc": "不是人人都要做DeepSeek，机会在大模型底座之上",
+          "source": "36氪",
+          "date": "2026-06-16",
+          "dateLabel": "6月16日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3855745873171718",
+          "image": "https://img.36krcdn.com/hsossms/20260616/v2_b230b496abc8492c8c5c52e8fa2ff291@5888275@ai_oswg1041498oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "caa3c38ae397",
+          "title": "曝DeepSeek融资细节，梁文锋如何保住控制权",
+          "desc": "‍精明的梁文锋，拿捏了资本！也改写了科创企业融资的剧本。",
+          "source": "36氪",
+          "date": "2026-06-16",
+          "dateLabel": "6月16日",
+          "tags": [
+            "model",
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3855773631976456",
+          "image": "https://img.36krcdn.com/hsossms/20260616/v2_bc0c4bc5b37a44d09e7582f9bf3722b1@5888275@ai_oswg1032800oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "1277e5ed0ba9",
+          "title": "李想的AI延长线",
+          "desc": "AI+汽车=？",
           "source": "36氪",
           "date": "2026-06-16",
           "dateLabel": "6月16日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3854657422119941",
-          "image": "https://img.36krcdn.com/hsossms/20260616/v2_aa912c5100e04d86a2cfbc801b64a882@1743780481@ai_oswg1038759oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3855684038251780",
+          "image": "https://img.36krcdn.com/hsossms/20260616/v2_98ca7a2f1a074f759a21fb2791d2cb92@5888275@ai_oswg1097904oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
+        },
+        {
+          "id": "bd104843f3fc",
+          "title": "收入翻10倍，AI时代的算力“滴滴”为什么还不赚钱？",
+          "desc": "租来的算力，撑不起估值",
+          "source": "36氪",
+          "date": "2026-06-16",
+          "dateLabel": "6月16日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3855775271719942",
+          "image": "https://img.36krcdn.com/hsossms/20260616/v2_a4a596001c434f9998aefd5c37fac52b@5888275@ai_oswg962665oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "4f04a611313e",
+          "title": "AGI不是终点，DeepMind新论文：迈向ASI，真正的AI进步才刚开始",
+          "desc": "从AGI到ASI",
+          "source": "36氪",
+          "date": "2026-06-16",
+          "dateLabel": "6月16日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://36kr.com/p/3855615518921729",
+          "image": "https://img.36krcdn.com/hsossms/20260616/v2_d468dc1e1eff49f4a9fdc2f5e535f5a3@5888275@ai_oswg924994oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "3e299888afcf",
+          "title": "一个模型控制手脚腰身！机器人终于学会全身协同干精细活了",
+          "desc": "手的问题，其实不在手",
+          "source": "量子位",
+          "date": "2026-06-16",
+          "dateLabel": "6月16日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.qbitai.com/2026/06/436073.html",
+          "image": "",
+          "color": "#7c3aed"
         }
       ]
     },
@@ -2843,6 +2962,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-06-16 15:25",
-  "totalNews": 180
+  "updateTime": "2026-06-17 15:08",
+  "totalNews": 188
 }
