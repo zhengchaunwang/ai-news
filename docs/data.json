@@ -1,88 +1,222 @@
 {
   "newsData": [
     {
+      "date": "2026-06-19",
+      "dateLabel": "6月19日",
+      "id": "d19",
+      "items": [
+        {
+          "id": "bb432da02ded",
+          "title": "AI越强，越要“杀死”过去的自己",
+          "desc": "人类需要实现思维模式的转变。",
+          "source": "36氪",
+          "date": "2026-06-19",
+          "dateLabel": "6月19日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3859351868888068",
+          "image": "https://img.36krcdn.com/hsossms/20260619/v2_af0b7d4a049e430aae4542874c7656ef@000000@ai_oswg304622oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "a7c1e5ebc2c8",
+          "title": "GPT发AI原创新成果了",
+          "desc": "AI实现药物全自动研发，还远吗？",
+          "source": "量子位",
+          "date": "2026-06-19",
+          "dateLabel": "6月19日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://www.qbitai.com/2026/06/436842.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "756f986bff4c",
+          "title": "全球首个人形机器人通用小脑来了！全球最大规模2万小时人类动作数据，实现零样本泛化",
+          "desc": "人形机器人正式迈入“GPT时代”",
+          "source": "量子位",
+          "date": "2026-06-19",
+          "dateLabel": "6月19日",
+          "tags": [
+            "model",
+            "research"
+          ],
+          "url": "https://www.qbitai.com/2026/06/436813.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "cc43ed7fe1ff",
+          "title": "微软承认 6 月 Win11 更新导致回收站弹窗显示异常",
+          "desc": "IT之家 6 月 19 日消息，微软昨日（6 月 18 日）更新版本健康控制台，承认 Windows 11 设备安装 6 月累积更新 KB5094126 后，导致回收站弹窗显示异常。微软官方表示用户尝试永久删除回收站中的项目后，确认对话框错误地显示内部文件名（如 $Rxxxxx.ext），而非用户实际看到的文件名（如abc.png）。微软强调这一行为仅限于确认对话框，回收站列表视图仍正确显示真实名",
+          "source": "IT之家",
+          "date": "2026-06-19",
+          "dateLabel": "6月19日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/966/348.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/a1dac332-d7da-4fe4-bc58-436ab0130a6e.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "daf2d2a07d09",
+          "title": "挑战台积电：消息称英特尔携手联电 UMC 开发 12nm 与 3nm 芯片工艺",
+          "desc": "IT之家 6 月 19 日消息，科技媒体 FundaAI 昨日（6 月 18 日）发布博文，报道称英特尔（Intel）为挑战台积电（TSMC）的代工主导地位，已和联电（UMC）达成合作，共同开发 12nm 与 3nm 芯片制造工艺。IT之家注：联电是全球第四大晶圆代工厂，仅次于台积电、三星电子和中芯国际，目前拥有 12 座晶圆厂，全球员工数量超过 2 万，长期专注于成熟制程，产品广泛应用于工业与消",
+          "source": "IT之家",
+          "date": "2026-06-19",
+          "dateLabel": "6月19日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/966/337.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/68fd91aa-98d9-477d-9c17-89b86f15b39f.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "4f0166a56465",
+          "title": "14 年来最大变革：微软 TypeScript 7.0 RC 发布，性能提升约 10 倍",
+          "desc": "IT之家 6 月 19 日消息，微软昨日（6 月 18 日）发布公告，宣布推出 RC 版 TypeScript 7.0，编译器核心移植到 Go 框架，性能提升约 10 倍，且完全兼容 6.0 语义。TypeScript 是由微软开发并维护的开源编程语言，它是 JavaScript 的严格语法超集，为这门动态脚本语言加入了可选的静态类型检查。本次更新最大的亮点在于使用 Go 框架重构底层，是自 20",
+          "source": "IT之家",
+          "date": "2026-06-19",
+          "dateLabel": "6月19日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/966/332.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/801b96b5-d3d3-42d9-8865-9c0fb9524d4d.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "88bbd23961eb",
+          "title": "对垒高通骁龙最强芯片，曝三星酝酿 Exynos 2700 多个内存 / 频率版本",
+          "desc": "IT之家 6 月 19 日消息，科技媒体 Wccftech 昨日（6 月 18 日）发布博文，报道称三星为挑战高通，计划调整 Exynos 2700 芯片布局，提供 LPDDR6 与 LPDDR5X 内存选项，以及多种核心和频率配置。IT之家昨日（6 月 18 日）报道，高通正测试至少 6 款骁龙 8 Elite Gen 6 Pro 芯片样品，采用 2nm 工艺。而消息源 @phonefuturi",
+          "source": "IT之家",
+          "date": "2026-06-19",
+          "dateLabel": "6月19日",
+          "tags": [
+            "model",
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/966/326.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/7e470046-8a9a-4d7f-a0b9-ba56883b007d.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "e3ad178d9b50",
+          "title": "蔡崇信：阿里全面投入 AI，开源的主要推动力量来自中国企业",
+          "desc": "6 月 19 日上午消息，昨日，阿里巴巴集团主席蔡崇信在欧洲科技峰会 VivaTech 2026 上，阐述了阿里巴巴全栈 AI 的发展战略。蔡崇信在一场对谈中提出，AI 的总潜在市场规模（TAM）应当对标人类生产力本身。“AI 正在创造等同于人类智能和人类生产力的价值单元。放眼全球，超过 100 万亿美元的 GDP 中，至少有一半 ——50 万亿美元，是关于人类生产力和人类智能的，这就是 AI 的",
+          "source": "IT之家",
+          "date": "2026-06-19",
+          "dateLabel": "6月19日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/966/318.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/47192c15-14a7-410e-9173-54c1a2d91e46.png",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-06-18",
       "dateLabel": "6月18日",
       "id": "d18",
       "items": [
         {
-          "id": "1e0dac7dcb1c",
-          "title": "制造业AI落地，海尔智家先做了一个企业Agent OS",
-          "desc": "海尔智家以智小能作为企业Agent OS，打通研产供销服，推动业务全员自建Agent。腾讯云基于ClawPro与全栈AI能力，提供模型、算力、安全沙箱和工程化支撑，让Agent在制造业真实场景可控运行。",
-          "source": "36氪",
-          "date": "2026-06-18",
-          "dateLabel": "6月18日",
-          "tags": [
-            "model",
-            "business",
-            "policy",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3857432529884417",
-          "image": "https://img.36krcdn.com/hsossms/20260617/v2_6229e2a88667428bbe4d227a610e6ce6@000000_oswg46784oswg897oswg383_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "dc958847cd92",
-          "title": "从研发到数据复盘，AI正在改写游戏公司",
-          "desc": "游族网络接入腾讯云WorkBuddy后，将数据中台、资讯系统、广告素材链路全部封装成Skill，业务团队一键调用。从“人手一个Agent”到三大业务场景全覆盖，这家游戏公司的AI转型路径，比大多数人想象的更彻底。",
-          "source": "36氪",
-          "date": "2026-06-18",
-          "dateLabel": "6月18日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3857438742369281",
-          "image": "https://img.36krcdn.com/hsossms/20260617/v2_1285bf2618b04cc8ac18843af624b57f@000000_oswg23080oswg315oswg315_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "1f3559dce066",
-          "title": "SpaceX要让太空算力从科幻走向现实，但它划算吗？",
-          "desc": "10,000颗卫星、100次星舰发射",
+          "id": "2f005d3510c9",
+          "title": "美国AI狂飙，亚洲抢先吃饱",
+          "desc": "亚洲，正在成为全球算力基础设施制造中心。",
           "source": "36氪",
           "date": "2026-06-18",
           "dateLabel": "6月18日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3858092275579526",
-          "image": "https://img.36krcdn.com/hsossms/20260618/v2_a06ba813cf65498781f69abb797d2b2c@1743780481@ai_oswg1109122oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3858605472617475",
+          "image": "https://img.36krcdn.com/hsossms/20260618/v2_a0b6edc9f5cf42f894935ca94f4ef65e@5888275@ai_oswg1053408oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "b12f699d3a3b",
-          "title": "突发，谷歌Gemini联席负责人，被OpenAI挖了",
-          "desc": "被谷歌182亿请回的人，加入了OpenAI。",
+          "id": "382cc87a6fa0",
+          "title": "入局AI新风向，WAIC 2026全球开票！",
+          "desc": "世界人工智能大会（WAIC）2026将于7月17日-20日登陆上海并正式启动全球售票，大会将联动三大片区、围绕AI前沿议题设置七大板块内容，聚合全球产学研资资源，配套多元生态活动，同期还将于8月在新加坡举办亚太场。",
+          "source": "36氪",
+          "date": "2026-06-18",
+          "dateLabel": "6月18日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3858594101040389",
+          "image": "https://img.36krcdn.com/hsossms/20260618/v2_12d17e16a95342d38044a9f1a23fa1f0@6381723_oswg193903oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "22e70838df5c",
+          "title": "今天起，Claude Design要把设计师和程序员变成同一种人了",
+          "desc": "猝不及防！Anthropic深夜甩出Claude Design大更新，设计系统一键导入，代码双向同步，9大平台一键导出。Anthropic设计师亲自下场录屏：AI跑了八轮自查，才敢把设计稿给你看。",
           "source": "36氪",
           "date": "2026-06-18",
           "dateLabel": "6月18日",
           "tags": [
             "model"
           ],
-          "url": "https://36kr.com/p/3858117337633796",
-          "image": "https://img.36krcdn.com/hsossms/20260618/v2_44799b3bdb37452dae7ea3099cde8fb2@000000@ai_oswg362919oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3858531433780228",
+          "image": "https://img.36krcdn.com/hsossms/20260618/v2_2e682247435e41f6b0f20d2d323beed7@5888275@ai_oswg952328oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "b2890242340e",
-          "title": "用了10年，奥特曼终于等到了他想要的人",
-          "desc": "Noam Shazeer 加入 OpenAI，担任架构研究负责人。",
+          "id": "af502445006f",
+          "title": "开发者冲爆了，全球前十AI Lab无限免费，一周烧出3.12万亿Token",
+          "desc": "3.12T的单周总调用量，是谁在疯狂薅羊毛？",
+          "source": "36氪",
+          "date": "2026-06-18",
+          "dateLabel": "6月18日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3858531519288326",
+          "image": "https://img.36krcdn.com/hsossms/20260618/v2_01f3950a2b3d4a40a2dfb2c8fba8c490@5888275@ai_oswg916281oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "0608572f65ad",
+          "title": "Transformer之父离开谷歌，奥特曼等了他十年",
+          "desc": "27亿美元也没能留住，Noam Shazeer追寻下一代架构。",
           "source": "36氪",
           "date": "2026-06-18",
           "dateLabel": "6月18日",
           "tags": [
             "research"
           ],
-          "url": "https://36kr.com/p/3858135963145475",
-          "image": "https://img.36krcdn.com/hsossms/20260618/v2_d608ac2efc914d8cb501b04181403e82@000000@ai_oswg297277oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3858479715285895",
+          "image": "https://img.36krcdn.com/hsossms/20260618/v2_697c73e2f4154003ad9d025f9e7e63d1@5888275@ai_oswg978605oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "b6b346d62715",
-          "title": "微软，考虑接入DeepSeek",
-          "desc": "Copilot Cowork转为按量计费。",
+          "id": "705a34e009ff",
+          "title": "估值95亿，黄仁勋投了一家世界模型创企",
+          "desc": "AWS将成为该公司的首选云服务商。",
+          "source": "36氪",
+          "date": "2026-06-18",
+          "dateLabel": "6月18日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3858479782138886",
+          "image": "https://img.36krcdn.com/hsossms/20260618/v2_75f5c8b7857d4091a6e1c73c7e83a123@5888275@ai_oswg1051630oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "4652df454a62",
+          "title": "DeepSeek融资500亿：量化大佬梁文锋的反资本实验",
+          "desc": "DeepSeek完成500亿首轮融资，创始人梁文锋自掏200亿锁定绝对控制权，走出一条非硅谷式的AI发展路径。",
           "source": "36氪",
           "date": "2026-06-18",
           "dateLabel": "6月18日",
@@ -91,36 +225,23 @@
             "business",
             "cn"
           ],
-          "url": "https://36kr.com/p/3857389182670088",
-          "image": "https://img.36krcdn.com/hsossms/20260618/v2_14f332ea8cf4476c97ac594fabf362fd@1743780481@ai_oswg998698oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3858492290061568",
+          "image": "https://img.36krcdn.com/hsossms/20260618/v2_5527dc12b3b44a8bbdd0705465ba2ccf@5888275@ai_oswg1001882oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "59b2aa8fc19a",
-          "title": "当 AI 开始帮教师工作：15 家值得关注的教育科技公司",
-          "desc": "教育科技行业正在关注哪些新的方向？",
+          "id": "e45b6f0cf3bf",
+          "title": "智谱新高，MiniMax承压，“大模型双雄”命运殊途",
+          "desc": "大模型在被市场重新定价",
           "source": "36氪",
           "date": "2026-06-18",
           "dateLabel": "6月18日",
           "tags": [
-            "business"
+            "model",
+            "cn"
           ],
-          "url": "https://36kr.com/p/3857324103013384",
-          "image": "https://img.36krcdn.com/hsossms/20260617/v2_797c613cbbd54dae98a2d4b9c2496673@000000@ai_oswg358482oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "bae2b7dcd612",
-          "title": "马斯克买壳，梁文锋筑墙：AI 原生公司的生存法则",
-          "desc": "一收一融，照见 AI 创业两条生死路径",
-          "source": "36氪",
-          "date": "2026-06-18",
-          "dateLabel": "6月18日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3857333106375557",
-          "image": "https://img.36krcdn.com/hsossms/20260618/v2_f11854a8212f407b8eebfe39b741e89d@1743780481@ai_oswg1046984oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3858455690804102",
+          "image": "https://img.36krcdn.com/hsossms/20260618/v2_4b0e256098fb4cd09b1dffe0b4e15b26@5888275@ai_oswg974656oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         }
       ]
@@ -3087,6 +3208,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-06-18 14:50",
-  "totalNews": 196
+  "updateTime": "2026-06-19 15:05",
+  "totalNews": 204
 }
