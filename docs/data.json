@@ -1,10 +1,146 @@
 {
   "newsData": [
     {
+      "date": "2026-06-20",
+      "dateLabel": "6月20日",
+      "id": "d20",
+      "items": [
+        {
+          "id": "84eba86f4159",
+          "title": "他刚融了27亿，李飞飞也投钱了",
+          "desc": "“不要将我的公司，贴上世界模型的标签。”",
+          "source": "36氪",
+          "date": "2026-06-20",
+          "dateLabel": "6月20日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3861004391257094",
+          "image": "https://img.36krcdn.com/hsossms/20260620/v2_985f24c1e8a04fc7ae6aa20e13187721@6100851_oswg1058994oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "3858b4172ba7",
+          "title": "智谱创始人唐杰隔空对话马斯克：赶超Claude Fable 5不用等到2027年",
+          "desc": "重新校准中美大模型能力的时间差",
+          "source": "36氪",
+          "date": "2026-06-20",
+          "dateLabel": "6月20日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3859419411534850",
+          "image": "https://img.36krcdn.com/hsossms/20260620/v2_d5ae497675b94a0d93ba3d0232e1ad9f@6100851_oswg1082298oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "60b397bc0097",
+          "title": "硅谷最抢手的新岗位出现了",
+          "desc": "模型神话正式退场，落地战争全面打响。",
+          "source": "36氪",
+          "date": "2026-06-20",
+          "dateLabel": "6月20日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3859434968185734",
+          "image": "https://img.36krcdn.com/hsossms/20260619/v2_b6bd22cb314e4a4dafcc3ba1f347fd26@000000_oswg94504oswg1024oswg436_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "732fc5dc94fa",
+          "title": "AI 成绩单背后，藏着一位华人“出题人”",
+          "desc": "AI，你需要向虎证明自己很聪明",
+          "source": "36氪",
+          "date": "2026-06-20",
+          "dateLabel": "6月20日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3859842727263113",
+          "image": "https://img.36krcdn.com/hsossms/20260620/v2_a5324c05099c4fd5b097910ff95406e8@6100851_oswg878893oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "3c339a7b139e",
+          "title": "都说AI好用，为什么人效还是一样？",
+          "desc": "创业者，千万不能有守旧思维。",
+          "source": "36氪",
+          "date": "2026-06-20",
+          "dateLabel": "6月20日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3860130092602628",
+          "image": "https://img.36krcdn.com/hsossms/20260619/v2_80523bb53f294806a5acb3ccfbc4bb5e@000000@ai_oswg334663oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "0b7195ff2632",
+          "title": "中国机器人充当间谍，还操纵儿童？美国泼脏水背后是一门生意",
+          "desc": "闭门造车并不是发展良策。",
+          "source": "36氪",
+          "date": "2026-06-20",
+          "dateLabel": "6月20日",
+          "tags": [
+            "research",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3860779263956226",
+          "image": "https://img.36krcdn.com/hsossms/20260620/v2_91a178c17860425bba3125a33d1ac942@6100851@ai_oswg933045oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "bde1ea02a75a",
+          "title": "刚刚，诺贝尔奖得主成Anthropic新员工",
+          "desc": "博士毕业6个月直接领队AlphaFold，7年后拿下诺贝尔奖。今天，John Jumper官宣加入Anthropic。",
+          "source": "36氪",
+          "date": "2026-06-20",
+          "dateLabel": "6月20日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3860814933660674",
+          "image": "https://img.36krcdn.com/hsossms/20260620/v2_4c864f7dbd314425b2cd9d3c49c40488@000000_oswg90512oswg1280oswg544_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "bdda50df2b75",
+          "title": "花钱雇AI当同事，我的生意怎么样了？",
+          "desc": "每月一两千，把数字员工用到起飞。",
+          "source": "36氪",
+          "date": "2026-06-20",
+          "dateLabel": "6月20日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3860798447686920",
+          "image": "https://img.36krcdn.com/hsossms/20260620/v2_e6b49114d4014749a966c11aab392ea6@6100851_oswg919702oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        }
+      ]
+    },
+    {
       "date": "2026-06-19",
       "dateLabel": "6月19日",
       "id": "d19",
       "items": [
+        {
+          "id": "88a174a00e94",
+          "title": "硬氪首发|moody前高管搭档大疆骨干入局陪伴机器人，锦秋领投，融资数千万",
+          "desc": "陪伴机器人的本质是“创造生命”。",
+          "source": "36氪",
+          "date": "2026-06-19",
+          "dateLabel": "6月19日",
+          "tags": [
+            "research",
+            "business"
+          ],
+          "url": "https://36kr.com/p/3859926114161665",
+          "image": "https://img.36krcdn.com/hsossms/20260619/v2_913ad33246ff409487b201e248341b94@6310669_oswg191449oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
         {
           "id": "bb432da02ded",
           "title": "AI越强，越要“杀死”过去的自己",
@@ -18,6 +154,20 @@
           "url": "https://36kr.com/p/3859351868888068",
           "image": "https://img.36krcdn.com/hsossms/20260619/v2_af0b7d4a049e430aae4542874c7656ef@000000@ai_oswg304622oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
+        },
+        {
+          "id": "0cd9c08407d4",
+          "title": "我把昨晚的梦输入AI，它居然直接把我拉进去玩儿了一把？！",
+          "desc": "创作者的终极玩具来了",
+          "source": "量子位",
+          "date": "2026-06-19",
+          "dateLabel": "6月19日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/06/436864.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
           "id": "a7c1e5ebc2c8",
@@ -49,52 +199,9 @@
           "color": "#7c3aed"
         },
         {
-          "id": "cc43ed7fe1ff",
-          "title": "微软承认 6 月 Win11 更新导致回收站弹窗显示异常",
-          "desc": "IT之家 6 月 19 日消息，微软昨日（6 月 18 日）更新版本健康控制台，承认 Windows 11 设备安装 6 月累积更新 KB5094126 后，导致回收站弹窗显示异常。微软官方表示用户尝试永久删除回收站中的项目后，确认对话框错误地显示内部文件名（如 $Rxxxxx.ext），而非用户实际看到的文件名（如abc.png）。微软强调这一行为仅限于确认对话框，回收站列表视图仍正确显示真实名",
-          "source": "IT之家",
-          "date": "2026-06-19",
-          "dateLabel": "6月19日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/966/348.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/a1dac332-d7da-4fe4-bc58-436ab0130a6e.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "daf2d2a07d09",
-          "title": "挑战台积电：消息称英特尔携手联电 UMC 开发 12nm 与 3nm 芯片工艺",
-          "desc": "IT之家 6 月 19 日消息，科技媒体 FundaAI 昨日（6 月 18 日）发布博文，报道称英特尔（Intel）为挑战台积电（TSMC）的代工主导地位，已和联电（UMC）达成合作，共同开发 12nm 与 3nm 芯片制造工艺。IT之家注：联电是全球第四大晶圆代工厂，仅次于台积电、三星电子和中芯国际，目前拥有 12 座晶圆厂，全球员工数量超过 2 万，长期专注于成熟制程，产品广泛应用于工业与消",
-          "source": "IT之家",
-          "date": "2026-06-19",
-          "dateLabel": "6月19日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/966/337.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/68fd91aa-98d9-477d-9c17-89b86f15b39f.png",
-          "color": "#d97706"
-        },
-        {
-          "id": "4f0166a56465",
-          "title": "14 年来最大变革：微软 TypeScript 7.0 RC 发布，性能提升约 10 倍",
-          "desc": "IT之家 6 月 19 日消息，微软昨日（6 月 18 日）发布公告，宣布推出 RC 版 TypeScript 7.0，编译器核心移植到 Go 框架，性能提升约 10 倍，且完全兼容 6.0 语义。TypeScript 是由微软开发并维护的开源编程语言，它是 JavaScript 的严格语法超集，为这门动态脚本语言加入了可选的静态类型检查。本次更新最大的亮点在于使用 Go 框架重构底层，是自 20",
-          "source": "IT之家",
-          "date": "2026-06-19",
-          "dateLabel": "6月19日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/0/966/332.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/801b96b5-d3d3-42d9-8865-9c0fb9524d4d.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "88bbd23961eb",
-          "title": "对垒高通骁龙最强芯片，曝三星酝酿 Exynos 2700 多个内存 / 频率版本",
-          "desc": "IT之家 6 月 19 日消息，科技媒体 Wccftech 昨日（6 月 18 日）发布博文，报道称三星为挑战高通，计划调整 Exynos 2700 芯片布局，提供 LPDDR6 与 LPDDR5X 内存选项，以及多种核心和频率配置。IT之家昨日（6 月 18 日）报道，高通正测试至少 6 款骁龙 8 Elite Gen 6 Pro 芯片样品，采用 2nm 工艺。而消息源 @phonefuturi",
+          "id": "1fa6e3d06525",
+          "title": "visionOS 27 今秋推送：M5 Vision Pro 头显独占 Siri 语音定制和苹果最强本地 AI 模型",
+          "desc": "IT之家 6 月 20 日消息，科技媒体 9to5Mac 昨日（6 月 19 日）发布博文，报道称在 visionOS 27 系统中，苹果为 M5 Vision Pro 头显独占推出 Siri 语音定制（Voice Customization）和本地 AI 模型 AFM 3 Core Advanced。该媒体指出 M2 款 Vision Pro 和 M5 款 Vision Pro 共享 visio",
           "source": "IT之家",
           "date": "2026-06-19",
           "dateLabel": "6月19日",
@@ -102,23 +209,36 @@
             "model",
             "business"
           ],
-          "url": "https://www.ithome.com/0/966/326.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/7e470046-8a9a-4d7f-a0b9-ba56883b007d.png?x-bce-process=image/format,f_auto",
+          "url": "https://www.ithome.com/0/966/454.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/d3d9353f-3735-4388-ae5b-72cf8a0fd387.png?x-bce-process=image/auto-orient,o_1",
           "color": "#d97706"
         },
         {
-          "id": "e3ad178d9b50",
-          "title": "蔡崇信：阿里全面投入 AI，开源的主要推动力量来自中国企业",
-          "desc": "6 月 19 日上午消息，昨日，阿里巴巴集团主席蔡崇信在欧洲科技峰会 VivaTech 2026 上，阐述了阿里巴巴全栈 AI 的发展战略。蔡崇信在一场对谈中提出，AI 的总潜在市场规模（TAM）应当对标人类生产力本身。“AI 正在创造等同于人类智能和人类生产力的价值单元。放眼全球，超过 100 万亿美元的 GDP 中，至少有一半 ——50 万亿美元，是关于人类生产力和人类智能的，这就是 AI 的",
+          "id": "e7ac7a02f8f6",
+          "title": "苹果回应 watchOS 27 收窄兼容性，确保所有 Apple Watch 都具备最佳体验",
+          "desc": "IT之家 6 月 20 日消息，昨日（6 月 19 日）在接受科技媒体 TechRadar 采访时，苹果 Apple Watch 和健康产品营销经理凯特 · 杜利（Cait Dooley）表示，watchOS 27 放弃支持 5 款 Apple Watch，是为了确保用户“无论使用哪款手表都能获得最佳体验”。IT之家此前报道，在 2026 年全球开发者大会（WWDC）上，苹果公司官宣推出 watc",
           "source": "IT之家",
           "date": "2026-06-19",
           "dateLabel": "6月19日",
           "tags": [
-            "business",
-            "cn"
+            "business"
           ],
-          "url": "https://www.ithome.com/0/966/318.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/47192c15-14a7-410e-9173-54c1a2d91e46.png",
+          "url": "https://www.ithome.com/0/966/451.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/eaa563aa-dce2-491b-8749-65d716657981.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "308831741008",
+          "title": "微软官宣今秋上线 Win11 26H2 更新：启用包方式推送，硬件要求不变",
+          "desc": "IT之家 6 月 20 日消息，微软今天（6 月 20 日）发布公告，宣布将延续 25H2 更新模式，于 2026 年秋季通过启用包（eKB）方式发布 Windows 11 26H2 更新。微软表示 Windows 11 26H2 并非重大版本更迭，面向 Windows 11 24H2 和 25H2 设备推送大小不足 500KB 的启用包（eKB），让其直接升级到 Windows 11 26H2，",
+          "source": "IT之家",
+          "date": "2026-06-19",
+          "dateLabel": "6月19日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/966/448.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/dd7651ba-364c-4e1d-8b4d-b28af1b9e37f.png?x-bce-process=image/format,f_auto",
           "color": "#d97706"
         }
       ]
@@ -3075,114 +3195,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-05-17",
-      "dateLabel": "5月17日",
-      "id": "d17",
-      "items": [
-        {
-          "id": "390901bd499e",
-          "title": "又诞生一位千亿女富豪",
-          "desc": "又一部“打工妹”逆袭成为女富豪的爽文剧本。",
-          "source": "36氪",
-          "date": "2026-05-17",
-          "dateLabel": "5月17日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3813040859258373",
-          "image": "https://img.36krcdn.com/hsossms/20260517/v2_3fb2886a61df40f3a9a02e8a731f66d2@5579416_oswg299040oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "716fcfa15dee",
-          "title": "AI围攻菜市场：算法驱赶“烟火气”",
-          "desc": "巨头们不再是和菜贩子在脏乱差的泥地里肉搏的莽夫，它们退到了云端，在用算法编纂兵法。",
-          "source": "36氪",
-          "date": "2026-05-17",
-          "dateLabel": "5月17日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://36kr.com/p/3812960335388680",
-          "image": "https://img.36krcdn.com/hsossms/20260517/v2_af1e3dfb0d87479296093877858d5361@115245665_oswg1056837oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "58cd61cb139c",
-          "title": "3个人带100个AI程序员，一个月烧掉130万美元！OpenAI：钱我出",
-          "desc": "如果token成本不是问题，软件开发会变成什么样。",
-          "source": "36氪",
-          "date": "2026-05-17",
-          "dateLabel": "5月17日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3812925591887368",
-          "image": "https://img.36krcdn.com/hsossms/20260517/v2_caf26eb7618749e6bc8312b5b911799d@000000_oswg110709oswg1280oswg544_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "d74bf63e1cad",
-          "title": "6.4k Stars！用Claude Code写论文的全套流水线，有人打包开源了",
-          "desc": "4个skill，跑通整套科研流程",
-          "source": "36氪",
-          "date": "2026-05-17",
-          "dateLabel": "5月17日",
-          "tags": [
-            "model",
-            "research",
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3812800346742274",
-          "image": "https://img.36krcdn.com/hsossms/20260517/v2_42781cb89d3141b68703da51ed15318d@000000_oswg54247oswg898oswg381_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "b615338ba0e2",
-          "title": "年薪132万美元，黄仁勋儿女管的却不是芯片",
-          "desc": "黄仁勋子女卡位英伟达新赛道，而非核心现金牛业务。",
-          "source": "36氪",
-          "date": "2026-05-17",
-          "dateLabel": "5月17日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3811650641682697",
-          "image": "https://img.36krcdn.com/hsossms/20260517/v2_81401e698721434cb23df0615810ebc8@5579416_oswg532399oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "ba4870b6d8f2",
-          "title": "一只机器狗，把英伟达的算力王座拱翻了",
-          "desc": "人造劳动力，离普通家庭还有多远？",
-          "source": "量子位",
-          "date": "2026-05-17",
-          "dateLabel": "5月17日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/05/418969.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "905a9c6bd6dc",
-          "title": "世界大学生超级计算机竞赛首设“英才对接”环节，搭建“赛场—职场”人才供需桥梁",
-          "desc": "全球规模最大、参与人数最多的大学生超算赛事",
-          "source": "量子位",
-          "date": "2026-05-17",
-          "dateLabel": "5月17日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/05/418964.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -3208,6 +3220,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-06-19 15:05",
-  "totalNews": 204
+  "updateTime": "2026-06-20 14:19",
+  "totalNews": 205
 }
