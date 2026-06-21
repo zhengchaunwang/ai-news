@@ -1,10 +1,147 @@
 {
   "newsData": [
     {
+      "date": "2026-06-21",
+      "dateLabel": "6月21日",
+      "id": "d21",
+      "items": [
+        {
+          "id": "38e4200c07fb",
+          "title": "AI巨头的“Token补贴大战”，快打完了吗？",
+          "desc": "还能再降80%。",
+          "source": "36氪",
+          "date": "2026-06-21",
+          "dateLabel": "6月21日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3862408718423041",
+          "image": "https://img.36krcdn.com/hsossms/20260621/v2_771b3851ca2748b29ab462f06ec7568d@000000@ai_oswg270389oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "682232e3eda3",
+          "title": "GRPO过时了吗？",
+          "desc": "GLM-5.2不再使用GRPO，引爆关于强化学习未来走向的争论",
+          "source": "36氪",
+          "date": "2026-06-21",
+          "dateLabel": "6月21日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://36kr.com/p/3862288768570377",
+          "image": "https://img.36krcdn.com/hsossms/20260621/v2_f6f1997aab7d4d5aaee7580c0d225b1e@000000@ai_oswg305721oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "41aa3043e06d",
+          "title": "芯片设备“铁律”，正在被打破",
+          "desc": "“买到设备”变成了最紧急的军备竞赛。",
+          "source": "36氪",
+          "date": "2026-06-21",
+          "dateLabel": "6月21日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3862257619293193",
+          "image": "https://img.36krcdn.com/hsossms/20260621/v2_6bda30f9a8df41c3ae7fdd89d42c5411@000000@ai_oswg370927oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "032882ec553a",
+          "title": "9600亿AI独角兽，又要融资了",
+          "desc": "它想要的估值最高可能达到1750亿美元（约合人民币1.26万亿元）。",
+          "source": "36氪",
+          "date": "2026-06-21",
+          "dateLabel": "6月21日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3861431890990089",
+          "image": "https://img.36krcdn.com/hsossms/20260620/v2_1a825dc7fdd246b6a7abeaa076b4234b@000000@ai_oswg304564oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "03daaeb20be1",
+          "title": "2026年，1800个DeepSeek跟我一起守护艾泽拉斯",
+          "desc": "一个月只要340块",
+          "source": "量子位",
+          "date": "2026-06-21",
+          "dateLabel": "6月21日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/06/437141.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "b16ba3035e8c",
+          "title": "消息称努比亚将全部核心资源集中投入第二代豆包 AI 手机，暂时收缩传统手机业务",
+          "desc": "IT之家 6 月 21 日消息，据芯流智库消息，努比亚即将推出第二代豆包 AI 手机，并集中全部核心资源于这一产品，传统手机业务线暂时全面收缩。据消息人士透露，中兴努比亚高层内部已做出重大战略调整，将全部核心资源集中投入第二代豆包 AI 手机，其余传统手机业务线将暂时停止推进。据IT之家此前报道，2025 年 12 月，字节跳动与努比亚联手推出型号为努比亚 M153 的豆包手机工程样机，定价 34",
+          "source": "IT之家",
+          "date": "2026-06-21",
+          "dateLabel": "6月21日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/966/642.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/5ebc37a5-294b-4098-be8b-c087f33e25ed.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "9f6d401d0e4b",
+          "title": "网易云音乐旗下 AI 情感陪伴 App“妙时”将于 7 月 14 日停运，用户账号剩余曲奇币 / 会员费可申请退款",
+          "desc": "IT之家 6 月 21 日消息，网易云音乐旗下 AI 情感陪伴 App“妙时”发布停运公告，平台将于 7 月 14 日 0 时正式停止运营，目前已停止新用户注册、充值及会员购买等服务。官方表示，“妙时”App 停运后将全面关闭所有功能，用户账号中剩余的妙时币、曲奇币、电波及会员费用，可于 8 月 14 日前通过邮件申请退款。对于用户关心的历史聊天记录和个人资料保存问题，网易云音乐方面表示，妙时 A",
+          "source": "IT之家",
+          "date": "2026-06-21",
+          "dateLabel": "6月21日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/966/636.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/e39a6db6-6fa3-4d91-8462-3e37114c80fe.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "a40ee3e9d72a",
+          "title": "微博 CEO 王高飞澄清“被金山 WPS 背刺”言论：系 AI 生成“自己养的虾发的”",
+          "desc": "IT之家 6 月 21 日消息，今天有话题“被 wps 背刺了”登上微博热搜，话题核心内容聚焦在金山 WPS 存储占用、数据安全与商业策略这几个核心痛点上。参考“观察者网”微博，有网友发现微博 CEO 王高飞（@来去之间）“也参与到这个热搜话题”，相关博文声称“被 WPS 背刺了？我们真正被背刺的，是对「国产替代」的幻觉”，不过值得注意的是，微博 CEO @来去之间 这篇博文标注为“AI 生成”。",
+          "source": "IT之家",
+          "date": "2026-06-21",
+          "dateLabel": "6月21日",
+          "tags": [
+            "policy",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/966/633.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/8e6225d4-5288-4feb-bd9e-1e57803d5ef1.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-06-20",
       "dateLabel": "6月20日",
       "id": "d20",
       "items": [
+        {
+          "id": "c1b6391a8343",
+          "title": "为AI芯片“续命”，中国人造钻石等来了大机会",
+          "desc": "在AI芯片领域，金刚石散热技术已是不二之选。",
+          "source": "36氪",
+          "date": "2026-06-20",
+          "dateLabel": "6月20日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3859519082320898",
+          "image": "https://img.36krcdn.com/hsossms/20260620/v2_38f40e1b17874b3184c9a036b37ba449@6100851_oswg311993oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
         {
           "id": "84eba86f4159",
           "title": "他刚融了27亿，李飞飞也投钱了",
@@ -104,20 +241,6 @@
           "url": "https://36kr.com/p/3860814933660674",
           "image": "https://img.36krcdn.com/hsossms/20260620/v2_4c864f7dbd314425b2cd9d3c49c40488@000000_oswg90512oswg1280oswg544_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
           "color": "#2563eb"
-        },
-        {
-          "id": "bdda50df2b75",
-          "title": "花钱雇AI当同事，我的生意怎么样了？",
-          "desc": "每月一两千，把数字员工用到起飞。",
-          "source": "36氪",
-          "date": "2026-06-20",
-          "dateLabel": "6月20日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3860798447686920",
-          "image": "https://img.36krcdn.com/hsossms/20260620/v2_e6b49114d4014749a966c11aab392ea6@6100851_oswg919702oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
         }
       ]
     },
@@ -197,49 +320,6 @@
           "url": "https://www.qbitai.com/2026/06/436813.html",
           "image": "",
           "color": "#7c3aed"
-        },
-        {
-          "id": "1fa6e3d06525",
-          "title": "visionOS 27 今秋推送：M5 Vision Pro 头显独占 Siri 语音定制和苹果最强本地 AI 模型",
-          "desc": "IT之家 6 月 20 日消息，科技媒体 9to5Mac 昨日（6 月 19 日）发布博文，报道称在 visionOS 27 系统中，苹果为 M5 Vision Pro 头显独占推出 Siri 语音定制（Voice Customization）和本地 AI 模型 AFM 3 Core Advanced。该媒体指出 M2 款 Vision Pro 和 M5 款 Vision Pro 共享 visio",
-          "source": "IT之家",
-          "date": "2026-06-19",
-          "dateLabel": "6月19日",
-          "tags": [
-            "model",
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/966/454.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/d3d9353f-3735-4388-ae5b-72cf8a0fd387.png?x-bce-process=image/auto-orient,o_1",
-          "color": "#d97706"
-        },
-        {
-          "id": "e7ac7a02f8f6",
-          "title": "苹果回应 watchOS 27 收窄兼容性，确保所有 Apple Watch 都具备最佳体验",
-          "desc": "IT之家 6 月 20 日消息，昨日（6 月 19 日）在接受科技媒体 TechRadar 采访时，苹果 Apple Watch 和健康产品营销经理凯特 · 杜利（Cait Dooley）表示，watchOS 27 放弃支持 5 款 Apple Watch，是为了确保用户“无论使用哪款手表都能获得最佳体验”。IT之家此前报道，在 2026 年全球开发者大会（WWDC）上，苹果公司官宣推出 watc",
-          "source": "IT之家",
-          "date": "2026-06-19",
-          "dateLabel": "6月19日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/966/451.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/eaa563aa-dce2-491b-8749-65d716657981.png",
-          "color": "#d97706"
-        },
-        {
-          "id": "308831741008",
-          "title": "微软官宣今秋上线 Win11 26H2 更新：启用包方式推送，硬件要求不变",
-          "desc": "IT之家 6 月 20 日消息，微软今天（6 月 20 日）发布公告，宣布将延续 25H2 更新模式，于 2026 年秋季通过启用包（eKB）方式发布 Windows 11 26H2 更新。微软表示 Windows 11 26H2 并非重大版本更迭，面向 Windows 11 24H2 和 25H2 设备推送大小不足 500KB 的启用包（eKB），让其直接升级到 Windows 11 26H2，",
-          "source": "IT之家",
-          "date": "2026-06-19",
-          "dateLabel": "6月19日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/966/448.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/dd7651ba-364c-4e1d-8b4d-b28af1b9e37f.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
         }
       ]
     },
@@ -3174,27 +3254,6 @@
           "color": "#2563eb"
         }
       ]
-    },
-    {
-      "date": "2026-05-18",
-      "dateLabel": "5月18日",
-      "id": "d18",
-      "items": [
-        {
-          "id": "e8b60aaea747",
-          "title": "重塑主流PC，第三代英特尔酷睿开启全民AI轻薄本时代",
-          "desc": "芯片与系统级双重创新",
-          "source": "量子位",
-          "date": "2026-05-18",
-          "dateLabel": "5月18日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/05/419585.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -3220,6 +3279,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-06-20 14:19",
-  "totalNews": 205
+  "updateTime": "2026-06-21 14:50",
+  "totalNews": 209
 }
