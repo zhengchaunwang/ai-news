@@ -1,125 +1,246 @@
 {
   "newsData": [
     {
+      "date": "2026-06-24",
+      "dateLabel": "6月24日",
+      "id": "d24",
+      "items": [
+        {
+          "id": "0df31ed4a2a1",
+          "title": "占地1.5个曼哈顿、投资60亿美金，拆解光伏+储能到底如何给AIDC供电？",
+          "desc": "5.2GW光伏+19GWh储能，只为1GW电力",
+          "source": "36氪",
+          "date": "2026-06-24",
+          "dateLabel": "6月24日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3866583608644613",
+          "image": "https://img.36krcdn.com/hsossms/20260624/v2_36c1f70c6fd74af6ac7f5424fa2d7dc4@5091053@ai_oswg1004372oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "ef28ee08dd60",
+          "title": "20 亿美元原价回购 Meta 持股，腾讯牵头中方资本夺回通用 AI 标杆 Manus",
+          "desc": "一场横跨中美、历时半年的 AI 并购大戏迎来关键反转。",
+          "source": "36氪",
+          "date": "2026-06-24",
+          "dateLabel": "6月24日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3866588633469956",
+          "image": "https://img.36krcdn.com/hsossms/20260624/v2_ebada7d0b08649388aa49555fa1006ae@5091053@ai_oswg1091979oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "6f0576dfc15b",
+          "title": "刚刚，豆包宣布收费",
+          "desc": "就算只有1%豆包用户订阅，每月也能收入至少2.28亿。",
+          "source": "36氪",
+          "date": "2026-06-24",
+          "dateLabel": "6月24日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3866614308951048",
+          "image": "https://img.36krcdn.com/hsossms/20260624/v2_a3d9d82961534336b5acf3c744666b61@000000@ai_oswg323220oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "58e18b942860",
+          "title": "智谱破万亿，中国大模型终结「平替」叙事",
+          "desc": "从平替到对手。",
+          "source": "36氪",
+          "date": "2026-06-24",
+          "dateLabel": "6月24日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3866649171432711",
+          "image": "https://img.36krcdn.com/hsossms/20260624/v2_0314358ff2194372b2298980c9ef6af9@5091053@ai_oswg1141133oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "d430192e3dd1",
+          "title": "AI × OPC的新可能：一个人，就是一支队伍｜2026WAVES",
+          "desc": "36氪大会探讨AI时代OPC生态与发展趋势",
+          "source": "36氪",
+          "date": "2026-06-24",
+          "dateLabel": "6月24日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3866649515938825",
+          "image": "https://img.36krcdn.com/hsossms/20260624/v2_a45f090943414d789eb24e823823a8ac@6381723_oswg919627oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "3e6efc6b81fb",
+          "title": "OpenAI新论文：如何训练一个“压力下不变坏”的AI？",
+          "desc": "当AI进入高风险决策，仅有“禁止清单”远远不够。",
+          "source": "36氪",
+          "date": "2026-06-24",
+          "dateLabel": "6月24日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://36kr.com/p/3866577016738816",
+          "image": "https://img.36krcdn.com/hsossms/20260624/v2_22a2092b0b6c4243ae098e818b0f9498@5091053@ai_oswg1064668oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "6edb70854714",
+          "title": "“AI优化快10倍，但手写其实能快100倍！”Python 顶流工具作者：AI垃圾PR正在摧毁开源社区",
+          "desc": "AI 正在让程序员丧失第一性原理的思考。",
+          "source": "36氪",
+          "date": "2026-06-24",
+          "dateLabel": "6月24日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3866592164631813",
+          "image": "https://img.36krcdn.com/hsossms/20260624/v2_989b39a99576418fa0f0f14455079715@5091053@ai_oswg1009712oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "abee9db8131c",
+          "title": "AI可以用任何手段、写任何东西，但你得是个“中年老登”",
+          "desc": "“我现在陷入到一种巨大的虚无主义里，AI 什么都能写。”",
+          "source": "36氪",
+          "date": "2026-06-24",
+          "dateLabel": "6月24日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3866622650144008",
+          "image": "https://img.36krcdn.com/hsossms/20260624/v2_4b3d3a9deb6e4455b1704317609dbb8e@5091053@ai_oswg1114822oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        }
+      ]
+    },
+    {
       "date": "2026-06-23",
       "dateLabel": "6月23日",
       "id": "d23",
       "items": [
         {
-          "id": "b773bafbb7b7",
-          "title": "WAVES 2026：今年盛夏，在创投浪潮里，做迎风而立的少数人！",
-          "desc": "36氪WAVES2026创投大会在广州番禺圆满落幕",
+          "id": "a30e8f08e351",
+          "title": "巨头打响Context之战，重构AI护城河",
+          "desc": "从拼窗口到抢入口，谁能更稳定地获得、组织、调用Context。",
           "source": "36氪",
           "date": "2026-06-23",
           "dateLabel": "6月23日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3865226824389892",
-          "image": "https://img.36krcdn.com/hsossms/20260623/v2_15785c1fec374a74b2a85144d0e352b8@6381723_oswg981482oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "url": "https://36kr.com/p/3865691912616833",
+          "image": "https://img.36krcdn.com/hsossms/20260623/v2_0069aef18a214da2abb1e4333d88c77d@46958@ai_oswg1104377oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "c7614ece23e8",
-          "title": "Home Assistant 闹了个 AI 乌龙，但智能家居真要变天了",
-          "desc": "AI Agent 让全屋设备真正「活」起来。",
+          "id": "3512f938bf8d",
+          "title": "微信AI全网最细体验，我又爱上了刷朋友圈",
+          "desc": "14 亿人从这开始拥抱 Agent",
           "source": "36氪",
           "date": "2026-06-23",
           "dateLabel": "6月23日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3865205179955846",
-          "image": "https://img.36krcdn.com/hsossms/20260623/v2_7058d06b501443138880d2367c4ebd42@5091053@ai_oswg986588oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3865706037924872",
+          "image": "https://img.36krcdn.com/hsossms/20260623/v2_2d3d4e130a3741719aa6d0f64a57dca9@46958@ai_oswg943027oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "7a722486c2b4",
-          "title": "战胜Mythos 5，OpenAI安全专用GPT-5.5-Cyber完全体来了",
-          "desc": "网友并不买账：你倒是发GPT-5.6啊",
+          "id": "466f434b0596",
+          "title": "当AI智能体走进伊利一线服务，导购和达人营销有了新解法",
+          "desc": "面对越来越专业的消费者，伊利把AI智能体放进导购、社群、达人营销等快消一线场景，借助腾讯云智能体开发平台ADP",
           "source": "36氪",
           "date": "2026-06-23",
           "dateLabel": "6月23日",
           "tags": [
-            "model",
-            "policy"
-          ],
-          "url": "https://36kr.com/p/3865210294277122",
-          "image": "https://img.36krcdn.com/hsossms/20260623/v2_2deb0cf5769647839f57afad52b3c69d@5091053@ai_oswg1131534oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "e99eb64c8450",
-          "title": "从用户决策到Agent参与，值得买科技分享AI时代品牌经营新课题",
-          "desc": "朱越出席WAVES大会，分享AI时代品牌营销新解法",
-          "source": "36氪",
-          "date": "2026-06-23",
-          "dateLabel": "6月23日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3865177262101513",
-          "image": "https://img.36krcdn.com/hsossms/20260623/v2_9c450aa906304bb0840ac64c9143a2b2@6381723_oswg796940oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "5947823d27ef",
-          "title": "出走、不握手、联合谷歌，Anthropic达里奥开火奥特曼：大模型行业里有的人根本不值得信任",
-          "desc": "5 年估值近万亿美元，“在收入上，我们已经超越了 OpenAI。”",
-          "source": "36氪",
-          "date": "2026-06-23",
-          "dateLabel": "6月23日",
-          "tags": [
-            "model",
-            "business"
-          ],
-          "url": "https://36kr.com/p/3865167945143561",
-          "image": "https://img.36krcdn.com/hsossms/20260623/v2_43f13a56ade14e8ba930b3ccc2e9aa2e@5091053@ai_oswg970962oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "d2bad97bc589",
-          "title": "一边拥抱，一边质疑：游戏公司开始放弃AI ？",
-          "desc": "从“能不能用”，到“该怎么用”",
-          "source": "36氪",
-          "date": "2026-06-23",
-          "dateLabel": "6月23日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3865171102389257",
-          "image": "https://img.36krcdn.com/hsossms/20260623/v2_36e5115ff37440ee835ce820c77c1b24@5091053@ai_oswg995441oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "3e097b8dac70",
-          "title": "尴尬了，OpenAI刚派GPT-5.5-Cyber修补地球，Codex却爆出致命bug",
-          "desc": "今天，OpenAI祭出满血GPT-5.5-Cyber，要给全世界的开源代码修漏洞。结果话音刚落，Codex被扒出史诗级bug：一年狂写640TB，能把SSD直接写废。",
-          "source": "36氪",
-          "date": "2026-06-23",
-          "dateLabel": "6月23日",
-          "tags": [
-            "model",
             "business",
             "cn"
           ],
-          "url": "https://36kr.com/p/3865123828093957",
-          "image": "https://img.36krcdn.com/hsossms/20260623/v2_f431f6f05a2a497ab4f1fe74113712a4@5091053@ai_oswg1116995oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3865187393934598",
+          "image": "https://img.36krcdn.com/hsossms/20260623/v2_f382d440f9b1482a92f6f7e413a7e8bb@000000_oswg51366oswg897oswg383_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
           "color": "#2563eb"
         },
         {
-          "id": "aaabee264b6e",
-          "title": "200块薅出1.4万算力，OpenAI被薅秃了？",
-          "desc": "AI领域最厉害的营销",
+          "id": "150ff81580a2",
+          "title": "不止于记录，思必驰让AI散会之后继续干活",
+          "desc": "在AI会议工具已经能完成录音、转写和纪要之后，真正的痛点转向了会后执行。",
           "source": "36氪",
           "date": "2026-06-23",
           "dateLabel": "6月23日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3865125479519490",
-          "image": "https://img.36krcdn.com/hsossms/20260623/v2_fd72c6f8db8e4268a2b119e58971f789@5091053@ai_oswg1031768oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3865716311446791",
+          "image": "https://img.36krcdn.com/hsossms/20260623/v2_6ffabeb6430c48aa984f57925dc7889f@000000_oswg28462oswg607oswg608_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
           "color": "#2563eb"
+        },
+        {
+          "id": "774d8d1dabe7",
+          "title": "正行创新完成近亿美元天使轮融资，正大集团、华勤技术等多家上市企业联合加持",
+          "desc": "以“数据—模型—基础设施”系统性协同通往物理智能",
+          "source": "量子位",
+          "date": "2026-06-23",
+          "dateLabel": "6月23日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/06/437694.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "548ea0cd4edc",
+          "title": "云计算一哥，让小鹏、Kimi和猎豹都爽了一把",
+          "desc": "Agentic AI爆发的拐点已然来临",
+          "source": "量子位",
+          "date": "2026-06-23",
+          "dateLabel": "6月23日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/06/437672.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "c1a5a594bfff",
+          "title": "刚刚，豆包2.1发布！Agent自己跑18个小时搞定芯片设计代码",
+          "desc": "编程比肩Opus 4.7",
+          "source": "量子位",
+          "date": "2026-06-23",
+          "dateLabel": "6月23日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/06/437503.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "85530cdbb81f",
+          "title": "57场面试杀进OpenAI！华人博士开源「AI面经」，含泪推荐",
+          "desc": "希望你能找到快乐",
+          "source": "量子位",
+          "date": "2026-06-23",
+          "dateLabel": "6月23日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/06/437425.html",
+          "image": "",
+          "color": "#7c3aed"
         }
       ]
     },
@@ -3073,28 +3194,6 @@
           "color": "#2563eb"
         }
       ]
-    },
-    {
-      "date": "2026-05-21",
-      "dateLabel": "5月21日",
-      "id": "d21",
-      "items": [
-        {
-          "id": "f7fc25f81417",
-          "title": "腾讯混元开源全新翻译模型Hy-MT2 ，上线小程序「腾讯Hy翻译」",
-          "desc": "最大提升体现在指令遵循能力上",
-          "source": "量子位",
-          "date": "2026-05-21",
-          "dateLabel": "5月21日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/05/422068.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -3120,6 +3219,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-06-23 14:05",
-  "totalNews": 198
+  "updateTime": "2026-06-24 14:05",
+  "totalNews": 205
 }
