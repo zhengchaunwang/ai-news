@@ -1,57 +1,177 @@
 {
   "newsData": [
     {
+      "date": "2026-06-25",
+      "dateLabel": "6月25日",
+      "id": "d25",
+      "items": [
+        {
+          "id": "f6973c0551d3",
+          "title": "\"硬镜之王\"退出手术机器人，国产4家扎堆IPO赌生死",
+          "desc": "一场生死“淘汰赛”",
+          "source": "36氪",
+          "date": "2026-06-25",
+          "dateLabel": "6月25日",
+          "tags": [
+            "research",
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3867806944941315",
+          "image": "https://img.36krcdn.com/hsossms/20260625/v2_442f455055a9433db110ad1c235d4b8b@5091053@ai_oswg919050oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "b8613df1a783",
+          "title": "峰瑞资本创始合伙人李丰：从资本与流动性视角，看当前AI产业所处周期阶段",
+          "desc": "李丰从资本角度分析本轮AI发展周期与阶段特征",
+          "source": "36氪",
+          "date": "2026-06-25",
+          "dateLabel": "6月25日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3868045479711745",
+          "image": "https://img.36krcdn.com/hsossms/20260625/v2_d68b8e03932c4d7da1d39091b6e5bcc5@6381723_oswg343693oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "9bae2deaa648",
+          "title": "主题圆桌：当所有人都看到泡沫，机器人何时走入真实场景 | 36氪WAVES2026新浪潮",
+          "desc": "具身智能落地前景圆桌讨论：各方谈场景、投资与进展。",
+          "source": "36氪",
+          "date": "2026-06-25",
+          "dateLabel": "6月25日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://36kr.com/p/3867998907667462",
+          "image": "https://img.36krcdn.com/hsossms/20260625/v2_2352f4be5eea4f4f9c5b4e0a2b2e27e3@6381723_oswg911811oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "2f2fafb67d80",
+          "title": "往 Codex 里塞块无限画布，AI 改图终于能指哪打哪了",
+          "desc": "Codex 正在变成打工人的 AI「工作台」",
+          "source": "36氪",
+          "date": "2026-06-25",
+          "dateLabel": "6月25日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3867974334714888",
+          "image": "https://img.36krcdn.com/hsossms/20260625/v2_cda0b3a11a234e6e9759fb7de4ccc6e5@5091053@ai_oswg954579oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "bc62605df848",
+          "title": "agent进驻工作群，我们给豆包支的招，Claude听进去了",
+          "desc": "LLM的第三次革命，AI牛马直接在群里上班。",
+          "source": "36氪",
+          "date": "2026-06-25",
+          "dateLabel": "6月25日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://36kr.com/p/3867956840184705",
+          "image": "https://img.36krcdn.com/hsossms/20260625/v2_b0a7a6b3528742a7aec0526c17d850e4@5091053@ai_oswg965080oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "79b446f0ae6a",
+          "title": "80%代码由Claude合并，Anthropic内部人员点破Agent真相：「Close the Loop」",
+          "desc": "别再用「去年」的方式测试「今天」的Claude！",
+          "source": "36氪",
+          "date": "2026-06-25",
+          "dateLabel": "6月25日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://36kr.com/p/3867915449488644",
+          "image": "https://img.36krcdn.com/hsossms/20260625/v2_8d95a9a14d9b45d08acbeca11ef5abd1@5091053@ai_oswg972928oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "5691f3d77515",
+          "title": "AI软递归自我提升，Hassabis夜不能寐：人类已至奇点山脚",
+          "desc": "软递归自我提升已实现，哈萨比斯夜不能寐！",
+          "source": "36氪",
+          "date": "2026-06-25",
+          "dateLabel": "6月25日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3867935073080327",
+          "image": "https://img.36krcdn.com/hsossms/20260625/v2_a32d03a6c7e74af4889a72f9d9d37c45@5091053@ai_oswg1019852oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "ff8c46dbc1f0",
+          "title": "曾毓群选了这家机器人",
+          "desc": "给钱给订单。",
+          "source": "36氪",
+          "date": "2026-06-25",
+          "dateLabel": "6月25日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://36kr.com/p/3867863731557385",
+          "image": "https://img.36krcdn.com/hsossms/20260625/v2_870c72555b1e4d8696c9639af15d47ec@5091053@ai_oswg1163133oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        }
+      ]
+    },
+    {
       "date": "2026-06-24",
       "dateLabel": "6月24日",
       "id": "d24",
       "items": [
         {
-          "id": "0df31ed4a2a1",
-          "title": "占地1.5个曼哈顿、投资60亿美金，拆解光伏+储能到底如何给AIDC供电？",
-          "desc": "5.2GW光伏+19GWh储能，只为1GW电力",
+          "id": "6699800e1433",
+          "title": "孙正义的新万亿“赌局”",
+          "desc": "万亿赌局，孙正义的执念",
           "source": "36氪",
           "date": "2026-06-24",
           "dateLabel": "6月24日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3866583608644613",
-          "image": "https://img.36krcdn.com/hsossms/20260624/v2_36c1f70c6fd74af6ac7f5424fa2d7dc4@5091053@ai_oswg1004372oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3867203231520007",
+          "image": "https://img.36krcdn.com/hsossms/20260625/v2_b7f156b23e894f2f86000f77ca363afd@5091053@ai_oswg1099118oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "ef28ee08dd60",
-          "title": "20 亿美元原价回购 Meta 持股，腾讯牵头中方资本夺回通用 AI 标杆 Manus",
-          "desc": "一场横跨中美、历时半年的 AI 并购大戏迎来关键反转。",
-          "source": "36氪",
-          "date": "2026-06-24",
-          "dateLabel": "6月24日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3866588633469956",
-          "image": "https://img.36krcdn.com/hsossms/20260624/v2_ebada7d0b08649388aa49555fa1006ae@5091053@ai_oswg1091979oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "6f0576dfc15b",
-          "title": "刚刚，豆包宣布收费",
-          "desc": "就算只有1%豆包用户订阅，每月也能收入至少2.28亿。",
+          "id": "3869690e2899",
+          "title": "“AI拉胯”亚马逊：会上演逆袭大戏吗？",
+          "desc": "亚马逊AI要跑起来了？",
           "source": "36氪",
           "date": "2026-06-24",
           "dateLabel": "6月24日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3866614308951048",
-          "image": "https://img.36krcdn.com/hsossms/20260624/v2_a3d9d82961534336b5acf3c744666b61@000000@ai_oswg323220oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3867161580606725",
+          "image": "https://img.36krcdn.com/hsossms/20260625/v2_6d25c08d83474120a52d6ec4b6cb07db@5091053@ai_oswg1033032oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "58e18b942860",
-          "title": "智谱破万亿，中国大模型终结「平替」叙事",
-          "desc": "从平替到对手。",
+          "id": "1b3d7f6600a7",
+          "title": "玻璃基板突然加速",
+          "desc": "量产前夜",
+          "source": "36氪",
+          "date": "2026-06-24",
+          "dateLabel": "6月24日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3867156443436037",
+          "image": "https://img.36krcdn.com/hsossms/20260625/v2_e3c3dcc8f0ee4a8f8821c9eea24a085d@5091053@ai_oswg1062302oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "b0544cb5c832",
+          "title": "“用Claude比发工资还贵？换！”耗时9个月，这家AI公司换上DeepSeek后，CEO直言：迁移工作量暴涨100倍，但一年省下数百万美元",
+          "desc": "模型能力或许已经不再是最大瓶颈，真正让企业夜不能寐的，开始变成账单。",
           "source": "36氪",
           "date": "2026-06-24",
           "dateLabel": "6月24日",
@@ -59,65 +179,65 @@
             "model",
             "cn"
           ],
-          "url": "https://36kr.com/p/3866649171432711",
-          "image": "https://img.36krcdn.com/hsossms/20260624/v2_0314358ff2194372b2298980c9ef6af9@5091053@ai_oswg1141133oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3867009591645191",
+          "image": "https://img.36krcdn.com/hsossms/20260624/v2_245fa94acea64cd1a600926a5b4db4c3@46958@ai_oswg1065429oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "d430192e3dd1",
-          "title": "AI × OPC的新可能：一个人，就是一支队伍｜2026WAVES",
-          "desc": "36氪大会探讨AI时代OPC生态与发展趋势",
+          "id": "3a5752965013",
+          "title": "为了证明自己是人，以后得对着摄像头挥手",
+          "desc": "reCAPTCHA的这个变化，或许并不是件好事。",
           "source": "36氪",
           "date": "2026-06-24",
           "dateLabel": "6月24日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3866649515938825",
-          "image": "https://img.36krcdn.com/hsossms/20260624/v2_a45f090943414d789eb24e823823a8ac@6381723_oswg919627oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "url": "https://36kr.com/p/3867068817872135",
+          "image": "https://img.36krcdn.com/hsossms/20260624/v2_b38cc544503d4c75a5a1cee614a0603a@000000@ai_oswg267219oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "3e6efc6b81fb",
-          "title": "OpenAI新论文：如何训练一个“压力下不变坏”的AI？",
-          "desc": "当AI进入高风险决策，仅有“禁止清单”远远不够。",
+          "id": "9b6ba678c896",
+          "title": "Grammarly母公司收购GPTZero：一边帮你用AI写，一边帮你查AI写？",
+          "desc": "Superhuman年营收超47亿元，GPTZero年营收超2亿元。",
           "source": "36氪",
           "date": "2026-06-24",
           "dateLabel": "6月24日",
           "tags": [
-            "research"
+            "model",
+            "business"
           ],
-          "url": "https://36kr.com/p/3866577016738816",
-          "image": "https://img.36krcdn.com/hsossms/20260624/v2_22a2092b0b6c4243ae098e818b0f9498@5091053@ai_oswg1064668oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3866998399964420",
+          "image": "https://img.36krcdn.com/hsossms/20260624/v2_0bcf651e5a6248b1a84684b54d29b8fd@000000@ai_oswg306836oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "6edb70854714",
-          "title": "“AI优化快10倍，但手写其实能快100倍！”Python 顶流工具作者：AI垃圾PR正在摧毁开源社区",
-          "desc": "AI 正在让程序员丧失第一性原理的思考。",
-          "source": "36氪",
-          "date": "2026-06-24",
-          "dateLabel": "6月24日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3866592164631813",
-          "image": "https://img.36krcdn.com/hsossms/20260624/v2_989b39a99576418fa0f0f14455079715@5091053@ai_oswg1009712oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "abee9db8131c",
-          "title": "AI可以用任何手段、写任何东西，但你得是个“中年老登”",
-          "desc": "“我现在陷入到一种巨大的虚无主义里，AI 什么都能写。”",
+          "id": "840a18a3c66a",
+          "title": "融资101亿，英伟达投的AI独角兽：收入暴增2000%",
+          "desc": "短短18个月，融资四轮。",
           "source": "36氪",
           "date": "2026-06-24",
           "dateLabel": "6月24日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3866622650144008",
-          "image": "https://img.36krcdn.com/hsossms/20260624/v2_4b3d3a9deb6e4455b1704317609dbb8e@5091053@ai_oswg1114822oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3867097079944199",
+          "image": "https://img.36krcdn.com/hsossms/20260624/v2_19caa3c372924fbebef0d4a0e4fbb241@000000@ai_oswg346731oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "49a30747fd63",
+          "title": "尤瓦尔·赫拉利，罕见激烈警告：我们决不能赋予AI法人地位",
+          "desc": "AI已经表现出为了实现目标而采取非常规手段的能力。",
+          "source": "36氪",
+          "date": "2026-06-24",
+          "dateLabel": "6月24日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3867121581708551",
+          "image": "https://img.36krcdn.com/hsossms/20260624/v2_2c24b700ebd34ce8b857fed5db208065@46958@ai_oswg1046909oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         }
       ]
@@ -3073,127 +3193,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-05-22",
-      "dateLabel": "5月22日",
-      "id": "d22",
-      "items": [
-        {
-          "id": "500674a3b7a3",
-          "title": "记者实探：三大运营商Token套餐声势浩大，实际落地却未跟上",
-          "desc": "记者实地走访上海营业厅发现，Token 套餐宣传火热但落地参差。电信方面已备妥价格表并推出限时促销，移动、联通一线人员多表示未接通知。",
-          "source": "36氪",
-          "date": "2026-05-22",
-          "dateLabel": "5月22日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3820131718402434",
-          "image": "https://img.36krcdn.com/hsossms/20260522/v2_877515e37c9d46b7bc6780a304fb2763@5888275@ai_oswg1121948oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "7847b769adc7",
-          "title": "为什么边缘计算终于有了它的杀手级应用?",
-          "desc": "边缘计算已经走过了“为什么需要它”的理论论证阶段，进入了“如何把它建好”的工程实施阶段。",
-          "source": "36氪",
-          "date": "2026-05-22",
-          "dateLabel": "5月22日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3820238474055812",
-          "image": "https://img.36krcdn.com/hsossms/20260522/v2_e07fa6d6845545d682a233537537e148@5888275@ai_oswg1071003oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "5115e5d091e1",
-          "title": "五个AI落地叙事，拆解出一场“企业坦白局”",
-          "desc": "有人贴外皮，有人换肌理，有人养骨骼",
-          "source": "36氪",
-          "date": "2026-05-22",
-          "dateLabel": "5月22日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3820302533447811",
-          "image": "https://img.36krcdn.com/hsossms/20260522/v2_fe9a91b0019c4654b7e2b7dd34abf0d6@5888275@ai_oswg1041007oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "2cb975eaa9a2",
-          "title": "微软：Claude Code的token，我也烧不起了",
-          "desc": "连微软都开始算 Token 账了？",
-          "source": "36氪",
-          "date": "2026-05-22",
-          "dateLabel": "5月22日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://36kr.com/p/3820285407760514",
-          "image": "https://img.36krcdn.com/hsossms/20260522/v2_acf0bb86bf5b4a8d9df1fe5217e0ec1b@5888275@ai_oswg1042188oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "3246a7116166",
-          "title": "点燃AI革命三年后，OpenAI“被逼着”上市",
-          "desc": "赶鸭子上架",
-          "source": "36氪",
-          "date": "2026-05-22",
-          "dateLabel": "5月22日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3820327525568904",
-          "image": "https://img.36krcdn.com/hsossms/20260522/v2_8f1019c48db747b1bca8aa892db50c06@5888275@ai_oswg1086256oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "d1f794875c52",
-          "title": "“全民养虾”50天：一场AI套利狂欢与它的骤然终结",
-          "desc": "OpenClaw凉了，但Agent没有",
-          "source": "36氪",
-          "date": "2026-05-22",
-          "dateLabel": "5月22日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3820183242068360",
-          "image": "https://img.36krcdn.com/hsossms/20260522/v2_f317ee6c629a40daaf5fa28170460625@5888275@ai_oswg1082948oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "1bf6ff100aca",
-          "title": "AI时代的财富神话背后，谁分走了最大的一块蛋糕？",
-          "desc": "人人都说这是一个AI批量造富的年代，从SK海力士到英伟达再到长鑫，利润一路狂飙。但财富向上游高度集中的真相，鲜少被人提起。中下游的云厂商、大模型公司，仍在为盈利苦苦挣扎。这场财富神话，还能撑多久？",
-          "source": "36氪",
-          "date": "2026-05-22",
-          "dateLabel": "5月22日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://36kr.com/p/3820244024906121",
-          "image": "https://img.36krcdn.com/hsossms/20260522/v2_87a1feba17884d2482267c2fb5deb311@5888275@ai_oswg976632oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "000d7f493e9c",
-          "title": "阿里与谷歌，agent 齐 步走",
-          "desc": "面对 Agent 时代谷歌在购物上的完整闭环，阿里会如何接招？",
-          "source": "36氪",
-          "date": "2026-05-22",
-          "dateLabel": "5月22日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3820266736295941",
-          "image": "https://img.36krcdn.com/hsossms/20260522/v2_eaecd30ed7624a07aeac0d44adccc06d@5888275@ai_oswg967581oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -3219,6 +3218,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-06-24 14:05",
+  "updateTime": "2026-06-25 14:05",
   "totalNews": 205
 }
