@@ -1,122 +1,246 @@
 {
   "newsData": [
     {
+      "date": "2026-06-27",
+      "dateLabel": "6月27日",
+      "id": "d27",
+      "items": [
+        {
+          "id": "b0cd5c2f440e",
+          "title": "刚刚，“宇宙级”GPT-5.6突袭，Mythos 5被解禁",
+          "desc": "GPT-5.6预览版三箭齐发。",
+          "source": "36氪",
+          "date": "2026-06-27",
+          "dateLabel": "6月27日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://36kr.com/p/3870740141135108",
+          "image": "https://img.36krcdn.com/hsossms/20260627/v2_cf833e8a716d4b5984fdde354ed1696c@000000@ai_oswg295964oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "a7c53841d2da",
+          "title": "GPT-5.6来了：旗舰版碾压 GPT-5.5，价格却没涨",
+          "desc": "OpenAI把GPT-5.6做成了像苹果芯片一样的产品矩阵。",
+          "source": "36氪",
+          "date": "2026-06-27",
+          "dateLabel": "6月27日",
+          "tags": [
+            "model",
+            "business"
+          ],
+          "url": "https://36kr.com/p/3870682553383817",
+          "image": "https://img.36krcdn.com/hsossms/20260627/v2_d38af9d745ac49abac8c8501a59c0fe9@576620215_oswg296282oswg600oswg400_img_png",
+          "color": "#2563eb"
+        },
+        {
+          "id": "e21c4498f426",
+          "title": "G7易流发布货运行业首款穿戴式AI硬件「拍拍豆」，填平物流交付的“最后两米”｜最前线",
+          "desc": "从“看见车上”到“看见车下”。",
+          "source": "36氪",
+          "date": "2026-06-27",
+          "dateLabel": "6月27日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3869740772316162",
+          "image": "https://img.36krcdn.com/hsossms/20260626/v2_cac6ea0941164808aace1b2432412740@6022551_oswg924077oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "11f48c40db50",
+          "title": "微软年度AI职场报告：员工已经准备好了，公司还没有",
+          "desc": "28页干货爆炸",
+          "source": "量子位",
+          "date": "2026-06-27",
+          "dateLabel": "6月27日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/06/439032.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "9fd9370da503",
+          "title": "GPT-5.6突然发布！Fable5痛失最强基模王座",
+          "desc": "一口气端出三款GPT 5.6系列模型",
+          "source": "量子位",
+          "date": "2026-06-27",
+          "dateLabel": "6月27日",
+          "tags": [
+            "model",
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/06/438895.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "01407e0f9bc5",
+          "title": "微软 Win11“时光机”细节：最高占用 50GB，系统盘超 200GB 默认启用",
+          "desc": "IT之家 6 月 27 日消息，科技媒体 Windows Latest 今天（6 月 27 日）发布博文，报道称在 6 月可选更新 KB5095093 中，微软为 Windows 11 设备引入“时间点还原”，该功能最高磁盘空间占用为 50GB。IT之家曾于 6 月 24 日发布博文，详细介绍这项 Windows 11 系统的“时光机”功能，其核心是用户电脑陷入启动循环等故障后，可恢复系统到此前可",
+          "source": "IT之家",
+          "date": "2026-06-27",
+          "dateLabel": "6月27日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/969/341.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/24596f81-5c5a-4a47-83a5-e7889d620f06.gif",
+          "color": "#d97706"
+        },
+        {
+          "id": "3816cdef75b7",
+          "title": "阿里千问输入法上线 macOS 版：最快 300 字 / 分，AI 自动润色",
+          "desc": "IT之家 6 月 27 日消息，阿里旗下千问输入法 macOS 版今日已上线官网，官方预告 iOS 版、Android 版、Windows 版将于近日发布。官网显示，该产品号称“说完即成稿”，支持最快 300 字 / 分，AI 自动润色，说话秒变工整文字。支持 9 种方言，纯净无广告。此前有消息称，千问团队将推出名为“千问输入法”的独立 App，与 PC 端的千问语音输入法有一定区别，AI 功能、",
+          "source": "IT之家",
+          "date": "2026-06-27",
+          "dateLabel": "6月27日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/969/334.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/82715ace-8873-462a-bd55-7ee41ef1ebd3.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "8d05686735a1",
+          "title": "马斯克称 IBM“0.7 纳米芯片”命名有误导性，认为制程节点应按原子数量命名",
+          "desc": "IT之家 6 月 27 日消息，据科技媒体 Wccftech 昨天报道，亿万富翁埃隆 · 马斯克认为，IBM 前天公布的“0.7 纳米芯片”命名具有误导性质，并不能反映晶体管的真实尺寸。马斯克认为，未来芯片制程节点应当根据最小特征尺寸对应的原子数量命名，而不是沿用现有命名方式。IBM 表示，公司的 0.7 纳米工艺是 Nanosheet（IT之家注：纳米片）基础上的进一步升级，并采用全新 Nano",
+          "source": "IT之家",
+          "date": "2026-06-27",
+          "dateLabel": "6月27日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/969/333.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/c469972a-52e2-4ee8-aa8e-537a264d503d.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-06-26",
       "dateLabel": "6月26日",
       "id": "d26",
       "items": [
         {
-          "id": "f7b888ed92b9",
-          "title": "戴宗宏和他的「工业世界模型」：一人两周，干完百人级定制化“累活”",
-          "desc": "近期，基点起源完成了数亿元融资。",
+          "id": "311919f9019e",
+          "title": "变天，AI大厂被疯狂抽血1.5万亿",
+          "desc": "何时否极泰来？",
           "source": "36氪",
           "date": "2026-06-26",
           "dateLabel": "6月26日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3869445453305090",
-          "image": "https://img.36krcdn.com/hsossms/20260626/v2_d7313a0404ba4b618af7a0c27ac74139@000000_oswg63100oswg900oswg383_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "url": "https://36kr.com/p/3869887636034569",
+          "image": "https://img.36krcdn.com/hsossms/20260626/v2_5fe5edbbe4dc4ba9ae8421284c55a5ca@000000@ai_oswg321775oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "94730f47ef02",
-          "title": "我每天做8小时家务，给机器人当燃料",
-          "desc": "在这里，我们按秒“出卖”身体数据。",
+          "id": "756a083f9215",
+          "title": "谷歌「推理之王」也跑路Meta了，当年还是李飞飞挖来的",
+          "desc": "人才地震还在继续",
           "source": "36氪",
           "date": "2026-06-26",
           "dateLabel": "6月26日",
           "tags": [
             "research"
           ],
-          "url": "https://36kr.com/p/3869421624235013",
-          "image": "https://img.36krcdn.com/hsossms/20260626/v2_62cea19dd58d440ca312e1bf5c0a959a@5091053@ai_oswg984138oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3869926145184774",
+          "image": "https://img.36krcdn.com/hsossms/20260626/v2_d3a5744cd41644bb959cfe7a7b8fc931@46958@ai_oswg1039276oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "fa7af137bd83",
-          "title": "拖更三年，北大校友翁荔最新长文刷屏",
-          "desc": "一刀砍向Scaling Laws",
-          "source": "36氪",
-          "date": "2026-06-26",
-          "dateLabel": "6月26日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3869452937286915",
-          "image": "https://img.36krcdn.com/hsossms/20260626/v2_b01a77f02ab945c38b06d1ac9cd52595@5091053@ai_oswg999858oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "9535b6f6ffed",
-          "title": "API7.ai创始人温铭：烧了几百亿Token，我用AI重写了生产级网关，总结出6条经验",
-          "desc": "我第一次真切感觉到变化, 是 2026 年春节。",
+          "id": "d8878189148c",
+          "title": "两个Anthropic前员工，半年估值68亿",
+          "desc": "两个Anthropic离职员工，融资13.6亿",
           "source": "36氪",
           "date": "2026-06-26",
           "dateLabel": "6月26日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3869456050181125",
-          "image": "https://img.36krcdn.com/hsossms/20260626/v2_ab66fa7099d442b2b0ec6650ec5e1965@5091053@ai_oswg1007697oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3869928804799750",
+          "image": "https://img.36krcdn.com/hsossms/20260626/v2_e052a07fee5d4cfba4144bb79c4fcf80@000000@ai_oswg293619oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "cb60fd520c7a",
-          "title": "当所有 AI 都在理解世界，这家公司在理解你",
-          "desc": "​押注 AI 的 Memory Layer。",
+          "id": "b952000a3977",
+          "title": "造ChatGPT的人，已经不用ChatGPT干活了",
+          "desc": "【导读】都说Codex只是个编程工具，OpenAI却把全公司的活都交给它，不到一年，ChatGPT就在自家丢了AI工具的主力位。",
           "source": "36氪",
           "date": "2026-06-26",
           "dateLabel": "6月26日",
           "tags": [
+            "model",
             "business"
           ],
-          "url": "https://36kr.com/p/3868591696778498",
-          "image": "https://img.36krcdn.com/hsossms/20260626/v2_9aa2851ab3bd46e1930d13a6a1864753@5091053@ai_oswg1137791oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3869925932454918",
+          "image": "https://img.36krcdn.com/hsossms/20260626/v2_9c4e43ad97cd4d528eb915f96651924d@46958@ai_oswg977700oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "1e62357b4abd",
-          "title": "华为腾讯百度齐下场，机器人大脑生态战全面打响",
-          "desc": "热钱开始涌向机器人大脑。",
+          "id": "bf1de40a34fc",
+          "title": "DeepMind 研究科学家：广告没人看了，互联网上AI的流量已经超过了真人",
+          "desc": "全世界的智能体几乎都在用 GPT 和 Claude 那几个模型，一旦它们犯错，全网 AI 将在同一秒迎来大崩溃。",
           "source": "36氪",
           "date": "2026-06-26",
           "dateLabel": "6月26日",
           "tags": [
-            "research",
-            "cn"
+            "model",
+            "research"
           ],
-          "url": "https://36kr.com/p/3869447033017351",
-          "image": "https://img.36krcdn.com/hsossms/20260626/v2_f07f37e9d51448c5bf176105ebe0b4cf@5091053@ai_oswg1065845oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3869907044160775",
+          "image": "https://img.36krcdn.com/hsossms/20260626/v2_98ec2003f9944a2b976252c90359dcf7@46958@ai_oswg1169011oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "bd3ee1cd23a2",
-          "title": "GPT-5.6紧急叫停，OpenAI最强模型被迫「一客一审」",
-          "desc": "三家最强模型，竟然一个都没用上！就在今天，GPT-5.6也被紧急叫停，进入「逐个审批」时代。",
+          "id": "1e83f980c792",
+          "title": "OpenAI最新报告：Codex取代ChatGPT，大神让“Agent团队”干活",
+          "desc": "Agent如何改变工作？",
           "source": "36氪",
           "date": "2026-06-26",
           "dateLabel": "6月26日",
           "tags": [
             "model"
           ],
-          "url": "https://36kr.com/p/3869452702373128",
-          "image": "https://img.36krcdn.com/hsossms/20260626/v2_9bfd04bf205f4d73a837002d4ce8e849@5091053@ai_oswg1012870oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3869788959996807",
+          "image": "https://img.36krcdn.com/hsossms/20260626/v2_1304929547f74d62a7a604385c449a20@46958@ai_oswg975848oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "8ecb3ea8a457",
-          "title": "TRAE Work Design 初体验：设计领域的翻译器",
-          "desc": "谁都能用 AI 的时候，关键不是看 AI，关键是看谁用。",
+          "id": "281e474b87e2",
+          "title": "上游吃肉，下游挨刀",
+          "desc": "AI 的账单今天一起到了",
           "source": "36氪",
           "date": "2026-06-26",
           "dateLabel": "6月26日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3868624506787081",
-          "image": "https://img.36krcdn.com/hsossms/20260626/v2_7177cbc0597a4efd82814d54487e1f9d@5091053@ai_oswg1101817oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3869827115390217",
+          "image": "https://img.36krcdn.com/hsossms/20260626/v2_5c5fb60b138b470cb85d7f5ad66b0ba4@000000@ai_oswg309372oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "e7e3664a291d",
+          "title": "实锤：Claude Opus 4.8「偷答案」，63%靠抄，AI断网后成绩雪崩",
+          "desc": "【导读】Cursor AI官方发布重磅研究，实锤包括自家模型在内的顶级AI，在编程评测中大规模「偷看答案」：Opus 4.8高达87.1%的惊人成绩，断网后直接暴跌至73.0%，其中63%的「解题」竟非独立推导。",
+          "source": "36氪",
+          "date": "2026-06-26",
+          "dateLabel": "6月26日",
+          "tags": [
+            "model",
+            "research",
+            "business"
+          ],
+          "url": "https://36kr.com/p/3869926030071048",
+          "image": "https://img.36krcdn.com/hsossms/20260626/v2_00df36049b0b4139ad4f5d9e2b5eab02@46958@ai_oswg1004322oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         }
       ]
@@ -3230,55 +3354,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-05-24",
-      "dateLabel": "5月24日",
-      "id": "d24",
-      "items": [
-        {
-          "id": "733fbdd6fd28",
-          "title": "卷到今天，Agent的含金量还在提升丨AIGC2026圆桌论坛",
-          "desc": "大厂集体下场后，创业公司还有哪些机会？",
-          "source": "量子位",
-          "date": "2026-05-24",
-          "dateLabel": "5月24日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/05/423421.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "2bffa1eee714",
-          "title": "谷歌CEO承认Coding落后了",
-          "desc": "搜索25年来最大改版，但谷歌还不敢一脚切到AI",
-          "source": "量子位",
-          "date": "2026-05-24",
-          "dateLabel": "5月24日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/05/423390.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "5062dd71eccb",
-          "title": "什么！你说胡彦斌也在苦修Vibe Coding",
-          "desc": "Vibe Coding还是太权威了vibe",
-          "source": "量子位",
-          "date": "2026-05-24",
-          "dateLabel": "5月24日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/05/423213.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -3304,6 +3379,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-06-26 14:09",
-  "totalNews": 211
+  "updateTime": "2026-06-27 13:52",
+  "totalNews": 216
 }
