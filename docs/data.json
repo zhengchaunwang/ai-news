@@ -1,10 +1,210 @@
 {
   "newsData": [
     {
+      "date": "2026-06-28",
+      "dateLabel": "6月28日",
+      "id": "d28",
+      "items": [
+        {
+          "id": "be4cd50a41a6",
+          "title": "省钱，我只服梁文锋",
+          "desc": "DeepSeek再也不崩了，原因藏在一篇论文里",
+          "source": "36氪",
+          "date": "2026-06-28",
+          "dateLabel": "6月28日",
+          "tags": [
+            "model",
+            "research",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3872317927766915",
+          "image": "https://img.36krcdn.com/hsossms/20260628/v2_0146a12b0e534f7aa3282e73bdfcb979@000000_oswg53404oswg940oswg399_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "241fa682a843",
+          "title": "Transformer的八个爹，如今都在哪？",
+          "desc": "八位作者没有一个人停止寻找下一个答案",
+          "source": "36氪",
+          "date": "2026-06-28",
+          "dateLabel": "6月28日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3872257909068806",
+          "image": "https://img.36krcdn.com/hsossms/20260628/v2_06584f7f940741a9bb02ce4e9fb90b8c@000000@ai_oswg427627oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "cb2d9d5f4350",
+          "title": "急眼的Anthropic炒作蒸馏，背后是叙事权之战",
+          "desc": "定义权竞争、解释权竞争、合法性竞争",
+          "source": "36氪",
+          "date": "2026-06-28",
+          "dateLabel": "6月28日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3871394526155777",
+          "image": "https://img.36krcdn.com/hsossms/20260628/v2_29cce0406e524b4796d6ba9975657404@1200352198_oswg798928oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "21782f5eebb8",
+          "title": "GPT-5.6刚发布就被限流，海外断供却成了国产AI利好？",
+          "desc": "海外受限，国产破局。",
+          "source": "36氪",
+          "date": "2026-06-28",
+          "dateLabel": "6月28日",
+          "tags": [
+            "model",
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3871402277059202",
+          "image": "https://img.36krcdn.com/hsossms/20260627/v2_2f31895ccdc24a86b4bc83ca0b00fa51@1547419282_oswg119823oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "1eb27b1ce740",
+          "title": "94年小伙融资30亿，教AI玩游戏",
+          "desc": "看人打游戏，也能训练AI。",
+          "source": "36氪",
+          "date": "2026-06-28",
+          "dateLabel": "6月28日",
+          "tags": [
+            "research",
+            "business"
+          ],
+          "url": "https://36kr.com/p/3871345089860866",
+          "image": "https://img.36krcdn.com/hsossms/20260628/v2_a0d551707ae94e5a859cc070f79e8842@1200352198_oswg841164oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "146c7922c3bd",
+          "title": "抱抱脸模型TOP榜，我现在只服yuxinlu1",
+          "desc": "在大厂中间杀出一席之地",
+          "source": "36氪",
+          "date": "2026-06-28",
+          "dateLabel": "6月28日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3872142331106568",
+          "image": "https://img.36krcdn.com/hsossms/20260628/v2_e6da0a7a90f84263a93f8451d2e30d4a@1200352198@ai_oswg1031114oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "5829585b26d3",
+          "title": "花68元，我们让豆包干完了一个小团队的活",
+          "desc": "68请不到随身秘书，却能请到豆包。",
+          "source": "36氪",
+          "date": "2026-06-28",
+          "dateLabel": "6月28日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3871443497171849",
+          "image": "https://img.36krcdn.com/hsossms/20260627/v2_f80c400c8f5444a29704877d77fbca00@1547419282_oswg842045oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "6010389ae095",
+          "title": "DeepSeek开始造富",
+          "desc": "DeepSeek走到造富前夜，普通人的机会在哪里？",
+          "source": "36氪",
+          "date": "2026-06-28",
+          "dateLabel": "6月28日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3871666646678408",
+          "image": "https://img.36krcdn.com/hsossms/20260628/v2_1abb820a3c41444097468f1ff50e0179@1200352198_oswg905584oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        }
+      ]
+    },
+    {
       "date": "2026-06-27",
       "dateLabel": "6月27日",
       "id": "d27",
       "items": [
+        {
+          "id": "0754f80d464d",
+          "title": "从“打工仔”到“化工大王”，张国荣干出1400亿港元覆铜板龙头",
+          "desc": "加码AI",
+          "source": "36氪",
+          "date": "2026-06-27",
+          "dateLabel": "6月27日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3871205562504456",
+          "image": "https://img.36krcdn.com/hsossms/20260627/v2_1fd8fec9582b45819e966cdf3317f103@000000@ai_oswg350798oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "7f1d7262b8e5",
+          "title": "梁文锋署名论文，DeepSeek首轮融资后大动作：生成速度大涨85%",
+          "desc": "DeepSeek联合北大开源新成果。",
+          "source": "36氪",
+          "date": "2026-06-27",
+          "dateLabel": "6月27日",
+          "tags": [
+            "model",
+            "research",
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3871187114448133",
+          "image": "https://img.36krcdn.com/hsossms/20260627/v2_36854004d1a44006aeafff0023a25000@000000@ai_oswg453938oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "1016d294aa9f",
+          "title": "被AI带火的“玻璃”：先进封装的隐形地基，产业价值待重估",
+          "desc": "跟踪三大核心维度",
+          "source": "36氪",
+          "date": "2026-06-27",
+          "dateLabel": "6月27日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3871173400073222",
+          "image": "https://img.36krcdn.com/hsossms/20260627/v2_89ca7b4e1d8242408086f7a617cb04d9@576620215@ai_oswg1017233oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "5f8c98ce98ea",
+          "title": "刚刚，DeepSeek V4更新DSpark，推理速度提升80%",
+          "desc": "新机制也能给 Qwen、Gemma 加速。",
+          "source": "36氪",
+          "date": "2026-06-27",
+          "dateLabel": "6月27日",
+          "tags": [
+            "model",
+            "research",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3871135542416645",
+          "image": "https://img.36krcdn.com/hsossms/20260627/v2_da10a700f1c84dc79cd1733ed8bf2581@000000@ai_oswg314186oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "a6d9f2bb28e7",
+          "title": "大神Karpathy用Claude的方式，原来是这样的？",
+          "desc": "有了它，Claude终于不再和我对着干。",
+          "source": "36氪",
+          "date": "2026-06-27",
+          "dateLabel": "6月27日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://36kr.com/p/3870932227724547",
+          "image": "https://img.36krcdn.com/hsossms/20260627/v2_0fa90285fb2e4f3cbe48ae3d7a2d91e6@000000@ai_oswg310415oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
         {
           "id": "b0cd5c2f440e",
           "title": "刚刚，“宇宙级”GPT-5.6突袭，Mythos 5被解禁",
@@ -47,78 +247,6 @@
           "url": "https://36kr.com/p/3869740772316162",
           "image": "https://img.36krcdn.com/hsossms/20260626/v2_cac6ea0941164808aace1b2432412740@6022551_oswg924077oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
           "color": "#2563eb"
-        },
-        {
-          "id": "11f48c40db50",
-          "title": "微软年度AI职场报告：员工已经准备好了，公司还没有",
-          "desc": "28页干货爆炸",
-          "source": "量子位",
-          "date": "2026-06-27",
-          "dateLabel": "6月27日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/06/439032.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "9fd9370da503",
-          "title": "GPT-5.6突然发布！Fable5痛失最强基模王座",
-          "desc": "一口气端出三款GPT 5.6系列模型",
-          "source": "量子位",
-          "date": "2026-06-27",
-          "dateLabel": "6月27日",
-          "tags": [
-            "model",
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/06/438895.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "01407e0f9bc5",
-          "title": "微软 Win11“时光机”细节：最高占用 50GB，系统盘超 200GB 默认启用",
-          "desc": "IT之家 6 月 27 日消息，科技媒体 Windows Latest 今天（6 月 27 日）发布博文，报道称在 6 月可选更新 KB5095093 中，微软为 Windows 11 设备引入“时间点还原”，该功能最高磁盘空间占用为 50GB。IT之家曾于 6 月 24 日发布博文，详细介绍这项 Windows 11 系统的“时光机”功能，其核心是用户电脑陷入启动循环等故障后，可恢复系统到此前可",
-          "source": "IT之家",
-          "date": "2026-06-27",
-          "dateLabel": "6月27日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/969/341.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/24596f81-5c5a-4a47-83a5-e7889d620f06.gif",
-          "color": "#d97706"
-        },
-        {
-          "id": "3816cdef75b7",
-          "title": "阿里千问输入法上线 macOS 版：最快 300 字 / 分，AI 自动润色",
-          "desc": "IT之家 6 月 27 日消息，阿里旗下千问输入法 macOS 版今日已上线官网，官方预告 iOS 版、Android 版、Windows 版将于近日发布。官网显示，该产品号称“说完即成稿”，支持最快 300 字 / 分，AI 自动润色，说话秒变工整文字。支持 9 种方言，纯净无广告。此前有消息称，千问团队将推出名为“千问输入法”的独立 App，与 PC 端的千问语音输入法有一定区别，AI 功能、",
-          "source": "IT之家",
-          "date": "2026-06-27",
-          "dateLabel": "6月27日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/0/969/334.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/82715ace-8873-462a-bd55-7ee41ef1ebd3.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "8d05686735a1",
-          "title": "马斯克称 IBM“0.7 纳米芯片”命名有误导性，认为制程节点应按原子数量命名",
-          "desc": "IT之家 6 月 27 日消息，据科技媒体 Wccftech 昨天报道，亿万富翁埃隆 · 马斯克认为，IBM 前天公布的“0.7 纳米芯片”命名具有误导性质，并不能反映晶体管的真实尺寸。马斯克认为，未来芯片制程节点应当根据最小特征尺寸对应的原子数量命名，而不是沿用现有命名方式。IBM 表示，公司的 0.7 纳米工艺是 Nanosheet（IT之家注：纳米片）基础上的进一步升级，并采用全新 Nano",
-          "source": "IT之家",
-          "date": "2026-06-27",
-          "dateLabel": "6月27日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/969/333.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/c469972a-52e2-4ee8-aa8e-537a264d503d.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
         }
       ]
     },
@@ -3233,127 +3361,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-05-25",
-      "dateLabel": "5月25日",
-      "id": "d25",
-      "items": [
-        {
-          "id": "9bdde4d6a3ec",
-          "title": "1100亿的赌注：中国机器人离赢钱还差五年",
-          "desc": "下了注、上了桌，不等于赢钱。",
-          "source": "36氪",
-          "date": "2026-05-25",
-          "dateLabel": "5月25日",
-          "tags": [
-            "research",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3824520810221702",
-          "image": "https://img.36krcdn.com/hsossms/20260525/v2_ab366e7b820a4061b2b9f3b6e3f4d117@46958@ai_oswg1056296oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "0615648af38e",
-          "title": "版权市场大洗牌，AI焦虑下的孤注一掷",
-          "desc": "资本抢的不是版权，而是人类记忆。",
-          "source": "36氪",
-          "date": "2026-05-25",
-          "dateLabel": "5月25日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3824637653406601",
-          "image": "https://img.36krcdn.com/hsossms/20260525/v2_284698278c1b4c0e825b40932b6a28ae@000000@ai_oswg385332oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "5cc7db178419",
-          "title": "零代码自主发现科学图像处理算法，美阿贡国家实验室提出CVEvolve，具备写代码/结果自查/策略优化等全栈能力",
-          "desc": "攻克三大成像难题",
-          "source": "36氪",
-          "date": "2026-05-25",
-          "dateLabel": "5月25日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://36kr.com/p/3824653858952070",
-          "image": "https://img.36krcdn.com/hsossms/20260525/v2_f0ab27aa024b40dbafd7fa9e2e46c75a@46958@ai_oswg1024150oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "457fe376fc67",
-          "title": "做“机器狗”的云深处，靠什么撑起41倍市销率？",
-          "desc": "3亿营收撑起139亿估值，资本市场在赌什么？",
-          "source": "36氪",
-          "date": "2026-05-25",
-          "dateLabel": "5月25日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3824642275169160",
-          "image": "https://img.36krcdn.com/hsossms/20260525/v2_125e35c088d24520bfa99d2862299a02@000000@ai_oswg328787oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "7a18e0f353ff",
-          "title": "并购激励金都不要了？全程踩中AI Coding，Windsurf核心工程师离开DeepMind",
-          "desc": "找到真正值得攀登的山。",
-          "source": "36氪",
-          "date": "2026-05-25",
-          "dateLabel": "5月25日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3824601714250121",
-          "image": "https://img.36krcdn.com/hsossms/20260525/v2_f6407fa829f047f88bf1d26fe50dd95d@000000@ai_oswg393492oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "333cfbef2703",
-          "title": "京东JoyInside戴文军：AI的终极形态不是聊天，是融入你家每一件物品丨AIGC2026",
-          "desc": "硬件不该让人适应，它应该主动适应你",
-          "source": "量子位",
-          "date": "2026-05-25",
-          "dateLabel": "5月25日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/05/424794.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "0bce3d6fff56",
-          "title": "无人车遇水则瘫？Waymo大规模召回，叫停多城Robotaxi服务",
-          "desc": "特斯拉学会“躲交警”了",
-          "source": "量子位",
-          "date": "2026-05-25",
-          "dateLabel": "5月25日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/05/424610.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "e0e58ab1b9f4",
-          "title": "打造创投生态的超级枢纽， 2026投资界SuperLink大会定档6月",
-          "desc": "6月10-11日盛大启幕",
-          "source": "量子位",
-          "date": "2026-05-25",
-          "dateLabel": "5月25日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/05/424605.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -3379,6 +3386,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-06-27 13:52",
+  "updateTime": "2026-06-28 14:16",
   "totalNews": 216
 }
