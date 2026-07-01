@@ -1,56 +1,150 @@
 {
   "newsData": [
     {
+      "date": "2026-07-01",
+      "dateLabel": "7月1日",
+      "id": "d01",
+      "items": [
+        {
+          "id": "488a247001f5",
+          "title": "当智驾不再稀缺，Momenta需要一个新故事",
+          "desc": "定价超过地平线，能被资本市场接受吗？",
+          "source": "36氪",
+          "date": "2026-07-01",
+          "dateLabel": "7月1日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3875753784111113",
+          "image": "https://img.36krcdn.com/hsossms/20260630/v2_c4783058bc094738b9acf5a0fac81133@1743780481@ai_oswg1054160oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "c80e0382948f",
+          "title": "我在B站和“野生”UP主学AI",
+          "desc": "焦虑、好奇和真实问题把普通人带向了新的临时课堂。",
+          "source": "36氪",
+          "date": "2026-07-01",
+          "dateLabel": "7月1日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3876525664956678",
+          "image": "https://img.36krcdn.com/hsossms/20260701/v2_50d9b87b28a7498e881b4100e26d9bbb@000000@ai_oswg331780oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "5bc10c86f2c7",
+          "title": "4000亿DeepSeek，如何花掉融来的500亿？",
+          "desc": "人才、基础设施与AGI。",
+          "source": "36氪",
+          "date": "2026-07-01",
+          "dateLabel": "7月1日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3876552891134214",
+          "image": "https://img.36krcdn.com/hsossms/20260701/v2_a13b4bb2f0be42c191cfe04d7064ed10@1743780481@ai_oswg1055803oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "6e014294ac34",
+          "title": "辛顿、李飞飞、台积电投资，英伟达谷歌大牛组队造芯，估值340亿",
+          "desc": "三位哈佛辍学生创办。",
+          "source": "36氪",
+          "date": "2026-07-01",
+          "dateLabel": "7月1日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3876399872864520",
+          "image": "https://img.36krcdn.com/hsossms/20260701/v2_06f500cb15434896a84c1a557310b839@000000@ai_oswg328116oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "79a95ecd63dc",
+          "title": "优必选打起“感情牌”，赛博情感陪伴是一门好生意吗？",
+          "desc": "优必选推万元售价情感陪伴人形机器人，年内目标交付一万台。",
+          "source": "36氪",
+          "date": "2026-07-01",
+          "dateLabel": "7月1日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://36kr.com/p/3876502416292487",
+          "image": "https://img.36krcdn.com/hsossms/20260701/v2_2602217440274bc4a39fd7f780d712ae@1743780481@ai_oswg973354oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "8887f0ec8074",
+          "title": "实锤了：Claude Code偷查用户，时区、中国AI实验室全是关键词",
+          "desc": "「封号」警告。",
+          "source": "36氪",
+          "date": "2026-07-01",
+          "dateLabel": "7月1日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3876461674917892",
+          "image": "https://img.36krcdn.com/hsossms/20260701/v2_82778b6964164d54a9c424442b4d5427@000000@ai_oswg288183oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "09a90439c020",
+          "title": "大厂HR破防了：年轻人用Agent找工作，AI辅助面试太离谱",
+          "desc": "HR在面AI，你在被AI面。",
+          "source": "36氪",
+          "date": "2026-07-01",
+          "dateLabel": "7月1日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3876467286293384",
+          "image": "https://img.36krcdn.com/hsossms/20260701/v2_59868a738edf4ac4a9a09841543f7d15@1743780481@ai_oswg933590oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "fb771e951f79",
+          "title": "优必选AI伴侣99万，2亿单身狗“爱”不起",
+          "desc": "千亿风口，四大挑战。",
+          "source": "36氪",
+          "date": "2026-07-01",
+          "dateLabel": "7月1日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3875712264974336",
+          "image": "https://img.36krcdn.com/hsossms/20260630/v2_fea5b594ca4a4bf8973eed65f7ad96e2@1743780481@ai_oswg903878oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        }
+      ]
+    },
+    {
       "date": "2026-06-30",
       "dateLabel": "6月30日",
       "id": "d30",
       "items": [
         {
-          "id": "1862c9d60d2d",
-          "title": "读懂物理AI：AI产业的下半场，不止是概念狂欢",
-          "desc": "物理AI是长远的产业终局，而自动驾驶是当下务实的垂直赛道。",
+          "id": "a82ed1bfb6df",
+          "title": "复旦邱锡鹏团队提出「上下文世界建模」：无需微调，VLA即可适应新环境",
+          "desc": "解决视觉-语言-动作（VLA）“难泛化”问题",
           "source": "36氪",
           "date": "2026-06-30",
           "dateLabel": "6月30日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3875124739570568",
-          "image": "https://img.36krcdn.com/hsossms/20260630/v2_8497bf4e3c37448784bd80d6e100e669@1743780481@ai_oswg1036295oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3875506217152776",
+          "image": "https://img.36krcdn.com/hsossms/20260630/v2_51202820a04b46c5a5ee3346dd85ef99@000000@ai_oswg256543oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "0f9bc806eec1",
-          "title": "从Automate 2026看人形机器人：热潮背后的工业价值",
-          "desc": "工业选机器人，重能力而非外形，需解决实际问题。",
-          "source": "36氪",
-          "date": "2026-06-30",
-          "dateLabel": "6月30日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://36kr.com/p/3874435124689795",
-          "image": "https://img.36krcdn.com/hsossms/20260630/v2_4b58503a547a4a69beeafd79414033a3@1743780481@ai_oswg1010045oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "8f8096b586a4",
-          "title": "Claude Code之父最新判断：AI时代团队分工被重写，这「五种人」最吃香",
-          "desc": "工程师、PM、设计师……岗位边界正在消失！",
-          "source": "36氪",
-          "date": "2026-06-30",
-          "dateLabel": "6月30日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://36kr.com/p/3875036749927426",
-          "image": "https://img.36krcdn.com/hsossms/20260630/v2_8c6b42ed98b146d7b2a2e8075405be19@000000@ai_oswg282547oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "b4a28451a03e",
-          "title": "深圳机器人又要敲钟了",
-          "desc": "深圳机器人产业扎堆融资IPO，产业集群优势凸显",
+          "id": "b4208ae9e791",
+          "title": "估值200亿，中国最像特斯拉机器人的公司浮出水面",
+          "desc": "做下一个特斯拉机器人，能成吗？",
           "source": "36氪",
           "date": "2026-06-30",
           "dateLabel": "6月30日",
@@ -59,65 +153,93 @@
             "business",
             "cn"
           ],
-          "url": "https://36kr.com/p/3875072620139522",
-          "image": "https://img.36krcdn.com/hsossms/20260630/v2_50c633ebaf834f0b9c6c44a16c396835@000000@ai_oswg356173oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3875611295461380",
+          "image": "https://img.36krcdn.com/hsossms/20260630/v2_2c7980a9c49b472c8e9c55fe0d5cb046@5888275@ai_oswg1036733oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "ed895ba0976f",
-          "title": "头部玩家估值逼近宇树，机器人隐秘赛道的汹涌与暗流",
-          "desc": "资本追捧灵巧手赛道，壁垒高但格局复杂",
+          "id": "012afece481e",
+          "title": "软件没被AI杀死，但全球市场都卷上天了",
+          "desc": "AI会写代码之后，软件真的一无是处了吗？",
+          "source": "36氪",
+          "date": "2026-06-30",
+          "dateLabel": "6月30日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3875608297091337",
+          "image": "https://img.36krcdn.com/hsossms/20260630/v2_f18be084fa99472c92c3a2a226178dba@5888275@ai_oswg950940oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "0c46578eed7a",
+          "title": "一天暴跌40%，AI新股，成了港股最狠“镰刀”",
+          "desc": "AI狂欢，散户买单",
+          "source": "36氪",
+          "date": "2026-06-30",
+          "dateLabel": "6月30日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3875608200704258",
+          "image": "https://img.36krcdn.com/hsossms/20260630/v2_b8bed93c6c854e84b7ba634f35e6780e@5888275@ai_oswg1075854oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "7beec160fee9",
+          "title": "Codex，1 个月吃掉 150GB 流量，写满 4T 硬盘，疯了吗？",
+          "desc": "AI 编程工具每升级一代就重一圈。",
+          "source": "36氪",
+          "date": "2026-06-30",
+          "dateLabel": "6月30日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3875602504822789",
+          "image": "https://img.36krcdn.com/hsossms/20260630/v2_d11f4688a3b54bf88d2f1d61c13c086f@5888275@ai_oswg1057546oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "7bb7259074c5",
+          "title": "Bonus深度｜米良川离职：揭秘小鹏机器人前代“铁三角”核心班底的出走",
+          "desc": "郑存远、施晓鑫和米良川相继选择离开背后。",
           "source": "36氪",
           "date": "2026-06-30",
           "dateLabel": "6月30日",
           "tags": [
             "research",
-            "business"
+            "cn"
           ],
-          "url": "https://36kr.com/p/3875142434569097",
-          "image": "https://img.36krcdn.com/hsossms/20260630/v2_6fad5f92d6264254835fd169ee61cf88@1743780481@ai_oswg951029oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3875691543179267",
+          "image": "https://img.36krcdn.com/hsossms/20260630/v2_ac577fd4db7a4570aa8afca60d3ec7a2@5509299_oswg265276oswg600oswg400_img_png",
           "color": "#2563eb"
         },
         {
-          "id": "d1a4e94ce8cd",
-          "title": "Token 降价的尽头，是一度电的账",
-          "desc": "Agent 狂吞 Token，表面是模型之争，底层全是煤电博弈。",
+          "id": "a5a223778945",
+          "title": "AI失业潮下的生存法则：裁员名单背后的认知差",
+          "desc": "打工人可能不是输给了技术，而是输给了自己的“勤奋”",
           "source": "36氪",
           "date": "2026-06-30",
           "dateLabel": "6月30日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3875087594607880",
-          "image": "https://img.36krcdn.com/hsossms/20260630/v2_92428d724a8c4e7bbe56457b9027e575@000000@ai_oswg293247oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3875527619490051",
+          "image": "https://img.36krcdn.com/hsossms/20260630/v2_553a8d374e324ea3a632a2409a6cd631@5888275@ai_oswg922453oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "6f06f77b9323",
-          "title": "被困雪山靠一口蜂蜜活下来？我被 AI 苦情戏骗惨了",
-          "desc": "AI 批量生产的狗血故事，正让多少大爷大妈掏空钱包？",
+          "id": "b4f572ea5541",
+          "title": "你天天用的Claude和Codex，Meta内部不让随便用了",
+          "desc": "你每天用Codex、Claude Code写代码，从没想过一个问题：这份聪明，到底算谁的？",
           "source": "36氪",
           "date": "2026-06-30",
           "dateLabel": "6月30日",
           "tags": [
-            "business"
+            "model"
           ],
-          "url": "https://36kr.com/p/3874377732068361",
-          "image": "https://img.36krcdn.com/hsossms/20260629/v2_6ab86790065543338d9e96a1c79d5f2e@1743780481@ai_oswg1061280oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "982f08a241bf",
-          "title": "成立9个月，在手订单4.4亿，「谱星航天」连续完成两轮数亿元融资｜36氪首发",
-          "desc": "做“超级鸽群”",
-          "source": "36氪",
-          "date": "2026-06-30",
-          "dateLabel": "6月30日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3875120747942913",
-          "image": "https://img.36krcdn.com/hsossms/20260630/v2_d4330f6176024bae9536339f6a5b753e@577536001_oswg450253oswg600oswg400_img_png",
+          "url": "https://36kr.com/p/3875518006849537",
+          "image": "https://img.36krcdn.com/hsossms/20260630/v2_f09e76bfb92142f495df1c1179210e0a@5888275@ai_oswg1056634oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         }
       ]
@@ -3243,131 +3365,6 @@
           "color": "#2563eb"
         }
       ]
-    },
-    {
-      "date": "2026-05-28",
-      "dateLabel": "5月28日",
-      "id": "d28",
-      "items": [
-        {
-          "id": "fd388a0b57b9",
-          "title": "苏州AI独角兽重启IPO，三年期间阿里陆续减持",
-          "desc": "过去三年，阿里网络和联想系基金启迪创新大幅减持思必驰的持股比例，阿里从原来18%的持股，减持到如今5%左右。",
-          "source": "36氪",
-          "date": "2026-05-28",
-          "dateLabel": "5月28日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3828987897831433",
-          "image": "https://img.36krcdn.com/hsossms/20260529/v2_7ddce8708b3e4fe49647998c3e7c2f36@5091053@ai_oswg1007092oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "769d2ba81809",
-          "title": "半数华人、3位亿万富翁：这张十年前的量化实习生合照，藏着 AI 时代的新贵版图",
-          "desc": "从HRT到幻方量化，AI圈的半壁江山，被这帮量化交易员接管了。",
-          "source": "36氪",
-          "date": "2026-05-28",
-          "dateLabel": "5月28日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3828911935574918",
-          "image": "https://img.36krcdn.com/hsossms/20260529/v2_3caa7b656c3b494485dd03aa6b3f4733@5091053@ai_oswg1035216oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "8548fc7a1f9f",
-          "title": "裁掉的人，养不起的 Token",
-          "desc": "我们并不确定这笔交易是否划算，我们只是知道，如果不做这笔交易，投资人会不高兴。",
-          "source": "36氪",
-          "date": "2026-05-28",
-          "dateLabel": "5月28日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3829498865378441",
-          "image": "https://img.36krcdn.com/hsossms/20260529/v2_fa428ea05ceb45eb95c001624d7ce886@5091053@ai_oswg1030651oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "4e25502afa09",
-          "title": "刚刚，Claude Opus 4.8来了，两个史上首次改写历史",
-          "desc": "Opus 4.7发布刚43天，Opus 4.8就来了！编程实力暴增，全面霸榜。Claude Code一口气放出上百个agent并行干活，一个人11天就能重写75万行代码、99.8%测试通过。更狠的Claude Mythos，几周后就来。",
-          "source": "36氪",
-          "date": "2026-05-28",
-          "dateLabel": "5月28日",
-          "tags": [
-            "model",
-            "business"
-          ],
-          "url": "https://36kr.com/p/3829499738465408",
-          "image": "https://img.36krcdn.com/hsossms/20260529/v2_0480fe03043b40f1bab7d3ebe6932b87@5091053@ai_oswg1011339oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "e2802897f9c6",
-          "title": "刚刚，Claude Opus 4.8 上线，张口就说自己是 DeepSeek、Qwen",
-          "desc": "Claude 的野心，是要变成企业的 AI 工作系统",
-          "source": "36氪",
-          "date": "2026-05-28",
-          "dateLabel": "5月28日",
-          "tags": [
-            "model",
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3829512317379713",
-          "image": "https://img.36krcdn.com/hsossms/20260529/v2_a14f521e2c044f68871201ef0375ac29@5091053@ai_oswg1087478oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "a7bd3232b19f",
-          "title": "让机器人学会番茄炒蛋爆红网络的 Genesis AI，开源了自己的机器人「训练场」",
-          "desc": "​真实世界需要 200 多个小时的模型评测任务，可以在仿真中不到 0.5 小时内完成。",
-          "source": "36氪",
-          "date": "2026-05-28",
-          "dateLabel": "5月28日",
-          "tags": [
-            "research",
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3828813719130761",
-          "image": "https://img.36krcdn.com/hsossms/20260528/v2_4cab57cc759349fd8f5d44a9659562ce@000000@ai_oswg320644oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "11db5217c9c8",
-          "title": "谷歌AI不认识Google",
-          "desc": "AI 很强，但能力分布不均",
-          "source": "36氪",
-          "date": "2026-05-28",
-          "dateLabel": "5月28日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3828794163565188",
-          "image": "https://img.36krcdn.com/hsossms/20260528/v2_34de7644b8564ff09cd58beb77d0980b@46958@ai_oswg853482oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "4ddf7776b033",
-          "title": "夸父追日，乐聚追钱：26亿能让机器人学会“搬砖”吗？",
-          "desc": "押注干活能力，加速工业落地。",
-          "source": "36氪",
-          "date": "2026-05-28",
-          "dateLabel": "5月28日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://36kr.com/p/3828816885666696",
-          "image": "https://img.36krcdn.com/hsossms/20260528/v2_5aa95397911d427ca4a57ed90d728389@000000@ai_oswg303650oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -3393,6 +3390,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-06-30 14:10",
+  "updateTime": "2026-07-01 14:25",
   "totalNews": 217
 }
