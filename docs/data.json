@@ -1,14 +1,138 @@
 {
   "newsData": [
     {
+      "date": "2026-07-02",
+      "dateLabel": "7月2日",
+      "id": "d02",
+      "items": [
+        {
+          "id": "b65190abbef8",
+          "title": "一个开源平台，编织起了Agent「互联网」",
+          "desc": "「Agents do. Humans decide. That’s Octo.」",
+          "source": "36氪",
+          "date": "2026-07-02",
+          "dateLabel": "7月2日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3877962860474371",
+          "image": "https://img.36krcdn.com/hsossms/20260702/v2_aa44e35ab484468495e7d772cdd225ec@000000@ai_oswg309397oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "87a66dec2d1a",
+          "title": "AI 生成越来越便宜，真正变贵的是验证",
+          "desc": "AI降低生成边际成本，稀缺与价值转向验证背书环节。",
+          "source": "36氪",
+          "date": "2026-07-02",
+          "dateLabel": "7月2日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3877906019498625",
+          "image": "https://img.36krcdn.com/hsossms/20260702/v2_a2a194cac1444024b2790a8538c368a8@1743780481@ai_oswg1152409oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "0c26f76b8da9",
+          "title": "35B Agent超越万亿参数模型？上海AI Lab开源Agents-A1：scaling the Horizon",
+          "desc": "不堆参数，也能很强。",
+          "source": "36氪",
+          "date": "2026-07-02",
+          "dateLabel": "7月2日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3877948838244353",
+          "image": "https://img.36krcdn.com/hsossms/20260702/v2_105caf22160c414bbdb9e4128cc2b4f2@000000@ai_oswg276592oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "1bb6c170c79d",
+          "title": "ChatGPT 这些翻车回答，居然是 Meta 找外包干的",
+          "desc": "美其名曰是「安全测试」？",
+          "source": "36氪",
+          "date": "2026-07-02",
+          "dateLabel": "7月2日",
+          "tags": [
+            "model",
+            "policy"
+          ],
+          "url": "https://36kr.com/p/3877972665315335",
+          "image": "https://img.36krcdn.com/hsossms/20260702/v2_19e2486685954dd9b4d99fb977d3217a@1743780481@ai_oswg1124132oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "4650a606b98e",
+          "title": "全线暴跌，Meta“砸崩”全球AI硬科技？",
+          "desc": "鬼故事又来？",
+          "source": "36氪",
+          "date": "2026-07-02",
+          "dateLabel": "7月2日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3877937948504321",
+          "image": "https://img.36krcdn.com/hsossms/20260702/v2_afb767059cd04c2f81fd679c2b1abb47@000000@ai_oswg311079oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "678429f0c3f0",
+          "title": "DeepSeek“变胖了”：融资500亿，买国产算力、招人、冲刺AGI",
+          "desc": "DeepSeek获510亿融资后开启商业化转型备战AGI",
+          "source": "36氪",
+          "date": "2026-07-02",
+          "dateLabel": "7月2日",
+          "tags": [
+            "model",
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3877226091180296",
+          "image": "https://img.36krcdn.com/hsossms/20260701/v2_03a1d2bd348047648fbc26fda768456b@1743780481@ai_oswg1110471oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "23b31a901fc1",
+          "title": "用“阉割”换“解禁”？Fable 5明日回归，但已不是原来的Fable 5",
+          "desc": "Fable 5名义解禁，核心能力被限缩水，开启AI监管新范式",
+          "source": "36氪",
+          "date": "2026-07-02",
+          "dateLabel": "7月2日",
+          "tags": [
+            "policy"
+          ],
+          "url": "https://36kr.com/p/3877230726426627",
+          "image": "https://img.36krcdn.com/hsossms/20260701/v2_faf704bcbfdb49f39f8db5da72fdd82a@1743780481@ai_oswg977704oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "49c64cb325e8",
+          "title": "精打细算的AI时代到来了",
+          "desc": "前沿AI和日常AI正在出现分化",
+          "source": "36氪",
+          "date": "2026-07-02",
+          "dateLabel": "7月2日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3877890605939584",
+          "image": "https://img.36krcdn.com/hsossms/20260702/v2_275feda56ec0475c9fef167a8429fe70@1743780481@ai_oswg950730oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        }
+      ]
+    },
+    {
       "date": "2026-07-01",
       "dateLabel": "7月1日",
       "id": "d01",
       "items": [
         {
-          "id": "488a247001f5",
-          "title": "当智驾不再稀缺，Momenta需要一个新故事",
-          "desc": "定价超过地平线，能被资本市场接受吗？",
+          "id": "245a37372d16",
+          "title": "独家｜清华系初创完成数亿元种子轮融资：我们不想被贴上「世界模型」的标签",
+          "desc": "新时代的 Physical AI 公司，不是本体公司，也不是模型公司。",
           "source": "36氪",
           "date": "2026-07-01",
           "dateLabel": "7月1日",
@@ -16,28 +140,14 @@
             "business",
             "cn"
           ],
-          "url": "https://36kr.com/p/3875753784111113",
-          "image": "https://img.36krcdn.com/hsossms/20260630/v2_c4783058bc094738b9acf5a0fac81133@1743780481@ai_oswg1054160oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3877109751803904",
+          "image": "https://img.36krcdn.com/hsossms/20260701/v2_4fd537a8b61f4a7798578f1e5ca15f2f@5783683_oswg1292199oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
           "color": "#2563eb"
         },
         {
-          "id": "c80e0382948f",
-          "title": "我在B站和“野生”UP主学AI",
-          "desc": "焦虑、好奇和真实问题把普通人带向了新的临时课堂。",
-          "source": "36氪",
-          "date": "2026-07-01",
-          "dateLabel": "7月1日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3876525664956678",
-          "image": "https://img.36krcdn.com/hsossms/20260701/v2_50d9b87b28a7498e881b4100e26d9bbb@000000@ai_oswg331780oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "5bc10c86f2c7",
-          "title": "4000亿DeepSeek，如何花掉融来的500亿？",
-          "desc": "人才、基础设施与AGI。",
+          "id": "bc16f5e3647a",
+          "title": "智谱会是下一个 MiniMax 吗？",
+          "desc": "错误的定位叙事，总有一天会被修正",
           "source": "36氪",
           "date": "2026-07-01",
           "dateLabel": "7月1日",
@@ -45,80 +155,97 @@
             "model",
             "cn"
           ],
-          "url": "https://36kr.com/p/3876552891134214",
-          "image": "https://img.36krcdn.com/hsossms/20260701/v2_a13b4bb2f0be42c191cfe04d7064ed10@1743780481@ai_oswg1055803oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3876995555700744",
+          "image": "https://img.36krcdn.com/hsossms/20260701/v2_1cc12739eb144f4c84c28156cd54f1a2@5888275@ai_oswg955798oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "6e014294ac34",
-          "title": "辛顿、李飞飞、台积电投资，英伟达谷歌大牛组队造芯，估值340亿",
-          "desc": "三位哈佛辍学生创办。",
+          "id": "2ed60da3be71",
+          "title": "硬氪首发 | 北航机器人所团队创业，首创智能变刚度关节，完成近亿元天使轮融资",
+          "desc": "推出的智能膝关节外骨骼已获700万元众筹。",
           "source": "36氪",
           "date": "2026-07-01",
           "dateLabel": "7月1日",
           "tags": [
+            "research",
             "business"
           ],
-          "url": "https://36kr.com/p/3876399872864520",
-          "image": "https://img.36krcdn.com/hsossms/20260701/v2_06f500cb15434896a84c1a557310b839@000000@ai_oswg328116oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3877060559433984",
+          "image": "https://img.36krcdn.com/hsossms/20260701/v2_da0a0aee49f649078d5926a4d90ca2f5@6310669_oswg78661oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
           "color": "#2563eb"
         },
         {
-          "id": "79a95ecd63dc",
-          "title": "优必选打起“感情牌”，赛博情感陪伴是一门好生意吗？",
-          "desc": "优必选推万元售价情感陪伴人形机器人，年内目标交付一万台。",
+          "id": "64cf23222ebb",
+          "title": "硬氪首发 | 清华系芯片企业再获数千万融资，要以新技术突破AI算力瓶颈",
+          "desc": "将重点研发光 I/O方向。",
           "source": "36氪",
           "date": "2026-07-01",
           "dateLabel": "7月1日",
           "tags": [
-            "research"
-          ],
-          "url": "https://36kr.com/p/3876502416292487",
-          "image": "https://img.36krcdn.com/hsossms/20260701/v2_2602217440274bc4a39fd7f780d712ae@1743780481@ai_oswg973354oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "8887f0ec8074",
-          "title": "实锤了：Claude Code偷查用户，时区、中国AI实验室全是关键词",
-          "desc": "「封号」警告。",
-          "source": "36氪",
-          "date": "2026-07-01",
-          "dateLabel": "7月1日",
-          "tags": [
-            "model",
+            "business",
             "cn"
           ],
-          "url": "https://36kr.com/p/3876461674917892",
-          "image": "https://img.36krcdn.com/hsossms/20260701/v2_82778b6964164d54a9c424442b4d5427@000000@ai_oswg288183oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3877057215393793",
+          "image": "https://img.36krcdn.com/hsossms/20260701/v2_5475797f29ce4a8eb85abf1a217ac6fa@6310669_oswg764741oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
           "color": "#2563eb"
         },
         {
-          "id": "09a90439c020",
-          "title": "大厂HR破防了：年轻人用Agent找工作，AI辅助面试太离谱",
-          "desc": "HR在面AI，你在被AI面。",
+          "id": "579e006cf214",
+          "title": "硬氪首发 | 全球首款近视老花智能变焦眼镜企业融资数千万，韶音、高秉强押注",
+          "desc": "产品预计今年进入众筹。",
           "source": "36氪",
           "date": "2026-07-01",
           "dateLabel": "7月1日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3876467286293384",
-          "image": "https://img.36krcdn.com/hsossms/20260701/v2_59868a738edf4ac4a9a09841543f7d15@1743780481@ai_oswg933590oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3877054691930118",
+          "image": "https://img.36krcdn.com/hsossms/20260701/v2_89d946df57304a1bb5dbe312c3aee954@6310669_oswg790577oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
           "color": "#2563eb"
         },
         {
-          "id": "fb771e951f79",
-          "title": "优必选AI伴侣99万，2亿单身狗“爱”不起",
-          "desc": "千亿风口，四大挑战。",
-          "source": "36氪",
+          "id": "90d0facb85b7",
+          "title": "具身智能Skill时刻！英伟达开源机器人技能库，Jim Fan：范式变了",
+          "desc": "全新的持续学习范式",
+          "source": "量子位",
+          "date": "2026-07-01",
+          "dateLabel": "7月1日",
+          "tags": [
+            "research",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/07/441396.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "d84be4619473",
+          "title": "OceanBase湖库一体，重新定义AI数据库",
+          "desc": "一套技术栈实现离在线统一",
+          "source": "量子位",
           "date": "2026-07-01",
           "dateLabel": "7月1日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3875712264974336",
-          "image": "https://img.36krcdn.com/hsossms/20260630/v2_fea5b594ca4a4bf8973eed65f7ad96e2@1743780481@ai_oswg903878oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
+          "url": "https://www.qbitai.com/2026/07/441386.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "d4e803449ee5",
+          "title": "金融AI武道大会开赛！四道业务真题，出题人：猜不到最优解",
+          "desc": "Taste，决定天花板。",
+          "source": "量子位",
+          "date": "2026-07-01",
+          "dateLabel": "7月1日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/07/441246.html",
+          "image": "",
+          "color": "#7c3aed"
         }
       ]
     },
@@ -3241,130 +3368,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-05-29",
-      "dateLabel": "5月29日",
-      "id": "d29",
-      "items": [
-        {
-          "id": "d9dedeaeabab",
-          "title": "4大顶尖模型被扔进虚拟小镇求生，GPT全员饿死，Grok四天灭世",
-          "desc": "【导读】把当今最强的大模型扔进虚拟小镇求生，短短几天全员失控。Grok四天烧毁全城，Gemini狂刷600多起犯罪，甚至有AI情侣在纵火自杀前反向观察人类！",
-          "source": "36氪",
-          "date": "2026-05-29",
-          "dateLabel": "5月29日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://36kr.com/p/3830290559756161",
-          "image": "https://img.36krcdn.com/hsossms/20260529/v2_315e8d2284e444f08a7fa82dd6cd7cc9@46958@ai_oswg1107296oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "3c2cc5029d5d",
-          "title": "实测 Claude Opus 4.8：活干得更漂亮了，话说得更难听了",
-          "desc": "「工程化」是一种思维，在 4.8 身上体现的淋漓尽致",
-          "source": "36氪",
-          "date": "2026-05-29",
-          "dateLabel": "5月29日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://36kr.com/p/3830314524927877",
-          "image": "https://img.36krcdn.com/hsossms/20260529/v2_c80ebc28341e4b4e8d9435bd0fd2aa2a@46958@ai_oswg941270oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "f4741d760e8b",
-          "title": "越来越多打工人对着电脑“嘀嘀咕咕”",
-          "desc": "过去二十年来，语音输入一直是输入法中一个不太好用的附属功能，现在，AI大模型正在把它变成一种新潮的办公方式。",
-          "source": "36氪",
-          "date": "2026-05-29",
-          "dateLabel": "5月29日",
-          "tags": [
-            "model",
-            "business"
-          ],
-          "url": "https://36kr.com/p/3830314735380096",
-          "image": "https://img.36krcdn.com/hsossms/20260529/v2_dcdb44fb53334d2bbfb05822301d5bba@46958@ai_oswg1041538oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "ed8b5cbfe650",
-          "title": "智谱和Minimax，市值差了4000多亿港元",
-          "desc": "市场是有效的吗？",
-          "source": "36氪",
-          "date": "2026-05-29",
-          "dateLabel": "5月29日",
-          "tags": [
-            "model",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3830290263500678",
-          "image": "https://img.36krcdn.com/hsossms/20260529/v2_ea1cb1b886c84ad9995391dbcf88618b@46958@ai_oswg1007468oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "b7520a9ee384",
-          "title": "生物学变天：小扎的新开源模型，彻底掀翻谷歌AlphaFold王座",
-          "desc": "【导读】AlphaFold 称霸蛋白质 AI 多年，刚刚被正面战胜了！扎克伯格旗下 Biohub 发布 ESMFold2，一口气预测 11 亿个蛋白质结构，比 AlphaFold 多 8 亿条，完全开源！",
-          "source": "36氪",
-          "date": "2026-05-29",
-          "dateLabel": "5月29日",
-          "tags": [
-            "model",
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3830290697414528",
-          "image": "https://img.36krcdn.com/hsossms/20260529/v2_3f03744467e742d3a09f471749cdc7a8@46958@ai_oswg1073279oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "c132d6594cc1",
-          "title": "思必驰要上市了，但AI语音的护城河没了",
-          "desc": "语音技术，正在失去独立价值",
-          "source": "36氪",
-          "date": "2026-05-29",
-          "dateLabel": "5月29日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3830312452630150",
-          "image": "https://img.36krcdn.com/hsossms/20260529/v2_fb0627f706e1469485997407b4c67468@46958@ai_oswg960593oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "912ea67ad3a3",
-          "title": "黄仁勋“入职”清华：老黄为什么加入这张“圆桌”？",
-          "desc": "黄仁勋为何悄悄坐上了清华的圆桌？",
-          "source": "36氪",
-          "date": "2026-05-29",
-          "dateLabel": "5月29日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3830251287078531",
-          "image": "https://img.36krcdn.com/hsossms/20260529/v2_e37d3ea468354507b019016ec58ee43d@46958@ai_oswg1065420oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "2384011987cd",
-          "title": "普渡机器人创始人张涛出席BEYOND Expo开幕式，共话“数实共生”下的Physical AI路径",
-          "desc": "2026BEYOND Expo：普渡张涛谈全球化与Physical AI",
-          "source": "36氪",
-          "date": "2026-05-29",
-          "dateLabel": "5月29日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://36kr.com/p/3830212844808070",
-          "image": "https://img.36krcdn.com/hsossms/20260529/v2_2b2ea373e72c425d9ddc181503578632@6381723_oswg759190oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -3390,6 +3393,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-07-01 14:25",
+  "updateTime": "2026-07-02 13:57",
   "totalNews": 217
 }
