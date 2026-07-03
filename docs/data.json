@@ -1,125 +1,242 @@
 {
   "newsData": [
     {
+      "date": "2026-07-03",
+      "dateLabel": "7月3日",
+      "id": "d03",
+      "items": [
+        {
+          "id": "21f79dca7198",
+          "title": "杨立昆团队最新研究：让世界模型学会“自适应”，在行动中持续进化",
+          "desc": "边规划边学习",
+          "source": "36氪",
+          "date": "2026-07-03",
+          "dateLabel": "7月3日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://36kr.com/p/3879369780817922",
+          "image": "https://img.36krcdn.com/hsossms/20260703/v2_af9b4ee98b844395ab2bb77e1be8bd48@000000@ai_oswg278971oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "d3d1bbe56169",
+          "title": "OpenAI总裁Greg Brockman最新大胆预测：ChatGPT与Agent融合后，所有界面都会消失",
+          "desc": "OpenAI正在构建的“Agent时代”",
+          "source": "36氪",
+          "date": "2026-07-03",
+          "dateLabel": "7月3日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://36kr.com/p/3879369595927426",
+          "image": "https://img.36krcdn.com/hsossms/20260703/v2_8ef00cef61dd44a5aab9300cc18efad4@1743780481@ai_oswg1052769oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "079a6ebcd193",
+          "title": "扎男服输，AI大厂开始“分流”",
+          "desc": "马斯克：扎男服输前我就先服输了",
+          "source": "36氪",
+          "date": "2026-07-03",
+          "dateLabel": "7月3日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3879326780504710",
+          "image": "https://img.36krcdn.com/hsossms/20260703/v2_c82331414036481aa0168d4a9462385e@1743780481@ai_oswg1159011oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "428926b21f10",
+          "title": "超190亿，AI视频最大单笔融资诞生，阿里腾讯百度都投了",
+          "desc": "投前估值超1000亿。",
+          "source": "36氪",
+          "date": "2026-07-03",
+          "dateLabel": "7月3日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3879243629637632",
+          "image": "https://img.36krcdn.com/hsossms/20260703/v2_a74548fed29a468a80a78075cea41fda@000000@ai_oswg371664oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "75aa62c4bad3",
+          "title": "烧光一亿Token只为写周报？360周鸿祎揭穿大模型幻觉残酷真相",
+          "desc": "周鸿祎谈AI：淘汰你的是会用AI的人，需重塑企业组织。",
+          "source": "36氪",
+          "date": "2026-07-03",
+          "dateLabel": "7月3日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3878668651936389",
+          "image": "https://img.36krcdn.com/hsossms/20260703/v2_0af0bcfd3e7f42b0a644810688aa7162@1743780481@ai_oswg1033377oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "d344063a8c81",
+          "title": "扎克伯格，把AI牛市吓了一跳",
+          "desc": "Meta不是在卖算力，它是在挑战撑起AI产业牛市的故事。",
+          "source": "36氪",
+          "date": "2026-07-03",
+          "dateLabel": "7月3日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3879311047309959",
+          "image": "https://img.36krcdn.com/hsossms/20260703/v2_5b60a60932874c1f8c5d46b71cb4a4bb@1743780481@ai_oswg1019561oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "e42e5a89d12f",
+          "title": "这届毕业生，忙着让论文与AI划清界限",
+          "desc": "高校AI论文检测存误判等问题，需完善检测制度。",
+          "source": "36氪",
+          "date": "2026-07-03",
+          "dateLabel": "7月3日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://36kr.com/p/3879275232423940",
+          "image": "https://img.36krcdn.com/hsossms/20260703/v2_b697d203e79d4bbeb4c7967fe4c929d9@1743780481@ai_oswg1021515oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "51160d3e8257",
+          "title": "偷藏3个月，Anthropic删除识别“中国AI”的隐藏代码，官方回应：这只是一次实验，我们早想删了",
+          "desc": "隐藏代码删除了，用户信任却难以恢复",
+          "source": "36氪",
+          "date": "2026-07-03",
+          "dateLabel": "7月3日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3879301021921537",
+          "image": "https://img.36krcdn.com/hsossms/20260703/v2_a323feee943041a28e39b6301d611546@1743780481@ai_oswg1124617oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        }
+      ]
+    },
+    {
       "date": "2026-07-02",
       "dateLabel": "7月2日",
       "id": "d02",
       "items": [
         {
-          "id": "b65190abbef8",
-          "title": "一个开源平台，编织起了Agent「互联网」",
-          "desc": "「Agents do. Humans decide. That’s Octo.」",
+          "id": "60612c951277",
+          "title": "“白月光”回归秒变“吞金兽”？Claude Fable 5限时限额，口碑两极分化",
+          "desc": "额度受限，风控升级，后续使用需单独付费。",
           "source": "36氪",
           "date": "2026-07-02",
           "dateLabel": "7月2日",
           "tags": [
-            "business",
-            "cn"
+            "model"
           ],
-          "url": "https://36kr.com/p/3877962860474371",
-          "image": "https://img.36krcdn.com/hsossms/20260702/v2_aa44e35ab484468495e7d772cdd225ec@000000@ai_oswg309397oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3878491529163012",
+          "image": "https://img.36krcdn.com/hsossms/20260702/v2_5e13b630bb3140418a2a5aca96705c42@000000@ai_oswg346800oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "87a66dec2d1a",
-          "title": "AI 生成越来越便宜，真正变贵的是验证",
-          "desc": "AI降低生成边际成本，稀缺与价值转向验证背书环节。",
+          "id": "a95ef4179164",
+          "title": "谷歌教育 AI 迎来新一轮更新：教师工具升级，学生学习功能同步扩展",
+          "desc": "从备课到阅读辅导，谷歌教育 AI 集中更新多项教师与学生工具。",
           "source": "36氪",
           "date": "2026-07-02",
           "dateLabel": "7月2日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3877906019498625",
-          "image": "https://img.36krcdn.com/hsossms/20260702/v2_a2a194cac1444024b2790a8538c368a8@1743780481@ai_oswg1152409oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3878528447951113",
+          "image": "https://img.36krcdn.com/hsossms/20260703/v2_f2fbf4200e554f11878f651621d4b5e5@1743780481@ai_oswg1073366oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "0c26f76b8da9",
-          "title": "35B Agent超越万亿参数模型？上海AI Lab开源Agents-A1：scaling the Horizon",
-          "desc": "不堆参数，也能很强。",
-          "source": "36氪",
-          "date": "2026-07-02",
-          "dateLabel": "7月2日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3877948838244353",
-          "image": "https://img.36krcdn.com/hsossms/20260702/v2_105caf22160c414bbdb9e4128cc2b4f2@000000@ai_oswg276592oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "1bb6c170c79d",
-          "title": "ChatGPT 这些翻车回答，居然是 Meta 找外包干的",
-          "desc": "美其名曰是「安全测试」？",
-          "source": "36氪",
-          "date": "2026-07-02",
-          "dateLabel": "7月2日",
-          "tags": [
-            "model",
-            "policy"
-          ],
-          "url": "https://36kr.com/p/3877972665315335",
-          "image": "https://img.36krcdn.com/hsossms/20260702/v2_19e2486685954dd9b4d99fb977d3217a@1743780481@ai_oswg1124132oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "4650a606b98e",
-          "title": "全线暴跌，Meta“砸崩”全球AI硬科技？",
-          "desc": "鬼故事又来？",
+          "id": "7278e452c3e8",
+          "title": "全球Agent都在卷的「Loop工程」：AI自己干活、监工和返工",
+          "desc": "杀死比赛。",
           "source": "36氪",
           "date": "2026-07-02",
           "dateLabel": "7月2日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3877937948504321",
-          "image": "https://img.36krcdn.com/hsossms/20260702/v2_afb767059cd04c2f81fd679c2b1abb47@000000@ai_oswg311079oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3878518284565125",
+          "image": "https://img.36krcdn.com/hsossms/20260702/v2_d44177354daf4246b8b9d00b07bbe27e@1743780481@ai_oswg1030406oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "678429f0c3f0",
-          "title": "DeepSeek“变胖了”：融资500亿，买国产算力、招人、冲刺AGI",
-          "desc": "DeepSeek获510亿融资后开启商业化转型备战AGI",
+          "id": "7650343eb7c5",
+          "title": "巨头接踵入场，具身智能大战开打",
+          "desc": "高价值数据成为胜负手",
           "source": "36氪",
           "date": "2026-07-02",
           "dateLabel": "7月2日",
           "tags": [
-            "model",
-            "business",
-            "cn"
+            "research"
           ],
-          "url": "https://36kr.com/p/3877226091180296",
-          "image": "https://img.36krcdn.com/hsossms/20260701/v2_03a1d2bd348047648fbc26fda768456b@1743780481@ai_oswg1110471oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3878315095470083",
+          "image": "https://img.36krcdn.com/hsossms/20260702/v2_5e0f21cf082d4855be6e59bd35a5604f@5888275@ai_oswg1018566oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "23b31a901fc1",
-          "title": "用“阉割”换“解禁”？Fable 5明日回归，但已不是原来的Fable 5",
-          "desc": "Fable 5名义解禁，核心能力被限缩水，开启AI监管新范式",
-          "source": "36氪",
-          "date": "2026-07-02",
-          "dateLabel": "7月2日",
-          "tags": [
-            "policy"
-          ],
-          "url": "https://36kr.com/p/3877230726426627",
-          "image": "https://img.36krcdn.com/hsossms/20260701/v2_faf704bcbfdb49f39f8db5da72fdd82a@1743780481@ai_oswg977704oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "49c64cb325e8",
-          "title": "精打细算的AI时代到来了",
-          "desc": "前沿AI和日常AI正在出现分化",
+          "id": "132aa977b283",
+          "title": "AI产业链冰与火：上游吃撑，下游亏麻",
+          "desc": "AI的钱被谁赚走了？",
           "source": "36氪",
           "date": "2026-07-02",
           "dateLabel": "7月2日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3877890605939584",
-          "image": "https://img.36krcdn.com/hsossms/20260702/v2_275feda56ec0475c9fef167a8429fe70@1743780481@ai_oswg950730oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3878351697408258",
+          "image": "https://img.36krcdn.com/hsossms/20260702/v2_802576175971472cbcc39678734449e6@5888275@ai_oswg1101782oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "fee7e1611e6f",
+          "title": "雷军押注“机器人指尖”，不到15克身价已过亿",
+          "desc": "机器人进化成老师傅的第一步",
+          "source": "36氪",
+          "date": "2026-07-02",
+          "dateLabel": "7月2日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://36kr.com/p/3878332349840256",
+          "image": "https://img.36krcdn.com/hsossms/20260702/v2_1d0aaa8206a34bf898395ea576eef912@5888275@ai_oswg864209oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "1d7fc1da3829",
+          "title": "Fable 5解禁即翻车，写一行代码就降智，开发者破防",
+          "desc": "消失19天，Fable 5解禁即翻车！写代码频遭强制降智，魔幻双标气疯开发者。面对离谱的过度审查，这位戴着镣铐的「天才程序员」还值得用吗？",
+          "source": "36氪",
+          "date": "2026-07-02",
+          "dateLabel": "7月2日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3878350636494848",
+          "image": "https://img.36krcdn.com/hsossms/20260702/v2_0bafcde4848842ff93b7a0696b0753ea@5888275@ai_oswg1021893oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "601bf7c654d1",
+          "title": "Harvey：一家估值110亿美元的AI公司，正在重新定义全球法律行业",
+          "desc": "为什么红杉连续三轮领投同一家公司？Harvey 的答案，不是一家 Legal AI，而是整个法律行业未来的 AI Operating System。",
+          "source": "36氪",
+          "date": "2026-07-02",
+          "dateLabel": "7月2日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3878393256276230",
+          "image": "https://img.36krcdn.com/hsossms/20260702/v2_dbce7b0fa4b2439cb43fab5738691e05@5888275@ai_oswg1105108oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         }
       ]
@@ -3245,129 +3362,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-05-30",
-      "dateLabel": "5月30日",
-      "id": "d30",
-      "items": [
-        {
-          "id": "014397198639",
-          "title": "马斯克「夸下的海口」，值2万亿美元吗？",
-          "desc": "史上最大IPO，一个横跨天地的物理世界操作系统，还是一场前无古人的资本套利 ？",
-          "source": "36氪",
-          "date": "2026-05-30",
-          "dateLabel": "5月30日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3831272431593093",
-          "image": "https://img.36krcdn.com/hsossms/20260530/v2_d2aa9712e0af482286f1220ac968ff5e@000000@ai_oswg331883oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "bee7a5720aa6",
-          "title": "王小川和李开复，领着六小虎“AI的迫降”",
-          "desc": "AI创业者们该落地了",
-          "source": "36氪",
-          "date": "2026-05-30",
-          "dateLabel": "5月30日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3831204618477824",
-          "image": "https://img.36krcdn.com/hsossms/20260530/v2_fb683d56ba714543a5605087c55f5b3e@000000_oswg97500oswg1080oswg460_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "d1cdf67badd3",
-          "title": "机器人不像人，还算“赛博物种”吗？",
-          "desc": "“物种”从来不是由外形来定义，而在于它解决了人类世界的什么问题。",
-          "source": "36氪",
-          "date": "2026-05-30",
-          "dateLabel": "5月30日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://36kr.com/p/3831238496167808",
-          "image": "https://img.36krcdn.com/hsossms/20260530/v2_aa3b970e79dd40dc893e43d37f05c45c@000000_oswg108608oswg1273oswg542_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "770c3cb27cd7",
-          "title": "苹果用AI重新发明了图像压缩：同样画质，文件只要三分之一",
-          "desc": "让人眼满意",
-          "source": "36氪",
-          "date": "2026-05-30",
-          "dateLabel": "5月30日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3831176819124103",
-          "image": "https://img.36krcdn.com/hsossms/20260530/v2_5db2dfd9f7234542aba5b67a770ec416@000000@ai_oswg229039oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "d63bab0434e3",
-          "title": "700亿融资赶紧到位吧，DeepSeek 开始限制重生、修改次数了",
-          "desc": "免费AI的每一次“重来”，背后都是算力账。",
-          "source": "36氪",
-          "date": "2026-05-30",
-          "dateLabel": "5月30日",
-          "tags": [
-            "model",
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3831137120395271",
-          "image": "https://img.36krcdn.com/hsossms/20260530/v2_62de8d9318e64a7b815508e0c24eb989@6100851_oswg1132458oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "437fcc8a6be0",
-          "title": "上海大模型龙头，启动A股上市",
-          "desc": "新一代旗舰模型也即将发布。",
-          "source": "36氪",
-          "date": "2026-05-30",
-          "dateLabel": "5月30日",
-          "tags": [
-            "model",
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3831159799834249",
-          "image": "https://img.36krcdn.com/hsossms/20260530/v2_ca37b5ad4be849c4a06929f5930a10c1@6100851_oswg850658oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "f8b0d9d21f47",
-          "title": "6道题，看懂AI的商业趋势",
-          "desc": "6道题，看懂AI的商业趋势",
-          "source": "36氪",
-          "date": "2026-05-30",
-          "dateLabel": "5月30日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3830455881016969",
-          "image": "https://img.36krcdn.com/hsossms/20260530/v2_b88e79d989194fe28c8fcd056ce44606@6100851@ai_oswg1080364oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "a1a9f9a387f9",
-          "title": "帮Gemini拿下IMO金牌的关键先生，差点成了职业钢琴家",
-          "desc": "（可能是）大模型圈里最会弹钢琴的人",
-          "source": "量子位",
-          "date": "2026-05-30",
-          "dateLabel": "5月30日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://www.qbitai.com/2026/05/426706.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -3393,6 +3387,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-07-02 13:57",
+  "updateTime": "2026-07-03 13:51",
   "totalNews": 217
 }
