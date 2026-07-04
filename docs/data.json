@@ -1,71 +1,244 @@
 {
   "newsData": [
     {
+      "date": "2026-07-04",
+      "dateLabel": "7月4日",
+      "id": "d04",
+      "items": [
+        {
+          "id": "9563389b5441",
+          "title": "太蠢，不配用 Claude Fable 5？",
+          "desc": "Fable 5 的内心小作文，藏着什么？",
+          "source": "36氪",
+          "date": "2026-07-04",
+          "dateLabel": "7月4日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://36kr.com/p/3880806277754883",
+          "image": "https://img.36krcdn.com/hsossms/20260704/v2_da18f6a6c9904171a7e1ece637849104@000000_oswg141692oswg1277oswg543_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "7cdcbd51fc43",
+          "title": "对话傲鲨创始人徐振华：当科幻机甲成为户外装备，外骨骼如何重新定义人机关系？",
+          "desc": "一场机甲徒步，和它背后走向大众的外骨骼机器人",
+          "source": "36氪",
+          "date": "2026-07-04",
+          "dateLabel": "7月4日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://36kr.com/p/3880770270425089",
+          "image": "https://img.36krcdn.com/hsossms/20260704/v2_f48129b2a97940a38d40f311eb0c7dfc@5688585_oswg76885oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "77640171cb14",
+          "title": "微软、字节、福特都在高薪招人 AI又衍生了一个新岗位",
+          "desc": "微软砸25亿派6000人进厂，Ford召回350位工程师",
+          "source": "36氪",
+          "date": "2026-07-04",
+          "dateLabel": "7月4日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3880071979694726",
+          "image": "https://img.36krcdn.com/hsossms/20260703/v2_253c3e1bf98742de971c1b2c4badc146@000000_oswg128115oswg1280oswg544_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "c3d328e89a81",
+          "title": "美光扩建日本广岛半导体工厂：投资 1.5 万亿日元，为英伟达等供应 AI 芯片",
+          "desc": "IT之家 7 月 4 日消息，彭博社今天（7 月 4 日）发布博文，报道称美光（Micron）在日本广岛启动半导体工厂扩建项目，项目总投资为 1.5 万亿日元（IT之家注：现汇率约合 631.14 亿元人民币），主要生产先进存储芯片。根据公开文件，日本经济产业省（METI）针对该半导体扩建项目，最高提供 5000 亿日元（现汇率约合 210.38 亿元人民币）支持，项目建设方为美光科技。新半导体扩",
+          "source": "IT之家",
+          "date": "2026-07-04",
+          "dateLabel": "7月4日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/972/531.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/73603aad-e0f8-4716-85e2-ad8932b7cfcf.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "2838744e8146",
+          "title": "我国研制全球首款神经动力学芯片，首次将单步运算时延压缩至 2.12 毫秒",
+          "desc": "IT之家 7 月 4 日消息，北京大学集成电路学院官方公众号昨日（7 月 3 日）发布博文，宣布联合发布全球首款基于可控存内计算的忆阻器神经动力学芯片，首次将神经动力学系统的单步运算时延压缩至 2.12 毫秒。IT之家援引博文介绍，该项目由该校杨玉超教授带领，联合中国科学院上海微系统与信息技术研究所研究员宋志棠团队推进，相关成果于 7 月 3 日发表在《科学》上。基于相变型忆阻器的毫秒级神经动力学",
+          "source": "IT之家",
+          "date": "2026-07-04",
+          "dateLabel": "7月4日",
+          "tags": [
+            "research",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/972/526.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/a19ac88e-f6ff-4aed-a8dc-25e1a25906ef.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "7ea4545e46e1",
+          "title": "宇树科技陈立：机器人目前没有大面积应用，主要原因是具身智能大模型不成熟",
+          "desc": "IT之家 7 月 4 日消息，据新浪财经报道，亚布力中国企业家论坛第十二届创新年会于 7 月 3 日-4 日在上海召开。宇树科技股份有限公司联合创始人陈立表示，机器人目前其实还没有大面积应用，主要原因还是具身智能大模型没有成熟。他首先认为，未来 2-5 年首先需要有一个统一的端到端机器人大模型，这是最重要的。其次，机器人普及还需要有更低成本、更高寿命的硬件，以及超大批量规模生产制造。在实现超大批量",
+          "source": "IT之家",
+          "date": "2026-07-04",
+          "dateLabel": "7月4日",
+          "tags": [
+            "model",
+            "research",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/972/522.htm",
+          "image": "",
+          "color": "#d97706"
+        },
+        {
+          "id": "8d566305ba42",
+          "title": "F-Droid 抨击谷歌安卓开发者验证机制：看似无害的病毒",
+          "desc": "IT之家 7 月 4 日消息，开源应用仓库 F-Droid 于 7 月 1 日发布博文，抨击谷歌推行的安卓开发者验证机制，称其为：“伪装成看似无害进程的病毒”。IT之家注：安卓开发者验证（Android Developer Verification，简称 ADV）是谷歌推出的身份认证机制，要求安卓应用开发者提供有效信息（如政府 ID 或企业资质）完成注册，通过验证的应用才能被正常安装。该验证机制主",
+          "source": "IT之家",
+          "date": "2026-07-04",
+          "dateLabel": "7月4日",
+          "tags": [
+            "business",
+            "policy",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/972/519.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/7cf2b86d-1d13-4960-9ab6-83c581a5a3b7.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "8dc2c275bc6e",
+          "title": "拯救“雨燕”空间天文台，美国宇航局成功发射 Swift Boost 任务",
+          "desc": "IT之家 7 月 4 日消息，美国宇航局（NASA）昨日（7 月 3 日）发布公告，宣布于美国东部时间 7 月 3 日星期五 4 点 36 分（IT之家注：北京时间 7 月 3 日 16 点 36 分）发射 Swift Boost 任务，用于拯救即将坠落的“雨燕”空间天文台。本次任务主要发射由 Katalyst Space 公司制造的机器人服务航天器 LINK，并由诺斯罗普 · 格鲁曼公司的 Pe",
+          "source": "IT之家",
+          "date": "2026-07-04",
+          "dateLabel": "7月4日",
+          "tags": [
+            "research",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/972/506.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/5b89913d-c21e-4be1-8c37-ccfc80089807.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-07-03",
       "dateLabel": "7月3日",
       "id": "d03",
       "items": [
         {
-          "id": "21f79dca7198",
-          "title": "杨立昆团队最新研究：让世界模型学会“自适应”，在行动中持续进化",
-          "desc": "边规划边学习",
-          "source": "36氪",
-          "date": "2026-07-03",
-          "dateLabel": "7月3日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://36kr.com/p/3879369780817922",
-          "image": "https://img.36krcdn.com/hsossms/20260703/v2_af9b4ee98b844395ab2bb77e1be8bd48@000000@ai_oswg278971oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "d3d1bbe56169",
-          "title": "OpenAI总裁Greg Brockman最新大胆预测：ChatGPT与Agent融合后，所有界面都会消失",
-          "desc": "OpenAI正在构建的“Agent时代”",
-          "source": "36氪",
-          "date": "2026-07-03",
-          "dateLabel": "7月3日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://36kr.com/p/3879369595927426",
-          "image": "https://img.36krcdn.com/hsossms/20260703/v2_8ef00cef61dd44a5aab9300cc18efad4@1743780481@ai_oswg1052769oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "079a6ebcd193",
-          "title": "扎男服输，AI大厂开始“分流”",
-          "desc": "马斯克：扎男服输前我就先服输了",
+          "id": "ef87918837a5",
+          "title": "消失的真人：互联网正在被AI接管？",
+          "desc": "网络空间里的访客，正在被机器系统性占据",
           "source": "36氪",
           "date": "2026-07-03",
           "dateLabel": "7月3日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3879326780504710",
-          "image": "https://img.36krcdn.com/hsossms/20260703/v2_c82331414036481aa0168d4a9462385e@1743780481@ai_oswg1159011oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3879785788616713",
+          "image": "https://img.36krcdn.com/hsossms/20260703/v2_8c61f3e126d14b03bf3a58dda80aae2d@5888275@ai_oswg1100986oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "428926b21f10",
-          "title": "超190亿，AI视频最大单笔融资诞生，阿里腾讯百度都投了",
-          "desc": "投前估值超1000亿。",
+          "id": "5bbe101f8545",
+          "title": "三年亏一亿、股价跌七成，高瓴还在力挺这家机器人公司",
+          "desc": "连续亏损的卧安机器人，获资本看好布局家庭具身智能",
           "source": "36氪",
           "date": "2026-07-03",
           "dateLabel": "7月3日",
           "tags": [
-            "business",
-            "cn"
+            "research"
           ],
-          "url": "https://36kr.com/p/3879243629637632",
-          "image": "https://img.36krcdn.com/hsossms/20260703/v2_a74548fed29a468a80a78075cea41fda@000000@ai_oswg371664oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3879748658428552",
+          "image": "https://img.36krcdn.com/hsossms/20260703/v2_09068ce849f245d4b58798da0e02c304@5888275@ai_oswg974094oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "75aa62c4bad3",
-          "title": "烧光一亿Token只为写周报？360周鸿祎揭穿大模型幻觉残酷真相",
-          "desc": "周鸿祎谈AI：淘汰你的是会用AI的人，需重塑企业组织。",
+          "id": "b0347ea53836",
+          "title": "硬件是骨， AI 是魂，数据让二者成为一体",
+          "desc": "数据一旦转不起来，AI 也许依然难以摆脱困于房间的宿命，而硬件也可能只是包裹了一层科技糖衣的漂亮外壳。",
+          "source": "36氪",
+          "date": "2026-07-03",
+          "dateLabel": "7月3日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3879793294867081",
+          "image": "https://img.36krcdn.com/hsossms/20260703/v2_0e030f2637b845a78c655ef2c75cd5c0@5888275@ai_oswg943016oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "8f7e9c751e73",
+          "title": "Meta“算力过剩”疑云背后：扎克伯格说AI进展慢了，AI负责人新模型说已追上GPT-5.5",
+          "desc": "哪些是杂音，哪些是真正的内幕",
+          "source": "36氪",
+          "date": "2026-07-03",
+          "dateLabel": "7月3日",
+          "tags": [
+            "model",
+            "business"
+          ],
+          "url": "https://36kr.com/p/3879841742090242",
+          "image": "https://img.36krcdn.com/hsossms/20260703/v2_e0436a2c9f324927807f81cc88a4893f@5888275@ai_oswg1059737oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "095602284ab9",
+          "title": "DeepSeek新技术移植苹果芯片，Mac本地大模型加速60%",
+          "desc": "还把DFlash接了进来",
+          "source": "36氪",
+          "date": "2026-07-03",
+          "dateLabel": "7月3日",
+          "tags": [
+            "model",
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3879842615308547",
+          "image": "https://img.36krcdn.com/hsossms/20260703/v2_b4fa5229bfb340beaf6f6075901edead@5888275@ai_oswg981652oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "6eec68c79421",
+          "title": "Fable 5解题解到破防，一句“啊啊啊”刷屏了",
+          "desc": "当 AI 忘记「说人话」，围观 Fable 5 混乱的内心独白",
+          "source": "36氪",
+          "date": "2026-07-03",
+          "dateLabel": "7月3日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3879697309331461",
+          "image": "https://img.36krcdn.com/hsossms/20260703/v2_973c642a178a44e6a56dfdec1bd4df2d@5888275@ai_oswg894869oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "14c5a846eb2c",
+          "title": "阿莫迪，你比张无忌还厉害",
+          "desc": "成立5年，Anthropic准备要主导AI芯片了",
+          "source": "36氪",
+          "date": "2026-07-03",
+          "dateLabel": "7月3日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3879718019627904",
+          "image": "https://img.36krcdn.com/hsossms/20260703/v2_c852b0ea811d43f2b0dc98e3de210b35@5888275@ai_oswg1048456oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "17b8a45f88b2",
+          "title": "Claude Code 80%的提示词说删就删，Anthropic用Fable 5打了个样：AI行业的“降本”才刚刚开始",
+          "desc": "“Fable 5 这个价格远高于中国程序员一天工资。写代码一天烧几百万 token 已经很节约了，然后一看账单几千 rmb。”",
           "source": "36氪",
           "date": "2026-07-03",
           "dateLabel": "7月3日",
@@ -73,51 +246,8 @@
             "model",
             "cn"
           ],
-          "url": "https://36kr.com/p/3878668651936389",
-          "image": "https://img.36krcdn.com/hsossms/20260703/v2_0af0bcfd3e7f42b0a644810688aa7162@1743780481@ai_oswg1033377oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "d344063a8c81",
-          "title": "扎克伯格，把AI牛市吓了一跳",
-          "desc": "Meta不是在卖算力，它是在挑战撑起AI产业牛市的故事。",
-          "source": "36氪",
-          "date": "2026-07-03",
-          "dateLabel": "7月3日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3879311047309959",
-          "image": "https://img.36krcdn.com/hsossms/20260703/v2_5b60a60932874c1f8c5d46b71cb4a4bb@1743780481@ai_oswg1019561oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "e42e5a89d12f",
-          "title": "这届毕业生，忙着让论文与AI划清界限",
-          "desc": "高校AI论文检测存误判等问题，需完善检测制度。",
-          "source": "36氪",
-          "date": "2026-07-03",
-          "dateLabel": "7月3日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://36kr.com/p/3879275232423940",
-          "image": "https://img.36krcdn.com/hsossms/20260703/v2_b697d203e79d4bbeb4c7967fe4c929d9@1743780481@ai_oswg1021515oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "51160d3e8257",
-          "title": "偷藏3个月，Anthropic删除识别“中国AI”的隐藏代码，官方回应：这只是一次实验，我们早想删了",
-          "desc": "隐藏代码删除了，用户信任却难以恢复",
-          "source": "36氪",
-          "date": "2026-07-03",
-          "dateLabel": "7月3日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3879301021921537",
-          "image": "https://img.36krcdn.com/hsossms/20260703/v2_a323feee943041a28e39b6301d611546@1743780481@ai_oswg1124617oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3879682654121990",
+          "image": "https://img.36krcdn.com/hsossms/20260703/v2_bfd4bd3cef81413b8801b401c1198213@5888275@ai_oswg923416oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         }
       ]
@@ -3240,128 +3370,6 @@
           "color": "#2563eb"
         }
       ]
-    },
-    {
-      "date": "2026-05-31",
-      "dateLabel": "5月31日",
-      "id": "d31",
-      "items": [
-        {
-          "id": "a81831492ede",
-          "title": "阿里“上货”，字节“练功”",
-          "desc": "基因决定动作",
-          "source": "36氪",
-          "date": "2026-05-31",
-          "dateLabel": "5月31日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3832960755507456",
-          "image": "https://img.36krcdn.com/hsossms/20260531/v2_35b9a00362e942a8afd03c8dfa04e5d0@1743780481@ai_oswg1054688oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "08f76fc9a67e",
-          "title": "开源编程语言Zig，向AI代码说「不」",
-          "desc": "Zig创建者：AI辅助贡献就是「垃圾」",
-          "source": "36氪",
-          "date": "2026-05-31",
-          "dateLabel": "5月31日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3832633186952833",
-          "image": "https://img.36krcdn.com/hsossms/20260531/v2_0ff69d986fba44b09c155674d8b5af9e@1743780481@ai_oswg1081498oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "ad6cc44d63e9",
-          "title": "宇树上会，机器人会成为半导体下一个超级终端吗？",
-          "desc": "具身智能，能带飞谁？",
-          "source": "36氪",
-          "date": "2026-05-31",
-          "dateLabel": "5月31日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://36kr.com/p/3832629304780423",
-          "image": "https://img.36krcdn.com/hsossms/20260531/v2_8526cc72fdbe4d5f94de96f2302b4447@1743780481@ai_oswg1176511oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "94261d97acdb",
-          "title": "4月AI月报：全球原生AI下载3.65亿，豆包、即梦等大陆市场下载量全面收缩",
-          "desc": "2026年4月全球原生AI应用下载量下滑，头部增速分层",
-          "source": "36氪",
-          "date": "2026-05-31",
-          "dateLabel": "5月31日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3832446191462021",
-          "image": "https://img.36krcdn.com/hsossms/20260531/v2_837e1bf2a15a464987c68a3510db79b9@1743780481@ai_oswg1006588oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "6794211a7927",
-          "title": "翻倍又闪崩！AI故事讲不下去了？",
-          "desc": "炒作还是转型？",
-          "source": "36氪",
-          "date": "2026-05-31",
-          "dateLabel": "5月31日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3832898367170185",
-          "image": "https://img.36krcdn.com/hsossms/20260531/v2_7a5ca473dfac4231a831211b7b2dfa19@000000@ai_oswg352517oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "e29b92e5bb3b",
-          "title": "华尔街最火00后",
-          "desc": "新晋天才交易员。",
-          "source": "36氪",
-          "date": "2026-05-31",
-          "dateLabel": "5月31日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3832884398598024",
-          "image": "https://img.36krcdn.com/hsossms/20260531/v2_93cd66d301634491b692483e878d294b@6076018@ai_oswg893133oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "222097749b7b",
-          "title": "“中国最会烧钱的4个男人，坐上了同一张牌桌”",
-          "desc": "4个理工男，撑起中国AI半边天。",
-          "source": "36氪",
-          "date": "2026-05-31",
-          "dateLabel": "5月31日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3831900268865157",
-          "image": "https://img.36krcdn.com/hsossms/20260530/v2_fdfbf87f2e08412cafc97846e50ab33e@000000@ai_oswg298411oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "fa6e3f5ae9b6",
-          "title": "DDIM之父宋佳铭，宣布离职",
-          "desc": "新的浪潮，还在继续往前推",
-          "source": "量子位",
-          "date": "2026-05-31",
-          "dateLabel": "5月31日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/05/427104.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -3387,6 +3395,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-07-03 13:51",
+  "updateTime": "2026-07-04 13:44",
   "totalNews": 217
 }
