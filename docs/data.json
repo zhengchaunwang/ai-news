@@ -1,10 +1,232 @@
 {
   "newsData": [
     {
+      "date": "2026-07-05",
+      "dateLabel": "7月5日",
+      "id": "d05",
+      "items": [
+        {
+          "id": "77b7018886d9",
+          "title": "Codex、ChatGPT为何合体？Codex未来何去何从？OpenAI核心leader回应一切",
+          "desc": "Codex 桌面应用团队负责人 Andrew Ambrosino访谈",
+          "source": "36氪",
+          "date": "2026-07-05",
+          "dateLabel": "7月5日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://36kr.com/p/3882258709180678",
+          "image": "https://img.36krcdn.com/hsossms/20260705/v2_6e413258705c4f17bbc156b831932470@576620215@ai_oswg1145037oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "2da21b10a344",
+          "title": "赛博菩萨 Cloudflare，AI 爬虫最严厉的父亲",
+          "desc": "互联网最大的「保安」，现在要当最大的「收银员」了。",
+          "source": "36氪",
+          "date": "2026-07-05",
+          "dateLabel": "7月5日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3882226982842376",
+          "image": "https://img.36krcdn.com/hsossms/20260705/v2_7f3dd7b034e74460b213004119509faa@000000@ai_oswg298527oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "2559a462dba0",
+          "title": "汽车零部件巨头们，对人形机器人“上头”了",
+          "desc": "现在，Tier1巨头们正在寻求“第二次生命”。",
+          "source": "36氪",
+          "date": "2026-07-05",
+          "dateLabel": "7月5日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://36kr.com/p/3882021170589699",
+          "image": "https://img.36krcdn.com/hsossms/20260705/v2_ddd6e9acd79b4fad9d0544d8a4fffd5b@000000@ai_oswg319456oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "10256a83dd12",
+          "title": "不用敲键盘，Win11 版谷歌 Chrome 浏览器将内置原生语音输入功能",
+          "desc": "IT之家 7 月 5 日消息，谷歌 Chrome 浏览器正为 Windows 11 系统开发一项“语音输入”功能，用户只需对着麦克风说话，就能在电脑上录入文字，无需敲击键盘。IT之家注意到，微软 Edge 浏览器早已上线语音输入功能，按下快捷键 Windows+H 即可随时开启语音听写。使用该功能前，用户需要在 Windows 隐私设置中开启在线语音识别。这项功能适用于所有场景，包括各类浏览器，调",
+          "source": "IT之家",
+          "date": "2026-07-05",
+          "dateLabel": "7月5日",
+          "tags": [
+            "business",
+            "policy"
+          ],
+          "url": "https://www.ithome.com/0/972/731.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/7b313b25-db7b-427d-8397-5e315b83d252.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "a3db5d9d030c",
+          "title": "丰田将借助 AI 把各部门 4.5 万个专业术语精简至 5000 个，以提升生产效率",
+          "desc": "IT之家 7 月 5 日消息，据日经亚洲报道，丰田汽车将统一企划、生产、销售各部门规格清单的专用术语，削减 30% 中间流程，为更快地生产汽车铺平道路。据IT之家了解，丰田各部门对零部件规格的叫法各不相同：企划部门标注为“A1AC 无音响配置”的配件，在生产系统中可能录入代码“136S”；同一款零部件，会根据车型、生产工序出现多种不同表述。从车型企划到车辆交付销售的全流程里，共有 195 道工序（",
+          "source": "IT之家",
+          "date": "2026-07-05",
+          "dateLabel": "7月5日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/972/724.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/c84d9ff0-c8c9-4d96-9f53-84e9b1ed381c.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "20e892954ced",
+          "title": "LG Display 用 AI 降本，每年可省超 2000 亿韩元",
+          "desc": "IT之家 7 月 5 日消息，据 The Elec 报道，LG Display 表示，通过推广基于人工智能的生产制造与产品研发系统，公司每年可节省超 2000 亿韩元（IT之家注：现汇率约合 8.81 亿元人民币）成本。该公司于当地时间 7 月 3 日称，正在将虚拟设计验证技术（VDE）全面应用于下一代显示技术研发，覆盖光学、材料、器件及基板等多个领域。虚拟设计验证是一套依托仿真模拟的技术，能在虚",
+          "source": "IT之家",
+          "date": "2026-07-05",
+          "dateLabel": "7月5日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/972/712.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/8453169a-9de3-4805-a7af-dde04e5b82d6.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "965e10570483",
+          "title": "日本工业机器人企业押注 AI，欲重夺全球市场主导地位",
+          "desc": "IT之家 7 月 5 日消息，据日经亚洲报道，日本工业机器人企业正押注人工智能与开放式合作，以此作为重夺全球市场昔日主导地位的核心抓手。安川电机位于日本北九州总部的全新母工厂于 6 月全面投产。厂区内约百台机器人中，有三分之一由人工智能驱动。安川电机常务执行董事 Ayumi Hayashida 表示：“借助人工智能机器人，我们的生产效率实现翻倍提升。”安川电机长期深耕工厂自动化领域，但传统机器人单",
+          "source": "IT之家",
+          "date": "2026-07-05",
+          "dateLabel": "7月5日",
+          "tags": [
+            "research",
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/972/711.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/efa56846-b90f-4683-8d10-a4e4848b2f00.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "e72f5df2639a",
+          "title": "荣耀手表 5 Pro 新版本计划月底前推送，官方产品维护称表端 MagicOS 升级正在规划中",
+          "desc": "IT之家 7 月 5 日消息，荣耀官方产品维护 @智能穿戴 前天晚上发布了荣耀手表 5 Pro 升级公告，称该款手表的版本正在开发中，计划 7 月 30 日之前推送。荣耀官方还表示，手表的 MagicOS 升级也正在规划中。据IT之家此前报道，荣耀手表 5 Pro 发布于去年 10 月，首发灵瞳感知系统，配备全新分布式光学设计和智能调光技术。同时其屏幕峰值亮度可达 3000 尼特，并支持腕上 AI",
+          "source": "IT之家",
+          "date": "2026-07-05",
+          "dateLabel": "7月5日",
+          "tags": [
+            "model",
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/972/705.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/be5d1bff-417f-49e4-86c4-0b935420b546.jpg",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-07-04",
       "dateLabel": "7月4日",
       "id": "d04",
       "items": [
+        {
+          "id": "1af61da3ea9a",
+          "title": "语音输入戒指OASIS走红，Vibe Coding带火了一波AI硬件",
+          "desc": "「听话」的语音硬件起风了。",
+          "source": "36氪",
+          "date": "2026-07-04",
+          "dateLabel": "7月4日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3880964231707525",
+          "image": "https://img.36krcdn.com/hsossms/20260704/v2_bdb95fbc0c1543a9b7ad02266ff74c60@1547419282_oswg393902oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "36f978a967a8",
+          "title": "Anthropic拟全面封禁地下通道",
+          "desc": "外媒爆料：Anthropic正在准备全面封禁地下通道访问。这是史上最严的一次清洗，几乎所有的后门都被强制关闭。",
+          "source": "36氪",
+          "date": "2026-07-04",
+          "dateLabel": "7月4日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3881112560005381",
+          "image": "https://img.36krcdn.com/hsossms/20260704/v2_097dd49ba7174c67ac0b6c698c263faf@6100851_oswg807719oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "fc555b940cbe",
+          "title": "宇树的1/2，机器人“祖师爷”彻底卖身",
+          "desc": "没人为“科研”买单。",
+          "source": "36氪",
+          "date": "2026-07-04",
+          "dateLabel": "7月4日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://36kr.com/p/3881015494504708",
+          "image": "https://img.36krcdn.com/hsossms/20260704/v2_b8e5442b4d0c474ba6abac1c2fa1db18@6100851_oswg1062130oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "098e1d6cf2af",
+          "title": "趁火打劫，GPT-5.6三大模型全曝，定档7月7日？",
+          "desc": "突发偷跑！GPT-5.6三大神秘模型底层代码曝光，下周二重磅降临。这一波，OpenAI是卡点截杀Claude，用超高额度「趁火打劫」。7月7日，有大事要发生。",
+          "source": "36氪",
+          "date": "2026-07-04",
+          "dateLabel": "7月4日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://36kr.com/p/3880971920584962",
+          "image": "https://img.36krcdn.com/hsossms/20260704/v2_182a33bd1b814ad7969120015268389a@6100851_oswg794008oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "771df930c3a7",
+          "title": "“不可能三角”下的AI眼镜芯片还要迈过几道坎",
+          "desc": "AI眼镜出货量爆发背后，芯片成为产业核心瓶颈。",
+          "source": "36氪",
+          "date": "2026-07-04",
+          "dateLabel": "7月4日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3880751081336839",
+          "image": "https://img.36krcdn.com/hsossms/20260704/v2_5f8ee376c2694b5f9ae3dc0c5e11588a@6100851_oswg682880oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "249010fc64bf",
+          "title": "程一笑要带可灵AI打“对赌局”",
+          "desc": "快手也养不起可灵AI了。",
+          "source": "36氪",
+          "date": "2026-07-04",
+          "dateLabel": "7月4日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3880802116582280",
+          "image": "https://img.36krcdn.com/hsossms/20260704/v2_c1db14298a1642dcb962d0e95453a323@6100851_oswg401720oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "18e0642cd221",
+          "title": "Hinton盛赞，Gemini核心贡献者演讲：未来会有数十亿超人级AI爱因斯坦",
+          "desc": "「我们的文明已经学会了如何将沙子转化为硅芯片，将硅芯片转化为神经网络，再将神经网络转化为人工智能。在过去的五年里，大型语言模型人工智能（如 ChatGPT 和 Gemini）的能力从蹒跚学步的幼儿跃升至国际数学奥林匹克金牌得主，如今更超越了这一水平。」",
+          "source": "36氪",
+          "date": "2026-07-04",
+          "dateLabel": "7月4日",
+          "tags": [
+            "model",
+            "business"
+          ],
+          "url": "https://36kr.com/p/3880834484613121",
+          "image": "https://img.36krcdn.com/hsossms/20260704/v2_2aa7e9b21d4942f1bbd49b7e7082c442@000000@ai_oswg325607oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
         {
           "id": "9563389b5441",
           "title": "太蠢，不配用 Claude Fable 5？",
@@ -18,114 +240,6 @@
           "url": "https://36kr.com/p/3880806277754883",
           "image": "https://img.36krcdn.com/hsossms/20260704/v2_da18f6a6c9904171a7e1ece637849104@000000_oswg141692oswg1277oswg543_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
           "color": "#2563eb"
-        },
-        {
-          "id": "7cdcbd51fc43",
-          "title": "对话傲鲨创始人徐振华：当科幻机甲成为户外装备，外骨骼如何重新定义人机关系？",
-          "desc": "一场机甲徒步，和它背后走向大众的外骨骼机器人",
-          "source": "36氪",
-          "date": "2026-07-04",
-          "dateLabel": "7月4日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://36kr.com/p/3880770270425089",
-          "image": "https://img.36krcdn.com/hsossms/20260704/v2_f48129b2a97940a38d40f311eb0c7dfc@5688585_oswg76885oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "77640171cb14",
-          "title": "微软、字节、福特都在高薪招人 AI又衍生了一个新岗位",
-          "desc": "微软砸25亿派6000人进厂，Ford召回350位工程师",
-          "source": "36氪",
-          "date": "2026-07-04",
-          "dateLabel": "7月4日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3880071979694726",
-          "image": "https://img.36krcdn.com/hsossms/20260703/v2_253c3e1bf98742de971c1b2c4badc146@000000_oswg128115oswg1280oswg544_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "c3d328e89a81",
-          "title": "美光扩建日本广岛半导体工厂：投资 1.5 万亿日元，为英伟达等供应 AI 芯片",
-          "desc": "IT之家 7 月 4 日消息，彭博社今天（7 月 4 日）发布博文，报道称美光（Micron）在日本广岛启动半导体工厂扩建项目，项目总投资为 1.5 万亿日元（IT之家注：现汇率约合 631.14 亿元人民币），主要生产先进存储芯片。根据公开文件，日本经济产业省（METI）针对该半导体扩建项目，最高提供 5000 亿日元（现汇率约合 210.38 亿元人民币）支持，项目建设方为美光科技。新半导体扩",
-          "source": "IT之家",
-          "date": "2026-07-04",
-          "dateLabel": "7月4日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/972/531.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/73603aad-e0f8-4716-85e2-ad8932b7cfcf.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "2838744e8146",
-          "title": "我国研制全球首款神经动力学芯片，首次将单步运算时延压缩至 2.12 毫秒",
-          "desc": "IT之家 7 月 4 日消息，北京大学集成电路学院官方公众号昨日（7 月 3 日）发布博文，宣布联合发布全球首款基于可控存内计算的忆阻器神经动力学芯片，首次将神经动力学系统的单步运算时延压缩至 2.12 毫秒。IT之家援引博文介绍，该项目由该校杨玉超教授带领，联合中国科学院上海微系统与信息技术研究所研究员宋志棠团队推进，相关成果于 7 月 3 日发表在《科学》上。基于相变型忆阻器的毫秒级神经动力学",
-          "source": "IT之家",
-          "date": "2026-07-04",
-          "dateLabel": "7月4日",
-          "tags": [
-            "research",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/0/972/526.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/a19ac88e-f6ff-4aed-a8dc-25e1a25906ef.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "7ea4545e46e1",
-          "title": "宇树科技陈立：机器人目前没有大面积应用，主要原因是具身智能大模型不成熟",
-          "desc": "IT之家 7 月 4 日消息，据新浪财经报道，亚布力中国企业家论坛第十二届创新年会于 7 月 3 日-4 日在上海召开。宇树科技股份有限公司联合创始人陈立表示，机器人目前其实还没有大面积应用，主要原因还是具身智能大模型没有成熟。他首先认为，未来 2-5 年首先需要有一个统一的端到端机器人大模型，这是最重要的。其次，机器人普及还需要有更低成本、更高寿命的硬件，以及超大批量规模生产制造。在实现超大批量",
-          "source": "IT之家",
-          "date": "2026-07-04",
-          "dateLabel": "7月4日",
-          "tags": [
-            "model",
-            "research",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/0/972/522.htm",
-          "image": "",
-          "color": "#d97706"
-        },
-        {
-          "id": "8d566305ba42",
-          "title": "F-Droid 抨击谷歌安卓开发者验证机制：看似无害的病毒",
-          "desc": "IT之家 7 月 4 日消息，开源应用仓库 F-Droid 于 7 月 1 日发布博文，抨击谷歌推行的安卓开发者验证机制，称其为：“伪装成看似无害进程的病毒”。IT之家注：安卓开发者验证（Android Developer Verification，简称 ADV）是谷歌推出的身份认证机制，要求安卓应用开发者提供有效信息（如政府 ID 或企业资质）完成注册，通过验证的应用才能被正常安装。该验证机制主",
-          "source": "IT之家",
-          "date": "2026-07-04",
-          "dateLabel": "7月4日",
-          "tags": [
-            "business",
-            "policy",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/0/972/519.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/7cf2b86d-1d13-4960-9ab6-83c581a5a3b7.jpg",
-          "color": "#d97706"
-        },
-        {
-          "id": "8dc2c275bc6e",
-          "title": "拯救“雨燕”空间天文台，美国宇航局成功发射 Swift Boost 任务",
-          "desc": "IT之家 7 月 4 日消息，美国宇航局（NASA）昨日（7 月 3 日）发布公告，宣布于美国东部时间 7 月 3 日星期五 4 点 36 分（IT之家注：北京时间 7 月 3 日 16 点 36 分）发射 Swift Boost 任务，用于拯救即将坠落的“雨燕”空间天文台。本次任务主要发射由 Katalyst Space 公司制造的机器人服务航天器 LINK，并由诺斯罗普 · 格鲁曼公司的 Pe",
-          "source": "IT之家",
-          "date": "2026-07-04",
-          "dateLabel": "7月4日",
-          "tags": [
-            "research",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/0/972/506.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/5b89913d-c21e-4be1-8c37-ccfc80089807.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
         }
       ]
     },
@@ -3248,128 +3362,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-06-01",
-      "dateLabel": "6月1日",
-      "id": "d01",
-      "items": [
-        {
-          "id": "9d56c11e4043",
-          "title": "黄仁勋突袭英特尔AMD腹地，联手王兴兴，打平三大国产模型",
-          "desc": "英伟达的AI基础设施版图大幅扩张。",
-          "source": "36氪",
-          "date": "2026-06-01",
-          "dateLabel": "6月1日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3834628914295170",
-          "image": "https://img.36krcdn.com/hsossms/20260601/v2_20f4bf8e10f94a4e835998c29d57faa6@1743780481@ai_oswg957067oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "e36e892b313f",
-          "title": "Token成本仅3000元？——10天爆短片，3个月出游戏，今年第一个AI爆款太“野”了",
-          "desc": "打铁还需自身硬。",
-          "source": "36氪",
-          "date": "2026-06-01",
-          "dateLabel": "6月1日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3834628888522886",
-          "image": "https://img.36krcdn.com/hsossms/20260601/v2_96a2422f203b42c8b765c0cf09c2222e@000000@ai_oswg343680oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "226dc5ec0d62",
-          "title": "哈佛最年轻华人教授，被曝加入OpenAI",
-          "desc": "曝OpenAI再揽两位华人学者。",
-          "source": "36氪",
-          "date": "2026-06-01",
-          "dateLabel": "6月1日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3834628713902213",
-          "image": "https://img.36krcdn.com/hsossms/20260601/v2_014cd174f6374f8d94287f036e8d1e0e@000000@ai_oswg391265oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "f68f169766ed",
-          "title": "身价13亿美元的OpenRouter，国内学不了？",
-          "desc": "AI中转站，技术门槛不高，但想合规很难。",
-          "source": "36氪",
-          "date": "2026-06-01",
-          "dateLabel": "6月1日",
-          "tags": [
-            "policy",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3834566154920194",
-          "image": "https://img.36krcdn.com/hsossms/20260601/v2_a9b7b6d356254ae1a620c8d89a996429@1743780481@ai_oswg997843oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "8465febe0410",
-          "title": "传统企业过度AI化：想法很好，但结果很糟",
-          "desc": "可能把企业拉入深渊",
-          "source": "36氪",
-          "date": "2026-06-01",
-          "dateLabel": "6月1日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3834465978066560",
-          "image": "https://img.36krcdn.com/hsossms/20260601/v2_214d1e9ae62d4b74b2a1f9b804f94e66@5888275@ai_oswg991540oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "053c880c93f4",
-          "title": "10万亿，中国正成为AI基建狂魔",
-          "desc": "请注意，中国要发力了。",
-          "source": "36氪",
-          "date": "2026-06-01",
-          "dateLabel": "6月1日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3834567522726280",
-          "image": "https://img.36krcdn.com/hsossms/20260601/v2_c6ce9b6f3cdd484e9dec76a81990d150@5888275@ai_oswg1104434oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "ac4b3a551430",
-          "title": "Hinton宣告“AI醒了”，教皇却断言它没有灵魂",
-          "desc": "当诺奖得主、神经网络之父Geoffrey Hinton在采访中低沉说出「Yes, I do」，他宣布：AI已经觉醒了。",
-          "source": "36氪",
-          "date": "2026-06-01",
-          "dateLabel": "6月1日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3834555030581637",
-          "image": "https://img.36krcdn.com/hsossms/20260601/v2_ab47163382234117b793b6534786381d@5888275@ai_oswg1030085oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "e2925b91b8b6",
-          "title": "Agent硬件大爆发，高通押注的“计算连续体”是什么鬼？",
-          "desc": "所有地方都会运行 AI，而这一切会发生在整个计算连续体上。",
-          "source": "36氪",
-          "date": "2026-06-01",
-          "dateLabel": "6月1日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3834522611425280",
-          "image": "https://img.36krcdn.com/hsossms/20260601/v2_96c55e852be641b68b99da601e389e16@5888275@ai_oswg1053602oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -3395,6 +3387,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-07-04 13:44",
+  "updateTime": "2026-07-05 14:03",
   "totalNews": 217
 }
