@@ -1,121 +1,241 @@
 {
   "newsData": [
     {
+      "date": "2026-07-07",
+      "dateLabel": "7月7日",
+      "id": "d07",
+      "items": [
+        {
+          "id": "978372c08d3b",
+          "title": "空间计算重生，苹果曾力推失败，AI让AR眼镜再次伟大",
+          "desc": "时来天地皆同力。",
+          "source": "36氪",
+          "date": "2026-07-07",
+          "dateLabel": "7月7日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3885024107281287",
+          "image": "https://img.36krcdn.com/hsossms/20260707/v2_3d1501b965e5441380b63f629baab256@5091053@ai_oswg995751oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "0d0392311290",
+          "title": "杨立昆刚骂完AGI，Anthropic就找到了AGI的证据",
+          "desc": "Claude自己“长”出了一个工作空间，可没人知道它是怎么来的",
+          "source": "36氪",
+          "date": "2026-07-07",
+          "dateLabel": "7月7日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://36kr.com/p/3885053630806919",
+          "image": "https://img.36krcdn.com/hsossms/20260707/v2_4fdc69501cb84e64a0dc6a7ad4d4d677@5091053@ai_oswg896969oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "e0e4a65609a8",
+          "title": "半年估值暴涨110亿美元，AI音频为什么比视频先赚到钱？",
+          "desc": "AI视频全在烧钱，AI声音却发了大财",
+          "source": "36氪",
+          "date": "2026-07-07",
+          "dateLabel": "7月7日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3885054711590919",
+          "image": "https://img.36krcdn.com/hsossms/20260707/v2_cba1099731d34a00ae64de94828e3242@5091053@ai_oswg1070269oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "e3f633197468",
+          "title": "奥特曼认错、阿莫迪改口：AI失业恐慌是一场“狼来了”？",
+          "desc": "公众负面情绪怎样影响科技领袖的叙事转向？",
+          "source": "36氪",
+          "date": "2026-07-07",
+          "dateLabel": "7月7日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3885015711199495",
+          "image": "https://img.36krcdn.com/hsossms/20260707/v2_0da8d50d74ad4644837dc0ca649d507e@5091053@ai_oswg866370oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "51d84b439008",
+          "title": "一座“AI应用工厂”的野心：不赌技术，赌需求",
+          "desc": "从AiPPT到小方同学，一位AI创业者的产品观。",
+          "source": "36氪",
+          "date": "2026-07-07",
+          "dateLabel": "7月7日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3884959696367619",
+          "image": "https://img.36krcdn.com/hsossms/20260707/v2_47a09995a2254ead9239b569283cae9a@5091053@ai_oswg961430oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "168a24a11cca",
+          "title": "前大疆员工做了款消费级纺织机，拿下红杉、顺为、米哈游等数亿融资｜产品观察",
+          "desc": "从创作工具向家庭场景渗透。",
+          "source": "36氪",
+          "date": "2026-07-07",
+          "dateLabel": "7月7日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3876837605585160",
+          "image": "https://img.36krcdn.com/hsossms/20260702/v2_892789e2f46d46dd9fef82ff6ac39f15@6022551_oswg1073688oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "466ede601817",
+          "title": "刚刚，Claude 的「潜意识」曝光了",
+          "desc": "Claude 脑子里有块「自留地」",
+          "source": "36氪",
+          "date": "2026-07-07",
+          "dateLabel": "7月7日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://36kr.com/p/3884890869182729",
+          "image": "https://img.36krcdn.com/hsossms/20260707/v2_571676d9ec4a4b31a9db91ce66c06fb8@5091053@ai_oswg936267oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "35f8f79fc256",
+          "title": "Claude的脑子里，也长出了一块「意识」",
+          "desc": "内部发现「类脑空间」，删掉就变傻",
+          "source": "36氪",
+          "date": "2026-07-07",
+          "dateLabel": "7月7日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://36kr.com/p/3884905050452224",
+          "image": "https://img.36krcdn.com/hsossms/20260707/v2_3833edcdfc1d4f4ba1e05da3d97e0611@5091053@ai_oswg1069321oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        }
+      ]
+    },
+    {
       "date": "2026-07-06",
       "dateLabel": "7月6日",
       "id": "d06",
       "items": [
         {
-          "id": "b3c92d6b083d",
-          "title": "Fable 5被网友薅出省钱神招，最高减70%",
-          "desc": "Dario已急哭",
+          "id": "a00d729a3b9f",
+          "title": "与「彼得·蒂尔」和「马斯克」两位狂人一起工作是什么体验？Palantir联合创始人这样说",
+          "desc": "从PayPal到Palantir，Joe Lonsdale亲眼见证了硅谷历史上最具影响力的两个人物——彼得·蒂尔和埃隆·马斯克——如何塑造文化、推动执行、追求使命。",
           "source": "36氪",
           "date": "2026-07-06",
           "dateLabel": "7月6日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3883631587405830",
-          "image": "https://img.36krcdn.com/hsossms/20260706/v2_8371c14afbfe4f04b5db1c1fb6bbe05d@5091053@ai_oswg980973oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3884745197367297",
+          "image": "https://img.36krcdn.com/hsossms/20260707/v2_7484c8145089499b9b750d617a5d1456@5091053@ai_oswg1063795oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "a3c0bd4b24fa",
-          "title": "Vibe Coding误烧55万元token，他靠嘲笑声反手赚了7个亿",
-          "desc": "塞翁失马，焉知非福？",
+          "id": "96b1b07c98e2",
+          "title": "摩根士丹利最新AI报告解读：真正创造最大价值的公司，可能尚未成立",
+          "desc": "摩尔定律终结与瓶颈迁移。",
           "source": "36氪",
           "date": "2026-07-06",
           "dateLabel": "7月6日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3883634355695878",
-          "image": "https://img.36krcdn.com/hsossms/20260706/v2_9ea345ca377e444cbb591070737bce63@5091053@ai_oswg1111993oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3884786855882755",
+          "image": "https://img.36krcdn.com/hsossms/20260707/v2_c94b6ad6b38144e0b85c70ce493b8e30@5091053@ai_oswg1007928oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "730486e5c76a",
-          "title": "硅谷最热岗位落地中国，35岁程序员等来了黄金时代？",
-          "desc": "企业不缺AI信仰，缺一个能让AI干活的人。",
-          "source": "36氪",
-          "date": "2026-07-06",
-          "dateLabel": "7月6日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3883637733093638",
-          "image": "https://img.36krcdn.com/hsossms/20260706/v2_5f40e3acebd8469b8fb542ecc846ad99@5091053@ai_oswg1039757oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "23005b99a4ce",
-          "title": "大厂商战下狠手，Meta被曝给竞争对手AI“投毒”",
-          "desc": "“红队测试”还是商战？",
-          "source": "36氪",
-          "date": "2026-07-06",
-          "dateLabel": "7月6日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3883626731516163",
-          "image": "https://img.36krcdn.com/hsossms/20260706/v2_728ad486bc994ad5a28a961580d6304e@5091053@ai_oswg1063845oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "a0a514481880",
-          "title": "别急着买新 MacBook ，苹果还藏着 AI 时代杀手锏",
-          "desc": "MacBook 的大更新要来了",
-          "source": "36氪",
-          "date": "2026-07-06",
-          "dateLabel": "7月6日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3883628541554945",
-          "image": "https://img.36krcdn.com/hsossms/20260706/v2_bd57e36248504c2f9f3bc19593f70433@5091053@ai_oswg924577oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "d2e7b3dcfab0",
-          "title": "世界模型评测的最大盲区，被这个新基准捅破了",
-          "desc": "MemoBench 正在度量「生成好看的视频」到「维护一个真实的世界」之间的距离",
+          "id": "401e065d9b90",
+          "title": "一份内部报告显示，美国财政部开始评估AI泡沫风险",
+          "desc": "“AI正在重演2000年互联网泡沫，一旦破裂，冲击将穿透整个经济体系。”",
           "source": "36氪",
           "date": "2026-07-06",
           "dateLabel": "7月6日",
           "tags": [
             "research"
           ],
-          "url": "https://36kr.com/p/3883612234870792",
-          "image": "https://img.36krcdn.com/hsossms/20260706/v2_b982d55d22334f80afbbdadc61714722@5091053@ai_oswg925249oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3884790230692102",
+          "image": "https://img.36krcdn.com/hsossms/20260707/v2_b98b318f2360478c958e921d3b9ef24e@5091053@ai_oswg1011408oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "d145a1d52510",
-          "title": "2万亿巨头CEO怒了：这帮卖Token的，就是在坑蒙企业",
-          "desc": "你花了多少钱买Token？",
+          "id": "338c0acb997c",
+          "title": "15个推理模型集体翻车，详解输出背后的思考链潜藏风险",
+          "desc": "一项覆盖15个LRM、4.1万真实攻击与越狱样本的发现。",
+          "source": "36氪",
+          "date": "2026-07-06",
+          "dateLabel": "7月6日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://36kr.com/p/3884794973974530",
+          "image": "https://img.36krcdn.com/hsossms/20260707/v2_9833de175db44287964483299dc0501b@5091053@ai_oswg810176oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "468d6b36c7c1",
+          "title": "别担心被AI抢饭碗了，老板算完账可能发现你更划算",
+          "desc": "一个好消息，大伙儿暂时不需要太担心因为 AI 丢饭碗了",
           "source": "36氪",
           "date": "2026-07-06",
           "dateLabel": "7月6日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3882791339585538",
-          "image": "https://img.36krcdn.com/hsossms/20260706/v2_1fe98bb1c14a48bbb2d82fcbf3fc1f5a@5091053@ai_oswg1031603oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3884763059319044",
+          "image": "https://img.36krcdn.com/hsossms/20260707/v2_1c480cae035940a596ad1a6737b2e45f@5091053@ai_oswg1012183oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "0f19dea0faa9",
-          "title": "AI空调、AI洗衣机、AI风扇齐活了，家电拥抱AI是噱头还是刚需？",
-          "desc": "AI+家电，并非噱头。",
+          "id": "1aa27444ec2e",
+          "title": "AI大厂，突发利空",
+          "desc": "最后通牒",
           "source": "36氪",
           "date": "2026-07-06",
           "dateLabel": "7月6日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3883534960933504",
-          "image": "https://img.36krcdn.com/hsossms/20260706/v2_578b20c7106549e5846b0cb615551771@5091053@ai_oswg969448oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3884742452277509",
+          "image": "https://img.36krcdn.com/hsossms/20260707/v2_b2fce6d697754799a83178c4079ea44c@5091053@ai_oswg1157286oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "f734ad327b93",
+          "title": "国内首个国产卡训推万亿大模型，开源",
+          "desc": "存量国产卡也能跑万亿模型。",
+          "source": "36氪",
+          "date": "2026-07-06",
+          "dateLabel": "7月6日",
+          "tags": [
+            "model",
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3884214101324041",
+          "image": "https://img.36krcdn.com/hsossms/20260707/v2_4d4fa9b06fa241a79c8316327abdece8@5091053@ai_oswg1057810oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "73dd9410f63a",
+          "title": "豆包千问下架“智能体”？翻译闹乌龙，Agent其实是大厂重中之重",
+          "desc": "Bot退场，Agent上桌。",
+          "source": "36氪",
+          "date": "2026-07-06",
+          "dateLabel": "7月6日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3884179708787593",
+          "image": "https://img.36krcdn.com/hsossms/20260707/v2_9d301af5c1a449829a73ea4d63bb23fe@5091053@ai_oswg960347oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         }
       ]
@@ -3095,128 +3215,6 @@
           "color": "#2563eb"
         }
       ]
-    },
-    {
-      "date": "2026-06-03",
-      "dateLabel": "6月3日",
-      "id": "d03",
-      "items": [
-        {
-          "id": "5a651965b15b",
-          "title": "“ChatGPT以后可能要没了”",
-          "desc": "名字还在，内核变了",
-          "source": "36氪",
-          "date": "2026-06-03",
-          "dateLabel": "6月3日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://36kr.com/p/3837314291299464",
-          "image": "https://img.36krcdn.com/hsossms/20260603/v2_bdd98bbd5fe747e380c56ea9c03ce52d@5888275@ai_oswg1054019oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "a36c917023c0",
-          "title": "WWDC26终极前瞻：全新Siri是主菜，iOS 27修修补补又一年",
-          "desc": "苹果AI亟待证明自己。",
-          "source": "36氪",
-          "date": "2026-06-03",
-          "dateLabel": "6月3日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3837226424400514",
-          "image": "https://img.36krcdn.com/hsossms/20260603/v2_b5e671d3cb2a4ef7b0318e3cfbaf404d@5888275@ai_oswg873306oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "f5f251dc697d",
-          "title": "这么快，巨头就烧不起 token了？",
-          "desc": "“不要为了用AI而用AI！”",
-          "source": "36氪",
-          "date": "2026-06-03",
-          "dateLabel": "6月3日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3837186600369025",
-          "image": "https://img.36krcdn.com/hsossms/20260603/v2_6971019600ef4279997cf39883a7a7be@5888275@ai_oswg1049418oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "567a3df26788",
-          "title": "3个月融资10亿，又一机器人独角兽杀出",
-          "desc": "90天融资3轮。",
-          "source": "36氪",
-          "date": "2026-06-03",
-          "dateLabel": "6月3日",
-          "tags": [
-            "research",
-            "business"
-          ],
-          "url": "https://36kr.com/p/3837372018362885",
-          "image": "https://img.36krcdn.com/hsossms/20260603/v2_ab249b1c87fa428c94a23a4efc4cd596@5888275@ai_oswg1154545oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "c98c87c90b55",
-          "title": "腾讯最强的牌，也是AI最大的锁",
-          "desc": "腾讯微信将上线AI助手，调整AI战略补底层押生态。",
-          "source": "36氪",
-          "date": "2026-06-03",
-          "dateLabel": "6月3日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3837015831591817",
-          "image": "https://img.36krcdn.com/hsossms/20260603/v2_5db425981736462b8496679d96d749d4@5888275@ai_oswg981821oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "458ffd2f8ea2",
-          "title": "OpenAI执剑人9年恩仇录，惨被Anthropic联创逐出ChatGPT前身",
-          "desc": "被逐出ChatGPT前身项目、休假三个月发Nature、回来手刃Sora造超级应用。6美元买来的股份今值4.7亿，OpenAI影子国王走到台前。",
-          "source": "36氪",
-          "date": "2026-06-03",
-          "dateLabel": "6月3日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://36kr.com/p/3837001004955017",
-          "image": "https://img.36krcdn.com/hsossms/20260603/v2_ebf293aed17f49f3be95b42b64a4e642@5888275@ai_oswg1109001oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "8e03d0285ff1",
-          "title": "微软Build大会一文看尽：9款自研模型、Windows版龙虾、“梦中情机”，黄仁勋猛夸",
-          "desc": "微软要给智能体时代铺路架桥。",
-          "source": "36氪",
-          "date": "2026-06-03",
-          "dateLabel": "6月3日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3836988816094341",
-          "image": "https://img.36krcdn.com/hsossms/20260603/v2_10c15906c9dc460f913ee5bcf0ba7e3b@000000@ai_oswg300813oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "8ca32a31d169",
-          "title": "为何Gemini体验越来越拧巴？好AI越用越贵，免费AI集体降智",
-          "desc": "发布强的起飞，使用持续降智。",
-          "source": "36氪",
-          "date": "2026-06-03",
-          "dateLabel": "6月3日",
-          "tags": [
-            "model",
-            "business"
-          ],
-          "url": "https://36kr.com/p/3837240754403977",
-          "image": "https://img.36krcdn.com/hsossms/20260603/v2_2a0adeb897114abc9a7e0f0e2f3e3d2a@5888275@ai_oswg857523oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -3242,6 +3240,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-07-06 14:27",
+  "updateTime": "2026-07-07 14:06",
   "totalNews": 207
 }
