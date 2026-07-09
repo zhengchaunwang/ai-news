@@ -1,126 +1,218 @@
 {
   "newsData": [
     {
+      "date": "2026-07-09",
+      "dateLabel": "7月9日",
+      "id": "d09",
+      "items": [
+        {
+          "id": "9fb3f95d0902",
+          "title": "我见证了 MiniMax 的“至暗时刻”",
+          "desc": "从 Mini 到 Max",
+          "source": "36氪",
+          "date": "2026-07-09",
+          "dateLabel": "7月9日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3887712552532481",
+          "image": "https://img.36krcdn.com/hsossms/20260709/v2_bf34a3600d5e4dd9908746aa897c3161@5091053@ai_oswg866882oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "7f530ae16df9",
+          "title": "显卡为什么卖得越来越贵？NVIDIA 副总裁：别争了，摩尔定律早就死透了",
+          "desc": "天天嘲笑中国AI只会“套壳抄袭”？这完全是偏见。",
+          "source": "36氪",
+          "date": "2026-07-09",
+          "dateLabel": "7月9日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3887682343827973",
+          "image": "https://img.36krcdn.com/hsossms/20260709/v2_431d289ca057434d943dc4ecf0237392@5091053@ai_oswg1048007oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "5dbcedf37abb",
+          "title": "具身智能扎堆IPO，“商业化元年”谁能率先抢滩登陆？",
+          "desc": "IPO不是终点，而是新的起点。",
+          "source": "36氪",
+          "date": "2026-07-09",
+          "dateLabel": "7月9日",
+          "tags": [
+            "research",
+            "business"
+          ],
+          "url": "https://36kr.com/p/3887868452649474",
+          "image": "https://img.36krcdn.com/hsossms/20260709/v2_72d0085cb5064e25831e62e3ab8c6a01@5091053@ai_oswg990845oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "9cb586589dcc",
+          "title": "云深处 vs 宇树科技：四足机器人赛道的“两种活法”",
+          "desc": "这一年，机器人企业密集冲击资本市场：宇树科技仅用73天闪电过会，刷新科创板最快IPO纪录；云深处紧随其后递交科创板申请，IPO审核状态于5月27日更新为“已问询”。",
+          "source": "36氪",
+          "date": "2026-07-09",
+          "dateLabel": "7月9日",
+          "tags": [
+            "research",
+            "business"
+          ],
+          "url": "https://36kr.com/p/3887860030110464",
+          "image": "https://img.36krcdn.com/hsossms/20260709/v2_4d74d1582210497ca65548c8b99d5575@5091053@ai_oswg1023787oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "8f80372d36f1",
+          "title": "八卦将不再是一个缺点",
+          "desc": "以后请叫我情报工作者。",
+          "source": "36氪",
+          "date": "2026-07-09",
+          "dateLabel": "7月9日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3887833844988546",
+          "image": "https://img.36krcdn.com/hsossms/20260709/v2_7a5ce6179bec428fac82fcaf606d7c13@5091053@ai_oswg887769oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "e98b68609278",
+          "title": "估值超10亿的西北工业大学创业团队，如何成功扎根工业场景",
+          "desc": "昆仑系注资数千万开启产融AI+工业科创新模式。",
+          "source": "36氪",
+          "date": "2026-07-09",
+          "dateLabel": "7月9日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3886866739703809",
+          "image": "https://img.36krcdn.com/hsossms/20260709/v2_b445176af181438fb7cb6a70faddcba7@19153231_oswg841988oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "51ccfe4d5962",
+          "title": "GPT-6要来了，OpenAI彻底抛弃4T旧底座",
+          "desc": "「三箭齐发」：Sol、Terra、Luna 到底有多强？",
+          "source": "36氪",
+          "date": "2026-07-09",
+          "dateLabel": "7月9日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://36kr.com/p/3887699133233926",
+          "image": "https://img.36krcdn.com/hsossms/20260709/v2_6713cd2286a0474bb34856e418fe164d@5091053@ai_oswg1014552oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "958b6feee7d6",
+          "title": "DeepSeek面试，砸碎前华为“天才少年”的“白月光”滤镜",
+          "desc": "一场“不欢而散”的面试。",
+          "source": "36氪",
+          "date": "2026-07-09",
+          "dateLabel": "7月9日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3886980615895681",
+          "image": "https://img.36krcdn.com/hsossms/20260709/v2_c6daac51530a47f7bd45d9459d70cc13@5091053@ai_oswg1051491oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        }
+      ]
+    },
+    {
       "date": "2026-07-08",
       "dateLabel": "7月8日",
       "id": "d08",
       "items": [
         {
-          "id": "f14718fb9f04",
-          "title": "竞赛编程Agent进入全球前十，南大、清华新模型CF rating超3500",
-          "desc": "Solvita是一个面向竞赛编程的Agentic Evolution框架。它试图回答一个重要问题：如何让代码Agent不只是「多试几次」，而是真正从过去的成功和失败中积累经验？",
-          "source": "36氪",
-          "date": "2026-07-08",
-          "dateLabel": "7月8日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3886457907720453",
-          "image": "https://img.36krcdn.com/hsossms/20260708/v2_b54e6f64a66f453c8e443a722abc96ea@5091053@ai_oswg940899oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "b67c4b0bad3e",
-          "title": "刚刚，全球首个超高帧世界模型诞生，英伟达含量0，狂飙50帧",
-          "desc": "国产NPU跑穿实时世界模型，成本还砍七成。",
-          "source": "36氪",
-          "date": "2026-07-08",
-          "dateLabel": "7月8日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3886462577094915",
-          "image": "https://img.36krcdn.com/hsossms/20260708/v2_ab2e14a349244f9bb0d6baeb4c2e3bb7@5091053@ai_oswg1011257oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "fd446f7b5de6",
-          "title": "刚刚，OpenAI首席未来学家离职，曾被马斯克骂蠢驴",
-          "desc": "To safe AGI",
+          "id": "32563e78a28f",
+          "title": "算力租赁要变天了",
+          "desc": "出来混都是要还的",
           "source": "36氪",
           "date": "2026-07-08",
           "dateLabel": "7月8日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3886446562750465",
-          "image": "https://img.36krcdn.com/hsossms/20260708/v2_ffa5fee125fb4feba6feea52b5274794@5091053@ai_oswg993205oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3886975195183620",
+          "image": "https://img.36krcdn.com/hsossms/20260709/v2_1afc2e679b364d0dab437f8806520500@5091053@ai_oswg1042755oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "fcac1e830d81",
-          "title": "人人都在喊的世界模型，正在成为AI最大的“概念筐”",
-          "desc": "所有的迷雾，最终都会被慢慢吹散。",
-          "source": "36氪",
+          "id": "de970314be48",
+          "title": "50FPS、成本打掉70%，魔芯MoWorld把世界模型带进产业时代",
+          "desc": "华为联想都投了",
+          "source": "量子位",
+          "date": "2026-07-08",
+          "dateLabel": "7月8日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/07/446411.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "090bd721a284",
+          "title": "具身智能“高考”难疯了！人类100分，最强模型12.8",
+          "desc": "具身测评界的珠峰来了：RoboDojo",
+          "source": "量子位",
+          "date": "2026-07-08",
+          "dateLabel": "7月8日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.qbitai.com/2026/07/446363.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "1814e50029d9",
+          "title": "横跨淘天与ATH事业群，硬核少年技术节下周京杭同步开幕，四项AIGX硬核成果齐发",
+          "desc": "横跨淘天与ATH事业群，硬核少年技术节下周京杭同步开幕，四项AIGX硬核成果齐发",
+          "source": "量子位",
           "date": "2026-07-08",
           "dateLabel": "7月8日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3886401614986117",
-          "image": "https://img.36krcdn.com/hsossms/20260708/v2_58429503e74e42f18529e6b195a9988b@5091053@ai_oswg917638oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
+          "url": "https://www.qbitai.com/2026/07/446356.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "f89628ff243e",
-          "title": "论坛排片｜WAIC 2026最新论坛活动日程安排发布！",
-          "desc": "WAIC 2026将于7月17-20日在上海举办，可下载Hi WAIC报名",
-          "source": "36氪",
+          "id": "b1761f1cd42f",
+          "title": "“人机共生，产需共融”——2026世界机器人大会新闻发布会在京召开",
+          "desc": "“人机共生，产需共融”——2026世界机器人大会新闻发布会在京召开",
+          "source": "量子位",
           "date": "2026-07-08",
           "dateLabel": "7月8日",
           "tags": [
-            "business",
-            "cn"
+            "research",
+            "business"
           ],
-          "url": "https://36kr.com/p/3886440482943235",
-          "image": "https://img.36krcdn.com/hsossms/20260708/v2_890a70706e08438bb4d0b142f78e2451@6381723_oswg1028477oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
+          "url": "https://www.qbitai.com/2026/07/446226.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "0128d451d3f4",
-          "title": "新闻发布会｜智能伙伴 共创未来！WAIC 2026即将举行并首发主题片",
-          "desc": "2026世界人工智能大会7月沪启幕，上海AI产业跃升",
-          "source": "36氪",
+          "id": "17a8ebdac9c2",
+          "title": "别让AI一上来就“进厂打螺丝”：智源悟界·Orca要先教模型理解世界如何变化",
+          "desc": "Hugging Face论文月榜第一",
+          "source": "量子位",
           "date": "2026-07-08",
           "dateLabel": "7月8日",
           "tags": [
-            "business",
-            "cn"
+            "research"
           ],
-          "url": "https://36kr.com/p/3886435719033092",
-          "image": "https://img.36krcdn.com/hsossms/20260708/v2_998425d711c84c63a27fad3429fafb37@6381723_oswg1027532oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "a0916a5915ea",
-          "title": "3.8万小时、狂烧天价token：字节发现Agent的 Scaling Law",
-          "desc": "字节自己的AI下半场",
-          "source": "36氪",
-          "date": "2026-07-08",
-          "dateLabel": "7月8日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3886415021388035",
-          "image": "https://img.36krcdn.com/hsossms/20260708/v2_9099f14edf3b44e09bc844d4817394b4@5091053@ai_oswg929790oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "a0d943acfcff",
-          "title": "AI 视频全面成熟：Seedance 2.0 领衔，6 款主流工具深度横评",
-          "desc": "实测6款主流AI视频生成工具，覆盖全场景供选型参考。",
-          "source": "36氪",
-          "date": "2026-07-08",
-          "dateLabel": "7月8日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://36kr.com/p/3886403765596418",
-          "image": "https://img.36krcdn.com/hsossms/20260708/v2_f3beabc378264672babc74812e709804@6390519_oswg482055oswg600oswg400_img_png",
-          "color": "#2563eb"
+          "url": "https://www.qbitai.com/2026/07/446075.html",
+          "image": "",
+          "color": "#7c3aed"
         }
       ]
     },
@@ -3090,127 +3182,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-06-05",
-      "dateLabel": "6月5日",
-      "id": "d05",
-      "items": [
-        {
-          "id": "6bc1a3167e56",
-          "title": "比亚迪玩跨界？进军人形机器人，代号“尧舜禹”",
-          "desc": "比亚迪，闷声搞事。",
-          "source": "36氪",
-          "date": "2026-06-05",
-          "dateLabel": "6月5日",
-          "tags": [
-            "research",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3840170310502663",
-          "image": "https://img.36krcdn.com/hsossms/20260605/v2_9b59ddb92d834ba4ba91c6bf37c0cd3d@5888275@ai_oswg1159254oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "1c44b535f6fd",
-          "title": "美企苦高价AI久矣？DeepSeek登上趋势榜第一",
-          "desc": "“好用但贵”与“好用不贵”",
-          "source": "36氪",
-          "date": "2026-06-05",
-          "dateLabel": "6月5日",
-          "tags": [
-            "model",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3840188780513792",
-          "image": "https://img.36krcdn.com/hsossms/20260605/v2_13ae4ce6afc440feba833b87b643f423@5888275@ai_oswg916191oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "2d9872fa96d4",
-          "title": "互联网变天：机器人流量首次反超人类，Agent 时代拉开大幕",
-          "desc": "互联网默认的服务对象，正在从“人类”变成“机器人”",
-          "source": "36氪",
-          "date": "2026-06-05",
-          "dateLabel": "6月5日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://36kr.com/p/3839937467419143",
-          "image": "https://img.36krcdn.com/hsossms/20260605/v2_6206c52bf5354774b4b32f0933092f4c@576620215@ai_oswg1040088oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "5fcf1918da79",
-          "title": "Anthropic紧急叫停，Mythos被内鬼偷卖API",
-          "desc": "就在刚刚，Anthropic的全新巨兽Oceanus遭内鬼倒卖，官方立马停用。更疯狂的是，这个被囚禁的Mythos竟达到80刀天价输出，自归式自我改进的大模型，很可能就是它。",
-          "source": "36氪",
-          "date": "2026-06-05",
-          "dateLabel": "6月5日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://36kr.com/p/3840185187010824",
-          "image": "https://img.36krcdn.com/hsossms/20260605/v2_4b70a2b1ae6c4df98d15db435e15350e@576620215@ai_oswg1002149oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "bc5a71e10987",
-          "title": "宇树、智元的线下门店叙事：具身智能正入迈进商业周期",
-          "desc": "新的起点",
-          "source": "36氪",
-          "date": "2026-06-05",
-          "dateLabel": "6月5日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://36kr.com/p/3840074519611651",
-          "image": "https://img.36krcdn.com/hsossms/20260605/v2_6323492af7c04db38224ca80af02ea1e@5888275@ai_oswg992097oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "504ae8ba15bf",
-          "title": "OpenAI给每家YC初创公司送200万美元",
-          "desc": "英国科技行业迎来重大利好",
-          "source": "36氪",
-          "date": "2026-06-05",
-          "dateLabel": "6月5日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3840087458826503",
-          "image": "https://img.36krcdn.com/hsossms/20260605/v2_20dc065d22864839971430ce278a1e17@5888275@ai_oswg1008281oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "cd2b58512740",
-          "title": "从 AI 热炒到价值回报：企业如何让 AI 真正 “变现”",
-          "desc": "在当今的商业环境中，AI 热潮汹涌澎湃，但企业若想让 AI 投入转化为实实在在的收益，须精准锚定落地价值，建立可靠的数据统计规则，并围绕实际业务成果严格管控项目进度。",
-          "source": "36氪",
-          "date": "2026-06-05",
-          "dateLabel": "6月5日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3840104409217664",
-          "image": "https://img.36krcdn.com/hsossms/20260605/v2_44e2dc5c00df4a358b0731e9963cc5ad@000000_oswg36339oswg1018oswg432_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "e6ea91679004",
-          "title": "Token不经济，经济不Token",
-          "desc": "模型、Token与新经济体系 。",
-          "source": "36氪",
-          "date": "2026-06-05",
-          "dateLabel": "6月5日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3840092790770183",
-          "image": "https://img.36krcdn.com/hsossms/20260605/v2_3915addcf8df4615b756130acde66b0e@5888275@ai_oswg1103677oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -3236,6 +3207,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-07-08 13:20",
-  "totalNews": 206
+  "updateTime": "2026-07-09 14:03",
+  "totalNews": 204
 }
