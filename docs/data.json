@@ -1,98 +1,219 @@
 {
   "newsData": [
     {
+      "date": "2026-07-11",
+      "dateLabel": "7月11日",
+      "id": "d11",
+      "items": [
+        {
+          "id": "51074fb439ea",
+          "title": "功率器件，疯狂扩产",
+          "desc": "功率半导体进入了新的结构性周期。",
+          "source": "36氪",
+          "date": "2026-07-11",
+          "dateLabel": "7月11日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3890682689337865",
+          "image": "https://img.36krcdn.com/hsossms/20260711/v2_4d7c148f67e440e0ba92868be14f542b@000000@ai_oswg253676oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "932616b291a1",
+          "title": "算力过剩是个伪命题",
+          "desc": "Anthropic都快饿死了，还叨叨过剩呢？",
+          "source": "36氪",
+          "date": "2026-07-11",
+          "dateLabel": "7月11日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3890714124106376",
+          "image": "https://img.36krcdn.com/hsossms/20260711/v2_0fc898da62b946058d1e1b86c81e0d1d@000000_oswg42194oswg940oswg399_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "e886b698f6ef",
+          "title": "别问AI像不像人了，先问它在灾难里能不能逃命",
+          "desc": "当AI进入火灾、地震和踩踏等极端场景，它是否真的具备判断、协作和逃生能力。",
+          "source": "36氪",
+          "date": "2026-07-11",
+          "dateLabel": "7月11日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3890613661760385",
+          "image": "https://img.36krcdn.com/hsossms/20260711/v2_655ecc6babd44a33af357f13211d226d@000000_oswg158226oswg1280oswg545_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "ae10895dfb8a",
+          "title": "36氪首发 | 三个月融三轮，上交大00后博士让具身智能仿生扑翼机器人理解并驾驭流体",
+          "desc": "让机器人实现从借助流体飞行到驾驭流体飞行",
+          "source": "36氪",
+          "date": "2026-07-11",
+          "dateLabel": "7月11日",
+          "tags": [
+            "research",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3889516712065799",
+          "image": "https://img.36krcdn.com/hsossms/20260710/v2_9f2c11e96b1f44f48fae86df8e31704e@6221844_oswg217864oswg600oswg400_img_png",
+          "color": "#2563eb"
+        },
+        {
+          "id": "470bf648ffe1",
+          "title": "芝加哥大学法学院重新设计课程，确保学生使用 AI 前学会独立思考",
+          "desc": "IT之家 7 月 11 日消息，科技媒体 Business Insider 昨日（7 月 10 日）发布博文，报道称 AI 影响教育方式，芝加哥大学法学院要求今年秋季一年级新生在上课时，必须要合上笔记本，从而确保学生学会独立思考。法学院院长 Adam Chilton 表示：“我们不能一刀切在校园内封杀 AI，也不会阻止学生了解和使用 AI，但我们需要确保学生学会独立思考”。IT之家援引博文介绍，芝",
+          "source": "IT之家",
+          "date": "2026-07-11",
+          "dateLabel": "7月11日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/975/436.htm",
+          "image": "",
+          "color": "#d97706"
+        },
+        {
+          "id": "a42012cfc511",
+          "title": "马斯克再出狂言：目标让 SpaceX 价值超过整个地球",
+          "desc": "IT之家 7 月 11 日消息，SpaceX CEO 埃隆 · 马斯克多年来一直靠向投资者描绘科幻式未来，为自己的商业计划争取资金。马斯克 10 日更是在一条推文中口出狂言：“如果我们实现目标，SpaceX 的价值将超过地球上其余一切的总和。”马斯克发表上述言论，是为了回应一名支持者对 SpaceX 与 Anthropic 最新 AI 算力协议的质疑。对方认为，SpaceX 把太多资金交给了一家竞",
+          "source": "IT之家",
+          "date": "2026-07-11",
+          "dateLabel": "7月11日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/975/435.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/c90629d2-a0b1-4f94-a112-05103370d72f.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "2ec846d52ee2",
+          "title": "消息称微软 XBOX 下周将推新功能：实体游戏数字化",
+          "desc": "IT之家 7 月 11 日消息，外媒 Mp1st 今天（11 日）报道称，微软本周没有向 XBOX Insider 预览体验计划用户推送例行的 XBOX Series X|S 主机更新。此次延期出乎外界预料。此前，XBOX CEO 阿莎 · 夏尔马表示，新的主机更新将每两周发布一次。XBOX Insider 预览体验计划负责人布拉德 · 罗塞蒂随后暗示，下一次更新值得等待，并称此次延期另有原因。记",
+          "source": "IT之家",
+          "date": "2026-07-11",
+          "dateLabel": "7月11日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/975/432.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/de809b82-df14-4861-a5cd-1001f4ebf6e1.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "7dc4962c3729",
+          "title": "瑞安航空的波音 737-800 航班因发动机碎片打破舷窗，1.5 万英尺高空险些致乘客吸出窗外",
+          "desc": "IT之家 7 月 11 日消息，瑞安航空（Ryanair）FR1879 航班昨日（7 月 10 日）出现险情，由于飞行途中乘客舷窗破碎并伴随客舱失压，导致 61 岁塞尔维亚籍乘客险些被吸出机舱。IT之家援引博文介绍，该航班于当地时间早上 6:12 分从希腊塞萨洛尼基起飞，计划飞往德国梅明根机场，在航班爬升超过 1.5 万英尺（IT之家注：约 4572 米）后出现舷窗破碎情况。由于客舱失压，一名乘坐",
+          "source": "IT之家",
+          "date": "2026-07-11",
+          "dateLabel": "7月11日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/975/431.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/b935d0de-ae63-4ec0-94ce-4e68584d47b8.png",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-07-10",
       "dateLabel": "7月10日",
       "id": "d10",
       "items": [
         {
-          "id": "8f0e2b4d6219",
-          "title": "AI伴侣，总有套路让你“爱上TA”",
-          "desc": "让人“成瘾”的AI伴侣，一场史无前例的人类情感试验",
+          "id": "f419318e7b27",
+          "title": "第二代“豆包手机”要来了",
+          "desc": "又一台“全球首款AI智能体手机”曝光。",
           "source": "36氪",
           "date": "2026-07-10",
           "dateLabel": "7月10日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3889226689706632",
-          "image": "https://img.36krcdn.com/hsossms/20260710/v2_9516f514edeb48aea3edeee6a023a093@5091053@ai_oswg829742oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3889709514750466",
+          "image": "https://img.36krcdn.com/hsossms/20260710/v2_f47a170d5bb84ddaae221778a4d27cb5@000000@ai_oswg291732oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "a5c15412a156",
-          "title": "芯片免费，也未必便宜：英伟达的第二条性能曲线",
-          "desc": "后摩尔定律时代，从10年100倍到100万倍的真护城河",
+          "id": "293eb2b5e56d",
+          "title": "Codex死了，死得其所",
+          "desc": "Open AI也要做水电煤的生意",
           "source": "36氪",
           "date": "2026-07-10",
           "dateLabel": "7月10日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3888993907440129",
-          "image": "https://img.36krcdn.com/hsossms/20260710/v2_e9c4b29229764e7f8e5d523b5262d63f@5091053_oswg949403oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "url": "https://36kr.com/p/3889771343182343",
+          "image": "https://img.36krcdn.com/hsossms/20260710/v2_464fba9938ac4edfa1effdbad62c8921@988796022_oswg115511oswg1053oswg495_img_jpeg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
           "color": "#2563eb"
         },
         {
-          "id": "614382ebc1da",
-          "title": "美国AI情感产品用户洞察报告：当AI开始懂你，情感陪伴市场正在经历一场静默爆发",
-          "desc": "霞光智库联合Trooly.AI发布《美国AI情感产品用户洞察报告》，基于对美国60位真实用户的1v1 AI视频深度访谈，系统拆解AI陪伴需求层次与人群画像，探索能够满足消费者真实情感需求的AI产品。",
+          "id": "4c87cecd921b",
+          "title": "海力士赴美，来讨一个“公道估值”？",
+          "desc": "海力士这趟赴美，真的只是为了\"缺钱扩产\"吗？",
           "source": "36氪",
           "date": "2026-07-10",
           "dateLabel": "7月10日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3888544793934465",
-          "image": "https://img.36krcdn.com/hsossms/20260710/v2_f13e6b8bdbd84f43b8b58941201cb69e@5091053@ai_oswg961061oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3889756204546825",
+          "image": "https://img.36krcdn.com/hsossms/20260710/v2_3febaff38d684fbe8b6ebabb24480d0e@46958@ai_oswg782134oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "24799e22df79",
-          "title": "投16亿赚250亿，“瑞幸操盘手”黎辉，又在天数智芯封神",
-          "desc": "天数智芯再启融资",
+          "id": "853dda5273c5",
+          "title": "这个机器人的手，有点灵活过头了",
+          "desc": "任天堂超级怪手迎来劲敌！",
           "source": "36氪",
           "date": "2026-07-10",
           "dateLabel": "7月10日",
           "tags": [
-            "business"
+            "research"
           ],
-          "url": "https://36kr.com/p/3888509746756105",
-          "image": "https://img.36krcdn.com/hsossms/20260710/v2_8d7a97a62e6a4da0bf2d99a2ff4970a7@5091053@ai_oswg931465oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3889659031845636",
+          "image": "https://img.36krcdn.com/hsossms/20260710/v2_280d6f754f0f4d9685721fb204ab6a6c@6100851_oswg786384oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
           "color": "#2563eb"
         },
         {
-          "id": "4fbe478c52ae",
-          "title": "Grok 4.5和Claude 4.8，在我电脑里“打”起来了",
-          "desc": "Grok 4.5删了Claude的作业，然后跟它道了个歉。",
+          "id": "1b20475aaa36",
+          "title": "OpenAI，终于把大模型做成 iPhone 了",
+          "desc": "最强版本的GPT来了。",
           "source": "36氪",
           "date": "2026-07-10",
           "dateLabel": "7月10日",
           "tags": [
             "model"
           ],
-          "url": "https://36kr.com/p/3888554227546757",
-          "image": "https://img.36krcdn.com/hsossms/20260710/v2_f1633f6624f6418695adaef3e94fa038@5091053@ai_oswg1015082oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3889721001032456",
+          "image": "https://img.36krcdn.com/hsossms/20260710/v2_35f3cb6afd564500970d44fb6f535820@000000@ai_oswg386750oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "b2dddaf55c25",
-          "title": "从 0 到高手10 大技巧，将 ChatGPT Work用到极致，普通人也能掌握",
-          "desc": "学会这10项技能，你就是AI大拿",
+          "id": "3832e0ba2339",
+          "title": "国产机器人再破局，宇树G1完成活体手术，00后团队登上Nature",
+          "desc": "谁说国产人形机器人干不了细活？",
           "source": "36氪",
           "date": "2026-07-10",
           "dateLabel": "7月10日",
           "tags": [
-            "model"
+            "research",
+            "cn"
           ],
-          "url": "https://36kr.com/p/3889270647634694",
-          "image": "https://img.36krcdn.com/hsossms/20260710/v2_e11daf9bb6e64d608b8c33eeff915c41@5091053@ai_oswg950404oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3889716207909384",
+          "image": "https://img.36krcdn.com/hsossms/20260710/v2_8bed3f1316a7469bacd9ba391b511758@000000@ai_oswg332313oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "f720046db233",
-          "title": "谁在打造欧洲最大的基础大语言模型",
-          "desc": "俄Sber发布开源GigaChat 3.5 Ultra，谈AI研发思考",
+          "id": "4aa0640cdce9",
+          "title": "产业深度：MaaS，到底给中国云厂商带来了什么？",
+          "desc": "AI云，增量真相背后",
           "source": "36氪",
           "date": "2026-07-10",
           "dateLabel": "7月10日",
@@ -100,22 +221,22 @@
             "business",
             "cn"
           ],
-          "url": "https://36kr.com/p/3889282134670209",
-          "image": "https://img.36krcdn.com/hsossms/20260710/v2_93d2fda2d0fd4813b8fec5c488386918@5091053@ai_oswg1029022oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3889705725950721",
+          "image": "https://img.36krcdn.com/hsossms/20260710/v2_766a3c300900422db235dff53598e1ec@46958@ai_oswg841221oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "84ead39fbb3c",
-          "title": "AI时代，人类如何守住思考的烟火气",
-          "desc": "AI时代，要守住人类思考的“烟火气”。",
+          "id": "39bb434e34b5",
+          "title": "同样都是物理AI：Momenta起飞了，蘑菇车联们如何了？",
+          "desc": "“物理 AI” 重塑自动驾驶资本叙事，Momenta 借此成功上市，而先行布局的蘑菇车联受重资产 ToG 模式拖累发展滞后。行业洗牌下，毫末智行空谈概念终落败，本文对比二者路径，剖析概念与真实商业模式的行业真相。",
           "source": "36氪",
           "date": "2026-07-10",
           "dateLabel": "7月10日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3877790392302208",
-          "image": "https://img.36krcdn.com/hsossms/20260702/v2_98bb2c2168664f80835eb79753a7bb59@1743780481@ai_oswg968570oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3889735310818179",
+          "image": "https://img.36krcdn.com/hsossms/20260710/v2_c839ccfdc1f547dc8145be0787959fdc@46958@ai_oswg813532oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         }
       ]
@@ -125,78 +246,6 @@
       "dateLabel": "7月9日",
       "id": "d09",
       "items": [
-        {
-          "id": "9b5b63cfe3e2",
-          "title": "小扎深夜亮王牌，Meta烧出白菜价模型，掀翻Grok 4.5",
-          "desc": "小扎三年不发推，深夜连发三条，Muse Spark 1.1比Fable 5便宜10倍——Meta第一个收费模型，上来就打价格战。",
-          "source": "36氪",
-          "date": "2026-07-09",
-          "dateLabel": "7月9日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3889024774486788",
-          "image": "https://img.36krcdn.com/hsossms/20260710/v2_010b1caac06f4680a3fc4201e497862c@5091053@ai_oswg994591oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "9572b3166045",
-          "title": "刚刚，GPT-5.6「太阳系」全家桶上线，Codex消失了",
-          "desc": "今后，只剩ChatGPT",
-          "source": "36氪",
-          "date": "2026-07-09",
-          "dateLabel": "7月9日",
-          "tags": [
-            "model",
-            "business"
-          ],
-          "url": "https://36kr.com/p/3889024357513736",
-          "image": "https://img.36krcdn.com/hsossms/20260710/v2_0f64884902f34322b9e44dd209abe93d@5091053@ai_oswg752303oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "bbdb1e4f494b",
-          "title": "AI陪伴市场“分化”：豆包、千问们“踩刹车”，优必选们“狂飙”",
-          "desc": "监管新规下，AI陪伴机器人走向分化，需选对方向。",
-          "source": "36氪",
-          "date": "2026-07-09",
-          "dateLabel": "7月9日",
-          "tags": [
-            "research",
-            "policy"
-          ],
-          "url": "https://36kr.com/p/3888328885566087",
-          "image": "https://img.36krcdn.com/hsossms/20260709/v2_102b59ccbb6540089ac2c4198c412af3@46958@ai_oswg802123oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "9fd52642e61e",
-          "title": "大厂纷纷选择弃权，AI生成应用坑有点深",
-          "desc": "成本高、粘性低、效用不佳，是AI生成应用的主要短板。",
-          "source": "36氪",
-          "date": "2026-07-09",
-          "dateLabel": "7月9日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3888323911940869",
-          "image": "https://img.36krcdn.com/hsossms/20260709/v2_71bd21dfdfe7473584c4ccc1f94e2062@000000@ai_oswg332822oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "dd68e49d0c3d",
-          "title": "解禁首日大跌18%，MiniMax的泡沫先破了？",
-          "desc": "天量解禁刺破AI泡沫？",
-          "source": "36氪",
-          "date": "2026-07-09",
-          "dateLabel": "7月9日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3888277022751360",
-          "image": "https://img.36krcdn.com/hsossms/20260709/v2_78548577d3324d5599000c63a11589a4@46958@ai_oswg730022oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
         {
           "id": "1572cb08d7a0",
           "title": "Zero-Shot提升31%！原力灵机DM0.5登场，15万小时数据喂出",
@@ -208,35 +257,6 @@
             "business"
           ],
           "url": "https://www.qbitai.com/2026/07/447508.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "23346a5b5a22",
-          "title": "第十一届中国航空创新创业大赛报名开启｜熵跃苍穹 无界新元",
-          "desc": "第十一届中国航空创新创业大赛报名开启｜熵跃苍穹 无界新元",
-          "source": "量子位",
-          "date": "2026-07-09",
-          "dateLabel": "7月9日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/07/446843.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "e211edb42c1b",
-          "title": "「没了李开复，零一万物还有什么？」一个敢问一个敢答",
-          "desc": "李开复笑着回应了",
-          "source": "量子位",
-          "date": "2026-07-09",
-          "dateLabel": "7月9日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/07/446778.html",
           "image": "",
           "color": "#7c3aed"
         }
@@ -3187,85 +3207,6 @@
           "color": "#2563eb"
         }
       ]
-    },
-    {
-      "date": "2026-06-07",
-      "dateLabel": "6月7日",
-      "id": "d07",
-      "items": [
-        {
-          "id": "0309a820e364",
-          "title": "有余凯不投的地平线离职创业员工吗？",
-          "desc": "「放任」人才外流的反常操作，只是格局使然吗？",
-          "source": "量子位",
-          "date": "2026-06-07",
-          "dateLabel": "6月7日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/06/431931.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "37bf457f6516",
-          "title": "马斯克39页SpaceX计划，人类史上最伟大的PPT",
-          "desc": "人类历史最大规模的IPO招股开始了！",
-          "source": "量子位",
-          "date": "2026-06-07",
-          "dateLabel": "6月7日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/06/431694.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "fa19e8ddce26",
-          "title": "OpenAI芯片核心叛逃Anthropic！就在量产前夜",
-          "desc": "帮OpenAI从零造出第一颗芯片的人，转投Anthropic了",
-          "source": "量子位",
-          "date": "2026-06-07",
-          "dateLabel": "6月7日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/06/431499.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "e37b4cf0d03c",
-          "title": "教你用AI一节课收17万，华尔街精英排着队付费",
-          "desc": "花旗美银都是客户",
-          "source": "量子位",
-          "date": "2026-06-07",
-          "dateLabel": "6月7日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/06/431487.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "2e35f46f42bb",
-          "title": "5分钟AI长视频不翻车！国产开源框架杀到全球第一梯队",
-          "desc": "高一致性、低延迟、实时超分全梭哈",
-          "source": "量子位",
-          "date": "2026-06-07",
-          "dateLabel": "6月7日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/06/431401.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -3291,6 +3232,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-07-10 14:02",
-  "totalNews": 210
+  "updateTime": "2026-07-11 13:11",
+  "totalNews": 206
 }
