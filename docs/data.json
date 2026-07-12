@@ -1,10 +1,189 @@
 {
   "newsData": [
     {
+      "date": "2026-07-12",
+      "dateLabel": "7月12日",
+      "id": "d12",
+      "items": [
+        {
+          "id": "c65cc3e3dc44",
+          "title": "近百名玩家涌入具身数据 : 一年融资44.7亿，谁能真靠“卖数据”赚钱？",
+          "desc": "眼下具身数据行业还不够“性感”。",
+          "source": "36氪",
+          "date": "2026-07-12",
+          "dateLabel": "7月12日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3892027841362694",
+          "image": "https://img.36krcdn.com/hsossms/20260712/v2_4a11b9483a7c42ffaeb3ab74f7452ead@000000_oswg52415oswg898oswg381_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "bad8f43573bf",
+          "title": "股价破千背后的虚火，沐曦股份离盈亏平衡还有多远？",
+          "desc": "当资本的热情褪去，沐曦股份拿什么来支撑它的千亿估值？",
+          "source": "36氪",
+          "date": "2026-07-12",
+          "dateLabel": "7月12日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3891948317408131",
+          "image": "https://img.36krcdn.com/hsossms/20260712/v2_0aeb64f63a764e4baf117848e972b09b@5627769_oswg202947oswg1053oswg495_img_jpeg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "a2cd324c5806",
+          "title": "智谱，害怕成为下一个MiniMax",
+          "desc": "唐杰不是在写一封内部信，他是在给智谱重新”定性”，拯救智谱的市值。",
+          "source": "36氪",
+          "date": "2026-07-12",
+          "dateLabel": "7月12日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3891869353294465",
+          "image": "https://img.36krcdn.com/hsossms/20260712/v2_fb1e97bdda2f46eca247b24039bff5fc@000000_oswg92588oswg1080oswg460_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "946918783359",
+          "title": "老黄RTX Spark真机现身Bilibili World！CPU和GPU直接焊在一起，笔记本跑120B大模型",
+          "desc": "老黄在ComputeX发布的“超级芯片”，已经在真机中落地了",
+          "source": "量子位",
+          "date": "2026-07-12",
+          "dateLabel": "7月12日",
+          "tags": [
+            "model",
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/07/447981.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "ac34ffa65a2a",
+          "title": "近百名玩家涌入具身数据：一年融资44.7亿，谁能真靠“卖数据”赚钱？",
+          "desc": "为了帮你看清具身数据行业，我们总结了以下十个行业现状",
+          "source": "量子位",
+          "date": "2026-07-12",
+          "dateLabel": "7月12日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/07/447914.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "b857d5755fbf",
+          "title": "瑞典测试揭示：人机交互设计比屏幕、实体按键更影响驾驶专注度",
+          "desc": "IT之家 7 月 12 日消息，如今的汽车配备了更大的中控屏、更快的处理器以及号称更加智能的人机交互系统，但瑞典一项最新测试却显示，驾驶员完成日常车内操作所需的时间，实际上比四年前更长了。如果这项测试具有代表性，那么对于汽车信息娱乐系统（Infotainment）的人机交互（UX）设计来说，无疑是一个不小的警示。不过，文章也指出，这项测试的方法本身也存在一些值得讨论的地方。测试：驾驶员完成操作时间",
+          "source": "IT之家",
+          "date": "2026-07-12",
+          "dateLabel": "7月12日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/975/708.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/532842e2-901b-475e-8de6-c18ddf3f73fe.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "217a9ae37853",
+          "title": "消息称三星电子计划将龙仁首座芯片工厂的投产时间提前至 2029 年",
+          "desc": "IT之家 7 月 12 日消息，据韩联社报道，业内人士周日透露，三星电子正推进其龙仁芯片集群内首座半导体晶圆厂的建设，计划将投产时间提前至 2029 年，比原计划提前一到两年。这一时间表提前，正值韩国政府加快推进龙仁国家产业园区建设之际。该园区被定位为韩国国家级战略项目，也将成为三星下一代半导体制造基地。消息人士称，三星目前计划于 2029 年让龙仁产业园内规划建设的 6 座晶圆厂中的首座正式投产",
+          "source": "IT之家",
+          "date": "2026-07-12",
+          "dateLabel": "7月12日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/975/705.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/3/ff981935-0ecd-4222-944f-5a5a1b43b922.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "9ae52afdbc30",
+          "title": "AI 将能查询实时空气、交通信息，韩国首尔将试点公共数据 MCP 服务",
+          "desc": "IT之家 7 月 12 日消息，据韩媒 Etnews 报道，韩国首尔市今天宣布，将率先在公共数据服务领域试点 MCP（IT之家注：模型上下文协议）服务。未来，当用户向 AI 询问“现在明洞有多挤”“汉江空气质量如何”等问题时，得到的不再是互联网流传过时信息。据报道，MCP 是一种将 AI 与公共数据直接连接的技术。此前，AI 大模型主要依赖训练数据库或互联网搜索结果生成回答，因此会出现将错误信息当",
+          "source": "IT之家",
+          "date": "2026-07-12",
+          "dateLabel": "7月12日",
+          "tags": [
+            "model",
+            "research"
+          ],
+          "url": "https://www.ithome.com/0/975/674.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/28bdf12d-7924-4760-a08d-c7b79b3813fc.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-07-11",
       "dateLabel": "7月11日",
       "id": "d11",
       "items": [
+        {
+          "id": "1276451c1d02",
+          "title": "独家 | 智谱创始人唐杰发内部信：「GLM 时刻」之后，什么是更重要的事",
+          "desc": "本质，反直觉，专注",
+          "source": "36氪",
+          "date": "2026-07-11",
+          "dateLabel": "7月11日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3891132709206784",
+          "image": "https://img.36krcdn.com/hsossms/20260711/v2_a422fe3ac5224a99befe6c164f4aaf62@5783683_oswg86872oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "9c1e34c3b337",
+          "title": "Claude又有意识了？不，它没有",
+          "desc": "一个可解释性工具，一套意识叙事。",
+          "source": "36氪",
+          "date": "2026-07-11",
+          "dateLabel": "7月11日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://36kr.com/p/3890956062063104",
+          "image": "https://img.36krcdn.com/hsossms/20260711/v2_37e1ae2235354ff6a52065c76e9a8fb3@000000@ai_oswg280838oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "113b2ddd5f41",
+          "title": "仅11天，Claude重写百万行代码，AI史诗级工程却引来愤怒",
+          "desc": "这稳定吗？",
+          "source": "36氪",
+          "date": "2026-07-11",
+          "dateLabel": "7月11日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://36kr.com/p/3890782425709062",
+          "image": "https://img.36krcdn.com/hsossms/20260711/v2_4001fe45d6714589b7fe2eeeaf5c1e84@000000@ai_oswg326013oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "a6d1cbb67534",
+          "title": "为了“AI iPhone”，苹果正式起诉OpenAI",
+          "desc": "这一次苹果是认真的。",
+          "source": "36氪",
+          "date": "2026-07-11",
+          "dateLabel": "7月11日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3890808260197121",
+          "image": "https://img.36krcdn.com/hsossms/20260711/v2_78883c251fb4495e92b03ca9b1b5bb89@000000@ai_oswg261936oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
         {
           "id": "51074fb439ea",
           "title": "功率器件，疯狂扩产",
@@ -61,62 +240,6 @@
           "url": "https://36kr.com/p/3889516712065799",
           "image": "https://img.36krcdn.com/hsossms/20260710/v2_9f2c11e96b1f44f48fae86df8e31704e@6221844_oswg217864oswg600oswg400_img_png",
           "color": "#2563eb"
-        },
-        {
-          "id": "470bf648ffe1",
-          "title": "芝加哥大学法学院重新设计课程，确保学生使用 AI 前学会独立思考",
-          "desc": "IT之家 7 月 11 日消息，科技媒体 Business Insider 昨日（7 月 10 日）发布博文，报道称 AI 影响教育方式，芝加哥大学法学院要求今年秋季一年级新生在上课时，必须要合上笔记本，从而确保学生学会独立思考。法学院院长 Adam Chilton 表示：“我们不能一刀切在校园内封杀 AI，也不会阻止学生了解和使用 AI，但我们需要确保学生学会独立思考”。IT之家援引博文介绍，芝",
-          "source": "IT之家",
-          "date": "2026-07-11",
-          "dateLabel": "7月11日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/975/436.htm",
-          "image": "",
-          "color": "#d97706"
-        },
-        {
-          "id": "a42012cfc511",
-          "title": "马斯克再出狂言：目标让 SpaceX 价值超过整个地球",
-          "desc": "IT之家 7 月 11 日消息，SpaceX CEO 埃隆 · 马斯克多年来一直靠向投资者描绘科幻式未来，为自己的商业计划争取资金。马斯克 10 日更是在一条推文中口出狂言：“如果我们实现目标，SpaceX 的价值将超过地球上其余一切的总和。”马斯克发表上述言论，是为了回应一名支持者对 SpaceX 与 Anthropic 最新 AI 算力协议的质疑。对方认为，SpaceX 把太多资金交给了一家竞",
-          "source": "IT之家",
-          "date": "2026-07-11",
-          "dateLabel": "7月11日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/975/435.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/c90629d2-a0b1-4f94-a112-05103370d72f.png",
-          "color": "#d97706"
-        },
-        {
-          "id": "2ec846d52ee2",
-          "title": "消息称微软 XBOX 下周将推新功能：实体游戏数字化",
-          "desc": "IT之家 7 月 11 日消息，外媒 Mp1st 今天（11 日）报道称，微软本周没有向 XBOX Insider 预览体验计划用户推送例行的 XBOX Series X|S 主机更新。此次延期出乎外界预料。此前，XBOX CEO 阿莎 · 夏尔马表示，新的主机更新将每两周发布一次。XBOX Insider 预览体验计划负责人布拉德 · 罗塞蒂随后暗示，下一次更新值得等待，并称此次延期另有原因。记",
-          "source": "IT之家",
-          "date": "2026-07-11",
-          "dateLabel": "7月11日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/975/432.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/de809b82-df14-4861-a5cd-1001f4ebf6e1.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "7dc4962c3729",
-          "title": "瑞安航空的波音 737-800 航班因发动机碎片打破舷窗，1.5 万英尺高空险些致乘客吸出窗外",
-          "desc": "IT之家 7 月 11 日消息，瑞安航空（Ryanair）FR1879 航班昨日（7 月 10 日）出现险情，由于飞行途中乘客舷窗破碎并伴随客舱失压，导致 61 岁塞尔维亚籍乘客险些被吸出机舱。IT之家援引博文介绍，该航班于当地时间早上 6:12 分从希腊塞萨洛尼基起飞，计划飞往德国梅明根机场，在航班爬升超过 1.5 万英尺（IT之家注：约 4572 米）后出现舷窗破碎情况。由于客舱失压，一名乘坐",
-          "source": "IT之家",
-          "date": "2026-07-11",
-          "dateLabel": "7月11日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/975/431.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/b935d0de-ae63-4ec0-94ce-4e68584d47b8.png",
-          "color": "#d97706"
         }
       ]
     },
@@ -3082,131 +3205,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-06-08",
-      "dateLabel": "6月8日",
-      "id": "d08",
-      "items": [
-        {
-          "id": "c8eba64fac18",
-          "title": "Agent自进化新范式：孙立超团队提出OpenSkill，刷新多项基准SOTA",
-          "desc": "让Agent自进化不再依赖目标任务监督",
-          "source": "36氪",
-          "date": "2026-06-08",
-          "dateLabel": "6月8日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://36kr.com/p/3844303111031040",
-          "image": "https://img.36krcdn.com/hsossms/20260608/v2_eb744322f2694be9b0bd76194419dcc8@46958@ai_oswg968614oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "6147443ac0f5",
-          "title": "vivo、荣耀接连入场，戳破了具身智能的AI叙事",
-          "desc": "会动脑才能一直赚钱",
-          "source": "36氪",
-          "date": "2026-06-08",
-          "dateLabel": "6月8日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://36kr.com/p/3844291402021767",
-          "image": "https://img.36krcdn.com/hsossms/20260608/v2_41d9b1a8802440b8b4fcd8dd30c6df45@46958@ai_oswg886534oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "242ef46011bd",
-          "title": "9天Claude Code重写100万行代码、6755次提交，Bun完成史上最大AI重构后，开发者质疑：99.8%测试通过率，真的代表安全？",
-          "desc": "去年年底，Claude 背后的 Anthropic 收购了明星开源项目 Bun。",
-          "source": "36氪",
-          "date": "2026-06-08",
-          "dateLabel": "6月8日",
-          "tags": [
-            "model",
-            "business",
-            "policy",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3844285021047304",
-          "image": "https://img.36krcdn.com/hsossms/20260608/v2_f27ce7d26de0443bb4459be66a6f8b49@46958@ai_oswg1011774oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "9ecf253f8685",
-          "title": "中国具身智能“超级融资周期”，能否复制“新能源车时刻”？",
-          "desc": "此时此刻，恰如彼时彼刻。",
-          "source": "36氪",
-          "date": "2026-06-08",
-          "dateLabel": "6月8日",
-          "tags": [
-            "research",
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3844275317082628",
-          "image": "https://img.36krcdn.com/hsossms/20260608/v2_2fa5df282285445a9b25c6eba49320eb@46958@ai_oswg1021579oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "94fabd53de66",
-          "title": "Kimi Work不是中国版Codex",
-          "desc": "它帮我把马斯克“取关”了。",
-          "source": "36氪",
-          "date": "2026-06-08",
-          "dateLabel": "6月8日",
-          "tags": [
-            "model",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3844257852885256",
-          "image": "https://img.36krcdn.com/hsossms/20260608/v2_f079b2e824894e96b5ba064c83dbb14f@46958@ai_oswg819576oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "c2cdbb057564",
-          "title": "GPT-5作者复盘：趁OpenAI沉迷ChatGPT，Anthropic死磕代码，这是一场教科书级的“偷家”",
-          "desc": "狂喂万亿 Token 的大模型，为何仍缺“品味”？",
-          "source": "36氪",
-          "date": "2026-06-08",
-          "dateLabel": "6月8日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://36kr.com/p/3844470724708617",
-          "image": "https://img.36krcdn.com/hsossms/20260608/v2_c04304fda14d4cae9d4d95912b744097@46958@ai_oswg976121oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "6ab25bfb48e8",
-          "title": "八十三岁，他决定和AI死磕一下",
-          "desc": "焦虑的AI狂潮里，一位八旬老头逆流而上",
-          "source": "36氪",
-          "date": "2026-06-08",
-          "dateLabel": "6月8日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3844440491870466",
-          "image": "https://img.36krcdn.com/hsossms/20260608/v2_196faff455bd4354bb109e06392d0375@46958@ai_oswg913120oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "44bbd961196d",
-          "title": "拆解25笔超5000万A轮融资，AI最聪明的钱正在押注这三个方向",
-          "desc": "60亿美元押注AI新战场",
-          "source": "36氪",
-          "date": "2026-06-08",
-          "dateLabel": "6月8日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3844470639036680",
-          "image": "https://img.36krcdn.com/hsossms/20260608/v2_c8f1c9ff75ef4149b0a80e13dbecc80a@46958@ai_oswg855082oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -3232,6 +3230,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-07-11 13:11",
+  "updateTime": "2026-07-12 13:26",
   "totalNews": 206
 }
