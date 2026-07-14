@@ -1,124 +1,245 @@
 {
   "newsData": [
     {
+      "date": "2026-07-14",
+      "dateLabel": "7月14日",
+      "id": "d14",
+      "items": [
+        {
+          "id": "a867a0e9ab94",
+          "title": "全球唱片业推动流媒体建立AI音乐标签制度",
+          "desc": "Suno引入YouTube和Atlantic资深高管",
+          "source": "36氪",
+          "date": "2026-07-14",
+          "dateLabel": "7月14日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3894951235484672",
+          "image": "https://img.36krcdn.com/hsossms/20260714/v2_858be08ec29f4b92b17e9a4f46196068@000000@ai_oswg356176oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "9fcfe1f7e153",
+          "title": "AI热钱涌进台湾，但大部分普通人为什么越忙越穷？",
+          "desc": "指数狂飙，但大多数人只是看客。",
+          "source": "36氪",
+          "date": "2026-07-14",
+          "dateLabel": "7月14日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3894953535126784",
+          "image": "https://img.36krcdn.com/hsossms/20260714/v2_6e559b9bcd1d4ee9b568bf3b9c2c584d@000000@ai_oswg269747oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "aebb477b0d49",
+          "title": "🎁36氪放福利啦！体验10秒，即可免费抽AirPods 4、Redmi手环、超人帆布包！",
+          "desc": "官方免费抽奖来袭！10秒体验即可参与，AirPods 4、Redmi手环3等你带回家！",
+          "source": "36氪",
+          "date": "2026-07-14",
+          "dateLabel": "7月14日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3894914381970438",
+          "image": "https://img.36krcdn.com/hsossms/20260714/v2_b3b59ea8bdf44a2db265e2cccd441d50@5284654_oswg472629oswg600oswg400_img_png",
+          "color": "#2563eb"
+        },
+        {
+          "id": "9729f3f4df97",
+          "title": "市值3000亿美金的巨头，被中国对手盯上了",
+          "desc": "一个比Anthropic更好的AI to B故事。",
+          "source": "36氪",
+          "date": "2026-07-14",
+          "dateLabel": "7月14日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3894888212659206",
+          "image": "https://img.36krcdn.com/hsossms/20260714/v2_145878688b7c472fa2386acfb5715fa7@000000@ai_oswg331300oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "87c753c5d292",
+          "title": "AI爆改陶哲轩30年主页，顺手揪出两个藏了20多年的bug",
+          "desc": "陶哲轩用AI一天迁移30年个人主页，还揪出老代码bug",
+          "source": "36氪",
+          "date": "2026-07-14",
+          "dateLabel": "7月14日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3894870321233154",
+          "image": "https://img.36krcdn.com/hsossms/20260714/v2_acec5c22f93b42bba0cc88c4171e1025@1743780481@ai_oswg982417oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "f01ba29a06ac",
+          "title": "阶跃星辰发布“全球首款AI手机”，印奇在布什么局？",
+          "desc": "STEPX Neo亮相了，豆包手机踩过的坑能躲开吗？",
+          "source": "36氪",
+          "date": "2026-07-14",
+          "dateLabel": "7月14日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3894860332841604",
+          "image": "https://img.36krcdn.com/hsossms/20260714/v2_3dff94347ed3414dac06f2fb0bdeeab4@1743780481@ai_oswg911202oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "647b898dff56",
+          "title": "QuestMobile 2026年AI应用市场发展半年报",
+          "desc": "2026上半年AI应用市场：原生App崛起重构移动互联网",
+          "source": "36氪",
+          "date": "2026-07-14",
+          "dateLabel": "7月14日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3894851032693769",
+          "image": "https://img.36krcdn.com/hsossms/20260714/v2_005c1db30f93444d92c3fdbc38c407cb@1743780481@ai_oswg965502oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "b4d7468a31b5",
+          "title": "SpaceX联手Cursor的首个AI产品曝光，全能办公智能体内测中，ChatGPT Work迎来劲敌",
+          "desc": "Cursor开发Sand入职场AI，或被SpaceX收购",
+          "source": "36氪",
+          "date": "2026-07-14",
+          "dateLabel": "7月14日",
+          "tags": [
+            "model",
+            "business"
+          ],
+          "url": "https://36kr.com/p/3894912989854720",
+          "image": "https://img.36krcdn.com/hsossms/20260714/v2_3f2f949389b144cb95a9926693357d6d@1743780481@ai_oswg995553oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        }
+      ]
+    },
+    {
       "date": "2026-07-13",
       "dateLabel": "7月13日",
       "id": "d13",
       "items": [
         {
-          "id": "5c65b955bff3",
-          "title": "为什么前沿AI公司都想自己造芯片？",
-          "desc": "DeepSeek、智谱、OpenAI、Anthropic 都想造芯……",
+          "id": "aeacbbdf7e96",
+          "title": "豆包、千问智能体下线，可灵、Seedance们的管控还会远吗？",
+          "desc": "AI监管落地，智能体下线，视频生成AI或成下一个整顿目标",
           "source": "36氪",
           "date": "2026-07-13",
           "dateLabel": "7月13日",
           "tags": [
             "model",
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3893444818188800",
-          "image": "https://img.36krcdn.com/hsossms/20260713/v2_8a766c9e142948aca4ad1c38c51ca0d3@000000@ai_oswg317670oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "a240a1495d97",
-          "title": "过剩外租 vs 疯狂扩建，“精分”Meta背后是明晃晃的“阳谋”？",
-          "desc": "做算力生意，Meta是认真的！",
-          "source": "36氪",
-          "date": "2026-07-13",
-          "dateLabel": "7月13日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3891134311004677",
-          "image": "https://img.36krcdn.com/hsossms/20260711/v2_bb0114c6eb454a95af7b78b9e1bebde2@000000@ai_oswg387979oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "fb5c9f20a680",
-          "title": "SK海力士赴美上市，是一场地缘、利益与定价权的三重下注",
-          "desc": "入局“纸牌屋”的三重算盘",
-          "source": "36氪",
-          "date": "2026-07-13",
-          "dateLabel": "7月13日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3893450300636035",
-          "image": "https://img.36krcdn.com/hsossms/20260713/v2_a79422ac643943d5b8049bf5537e3d1a@000000_oswg47757oswg906oswg386_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "a700e0f4fa19",
-          "title": "长鑫之后，合肥风投再出手：这次的主角是聆思",
-          "desc": "让AI走下云端",
-          "source": "36氪",
-          "date": "2026-07-13",
-          "dateLabel": "7月13日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3893550092024579",
-          "image": "https://img.36krcdn.com/hsossms/20260713/v2_c36ba035273846689a2f15a0d79ef77e@000000@ai_oswg300687oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "aeea7282f78c",
-          "title": "老板们用AI守财，靠谱吗",
-          "desc": "比起替代员工，更看重保护财产",
-          "source": "36氪",
-          "date": "2026-07-13",
-          "dateLabel": "7月13日",
-          "tags": [
             "policy"
           ],
-          "url": "https://36kr.com/p/3893480667380354",
-          "image": "https://img.36krcdn.com/hsossms/20260713/v2_a38dcf8ea1a2465a8dcd05eedf2e7160@1743780481@ai_oswg913467oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3894130525912071",
+          "image": "https://img.36krcdn.com/hsossms/20260713/v2_db4cdd75c1b64077904db3f184db4691@000000@ai_oswg338032oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "05b3144fd92e",
-          "title": "马桶自动跑到你床边？AI让你躺着洗澡上厕所，没啥用还是黑科技？",
-          "desc": "AI：我就帮到这里了",
+          "id": "c9ee68baea35",
+          "title": "豆包开始收费了，字节到底有没有商业化的压力",
+          "desc": "是战略性变现还是被迫止血？",
           "source": "36氪",
           "date": "2026-07-13",
           "dateLabel": "7月13日",
           "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3890395178826245",
-          "image": "https://img.36krcdn.com/hsossms/20260711/v2_2ee6df6010744569b9058ab2457cd47d@000000@ai_oswg230868oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "cef11199c677",
-          "title": "清研精准融资数亿元，装备制造国家队投了",
-          "desc": "7月清研精准B轮融资落定，卡位工业物理AI工程化底座",
-          "source": "36氪",
-          "date": "2026-07-13",
-          "dateLabel": "7月13日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3893535788890760",
-          "image": "https://img.36krcdn.com/hsossms/20260713/v2_954171d3cede49cebc4d556fef5f33c5@1743780481@ai_oswg887253oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "4647c3e5a7f7",
-          "title": "北京亦庄，将跑出一个机器人独角兽IPO",
-          "desc": "机器人赛道，迎来一个“卖铲人”。",
-          "source": "36氪",
-          "date": "2026-07-13",
-          "dateLabel": "7月13日",
-          "tags": [
-            "research",
             "business",
             "cn"
           ],
-          "url": "https://36kr.com/p/3893520033364744",
-          "image": "https://img.36krcdn.com/hsossms/20260713/v2_81534cf2e466418d8eb67d11f4953ba6@000000@ai_oswg446151oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3894019113810944",
+          "image": "https://img.36krcdn.com/hsossms/20260713/v2_facd8db7e1e64882ac5b88d2a050df84@5888275@ai_oswg1019505oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "1c0481de80ec",
+          "title": "一年赚1950亿，差点破产，史上第二大IPO背后的秘密",
+          "desc": "真正改变命运的，是在未来迟迟不来时，有耐心不退出。",
+          "source": "36氪",
+          "date": "2026-07-13",
+          "dateLabel": "7月13日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3893993575841027",
+          "image": "https://img.36krcdn.com/hsossms/20260713/v2_cd26055541ff4ef199974f692521e798@5888275@ai_oswg1023130oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "60a6a2286cf9",
+          "title": "苹果一纸诉状，马斯克和奥特曼又吵起来了",
+          "desc": "吵架也是一种“战术”。",
+          "source": "36氪",
+          "date": "2026-07-13",
+          "dateLabel": "7月13日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3893962354801417",
+          "image": "https://img.36krcdn.com/hsossms/20260713/v2_e1bf8b6a56de4aa6a8e870d17b1618f5@5888275@ai_oswg917846oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "07825c3cb06e",
+          "title": "老黄的赌局",
+          "desc": "身在硅谷，心在华尔街",
+          "source": "36氪",
+          "date": "2026-07-13",
+          "dateLabel": "7月13日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3893972567849865",
+          "image": "https://img.36krcdn.com/hsossms/20260713/v2_ee555cbea05a4d35a7b11fb634e64d79@5888275@ai_oswg951881oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "73963817df9f",
+          "title": "是时候该给Token算算ROI的账了",
+          "desc": "Token狂欢之后，企业开始算账了",
+          "source": "36氪",
+          "date": "2026-07-13",
+          "dateLabel": "7月13日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3893971626376200",
+          "image": "https://img.36krcdn.com/hsossms/20260713/v2_cda25764204e478294b003116e91f52b@5888275@ai_oswg950143oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "39c6b6fd7183",
+          "title": "Seed吃肉，Flow喝汤，当字节不再“All in”一个AI",
+          "desc": "终究是豆包扛下了所有",
+          "source": "36氪",
+          "date": "2026-07-13",
+          "dateLabel": "7月13日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3893938573425538",
+          "image": "https://img.36krcdn.com/hsossms/20260713/v2_3c01c2450c95429d8230ed1f3119cfb9@5888275@ai_oswg902052oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "9cda85fe813d",
+          "title": "人类音乐需要重新定价",
+          "desc": "人类已经无法阻挡AI前进的脚步，但可以选择给自己重新定个价。",
+          "source": "36氪",
+          "date": "2026-07-13",
+          "dateLabel": "7月13日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3893923782605314",
+          "image": "https://img.36krcdn.com/hsossms/20260713/v2_a14ae87fafcd47199fa87ec6560db45a@5888275@ai_oswg987410oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         }
       ]
@@ -2908,130 +3029,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-06-10",
-      "dateLabel": "6月10日",
-      "id": "d10",
-      "items": [
-        {
-          "id": "9f7462962385",
-          "title": "全球首家AI情人馆开业，249欧一晚，来的最多的竟是已婚男人",
-          "desc": "249欧一夜的“完美情人”，为何让德国人上头？",
-          "source": "36氪",
-          "date": "2026-06-10",
-          "dateLabel": "6月10日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3847967397991425",
-          "image": "https://img.36krcdn.com/hsossms/20260611/v2_d6545d7d09234fe485d91aac990436df@5091053@ai_oswg1121082oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "919cabb4facd",
-          "title": "Anthropic 发了“最强模型”，但大多数人用不上",
-          "desc": "最强模型也最贵。",
-          "source": "36氪",
-          "date": "2026-06-10",
-          "dateLabel": "6月10日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3847982811731202",
-          "image": "https://img.36krcdn.com/hsossms/20260611/v2_7f20ce073918458a8079f33e479dd90b@5091053@ai_oswg1028868oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "7606a4f8511f",
-          "title": "只会说漂亮话的AI，办不了“填志愿”这件人生大事",
-          "desc": "从报志愿这件事开始，AI正在证明：它不仅能说漂亮话，更能办漂亮事。",
-          "source": "36氪",
-          "date": "2026-06-10",
-          "dateLabel": "6月10日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3847386672764161",
-          "image": "https://img.36krcdn.com/hsossms/20260610/v2_7a2d634dfa2f46e0b08c3a0d8478921d@11416942_oswg79553oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "aaaac157fc4d",
-          "title": "当中国机器人供应链，决定开始卖“基础设施”｜muShanghai现场笔记",
-          "desc": "中国具身智能核心部件公司，走在集体出海的前夜。",
-          "source": "36氪",
-          "date": "2026-06-10",
-          "dateLabel": "6月10日",
-          "tags": [
-            "research",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3847394898679044",
-          "image": "https://img.36krcdn.com/hsossms/20260610/v2_4a0142dd9c2044359b1177d5854b3911@5509299_oswg311615oswg600oswg400_img_png",
-          "color": "#2563eb"
-        },
-        {
-          "id": "907259da03b4",
-          "title": "MiniMax改价引发众怒：3000亿市值神话悬了？",
-          "desc": "‍新版大模型上线、算力成本高企，一场突如其来的调价，让港股AI明星企业MiniMax陷入舆论漩涡。",
-          "source": "36氪",
-          "date": "2026-06-10",
-          "dateLabel": "6月10日",
-          "tags": [
-            "model",
-            "business"
-          ],
-          "url": "https://36kr.com/p/3847272900544769",
-          "image": "https://img.36krcdn.com/hsossms/20260610/v2_0dffe72566ec4169a88cdb885b513419@46958@ai_oswg1003350oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "dbf8a5c3a6de",
-          "title": "赛博无间道：AI时代的网络攻防战",
-          "desc": "AI重塑下的网络安全",
-          "source": "36氪",
-          "date": "2026-06-10",
-          "dateLabel": "6月10日",
-          "tags": [
-            "policy"
-          ],
-          "url": "https://36kr.com/p/3847236850321664",
-          "image": "https://img.36krcdn.com/hsossms/20260610/v2_fb406a575a90476f903f7a47e260886c@46958@ai_oswg887354oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "2e2dcb5050db",
-          "title": "智谱与MiniMax将进入解禁期：股价震荡，Kimi 300亿美元估值面临挑战",
-          "desc": "智谱、MiniMax很快进入解禁期，流动性将大幅增加，会增大Kimi后期投资者的投资风险。",
-          "source": "36氪",
-          "date": "2026-06-10",
-          "dateLabel": "6月10日",
-          "tags": [
-            "model",
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3847278698514949",
-          "image": "https://img.36krcdn.com/hsossms/20260610/v2_150244154fbb47f0b7285a742220fed4@000000@ai_oswg334048oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "68d874d9adcd",
-          "title": "拆了一台宇树机器人，美国研究机构说它会是下一个比亚迪",
-          "desc": "宇树离爆发，可能只差最后一步",
-          "source": "36氪",
-          "date": "2026-06-10",
-          "dateLabel": "6月10日",
-          "tags": [
-            "research",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3847303087166464",
-          "image": "https://img.36krcdn.com/hsossms/20260610/v2_9ef7f048d5034f3082f0f1390bd49895@46958@ai_oswg872129oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -3057,6 +3054,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-07-13 13:35",
+  "updateTime": "2026-07-14 12:49",
   "totalNews": 194
 }
