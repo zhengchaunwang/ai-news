@@ -1,71 +1,136 @@
 {
   "newsData": [
     {
+      "date": "2026-07-16",
+      "dateLabel": "7月16日",
+      "id": "d16",
+      "items": [
+        {
+          "id": "67cb9564d595",
+          "title": "清华团队推出AI学习神器“AI Cosmos”，“对话即学习”",
+          "desc": "“知识不再只是被解释，而是真正被看见、被操作、被理解。”",
+          "source": "36氪",
+          "date": "2026-07-16",
+          "dateLabel": "7月16日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3897689294047109",
+          "image": "https://img.36krcdn.com/hsossms/20260716/v2_2d74cc1752fc4b01b1dfeedeeae41428@000000@ai_oswg237556oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "41331c30eb5f",
+          "title": "为什么现在还没出现程序员大规模失业？前OpenAI研究员爆料：大厂在等AI自己迭代自己",
+          "desc": "无论是奥特曼、达里奥还是马斯克，他们玩了命研发 AGI 根本不图钱，只是害怕对方先成为独裁者。",
+          "source": "36氪",
+          "date": "2026-07-16",
+          "dateLabel": "7月16日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://36kr.com/p/3897715737708424",
+          "image": "https://img.36krcdn.com/hsossms/20260716/v2_ea282cffcb8c428487a5923511d0b534@1743780481@ai_oswg885421oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "1d4bf98ae7de",
+          "title": "不危险不配上桌？AI御三家自曝家丑藏心机：安全报告成AI版安兔兔",
+          "desc": "Anthropic们太有心机了。",
+          "source": "36氪",
+          "date": "2026-07-16",
+          "dateLabel": "7月16日",
+          "tags": [
+            "policy"
+          ],
+          "url": "https://36kr.com/p/3897723851048073",
+          "image": "https://img.36krcdn.com/hsossms/20260716/v2_e84a39a49c864e6cb0ab39701ac21067@1743780481@ai_oswg909178oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "778b5b937303",
+          "title": "上市，会改变DeepSeek吗？",
+          "desc": "AGI理想和二级市场",
+          "source": "36氪",
+          "date": "2026-07-16",
+          "dateLabel": "7月16日",
+          "tags": [
+            "model",
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3897775948924296",
+          "image": "https://img.36krcdn.com/hsossms/20260716/v2_63a08f8ec76049dd9860a1085cd84beb@1743780481@ai_oswg994902oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "90d68b3bf045",
+          "title": "巨头竞逐“国民级AI应用”",
+          "desc": "科技巨头，谁能在国民级AI应用的竞争中胜出",
+          "source": "36氪",
+          "date": "2026-07-16",
+          "dateLabel": "7月16日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3897682677860224",
+          "image": "https://img.36krcdn.com/hsossms/20260716/v2_c02d6e2a93234112a0e537bec2b8d981@000000@ai_oswg320194oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "dbf8fe303592",
+          "title": "谁在解释世界？",
+          "desc": "定向的AI建议、信用品市场与权威重配。",
+          "source": "36氪",
+          "date": "2026-07-16",
+          "dateLabel": "7月16日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3897117496116609",
+          "image": "https://img.36krcdn.com/hsossms/20260716/v2_e96cfce5d4544cf1895fd6f17378d274@1743780481@ai_oswg974335oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "30dac2677c4d",
+          "title": "谈谈缘何元数据死灰复燃",
+          "desc": "AI时代，数据变成元数据的副产品，元数据成为Agent的语言",
+          "source": "36氪",
+          "date": "2026-07-16",
+          "dateLabel": "7月16日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3897055465375620",
+          "image": "https://img.36krcdn.com/hsossms/20260715/v2_da3f01927f3f46e6a27d2dc93416734a@000000@ai_oswg291937oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "6eda589df24f",
+          "title": "半年吸金千亿，具身智能在赌第二个王兴兴",
+          "desc": "资本化加速",
+          "source": "36氪",
+          "date": "2026-07-16",
+          "dateLabel": "7月16日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://36kr.com/p/3897035907303305",
+          "image": "https://img.36krcdn.com/hsossms/20260715/v2_260312e5351541069628f86a55e33d12@000000@ai_oswg290958oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        }
+      ]
+    },
+    {
       "date": "2026-07-15",
       "dateLabel": "7月15日",
       "id": "d15",
       "items": [
         {
-          "id": "e144feb18fa2",
-          "title": "Claude Opus更爱抬杠、Sonnet更会安慰人、连中英文性格都不同，Anthropic分析30万条真实对话首次揭秘Claude“人格”",
-          "desc": "不同的版本、用不同的语种， Claude 都有不同的“性格”",
-          "source": "36氪",
-          "date": "2026-07-15",
-          "dateLabel": "7月15日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://36kr.com/p/3896356568139652",
-          "image": "https://img.36krcdn.com/hsossms/20260715/v2_5827196138b940c68a6b0c5491c0ac0c@1743780481@ai_oswg922957oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "2deef6dbef2a",
-          "title": "花不到150美元，2.7万行代码“零手写”，9年iOS工程师第一次做游戏：用AI两周完成，拿下17万元奖金",
-          "desc": "最后感悟：AI 最大的价值，不是写代码。",
-          "source": "36氪",
-          "date": "2026-07-15",
-          "dateLabel": "7月15日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3896358295029383",
-          "image": "https://img.36krcdn.com/hsossms/20260715/v2_95eb47129080422ca5721e0762f4aaec@1743780481@ai_oswg1054598oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "7a8dc86da75c",
-          "title": "“我们必须立即行动”，16位诺奖得主、近200位学者联名警告：AI或带来大规模岗位消失",
-          "desc": "近200位顶尖学者人士发公开信预警AI经济变革需提前应对",
-          "source": "36氪",
-          "date": "2026-07-15",
-          "dateLabel": "7月15日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3896360727365251",
-          "image": "https://img.36krcdn.com/hsossms/20260715/v2_65f9323e6aa4461082df0b54e4b18366@1743780481@ai_oswg897750oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "a5a35747255c",
-          "title": "Scaling Law一招鲜？首个晶体结构操作基准，顶级大模型集体翻车",
-          "desc": "Scaling Law遇原子操作瓶颈，AI for Science需转向Action Scaling",
-          "source": "36氪",
-          "date": "2026-07-15",
-          "dateLabel": "7月15日",
-          "tags": [
-            "model",
-            "research"
-          ],
-          "url": "https://36kr.com/p/3896324152526725",
-          "image": "https://img.36krcdn.com/hsossms/20260715/v2_0bb03796fb7640af91cb492da12a069f@1743780481@ai_oswg966596oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "8e5977dda330",
-          "title": "DeepSeek再启融资，710亿美元估值背后，AI竞争已经变了",
-          "desc": "一个月，两轮融资，DeepSeek为什么这么着急？",
+          "id": "c014525e1d4e",
+          "title": "DeepSeek或冲刺A股IPO，4800亿估值引行业热议",
+          "desc": "巨头扎堆入股，大模型资本化浪潮再升级",
           "source": "36氪",
           "date": "2026-07-15",
           "dateLabel": "7月15日",
@@ -74,52 +139,107 @@
             "business",
             "cn"
           ],
-          "url": "https://36kr.com/p/3895568122447237",
-          "image": "https://img.36krcdn.com/hsossms/20260715/v2_425f0a36dbea4435b66fcff13d83f6a8@1743780481@ai_oswg1001288oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3896949637695363",
+          "image": "https://img.36krcdn.com/hsossms/20260715/v2_ea90e095f05f48b082b145c0092b6327@1743780481@ai_oswg907809oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "c50cccb39594",
-          "title": "“不守规矩的人，反而占便宜”，DeepMind之父再谈AGI与前沿模型监管",
-          "desc": "竞争拉低了下限。",
+          "id": "3484f0fcf691",
+          "title": "OpenAI都做不好，AI浏览器还有前途吗？",
+          "desc": "无法与成熟产品拉开体验差距，就注定不会有什么前途。",
           "source": "36氪",
           "date": "2026-07-15",
           "dateLabel": "7月15日",
           "tags": [
-            "policy"
-          ],
-          "url": "https://36kr.com/p/3896297861547655",
-          "image": "https://img.36krcdn.com/hsossms/20260715/v2_0bcb4345b9b147c2836c8e2a8df5d075@1743780481@ai_oswg975604oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "5ea658868770",
-          "title": "诺奖得主哈萨比斯震撼发声：AGI影响将是工业革命10倍",
-          "desc": "Demis Hassabis称AGI几年内实现，呼吁建立监管框架管控风险。",
-          "source": "36氪",
-          "date": "2026-07-15",
-          "dateLabel": "7月15日",
-          "tags": [
-            "policy"
-          ],
-          "url": "https://36kr.com/p/3896319378311046",
-          "image": "https://img.36krcdn.com/hsossms/20260715/v2_d56d5caf55d74fb5b500cf1f45ae1da4@1743780481@ai_oswg978365oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "1b7402be49fc",
-          "title": "GPT-5.6 Sol一夜变笨，思考预算960砍到128，没智力固定的模型了？",
-          "desc": "OpenAI下调GPT推理算力预算，引发用户降智争议",
-          "source": "36氪",
-          "date": "2026-07-15",
-          "dateLabel": "7月15日",
-          "tags": [
-            "model",
-            "research",
             "business"
           ],
-          "url": "https://36kr.com/p/3896320634685318",
-          "image": "https://img.36krcdn.com/hsossms/20260715/v2_eff2726023044139a7fc00e0627f81fb@1743780481@ai_oswg820224oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3896812742116995",
+          "image": "https://img.36krcdn.com/hsossms/20260715/v2_6145b142bc694b74bd01d6673aa5b95b@5888275@ai_oswg1008719oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "a4a313392087",
+          "title": "阶跃星辰被两面夹击",
+          "desc": "印奇还是干得晚了",
+          "source": "36氪",
+          "date": "2026-07-15",
+          "dateLabel": "7月15日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3896836894852486",
+          "image": "https://img.36krcdn.com/hsossms/20260715/v2_25af9fdaf5f943a2a28e6dbdfe6c02f1@5888275@ai_oswg864711oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "e9b98503c2af",
+          "title": "字节入局物理AI，第二波“盛宴”开启？",
+          "desc": "方向已经清晰，拐点已经确认，潮水已经涌来。",
+          "source": "36氪",
+          "date": "2026-07-15",
+          "dateLabel": "7月15日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3896703522292865",
+          "image": "https://img.36krcdn.com/hsossms/20260715/v2_2638c116ba5d4b3e923caa9ef9fbd799@5888275@ai_oswg978579oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "b5ba296661ad",
+          "title": "别人拼命造人形机器人，这家公司先给机器狗装了只手",
+          "desc": "一只手，就能够干活？",
+          "source": "36氪",
+          "date": "2026-07-15",
+          "dateLabel": "7月15日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://36kr.com/p/3896735746901382",
+          "image": "https://img.36krcdn.com/hsossms/20260715/v2_c059ce4f2f6c456f9eda8449a7590650@5888275@ai_oswg1059998oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "a14cad9e3d9a",
+          "title": "AI试衣间，如何成为拯救女装的超高退货率的救世主？",
+          "desc": "虚拟的功能，真实的预览",
+          "source": "36氪",
+          "date": "2026-07-15",
+          "dateLabel": "7月15日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3896745373484163",
+          "image": "https://img.36krcdn.com/hsossms/20260715/v2_417d2348b8eb48708fca7005e8446ce2@5888275@ai_oswg921989oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "c90a21fab8ba",
+          "title": "8000人一夜被裁的背后，Meta被曝用AI“筛人”，26名员工集体起诉：AI Token都成考核项，休假员工成了“重灾区”",
+          "desc": "Meta 回应：裁员是人决定的，不是 AI。",
+          "source": "36氪",
+          "date": "2026-07-15",
+          "dateLabel": "7月15日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3896805645616771",
+          "image": "https://img.36krcdn.com/hsossms/20260715/v2_21e62ea7738d45ca942811b4cb76559f@5888275@ai_oswg910268oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "3f0daac6b08d",
+          "title": "谁是AI时代真正的组织架构师",
+          "desc": "重构信息流转",
+          "source": "36氪",
+          "date": "2026-07-15",
+          "dateLabel": "7月15日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://36kr.com/p/3896805990057606",
+          "image": "https://img.36krcdn.com/hsossms/20260715/v2_7ab5a888ff1d474e8d96076285654964@5888275@ai_oswg924118oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         }
       ]
@@ -3096,41 +3216,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-06-12",
-      "dateLabel": "6月12日",
-      "id": "d12",
-      "items": [
-        {
-          "id": "43cfaa7ef618",
-          "title": "神了，世界杯第一天真按千问剧本踢了",
-          "desc": "比分、红牌、绝杀全押中",
-          "source": "量子位",
-          "date": "2026-06-12",
-          "dateLabel": "6月12日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/06/435321.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "5feafa067ea7",
-          "title": "千里收购了一家毫米波雷达公司",
-          "desc": "布局全栈闭环",
-          "source": "量子位",
-          "date": "2026-06-12",
-          "dateLabel": "6月12日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/06/435196.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -3156,6 +3241,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-07-15 12:50",
-  "totalNews": 201
+  "updateTime": "2026-07-16 12:58",
+  "totalNews": 207
 }
