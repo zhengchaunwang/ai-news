@@ -1,124 +1,248 @@
 {
   "newsData": [
     {
-      "date": "2026-07-17",
-      "dateLabel": "7月17日",
-      "id": "d17",
+      "date": "2026-07-18",
+      "dateLabel": "7月18日",
+      "id": "d18",
       "items": [
         {
-          "id": "26bce66ad08a",
-          "title": "54GB降到4GB，苹果接洽PrismML，模型压缩技术要火？",
-          "desc": "相比参数规模而言，效率才是模型应用的关键。",
+          "id": "203f0bbc6d30",
+          "title": "十年服务世界，正在成为普渡迈向具身智能的底牌",
+          "desc": "具身智能进入下半场，赢家拼的不再只是机器人。",
           "source": "36氪",
-          "date": "2026-07-17",
-          "dateLabel": "7月17日",
+          "date": "2026-07-18",
+          "dateLabel": "7月18日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://36kr.com/p/3900610713175938",
+          "image": "https://img.36krcdn.com/hsossms/20260718/v2_9e7767f9943340b3beec976d4742d7ee@39566_oswg49039oswg600oswg400_img_jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "b56edb6c9ac3",
+          "title": "门票炒到 3000 元的 WAIC，我们找到了 AI 真正的创新",
+          "desc": "WAIC 2026 观察：20 个创新产品里的 AI",
+          "source": "36氪",
+          "date": "2026-07-18",
+          "dateLabel": "7月18日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3898337652966787",
-          "image": "https://img.36krcdn.com/hsossms/20260717/v2_944f6c0a353647178bdc2c384f2eff4b@1743780481_oswg816787oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "url": "https://36kr.com/p/3899772123694979",
+          "image": "https://img.36krcdn.com/hsossms/20260718/v2_33c7a85813204b0089650d9b242f2296@5667365@ai_oswg1010649oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "ed9bedcca395",
-          "title": "GPT随意清空用户硬盘，是时候聊聊Agent的安全问题了",
-          "desc": "这届AI太努力了，努力到把用户文件全删了。",
+          "id": "47e75bab282c",
+          "title": "打败Fable 5！Kimi K3冲上第一，杨植麟导师很骄傲",
+          "desc": "首个开源3T级模型，性能接近Claude Fable 5，但价格只要一半。",
           "source": "36氪",
-          "date": "2026-07-17",
-          "dateLabel": "7月17日",
-          "tags": [
-            "model",
-            "policy"
-          ],
-          "url": "https://36kr.com/p/3899132238742659",
-          "image": "https://img.36krcdn.com/hsossms/20260717/v2_0cffd920f6a94415bea17976f2b8b6d4@1743780481@ai_oswg1014514oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "7373344a7491",
-          "title": "一级市场的月之暗面和DeepSeek，估值叙事「溢价」从何而来",
-          "desc": "月之暗面更多是“财务性溢价”和“性能溢价”， DeepSeek有很多非“财务性溢价”因素。",
-          "source": "36氪",
-          "date": "2026-07-17",
-          "dateLabel": "7月17日",
+          "date": "2026-07-18",
+          "dateLabel": "7月18日",
           "tags": [
             "model",
             "business",
             "cn"
           ],
-          "url": "https://36kr.com/p/3899198858806919",
-          "image": "https://img.36krcdn.com/hsossms/20260717/v2_9c9e94400b444389ace1748f550f293a@000000@ai_oswg246058oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3899876606985864",
+          "image": "https://img.36krcdn.com/hsossms/20260717/v2_84b86eacf8b8445682ba7fef7a131b59@000000@ai_oswg289001oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "27ce47a416a0",
-          "title": "Atlas关停，AI浏览器没有未来了吗？",
-          "desc": "Agent正在吃掉搜索，但不会终结浏览器。",
+          "id": "024c99b077a4",
+          "title": "DeepSeek估值，被一家安徽箱包公司给全部暴露了",
+          "desc": "3500亿估值曝光",
+          "source": "量子位",
+          "date": "2026-07-18",
+          "dateLabel": "7月18日",
+          "tags": [
+            "model",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/07/453641.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "0476e003d636",
+          "title": "WAIC信息爆炸！大佬们都在说什么，笔记看这里",
+          "desc": "图灵奖得主、两院院士……精彩、太精彩",
+          "source": "量子位",
+          "date": "2026-07-18",
+          "dateLabel": "7月18日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/07/453631.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "d415dfda8dcb",
+          "title": "清华系团队发布国产Token优化工厂：兼容10余种国产芯片，日吞吐千亿Token",
+          "desc": "让每一份算力都变成有效Token",
+          "source": "量子位",
+          "date": "2026-07-18",
+          "dateLabel": "7月18日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/07/453617.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "4f0d6f8c6410",
+          "title": "B站成WAIC官方AI科技视频平台，月均超1.9亿用户消费AI内容",
+          "desc": "B站成WAIC官方AI科技视频平台，月均超1.9亿用户消费AI内容",
+          "source": "量子位",
+          "date": "2026-07-18",
+          "dateLabel": "7月18日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/07/453530.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "db48743470b2",
+          "title": "全球首款720°连续后空翻机器狗来了！宇泛智能携“灵猫”双馆联袂首秀WAIC",
+          "desc": "全球首款720°连续后空翻机器狗来了！宇泛智能携“灵猫”双馆联袂首秀WAIC",
+          "source": "量子位",
+          "date": "2026-07-18",
+          "dateLabel": "7月18日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/07/453506.html",
+          "image": "",
+          "color": "#7c3aed"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-17",
+      "dateLabel": "7月17日",
+      "id": "d17",
+      "items": [
+        {
+          "id": "d8e3c6eb630c",
+          "title": "算法代理不对称：当AI替你决策时，你连反对的权利都没有",
+          "desc": "算法不仅是工具，更是隐形的权力。它塑造你的选择，你却对它一无所知。谁来打破这场不对称游戏？",
+          "source": "36氪",
+          "date": "2026-07-17",
+          "dateLabel": "7月17日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://36kr.com/p/3899527497335943",
+          "image": "https://img.36krcdn.com/hsossms/20260717/v2_a00d4967afb245449b4a911af7b0e403@5888275@ai_oswg905925oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "7682ac8108c8",
+          "title": "全球首个“变形金刚”，中国企业造出来了",
+          "desc": "全球首款可变形个人机器人启元T1发布，可切换人形/四足形态",
+          "source": "36氪",
+          "date": "2026-07-17",
+          "dateLabel": "7月17日",
+          "tags": [
+            "research",
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3899505422796161",
+          "image": "https://img.36krcdn.com/hsossms/20260717/v2_0ba78110bbc54965b8ca8c754477c4a5@5888275@ai_oswg940151oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "ea80c2b0abbc",
+          "title": "真人短剧，被AI逼上大银幕",
+          "desc": "底色是焦虑。",
           "source": "36氪",
           "date": "2026-07-17",
           "dateLabel": "7月17日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3899206669943940",
-          "image": "https://img.36krcdn.com/hsossms/20260717/v2_652b057a4e65486fbccbe472769c0c40@1743780481@ai_oswg863137oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3899537124165256",
+          "image": "https://img.36krcdn.com/hsossms/20260717/v2_dcb9a1cd5a6042a9955b9fb94255097c@5888275@ai_oswg863892oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "30a30f5fb35e",
-          "title": "A16Z最新判断：80%的token在空转，管理AI才是下一个万亿机会",
-          "desc": "疯狂堆Token，不如管理好 AI",
+          "id": "6bee4c311a80",
+          "title": "第一个被AI做空的国家，出现了",
+          "desc": "AI，戳破了印度的大国梦",
           "source": "36氪",
           "date": "2026-07-17",
           "dateLabel": "7月17日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3899145318286723",
-          "image": "https://img.36krcdn.com/hsossms/20260717/v2_66ecc14e93904da996df8e3367d93aa5@1743780481@ai_oswg1036853oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3899650585806469",
+          "image": "https://img.36krcdn.com/hsossms/20260717/v2_23262fc7027944cca303402620eba6ae@5888275@ai_oswg972803oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "b3579ffa44ad",
-          "title": "Claude 进军 K12，AI 巨头终于开始抢学校了",
-          "desc": "Claude 对上 ChatGPT，两款教师版到底有何不同？",
+          "id": "56f94ef1f56f",
+          "title": "什么国产模型，都能跟Fable 5掰手腕了？全方位实测Kimi K3",
+          "desc": "见其至猛而忧其至深者，奥之特曼，达之里奥，哈之基米。",
+          "source": "36氪",
+          "date": "2026-07-17",
+          "dateLabel": "7月17日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3899650690188936",
+          "image": "https://img.36krcdn.com/hsossms/20260717/v2_ca65f9e9cad74a92a605c630370f0ab5@5888275@ai_oswg900770oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "791dfcd3141c",
+          "title": "终于用上 AI 的公司，发现业务被大模型公司抢了",
+          "desc": "不仅要你的钱，而且要你的业务。",
           "source": "36氪",
           "date": "2026-07-17",
           "dateLabel": "7月17日",
           "tags": [
             "model"
           ],
-          "url": "https://36kr.com/p/3898298397525632",
-          "image": "https://img.36krcdn.com/hsossms/20260716/v2_7a4e706b9810474abaaecc834e7d4c5c@000000@ai_oswg284354oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3899582770611845",
+          "image": "https://img.36krcdn.com/hsossms/20260717/v2_e7d5c2e5acfc446bb4cad10ee39b00ba@5888275@ai_oswg1004351oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "9820d780f62e",
-          "title": "李善友：世界越卷越快，我们可以更慢、更深、更向内",
-          "desc": "站在第一性原理的角度，站在意识的底色里，去创造一件属于自己的美好作品。",
+          "id": "0c6f279f3736",
+          "title": "做出来容易上线难：搞定企业级Agent要先学会“评估”？",
+          "desc": "有些冷水也不得不泼。",
+          "source": "36氪",
+          "date": "2026-07-17",
+          "dateLabel": "7月17日",
+          "tags": [
+            "research",
+            "business"
+          ],
+          "url": "https://36kr.com/p/3899570321901449",
+          "image": "https://img.36krcdn.com/hsossms/20260717/v2_af2ca26d109740eb8463686482c573fc@5888275@ai_oswg936060oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "759c13560403",
+          "title": "全体起立：面向AI智能体的Internet Court现已开庭",
+          "desc": "全体起立：面向AI智能体的Internet Court现已开庭",
           "source": "36氪",
           "date": "2026-07-17",
           "dateLabel": "7月17日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3898246542509700",
-          "image": "https://img.36krcdn.com/hsossms/20260716/v2_da226c8c65b743eea47e6b2a2f39299c@000000@ai_oswg266386oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "6c18c9030ec1",
-          "title": "美团领投，灵巧手新晋独角兽诞生",
-          "desc": "5万亿产业资本集结。",
-          "source": "36氪",
-          "date": "2026-07-17",
-          "dateLabel": "7月17日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3899039079319432",
-          "image": "https://img.36krcdn.com/hsossms/20260717/v2_03ddeb15280a4ac39a4c07a9a89ced8b@000000@ai_oswg319326oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3899512269538945",
+          "image": "https://img.36krcdn.com/hsossms/20260717/v2_fbb538cfe4a04badbfdde5667ccd453a@5888275@ai_oswg927223oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         }
       ]
@@ -3181,102 +3305,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-06-14",
-      "dateLabel": "6月14日",
-      "id": "d14",
-      "items": [
-        {
-          "id": "f925940bd652",
-          "title": "Claude Fable 5四日惊魂",
-          "desc": "一场从高光到猝死的极速坠落。",
-          "source": "36氪",
-          "date": "2026-06-14",
-          "dateLabel": "6月14日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://36kr.com/p/3852737616876550",
-          "image": "https://img.36krcdn.com/hsossms/20260614/v2_a6d825380105418cbcfcba2b08e88cd5@000000@ai_oswg284137oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "244a5211b973",
-          "title": "最强Claude，卡在上市前夜",
-          "desc": "牌刚打出来，监管先一步坐上了牌桌。",
-          "source": "36氪",
-          "date": "2026-06-14",
-          "dateLabel": "6月14日",
-          "tags": [
-            "model",
-            "business",
-            "policy"
-          ],
-          "url": "https://36kr.com/p/3852759269980800",
-          "image": "https://img.36krcdn.com/hsossms/20260614/v2_0f7288a5b6714c1aaf2e50080aba1ea8@5657805_oswg398546oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "f88d87520685",
-          "title": "华人AI工程师也搭上了SpaceX的财富火箭",
-          "desc": "从多模态到代码智能体，xAI里的华人AI工程师也被装进了SpaceX上市故事。",
-          "source": "36氪",
-          "date": "2026-06-14",
-          "dateLabel": "6月14日",
-          "tags": [
-            "research",
-            "business"
-          ],
-          "url": "https://36kr.com/p/3852485841156997",
-          "image": "https://img.36krcdn.com/hsossms/20260614/v2_d0fe04f91faa4b719ab2a408efa7a671@000000_oswg121941oswg940oswg399_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "0e6c80b4906c",
-          "title": "大反转！Anthropic CEO拒修漏洞才被封，举报Claude新模型是自家大股东",
-          "desc": "Claude开启退款，金额按剩余时长折算。",
-          "source": "36氪",
-          "date": "2026-06-14",
-          "dateLabel": "6月14日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://36kr.com/p/3852376401220868",
-          "image": "https://img.36krcdn.com/hsossms/20260614/v2_75479a49974e46cdacb27c111c2f58be@000000@ai_oswg25480oswg900oswg382_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "f3fd6fcde6ba",
-          "title": "谷歌官宣3万字路线图：1亿人类水平的AI就是ASI！",
-          "desc": "【新智元导读】1000个实例每年翻10倍，五年后就是一亿个AI！谷歌DeepMind推演：一亿个共享大脑、思考快百倍的AI，本身就是ASI。但前路还有六道「叹息之墙」。",
-          "source": "36氪",
-          "date": "2026-06-14",
-          "dateLabel": "6月14日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3852349905900544",
-          "image": "https://img.36krcdn.com/hsossms/20260614/v2_f16aa54d6b2d4368bb6631f139770cf5@000000_oswg105977oswg1080oswg459_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "99886007cb07",
-          "title": "28000Pa 吸力 + 越障高度 40mm：小米米家扫拖机器人 6 上下水版 1888 元新低",
-          "desc": "小米旗下米家扫拖机器人 6 标准版发售于 2026 年 4 月，该机器人提供 28000Pa 吸力。其中水箱版本定价 2699 元，上下水版 3099 元。京东 618 大促期间，两款国补后：水箱版 1663 元，晒单返 20 元京豆 + 种草返 100 元后低至 1543 元。上下水 2007 元，晒单返 20 元京豆 + 种草返 100 元后低至 1887 元。下单时选择“以旧换新” → 个护",
-          "source": "IT之家",
-          "date": "2026-06-14",
-          "dateLabel": "6月14日",
-          "tags": [
-            "research",
-            "policy",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/0/964/180.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/5/8c539c22-aed8-46c0-8d86-08fb20e7df3f.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -3302,6 +3330,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-07-17 13:12",
-  "totalNews": 211
+  "updateTime": "2026-07-18 12:47",
+  "totalNews": 213
 }
