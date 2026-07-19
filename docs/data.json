@@ -1,10 +1,179 @@
 {
   "newsData": [
     {
+      "date": "2026-07-19",
+      "dateLabel": "7月19日",
+      "id": "d19",
+      "items": [
+        {
+          "id": "6969c2b643e8",
+          "title": "DeepSeek V4“满血版”曝光了，最快明天发布",
+          "desc": "首次引入「峰谷计费」，依旧真香。",
+          "source": "36氪",
+          "date": "2026-07-19",
+          "dateLabel": "7月19日",
+          "tags": [
+            "model",
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3902097586800259",
+          "image": "https://img.36krcdn.com/hsossms/20260719/v2_d3e9383220be49129ebaaa40bfc5cfae@000000_oswg146008oswg1280oswg544_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "47af76ea127f",
+          "title": "端侧大模型成了刚需，芯片准备好了吗？",
+          "desc": "端边芯片的竞争，才刚开始。",
+          "source": "36氪",
+          "date": "2026-07-19",
+          "dateLabel": "7月19日",
+          "tags": [
+            "model",
+            "business"
+          ],
+          "url": "https://36kr.com/p/3901953321338500",
+          "image": "https://img.36krcdn.com/hsossms/20260719/v2_b2140d94d7544b94a2e7e4ed35b99a3a@11416942_oswg150322oswg1053oswg495_img_jpeg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "4f79586878cf",
+          "title": "这，可能是今年WAIC最惊艳的图片！",
+          "desc": "商汤发布U1 Pro",
+          "source": "36氪",
+          "date": "2026-07-19",
+          "dateLabel": "7月19日",
+          "tags": [
+            "model",
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3901071153940097",
+          "image": "https://img.36krcdn.com/hsossms/20260719/v2_e7cdd4fb971e4b9390e045f2e1bec217@1200352198_oswg789227oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "2d0a39a59895",
+          "title": "二代“豆包手机”上手体验：左手抖音右手瑞幸，让App们开始排队打工",
+          "desc": "记忆能力是特色，四种颜色可选。",
+          "source": "36氪",
+          "date": "2026-07-19",
+          "dateLabel": "7月19日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3901150672603017",
+          "image": "https://img.36krcdn.com/hsossms/20260718/v2_bedbdea9ca424c0e91e2407bdbe15f19@000000@ai_oswg339834oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "c05b6e1a12fa",
+          "title": "WAIC机器人狂卷落地：细分赛道爆发，VLA 与世界模型争做大脑",
+          "desc": "不再炫技！WAIC 机器人主攻落地场景。",
+          "source": "36氪",
+          "date": "2026-07-19",
+          "dateLabel": "7月19日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://36kr.com/p/3901340695872647",
+          "image": "https://img.36krcdn.com/hsossms/20260719/v2_6f8ba6ca06634fdca956893b88e8f72f@1547419282_oswg1054055oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "376ff37eed09",
+          "title": "WAIC五位首席科学家交锋：多模态是LLM的“外挂”，还是下一代智能的“灵魂”？",
+          "desc": "我们可能高估了Agent自主化，低估了AI对社会的改变。",
+          "source": "36氪",
+          "date": "2026-07-19",
+          "dateLabel": "7月19日",
+          "tags": [
+            "model",
+            "research"
+          ],
+          "url": "https://36kr.com/p/3901333823293312",
+          "image": "https://img.36krcdn.com/hsossms/20260719/v2_c33751fada514cb6afd65c418886bffd@000000@ai_oswg373625oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "1063fcdea371",
+          "title": "荣耀、豆包领衔，WAIC上的AI手机，开始跟你抢事做了",
+          "desc": "AI手机的下一步。",
+          "source": "36氪",
+          "date": "2026-07-19",
+          "dateLabel": "7月19日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3901343845598599",
+          "image": "https://img.36krcdn.com/hsossms/20260719/v2_6c73ccc4ae304850830781776f946e8d@1547419282_oswg63074oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "32cda5fc4d90",
+          "title": "魔法原子Magic-VLA K02攻克叠盒封胶长程任务，成功率超90%",
+          "desc": "WAIC现场叠箱封胶，解锁物理AI新技能",
+          "source": "量子位",
+          "date": "2026-07-19",
+          "dateLabel": "7月19日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/07/454155.html",
+          "image": "",
+          "color": "#7c3aed"
+        }
+      ]
+    },
+    {
       "date": "2026-07-18",
       "dateLabel": "7月18日",
       "id": "d18",
       "items": [
+        {
+          "id": "7a8ae74ade63",
+          "title": "万亿Token调用量验证，PPIO如何打造新一代智能Token工厂？",
+          "desc": "PPIO定义的\\x26quot;智能Token工厂\\x26quot;，是一套围绕Token全生命周期进行优化的大规模生产与交付体系。",
+          "source": "36氪",
+          "date": "2026-07-18",
+          "dateLabel": "7月18日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3901197105071748",
+          "image": "https://img.36krcdn.com/hsossms/20260718/v2_fd517cf7fc074a17b61fc82314962641@5679941_oswg87422oswg600oswg400_img_jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "bfa1b950e8aa",
+          "title": "WAIC2026的三个关键信号：算力重组、Agent交付与AI硬件闭环",
+          "desc": "如何让已经拥有的智能长期运行理解具体的人和组织、进入真实世界？",
+          "source": "36氪",
+          "date": "2026-07-18",
+          "dateLabel": "7月18日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3900957398960006",
+          "image": "https://img.36krcdn.com/hsossms/20260718/v2_0dc8a0a7f26347089b6e542def1394ce@39566_oswg89465oswg600oswg400_img_jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "1c7eb98e7667",
+          "title": "刚刚，Fable 5官宣永久可用",
+          "desc": "Kimi K3发布搅动AI圈，美头部AI厂商降价放额度",
+          "source": "36氪",
+          "date": "2026-07-18",
+          "dateLabel": "7月18日",
+          "tags": [
+            "model",
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3900918550546308",
+          "image": "https://img.36krcdn.com/hsossms/20260718/v2_dbed4306f8214098879adcfe48adf6f5@5667365@ai_oswg881651oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
         {
           "id": "203f0bbc6d30",
           "title": "十年服务世界，正在成为普渡迈向具身智能的底牌",
@@ -50,75 +219,30 @@
           "color": "#2563eb"
         },
         {
-          "id": "024c99b077a4",
-          "title": "DeepSeek估值，被一家安徽箱包公司给全部暴露了",
-          "desc": "3500亿估值曝光",
+          "id": "1f0657ae1de7",
+          "title": "WAIC看了一圈，这家公司的机器人在认真打工",
+          "desc": "机器人真正具备了干活的完整能力",
           "source": "量子位",
           "date": "2026-07-18",
           "dateLabel": "7月18日",
           "tags": [
-            "model",
-            "business",
-            "cn"
+            "research"
           ],
-          "url": "https://www.qbitai.com/2026/07/453641.html",
+          "url": "https://www.qbitai.com/2026/07/454040.html",
           "image": "",
           "color": "#7c3aed"
         },
         {
-          "id": "0476e003d636",
-          "title": "WAIC信息爆炸！大佬们都在说什么，笔记看这里",
-          "desc": "图灵奖得主、两院院士……精彩、太精彩",
+          "id": "3702728ee675",
+          "title": "WAIC 2026现场直击：万兴科技旗下万兴剧厂“无限画布”、新品Filmora.AI与Virbo AI火爆首秀",
+          "desc": "WAIC 2026现场直击：万兴科技旗下万兴剧厂“无限画布”、新品Filmora.AI与Virbo AI火爆首秀",
           "source": "量子位",
           "date": "2026-07-18",
           "dateLabel": "7月18日",
           "tags": [
             "business"
           ],
-          "url": "https://www.qbitai.com/2026/07/453631.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "d415dfda8dcb",
-          "title": "清华系团队发布国产Token优化工厂：兼容10余种国产芯片，日吞吐千亿Token",
-          "desc": "让每一份算力都变成有效Token",
-          "source": "量子位",
-          "date": "2026-07-18",
-          "dateLabel": "7月18日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/07/453617.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "4f0d6f8c6410",
-          "title": "B站成WAIC官方AI科技视频平台，月均超1.9亿用户消费AI内容",
-          "desc": "B站成WAIC官方AI科技视频平台，月均超1.9亿用户消费AI内容",
-          "source": "量子位",
-          "date": "2026-07-18",
-          "dateLabel": "7月18日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/07/453530.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "db48743470b2",
-          "title": "全球首款720°连续后空翻机器狗来了！宇泛智能携“灵猫”双馆联袂首秀WAIC",
-          "desc": "全球首款720°连续后空翻机器狗来了！宇泛智能携“灵猫”双馆联袂首秀WAIC",
-          "source": "量子位",
-          "date": "2026-07-18",
-          "dateLabel": "7月18日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/07/453506.html",
+          "url": "https://www.qbitai.com/2026/07/454015.html",
           "image": "",
           "color": "#7c3aed"
         }
@@ -3182,129 +3306,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-06-15",
-      "dateLabel": "6月15日",
-      "id": "d15",
-      "items": [
-        {
-          "id": "d5df22d97357",
-          "title": "阿里为什么传出“周靖人离职”谣言？",
-          "desc": "一场被辟谣的“离职”与一场真实的“放逐”",
-          "source": "36氪",
-          "date": "2026-06-15",
-          "dateLabel": "6月15日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3854443434670722",
-          "image": "https://img.36krcdn.com/hsossms/20260615/v2_0d087cc774474a4191d9357a453d75d7@1743780481@ai_oswg1094903oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "63c47481f186",
-          "title": "AI时代，最不值钱的就是“努力”",
-          "desc": "AI时代，普通人的活法。",
-          "source": "36氪",
-          "date": "2026-06-15",
-          "dateLabel": "6月15日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3854490126275843",
-          "image": "https://img.36krcdn.com/hsossms/20260615/v2_f1e393ab65a94bdc820a68c3826b0857@1743780481@ai_oswg866806oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "9965f2fe93ea",
-          "title": "配音师困在AI里：声音被盗后火遍全网，真人却快失业了",
-          "desc": "一个配音师的声音被偷了。",
-          "source": "36氪",
-          "date": "2026-06-15",
-          "dateLabel": "6月15日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3854402897574787",
-          "image": "https://img.36krcdn.com/hsossms/20260615/v2_6a746cb7ed2b4e068ee545d3977014b3@1743780481@ai_oswg1035118oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "07f273dea01c",
-          "title": "曝林俊旸获腾讯投资：首轮估值135亿，新一轮融资已开启",
-          "desc": "“林俊旸”名下，多了3家新公司。",
-          "source": "36氪",
-          "date": "2026-06-15",
-          "dateLabel": "6月15日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3854438054417670",
-          "image": "https://img.36krcdn.com/hsossms/20260615/v2_044165959d7b4026aa8d965b4c573cb4@000000@ai_oswg332532oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "543457f0a99d",
-          "title": "1680份员工履历揭开Anthropic招人底牌：「基础设施老兵」更吃香",
-          "desc": "「不招应届生、只要资深工程师」！",
-          "source": "36氪",
-          "date": "2026-06-15",
-          "dateLabel": "6月15日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3854356944311297",
-          "image": "https://img.36krcdn.com/hsossms/20260615/v2_07ccff0bd6e2403d8f5a8d8ba85f10a3@000000@ai_oswg262700oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "e26b8029f235",
-          "title": "“我花近万元买的智能眼镜，最近不敢戴出门”",
-          "desc": "“如果用户知道自己真正录下了什么，恐怕没人敢继续戴这款眼镜。”",
-          "source": "36氪",
-          "date": "2026-06-15",
-          "dateLabel": "6月15日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3854356284134406",
-          "image": "https://img.36krcdn.com/hsossms/20260615/v2_c8f738f21a4a4501862f203ae3e8cd0a@5888275@ai_oswg776588oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "c86443211757",
-          "title": "校企共推AI4S 上海交通大学与太初元碁签署合作协议",
-          "desc": "校企共推AI4S 上海交通大学与太初元碁签署合作协议",
-          "source": "量子位",
-          "date": "2026-06-15",
-          "dateLabel": "6月15日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/06/435848.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "f3d29835e812",
-          "title": "从ICRA到CVPR，机器人圈最近到底在聊什么？｜北京·周三晚",
-          "desc": "从ICRA到CVPR，机器人圈最近到底在聊什么？｜北京·周三晚",
-          "source": "量子位",
-          "date": "2026-06-15",
-          "dateLabel": "6月15日",
-          "tags": [
-            "research",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/06/435841.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -3330,6 +3331,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-07-18 12:47",
+  "updateTime": "2026-07-19 13:20",
   "totalNews": 213
 }
