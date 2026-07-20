@@ -1,127 +1,244 @@
 {
   "newsData": [
     {
+      "date": "2026-07-20",
+      "dateLabel": "7月20日",
+      "id": "d20",
+      "items": [
+        {
+          "id": "102d642963b2",
+          "title": "今年最火爆的三部短剧，没有一个是“正经团队”",
+          "desc": "内容过剩的时代，怪念头有时比标准答案更容易让人记住。",
+          "source": "36氪",
+          "date": "2026-07-20",
+          "dateLabel": "7月20日",
+          "tags": [
+            "policy"
+          ],
+          "url": "https://36kr.com/p/3900818578851712",
+          "image": "https://img.36krcdn.com/hsossms/20260720/v2_c337f764193945b690cccf2c6e386702@5091053@ai_oswg890250oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "3eb34ba2ac70",
+          "title": "K3发布48小时，服务器满载、英伟达暴跌、Anthropic连夜改订阅",
+          "desc": "总统科技顾问说美国会输掉AI竞赛，英伟达蒸发1111亿，只因为这一个模型",
+          "source": "36氪",
+          "date": "2026-07-20",
+          "dateLabel": "7月20日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3903442689049736",
+          "image": "https://img.36krcdn.com/hsossms/20260720/v2_3238b3d309554db485612e4889c177cd@5091053@ai_oswg949518oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "b9dfad88fe26",
+          "title": "矩阵超智MATRIX-3亮相WAIC 2026 WAVE物理世界基座模型升级 全球合作伙伴计划正式启幕",
+          "desc": "随着计划全面启动，矩阵超智将加快构建覆盖全球的商业与服务网络，推动MATRIX从展台走向真实场景、从单点示范走向规模化应用。",
+          "source": "36氪",
+          "date": "2026-07-20",
+          "dateLabel": "7月20日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3903357121496967",
+          "image": "https://img.36krcdn.com/hsossms/20260720/v2_b3d975580fad4643b7d5df74bafe041c@5362858_oswg763455oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "47f0eb94807b",
+          "title": "你是什么时候染上 Vibe Coding 的？",
+          "desc": "像赌博、像狩猎，更像即兴演奏一曲爵士乐",
+          "source": "36氪",
+          "date": "2026-07-20",
+          "dateLabel": "7月20日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3899688803649410",
+          "image": "https://img.36krcdn.com/hsossms/20260720/v2_0581e0c050bc47bd87cc741be4fa75b2@5091053@ai_oswg955121oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "8f5b8240a710",
+          "title": "暑期营吹起AI风",
+          "desc": "如何辨别“李逵”和“李鬼”？",
+          "source": "36氪",
+          "date": "2026-07-20",
+          "dateLabel": "7月20日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3903426383644289",
+          "image": "https://img.36krcdn.com/hsossms/20260720/v2_3d211bcb403c46b3820d64a61b5744b1@5091053@ai_oswg1130536oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "8b576578129f",
+          "title": "脑机接口：从读懂大脑，到赋能产业",
+          "desc": "WAIC2026强脑科技发布多款脑机接口新品，拓展产业应用",
+          "source": "36氪",
+          "date": "2026-07-20",
+          "dateLabel": "7月20日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3903423054890889",
+          "image": "https://img.36krcdn.com/hsossms/20260720/v2_0fbfafac2ee445e4b1bb3834bf577433@6381723_oswg1155001oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "b197634ae976",
+          "title": "2026WAIC十大看点：国产芯片全阵容亮相，AI步入产业层",
+          "desc": "PPIO推智能Token工厂与Agentic Cloud，抢AI增量市场",
+          "source": "36氪",
+          "date": "2026-07-20",
+          "dateLabel": "7月20日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3903410496800646",
+          "image": "https://img.36krcdn.com/hsossms/20260720/v2_49ce5d1099d44f37a3da9fcb37e5a5b6@6381723_oswg978322oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "f0f8e783432d",
+          "title": "YC掌门人最新分享：AI时代，永远不要做一次性工作",
+          "desc": "如果你重复交代同一件事两次，意味着你的管理失败了",
+          "source": "36氪",
+          "date": "2026-07-20",
+          "dateLabel": "7月20日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3903410413422214",
+          "image": "https://img.36krcdn.com/hsossms/20260720/v2_1ee168c015414b19bc0a2f699f76a0ca@5091053@ai_oswg930525oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        }
+      ]
+    },
+    {
       "date": "2026-07-19",
       "dateLabel": "7月19日",
       "id": "d19",
       "items": [
         {
-          "id": "6969c2b643e8",
-          "title": "DeepSeek V4“满血版”曝光了，最快明天发布",
-          "desc": "首次引入「峰谷计费」，依旧真香。",
-          "source": "36氪",
-          "date": "2026-07-19",
-          "dateLabel": "7月19日",
-          "tags": [
-            "model",
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3902097586800259",
-          "image": "https://img.36krcdn.com/hsossms/20260719/v2_d3e9383220be49129ebaaa40bfc5cfae@000000_oswg146008oswg1280oswg544_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "47af76ea127f",
-          "title": "端侧大模型成了刚需，芯片准备好了吗？",
-          "desc": "端边芯片的竞争，才刚开始。",
-          "source": "36氪",
-          "date": "2026-07-19",
-          "dateLabel": "7月19日",
-          "tags": [
-            "model",
-            "business"
-          ],
-          "url": "https://36kr.com/p/3901953321338500",
-          "image": "https://img.36krcdn.com/hsossms/20260719/v2_b2140d94d7544b94a2e7e4ed35b99a3a@11416942_oswg150322oswg1053oswg495_img_jpeg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "4f79586878cf",
-          "title": "这，可能是今年WAIC最惊艳的图片！",
-          "desc": "商汤发布U1 Pro",
-          "source": "36氪",
-          "date": "2026-07-19",
-          "dateLabel": "7月19日",
-          "tags": [
-            "model",
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3901071153940097",
-          "image": "https://img.36krcdn.com/hsossms/20260719/v2_e7cdd4fb971e4b9390e045f2e1bec217@1200352198_oswg789227oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "2d0a39a59895",
-          "title": "二代“豆包手机”上手体验：左手抖音右手瑞幸，让App们开始排队打工",
-          "desc": "记忆能力是特色，四种颜色可选。",
-          "source": "36氪",
-          "date": "2026-07-19",
-          "dateLabel": "7月19日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3901150672603017",
-          "image": "https://img.36krcdn.com/hsossms/20260718/v2_bedbdea9ca424c0e91e2407bdbe15f19@000000@ai_oswg339834oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "c05b6e1a12fa",
-          "title": "WAIC机器人狂卷落地：细分赛道爆发，VLA 与世界模型争做大脑",
-          "desc": "不再炫技！WAIC 机器人主攻落地场景。",
-          "source": "36氪",
-          "date": "2026-07-19",
-          "dateLabel": "7月19日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://36kr.com/p/3901340695872647",
-          "image": "https://img.36krcdn.com/hsossms/20260719/v2_6f8ba6ca06634fdca956893b88e8f72f@1547419282_oswg1054055oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "376ff37eed09",
-          "title": "WAIC五位首席科学家交锋：多模态是LLM的“外挂”，还是下一代智能的“灵魂”？",
-          "desc": "我们可能高估了Agent自主化，低估了AI对社会的改变。",
-          "source": "36氪",
-          "date": "2026-07-19",
-          "dateLabel": "7月19日",
-          "tags": [
-            "model",
-            "research"
-          ],
-          "url": "https://36kr.com/p/3901333823293312",
-          "image": "https://img.36krcdn.com/hsossms/20260719/v2_c33751fada514cb6afd65c418886bffd@000000@ai_oswg373625oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "1063fcdea371",
-          "title": "荣耀、豆包领衔，WAIC上的AI手机，开始跟你抢事做了",
-          "desc": "AI手机的下一步。",
-          "source": "36氪",
-          "date": "2026-07-19",
-          "dateLabel": "7月19日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3901343845598599",
-          "image": "https://img.36krcdn.com/hsossms/20260719/v2_6c73ccc4ae304850830781776f946e8d@1547419282_oswg63074oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "32cda5fc4d90",
-          "title": "魔法原子Magic-VLA K02攻克叠盒封胶长程任务，成功率超90%",
-          "desc": "WAIC现场叠箱封胶，解锁物理AI新技能",
+          "id": "7add97fd0c37",
+          "title": "冷门的哲学，成了“治”AI的热门",
+          "desc": "智能进了社会，治理不能慢半拍",
           "source": "量子位",
           "date": "2026-07-19",
           "dateLabel": "7月19日",
           "tags": [
             "business"
           ],
-          "url": "https://www.qbitai.com/2026/07/454155.html",
+          "url": "https://www.qbitai.com/2026/07/455041.html",
           "image": "",
           "color": "#7c3aed"
+        },
+        {
+          "id": "def1f9a2f343",
+          "title": "围观WAIC模型「读心术」！现场火火火火火",
+          "desc": "主观世界模型",
+          "source": "量子位",
+          "date": "2026-07-19",
+          "dateLabel": "7月19日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/07/455031.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "486b1c4f51d8",
+          "title": "不靠英伟达网卡，国产GPU直通方案实测出炉：吞吐飙升、延迟砍半",
+          "desc": "奇异摩尔首次亮相WAIC 2026",
+          "source": "量子位",
+          "date": "2026-07-19",
+          "dateLabel": "7月19日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/07/454932.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "25b6cef61729",
+          "title": "逛了趟WAIC，我只想说，AI在物理世界都快卷疯了……",
+          "desc": "还得是AI圈春晚",
+          "source": "量子位",
+          "date": "2026-07-19",
+          "dateLabel": "7月19日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/07/454802.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "18b0fe8a705a",
+          "title": "聚焦WAIC｜端侧原生架构获产业共识，Om AI联汇正式发起物理AI协同发展倡议",
+          "desc": "聚焦WAIC｜端侧原生架构获产业共识，Om AI联汇正式发起物理AI协同发展倡议",
+          "source": "量子位",
+          "date": "2026-07-19",
+          "dateLabel": "7月19日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.qbitai.com/2026/07/454791.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "9fa82d4216d8",
+          "title": "2026世界人工智能大会“未来计算·未来算力”专题论坛在沪召开，共识凝聚五问",
+          "desc": "2026世界人工智能大会“未来计算·未来算力”专题论坛在沪召开，共识凝聚五问",
+          "source": "量子位",
+          "date": "2026-07-19",
+          "dateLabel": "7月19日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/07/454774.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "f7ad4b4656f0",
+          "title": "华为靳玉志再谈“L3 无法跳过”，称法律法规完善及用户适应都需要一个过程",
+          "desc": "IT之家 7 月 20 日消息，据 36 氪汽车昨晚报道，华为公司高级副总裁、引望公司 CEO 靳玉志在接受采访时再次谈及了“L3 无法跳过”这一话题。业内有人提出可以直接从 L2 升级到 L4，但华为乾崑认为 L3 是无法跨越的必经阶段。对此，靳玉志表示：L3 和 L4，不是一种对立的关系，是迈向完全自动驾驶同一个方向的不同阶段。从法规和用户角度来看，从 L2 到 L3 是一个变革性的变化，意味",
+          "source": "IT之家",
+          "date": "2026-07-19",
+          "dateLabel": "7月19日",
+          "tags": [
+            "policy",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/978/822.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/fd2b37cf-9040-43b2-aa65-f9b7c2e0347a.png?x-bce-process=image/format,f_auto/auto-orient,o_1",
+          "color": "#d97706"
+        },
+        {
+          "id": "83c41938488a",
+          "title": "IT早报 0720：华为靳玉志称境和界是互补关系；比亚迪大汉实车曝光；Kimi K3 打破美 AI 领先中国认知；西班牙二度夺冠，EA 连续五次成功预测世界杯冠军...",
+          "desc": "“IT早报”时间，大家好，现在是 2026 年 7 月 20 日星期一，今天的重要科技资讯有：1、华为靳玉志：“境”和“界”并不冲突、是互补的关系，鸿蒙智行打造 30 万以上汽车的样板点靳玉志表示：“境”和“界”是互补的关系。网上有人认为二者冲突，实际上是不冲突的，在华为内部很早就达成了共识。>> 查看详情2、比亚迪王朝首款 D 级旗舰轿车，大汉实车曝光新车定位比亚迪王朝首款 D 级旗舰轿车，长宽",
+          "source": "IT之家",
+          "date": "2026-07-19",
+          "dateLabel": "7月19日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/978/821.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/7dac2a59-62e8-40c6-ad2f-70ed98f2a87c.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
         }
       ]
     },
@@ -3184,128 +3301,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-06-16",
-      "dateLabel": "6月16日",
-      "id": "d16",
-      "items": [
-        {
-          "id": "7dc2e2bd68b0",
-          "title": "不到一个月就解禁，MiniMax的泡沫却先破了",
-          "desc": "两周暴跌53%，两年巨亏160亿。",
-          "source": "36氪",
-          "date": "2026-06-16",
-          "dateLabel": "6月16日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3855844043668356",
-          "image": "https://img.36krcdn.com/hsossms/20260616/v2_a2bd4b9858df453a9fde3f416f6f97a8@1743780481@ai_oswg940615oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "b4056266ee52",
-          "title": "具身智能进家庭：别把范围当场景，进门要先找切口",
-          "desc": "被打包的“家庭场景”。",
-          "source": "36氪",
-          "date": "2026-06-16",
-          "dateLabel": "6月16日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://36kr.com/p/3855699426950025",
-          "image": "https://img.36krcdn.com/hsossms/20260616/v2_ec9b0ca7661a4f61b3afb13308138e2f@5888275@ai_oswg967072oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "78a2c85cdc17",
-          "title": "AI时代的3条创业路径，你选择哪一条？",
-          "desc": "不是人人都要做DeepSeek，机会在大模型底座之上",
-          "source": "36氪",
-          "date": "2026-06-16",
-          "dateLabel": "6月16日",
-          "tags": [
-            "model",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3855745873171718",
-          "image": "https://img.36krcdn.com/hsossms/20260616/v2_b230b496abc8492c8c5c52e8fa2ff291@5888275@ai_oswg1041498oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "caa3c38ae397",
-          "title": "曝DeepSeek融资细节，梁文锋如何保住控制权",
-          "desc": "‍精明的梁文锋，拿捏了资本！也改写了科创企业融资的剧本。",
-          "source": "36氪",
-          "date": "2026-06-16",
-          "dateLabel": "6月16日",
-          "tags": [
-            "model",
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3855773631976456",
-          "image": "https://img.36krcdn.com/hsossms/20260616/v2_bc0c4bc5b37a44d09e7582f9bf3722b1@5888275@ai_oswg1032800oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "1277e5ed0ba9",
-          "title": "李想的AI延长线",
-          "desc": "AI+汽车=？",
-          "source": "36氪",
-          "date": "2026-06-16",
-          "dateLabel": "6月16日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3855684038251780",
-          "image": "https://img.36krcdn.com/hsossms/20260616/v2_98ca7a2f1a074f759a21fb2791d2cb92@5888275@ai_oswg1097904oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "bd104843f3fc",
-          "title": "收入翻10倍，AI时代的算力“滴滴”为什么还不赚钱？",
-          "desc": "租来的算力，撑不起估值",
-          "source": "36氪",
-          "date": "2026-06-16",
-          "dateLabel": "6月16日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3855775271719942",
-          "image": "https://img.36krcdn.com/hsossms/20260616/v2_a4a596001c434f9998aefd5c37fac52b@5888275@ai_oswg962665oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "4f04a611313e",
-          "title": "AGI不是终点，DeepMind新论文：迈向ASI，真正的AI进步才刚开始",
-          "desc": "从AGI到ASI",
-          "source": "36氪",
-          "date": "2026-06-16",
-          "dateLabel": "6月16日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://36kr.com/p/3855615518921729",
-          "image": "https://img.36krcdn.com/hsossms/20260616/v2_d468dc1e1eff49f4a9fdc2f5e535f5a3@5888275@ai_oswg924994oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "3e299888afcf",
-          "title": "一个模型控制手脚腰身！机器人终于学会全身协同干精细活了",
-          "desc": "手的问题，其实不在手",
-          "source": "量子位",
-          "date": "2026-06-16",
-          "dateLabel": "6月16日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://www.qbitai.com/2026/06/436073.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -3331,6 +3326,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-07-19 13:20",
+  "updateTime": "2026-07-20 13:38",
   "totalNews": 213
 }
