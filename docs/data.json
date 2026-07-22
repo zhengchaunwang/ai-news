@@ -1,72 +1,148 @@
 {
   "newsData": [
     {
+      "date": "2026-07-22",
+      "dateLabel": "7月22日",
+      "id": "d22",
+      "items": [
+        {
+          "id": "89f3bc29acd7",
+          "title": "我在WAIC 2026看见的十大趋势",
+          "desc": "人，是AI发展最宝贵的资源",
+          "source": "36氪",
+          "date": "2026-07-22",
+          "dateLabel": "7月22日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3906270567699592",
+          "image": "https://img.36krcdn.com/hsossms/20260722/v2_d714c4abeb634f4c9ff9c65abbb35216@000000@ai_oswg377308oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "0467405e83be",
+          "title": "AI PC过时了，AC一夜爆发，Agent真的需要专属电脑？",
+          "desc": "Agent能用的电脑，简称AC。",
+          "source": "36氪",
+          "date": "2026-07-22",
+          "dateLabel": "7月22日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3906182214424194",
+          "image": "https://img.36krcdn.com/hsossms/20260722/v2_2e0a2afe070a4795bd37a897b88717f4@5091053@ai_oswg909089oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "ca650461a3ca",
+          "title": "GPT-6为刷榜黑进Hugging Face，捅篓子还得靠GLM-5.2追查......",
+          "desc": "闭源模型拒绝查案，GLM‑5.2接手1.7万条日志",
+          "source": "36氪",
+          "date": "2026-07-22",
+          "dateLabel": "7月22日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://36kr.com/p/3906272984732804",
+          "image": "https://img.36krcdn.com/hsossms/20260722/v2_30b722ece1ab4b9fbc9e90e16195ca4e@5091053@ai_oswg1063778oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "41ddbe4fb850",
+          "title": "AI PCB产业链投资全景拆解",
+          "desc": "本文系统拆解AI对PCB带来的三重变革：层数非线性跃迁、覆铜板材料代际升级、mSAP工艺替代，并梳理钻孔、曝光、电镀、检测四大设备环节的投资机会与产业格局。",
+          "source": "36氪",
+          "date": "2026-07-22",
+          "dateLabel": "7月22日",
+          "tags": [
+            "policy"
+          ],
+          "url": "https://36kr.com/p/3906205135247240",
+          "image": "https://img.36krcdn.com/hsossms/20260722/v2_4b1e064a59d64f8a883684d4428e0bbb@5091053@ai_oswg919425oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "b32fd2470a75",
+          "title": "王祖贤，把脸卖给了AI",
+          "desc": "下一个卖脸的会是谁？",
+          "source": "36氪",
+          "date": "2026-07-22",
+          "dateLabel": "7月22日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3906258857842561",
+          "image": "https://img.36krcdn.com/hsossms/20260722/v2_efe7a2fcd3ed4712b6be6aaec9ee9690@5091053@ai_oswg968008oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "27df6852fe5d",
+          "title": "二级市场投资人WAIC上谈AI下一轮机会：国产算力链、模型公司商业化和估值空间",
+          "desc": "“AI产业链上肯定有些资产定价存在泡沫，但整个AI不是泡沫。”",
+          "source": "36氪",
+          "date": "2026-07-22",
+          "dateLabel": "7月22日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3906217745437831",
+          "image": "https://img.36krcdn.com/hsossms/20260722/v2_d4e68898b04547e099ee5019d3425e2d@5091053@ai_oswg1037502oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "6565398c9585",
+          "title": "狙击AMD AI大会？英伟达抢先披露Vera CPU新细节",
+          "desc": "专为智能体AI构建",
+          "source": "36氪",
+          "date": "2026-07-22",
+          "dateLabel": "7月22日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3906242385286281",
+          "image": "https://img.36krcdn.com/hsossms/20260722/v2_05c566cf02a744839692113b3938337d@5091053@ai_oswg1036049oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "7347e69465d7",
+          "title": "Anthropic正在批量制造自己的张磊徐新",
+          "desc": "投资7500万美元，回报70亿美元。",
+          "source": "36氪",
+          "date": "2026-07-22",
+          "dateLabel": "7月22日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3906227968382593",
+          "image": "https://img.36krcdn.com/hsossms/20260722/v2_6a42d44be7374313af004ee1b07eedba@5091053@ai_oswg982435oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        }
+      ]
+    },
+    {
       "date": "2026-07-21",
       "dateLabel": "7月21日",
       "id": "d21",
       "items": [
         {
-          "id": "8f7f588471cb",
-          "title": "亮相WAIC2026：从核心部件到场景方案，华沿机器人秀出“具身智能”硬实力",
-          "desc": "凭借在电机、关节模组、伺服驱动器、运动控制算法等机器人核心技术领域20多年的技术积淀，完成从最底层电机/关节模组到协作机器人整机、再到具身智能机器人相关产品的全链路深度布局。",
+          "id": "a2175c9093c8",
+          "title": "谷歌连发三款“Lite、Flash”模型，但最强Pro再次缺席",
+          "desc": "3.5 Pro仍在测试，Gemini 4已在路上",
           "source": "36氪",
           "date": "2026-07-21",
           "dateLabel": "7月21日",
           "tags": [
-            "research"
+            "model"
           ],
-          "url": "https://36kr.com/p/3903593981626240",
-          "image": "https://img.36krcdn.com/hsossms/20260720/v2_54f6fbbe40c44b678deeb0f2d7272090@5925182_oswg1274586oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "url": "https://36kr.com/p/3906038850262152",
+          "image": "https://img.36krcdn.com/hsossms/20260722/v2_69442a7d31b84d9fa28304b59ace1781@5091053@ai_oswg985846oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "c6ec6fd38c66",
-          "title": "SKAI Intelligence在2026 WAIC 参与《工业级物理AI赋能高精密制造》白皮书中文版发布，并与 ABB机器人举行战略合作签约仪式",
-          "desc": "2026WAIC，SKAI参与白皮书发布并与ABB签战略合作",
-          "source": "36氪",
-          "date": "2026-07-21",
-          "dateLabel": "7月21日",
-          "tags": [
-            "research",
-            "business"
-          ],
-          "url": "https://36kr.com/p/3904874851026565",
-          "image": "https://img.36krcdn.com/hsossms/20260721/v2_90ad467836b9426c8859d9698a215d65@6381723_oswg880766oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "234fa78b6c9d",
-          "title": "2026 WAIC收官：满场AI新物种背后，藏着物理 AI 的终局线索",
-          "desc": "“AI一天，人间一年”",
-          "source": "36氪",
-          "date": "2026-07-21",
-          "dateLabel": "7月21日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3904860398978440",
-          "image": "https://img.36krcdn.com/hsossms/20260721/v2_92f86dab26d0481795c9c4e952632393@5091053@ai_oswg1030089oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "11c76d65fe82",
-          "title": "谷歌密谋「焊死」Gemini，神秘芯片曝光，能效碾压TPU十倍",
-          "desc": "一场豪赌",
-          "source": "36氪",
-          "date": "2026-07-21",
-          "dateLabel": "7月21日",
-          "tags": [
-            "model",
-            "business"
-          ],
-          "url": "https://36kr.com/p/3904844399445638",
-          "image": "https://img.36krcdn.com/hsossms/20260721/v2_79b74f5436a0461db4054a706f144200@5091053@ai_oswg1155496oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "6515d3f0ae96",
-          "title": "《2026年 AI 应用市场洞察报告》：竞争、商业与数字经济新格局",
-          "desc": "2026年上半年全球生成式 AI 应用的总使用时长预计将达到360亿小时，较2025年上半年的172亿小时实现翻倍以上增长。",
+          "id": "d72745d8984b",
+          "title": "中国 AI，牌都打明了",
+          "desc": "中国开始出自己的牌了。",
           "source": "36氪",
           "date": "2026-07-21",
           "dateLabel": "7月21日",
@@ -74,50 +150,98 @@
             "business",
             "cn"
           ],
-          "url": "https://36kr.com/p/3904793158977413",
-          "image": "https://img.36krcdn.com/hsossms/20260721/v2_b8dece97409744fd9cf276a2c1692c0d@5091053@ai_oswg930274oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3905349135472008",
+          "image": "https://img.36krcdn.com/hsossms/20260722/v2_17fada28a37d44af8dcecae4b19c7331@5091053@ai_oswg947262oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "b99d05b59fb4",
-          "title": "当AI给出标准答案，人如何“不同凡想”？一场WAIC UP! 思享会撕开的全球追问",
-          "desc": "AI时代人生无标准答案，各方共探价值与方向",
+          "id": "75e288f5b51e",
+          "title": "上海WAIC深度观察：模型隐身，Agent疯野",
+          "desc": "知春路不相信模型领先",
           "source": "36氪",
           "date": "2026-07-21",
           "dateLabel": "7月21日",
           "tags": [
-            "policy"
+            "business",
+            "cn"
           ],
-          "url": "https://36kr.com/p/3904770777548675",
-          "image": "https://img.36krcdn.com/hsossms/20260721/v2_b92109520dcd459585398827765c8402@6381723_oswg907342oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "url": "https://36kr.com/p/3906011261147014",
+          "image": "https://img.36krcdn.com/hsossms/20260722/v2_923d382288c040388cdeef476bf6f9ec@5091053@ai_oswg1022578oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "67cf640b0a62",
-          "title": "三万步爆走WAIC：300多台机器人同台“打工”",
-          "desc": "从台上的“舞蹈明星”，到工厂里的“狠人打工仔”",
+          "id": "2ae9e51d97fc",
+          "title": "Kimi“熔断”，杨植麟也“摸高”",
+          "desc": "Kimi也有自己的“韬定律”。",
+          "source": "36氪",
+          "date": "2026-07-21",
+          "dateLabel": "7月21日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3905427199497856",
+          "image": "https://img.36krcdn.com/hsossms/20260722/v2_94d2447e869b40178836e03d7e2878ea@5091053@ai_oswg926333oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "0b1775c49819",
+          "title": "Kimi K3爆火引发“算力荒”，“不着急上市”的杨植麒急了？",
+          "desc": "Kimi K3爆火后，被誉为“AI六小虎”之一的月之暗面却遭遇了“算力荒”。",
+          "source": "36氪",
+          "date": "2026-07-21",
+          "dateLabel": "7月21日",
+          "tags": [
+            "model",
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3905354888664964",
+          "image": "https://img.36krcdn.com/hsossms/20260722/v2_b693240613b44013a337091e93c3ed4a@5091053@ai_oswg934533oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "c685cee867df",
+          "title": "Kimi K3，让谁紧张？",
+          "desc": "估值逻辑又变了？",
+          "source": "36氪",
+          "date": "2026-07-21",
+          "dateLabel": "7月21日",
+          "tags": [
+            "model",
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3905392402748801",
+          "image": "https://img.36krcdn.com/hsossms/20260722/v2_ed9b1c3348994b778b62d43dae4e905a@5091053@ai_oswg949593oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "6c49b9e76cd5",
+          "title": "世界模型“六小龙”在WAIC吵起来了，行业红利就在非共识里",
+          "desc": "分歧是论文的素材，重叠是产业的基底。",
           "source": "36氪",
           "date": "2026-07-21",
           "dateLabel": "7月21日",
           "tags": [
             "research"
           ],
-          "url": "https://36kr.com/p/3903996153349767",
-          "image": "https://img.36krcdn.com/hsossms/20260721/v2_7495378a1cf048c4ab76b95f7035fd53@5091053@ai_oswg1112517oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3905463018984582",
+          "image": "https://img.36krcdn.com/hsossms/20260722/v2_bfd8115dec24402f94af1e389c6a5bc2@5091053@ai_oswg921139oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "b166c9b61a5b",
-          "title": "AI应用WAIC“抢跑”：热闹是真，但差异化是假",
-          "desc": "没人能精准预判下一个爆款，但谁也不愿错过任何可能。",
+          "id": "2581882fa057",
+          "title": "10万步暴走WAIC，10个问题看懂AI产业下一程：从聊天，到抢「身体」干活",
+          "desc": "AI 抢身体、抢干活的一集。",
           "source": "36氪",
           "date": "2026-07-21",
           "dateLabel": "7月21日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3903980742084224",
-          "image": "https://img.36krcdn.com/hsossms/20260721/v2_c72188559d5a4fe988d183228a112655@5091053@ai_oswg930420oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3905521038579334",
+          "image": "https://img.36krcdn.com/hsossms/20260722/v2_ee141168f47d46468efc0f82a24dece8@5091053@ai_oswg957417oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         }
       ]
@@ -3180,129 +3304,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-06-18",
-      "dateLabel": "6月18日",
-      "id": "d18",
-      "items": [
-        {
-          "id": "2f005d3510c9",
-          "title": "美国AI狂飙，亚洲抢先吃饱",
-          "desc": "亚洲，正在成为全球算力基础设施制造中心。",
-          "source": "36氪",
-          "date": "2026-06-18",
-          "dateLabel": "6月18日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3858605472617475",
-          "image": "https://img.36krcdn.com/hsossms/20260618/v2_a0b6edc9f5cf42f894935ca94f4ef65e@5888275@ai_oswg1053408oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "382cc87a6fa0",
-          "title": "入局AI新风向，WAIC 2026全球开票！",
-          "desc": "世界人工智能大会（WAIC）2026将于7月17日-20日登陆上海并正式启动全球售票，大会将联动三大片区、围绕AI前沿议题设置七大板块内容，聚合全球产学研资资源，配套多元生态活动，同期还将于8月在新加坡举办亚太场。",
-          "source": "36氪",
-          "date": "2026-06-18",
-          "dateLabel": "6月18日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3858594101040389",
-          "image": "https://img.36krcdn.com/hsossms/20260618/v2_12d17e16a95342d38044a9f1a23fa1f0@6381723_oswg193903oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "22e70838df5c",
-          "title": "今天起，Claude Design要把设计师和程序员变成同一种人了",
-          "desc": "猝不及防！Anthropic深夜甩出Claude Design大更新，设计系统一键导入，代码双向同步，9大平台一键导出。Anthropic设计师亲自下场录屏：AI跑了八轮自查，才敢把设计稿给你看。",
-          "source": "36氪",
-          "date": "2026-06-18",
-          "dateLabel": "6月18日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://36kr.com/p/3858531433780228",
-          "image": "https://img.36krcdn.com/hsossms/20260618/v2_2e682247435e41f6b0f20d2d323beed7@5888275@ai_oswg952328oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "af502445006f",
-          "title": "开发者冲爆了，全球前十AI Lab无限免费，一周烧出3.12万亿Token",
-          "desc": "3.12T的单周总调用量，是谁在疯狂薅羊毛？",
-          "source": "36氪",
-          "date": "2026-06-18",
-          "dateLabel": "6月18日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3858531519288326",
-          "image": "https://img.36krcdn.com/hsossms/20260618/v2_01f3950a2b3d4a40a2dfb2c8fba8c490@5888275@ai_oswg916281oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "0608572f65ad",
-          "title": "Transformer之父离开谷歌，奥特曼等了他十年",
-          "desc": "27亿美元也没能留住，Noam Shazeer追寻下一代架构。",
-          "source": "36氪",
-          "date": "2026-06-18",
-          "dateLabel": "6月18日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://36kr.com/p/3858479715285895",
-          "image": "https://img.36krcdn.com/hsossms/20260618/v2_697c73e2f4154003ad9d025f9e7e63d1@5888275@ai_oswg978605oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "705a34e009ff",
-          "title": "估值95亿，黄仁勋投了一家世界模型创企",
-          "desc": "AWS将成为该公司的首选云服务商。",
-          "source": "36氪",
-          "date": "2026-06-18",
-          "dateLabel": "6月18日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3858479782138886",
-          "image": "https://img.36krcdn.com/hsossms/20260618/v2_75f5c8b7857d4091a6e1c73c7e83a123@5888275@ai_oswg1051630oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "4652df454a62",
-          "title": "DeepSeek融资500亿：量化大佬梁文锋的反资本实验",
-          "desc": "DeepSeek完成500亿首轮融资，创始人梁文锋自掏200亿锁定绝对控制权，走出一条非硅谷式的AI发展路径。",
-          "source": "36氪",
-          "date": "2026-06-18",
-          "dateLabel": "6月18日",
-          "tags": [
-            "model",
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3858492290061568",
-          "image": "https://img.36krcdn.com/hsossms/20260618/v2_5527dc12b3b44a8bbdd0705465ba2ccf@5888275@ai_oswg1001882oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "e45b6f0cf3bf",
-          "title": "智谱新高，MiniMax承压，“大模型双雄”命运殊途",
-          "desc": "大模型在被市场重新定价",
-          "source": "36氪",
-          "date": "2026-06-18",
-          "dateLabel": "6月18日",
-          "tags": [
-            "model",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3858455690804102",
-          "image": "https://img.36krcdn.com/hsossms/20260618/v2_4b0e256098fb4cd09b1dffe0b4e15b26@5888275@ai_oswg974656oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -3328,6 +3329,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-07-21 13:19",
+  "updateTime": "2026-07-22 13:18",
   "totalNews": 213
 }
