@@ -1,84 +1,235 @@
 {
   "newsData": [
     {
+      "date": "2026-07-23",
+      "dateLabel": "7月23日",
+      "id": "d23",
+      "items": [
+        {
+          "id": "239506a5a91a",
+          "title": "光模块中报集体炸裂，AI行情里最扎实的一批公司是怎么赚到钱的",
+          "desc": "光模块企业业绩暴增，AI叙事落地成真实利润。",
+          "source": "36氪",
+          "date": "2026-07-23",
+          "dateLabel": "7月23日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3906285866784391",
+          "image": "https://img.36krcdn.com/hsossms/20260723/v2_2b82651db3cd4a6abb275a2560a6174d@5091053@ai_oswg1026222oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "8cc17b13640d",
+          "title": "GPT-5.6推翻近30年数学猜想，全程对话公开：提示词只有58个单词？？？",
+          "desc": "四轮疯狂催更，硬是从AI嘴里催出了反例",
+          "source": "36氪",
+          "date": "2026-07-23",
+          "dateLabel": "7月23日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://36kr.com/p/3907657849361795",
+          "image": "https://img.36krcdn.com/hsossms/20260723/v2_61f65f9d839a454ba132aa1c70db4441@5091053@ai_oswg1026713oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "fb6c0a087340",
+          "title": "AI大模型进入「无限战争」",
+          "desc": "没有护城河的时代，恰恰是格局未定的时代。",
+          "source": "36氪",
+          "date": "2026-07-23",
+          "dateLabel": "7月23日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://36kr.com/p/3907659722577801",
+          "image": "https://img.36krcdn.com/hsossms/20260723/v2_bf67bd57b73c482187eb82672f9ebe6f@5091053@ai_oswg937688oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "5111818a8037",
+          "title": "当“卖油条的”开始押注机器人",
+          "desc": "机器人正从前厅走向后厨。",
+          "source": "36氪",
+          "date": "2026-07-23",
+          "dateLabel": "7月23日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://36kr.com/p/3907516866811779",
+          "image": "https://img.36krcdn.com/hsossms/20260723/v2_183ddebf5fce46f0a4089548a9603d55@5091053@ai_oswg941764oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "098e5228e108",
+          "title": "从摩尔线程被怼，聊聊AI产品的真需求",
+          "desc": "摩尔线程以这种方式火了，我却有点感慨。",
+          "source": "36氪",
+          "date": "2026-07-23",
+          "dateLabel": "7月23日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3907502919898244",
+          "image": "https://img.36krcdn.com/hsossms/20260723/v2_46d168eee72e4d0ab388fb1ff6cd2083@5091053@ai_oswg715749oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "0f2f929d05ba",
+          "title": "K3之后，Kimi为什么急着上市？",
+          "desc": "上市不是可选项，是必选项。",
+          "source": "36氪",
+          "date": "2026-07-23",
+          "dateLabel": "7月23日",
+          "tags": [
+            "model",
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3907493817505160",
+          "image": "https://img.36krcdn.com/hsossms/20260723/v2_f56f6819b9dc4ca7913893e355f397f4@5091053@ai_oswg997221oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "b2c5dd42543a",
+          "title": "对话FutureTech张梦钊：从“一个人+一群Agent”到超级个体，AI正在重塑创业范式",
+          "desc": "WAIC专访FutureTech张梦钊：谈AI创业与平台生态",
+          "source": "36氪",
+          "date": "2026-07-23",
+          "dateLabel": "7月23日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3907639172027522",
+          "image": "https://img.36krcdn.com/hsossms/20260723/v2_564493e8749941a8a1a381a3f6cefd36@6381723_oswg894288oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "fe42df8a6049",
+          "title": "算力成生死线，巨头疯抢“超节点”",
+          "desc": "超节点狂飙背后，大模型的基础设施战争。",
+          "source": "36氪",
+          "date": "2026-07-23",
+          "dateLabel": "7月23日",
+          "tags": [
+            "model",
+            "business"
+          ],
+          "url": "https://36kr.com/p/3907469717492871",
+          "image": "https://img.36krcdn.com/hsossms/20260723/v2_aa85647a2d6545ddb7b5dfccd2f724ae@5091053@ai_oswg933548oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        }
+      ]
+    },
+    {
       "date": "2026-07-22",
       "dateLabel": "7月22日",
       "id": "d22",
       "items": [
         {
-          "id": "89f3bc29acd7",
-          "title": "我在WAIC 2026看见的十大趋势",
-          "desc": "人，是AI发展最宝贵的资源",
-          "source": "36氪",
-          "date": "2026-07-22",
-          "dateLabel": "7月22日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3906270567699592",
-          "image": "https://img.36krcdn.com/hsossms/20260722/v2_d714c4abeb634f4c9ff9c65abbb35216@000000@ai_oswg377308oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "0467405e83be",
-          "title": "AI PC过时了，AC一夜爆发，Agent真的需要专属电脑？",
-          "desc": "Agent能用的电脑，简称AC。",
-          "source": "36氪",
-          "date": "2026-07-22",
-          "dateLabel": "7月22日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3906182214424194",
-          "image": "https://img.36krcdn.com/hsossms/20260722/v2_2e0a2afe070a4795bd37a897b88717f4@5091053@ai_oswg909089oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "ca650461a3ca",
-          "title": "GPT-6为刷榜黑进Hugging Face，捅篓子还得靠GLM-5.2追查......",
-          "desc": "闭源模型拒绝查案，GLM‑5.2接手1.7万条日志",
+          "id": "73562540427d",
+          "title": "Codex 之后，你现在能在 Claude 「蒸馏」自己了",
+          "desc": "「做给 AI 看，比解释 47 遍强多了。」",
           "source": "36氪",
           "date": "2026-07-22",
           "dateLabel": "7月22日",
           "tags": [
             "model"
           ],
-          "url": "https://36kr.com/p/3906272984732804",
-          "image": "https://img.36krcdn.com/hsossms/20260722/v2_30b722ece1ab4b9fbc9e90e16195ca4e@5091053@ai_oswg1063778oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3907365426467969",
+          "image": "https://img.36krcdn.com/hsossms/20260723/v2_1916e34249314d2681d0949a7e2c1cd7@5091053@ai_oswg902501oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "41ddbe4fb850",
-          "title": "AI PCB产业链投资全景拆解",
-          "desc": "本文系统拆解AI对PCB带来的三重变革：层数非线性跃迁、覆铜板材料代际升级、mSAP工艺替代，并梳理钻孔、曝光、电镀、检测四大设备环节的投资机会与产业格局。",
+          "id": "23677441e957",
+          "title": "OpenAI 黑进 Hugging Face ，当喊停的不再是人类",
+          "desc": "一场原本用来测试 AI 能力的内部考试，就这样从模拟环境跑进了现实世界，最后变成了一起影响其他公司真实业务系统的安全事故。",
           "source": "36氪",
           "date": "2026-07-22",
           "dateLabel": "7月22日",
           "tags": [
             "policy"
           ],
-          "url": "https://36kr.com/p/3906205135247240",
-          "image": "https://img.36krcdn.com/hsossms/20260722/v2_4b1e064a59d64f8a883684d4428e0bbb@5091053@ai_oswg919425oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3907365960586376",
+          "image": "https://img.36krcdn.com/hsossms/20260723/v2_64c62c9657e546cb8a42ab5572d85d42@5091053@ai_oswg905374oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "b32fd2470a75",
-          "title": "王祖贤，把脸卖给了AI",
-          "desc": "下一个卖脸的会是谁？",
+          "id": "1195784376b5",
+          "title": "刚刚，全球三大AI包揽IMO满分，击败99%人类",
+          "desc": "三年三级跳，硅基大脑的恐怖进化。",
           "source": "36氪",
           "date": "2026-07-22",
           "dateLabel": "7月22日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3906258857842561",
-          "image": "https://img.36krcdn.com/hsossms/20260722/v2_efe7a2fcd3ed4712b6be6aaec9ee9690@5091053@ai_oswg968008oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3907377789719938",
+          "image": "https://img.36krcdn.com/hsossms/20260723/v2_769c52d16ef041aca883102a83c8f56d@5091053@ai_oswg1075930oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "27df6852fe5d",
-          "title": "二级市场投资人WAIC上谈AI下一轮机会：国产算力链、模型公司商业化和估值空间",
-          "desc": "“AI产业链上肯定有些资产定价存在泡沫，但整个AI不是泡沫。”",
+          "id": "946306d1c265",
+          "title": "从赛场到产业：广州大学城科技园，为创新青年项目搭好转化沃土",
+          "desc": "助力粤港澳大湾区建设国际科技创新中心，推动番禺产业向高端化、智能化、数字化加速迈进。",
+          "source": "36氪",
+          "date": "2026-07-22",
+          "dateLabel": "7月22日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3905236966901378",
+          "image": "https://img.36krcdn.com/hsossms/20260721/v2_9a1f653816894b76bcfef342efe0811b@5925182_oswg1359468oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "acade1a35d5a",
+          "title": "15万美元一年，AI颠覆传统教育，美国有钱人已经先跑了",
+          "desc": "美国富人，开始逃离传统学校",
+          "source": "36氪",
+          "date": "2026-07-22",
+          "dateLabel": "7月22日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3906734042322313",
+          "image": "https://img.36krcdn.com/hsossms/20260722/v2_1c6e8ac911db43bcbdc871e2ad271352@46958@ai_oswg1041069oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "f461c972592d",
+          "title": "Kimi K3时刻：中美AI产业链叙事要变天？",
+          "desc": "上周全球市场直接把大家跌懵了，真假小作文趁机甚嚣尘上。",
+          "source": "36氪",
+          "date": "2026-07-22",
+          "dateLabel": "7月22日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3906759052907910",
+          "image": "https://img.36krcdn.com/hsossms/20260722/v2_3cd6c5c8f3774de7b2d5190a3611fdad@000000@ai_oswg264539oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "9ff9239fa0c3",
+          "title": "谷歌Gemini跌出全球排名前十",
+          "desc": "进入2026年，全球头部大模型赛道竞争愈发白热化。",
+          "source": "36氪",
+          "date": "2026-07-22",
+          "dateLabel": "7月22日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://36kr.com/p/3906712566797699",
+          "image": "https://img.36krcdn.com/hsossms/20260722/v2_c974ecbe852d411d846c3da7effb380b@46958@ai_oswg939636oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "165626861500",
+          "title": "OpenAI挖了苹果400人，又盯上了苹果身后的中国制造商",
+          "desc": "挖墙脚还是双向奔赴?",
           "source": "36氪",
           "date": "2026-07-22",
           "dateLabel": "7月22日",
@@ -86,36 +237,8 @@
             "business",
             "cn"
           ],
-          "url": "https://36kr.com/p/3906217745437831",
-          "image": "https://img.36krcdn.com/hsossms/20260722/v2_d4e68898b04547e099ee5019d3425e2d@5091053@ai_oswg1037502oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "6565398c9585",
-          "title": "狙击AMD AI大会？英伟达抢先披露Vera CPU新细节",
-          "desc": "专为智能体AI构建",
-          "source": "36氪",
-          "date": "2026-07-22",
-          "dateLabel": "7月22日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3906242385286281",
-          "image": "https://img.36krcdn.com/hsossms/20260722/v2_05c566cf02a744839692113b3938337d@5091053@ai_oswg1036049oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "7347e69465d7",
-          "title": "Anthropic正在批量制造自己的张磊徐新",
-          "desc": "投资7500万美元，回报70亿美元。",
-          "source": "36氪",
-          "date": "2026-07-22",
-          "dateLabel": "7月22日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3906227968382593",
-          "image": "https://img.36krcdn.com/hsossms/20260722/v2_6a42d44be7374313af004ee1b07eedba@5091053@ai_oswg982435oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3906610073819017",
+          "image": "https://img.36krcdn.com/hsossms/20260722/v2_2ee82b745b934ccb93365dc5cfd88ad6@46958@ai_oswg923226oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         }
       ]
@@ -3225,85 +3348,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-06-19",
-      "dateLabel": "6月19日",
-      "id": "d19",
-      "items": [
-        {
-          "id": "88a174a00e94",
-          "title": "硬氪首发|moody前高管搭档大疆骨干入局陪伴机器人，锦秋领投，融资数千万",
-          "desc": "陪伴机器人的本质是“创造生命”。",
-          "source": "36氪",
-          "date": "2026-06-19",
-          "dateLabel": "6月19日",
-          "tags": [
-            "research",
-            "business"
-          ],
-          "url": "https://36kr.com/p/3859926114161665",
-          "image": "https://img.36krcdn.com/hsossms/20260619/v2_913ad33246ff409487b201e248341b94@6310669_oswg191449oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "bb432da02ded",
-          "title": "AI越强，越要“杀死”过去的自己",
-          "desc": "人类需要实现思维模式的转变。",
-          "source": "36氪",
-          "date": "2026-06-19",
-          "dateLabel": "6月19日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3859351868888068",
-          "image": "https://img.36krcdn.com/hsossms/20260619/v2_af0b7d4a049e430aae4542874c7656ef@000000@ai_oswg304622oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "0cd9c08407d4",
-          "title": "我把昨晚的梦输入AI，它居然直接把我拉进去玩儿了一把？！",
-          "desc": "创作者的终极玩具来了",
-          "source": "量子位",
-          "date": "2026-06-19",
-          "dateLabel": "6月19日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/06/436864.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "a7c1e5ebc2c8",
-          "title": "GPT发AI原创新成果了",
-          "desc": "AI实现药物全自动研发，还远吗？",
-          "source": "量子位",
-          "date": "2026-06-19",
-          "dateLabel": "6月19日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://www.qbitai.com/2026/06/436842.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "756f986bff4c",
-          "title": "全球首个人形机器人通用小脑来了！全球最大规模2万小时人类动作数据，实现零样本泛化",
-          "desc": "人形机器人正式迈入“GPT时代”",
-          "source": "量子位",
-          "date": "2026-06-19",
-          "dateLabel": "6月19日",
-          "tags": [
-            "model",
-            "research"
-          ],
-          "url": "https://www.qbitai.com/2026/06/436813.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -3329,6 +3373,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-07-22 13:18",
-  "totalNews": 213
+  "updateTime": "2026-07-23 13:23",
+  "totalNews": 216
 }
