@@ -1,124 +1,221 @@
 {
   "newsData": [
     {
+      "date": "2026-07-24",
+      "dateLabel": "7月24日",
+      "id": "d24",
+      "items": [
+        {
+          "id": "0b3606fd7669",
+          "title": "中国队赢下世界杯，国足做不到的，机器人做到了",
+          "desc": "机器人时代，或许终于轮到我们定义世界了。",
+          "source": "36氪",
+          "date": "2026-07-24",
+          "dateLabel": "7月24日",
+          "tags": [
+            "research",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3908795504727176",
+          "image": "https://img.36krcdn.com/hsossms/20260724/v2_6e5ab9de9c444488be7270afd72e5aeb@5091053@ai_oswg939242oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "9afd456d4e9a",
+          "title": "美国教育机构开始给作业设定 AI 使用分级",
+          "desc": "加州最大教育学院出手，给学生使用 AI 划了五道线。",
+          "source": "36氪",
+          "date": "2026-07-24",
+          "dateLabel": "7月24日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3908258433176968",
+          "image": "https://img.36krcdn.com/hsossms/20260724/v2_cf1afa26377f49f8aca3df846d26f8ad@5091053@ai_oswg969250oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "d7946ad3d083",
+          "title": "DeepSeek不是理想主义公司，它只是把现实服务于理想",
+          "desc": "DeepSeek的答案，不是只仰望星空，也不是只脚踏实地，而是用现实问题去支撑一个足够远的目标。",
+          "source": "36氪",
+          "date": "2026-07-24",
+          "dateLabel": "7月24日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3909084356433025",
+          "image": "https://img.36krcdn.com/hsossms/20260724/v2_6bc5324993fe4583943df47ed8e55088@6314151_oswg903866oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "d994eea71a64",
+          "title": "最后一个联合创始人离开，王小川身后空无一人",
+          "desc": "百川归海，各自有路。",
+          "source": "36氪",
+          "date": "2026-07-24",
+          "dateLabel": "7月24日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3909039058015368",
+          "image": "https://img.36krcdn.com/hsossms/20260724/v2_6cf10259190842988dd5974bee2e1461@5091053@ai_oswg1009608oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "b553f3ca4c7a",
+          "title": "丘成桐邀王虹邓煜回国任教，清北斗了20年竟发现对手不是彼此",
+          "desc": "丘成桐在清华办了17年擂台，最后拿金牌的是北大，赢的却是AI",
+          "source": "36氪",
+          "date": "2026-07-24",
+          "dateLabel": "7月24日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3909069462935175",
+          "image": "https://img.36krcdn.com/hsossms/20260724/v2_e843be2eb0564c5d94cd2dc78d0ef65f@5091053@ai_oswg971403oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "39fdcf8a2d0a",
+          "title": "Claude Opus5偷跑，第一波网友实测来了",
+          "desc": "Fable 5平替？",
+          "source": "36氪",
+          "date": "2026-07-24",
+          "dateLabel": "7月24日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://36kr.com/p/3909079053751430",
+          "image": "https://img.36krcdn.com/hsossms/20260724/v2_8565e7c1008548a6b20ed9e253a95e7a@5091053@ai_oswg1036345oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "0b129b2fbfe7",
+          "title": "Kimi 叫停新订阅后，如何用上 K3",
+          "desc": "harness 并不必然只是一个聊天框",
+          "source": "36氪",
+          "date": "2026-07-24",
+          "dateLabel": "7月24日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3908782033114242",
+          "image": "https://img.36krcdn.com/hsossms/20260724/v2_2204ce38324f4783931171e36e79bebe@5091053@ai_oswg995911oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "b7130709b33b",
+          "title": "赛马结束，赌局开始",
+          "desc": "AI新战场",
+          "source": "36氪",
+          "date": "2026-07-24",
+          "dateLabel": "7月24日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3908238197855879",
+          "image": "https://img.36krcdn.com/hsossms/20260724/v2_bf12bba0c3134e14a270e3a9507e177b@5091053@ai_oswg828964oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        }
+      ]
+    },
+    {
       "date": "2026-07-23",
       "dateLabel": "7月23日",
       "id": "d23",
       "items": [
         {
-          "id": "239506a5a91a",
-          "title": "光模块中报集体炸裂，AI行情里最扎实的一批公司是怎么赚到钱的",
-          "desc": "光模块企业业绩暴增，AI叙事落地成真实利润。",
+          "id": "996b0d0c9477",
+          "title": "聊聊梁文锋视野中的8家AI公司",
+          "desc": "“中国做基模的公司太多了。”",
           "source": "36氪",
           "date": "2026-07-23",
           "dateLabel": "7月23日",
           "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3906285866784391",
-          "image": "https://img.36krcdn.com/hsossms/20260723/v2_2b82651db3cd4a6abb275a2560a6174d@5091053@ai_oswg1026222oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "8cc17b13640d",
-          "title": "GPT-5.6推翻近30年数学猜想，全程对话公开：提示词只有58个单词？？？",
-          "desc": "四轮疯狂催更，硬是从AI嘴里催出了反例",
-          "source": "36氪",
-          "date": "2026-07-23",
-          "dateLabel": "7月23日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://36kr.com/p/3907657849361795",
-          "image": "https://img.36krcdn.com/hsossms/20260723/v2_61f65f9d839a454ba132aa1c70db4441@5091053@ai_oswg1026713oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "fb6c0a087340",
-          "title": "AI大模型进入「无限战争」",
-          "desc": "没有护城河的时代，恰恰是格局未定的时代。",
-          "source": "36氪",
-          "date": "2026-07-23",
-          "dateLabel": "7月23日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://36kr.com/p/3907659722577801",
-          "image": "https://img.36krcdn.com/hsossms/20260723/v2_bf67bd57b73c482187eb82672f9ebe6f@5091053@ai_oswg937688oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "5111818a8037",
-          "title": "当“卖油条的”开始押注机器人",
-          "desc": "机器人正从前厅走向后厨。",
-          "source": "36氪",
-          "date": "2026-07-23",
-          "dateLabel": "7月23日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://36kr.com/p/3907516866811779",
-          "image": "https://img.36krcdn.com/hsossms/20260723/v2_183ddebf5fce46f0a4089548a9603d55@5091053@ai_oswg941764oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "098e5228e108",
-          "title": "从摩尔线程被怼，聊聊AI产品的真需求",
-          "desc": "摩尔线程以这种方式火了，我却有点感慨。",
-          "source": "36氪",
-          "date": "2026-07-23",
-          "dateLabel": "7月23日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3907502919898244",
-          "image": "https://img.36krcdn.com/hsossms/20260723/v2_46d168eee72e4d0ab388fb1ff6cd2083@5091053@ai_oswg715749oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "0f2f929d05ba",
-          "title": "K3之后，Kimi为什么急着上市？",
-          "desc": "上市不是可选项，是必选项。",
-          "source": "36氪",
-          "date": "2026-07-23",
-          "dateLabel": "7月23日",
-          "tags": [
-            "model",
             "business",
             "cn"
           ],
-          "url": "https://36kr.com/p/3907493817505160",
-          "image": "https://img.36krcdn.com/hsossms/20260723/v2_f56f6819b9dc4ca7913893e355f397f4@5091053@ai_oswg997221oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3908176730134147",
+          "image": "https://img.36krcdn.com/hsossms/20260724/v2_b2711807b8394182a10157d59b3da03a@5091053@ai_oswg1023354oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "b2c5dd42543a",
-          "title": "对话FutureTech张梦钊：从“一个人+一群Agent”到超级个体，AI正在重塑创业范式",
-          "desc": "WAIC专访FutureTech张梦钊：谈AI创业与平台生态",
-          "source": "36氪",
+          "id": "17e5d182d765",
+          "title": "智能体政策新闻相关背景和简要解读",
+          "desc": "智能体政策新闻相关背景和简要解读",
+          "source": "量子位",
+          "date": "2026-07-23",
+          "dateLabel": "7月23日",
+          "tags": [
+            "policy"
+          ],
+          "url": "https://www.qbitai.com/2026/07/457787.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "e6c4b8da33ec",
+          "title": "机器人为啥困在Demo？讯飞新公司爻方智能给出答案：缺一味「本体认知」",
+          "desc": "VLA不是终局",
+          "source": "量子位",
+          "date": "2026-07-23",
+          "dateLabel": "7月23日",
+          "tags": [
+            "research",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/07/457698.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "2450ba6c3918",
+          "title": "阿里云：真武芯片超节点已成功适配Qwen3.8，上线百炼提供推理服务",
+          "desc": "阿里云：真武芯片超节点已成功适配Qwen3.8，上线百炼提供推理服务",
+          "source": "量子位",
+          "date": "2026-07-23",
+          "dateLabel": "7月23日",
+          "tags": [
+            "research",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/07/457694.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "b43f470b658d",
+          "title": "超越π0，中国团队用1B参数模型登顶具身智能榜单",
+          "desc": "具身智能正在从「参数竞赛」进入「架构竞赛」。",
+          "source": "量子位",
+          "date": "2026-07-23",
+          "dateLabel": "7月23日",
+          "tags": [
+            "research",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/07/457537.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "8e3bac7127a8",
+          "title": "趋境科技华东区域总部落地钱江世纪城，五年内建成万卡级高品质 AI Token 工厂",
+          "desc": "推进华东区域业务布局的重要一步",
+          "source": "量子位",
           "date": "2026-07-23",
           "dateLabel": "7月23日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3907639172027522",
-          "image": "https://img.36krcdn.com/hsossms/20260723/v2_564493e8749941a8a1a381a3f6cefd36@6381723_oswg894288oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "fe42df8a6049",
-          "title": "算力成生死线，巨头疯抢“超节点”",
-          "desc": "超节点狂飙背后，大模型的基础设施战争。",
-          "source": "36氪",
-          "date": "2026-07-23",
-          "dateLabel": "7月23日",
-          "tags": [
-            "model",
-            "business"
-          ],
-          "url": "https://36kr.com/p/3907469717492871",
-          "image": "https://img.36krcdn.com/hsossms/20260723/v2_aa85647a2d6545ddb7b5dfccd2f724ae@5091053@ai_oswg933548oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
+          "url": "https://www.qbitai.com/2026/07/457534.html",
+          "image": "",
+          "color": "#7c3aed"
         }
       ]
     },
@@ -3299,55 +3396,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-06-20",
-      "dateLabel": "6月20日",
-      "id": "d20",
-      "items": [
-        {
-          "id": "c235aac26eed",
-          "title": "英伟达开始搞机器人自己研究机器人那套了…",
-          "desc": "为了让你烧token，英伟达已经卷到机器人身上了",
-          "source": "量子位",
-          "date": "2026-06-20",
-          "dateLabel": "6月20日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://www.qbitai.com/2026/06/437041.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "5c082750a7a3",
-          "title": "陶哲轩12年前的预言，现在AI帮他兑现了",
-          "desc": "全球最聪明的人之一，成了AI最狂热的布道者",
-          "source": "量子位",
-          "date": "2026-06-20",
-          "dateLabel": "6月20日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/06/437023.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "82bd4e443984",
-          "title": "撸猫撸出SOTA！3个00后2个月，造出史上最快流式音视频社交模型",
-          "desc": "速度快7倍，成本只有Veo 3的1/2000",
-          "source": "量子位",
-          "date": "2026-06-20",
-          "dateLabel": "6月20日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/06/436996.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -3373,6 +3421,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-07-23 13:23",
-  "totalNews": 216
+  "updateTime": "2026-07-24 13:19",
+  "totalNews": 219
 }
