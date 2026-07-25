@@ -1,124 +1,247 @@
 {
   "newsData": [
     {
+      "date": "2026-07-25",
+      "dateLabel": "7月25日",
+      "id": "d25",
+      "items": [
+        {
+          "id": "bc800c1bf52f",
+          "title": "黄仁勋站在 AI 产业的十字路口呐喊：力挺开源",
+          "desc": "老黄第一条推文，不是为了刷存在感，而是产业求救信号。",
+          "source": "36氪",
+          "date": "2026-07-25",
+          "dateLabel": "7月25日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3910422335460481",
+          "image": "https://img.36krcdn.com/hsossms/20260725/v2_47ac0dd82050417badace3500e2250b4@6100851_oswg610067oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "00fa45cc2052",
+          "title": "硅谷大佬聚会的9个小时里，一些关于“人与机器人”的真话｜特别报道",
+          "desc": "关于祛魅、信任与人类组织的未来。",
+          "source": "36氪",
+          "date": "2026-07-25",
+          "dateLabel": "7月25日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://36kr.com/p/3910484328076673",
+          "image": "https://img.36krcdn.com/hsossms/20260725/v2_de63e777d26e4dffbef2f9955c50896e@5509299_oswg247655oswg600oswg400_img_png",
+          "color": "#2563eb"
+        },
+        {
+          "id": "5054001830f9",
+          "title": "刚刚，黄仁勋首次发推：半个硅谷，力挺Kimi K3开源",
+          "desc": "为什么开源模型很重要。",
+          "source": "36氪",
+          "date": "2026-07-25",
+          "dateLabel": "7月25日",
+          "tags": [
+            "model",
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3909804755342726",
+          "image": "https://img.36krcdn.com/hsossms/20260724/v2_bced5b647bba45d9a216d81237823336@000000@ai_oswg300898oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "dabaeb5f690d",
+          "title": "Claude Opus 5来了，Fable 5性能、一半价格",
+          "desc": "网友神评：既然性能差不多，那花2倍价格用Fable 5的人是？",
+          "source": "36氪",
+          "date": "2026-07-25",
+          "dateLabel": "7月25日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://36kr.com/p/3910352916256129",
+          "image": "https://img.36krcdn.com/hsossms/20260725/v2_283e55b7918c41c99d7e1148ad2a4399@6100851_oswg682925oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "5c47364756f5",
+          "title": "全新统一流式架构，Vivix灵动时刻正式发布首个实时互动模型",
+          "desc": "单卡突破10000 video tokens/s，Vivix打通实时多模态生成全链路",
+          "source": "量子位",
+          "date": "2026-07-25",
+          "dateLabel": "7月25日",
+          "tags": [
+            "research",
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/07/460174.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "7d2ea55b546d",
+          "title": "摩根士丹利分析师：若 SpaceX 股价跌至 100 美元，就预示其 AI 业务无价值",
+          "desc": "IT之家 7 月 25 日消息，据彭博社 25 日（今天）报道，摩根士丹利分析师亚当 · 乔纳斯认为，SpaceX 近期股价大幅下跌，已经接近市场完全不给 AI 业务估值的水平。SpaceX 于 6 月中旬完成规模达 860 亿美元（IT之家注：现汇率约合 5832.44 亿元人民币）的创纪录 IPO，但上市后的表现颇为波折。股价在前三个交易日一度上涨近 50%，随后一路回落，本周早些时候最低跌至",
+          "source": "IT之家",
+          "date": "2026-07-25",
+          "dateLabel": "7月25日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/981/473.htm",
+          "image": "",
+          "color": "#d97706"
+        },
+        {
+          "id": "91d83df0ad25",
+          "title": "韩国总统李在明访美促成五年 9500 亿美元半导体合作：三星与博通签署 2000 亿美元内存协议，SK 集团与英伟达等企业达成 7500 亿美元巨单",
+          "desc": "IT之家 7 月 25 日消息，当地时间 7 月 24 日，韩国总统李在明从美国开启了他为期 11 天的访问，首站旧金山共两天，后续还将到访巴西、智利、阿根廷、德国。在旧金山，李在明先后与英伟达 CEO 黄仁勋、OpenAI CEO 奥尔特曼、Anthropic CEO 阿莫代伊、博通 CEO 陈福阳等全球 AI 行业领袖会面，还将出席旧金山 AI 峰会。韩国总统府表示，以韩国总统李在明出席“旧金",
+          "source": "IT之家",
+          "date": "2026-07-25",
+          "dateLabel": "7月25日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/981/472.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/886852ef-d4ae-4ee4-b685-3cffa2030f6e.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "ebfe3be9d6d7",
+          "title": "11 年前清华一场答辩刷屏：月之暗面 Kimi 创始人杨植麟全满分，推荐者“唐杰”后来创办智谱",
+          "desc": "7 月 25 日消息，今日，一张清华大学特等奖学金答辩现场的老照片在社交平台刷屏。有博主发文回忆称，2014 年 11 月 2 日清华本科生特等奖学金答辩现场，台上答辩的学生是后来创办月之暗面 Kimi 的杨植麟，而为他写推荐信的科研导师，正是后来联合创办智谱 AI、做出 GLM 的唐杰。该博主感慨：\" 一个后来做出 Kimi，一个后来做出 GLM，两个公司最高市值加起来 1 万多亿，应该是我清华",
+          "source": "IT之家",
+          "date": "2026-07-25",
+          "dateLabel": "7月25日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/981/470.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/a1ca8aba-bc4f-4237-8555-5a0baf589fb0.jpg",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-07-24",
       "dateLabel": "7月24日",
       "id": "d24",
       "items": [
         {
-          "id": "0b3606fd7669",
-          "title": "中国队赢下世界杯，国足做不到的，机器人做到了",
-          "desc": "机器人时代，或许终于轮到我们定义世界了。",
-          "source": "36氪",
-          "date": "2026-07-24",
-          "dateLabel": "7月24日",
-          "tags": [
-            "research",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3908795504727176",
-          "image": "https://img.36krcdn.com/hsossms/20260724/v2_6e5ab9de9c444488be7270afd72e5aeb@5091053@ai_oswg939242oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "9afd456d4e9a",
-          "title": "美国教育机构开始给作业设定 AI 使用分级",
-          "desc": "加州最大教育学院出手，给学生使用 AI 划了五道线。",
+          "id": "9c48418ff440",
+          "title": "Agent手机的三条路线与一场权力游戏",
+          "desc": "谁会掌控你的下一部手机",
           "source": "36氪",
           "date": "2026-07-24",
           "dateLabel": "7月24日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3908258433176968",
-          "image": "https://img.36krcdn.com/hsossms/20260724/v2_cf1afa26377f49f8aca3df846d26f8ad@5091053@ai_oswg969250oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3909566283306372",
+          "image": "https://img.36krcdn.com/hsossms/20260724/v2_76aef10802c44531832da8f9c4b23a1c@000000@ai_oswg344814oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "d7946ad3d083",
-          "title": "DeepSeek不是理想主义公司，它只是把现实服务于理想",
-          "desc": "DeepSeek的答案，不是只仰望星空，也不是只脚踏实地，而是用现实问题去支撑一个足够远的目标。",
+          "id": "7cea2ebd8fbd",
+          "title": "Al手机大战，全面开打",
+          "desc": "2026，才是真正的AI手机元年。",
+          "source": "36氪",
+          "date": "2026-07-24",
+          "dateLabel": "7月24日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3909564969342081",
+          "image": "https://img.36krcdn.com/hsossms/20260724/v2_7bf58ef8bf8345d19b0101c8fc7b6bcb@000000@ai_oswg286040oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "32c98bf78a54",
+          "title": "大模型价格战下半场：将推理价格打下去",
+          "desc": "推理才是难题",
           "source": "36氪",
           "date": "2026-07-24",
           "dateLabel": "7月24日",
           "tags": [
             "model",
-            "cn"
+            "research"
           ],
-          "url": "https://36kr.com/p/3909084356433025",
-          "image": "https://img.36krcdn.com/hsossms/20260724/v2_6bc5324993fe4583943df47ed8e55088@6314151_oswg903866oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "url": "https://36kr.com/p/3909564577945216",
+          "image": "https://img.36krcdn.com/hsossms/20260724/v2_d1e37676d77b4b3c86f3227e4e9320b1@46958@ai_oswg870926oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "d994eea71a64",
-          "title": "最后一个联合创始人离开，王小川身后空无一人",
-          "desc": "百川归海，各自有路。",
+          "id": "334866a24f7b",
+          "title": "拆解谷歌100页AI经济报告：覆盖90%岗位，却只接手了1/5的活儿",
+          "desc": "谷歌发布AI经济报告，显示AI渗透广、介入浅",
           "source": "36氪",
           "date": "2026-07-24",
           "dateLabel": "7月24日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3909039058015368",
-          "image": "https://img.36krcdn.com/hsossms/20260724/v2_6cf10259190842988dd5974bee2e1461@5091053@ai_oswg1009608oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3909559860352128",
+          "image": "https://img.36krcdn.com/hsossms/20260724/v2_24c66b3c265b49f2ae308f015f0ef55f@46958@ai_oswg1083348oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "b553f3ca4c7a",
-          "title": "丘成桐邀王虹邓煜回国任教，清北斗了20年竟发现对手不是彼此",
-          "desc": "丘成桐在清华办了17年擂台，最后拿金牌的是北大，赢的却是AI",
+          "id": "211e444d1bf6",
+          "title": "Kimi K3之外，开源与闭源的第一战",
+          "desc": "我们亲眼见证了，中国AI正在经历一场从应用套壳向物理硬核的质变。而这其中最重要的节点，或许是DeepSeek给了国产大模型信心，证明了算力问题不是无法克服的障碍。",
           "source": "36氪",
           "date": "2026-07-24",
           "dateLabel": "7月24日",
           "tags": [
+            "model",
             "business",
             "cn"
           ],
-          "url": "https://36kr.com/p/3909069462935175",
-          "image": "https://img.36krcdn.com/hsossms/20260724/v2_e843be2eb0564c5d94cd2dc78d0ef65f@5091053@ai_oswg971403oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3909428223661189",
+          "image": "https://img.36krcdn.com/hsossms/20260724/v2_26a372cc004c40c29b793e186b882b3a@000000@ai_oswg369113oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "39fdcf8a2d0a",
-          "title": "Claude Opus5偷跑，第一波网友实测来了",
-          "desc": "Fable 5平替？",
+          "id": "4c751ce8d825",
+          "title": "WAIC三年记：AI落地曲线上的五个「真实拐点」",
+          "desc": "一部AI产业的“祛魅史”。",
+          "source": "36氪",
+          "date": "2026-07-24",
+          "dateLabel": "7月24日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3909455278822789",
+          "image": "https://img.36krcdn.com/hsossms/20260724/v2_57909b5561d144548a917af0e6d2f708@46958@ai_oswg879458oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "715fb5944a4d",
+          "title": "涨价与降价并存：AI视频生成“冰火两重天”",
+          "desc": "一边“即贵”，一边“骨折”",
           "source": "36氪",
           "date": "2026-07-24",
           "dateLabel": "7月24日",
           "tags": [
             "model"
           ],
-          "url": "https://36kr.com/p/3909079053751430",
-          "image": "https://img.36krcdn.com/hsossms/20260724/v2_8565e7c1008548a6b20ed9e253a95e7a@5091053@ai_oswg1036345oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3909478921999494",
+          "image": "https://img.36krcdn.com/hsossms/20260724/v2_0647d3f45ea64489bb591e22f1ed5556@46958@ai_oswg881201oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "0b129b2fbfe7",
-          "title": "Kimi 叫停新订阅后，如何用上 K3",
-          "desc": "harness 并不必然只是一个聊天框",
-          "source": "36氪",
-          "date": "2026-07-24",
-          "dateLabel": "7月24日",
-          "tags": [
-            "model",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3908782033114242",
-          "image": "https://img.36krcdn.com/hsossms/20260724/v2_2204ce38324f4783931171e36e79bebe@5091053@ai_oswg995911oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "b7130709b33b",
-          "title": "赛马结束，赌局开始",
-          "desc": "AI新战场",
+          "id": "b099e3320194",
+          "title": "赛马结束，大厂各寻Agent主心骨",
+          "desc": "重复造轮时代过了。",
           "source": "36氪",
           "date": "2026-07-24",
           "dateLabel": "7月24日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3908238197855879",
-          "image": "https://img.36krcdn.com/hsossms/20260724/v2_bf12bba0c3134e14a270e3a9507e177b@5091053@ai_oswg828964oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3909509300556931",
+          "image": "https://img.36krcdn.com/hsossms/20260724/v2_f02a479ac41440eebcc560a1b9c1f1c1@46958@ai_oswg911144oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         }
       ]
@@ -3359,43 +3482,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-06-21",
-      "dateLabel": "6月21日",
-      "id": "d21",
-      "items": [
-        {
-          "id": "6e834e39546a",
-          "title": "具身赛道现状素描：脑子灵，模型好，不是百亿，就是独角",
-          "desc": "2026年还没过半，具身智能的融资就快要超过去年全年了，超过一半的钱都流入了机器人的“大脑”。",
-          "source": "量子位",
-          "date": "2026-06-21",
-          "dateLabel": "6月21日",
-          "tags": [
-            "research",
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/06/437198.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "03daaeb20be1",
-          "title": "2026年，1800个DeepSeek跟我一起守护艾泽拉斯",
-          "desc": "一个月只要340块",
-          "source": "量子位",
-          "date": "2026-06-21",
-          "dateLabel": "6月21日",
-          "tags": [
-            "model",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/06/437141.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -3421,6 +3507,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-07-24 13:19",
-  "totalNews": 219
+  "updateTime": "2026-07-25 13:13",
+  "totalNews": 225
 }
