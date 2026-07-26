@@ -1,10 +1,146 @@
 {
   "newsData": [
     {
+      "date": "2026-07-26",
+      "dateLabel": "7月26日",
+      "id": "d26",
+      "items": [
+        {
+          "id": "abae734edc82",
+          "title": "Karpathy从Anthropic离职了？个人简介修改引发全网猜测",
+          "desc": "一起等等 Karpathy 的回应吧",
+          "source": "36氪",
+          "date": "2026-07-26",
+          "dateLabel": "7月26日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3911859358717321",
+          "image": "https://img.36krcdn.com/hsossms/20260726/v2_a7463d95441644cb80b618ebb395438a@000000@ai_oswg236455oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "5365f932b94c",
+          "title": "全世界AI能力下降一万倍，只有我还是普通人",
+          "desc": "寡头垄断API初创企业如何生存？",
+          "source": "36氪",
+          "date": "2026-07-26",
+          "dateLabel": "7月26日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3911095760230019",
+          "image": "https://img.36krcdn.com/hsossms/20260725/v2_61579cab15aa4002b43df6cc6d8def33@6181939_oswg1169806oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "6dc8278f77c1",
+          "title": "Codex也断了：OpenAI三线齐崩，Agent时代的宕机账单怎么算",
+          "desc": "OpenAI三线齐崩，Agent时代的宕机账单怎么算",
+          "source": "36氪",
+          "date": "2026-07-26",
+          "dateLabel": "7月26日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3911112634340996",
+          "image": "https://img.36krcdn.com/hsossms/20260725/v2_ad67a491f3694aa688d7afd99d609d0f@000000_oswg112423oswg1217oswg1219_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "9f00c7b33338",
+          "title": "硬氪首发 | 复旦教授、前英特尔首席科学家做端侧具身大脑，「眸深智能」完成近亿元Pre-A轮追加融资",
+          "desc": "把动作变成token，今年上半年营收已达数千万元，近半年估值翻十倍。",
+          "source": "36氪",
+          "date": "2026-07-26",
+          "dateLabel": "7月26日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3911162147640456",
+          "image": "https://img.36krcdn.com/hsossms/20260725/v2_44f27216a65b4e0e963e25dd7e66d7db@000000_oswg50341oswg893oswg380_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "9a6ab9016fed",
+          "title": "融资20亿，一家机器人宣布破产",
+          "desc": "能用的机器人太贵，足够便宜的用途又不大。",
+          "source": "36氪",
+          "date": "2026-07-26",
+          "dateLabel": "7月26日",
+          "tags": [
+            "research",
+            "business"
+          ],
+          "url": "https://36kr.com/p/3911200563991681",
+          "image": "https://img.36krcdn.com/hsossms/20260725/v2_a469ee0908b3435ba8e4d2f33c7b140f@000000@ai_oswg283948oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "53dd109b1955",
+          "title": "月之暗面 Kimi K3 庆功照流出，现场标语“冲上月球”",
+          "desc": "IT之家 7 月 26 日消息，据新浪科技今天报道及小红书网友分享，Kimi K3 大模型引发外界广泛关注后，月之暗面本周五据传在北京一酒吧举行庆功活动。流出的照片显示，月之暗面展示的一张庆功标语写着“K3 扩容升级！”“K4 给我狠狠干到极致！”“冲上月球！”。此外还有传闻称，月之暗面联合创始人、总裁张予彤疑似也到了现场。同时根据小红书网友“就是 Iris”爆料，当时她在想加一位在场人士的好友，",
+          "source": "IT之家",
+          "date": "2026-07-26",
+          "dateLabel": "7月26日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/981/686.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/aa9140c1-058d-40c2-9dff-8e610d19e249.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "1b3c5979b25b",
+          "title": "卡帕西社交媒体删除 Anthropic 工作简介引发离职猜测，本人称并未离职",
+          "desc": "亏贼！一觉醒来，卡帕西也要上演《置身 A 内》了？就在刚刚，有细心网友发现，大神 Andrej Karpathy 悄悄修改了自己的 X 个人简介，原本与 Anthropic 相关的工作信息已经消失。于是，一个大胆的猜测随即开始发酵：加入 Anthropic 仅仅两个多月，卡帕西可能已经离职了。这件事很快在 X 上炸开。更有甚者，有网友晒出所谓的“内部消息”，声称卡帕西已经在几个小时前提交了离职申请",
+          "source": "IT之家",
+          "date": "2026-07-26",
+          "dateLabel": "7月26日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/981/684.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/71172c33-ac25-496b-be22-b33beb34f3e7.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "ab0b20d42440",
+          "title": "英伟达黄仁勋：杰出的人才总会找到优秀的答案，中国注定能产出卓越的 AI 技术",
+          "desc": "IT之家 7 月 26 日消息，英伟达创始人兼 CEO 黄仁勋昨天接受彭博社采访时表示，中国注定能产出卓越的 AI 技术，中美两国应当继续推动 AI 发展。黄仁勋表示，中美两国都拥有出色的 AI 研究人员，无论条件如何、资源如何，杰出的人才总能找到优秀的答案。他预期中国和美国都会继续推进 AI 发展，哪怕条件和所受约束不同，那些了不起的研究人员总会找到答案。IT之家注意到，黄仁勋还透露：“中国每年",
+          "source": "IT之家",
+          "date": "2026-07-26",
+          "dateLabel": "7月26日",
+          "tags": [
+            "research",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/981/680.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/b16df0ed-359d-4cc7-bf09-83f3ec90f1c9.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-07-25",
       "dateLabel": "7月25日",
       "id": "d25",
       "items": [
+        {
+          "id": "a211b2d3ef02",
+          "title": "OpenAI下一代模型，被曝8月提前上线",
+          "desc": "AI给「未来的自己」留字条，官方迟钝一周才发觉",
+          "source": "36氪",
+          "date": "2026-07-25",
+          "dateLabel": "7月25日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3910793600734599",
+          "image": "https://img.36krcdn.com/hsossms/20260725/v2_afd3b937263e427792dc380bcd4ddc82@6100851_oswg803449oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
         {
           "id": "bc800c1bf52f",
           "title": "黄仁勋站在 AI 产业的十字路口呐喊：力挺开源",
@@ -65,62 +201,49 @@
           "color": "#2563eb"
         },
         {
-          "id": "5c47364756f5",
-          "title": "全新统一流式架构，Vivix灵动时刻正式发布首个实时互动模型",
-          "desc": "单卡突破10000 video tokens/s，Vivix打通实时多模态生成全链路",
+          "id": "388fc304f1c7",
+          "title": "100%开源！吴恩达做了个个人桌面Agent",
+          "desc": "开源、隐私、本地优先、模型无关",
+          "source": "量子位",
+          "date": "2026-07-25",
+          "dateLabel": "7月25日",
+          "tags": [
+            "business",
+            "policy",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/07/460892.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "fc7e11e4b652",
+          "title": "美国具身也没成熟！PI：中国公司何必总当“中国版XX”｜RSS 2026",
+          "desc": "这是机器人领域最好的时代",
           "source": "量子位",
           "date": "2026-07-25",
           "dateLabel": "7月25日",
           "tags": [
             "research",
-            "business"
+            "cn"
           ],
-          "url": "https://www.qbitai.com/2026/07/460174.html",
+          "url": "https://www.qbitai.com/2026/07/460542.html",
           "image": "",
           "color": "#7c3aed"
         },
         {
-          "id": "7d2ea55b546d",
-          "title": "摩根士丹利分析师：若 SpaceX 股价跌至 100 美元，就预示其 AI 业务无价值",
-          "desc": "IT之家 7 月 25 日消息，据彭博社 25 日（今天）报道，摩根士丹利分析师亚当 · 乔纳斯认为，SpaceX 近期股价大幅下跌，已经接近市场完全不给 AI 业务估值的水平。SpaceX 于 6 月中旬完成规模达 860 亿美元（IT之家注：现汇率约合 5832.44 亿元人民币）的创纪录 IPO，但上市后的表现颇为波折。股价在前三个交易日一度上涨近 50%，随后一路回落，本周早些时候最低跌至",
-          "source": "IT之家",
+          "id": "8f5a85b37878",
+          "title": "半价干翻Fable 5？Opus 5实测炸场，网友：差点从椅子上摔下来",
+          "desc": "模型变强，Claude Code系统提示词都精简了",
+          "source": "量子位",
           "date": "2026-07-25",
           "dateLabel": "7月25日",
           "tags": [
-            "business"
+            "model"
           ],
-          "url": "https://www.ithome.com/0/981/473.htm",
+          "url": "https://www.qbitai.com/2026/07/460253.html",
           "image": "",
-          "color": "#d97706"
-        },
-        {
-          "id": "91d83df0ad25",
-          "title": "韩国总统李在明访美促成五年 9500 亿美元半导体合作：三星与博通签署 2000 亿美元内存协议，SK 集团与英伟达等企业达成 7500 亿美元巨单",
-          "desc": "IT之家 7 月 25 日消息，当地时间 7 月 24 日，韩国总统李在明从美国开启了他为期 11 天的访问，首站旧金山共两天，后续还将到访巴西、智利、阿根廷、德国。在旧金山，李在明先后与英伟达 CEO 黄仁勋、OpenAI CEO 奥尔特曼、Anthropic CEO 阿莫代伊、博通 CEO 陈福阳等全球 AI 行业领袖会面，还将出席旧金山 AI 峰会。韩国总统府表示，以韩国总统李在明出席“旧金",
-          "source": "IT之家",
-          "date": "2026-07-25",
-          "dateLabel": "7月25日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/981/472.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/886852ef-d4ae-4ee4-b685-3cffa2030f6e.png",
-          "color": "#d97706"
-        },
-        {
-          "id": "ebfe3be9d6d7",
-          "title": "11 年前清华一场答辩刷屏：月之暗面 Kimi 创始人杨植麟全满分，推荐者“唐杰”后来创办智谱",
-          "desc": "7 月 25 日消息，今日，一张清华大学特等奖学金答辩现场的老照片在社交平台刷屏。有博主发文回忆称，2014 年 11 月 2 日清华本科生特等奖学金答辩现场，台上答辩的学生是后来创办月之暗面 Kimi 的杨植麟，而为他写推荐信的科研导师，正是后来联合创办智谱 AI、做出 GLM 的唐杰。该博主感慨：\" 一个后来做出 Kimi，一个后来做出 GLM，两个公司最高市值加起来 1 万多亿，应该是我清华",
-          "source": "IT之家",
-          "date": "2026-07-25",
-          "dateLabel": "7月25日",
-          "tags": [
-            "model",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/0/981/470.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/a1ca8aba-bc4f-4237-8555-5a0baf589fb0.jpg",
-          "color": "#d97706"
+          "color": "#7c3aed"
         }
       ]
     },
@@ -3357,131 +3480,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-06-22",
-      "dateLabel": "6月22日",
-      "id": "d22",
-      "items": [
-        {
-          "id": "24fb34a789f6",
-          "title": "智谱万亿了，DeepSeek还会远吗？",
-          "desc": "行业泡沫还是财富神话？",
-          "source": "36氪",
-          "date": "2026-06-22",
-          "dateLabel": "6月22日",
-          "tags": [
-            "model",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3864256310786690",
-          "image": "https://img.36krcdn.com/hsossms/20260622/v2_48eb78768aba4e559b1bd90aa0788c53@46958@ai_oswg862257oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "51406a7beec0",
-          "title": "我们梳理了中国所有世界模型公司：6 条技术路线，4家00后创始人，1份报告",
-          "desc": "中国世界模型创业全景报告（2026年首发）",
-          "source": "36氪",
-          "date": "2026-06-22",
-          "dateLabel": "6月22日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3864199326815239",
-          "image": "https://img.36krcdn.com/hsossms/20260622/v2_4f3ca23eb1ef4b179110edda33813e77@000000@ai_oswg344745oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "8d63ece7470b",
-          "title": "DeepSeek急急急缺人，外国人也要",
-          "desc": "但要会中文。",
-          "source": "36氪",
-          "date": "2026-06-22",
-          "dateLabel": "6月22日",
-          "tags": [
-            "model",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3864274464347400",
-          "image": "https://img.36krcdn.com/hsossms/20260622/v2_d87f73fe40134e71abbb7b5e5d6294a8@000000@ai_oswg328437oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "2d78a8ad85a5",
-          "title": "一部「黑」奥特曼的电影，被OpenAI金主连夜雪藏",
-          "desc": "在高度工业化的好莱坞，很少会把一部已经拍完、只差上映的电影直接撤掉，但面对「金主」「友商」，这种事也不是办不了",
-          "source": "36氪",
-          "date": "2026-06-22",
-          "dateLabel": "6月22日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3864289875154184",
-          "image": "https://img.36krcdn.com/hsossms/20260622/v2_4974695515d841728737f861452124b4@46958@ai_oswg1002836oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "60bb064d033c",
-          "title": "AI医疗赛道挤满互联网大厂",
-          "desc": "互联网医疗十年没做成的事，AI医疗可以吗",
-          "source": "36氪",
-          "date": "2026-06-22",
-          "dateLabel": "6月22日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3864254602089474",
-          "image": "https://img.36krcdn.com/hsossms/20260622/v2_6b16f3cc65704d9385875e6244a61ef2@46958@ai_oswg1021952oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "af8bddec2341",
-          "title": "AI会写代码之后，少儿编程真正该教什么？",
-          "desc": "当AI接管执行，少儿编程开始拼“底层能力”。",
-          "source": "36氪",
-          "date": "2026-06-22",
-          "dateLabel": "6月22日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3864235594486793",
-          "image": "https://img.36krcdn.com/hsossms/20260622/v2_73bd2c05e25443bf9d98057f83206a8c@000000@ai_oswg385975oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "aaf01ddfe464",
-          "title": "阿里发布视频生成模型HappyHorse 1.1：五大维度全面升级",
-          "desc": "阿里发布视频生成模型HappyHorse 1.1：五大维度全面升级",
-          "source": "量子位",
-          "date": "2026-06-22",
-          "dateLabel": "6月22日",
-          "tags": [
-            "model",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/06/437317.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "25b94ddbfa23",
-          "title": "AI硬件席卷618，钉钉A1包揽天猫、抖音、京东销量冠军",
-          "desc": "同时拿下天猫、抖音、京东三大平台 AI 录音设备销量第一",
-          "source": "量子位",
-          "date": "2026-06-22",
-          "dateLabel": "6月22日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/06/437308.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -3507,6 +3505,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-07-25 13:13",
+  "updateTime": "2026-07-26 13:31",
   "totalNews": 225
 }
