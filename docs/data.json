@@ -1,10 +1,176 @@
 {
   "newsData": [
     {
+      "date": "2026-07-27",
+      "dateLabel": "7月27日",
+      "id": "d27",
+      "items": [
+        {
+          "id": "7341926c4281",
+          "title": "下一个美光，可能藏在物理AI的中间层",
+          "desc": "AI进入现实，先从仿真开始",
+          "source": "36氪",
+          "date": "2026-07-27",
+          "dateLabel": "7月27日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3913356791502721",
+          "image": "https://img.36krcdn.com/hsossms/20260727/v2_c1a2f6a36943483bab809687821fc514@1743780481@ai_oswg939587oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "7ae2da15eb3c",
+          "title": "AI制药步入下半场：临床开发能力成商业价值兑现关键点",
+          "desc": "当AI批量筛选出具备成药价值的分子，医药创新的先行者们发现：如何更为高效的验证这些分子的临床价值，成为了又一个待解的难题。",
+          "source": "36氪",
+          "date": "2026-07-27",
+          "dateLabel": "7月27日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3913366926431368",
+          "image": "https://img.36krcdn.com/hsossms/20260727/v2_a959a297e99a443a99721ed88e260cc8@6062546@ai_oswg869817oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "155a2813124c",
+          "title": "明星不投火锅店了，改投硬科技",
+          "desc": "硬科技成了明星投资的“新火锅”",
+          "source": "36氪",
+          "date": "2026-07-27",
+          "dateLabel": "7月27日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3910865037284485",
+          "image": "https://img.36krcdn.com/hsossms/20260725/v2_40dce59ba7674b058d23b7f8a7f13f3f@000000@ai_oswg252114oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "4d994f239a08",
+          "title": "中国机器人最热闹的一周，资本跑赢了订单",
+          "desc": "订单才是王道",
+          "source": "36氪",
+          "date": "2026-07-27",
+          "dateLabel": "7月27日",
+          "tags": [
+            "research",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3913289467942281",
+          "image": "https://img.36krcdn.com/hsossms/20260727/v2_f4b483dc12ae42c890247308fc50ceea@000000@ai_oswg385185oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "3efa51261764",
+          "title": "红杉中国李彦男：下一个十年的智能硬件如何定义？",
+          "desc": "“买硬件”这个动作可能会消失",
+          "source": "36氪",
+          "date": "2026-07-27",
+          "dateLabel": "7月27日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3913134006064260",
+          "image": "https://img.36krcdn.com/hsossms/20260727/v2_5acd74440c7d4c31be83c7c10ee7a6f2@000000@ai_oswg273033oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "bddb8f15a605",
+          "title": "2026年下半年，算力竞赛为何突然转向超节点？",
+          "desc": "所有人都在造超节点，但路线已分歧。",
+          "source": "36氪",
+          "date": "2026-07-27",
+          "dateLabel": "7月27日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3913165545837700",
+          "image": "https://img.36krcdn.com/hsossms/20260727/v2_54e863d5412a4af3a9882c336cbbefe3@1743780481@ai_oswg1040325oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "66ca33d82a3d",
+          "title": "Jim Fan、李飞飞团队新作：机器人也能「上下文scaling」",
+          "desc": "将机器人上下文扩展3个数量级。",
+          "source": "36氪",
+          "date": "2026-07-27",
+          "dateLabel": "7月27日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://36kr.com/p/3913221486040449",
+          "image": "https://img.36krcdn.com/hsossms/20260727/v2_481bf9c1d6cb4ae4a601a1ad975c53a6@1743780481@ai_oswg903047oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "8542144f1280",
+          "title": "火热报名中！2026具身智能50人论坛夏季峰会将在北京盛大启幕",
+          "desc": "2026具身智能50人夏季峰会7月29-30日北京举办",
+          "source": "36氪",
+          "date": "2026-07-27",
+          "dateLabel": "7月27日",
+          "tags": [
+            "research",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3913258529396098",
+          "image": "https://img.36krcdn.com/hsossms/20260727/v2_4f510d4a4d8e48118166e4d657444bcc@6381723_oswg804408oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        }
+      ]
+    },
+    {
       "date": "2026-07-26",
       "dateLabel": "7月26日",
       "id": "d26",
       "items": [
+        {
+          "id": "7c39e30e2b5f",
+          "title": "开源反派 Anthropic也有性价比？",
+          "desc": "半价 Fable 5，加量不加价。",
+          "source": "36氪",
+          "date": "2026-07-26",
+          "dateLabel": "7月26日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3912255169353602",
+          "image": "https://img.36krcdn.com/hsossms/20260726/v2_9d0a14a341e14fcebdf5ed39606b905f@1743780481@ai_oswg962821oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "9e93b598373f",
+          "title": "人形机器人，拼脑子的时候到了",
+          "desc": "当“躯体”的技术成熟度已逼近量产门槛，“大脑”的智能水平正在成为决定谁能真正胜出",
+          "source": "36氪",
+          "date": "2026-07-26",
+          "dateLabel": "7月26日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://36kr.com/p/3912252459799945",
+          "image": "https://img.36krcdn.com/hsossms/20260726/v2_51d5ca3afcf94d7c85b1eebbec8751b4@1743780481@ai_oswg838643oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "39c0b233a4ab",
+          "title": "OpenAI挖到最新菲尔兹奖得主，字节刚出炉的科学家计划在瞄准谁？",
+          "desc": "科学家去 AI 公司上班，这场人才迁徙比你想的更关键。",
+          "source": "36氪",
+          "date": "2026-07-26",
+          "dateLabel": "7月26日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3912031933142404",
+          "image": "https://img.36krcdn.com/hsossms/20260726/v2_fc5cdd195e4248659192e7571918fd6c@000000@ai_oswg274940oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
         {
           "id": "abae734edc82",
           "title": "Karpathy从Anthropic离职了？个人简介修改引发全网猜测",
@@ -75,50 +241,6 @@
           "url": "https://36kr.com/p/3911200563991681",
           "image": "https://img.36krcdn.com/hsossms/20260725/v2_a469ee0908b3435ba8e4d2f33c7b140f@000000@ai_oswg283948oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
-        },
-        {
-          "id": "53dd109b1955",
-          "title": "月之暗面 Kimi K3 庆功照流出，现场标语“冲上月球”",
-          "desc": "IT之家 7 月 26 日消息，据新浪科技今天报道及小红书网友分享，Kimi K3 大模型引发外界广泛关注后，月之暗面本周五据传在北京一酒吧举行庆功活动。流出的照片显示，月之暗面展示的一张庆功标语写着“K3 扩容升级！”“K4 给我狠狠干到极致！”“冲上月球！”。此外还有传闻称，月之暗面联合创始人、总裁张予彤疑似也到了现场。同时根据小红书网友“就是 Iris”爆料，当时她在想加一位在场人士的好友，",
-          "source": "IT之家",
-          "date": "2026-07-26",
-          "dateLabel": "7月26日",
-          "tags": [
-            "model",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/0/981/686.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/aa9140c1-058d-40c2-9dff-8e610d19e249.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "1b3c5979b25b",
-          "title": "卡帕西社交媒体删除 Anthropic 工作简介引发离职猜测，本人称并未离职",
-          "desc": "亏贼！一觉醒来，卡帕西也要上演《置身 A 内》了？就在刚刚，有细心网友发现，大神 Andrej Karpathy 悄悄修改了自己的 X 个人简介，原本与 Anthropic 相关的工作信息已经消失。于是，一个大胆的猜测随即开始发酵：加入 Anthropic 仅仅两个多月，卡帕西可能已经离职了。这件事很快在 X 上炸开。更有甚者，有网友晒出所谓的“内部消息”，声称卡帕西已经在几个小时前提交了离职申请",
-          "source": "IT之家",
-          "date": "2026-07-26",
-          "dateLabel": "7月26日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/981/684.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/71172c33-ac25-496b-be22-b33beb34f3e7.png",
-          "color": "#d97706"
-        },
-        {
-          "id": "ab0b20d42440",
-          "title": "英伟达黄仁勋：杰出的人才总会找到优秀的答案，中国注定能产出卓越的 AI 技术",
-          "desc": "IT之家 7 月 26 日消息，英伟达创始人兼 CEO 黄仁勋昨天接受彭博社采访时表示，中国注定能产出卓越的 AI 技术，中美两国应当继续推动 AI 发展。黄仁勋表示，中美两国都拥有出色的 AI 研究人员，无论条件如何、资源如何，杰出的人才总能找到优秀的答案。他预期中国和美国都会继续推进 AI 发展，哪怕条件和所受约束不同，那些了不起的研究人员总会找到答案。IT之家注意到，黄仁勋还透露：“中国每年",
-          "source": "IT之家",
-          "date": "2026-07-26",
-          "dateLabel": "7月26日",
-          "tags": [
-            "research",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/0/981/680.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/b16df0ed-359d-4cc7-bf09-83f3ec90f1c9.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
         }
       ]
     },
@@ -310,62 +432,19 @@
           "color": "#2563eb"
         },
         {
-          "id": "211e444d1bf6",
-          "title": "Kimi K3之外，开源与闭源的第一战",
-          "desc": "我们亲眼见证了，中国AI正在经历一场从应用套壳向物理硬核的质变。而这其中最重要的节点，或许是DeepSeek给了国产大模型信心，证明了算力问题不是无法克服的障碍。",
-          "source": "36氪",
+          "id": "01f8af7bfb41",
+          "title": "合肥又押中AI独角兽：多模态赛道，3个月融了21亿",
+          "desc": "跑出原生全模态新路径",
+          "source": "量子位",
           "date": "2026-07-24",
           "dateLabel": "7月24日",
           "tags": [
-            "model",
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3909428223661189",
-          "image": "https://img.36krcdn.com/hsossms/20260724/v2_26a372cc004c40c29b793e186b882b3a@000000@ai_oswg369113oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "4c751ce8d825",
-          "title": "WAIC三年记：AI落地曲线上的五个「真实拐点」",
-          "desc": "一部AI产业的“祛魅史”。",
-          "source": "36氪",
-          "date": "2026-07-24",
-          "dateLabel": "7月24日",
-          "tags": [
+            "research",
             "business"
           ],
-          "url": "https://36kr.com/p/3909455278822789",
-          "image": "https://img.36krcdn.com/hsossms/20260724/v2_57909b5561d144548a917af0e6d2f708@46958@ai_oswg879458oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "715fb5944a4d",
-          "title": "涨价与降价并存：AI视频生成“冰火两重天”",
-          "desc": "一边“即贵”，一边“骨折”",
-          "source": "36氪",
-          "date": "2026-07-24",
-          "dateLabel": "7月24日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://36kr.com/p/3909478921999494",
-          "image": "https://img.36krcdn.com/hsossms/20260724/v2_0647d3f45ea64489bb591e22f1ed5556@46958@ai_oswg881201oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "b099e3320194",
-          "title": "赛马结束，大厂各寻Agent主心骨",
-          "desc": "重复造轮时代过了。",
-          "source": "36氪",
-          "date": "2026-07-24",
-          "dateLabel": "7月24日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3909509300556931",
-          "image": "https://img.36krcdn.com/hsossms/20260724/v2_f02a479ac41440eebcc560a1b9c1f1c1@46958@ai_oswg911144oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
+          "url": "https://www.qbitai.com/2026/07/460154.html",
+          "image": "",
+          "color": "#7c3aed"
         }
       ]
     },
@@ -3358,128 +3437,6 @@
           "color": "#2563eb"
         }
       ]
-    },
-    {
-      "date": "2026-06-23",
-      "dateLabel": "6月23日",
-      "id": "d23",
-      "items": [
-        {
-          "id": "a30e8f08e351",
-          "title": "巨头打响Context之战，重构AI护城河",
-          "desc": "从拼窗口到抢入口，谁能更稳定地获得、组织、调用Context。",
-          "source": "36氪",
-          "date": "2026-06-23",
-          "dateLabel": "6月23日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3865691912616833",
-          "image": "https://img.36krcdn.com/hsossms/20260623/v2_0069aef18a214da2abb1e4333d88c77d@46958@ai_oswg1104377oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "3512f938bf8d",
-          "title": "微信AI全网最细体验，我又爱上了刷朋友圈",
-          "desc": "14 亿人从这开始拥抱 Agent",
-          "source": "36氪",
-          "date": "2026-06-23",
-          "dateLabel": "6月23日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3865706037924872",
-          "image": "https://img.36krcdn.com/hsossms/20260623/v2_2d3d4e130a3741719aa6d0f64a57dca9@46958@ai_oswg943027oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "466f434b0596",
-          "title": "当AI智能体走进伊利一线服务，导购和达人营销有了新解法",
-          "desc": "面对越来越专业的消费者，伊利把AI智能体放进导购、社群、达人营销等快消一线场景，借助腾讯云智能体开发平台ADP",
-          "source": "36氪",
-          "date": "2026-06-23",
-          "dateLabel": "6月23日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3865187393934598",
-          "image": "https://img.36krcdn.com/hsossms/20260623/v2_f382d440f9b1482a92f6f7e413a7e8bb@000000_oswg51366oswg897oswg383_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "150ff81580a2",
-          "title": "不止于记录，思必驰让AI散会之后继续干活",
-          "desc": "在AI会议工具已经能完成录音、转写和纪要之后，真正的痛点转向了会后执行。",
-          "source": "36氪",
-          "date": "2026-06-23",
-          "dateLabel": "6月23日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3865716311446791",
-          "image": "https://img.36krcdn.com/hsossms/20260623/v2_6ffabeb6430c48aa984f57925dc7889f@000000_oswg28462oswg607oswg608_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "774d8d1dabe7",
-          "title": "正行创新完成近亿美元天使轮融资，正大集团、华勤技术等多家上市企业联合加持",
-          "desc": "以“数据—模型—基础设施”系统性协同通往物理智能",
-          "source": "量子位",
-          "date": "2026-06-23",
-          "dateLabel": "6月23日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/06/437694.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "548ea0cd4edc",
-          "title": "云计算一哥，让小鹏、Kimi和猎豹都爽了一把",
-          "desc": "Agentic AI爆发的拐点已然来临",
-          "source": "量子位",
-          "date": "2026-06-23",
-          "dateLabel": "6月23日",
-          "tags": [
-            "model",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/06/437672.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "c1a5a594bfff",
-          "title": "刚刚，豆包2.1发布！Agent自己跑18个小时搞定芯片设计代码",
-          "desc": "编程比肩Opus 4.7",
-          "source": "量子位",
-          "date": "2026-06-23",
-          "dateLabel": "6月23日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/06/437503.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "85530cdbb81f",
-          "title": "57场面试杀进OpenAI！华人博士开源「AI面经」，含泪推荐",
-          "desc": "希望你能找到快乐",
-          "source": "量子位",
-          "date": "2026-06-23",
-          "dateLabel": "6月23日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/06/437425.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -3505,6 +3462,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-07-26 13:31",
-  "totalNews": 225
+  "updateTime": "2026-07-27 13:48",
+  "totalNews": 222
 }
