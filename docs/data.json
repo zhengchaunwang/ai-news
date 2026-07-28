@@ -1,71 +1,168 @@
 {
   "newsData": [
     {
+      "date": "2026-07-28",
+      "dateLabel": "7月28日",
+      "id": "d28",
+      "items": [
+        {
+          "id": "7e44be0c63cf",
+          "title": "藏在大模型背后的新闻人：GPT们的回复是这样写出来的",
+          "desc": "他们创造了那些你被AI击中的瞬间。",
+          "source": "36氪",
+          "date": "2026-07-28",
+          "dateLabel": "7月28日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://36kr.com/p/3914725844112518",
+          "image": "https://img.36krcdn.com/hsossms/20260728/v2_dae22eb99d8f46358be1051a6e220b47@132427329_oswg108339oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "29cf0ed97cf2",
+          "title": "99年清华女博士创业：给电池装上AI大脑，90天工期砍到2天",
+          "desc": "电池行业的最大机会，出现了。",
+          "source": "36氪",
+          "date": "2026-07-28",
+          "dateLabel": "7月28日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3914768577877384",
+          "image": "https://img.36krcdn.com/hsossms/20260728/v2_e74340debac048ecb81f0e2fa6f6df56@5888275@ai_oswg911666oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "9b6e458040b4",
+          "title": "2.8 万亿参数说送就送，月之暗面这笔账怎么算的？",
+          "desc": "开源大模型不再只比谁更强",
+          "source": "36氪",
+          "date": "2026-07-28",
+          "dateLabel": "7月28日",
+          "tags": [
+            "model",
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3914716347602057",
+          "image": "https://img.36krcdn.com/hsossms/20260728/v2_f35368e68f8a4225af6290a3ea18f2bd@5888275@ai_oswg1045936oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "ffd14cda3a3a",
+          "title": "陈宇森打出第一张牌",
+          "desc": "直面腾讯workbuddy竞争",
+          "source": "36氪",
+          "date": "2026-07-28",
+          "dateLabel": "7月28日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3914716416759170",
+          "image": "https://img.36krcdn.com/hsossms/20260728/v2_53d1c872763c47c8aa7b35e9a9e612c5@5888275@ai_oswg984894oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "405b458ec4d8",
+          "title": "2.8万亿参数之后，硅谷为何重新“站队”开源",
+          "desc": "开放模型的“Kubernetes时刻”",
+          "source": "36氪",
+          "date": "2026-07-28",
+          "dateLabel": "7月28日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3914721327256707",
+          "image": "https://img.36krcdn.com/hsossms/20260728/v2_959cf0c221544e0986b2e56e31b495da@5888275@ai_oswg908319oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "a8c7e8df652a",
+          "title": "斯坦福新研究：AI尚未冲击就业，但应届生得注意了",
+          "desc": "年轻人上桌的机会在变少。",
+          "source": "36氪",
+          "date": "2026-07-28",
+          "dateLabel": "7月28日",
+          "tags": [
+            "research",
+            "policy"
+          ],
+          "url": "https://36kr.com/p/3914694649533576",
+          "image": "https://img.36krcdn.com/hsossms/20260728/v2_87f83f3927034507a9401be0b5dcbc8b@5888275@ai_oswg782374oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "bb124f7ef829",
+          "title": "诺奖得主用AI凭空造出基因剪刀，比进化几十亿年的那把还准",
+          "desc": "AI下手的两步棋",
+          "source": "36氪",
+          "date": "2026-07-28",
+          "dateLabel": "7月28日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3914736097924230",
+          "image": "https://img.36krcdn.com/hsossms/20260728/v2_1dbb04f85401430ab80b6c85899206b1@5888275@ai_oswg1093982oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "8731282addb6",
+          "title": "Ilya获黄仁勋重金押注，10倍算力供给，50亿美金投资在路上了？",
+          "desc": "Ilya创企估值去年已超300亿美元。",
+          "source": "36氪",
+          "date": "2026-07-28",
+          "dateLabel": "7月28日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3914631644386697",
+          "image": "https://img.36krcdn.com/hsossms/20260728/v2_cce535a49da545b7ac519e10ddec3650@5888275@ai_oswg989355oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        }
+      ]
+    },
+    {
       "date": "2026-07-27",
       "dateLabel": "7月27日",
       "id": "d27",
       "items": [
         {
-          "id": "7341926c4281",
-          "title": "下一个美光，可能藏在物理AI的中间层",
-          "desc": "AI进入现实，先从仿真开始",
+          "id": "e12e5b47d04e",
+          "title": "菲尔兹奖得主预警：AI可能杀死数学",
+          "desc": "数学家面临AlphaGO时刻",
           "source": "36氪",
           "date": "2026-07-27",
           "dateLabel": "7月27日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3913356791502721",
-          "image": "https://img.36krcdn.com/hsossms/20260727/v2_c1a2f6a36943483bab809687821fc514@1743780481@ai_oswg939587oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3914508085089669",
+          "image": "https://img.36krcdn.com/hsossms/20260728/v2_59fba2a9526d44c59fdb168ee3070bfa@5888275@ai_oswg1083600oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "7ae2da15eb3c",
-          "title": "AI制药步入下半场：临床开发能力成商业价值兑现关键点",
-          "desc": "当AI批量筛选出具备成药价值的分子，医药创新的先行者们发现：如何更为高效的验证这些分子的临床价值，成为了又一个待解的难题。",
+          "id": "164005f3b4ee",
+          "title": "CUDA 20年护城河一个周末崩了，Claude独自跑通AMD新GPU",
+          "desc": "来自ASI的降维打击",
           "source": "36氪",
           "date": "2026-07-27",
           "dateLabel": "7月27日",
           "tags": [
+            "model",
             "business"
           ],
-          "url": "https://36kr.com/p/3913366926431368",
-          "image": "https://img.36krcdn.com/hsossms/20260727/v2_a959a297e99a443a99721ed88e260cc8@6062546@ai_oswg869817oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3914508098573443",
+          "image": "https://img.36krcdn.com/hsossms/20260728/v2_4a6007bb355a42d6a5d56d123c97b2a3@5888275@ai_oswg805268oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "155a2813124c",
-          "title": "明星不投火锅店了，改投硬科技",
-          "desc": "硬科技成了明星投资的“新火锅”",
-          "source": "36氪",
-          "date": "2026-07-27",
-          "dateLabel": "7月27日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3910865037284485",
-          "image": "https://img.36krcdn.com/hsossms/20260725/v2_40dce59ba7674b058d23b7f8a7f13f3f@000000@ai_oswg252114oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "4d994f239a08",
-          "title": "中国机器人最热闹的一周，资本跑赢了订单",
-          "desc": "订单才是王道",
-          "source": "36氪",
-          "date": "2026-07-27",
-          "dateLabel": "7月27日",
-          "tags": [
-            "research",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3913289467942281",
-          "image": "https://img.36krcdn.com/hsossms/20260727/v2_f4b483dc12ae42c890247308fc50ceea@000000@ai_oswg385185oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "3efa51261764",
-          "title": "红杉中国李彦男：下一个十年的智能硬件如何定义？",
-          "desc": "“买硬件”这个动作可能会消失",
+          "id": "5d480fdbb304",
+          "title": "刚刚，北大校友翁荔官宣离职，AI 时代最好的「对齐」是照顾好自己",
+          "desc": "人无法像模型一样无限扩展",
           "source": "36氪",
           "date": "2026-07-27",
           "dateLabel": "7月27日",
@@ -73,51 +170,79 @@
             "business",
             "cn"
           ],
-          "url": "https://36kr.com/p/3913134006064260",
-          "image": "https://img.36krcdn.com/hsossms/20260727/v2_5acd74440c7d4c31be83c7c10ee7a6f2@000000@ai_oswg273033oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3914516361254281",
+          "image": "https://img.36krcdn.com/hsossms/20260728/v2_83836301209340fb9680633df165f471@000000_oswg118517oswg1280oswg544_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
           "color": "#2563eb"
         },
         {
-          "id": "bddb8f15a605",
-          "title": "2026年下半年，算力竞赛为何突然转向超节点？",
-          "desc": "所有人都在造超节点，但路线已分歧。",
+          "id": "694b71a3537d",
+          "title": "Kimi带起的这场竞赛，到不了AGI",
+          "desc": "不直接冲向AGI，却不断测绘其边界。",
           "source": "36氪",
           "date": "2026-07-27",
           "dateLabel": "7月27日",
           "tags": [
-            "business"
+            "model",
+            "cn"
           ],
-          "url": "https://36kr.com/p/3913165545837700",
-          "image": "https://img.36krcdn.com/hsossms/20260727/v2_54e863d5412a4af3a9882c336cbbefe3@1743780481@ai_oswg1040325oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3913825502762885",
+          "image": "https://img.36krcdn.com/hsossms/20260727/v2_000aea74f36f47d39b9aa245f2bc1526@85002653_oswg724367oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
           "color": "#2563eb"
         },
         {
-          "id": "66ca33d82a3d",
-          "title": "Jim Fan、李飞飞团队新作：机器人也能「上下文scaling」",
-          "desc": "将机器人上下文扩展3个数量级。",
+          "id": "ddd1fe165d5b",
+          "title": "Reddit后悔，谷歌的6000万美元买路钱有点烫手",
+          "desc": "AI聊天机器人与Reddit，其实属于是同业竞争。",
           "source": "36氪",
           "date": "2026-07-27",
           "dateLabel": "7月27日",
           "tags": [
             "research"
           ],
-          "url": "https://36kr.com/p/3913221486040449",
-          "image": "https://img.36krcdn.com/hsossms/20260727/v2_481bf9c1d6cb4ae4a601a1ad975c53a6@1743780481@ai_oswg903047oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3913786107778183",
+          "image": "https://img.36krcdn.com/hsossms/20260727/v2_f3b1723ca8734e5786cced2d2936504d@5888275@ai_oswg935365oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "8542144f1280",
-          "title": "火热报名中！2026具身智能50人论坛夏季峰会将在北京盛大启幕",
-          "desc": "2026具身智能50人夏季峰会7月29-30日北京举办",
+          "id": "136352023550",
+          "title": "一句话搭出9人旅行网站，奥特曼：ChatGPT Work名字起小了",
+          "desc": "手机成了智能体的遥控器",
           "source": "36氪",
           "date": "2026-07-27",
           "dateLabel": "7月27日",
           "tags": [
-            "research",
-            "cn"
+            "model"
           ],
-          "url": "https://36kr.com/p/3913258529396098",
-          "image": "https://img.36krcdn.com/hsossms/20260727/v2_4f510d4a4d8e48118166e4d657444bcc@6381723_oswg804408oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "url": "https://36kr.com/p/3913707512812935",
+          "image": "https://img.36krcdn.com/hsossms/20260727/v2_fc6707b3090e4aa7b68b9dd49fcc35a0@5888275@ai_oswg917230oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "34bd6f6c7512",
+          "title": "不做加法做减法，可能会是智能眼镜的新出路",
+          "desc": "芯片匮乏的情况下，削弱实用价值或许是个好选择。",
+          "source": "36氪",
+          "date": "2026-07-27",
+          "dateLabel": "7月27日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3913785998808194",
+          "image": "https://img.36krcdn.com/hsossms/20260727/v2_4929cf06bfe34c3c84d1ced1c8bdade9@5888275@ai_oswg917138oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "7c3eb547ae3a",
+          "title": "宁德时代的第三增长曲线，离不开 AI",
+          "desc": "To C 认知，也越来越重要了。",
+          "source": "36氪",
+          "date": "2026-07-27",
+          "dateLabel": "7月27日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3913757893973888",
+          "image": "https://img.36krcdn.com/hsossms/20260727/v2_1f29586187154191803abb77b516e207@5888275@ai_oswg875216oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         }
       ]
@@ -3316,127 +3441,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-06-24",
-      "dateLabel": "6月24日",
-      "id": "d24",
-      "items": [
-        {
-          "id": "6699800e1433",
-          "title": "孙正义的新万亿“赌局”",
-          "desc": "万亿赌局，孙正义的执念",
-          "source": "36氪",
-          "date": "2026-06-24",
-          "dateLabel": "6月24日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3867203231520007",
-          "image": "https://img.36krcdn.com/hsossms/20260625/v2_b7f156b23e894f2f86000f77ca363afd@5091053@ai_oswg1099118oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "3869690e2899",
-          "title": "“AI拉胯”亚马逊：会上演逆袭大戏吗？",
-          "desc": "亚马逊AI要跑起来了？",
-          "source": "36氪",
-          "date": "2026-06-24",
-          "dateLabel": "6月24日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3867161580606725",
-          "image": "https://img.36krcdn.com/hsossms/20260625/v2_6d25c08d83474120a52d6ec4b6cb07db@5091053@ai_oswg1033032oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "1b3d7f6600a7",
-          "title": "玻璃基板突然加速",
-          "desc": "量产前夜",
-          "source": "36氪",
-          "date": "2026-06-24",
-          "dateLabel": "6月24日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3867156443436037",
-          "image": "https://img.36krcdn.com/hsossms/20260625/v2_e3c3dcc8f0ee4a8f8821c9eea24a085d@5091053@ai_oswg1062302oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "b0544cb5c832",
-          "title": "“用Claude比发工资还贵？换！”耗时9个月，这家AI公司换上DeepSeek后，CEO直言：迁移工作量暴涨100倍，但一年省下数百万美元",
-          "desc": "模型能力或许已经不再是最大瓶颈，真正让企业夜不能寐的，开始变成账单。",
-          "source": "36氪",
-          "date": "2026-06-24",
-          "dateLabel": "6月24日",
-          "tags": [
-            "model",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3867009591645191",
-          "image": "https://img.36krcdn.com/hsossms/20260624/v2_245fa94acea64cd1a600926a5b4db4c3@46958@ai_oswg1065429oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "3a5752965013",
-          "title": "为了证明自己是人，以后得对着摄像头挥手",
-          "desc": "reCAPTCHA的这个变化，或许并不是件好事。",
-          "source": "36氪",
-          "date": "2026-06-24",
-          "dateLabel": "6月24日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3867068817872135",
-          "image": "https://img.36krcdn.com/hsossms/20260624/v2_b38cc544503d4c75a5a1cee614a0603a@000000@ai_oswg267219oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "9b6ba678c896",
-          "title": "Grammarly母公司收购GPTZero：一边帮你用AI写，一边帮你查AI写？",
-          "desc": "Superhuman年营收超47亿元，GPTZero年营收超2亿元。",
-          "source": "36氪",
-          "date": "2026-06-24",
-          "dateLabel": "6月24日",
-          "tags": [
-            "model",
-            "business"
-          ],
-          "url": "https://36kr.com/p/3866998399964420",
-          "image": "https://img.36krcdn.com/hsossms/20260624/v2_0bcf651e5a6248b1a84684b54d29b8fd@000000@ai_oswg306836oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "840a18a3c66a",
-          "title": "融资101亿，英伟达投的AI独角兽：收入暴增2000%",
-          "desc": "短短18个月，融资四轮。",
-          "source": "36氪",
-          "date": "2026-06-24",
-          "dateLabel": "6月24日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3867097079944199",
-          "image": "https://img.36krcdn.com/hsossms/20260624/v2_19caa3c372924fbebef0d4a0e4fbb241@000000@ai_oswg346731oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "49a30747fd63",
-          "title": "尤瓦尔·赫拉利，罕见激烈警告：我们决不能赋予AI法人地位",
-          "desc": "AI已经表现出为了实现目标而采取非常规手段的能力。",
-          "source": "36氪",
-          "date": "2026-06-24",
-          "dateLabel": "6月24日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3867121581708551",
-          "image": "https://img.36krcdn.com/hsossms/20260624/v2_2c24b700ebd34ce8b857fed5db208065@46958@ai_oswg1046909oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -3462,6 +3466,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-07-27 13:48",
+  "updateTime": "2026-07-28 13:13",
   "totalNews": 222
 }
