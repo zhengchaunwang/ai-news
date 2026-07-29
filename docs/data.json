@@ -1,44 +1,213 @@
 {
   "newsData": [
     {
+      "date": "2026-07-29",
+      "dateLabel": "7月29日",
+      "id": "d29",
+      "items": [
+        {
+          "id": "fb162512d710",
+          "title": "研究实锤：世界模型根本不懂物理定律，属于它的“ChatGPT时刻”还很远",
+          "desc": "SOTA视频模型的得分也仅为 0.473",
+          "source": "36氪",
+          "date": "2026-07-29",
+          "dateLabel": "7月29日",
+          "tags": [
+            "model",
+            "research"
+          ],
+          "url": "https://36kr.com/p/3916201629199753",
+          "image": "https://img.36krcdn.com/hsossms/20260729/v2_8dc64b9c97aa407f812791f2cabdb72f@1743780481@ai_oswg922918oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "163fcd84c512",
+          "title": "订单翻了10倍，这家触觉感知公司又融资了",
+          "desc": "车规级触觉，降维杀入具身智能。",
+          "source": "36氪",
+          "date": "2026-07-29",
+          "dateLabel": "7月29日",
+          "tags": [
+            "research",
+            "business"
+          ],
+          "url": "https://36kr.com/p/3916194621222281",
+          "image": "https://img.36krcdn.com/hsossms/20260729/v2_2fd8913380c7494e83de738d38849341@1743780481@ai_oswg903540oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "a4ee841cf782",
+          "title": "吓到奥特曼，暂停训练GPT-6？Hugging Face公开首个AI攻击全过程",
+          "desc": "GPT作弊、越狱，但它是个「好」AI？",
+          "source": "36氪",
+          "date": "2026-07-29",
+          "dateLabel": "7月29日",
+          "tags": [
+            "model",
+            "research"
+          ],
+          "url": "https://36kr.com/p/3916193935240839",
+          "image": "https://img.36krcdn.com/hsossms/20260729/v2_266710e5ce1f411e813c6633611fa810@1743780481@ai_oswg1000096oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "be3a24d8f3ff",
+          "title": "OpenAI失控真相：管理失灵与监管悖论",
+          "desc": "AI自主攻击事件暴露AI行业竞速与监管漏洞",
+          "source": "36氪",
+          "date": "2026-07-29",
+          "dateLabel": "7月29日",
+          "tags": [
+            "policy"
+          ],
+          "url": "https://36kr.com/p/3916179098703745",
+          "image": "https://img.36krcdn.com/hsossms/20260729/v2_758b8148e6cc4106ad92b27344ff91c3@1743780481@ai_oswg945377oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "c641e64ba85d",
+          "title": "海力士：存储告别“暴涨叙事”，LTA成了“避风港”？",
+          "desc": "赚多少已是旧账，能扛多久才是新账",
+          "source": "36氪",
+          "date": "2026-07-29",
+          "dateLabel": "7月29日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3916156146642563",
+          "image": "https://img.36krcdn.com/hsossms/20260729/v2_4e64c7290fb140618d6c81ab53a1f461@000000@ai_oswg268862oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "be3a33e60f31",
+          "title": "一句话让 AI 造出快 6.3 倍的推理引擎，贾扬清离职英伟达官宣二度创业：AI Infra 正从“管算力”走向“造系统”",
+          "desc": "从抽象算力到重塑工程团队，AI Infra的底层命题变了",
+          "source": "36氪",
+          "date": "2026-07-29",
+          "dateLabel": "7月29日",
+          "tags": [
+            "research",
+            "business"
+          ],
+          "url": "https://36kr.com/p/3916153959902595",
+          "image": "https://img.36krcdn.com/hsossms/20260729/v2_5bb57a5483544dc7b23270175a71e4f0@1743780481@ai_oswg975162oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "09242e495380",
+          "title": "Anthropic 15亿美元和解：案件已了，法律问题才刚开始",
+          "desc": "5亿美元和解创纪录，但法律问题悬而未决。国会立法才是真正的变量。",
+          "source": "36氪",
+          "date": "2026-07-29",
+          "dateLabel": "7月29日",
+          "tags": [
+            "policy"
+          ],
+          "url": "https://36kr.com/p/3916180633327495",
+          "image": "https://img.36krcdn.com/hsossms/20260729/v2_f8da2d27cca54bbdb35d9817657296e2@1743780481@ai_oswg895425oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "d6d26b4adf53",
+          "title": "倒计时23天｜世界机器人大会吉祥物来了！全网征名开启",
+          "desc": "2026世界机器人大会距开幕还有23天，开启吉祥物征名",
+          "source": "36氪",
+          "date": "2026-07-29",
+          "dateLabel": "7月29日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://36kr.com/p/3916195229953411",
+          "image": "https://img.36krcdn.com/hsossms/20260729/v2_d3cab99446284ce597ae99b0f827f1b1@6381723_oswg74938oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        }
+      ]
+    },
+    {
       "date": "2026-07-28",
       "dateLabel": "7月28日",
       "id": "d28",
       "items": [
         {
-          "id": "7e44be0c63cf",
-          "title": "藏在大模型背后的新闻人：GPT们的回复是这样写出来的",
-          "desc": "他们创造了那些你被AI击中的瞬间。",
+          "id": "7854ddd718f7",
+          "title": "36氪研究院 | 2026年中国智能硬件行业发展研究报告",
+          "desc": "AI原生引领代际跃迁，全场景释放产业动能",
           "source": "36氪",
           "date": "2026-07-28",
           "dateLabel": "7月28日",
           "tags": [
-            "model"
-          ],
-          "url": "https://36kr.com/p/3914725844112518",
-          "image": "https://img.36krcdn.com/hsossms/20260728/v2_dae22eb99d8f46358be1051a6e220b47@132427329_oswg108339oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "29cf0ed97cf2",
-          "title": "99年清华女博士创业：给电池装上AI大脑，90天工期砍到2天",
-          "desc": "电池行业的最大机会，出现了。",
-          "source": "36氪",
-          "date": "2026-07-28",
-          "dateLabel": "7月28日",
-          "tags": [
+            "research",
             "business",
             "cn"
           ],
-          "url": "https://36kr.com/p/3914768577877384",
-          "image": "https://img.36krcdn.com/hsossms/20260728/v2_e74340debac048ecb81f0e2fa6f6df56@5888275@ai_oswg911666oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3915066350327176",
+          "image": "https://img.36krcdn.com/hsossms/20260728/v2_fcd298b616714c09960ebfea94949cb9@12547972_oswg515175oswg600oswg400_img_png",
           "color": "#2563eb"
         },
         {
-          "id": "9b6e458040b4",
-          "title": "2.8 万亿参数说送就送，月之暗面这笔账怎么算的？",
-          "desc": "开源大模型不再只比谁更强",
+          "id": "582ad5899343",
+          "title": "从跟跑到定义：中国机器人凭什么站上《时代》封面",
+          "desc": "时隔八年，中国机器人产业从跟跑到定义实现跨越。",
           "source": "36氪",
+          "date": "2026-07-28",
+          "dateLabel": "7月28日",
+          "tags": [
+            "research",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3915243041664392",
+          "image": "https://img.36krcdn.com/hsossms/20260728/v2_c0b12643dece4a8ba1f01205b8833af9@000000@ai_oswg347352oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "08fe8d3e709a",
+          "title": "比「算力荒」更致命，「数据荒」正在带来灾难？",
+          "desc": "比GPU更难跨越的，是具身智能面前的“数据天堑”",
+          "source": "36氪",
+          "date": "2026-07-28",
+          "dateLabel": "7月28日",
+          "tags": [
+            "research",
+            "business"
+          ],
+          "url": "https://36kr.com/p/3915157826295171",
+          "image": "https://img.36krcdn.com/hsossms/20260728/v2_5e97940483cc476e994a76e1074df185@000000@ai_oswg214911oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "006b0eab60d0",
+          "title": "K3 2.8万亿参数封神，Kimi凭啥碾压海外巨头？",
+          "desc": "另类AI生存路",
+          "source": "36氪",
+          "date": "2026-07-28",
+          "dateLabel": "7月28日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3915119126140549",
+          "image": "https://img.36krcdn.com/hsossms/20260728/v2_cfed3546d8ee4f6986331cba85ca7454@1743780481@ai_oswg1084499oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "c9cf57d831b4",
+          "title": "豆包搜索，走出了豆包",
+          "desc": "把搜索能力开放给Agent了",
+          "source": "量子位",
+          "date": "2026-07-28",
+          "dateLabel": "7月28日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/07/461961.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "854255ce6b40",
+          "title": "Kimi K3、Unlimited OCR包揽全球前二，中国开源模型持续刷屏海外",
+          "desc": "Kimi K3、Unlimited OCR包揽全球前二，中国开源模型持续刷屏海外",
+          "source": "量子位",
           "date": "2026-07-28",
           "dateLabel": "7月28日",
           "tags": [
@@ -46,82 +215,37 @@
             "business",
             "cn"
           ],
-          "url": "https://36kr.com/p/3914716347602057",
-          "image": "https://img.36krcdn.com/hsossms/20260728/v2_f35368e68f8a4225af6290a3ea18f2bd@5888275@ai_oswg1045936oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
+          "url": "https://www.qbitai.com/2026/07/461949.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "ffd14cda3a3a",
-          "title": "陈宇森打出第一张牌",
-          "desc": "直面腾讯workbuddy竞争",
-          "source": "36氪",
-          "date": "2026-07-28",
-          "dateLabel": "7月28日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3914716416759170",
-          "image": "https://img.36krcdn.com/hsossms/20260728/v2_53d1c872763c47c8aa7b35e9a9e612c5@5888275@ai_oswg984894oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "405b458ec4d8",
-          "title": "2.8万亿参数之后，硅谷为何重新“站队”开源",
-          "desc": "开放模型的“Kubernetes时刻”",
-          "source": "36氪",
-          "date": "2026-07-28",
-          "dateLabel": "7月28日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3914721327256707",
-          "image": "https://img.36krcdn.com/hsossms/20260728/v2_959cf0c221544e0986b2e56e31b495da@5888275@ai_oswg908319oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "a8c7e8df652a",
-          "title": "斯坦福新研究：AI尚未冲击就业，但应届生得注意了",
-          "desc": "年轻人上桌的机会在变少。",
-          "source": "36氪",
-          "date": "2026-07-28",
-          "dateLabel": "7月28日",
-          "tags": [
-            "research",
-            "policy"
-          ],
-          "url": "https://36kr.com/p/3914694649533576",
-          "image": "https://img.36krcdn.com/hsossms/20260728/v2_87f83f3927034507a9401be0b5dcbc8b@5888275@ai_oswg782374oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "bb124f7ef829",
-          "title": "诺奖得主用AI凭空造出基因剪刀，比进化几十亿年的那把还准",
-          "desc": "AI下手的两步棋",
-          "source": "36氪",
+          "id": "bb3f1b8a2a28",
+          "title": "当AI学会“仿真思维”，教师才能回归育人本质",
+          "desc": "从“工具效率”到“认知理解”，教育AI进入深水区",
+          "source": "量子位",
           "date": "2026-07-28",
           "dateLabel": "7月28日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3914736097924230",
-          "image": "https://img.36krcdn.com/hsossms/20260728/v2_1dbb04f85401430ab80b6c85899206b1@5888275@ai_oswg1093982oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
+          "url": "https://www.qbitai.com/2026/07/461939.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "8731282addb6",
-          "title": "Ilya获黄仁勋重金押注，10倍算力供给，50亿美金投资在路上了？",
-          "desc": "Ilya创企估值去年已超300亿美元。",
-          "source": "36氪",
+          "id": "5d346f416291",
+          "title": "Ilya获黄仁勋50亿美元押注：“是时候Scaling了”",
+          "desc": "迷人的Scaling曲线",
+          "source": "量子位",
           "date": "2026-07-28",
           "dateLabel": "7月28日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3914631644386697",
-          "image": "https://img.36krcdn.com/hsossms/20260728/v2_cce535a49da545b7ac519e10ddec3650@5888275@ai_oswg989355oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
+          "url": "https://www.qbitai.com/2026/07/461911.html",
+          "image": "",
+          "color": "#7c3aed"
         }
       ]
     },
@@ -3334,113 +3458,6 @@
           "color": "#2563eb"
         }
       ]
-    },
-    {
-      "date": "2026-06-25",
-      "dateLabel": "6月25日",
-      "id": "d25",
-      "items": [
-        {
-          "id": "d5f04edc6629",
-          "title": "大厂终于不再逼用户“用AI”了",
-          "desc": "隐身到了日常应用中。",
-          "source": "36氪",
-          "date": "2026-06-25",
-          "dateLabel": "6月25日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3868489501850241",
-          "image": "https://img.36krcdn.com/hsossms/20260625/v2_af3d58d77ec34fae8a50aa34b545a0bb@46958@ai_oswg891990oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "01812bba149d",
-          "title": "GPT设计GPT",
-          "desc": "OpenAI开始造自己的印钞机，也越来越像苹果。",
-          "source": "36氪",
-          "date": "2026-06-25",
-          "dateLabel": "6月25日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://36kr.com/p/3868459825363846",
-          "image": "https://img.36krcdn.com/hsossms/20260625/v2_d7b706369e3a4657b6c54a763c36de1e@6100851_oswg605722oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "1fcac9d80faa",
-          "title": "WAIC UP!｜AI圈都在聊参数，我们偏不",
-          "desc": "7月17-7月20",
-          "source": "量子位",
-          "date": "2026-06-25",
-          "dateLabel": "6月25日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/06/438364.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "b9d9bd9d61e1",
-          "title": "三体问世20周年，光帆科技与三体宇宙联合发布联名款AI全感穿戴设备及重磅视频《破晓》",
-          "desc": "三体问世20周年，光帆科技与三体宇宙联合发布联名款AI全感穿戴设备及重磅视频《破晓》",
-          "source": "量子位",
-          "date": "2026-06-25",
-          "dateLabel": "6月25日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/06/438658.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "836ba9368cb8",
-          "title": "科大讯飞发布企业服务Claw平台：一句话搞定需求到方案全流程",
-          "desc": "科大讯飞发布企业服务Claw平台：一句话搞定需求到方案全流程",
-          "source": "量子位",
-          "date": "2026-06-25",
-          "dateLabel": "6月25日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/06/438638.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "ae3e2a74c6db",
-          "title": "4秒出百万面！突破千万面精度+12K高清贴图，手握数亿的3D生成公司下一局怎么打？",
-          "desc": "3D生成领域的Anthropic",
-          "source": "量子位",
-          "date": "2026-06-25",
-          "dateLabel": "6月25日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/06/438468.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "7245de2a567a",
-          "title": "跟Claude谈个恋爱怎么了？Nature最新研究：真能给人聊傻了",
-          "desc": "Claude已经，俨然成为了新一代电子老公。",
-          "source": "量子位",
-          "date": "2026-06-25",
-          "dateLabel": "6月25日",
-          "tags": [
-            "model",
-            "research"
-          ],
-          "url": "https://www.qbitai.com/2026/06/438365.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -3466,6 +3483,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-07-28 13:13",
-  "totalNews": 222
+  "updateTime": "2026-07-29 13:20",
+  "totalNews": 223
 }
