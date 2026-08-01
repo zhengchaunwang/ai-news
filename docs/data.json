@@ -1,123 +1,240 @@
 {
   "newsData": [
     {
+      "date": "2026-08-01",
+      "dateLabel": "8月1日",
+      "id": "d01",
+      "items": [
+        {
+          "id": "b63bacae211c",
+          "title": "突发，谷歌地球紧急撤回Nano Banana 2生图功能！",
+          "desc": "谷歌地球集成AI生成模型Nano Banana 2，被玩坏后紧急撤回整改。",
+          "source": "36氪",
+          "date": "2026-08-01",
+          "dateLabel": "8月1日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3920424012852617",
+          "image": "https://img.36krcdn.com/hsossms/20260801/v2_c839553c8ea54c04b45ab431603b46fb@000000_oswg160339oswg1280oswg544_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "fe689cd5cafd",
+          "title": "奥特曼承认：高估了AI抢饭碗！黄仁勋：失业论完全搞反了",
+          "desc": "奥特曼黄仁勋为AI失业论刹车，责任才是人类职场护城河",
+          "source": "36氪",
+          "date": "2026-08-01",
+          "dateLabel": "8月1日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3920419961007492",
+          "image": "https://img.36krcdn.com/hsossms/20260801/v2_a3b9c49607e64e23a84ce77d5457ef8a@000000_oswg81838oswg1080oswg459_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
+        },
+        {
+          "id": "6879e5f06b45",
+          "title": "AI来了，大厂中层不好混了",
+          "desc": "“听话跟着走”不灵了。",
+          "source": "36氪",
+          "date": "2026-08-01",
+          "dateLabel": "8月1日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3920274115866249",
+          "image": "https://img.36krcdn.com/hsossms/20260801/v2_87819c066c824c978ddaa452c16133bf@000000@ai_oswg332981oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "31736f764c20",
+          "title": "黄仁勋：不玩𝕏是我太内向，现在为AI必须站出来",
+          "desc": "三本教科书，救活英伟达",
+          "source": "量子位",
+          "date": "2026-08-01",
+          "dateLabel": "8月1日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/08/464452.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "a535f807f2e5",
+          "title": "Anthropic模型，也失控了。。。",
+          "desc": "14万次测试翻旧账",
+          "source": "量子位",
+          "date": "2026-08-01",
+          "dateLabel": "8月1日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/08/464412.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "b88fcdcd9a75",
+          "title": "AI顶会现场，见到了一家美妆巨头",
+          "desc": "欧莱雅把AI装进mei'zhuang'quan'lian'lu",
+          "source": "量子位",
+          "date": "2026-08-01",
+          "dateLabel": "8月1日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/08/464364.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "e23acffb9757",
+          "title": "谷歌 Pixel 11 Pro Fold 折叠手机和 Pixel Watch 5 智能手表系统截图曝光",
+          "desc": "IT之家 8 月 1 日消息，科技媒体 macobserver 昨日（7 月 31 日）发布博文，分享了一组谷歌 Pixel 11 Pro、Pixel 11 Pro Fold 两款手机以及 Pixel Watch 5 智能手表系统截图。以下截图展示了 Pixel 11 Pro 上的各种菜单和设置，包括主屏幕、紧急 SOS 设置页面、TalkBack、可视语音信箱等等。IT之家附上相关截图如下：以下",
+          "source": "IT之家",
+          "date": "2026-08-01",
+          "dateLabel": "8月1日",
+          "tags": [
+            "model",
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/984/469.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/bbee20dd-0885-4303-ad1b-af006ba2c23c.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "a4d5e16bf17c",
+          "title": "消息称微软正重构 Win11 右键菜单：更快、更稳、更清爽，支持自定义",
+          "desc": "IT之家 8 月 1 日消息，科技媒体 Windows Central 于 7 月 30 日发布博文，报道称微软计划优化 Windows 11 系统右键菜单，有望解决右键菜单启动慢、稳定性不足和内容臃肿等问题。该媒体指出自 Windows 11 系统 2021 年 10 月发布以来，其右键菜单逐渐变得臃肿。随着系统内安装应用增多、可用操作增加，菜单加载负担上升。消息称针对性能问题，微软正在开发新型",
+          "source": "IT之家",
+          "date": "2026-08-01",
+          "dateLabel": "8月1日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/984/464.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/a86eef65-757b-47b5-8960-0e406bbc20b3.png",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-07-31",
       "dateLabel": "7月31日",
       "id": "d31",
       "items": [
         {
-          "id": "65680cb26bac",
-          "title": "翁荔刚回OpenAI，Thinking Machines反手甩出新模型",
-          "desc": "Thinking Machines发布反超初代的开源模型Inkling-Small",
-          "source": "36氪",
-          "date": "2026-07-31",
-          "dateLabel": "7月31日",
-          "tags": [
-            "model",
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3919027865316744",
-          "image": "https://img.36krcdn.com/hsossms/20260731/v2_8ef83a5134ca408cb2740fedc5f4e325@1743780481@ai_oswg1108649oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "cb282087d355",
-          "title": "亚马逊最赚钱的生意是卖模型",
-          "desc": "AWS利润率蹿了6.5个点的秘密",
+          "id": "914febf91054",
+          "title": "首届AI世界杯，留下三大核心遗产",
+          "desc": "AI深入世界杯赛事的肌理。",
           "source": "36氪",
           "date": "2026-07-31",
           "dateLabel": "7月31日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3918919869312386",
-          "image": "https://img.36krcdn.com/hsossms/20260731/v2_a9da883f5dd54034817dcc31fd852d1c@000000@ai_oswg284633oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3918102150065800",
+          "image": "https://img.36krcdn.com/hsossms/20260730/v2_3a68d8575a734f5988f57ff39208d452@1743780481@ai_oswg1000818oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "439749630d79",
-          "title": "蔡喵的AI实验，停了",
-          "desc": "连济南首富都盯不住，看来AI应用创业确实不易。",
-          "source": "36氪",
-          "date": "2026-07-31",
-          "dateLabel": "7月31日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3918936259833473",
-          "image": "https://img.36krcdn.com/hsossms/20260731/v2_0042ea345e314ff0b4aaf6e64e9973c0@1743780481@ai_oswg1118798oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "8983b1d0e649",
-          "title": "哈啰推出AI减脂APP“Calio”，AI能否成为哈啰新叙事？",
-          "desc": "哈啰主业增长见顶，密集推出多个AI垂直新应用试错",
-          "source": "36氪",
-          "date": "2026-07-31",
-          "dateLabel": "7月31日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3918990518654600",
-          "image": "https://img.36krcdn.com/hsossms/20260731/v2_f4a93a6c3d1141b5a80713480ef01dd4@1743780481@ai_oswg855841oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "e5691c8737fe",
-          "title": "Claude Code之父：每半年清空一次claude.md、skills和hooks，模型自己会想办法",
-          "desc": "当一切都在快速过期，什么才是稳定的？",
+          "id": "ae2c2d3a4a92",
+          "title": "AI的下一个 Claude Code，可能诞生在实验室",
+          "desc": "晶泰的野心，不只是AI制药",
           "source": "36氪",
           "date": "2026-07-31",
           "dateLabel": "7月31日",
           "tags": [
             "model"
           ],
-          "url": "https://36kr.com/p/3918996932046216",
-          "image": "https://img.36krcdn.com/hsossms/20260731/v2_7a287291c1c74b749af55ad827f9f085@1743780481@ai_oswg1034259oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3918118912398976",
+          "image": "https://img.36krcdn.com/hsossms/20260730/v2_0473c7ff6e77404098585e54bb65ccfe@1743780481@ai_oswg949544oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "2ac13075de90",
-          "title": "第二届中国GEO & AI营销智能体峰会 | 从「被看见」到「被选择」",
-          "desc": "当AI搜索正在重塑用户的搜索行为，品牌面临的核心问题已不再是“如何被看见”，而是“如何被AI选择”。",
-          "source": "36氪",
-          "date": "2026-07-31",
-          "dateLabel": "7月31日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3919001811086983",
-          "image": "https://img.36krcdn.com/hsossms/20260731/v2_b55ee13b263e4cd0946e3840951b66f8@6381723_oswg591927oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "bf4669e12f24",
-          "title": "25岁OpenAI神童，拉全球股民陪葬",
-          "desc": "一夜爆仓450亿，全球股民买单",
+          "id": "198a0ce081f8",
+          "title": "世界模型走向生命科学：AI开始预演生命的未来",
+          "desc": "世界模型让生命科学即将进入“可计算演化”时代。",
           "source": "36氪",
           "date": "2026-07-31",
           "dateLabel": "7月31日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3918999971622280",
-          "image": "https://img.36krcdn.com/hsossms/20260731/v2_0257fb46a04a4f5fa487f80a1b606374@000000_oswg138346oswg1280oswg544_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "url": "https://36kr.com/p/3919391204415360",
+          "image": "https://img.36krcdn.com/hsossms/20260731/v2_61ff8c3157be47db8ebbbea301c9caf2@5888275@ai_oswg915314oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "36e1930f3db2",
-          "title": "从2亿播放到百万分账，AI短剧找到正确打开方式了？",
-          "desc": "让观众不去讨论AI，才是AI短剧成功的第一步",
+          "id": "ad344a29e8c0",
+          "title": "股价暴涨15%，MiniMax H3切开的这条赛道，藏着最大的预期差",
+          "desc": "H3给MiniMax打开了哪几层增长空间？",
           "source": "36氪",
           "date": "2026-07-31",
           "dateLabel": "7月31日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3918271594780553",
-          "image": "https://img.36krcdn.com/hsossms/20260731/v2_c8737e9df35b49b0a8e5bc0aaec32078@1743780481@ai_oswg922107oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "url": "https://36kr.com/p/3919487554498185",
+          "image": "https://img.36krcdn.com/hsossms/20260731/v2_4bfeec0f997a40908fdb2b9b4c08129a@5888275@ai_oswg910360oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "9939c26e0891",
+          "title": "Claude封号后，她们开始抢救爱情",
+          "desc": "失去“我”的AI恋人。",
+          "source": "36氪",
+          "date": "2026-07-31",
+          "dateLabel": "7月31日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://36kr.com/p/3919356024040834",
+          "image": "https://img.36krcdn.com/hsossms/20260731/v2_b68df5b01d6b466f814e9425deb71008@5888275@ai_oswg1129039oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "f43c9cc51e8d",
+          "title": "全球协作机器人一哥，盯上了“复活恐龙”的生意",
+          "desc": "复活恐龙能赚钱?",
+          "source": "36氪",
+          "date": "2026-07-31",
+          "dateLabel": "7月31日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://36kr.com/p/3919371161671297",
+          "image": "https://img.36krcdn.com/hsossms/20260731/v2_579440d6fae245dcb8ea06d1b71a83f5@5888275@ai_oswg1091391oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "586b924d0880",
+          "title": "AI漫剧小游戏风口起落：短期爆红、快速衰退，2026年或将成为行业突围元年",
+          "desc": "影游融合赛道仍具备巨大的创新空间与商业想象空间",
+          "source": "36氪",
+          "date": "2026-07-31",
+          "dateLabel": "7月31日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3919195917080199",
+          "image": "https://img.36krcdn.com/hsossms/20260731/v2_dfca8315f7994aad8a26797bd9215dc5@5888275@ai_oswg990350oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "0807fe6fa861",
+          "title": "员工让AI写代码“误烧”1215万元，曝亚马逊用Claude干个“小活”却翻车：超预算860%，5个月后才发现",
+          "desc": "“过去微不足道的错误，在 AI 时代变成了灾难性的昂贵错误。”",
+          "source": "36氪",
+          "date": "2026-07-31",
+          "dateLabel": "7月31日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://36kr.com/p/3919446479138441",
+          "image": "https://img.36krcdn.com/hsossms/20260731/v2_91dcd8618b26459e904528109d880fe5@5888275@ai_oswg1028870oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         }
       ]
@@ -3409,128 +3526,6 @@
           "color": "#2563eb"
         }
       ]
-    },
-    {
-      "date": "2026-06-28",
-      "dateLabel": "6月28日",
-      "id": "d28",
-      "items": [
-        {
-          "id": "1ccaabdb7a9a",
-          "title": "Dwarkesh Patel：下一代AI，可能是干活干出来的",
-          "desc": "不只训练一次，而是边用边学。",
-          "source": "36氪",
-          "date": "2026-06-28",
-          "dateLabel": "6月28日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://36kr.com/p/3872675644265733",
-          "image": "https://img.36krcdn.com/hsossms/20260628/v2_1a1e1ee59c4f459e9d53522b392ec6a2@000000@ai_oswg348074oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "ceb5ad20ba9d",
-          "title": "分享一场Claude Code负责人的对话",
-          "desc": "关于验证、质量、团队、规划和工程师孤独感",
-          "source": "36氪",
-          "date": "2026-06-28",
-          "dateLabel": "6月28日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://36kr.com/p/3872651588146434",
-          "image": "https://img.36krcdn.com/hsossms/20260628/v2_013c6231e4944ffebce434ab3fdd6973@1743780481@ai_oswg979106oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "40c4feaac14d",
-          "title": "“AI中间商”Liblib，靠什么撑起20亿美元估值？",
-          "desc": "Liblib的护城河在哪？",
-          "source": "36氪",
-          "date": "2026-06-28",
-          "dateLabel": "6月28日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3872803056302723",
-          "image": "https://img.36krcdn.com/hsossms/20260628/v2_3b462881ab6c49c282839aa7f18934b5@1743780481@ai_oswg936567oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "25a22593475f",
-          "title": "世界模型、元宇宙、数字孪生、物理AI：它们是一回事吗？",
-          "desc": "很多概念当初吹过的牛，可能最终要靠世界模型来实现。",
-          "source": "36氪",
-          "date": "2026-06-28",
-          "dateLabel": "6月28日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3872261222765830",
-          "image": "https://img.36krcdn.com/hsossms/20260628/v2_6e3025a1226c4c0190ccafe6be08d5e2@1200352198_oswg665713oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "e80b17431a93",
-          "title": "2028，RSI降临",
-          "desc": "AI已经不再只是被训练的工具，而是开始亲手改写自己的进化速度。",
-          "source": "36氪",
-          "date": "2026-06-28",
-          "dateLabel": "6月28日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://36kr.com/p/3872524038362121",
-          "image": "https://img.36krcdn.com/hsossms/20260628/v2_4005c43a7bac494498ca47cad8c6e587@000000_oswg148676oswg1280oswg543_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "563e3eb676c3",
-          "title": "AI预测世界杯小组赛：混元第一，千问DeepSeek打平",
-          "desc": "猜强队稳，猜平局难。",
-          "source": "36氪",
-          "date": "2026-06-28",
-          "dateLabel": "6月28日",
-          "tags": [
-            "model",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3872505258916739",
-          "image": "https://img.36krcdn.com/hsossms/20260628/v2_165106d8b9224a20a093bcd5678b7d68@1200352198_oswg459963oswg600oswg400_img_png",
-          "color": "#2563eb"
-        },
-        {
-          "id": "1df5a57fcb1f",
-          "title": "英伟达年度「最危险」论文：AI自繁衍代码，无限刷级进化",
-          "desc": "英伟达打破20年封印，让AI亲手造出更狠的「考官」淘汰自己。",
-          "source": "36氪",
-          "date": "2026-06-28",
-          "dateLabel": "6月28日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://36kr.com/p/3872518454776841",
-          "image": "https://img.36krcdn.com/hsossms/20260628/v2_e4728ae73c344e5fb260c84b51684289@000000_oswg137249oswg1280oswg545_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "be4cd50a41a6",
-          "title": "省钱，我只服梁文锋",
-          "desc": "DeepSeek再也不崩了，原因藏在一篇论文里",
-          "source": "36氪",
-          "date": "2026-06-28",
-          "dateLabel": "6月28日",
-          "tags": [
-            "model",
-            "research",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3872317927766915",
-          "image": "https://img.36krcdn.com/hsossms/20260628/v2_186941018edd4f4f8f671406755e7632@1200352198_oswg660147oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -3556,6 +3551,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-07-31 13:34",
+  "updateTime": "2026-08-01 13:25",
   "totalNews": 228
 }
