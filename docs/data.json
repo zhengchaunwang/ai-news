@@ -1,123 +1,246 @@
 {
   "newsData": [
     {
+      "date": "2026-08-03",
+      "dateLabel": "8月3日",
+      "id": "d03",
+      "items": [
+        {
+          "id": "c07c3935bcb5",
+          "title": "买了 AI 手机，还要再为「智商」付一次钱？AG&I",
+          "desc": "条条大路通罗马——算力的账单，无论如何还是要摆到终端用户的面前。",
+          "source": "36氪",
+          "date": "2026-08-03",
+          "dateLabel": "8月3日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://36kr.com/p/3923279944560008",
+          "image": "https://img.36krcdn.com/hsossms/20260803/v2_0af8017151ae43d5937e8634197f588d@000000@ai_oswg319134oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "75e5892c7edf",
+          "title": "人形机器人行业真的没门槛吗？",
+          "desc": "潮水与根系。",
+          "source": "36氪",
+          "date": "2026-08-03",
+          "dateLabel": "8月3日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://36kr.com/p/3923258273076873",
+          "image": "https://img.36krcdn.com/hsossms/20260803/v2_adb156c389314d4db653b2642b634665@1743780481@ai_oswg1093580oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "e265f8527a46",
+          "title": "一个真人都没有的爽剧，正在让老外疯狂上头",
+          "desc": "AI 短剧在国内，似乎比想象中更短命",
+          "source": "36氪",
+          "date": "2026-08-03",
+          "dateLabel": "8月3日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3923257614511747",
+          "image": "https://img.36krcdn.com/hsossms/20260803/v2_06df27cdc8ca4f2398e8b5dabf823d46@1743780481@ai_oswg948849oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "0fb95595a663",
+          "title": "日本在学中国宇树？",
+          "desc": "日本人形机器人转型场景探索，正追赶AI人形机器人浪潮",
+          "source": "36氪",
+          "date": "2026-08-03",
+          "dateLabel": "8月3日",
+          "tags": [
+            "research",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3923271919627907",
+          "image": "https://img.36krcdn.com/hsossms/20260803/v2_dafd30415098447d88187d88de5d2d8f@1743780481@ai_oswg1069537oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "fc9c5ea5443a",
+          "title": "AI电力荒下的新铲子",
+          "desc": "国产供应链深度参与",
+          "source": "36氪",
+          "date": "2026-08-03",
+          "dateLabel": "8月3日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3920726217469318",
+          "image": "https://img.36krcdn.com/hsossms/20260803/v2_ebc51dedeccb47dd8e493397a288c5de@1743780481@ai_oswg893190oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "05415fefdbaf",
+          "title": "生成模型也能端到端训练了？核心竟是一个for循环",
+          "desc": "参数和数据之后，生成模型解锁预训练第三根轴",
+          "source": "36氪",
+          "date": "2026-08-03",
+          "dateLabel": "8月3日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://36kr.com/p/3920743676964224",
+          "image": "https://img.36krcdn.com/hsossms/20260803/v2_afbd06b5dde74b6685d0e65e6d629dbb@1743780481@ai_oswg956479oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "c19ac3ac8601",
+          "title": "每人最多20篇？ICLR新规遭DeepMind研究者「反讽」请愿",
+          "desc": "「AI都能写论文了、评论文，还要卡数量？」",
+          "source": "36氪",
+          "date": "2026-08-03",
+          "dateLabel": "8月3日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://36kr.com/p/3920743531228550",
+          "image": "https://img.36krcdn.com/hsossms/20260803/v2_5557c3c91b9640c49486a0b6170a2856@1743780481@ai_oswg926779oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "034e454fd29b",
+          "title": "便宜90%，美国企业偷偷换上中国大模型",
+          "desc": "美AI芯片股暴跌，美拟制裁中AI企业遭美业界反对",
+          "source": "36氪",
+          "date": "2026-08-03",
+          "dateLabel": "8月3日",
+          "tags": [
+            "model",
+            "business",
+            "cn"
+          ],
+          "url": "https://36kr.com/p/3920565730111110",
+          "image": "https://img.36krcdn.com/hsossms/20260801/v2_3e1671ec0ccb4da3a35584bef5552cf0@000000@ai_oswg259460oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        }
+      ]
+    },
+    {
       "date": "2026-08-02",
       "dateLabel": "8月2日",
       "id": "d02",
       "items": [
         {
-          "id": "5fd5a515b42b",
-          "title": "“榨”出硅的极限：怎么让GPU不“闲着”？",
-          "desc": "AI Infra的效率革命",
+          "id": "8b0fd214059c",
+          "title": "从吴启华到王祖贤，AI肖像授权这门生意没那么简单",
+          "desc": "商业前景大好，法律权责边界仍需要厘清。",
           "source": "36氪",
           "date": "2026-08-02",
           "dateLabel": "8月2日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3920675282163337",
-          "image": "https://img.36krcdn.com/hsossms/20260801/v2_3bacd676c0e943cba522ce30626d3d4d@000000_oswg66197oswg900oswg383_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "url": "https://36kr.com/p/3922163449097858",
+          "image": "https://img.36krcdn.com/hsossms/20260802/v2_fce0c0c9c15b43d38b0ce66481fe290c@000000@ai_oswg355069oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "7b7433a6e244",
-          "title": "观众需要AI明星吗？",
-          "desc": "“谁管你买不买账。”",
+          "id": "700ea83de2cc",
+          "title": "从TPU到自我进化的Agent，Jeff Dean如何判断AI的下一步",
+          "desc": "当 AI 成为初级工程师，真正稀缺的是什么",
           "source": "36氪",
           "date": "2026-08-02",
           "dateLabel": "8月2日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3920791686026884",
-          "image": "https://img.36krcdn.com/hsossms/20260801/v2_fa32ee6b557a429c8b5bea15781a0a8f@000000_oswg179630oswg1280oswg545_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "url": "https://36kr.com/p/3921921512205699",
+          "image": "https://img.36krcdn.com/hsossms/20260802/v2_f36480b1fdbc4ce8abb5914720c692f5@000000@ai_oswg312999oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "e368abbf3a6a",
-          "title": "突发！OpenAI下一代AI攻克10项菲尔兹奖级难题",
-          "desc": "OpenAI新模型Astra破解十大数学难题，轰动学界。",
+          "id": "b840ddc3b336",
+          "title": "OpenAI官宣下一代模型Astra，取得10大未解难题突破，附249页论文",
+          "desc": "相关问题均已开放至少10年，且核心结论长期没有进展。",
+          "source": "36氪",
+          "date": "2026-08-02",
+          "dateLabel": "8月2日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://36kr.com/p/3921831591341702",
+          "image": "https://img.36krcdn.com/hsossms/20260802/v2_551aca06b64a49deb83624793a57422b@000000@ai_oswg225273oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
+        },
+        {
+          "id": "5e1cdf2102f0",
+          "title": "2026，千问元宝静悄悄",
+          "desc": "AI下半场，大厂不拼嗓门拼生态。",
           "source": "36氪",
           "date": "2026-08-02",
           "dateLabel": "8月2日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3921682068172419",
-          "image": "https://img.36krcdn.com/hsossms/20260802/v2_59fa7b046a864bfcb8734c6329e201e1@000000_oswg101182oswg1080oswg459_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "url": "https://36kr.com/p/3922299713498759",
+          "image": "https://img.36krcdn.com/hsossms/20260802/v2_1b31cf5604e047c3a1fe68fe61a04150@000000@ai_oswg369319oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
           "color": "#2563eb"
         },
         {
-          "id": "349a0425b76a",
-          "title": "如何让自己变得让人工智能永远也无法取代",
-          "desc": "这5项技能将决定你的未来",
+          "id": "18f1d73af499",
+          "title": "MiniMax H3、Seedance 2.5、DeepSeek V4全来了，国产大模型今天有点忙",
+          "desc": "7月的最后一天，AI圈也没闲着。",
           "source": "36氪",
-          "date": "2026-08-02",
-          "dateLabel": "8月2日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3889181574625798",
-          "image": "https://img.36krcdn.com/hsossms/20260710/v2_20321e7ccdfb46799910cd8ee3803f84@1694@ai_oswg706952oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "787686ff9fa5",
-          "title": "前 DeepMind 研究员蒂博爆料：谷歌曾在 ChatGPT 发布一年前做出类似产品，但最终被雪藏",
-          "desc": "IT之家 8 月 2 日消息，OpenAI Codex 工程负责人蒂博 · 索蒂奥（Thibault Sottiaux）曾在谷歌 DeepMind 人工智能实验室工作六年，研究过 AI 基础设施、机器学习工程等项目。今天蒂博在 X 平台爆料称，DeepMind 曾在 ChatGPT 发布一年前做出类似产品，当时名字叫 LMChat，后来换过内部代号。但最终，这款产品并没有发布。原因是公司担心该产品",
-          "source": "IT之家",
           "date": "2026-08-02",
           "dateLabel": "8月2日",
           "tags": [
             "model",
-            "research",
-            "business"
+            "cn"
           ],
-          "url": "https://www.ithome.com/0/984/716.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/092c06be-c47e-4041-8bb5-8f538d98c664.png",
-          "color": "#d97706"
+          "url": "https://36kr.com/p/3922353035433603",
+          "image": "https://img.36krcdn.com/hsossms/20260802/v2_308c851cadd243caa8221763a313bc06@1743780481@ai_oswg922901oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
         },
         {
-          "id": "01cc7835b62a",
-          "title": "2026 年科技行业裁员潮加剧：前七个月裁员人数已超 2025 全年，AI 投资却持续狂飙",
-          "desc": "IT之家 8 月 2 日消息，据 layoffs.fyi 数据，2026 年前七个月全球科技行业裁员人数已超 12.4 万人，超过 2025 年全年总量的 12.2 万人。与此同时，各大科技巨头却在不断加强 AI 投资。据悉，这其中的大部分裁员来自甲骨文、亚马逊、戴尔和 Meta 等企业。一些规模较小的企业，如 Workday、GitLab 和 Robinhood 等也进行了裁员。数据显示，美国加",
-          "source": "IT之家",
+          "id": "9ed8571a962f",
+          "title": "谁在制造AI“虚假繁荣”？",
+          "desc": "所有人都被卖了一个谎言。",
+          "source": "36氪",
           "date": "2026-08-02",
           "dateLabel": "8月2日",
           "tags": [
             "business"
           ],
-          "url": "https://www.ithome.com/0/984/712.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/61955a8f-94a7-4d4e-9406-5afde6ed7b8b.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
+          "url": "https://36kr.com/p/3922380390537088",
+          "image": "https://img.36krcdn.com/hsossms/20260802/v2_74ccc36537dd4dd9a9174d7c118fe7a1@1743780481@ai_oswg920136oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+          "color": "#2563eb"
         },
         {
-          "id": "01cac0f1590c",
-          "title": "山东：力争 3 年内集聚万名人工智能 OPC（一人公司）创新人才",
-          "desc": "IT之家 8 月 2 日消息，山东省工信厅等 12 部门近日联合印发《关于支持人工智能 OPC 创新发展的行动方案》，培育壮大人工智能 OPC（One Person Company，一人公司）新型市场主体，推动“AI+ 超级个体”新型创业模式加速落地。力争 3 年内，建成百个定位清晰、功能完善的特色载体，培育千家技术领先、成长性强的创业主体，集聚万名优秀人工智能 OPC 创新人才。支持济南、青岛、",
-          "source": "IT之家",
+          "id": "76e74fe43765",
+          "title": "李飞飞教机器人摸麻将挤牙膏，AI终于有“手感”了",
+          "desc": "视觉负责回答「我要做什么」，触觉负责不断修正「我现在做得对不对」",
+          "source": "36氪",
           "date": "2026-08-02",
           "dateLabel": "8月2日",
           "tags": [
-            "business"
+            "research"
           ],
-          "url": "https://www.ithome.com/0/984/711.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/3c7f48f8-c175-41a3-b0e6-9e71d6c55909.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
+          "url": "https://36kr.com/p/3921955573542533",
+          "image": "https://img.36krcdn.com/hsossms/20260802/v2_0b81332c47e14e5fb6cd8db206b55f1a@000000_oswg20148oswg724oswg308_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
         },
         {
-          "id": "e08a5685af4f",
-          "title": "SpaceX 上市后首次财报电话会将至，散户投资者问题五花八门",
-          "desc": "IT之家 8 月 2 日消息，SpaceX 作为上市公司后的首次财报电话会议预计重点将围绕人工智能投入以及旗下星链卫星通信网络带来的利润展开，但许多散户投资者显然更关心其他话题。效仿埃隆 · 马斯克旗下另一家企业特斯拉的做法，新近上市的火箭制造商 SpaceX 已经开设了一个在线投资者提问平台，让股东可以在财报电话会议召开前提交问题。用户还能对问题进行投票，最终形成一份按照受欢迎程度排序的问题列表",
-          "source": "IT之家",
+          "id": "b1a8dfba8130",
+          "title": "谷歌机器人整了波大活儿，要攻克「最后几厘米」的行业难题？",
+          "desc": "谷歌通用机器人模型有什么不一样？",
+          "source": "36氪",
           "date": "2026-08-02",
           "dateLabel": "8月2日",
           "tags": [
-            "business"
+            "research"
           ],
-          "url": "https://www.ithome.com/0/984/706.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/84228476-d0b4-47a1-ad15-3fac545661e9.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
+          "url": "https://36kr.com/p/3921809960425350",
+          "image": "https://img.36krcdn.com/hsossms/20260802/v2_f9d4c50501434162a2289106d111a13a@1547419282_oswg708214oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+          "color": "#2563eb"
         }
       ]
     },
@@ -126,104 +249,6 @@
       "dateLabel": "8月1日",
       "id": "d01",
       "items": [
-        {
-          "id": "5aed9af9c9e6",
-          "title": "刚刚，OpenAI全新模型Astra曝光！",
-          "desc": "AI圈又要过年了",
-          "source": "36氪",
-          "date": "2026-08-01",
-          "dateLabel": "8月1日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3920424297852291",
-          "image": "https://img.36krcdn.com/hsossms/20260801/v2_d60d38209a1248a99f520960649e8550@5667365@ai_oswg1016622oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "97d4dbbff2bb",
-          "title": "三天、十八场对谈、一个问题：ChinaJoy还只是游戏展吗？",
-          "desc": "时代在变",
-          "source": "36氪",
-          "date": "2026-08-01",
-          "dateLabel": "8月1日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3920595518533250",
-          "image": "https://img.36krcdn.com/hsossms/20260801/v2_c4afd997c75c4a7aaf20cd9a99451f92@000000_oswg117741oswg1279oswg544_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "bc7f9f79f0c7",
-          "title": "AI大厂，打起了“Token 奶茶大战”",
-          "desc": "模型越来越“像”，得留存者得天下",
-          "source": "36氪",
-          "date": "2026-08-01",
-          "dateLabel": "8月1日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3920563948852870",
-          "image": "https://img.36krcdn.com/hsossms/20260801/v2_c54d4aada4734354a207861006d81a88@000000_oswg57270oswg940oswg399_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "8ba13a86d546",
-          "title": "突发，谷歌地球紧急撤回Nano Banana 2生图功能",
-          "desc": "谷歌地球集成AI生成模型Nano Banana 2，被玩坏后紧急撤回整改。",
-          "source": "36氪",
-          "date": "2026-08-01",
-          "dateLabel": "8月1日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3920424012852617",
-          "image": "https://img.36krcdn.com/hsossms/20260801/v2_c839553c8ea54c04b45ab431603b46fb@000000_oswg160339oswg1280oswg544_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "fe689cd5cafd",
-          "title": "奥特曼承认：高估了AI抢饭碗！黄仁勋：失业论完全搞反了",
-          "desc": "奥特曼黄仁勋为AI失业论刹车，责任才是人类职场护城河",
-          "source": "36氪",
-          "date": "2026-08-01",
-          "dateLabel": "8月1日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3920419961007492",
-          "image": "https://img.36krcdn.com/hsossms/20260801/v2_a3b9c49607e64e23a84ce77d5457ef8a@000000_oswg81838oswg1080oswg459_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "6879e5f06b45",
-          "title": "AI来了，大厂中层不好混了",
-          "desc": "“听话跟着走”不灵了。",
-          "source": "36氪",
-          "date": "2026-08-01",
-          "dateLabel": "8月1日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3920274115866249",
-          "image": "https://img.36krcdn.com/hsossms/20260801/v2_87819c066c824c978ddaa452c16133bf@000000@ai_oswg332981oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "773c2e16d9c7",
-          "title": "「天线宝宝」机器人上门做保洁，200元/小时，纯·人工·智能",
-          "desc": "具身智能的τ（bushi）",
-          "source": "量子位",
-          "date": "2026-08-01",
-          "dateLabel": "8月1日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://www.qbitai.com/2026/08/464781.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
         {
           "id": "9d993bdd0601",
           "title": "获奖之后，王虹最想感谢的人",
@@ -235,6 +260,62 @@
             "business"
           ],
           "url": "https://www.qbitai.com/2026/08/464761.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "17c709f6de73",
+          "title": "奥特曼也逃不过刷TikTok上瘾，Sora背后最抓马的一段来了",
+          "desc": "狂刷3小时！",
+          "source": "量子位",
+          "date": "2026-08-01",
+          "dateLabel": "8月1日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://www.qbitai.com/2026/08/464713.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "5870177c945c",
+          "title": "OpenAI前员工刚跑路就喊话：要套现就赶紧套，别等IPO！",
+          "desc": "对前沿实验室估值悲观",
+          "source": "量子位",
+          "date": "2026-08-01",
+          "dateLabel": "8月1日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/08/464693.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "b5f615ba2261",
+          "title": "李飞飞World Labs收购SceniX，物理AI训练正从“采数据”走向“造世界”",
+          "desc": "下一场竞争，是谁能造出更多“有用的世界”",
+          "source": "量子位",
+          "date": "2026-08-01",
+          "dateLabel": "8月1日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.qbitai.com/2026/08/464532.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "31736f764c20",
+          "title": "黄仁勋：不玩𝕏是我太内向，现在为AI必须站出来",
+          "desc": "三本教科书，救活英伟达",
+          "source": "量子位",
+          "date": "2026-08-01",
+          "dateLabel": "8月1日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/08/464452.html",
           "image": "",
           "color": "#7c3aed"
         }
@@ -3403,128 +3484,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-06-30",
-      "dateLabel": "6月30日",
-      "id": "d30",
-      "items": [
-        {
-          "id": "a82ed1bfb6df",
-          "title": "复旦邱锡鹏团队提出「上下文世界建模」：无需微调，VLA即可适应新环境",
-          "desc": "解决视觉-语言-动作（VLA）“难泛化”问题",
-          "source": "36氪",
-          "date": "2026-06-30",
-          "dateLabel": "6月30日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3875506217152776",
-          "image": "https://img.36krcdn.com/hsossms/20260630/v2_51202820a04b46c5a5ee3346dd85ef99@000000@ai_oswg256543oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "b4208ae9e791",
-          "title": "估值200亿，中国最像特斯拉机器人的公司浮出水面",
-          "desc": "做下一个特斯拉机器人，能成吗？",
-          "source": "36氪",
-          "date": "2026-06-30",
-          "dateLabel": "6月30日",
-          "tags": [
-            "research",
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3875611295461380",
-          "image": "https://img.36krcdn.com/hsossms/20260630/v2_2c7980a9c49b472c8e9c55fe0d5cb046@5888275@ai_oswg1036733oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "012afece481e",
-          "title": "软件没被AI杀死，但全球市场都卷上天了",
-          "desc": "AI会写代码之后，软件真的一无是处了吗？",
-          "source": "36氪",
-          "date": "2026-06-30",
-          "dateLabel": "6月30日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3875608297091337",
-          "image": "https://img.36krcdn.com/hsossms/20260630/v2_f18be084fa99472c92c3a2a226178dba@5888275@ai_oswg950940oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "0c46578eed7a",
-          "title": "一天暴跌40%，AI新股，成了港股最狠“镰刀”",
-          "desc": "AI狂欢，散户买单",
-          "source": "36氪",
-          "date": "2026-06-30",
-          "dateLabel": "6月30日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3875608200704258",
-          "image": "https://img.36krcdn.com/hsossms/20260630/v2_b8bed93c6c854e84b7ba634f35e6780e@5888275@ai_oswg1075854oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "7beec160fee9",
-          "title": "Codex，1 个月吃掉 150GB 流量，写满 4T 硬盘，疯了吗？",
-          "desc": "AI 编程工具每升级一代就重一圈。",
-          "source": "36氪",
-          "date": "2026-06-30",
-          "dateLabel": "6月30日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3875602504822789",
-          "image": "https://img.36krcdn.com/hsossms/20260630/v2_d11f4688a3b54bf88d2f1d61c13c086f@5888275@ai_oswg1057546oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "7bb7259074c5",
-          "title": "Bonus深度｜米良川离职：揭秘小鹏机器人前代“铁三角”核心班底的出走",
-          "desc": "郑存远、施晓鑫和米良川相继选择离开背后。",
-          "source": "36氪",
-          "date": "2026-06-30",
-          "dateLabel": "6月30日",
-          "tags": [
-            "research",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3875691543179267",
-          "image": "https://img.36krcdn.com/hsossms/20260630/v2_ac577fd4db7a4570aa8afca60d3ec7a2@5509299_oswg265276oswg600oswg400_img_png",
-          "color": "#2563eb"
-        },
-        {
-          "id": "a5a223778945",
-          "title": "AI失业潮下的生存法则：裁员名单背后的认知差",
-          "desc": "打工人可能不是输给了技术，而是输给了自己的“勤奋”",
-          "source": "36氪",
-          "date": "2026-06-30",
-          "dateLabel": "6月30日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3875527619490051",
-          "image": "https://img.36krcdn.com/hsossms/20260630/v2_553a8d374e324ea3a632a2409a6cd631@5888275@ai_oswg922453oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "b4f572ea5541",
-          "title": "你天天用的Claude和Codex，Meta内部不让随便用了",
-          "desc": "你每天用Codex、Claude Code写代码，从没想过一个问题：这份聪明，到底算谁的？",
-          "source": "36氪",
-          "date": "2026-06-30",
-          "dateLabel": "6月30日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://36kr.com/p/3875518006849537",
-          "image": "https://img.36krcdn.com/hsossms/20260630/v2_f09e76bfb92142f495df1c1179210e0a@5888275@ai_oswg1056634oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -3550,6 +3509,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-08-02 13:25",
-  "totalNews": 228
+  "updateTime": "2026-08-03 13:40",
+  "totalNews": 225
 }
