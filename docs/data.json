@@ -1,122 +1,252 @@
 {
   "newsData": [
     {
+      "date": "2026-08-05",
+      "dateLabel": "8月5日",
+      "id": "d05",
+      "items": [
+        {
+          "id": "f0258fc0e620",
+          "title": "SpaceX 上市后首次财报会：马斯克抛宏大目标，高管谨慎修正",
+          "desc": "IT之家 8 月 5 日消息，在 SpaceX 上市后的首次财报电话会议上，埃隆 · 马斯克描绘了大量宏大愿景，而公司的其他高管则不断尝试让这些说法更加务实、贴近现实。这场会议也预示着，这家火箭发射、算力租赁和卫星通信公司上市后，投资者可能会经常看到类似的场景。这场于当地时间周二举行的电话会议，延续了马斯克多年来的一贯风格：他负责抛出大胆甚至夸张的目标，而其他高管则负责将这些愿景包装成投资者更容易",
+          "source": "IT之家",
+          "date": "2026-08-05",
+          "dateLabel": "8月5日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/985/897.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/50cd1862-4a43-41b3-9521-352125392fde.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "34650e50e81f",
+          "title": "支付巨头 Visa 以 24 亿美元收购以色列 AI 防诈公司 BioCatch，旨在提升账号风险检测能力",
+          "desc": "IT之家 8 月 5 日消息，支付巨头 Visa 宣布将以 24 亿美元（IT之家注：现汇率约合 162.31 亿元人民币）现金收购以色列人工智能金融防诈公司 BioCatch，借助其行为分析与设备情报技术，进一步提升账户盗用、金融诈骗、人头账户以及虚假开户申请等风险检测能力。Visa 披露，目前相应交易正在获得监管机构批准，预计将在 Visa 2027 财年第二季度结束前完成，也就是 2027 ",
+          "source": "IT之家",
+          "date": "2026-08-05",
+          "dateLabel": "8月5日",
+          "tags": [
+            "policy"
+          ],
+          "url": "https://www.ithome.com/0/985/894.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/308cdd77-619a-4b84-8ea4-5e939d295b45.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "ad2a7a59c8a7",
+          "title": "微软回应“Office 升级广告横幅”事件：有意如此设计",
+          "desc": "IT之家 8 月 5 日消息，科技媒体 Windows Latest 今天（8 月 5 日）发布博文，报道称微软回应“Office 升级广告横幅”事件，表示这是有意如此设计（it is basically by design）。IT之家此前报道，微软近期开始在 Word、Excel、PowerPoint 等 Office 应用中展示持续性的套餐升级提示，即使已经购买有效订阅，仍无法关闭这些升级广告",
+          "source": "IT之家",
+          "date": "2026-08-05",
+          "dateLabel": "8月5日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/985/892.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/bdd29026-e118-4e4d-abf6-870b12c4dec5.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "cb15a75ad488",
+          "title": "字节跳动 SeedRealtime 音视频全双工大模型发布：支持边看、边听、边说，已上线豆包",
+          "desc": "IT之家 8 月 5 日消息，字节跳动 Seed 今日宣布推出原生音视频全双工大模型 SeedRealtime，走向全模态自然交互。SeedRealtime 用统一架构原生融合音频、视频与文本，能在连续的多模态信息流上实时交互，带来“边看、边听、边说”的全新体验。它实现了以下三项核心突破：音视频联合理解：原生支持声音、画面与时序信息的深度融合。模型既能结合场景消解同音词歧义，也能准确理解视觉中的时",
+          "source": "IT之家",
+          "date": "2026-08-05",
+          "dateLabel": "8月5日",
+          "tags": [
+            "model",
+            "research",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/985/891.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/981ba448-d4ea-4c0e-b365-244ef571e4f6.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "80fd7c58bf47",
+          "title": "消息称微软全面改革员工绩效考核体系，将停用同事互评工具",
+          "desc": "IT之家 8 月 5 日消息，据 Business Insider 查阅的一份微软内部通知显示，微软正在调整员工绩效评估体系，并将停用一款用于同事互评的反馈工具。据IT之家了解，这款名为 Perspectives 的工具允许员工主动邀请同事对自己的工作表现提出评价，反馈内容可供员工本人及其直属经理查看。微软自 2018 年起一直使用这一工具。内部通知写道：“Perspectives 工具即将停用。",
+          "source": "IT之家",
+          "date": "2026-08-05",
+          "dateLabel": "8月5日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.ithome.com/0/985/888.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2025/12/0a1271c1-d078-45c8-a2c7-ce93a08a56ea.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "df999c06f173",
+          "title": "最强多模态内容审核开源 AI 模型：Mistral 推出 Shieldstral，单张 16GB GPU 可运行",
+          "desc": "IT之家 8 月 5 日消息，Mistral AI 昨日（8 月 4 日）发布公告，宣布推出 Shieldstral 内容审核 AI 模型，总参数量为 3B（30 亿），采用开放权重，依据 Apache 2.0 许可证发布。模型已上线 Hugging Face 平台，支持 12 种语言，可在单张 16GB GPU 上运行。Mistral 表示该模型在内容安全方面，性能媲美 7 倍规模的开放模型，并",
+          "source": "IT之家",
+          "date": "2026-08-05",
+          "dateLabel": "8月5日",
+          "tags": [
+            "model",
+            "research",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/985/886.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/902eaf3f-8b33-4f5a-b20e-fc1a51ad2f65.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "56e2f9b01f86",
+          "title": "利民推出 PV360 ARGB V2 液冷：3.95\" 480p 60Hz 方屏，499 元起",
+          "desc": "IT之家 8 月 5 日消息，Thermalright（利民 / 索摩乐）现已在电商平台上架“无双视界”系列处理器一体式 (AIO) 液冷散热器新品 Peerless Vision 360 ARGB V2。这一简称 PV360 ARGB V2 的产品提供黑色与白色两种选项，到手价分别为 499 元和 509 元。PV360 ARGB V2 冷头配备磁吸固定显示模块，搭载一块 3.95\" 480×4",
+          "source": "IT之家",
+          "date": "2026-08-05",
+          "dateLabel": "8月5日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/985/881.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/fa546e29-fc86-42b2-afe5-0f2dbd7cb37d.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "f8abe0e105e7",
+          "title": "浏览器选择联盟抨击微软：利用 Win10/Win11 影响力，限制用户选择非 Edge 浏览器",
+          "desc": "IT之家 8 月 5 日消息，浏览器选择联盟今天（8 月 5 日）通过科技媒体 Windows Latest 发布声明，指控微软公司限制用户选择，并强迫用户使用 Microsoft Edge 和 Bing 等自家产品。微软于 7 月 29 日发布 2026 财年（2025 年 7 月 1 日～2026 年 6 月 30 日）年报及第四财季（2026 年 4 月 1 日～2026 年 6 月 30 ",
+          "source": "IT之家",
+          "date": "2026-08-05",
+          "dateLabel": "8月5日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/985/880.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/3a3f6f0d-483a-41ac-b682-9d3ab511bdd0.jpg",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-08-04",
       "dateLabel": "8月4日",
       "id": "d04",
       "items": [
         {
-          "id": "893aafbd8e87",
-          "title": "欧美第一短剧公司猛投AI剧，付费率持平真人剧？",
-          "desc": "My Muse身份转变：从测试平台到增长引擎",
-          "source": "36氪",
+          "id": "3d2cc78ad08f",
+          "title": "开源版Claude Science来了！零依赖、MIT协议，内置30+项科研Skills",
+          "desc": "北京大学&元空AI Agent联合实验室",
+          "source": "量子位",
+          "date": "2026-08-04",
+          "dateLabel": "8月4日",
+          "tags": [
+            "model",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/08/466386.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "1a0ec5443c23",
+          "title": "数学家24小时驳回OpenAI攻破的猜想！“AI证对了每句话，但已跟原猜想无关”",
+          "desc": "第二天，就有一篇人类论文回应：AI提出的反例不成立",
+          "source": "量子位",
+          "date": "2026-08-04",
+          "dateLabel": "8月4日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.qbitai.com/2026/08/465792.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "5b86cf6ad1a6",
+          "title": "开发者苦 “造轮子” 久矣，HarmonyOS 7 正在抹平系统能力的接入鸿沟",
+          "desc": "Skill和Agent也能被封装调用",
+          "source": "量子位",
           "date": "2026-08-04",
           "dateLabel": "8月4日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3924540704298626",
-          "image": "https://img.36krcdn.com/hsossms/20260804/v2_b495f0e1f1a5494fb98cea241f9a335a@1743780481@ai_oswg907052oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
+          "url": "https://www.qbitai.com/2026/08/466262.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "5052f5efc1b0",
-          "title": "3分钟出餐、30秒一杯咖啡：AI大厨正在接管你的餐桌",
-          "desc": "2026年AI全面渗透餐饮业，开启行业新变革。",
-          "source": "36氪",
+          "id": "e53320725303",
+          "title": "OpenAI天价网红公关活动，捅马蜂窝了",
+          "desc": "OpenAI+田园牧歌，画风属实太违和",
+          "source": "量子位",
           "date": "2026-08-04",
           "dateLabel": "8月4日",
           "tags": [
             "business"
           ],
-          "url": "https://36kr.com/p/3923975475566209",
-          "image": "https://img.36krcdn.com/hsossms/20260804/v2_b2c7e53fb5244fb7b956a6cc0ee63b6c@1743780481@ai_oswg1012870oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
+          "url": "https://www.qbitai.com/2026/08/466032.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "3b4ab4867ef3",
-          "title": "宇树上市，融资补“脑”",
-          "desc": "市场对宇树的预期是英伟达，但现在的它还只是戴尔。",
-          "source": "36氪",
+          "id": "27720d35e585",
+          "title": "腾讯混元Hy ASR 3.0 preview：让语音识别理解上下文",
+          "desc": "元宝已接入",
+          "source": "量子位",
           "date": "2026-08-04",
           "dateLabel": "8月4日",
           "tags": [
-            "business"
+            "business",
+            "cn"
           ],
-          "url": "https://36kr.com/p/3924518036756359",
-          "image": "https://img.36krcdn.com/hsossms/20260804/v2_0d58d9996cbc4c0eb5f36418ac8e7c92@1743780481@ai_oswg951485oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
+          "url": "https://www.qbitai.com/2026/08/465973.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "4a31180bed22",
-          "title": "一位资深 Builder的自述：我如何借多 Agent 开发工作流，一周做出 MVP、一个月上线",
-          "desc": "“99% 的 AI + 1%的方向”。",
-          "source": "36氪",
-          "date": "2026-08-04",
-          "dateLabel": "8月4日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3924596792162691",
-          "image": "https://img.36krcdn.com/hsossms/20260804/v2_a4b8bf5bf74043b59063b7fe6a4224f0@000000@ai_oswg323333oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "8e2492a97a04",
-          "title": "AI越狱、硅谷慌了，人类到底在害怕什么？",
-          "desc": "失控的代价",
-          "source": "36氪",
-          "date": "2026-08-04",
-          "dateLabel": "8月4日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3924622478415746",
-          "image": "https://img.36krcdn.com/hsossms/20260804/v2_769e470782d548059632dda06d1c5c99@1743780481@ai_oswg934397oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "ba3c46a7630e",
-          "title": "Google 把「地球」玩坏了，硬塞 AI 不到两天就翻车",
-          "desc": "奇怪，地图上出现了不存在的东西",
-          "source": "36氪",
-          "date": "2026-08-04",
-          "dateLabel": "8月4日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3924673617918338",
-          "image": "https://img.36krcdn.com/hsossms/20260804/v2_bebf0993a716498aa05b039b33d21fce@1743780481@ai_oswg818873oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "c625776dd1d5",
-          "title": "00后辍学做AI芯片，估值223亿元",
-          "desc": "累计融资近40亿元。",
-          "source": "36氪",
-          "date": "2026-08-04",
-          "dateLabel": "8月4日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3924688317692295",
-          "image": "https://img.36krcdn.com/hsossms/20260804/v2_bd8b073f500245d88d86e8da4a5af60d@1743780481@ai_oswg1036576oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "ffac3bbc8bf3",
-          "title": "从免费学术搜索工具到顶尖大模型公司，智谱公司瞄准山顶",
-          "desc": "从免费学术搜索工具到顶尖大模型公司，智谱公司瞄准山顶",
-          "source": "36氪",
+          "id": "67285d931f13",
+          "title": "DeepSeek低价风暴打服硅谷！海外平台争相倒贴V4 Flash",
+          "desc": "那还说啥了梁圣，我订阅费全给你就是了呗",
+          "source": "量子位",
           "date": "2026-08-04",
           "dateLabel": "8月4日",
           "tags": [
             "model",
             "cn"
           ],
-          "url": "https://36kr.com/p/3924625732221059",
-          "image": "https://img.36krcdn.com/hsossms/20260804/v2_a4722f2b8084407486228e90bca12701@1743780481@ai_oswg1018381oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
+          "url": "https://www.qbitai.com/2026/08/465814.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "11a715619c4b",
+          "title": "资本重仓端侧物理AI：前海母基金数亿元押注，Om AI联汇加速端侧AI商业化落地",
+          "desc": "资本重仓端侧物理AI：前海母基金数亿元押注，Om AI联汇加速端侧AI商业化落地",
+          "source": "量子位",
+          "date": "2026-08-04",
+          "dateLabel": "8月4日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/08/465785.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "dcfd8e2e2ea1",
+          "title": "激流：中国科技投资的势能与锚点｜甲子引力X",
+          "desc": "8月，中国科技产业智库甲子光年将在北京举办“激流——2026甲子引力X科技产业投资大会”，共同探讨中国科技投资的新变化与新答案。",
+          "source": "量子位",
+          "date": "2026-08-04",
+          "dateLabel": "8月4日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/08/465767.html",
+          "image": "",
+          "color": "#7c3aed"
         }
       ]
     },
@@ -126,120 +256,19 @@
       "id": "d03",
       "items": [
         {
-          "id": "9dcf5b2ba0e3",
-          "title": "又一国产模型重磅开源，有声视频编辑全球第一，16家芯片及平台首日适配",
-          "desc": "文图音视频一把抓。",
-          "source": "36氪",
+          "id": "a1fa34f45779",
+          "title": "这个新生图模型有点夯：4K直出的，国产的，开源的！",
+          "desc": "商汤预览了SenseNova U1.5 Lite",
+          "source": "量子位",
           "date": "2026-08-03",
           "dateLabel": "8月3日",
           "tags": [
             "business",
             "cn"
           ],
-          "url": "https://36kr.com/p/3923895999068550",
-          "image": "https://img.36krcdn.com/hsossms/20260803/v2_99701956b1c24bb9b6d6d9ae36474295@000000@ai_oswg243488oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "e98280cec1c2",
-          "title": "手绘图直接变海报，国产开源多模态模型把图片玩“活”了",
-          "desc": "正式版将在近期推出并开源。",
-          "source": "36氪",
-          "date": "2026-08-03",
-          "dateLabel": "8月3日",
-          "tags": [
-            "research",
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3923896040503431",
-          "image": "https://img.36krcdn.com/hsossms/20260803/v2_0c5b17122037404da21a68a0c4c3ff14@000000@ai_oswg271615oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "ecd932bf474a",
-          "title": "豆包输入法撕开语音口子，扒开科大讯飞外衣",
-          "desc": "语音之王，“老登”的困局",
-          "source": "36氪",
-          "date": "2026-08-03",
-          "dateLabel": "8月3日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3923732474182017",
-          "image": "https://img.36krcdn.com/hsossms/20260803/v2_dbe070ffbf6145bd8ba8f5d9da0e49c1@46958@ai_oswg760647oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "889ef9497385",
-          "title": "Anthropic 拒签与Meta双轨发声：美国AI产业在开放权重上的联合与分裂",
-          "desc": "Anthropic拒签另立。开放权重之争，本质是AI权力结构之争。",
-          "source": "36氪",
-          "date": "2026-08-03",
-          "dateLabel": "8月3日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3923744344971137",
-          "image": "https://img.36krcdn.com/hsossms/20260803/v2_7ebd8b2c4a7a4ede964f646d5bfb9ea0@46958@ai_oswg885200oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "6e5a22ca38b2",
-          "title": "Claude 焚书又“越狱”边界在哪？",
-          "desc": "AI数据饥渴蔓延到物理世界",
-          "source": "36氪",
-          "date": "2026-08-03",
-          "dateLabel": "8月3日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://36kr.com/p/3923744522074240",
-          "image": "https://img.36krcdn.com/hsossms/20260803/v2_35385a309ecc4a2fb15e479e0d2d5e35@46958@ai_oswg893865oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "6d55bb141a89",
-          "title": "具身智能挤满「修路人」，机器人还没普及，12270家服务商先打起来了",
-          "desc": "具身智能修路人，先迎来了淘汰赛。",
-          "source": "36氪",
-          "date": "2026-08-03",
-          "dateLabel": "8月3日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://36kr.com/p/3923585549031297",
-          "image": "https://img.36krcdn.com/hsossms/20260803/v2_c14b83738d8148d6a6c0948dd39f48d1@46958@ai_oswg719096oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "f9969f0ff502",
-          "title": "靠做“中间商”生意估值20亿美元，Liblib跑出了奇迹还是泡沫？",
-          "desc": "增长很快，质疑也从未停歇。",
-          "source": "36氪",
-          "date": "2026-08-03",
-          "dateLabel": "8月3日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3923706275690888",
-          "image": "https://img.36krcdn.com/hsossms/20260803/v2_ebfff31306c747b9bc8bf4d4280f9f5b@000000@ai_oswg236107oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "60ed735fa6d3",
-          "title": "无人再议AI六小龙",
-          "desc": "上市并非终局，只是获得了更大的燃料池",
-          "source": "36氪",
-          "date": "2026-08-03",
-          "dateLabel": "8月3日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3923656696190849",
-          "image": "https://img.36krcdn.com/hsossms/20260803/v2_948b8681564848949d06449209934e15@46958@ai_oswg935593oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
+          "url": "https://www.qbitai.com/2026/08/465673.html",
+          "image": "",
+          "color": "#7c3aed"
         }
       ]
     },
@@ -3359,125 +3388,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-07-02",
-      "dateLabel": "7月2日",
-      "id": "d02",
-      "items": [
-        {
-          "id": "60612c951277",
-          "title": "“白月光”回归秒变“吞金兽”？Claude Fable 5限时限额，口碑两极分化",
-          "desc": "额度受限，风控升级，后续使用需单独付费。",
-          "source": "36氪",
-          "date": "2026-07-02",
-          "dateLabel": "7月2日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://36kr.com/p/3878491529163012",
-          "image": "https://img.36krcdn.com/hsossms/20260702/v2_5e13b630bb3140418a2a5aca96705c42@000000@ai_oswg346800oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "a95ef4179164",
-          "title": "谷歌教育 AI 迎来新一轮更新：教师工具升级，学生学习功能同步扩展",
-          "desc": "从备课到阅读辅导，谷歌教育 AI 集中更新多项教师与学生工具。",
-          "source": "36氪",
-          "date": "2026-07-02",
-          "dateLabel": "7月2日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3878528447951113",
-          "image": "https://img.36krcdn.com/hsossms/20260703/v2_f2fbf4200e554f11878f651621d4b5e5@1743780481@ai_oswg1073366oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "7278e452c3e8",
-          "title": "全球Agent都在卷的「Loop工程」：AI自己干活、监工和返工",
-          "desc": "杀死比赛。",
-          "source": "36氪",
-          "date": "2026-07-02",
-          "dateLabel": "7月2日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3878518284565125",
-          "image": "https://img.36krcdn.com/hsossms/20260702/v2_d44177354daf4246b8b9d00b07bbe27e@1743780481@ai_oswg1030406oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "7650343eb7c5",
-          "title": "巨头接踵入场，具身智能大战开打",
-          "desc": "高价值数据成为胜负手",
-          "source": "36氪",
-          "date": "2026-07-02",
-          "dateLabel": "7月2日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://36kr.com/p/3878315095470083",
-          "image": "https://img.36krcdn.com/hsossms/20260702/v2_5e0f21cf082d4855be6e59bd35a5604f@5888275@ai_oswg1018566oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "132aa977b283",
-          "title": "AI产业链冰与火：上游吃撑，下游亏麻",
-          "desc": "AI的钱被谁赚走了？",
-          "source": "36氪",
-          "date": "2026-07-02",
-          "dateLabel": "7月2日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3878351697408258",
-          "image": "https://img.36krcdn.com/hsossms/20260702/v2_802576175971472cbcc39678734449e6@5888275@ai_oswg1101782oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "fee7e1611e6f",
-          "title": "雷军押注“机器人指尖”，不到15克身价已过亿",
-          "desc": "机器人进化成老师傅的第一步",
-          "source": "36氪",
-          "date": "2026-07-02",
-          "dateLabel": "7月2日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://36kr.com/p/3878332349840256",
-          "image": "https://img.36krcdn.com/hsossms/20260702/v2_1d0aaa8206a34bf898395ea576eef912@5888275@ai_oswg864209oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "1d7fc1da3829",
-          "title": "Fable 5解禁即翻车，写一行代码就降智，开发者破防",
-          "desc": "消失19天，Fable 5解禁即翻车！写代码频遭强制降智，魔幻双标气疯开发者。面对离谱的过度审查，这位戴着镣铐的「天才程序员」还值得用吗？",
-          "source": "36氪",
-          "date": "2026-07-02",
-          "dateLabel": "7月2日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3878350636494848",
-          "image": "https://img.36krcdn.com/hsossms/20260702/v2_0bafcde4848842ff93b7a0696b0753ea@5888275@ai_oswg1021893oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "601bf7c654d1",
-          "title": "Harvey：一家估值110亿美元的AI公司，正在重新定义全球法律行业",
-          "desc": "为什么红杉连续三轮领投同一家公司？Harvey 的答案，不是一家 Legal AI，而是整个法律行业未来的 AI Operating System。",
-          "source": "36氪",
-          "date": "2026-07-02",
-          "dateLabel": "7月2日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3878393256276230",
-          "image": "https://img.36krcdn.com/hsossms/20260702/v2_dbce7b0fa4b2439cb43fab5738691e05@5888275@ai_oswg1105108oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -3503,6 +3413,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-08-04 13:13",
-  "totalNews": 225
+  "updateTime": "2026-08-05 13:13",
+  "totalNews": 218
 }
