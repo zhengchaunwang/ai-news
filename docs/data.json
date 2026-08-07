@@ -1,127 +1,179 @@
 {
   "newsData": [
     {
+      "date": "2026-08-07",
+      "dateLabel": "8月7日",
+      "id": "d07",
+      "items": [
+        {
+          "id": "f868e4f0448a",
+          "title": "蚂蚁集团开源Avernet，让人与智能体像组织一样高效协作",
+          "desc": "蚂蚁集团正式开源多智能体协作基础设施Avernet，社区版本已上线",
+          "source": "量子位",
+          "date": "2026-08-07",
+          "dateLabel": "8月7日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/08/467871.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "aea949963b15",
+          "title": "AI SSD：大模型推理的存储范式转移",
+          "desc": "算力、网络、内存与存储开始围绕每个Token协同",
+          "source": "量子位",
+          "date": "2026-08-07",
+          "dateLabel": "8月7日",
+          "tags": [
+            "model",
+            "research",
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/08/467840.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "fd17b76be7ac",
+          "title": "PPIO正式发布“Fusion融合模型”：用十分之一的价格超越顶级模型的智商",
+          "desc": "PPIO正式发布“Fusion融合模型”：用十分之一的价格超越顶级模型的智商",
+          "source": "量子位",
+          "date": "2026-08-07",
+          "dateLabel": "8月7日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/08/467834.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "f4279e800859",
+          "title": "智元下架了首席科学家罗剑岚",
+          "desc": "智元机器人高管生变！",
+          "source": "量子位",
+          "date": "2026-08-07",
+          "dateLabel": "8月7日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.qbitai.com/2026/08/467730.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "9006f1cfa2c7",
+          "title": "Show me《指环王》！卡帕西强推大模型评测新基准",
+          "desc": "指环王成为大模型新基准",
+          "source": "量子位",
+          "date": "2026-08-07",
+          "dateLabel": "8月7日",
+          "tags": [
+            "model",
+            "research"
+          ],
+          "url": "https://www.qbitai.com/2026/08/467663.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "d066c74b5aa5",
+          "title": "冲刺全球首个100万小时具身数据！三家国产公司，联手了",
+          "desc": "采集、仿真、训练和评测，闭环了",
+          "source": "量子位",
+          "date": "2026-08-07",
+          "dateLabel": "8月7日",
+          "tags": [
+            "research",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/08/467486.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "926973064001",
+          "title": "DeepSeek豪掷1.4亿护航宇树IPO，杭州绝代双骄战略合体",
+          "desc": "此后模型、算力、数据中心都在合作范围内",
+          "source": "量子位",
+          "date": "2026-08-07",
+          "dateLabel": "8月7日",
+          "tags": [
+            "model",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/08/467487.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "55d178339b69",
+          "title": "小鹏 MONA 研发负责人姜文：L03 供应链问题已逐步克服，8 月产能效率几乎翻倍",
+          "desc": "IT之家 8 月 7 日消息，小鹏 MONA 系列研发负责人姜文今日表示，这几天收到很多评论和私信，很多 MONA L03 的锁单用户催促交付，给所有已经锁单、正在等待交付的用户说声抱歉。姜文随后公布了 MONA L03 生产的最新进展：7 月处于小范围爬坡阶段近期受全球 AI 需求火热影响，高端制程芯片供货出现波动，对 8 月份的生产带来一定冲击，供应链问题已经逐步克服，目前已经切换为双班全力生",
+          "source": "IT之家",
+          "date": "2026-08-07",
+          "dateLabel": "8月7日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/986/928.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/34a6da25-96f0-4ce4-81b3-05f6bdceabf2.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-08-06",
       "dateLabel": "8月6日",
       "id": "d06",
       "items": [
         {
-          "id": "441b390f0407",
-          "title": "微软文件披露：公司 AI 业务收入主要来自 OpenAI",
-          "desc": "IT之家 8 月 6 日消息，微软最新披露的数据显示，其人工智能业务的大部分收入来自长期合作伙伴 OpenAI。微软在上周提交的一份文件中表示，截至今年 6 月结束的财年，公司来自 OpenAI 的收入达到 241 亿美元（IT之家注：现汇率约合 1,629.69 亿元人民币）。微软首席执行官萨蒂亚 · 纳德拉此前曾表示，截至今年 3 月底，公司人工智能业务的年化收入已达到 370 亿美元（现汇率",
-          "source": "IT之家",
+          "id": "a73b4efdef39",
+          "title": "美学升维，流畅突破：荣耀MagicOS11双架构重塑体验",
+          "desc": "正式公开了安卓液态玻璃设计的完整技术底座",
+          "source": "量子位",
           "date": "2026-08-06",
           "dateLabel": "8月6日",
           "tags": [
-            "business"
+            "research"
           ],
-          "url": "https://www.ithome.com/0/986/454.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2025/12/0a1271c1-d078-45c8-a2c7-ce93a08a56ea.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "13b37c4a346f",
-          "title": "阿里达摩院开放 15 项芯片与 AI 研究课题，启动“阿里星”顶尖人才招募",
-          "desc": "IT之家 8 月 6 日消息，阿里达摩院今日宣布了面向 2027 届毕业生的“阿里星”顶尖人才招募培养计划。达摩院今年已开放 15 项研究课题，涉及 AI 芯片、新型 CPU 架构、医疗多模态智能体、 AGI 决策等众多前沿探索。IT之家付具体课题如下：芯片方向AI 芯片编程模型设计实现为自研 AI 芯片打造全新编程语言和编译器工具链，不是简单的 \" 移植 LLVM 后端 \"，而是覆盖 DSL 设",
-          "source": "IT之家",
-          "date": "2026-08-06",
-          "dateLabel": "8月6日",
-          "tags": [
-            "research",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/0/986/434.htm",
+          "url": "https://www.qbitai.com/2026/08/467478.html",
           "image": "",
-          "color": "#d97706"
+          "color": "#7c3aed"
         },
         {
-          "id": "790b7e17f762",
-          "title": "消息称谷歌洽谈超 15 亿美元交易，拟吸纳 AI 编程初创公司 Mechanize 人才并获取技术授权",
-          "desc": "IT之家 8 月 6 日消息，谷歌希望自己的人工智能在编程领域表现得更好，而该公司可能找到了一条捷径。据 Business Insider 报道，四名知情人士透露，这家科技巨头最近几周一直在与旧金山初创公司 Mechanize 进行谈判，双方可能达成一项交易，内容包括谷歌聘用 Mechanize 的部分人才。其中一些知情人士表示，这笔交易的价值可能超过 15 亿美元（IT之家注：现汇率约合 101",
-          "source": "IT之家",
+          "id": "3111b469b88f",
+          "title": "没有人靠段子永载GitHub，除非谷歌姐夫",
+          "desc": "Jeff Dean用大脑挖比特币",
+          "source": "量子位",
           "date": "2026-08-06",
           "dateLabel": "8月6日",
           "tags": [
             "business"
           ],
-          "url": "https://www.ithome.com/0/986/413.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2025/9/2d16eb63-477a-41a8-9dd4-bfe3df5771fa.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "1a2ad2f863af",
-          "title": "消息称张一鸣内部下死命令：就算模型暂时落后，字节跳动也不会依赖 AI 蒸馏技术",
-          "desc": "IT之家 8 月 6 日消息，据 The Information 昨日（8 月 5 日）报道，字节跳动创始人张一鸣在上个月的 Seed 团队全体会议上明确表示，即使意味着暂时落后于竞争对手，公司也不会依赖 AI 蒸馏技术来改进其模型。IT之家注：“蒸馏”指的是利用更先进的前沿模型（通常由其他公司开发）的输出来训练 AI 模型。报道援引知情人士消息称，张一鸣的这一决定，很大程度上受到字节跳动与美国政",
-          "source": "IT之家",
-          "date": "2026-08-06",
-          "dateLabel": "8月6日",
-          "tags": [
-            "research",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/0/986/411.htm",
+          "url": "https://www.qbitai.com/2026/08/467447.html",
           "image": "",
-          "color": "#d97706"
+          "color": "#7c3aed"
         },
         {
-          "id": "19629b07605f",
-          "title": "海盗船收购 Trak Racer 资产，进军飞行模拟赛道",
-          "desc": "IT之家 8 月 6 日消息，CORSAIR（海盗船）当地时间 5 日宣布收购赛车与飞行模拟硬件企业 Trak Racer 的资产。海盗船此前已在模拟游戏设备领域拥有专攻赛车类别的 Fanatec，Trak Racer 的加入不仅使得海盗船正式进军飞行模拟赛道，还丰富了其在赛车领域的产品阵容。Fanatec 专注于打造逼真模拟器体验的电子设备，包括方向盘底座、方向盘、踏板和换挡器；Trak Rac",
-          "source": "IT之家",
-          "date": "2026-08-06",
-          "dateLabel": "8月6日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/986/409.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/cf50be89-167c-45f5-ade5-f354f947b19b.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "8ab5e6a560b6",
-          "title": "曝中创新航在 AION S“电池鼓包”风波后，内部紧急开展技术改革",
-          "desc": "IT之家 8 月 6 日消息，近期，广汽埃安 AION S 系列车型搭载的中创新航 177Ah 磷酸铁锂电池因批量鼓包变形，将中创新航推上舆论的“风口浪尖”。中创新航 7 月 18 日晚发布公告，称关注到搭载该公司电池的部分广汽埃安 AION S 车辆在特定工况下出现电池系统故障。车主如遇到电池系统故障，可直接到该公司服务网点享受免费检测，并根据检测结果按标准享受免费电池系统维修及维保专属服务。据",
-          "source": "IT之家",
-          "date": "2026-08-06",
-          "dateLabel": "8月6日",
-          "tags": [
-            "business",
-            "policy"
-          ],
-          "url": "https://www.ithome.com/0/986/395.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/871b6073-42e1-47d9-b7b1-2e2941b29000.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1",
-          "color": "#d97706"
-        },
-        {
-          "id": "becff341cecf",
-          "title": "消息称 iPhone 18 Pro / Ultra 量产遇挑战，苹果紧急抢购 DRAM 内存",
-          "desc": "IT之家 8 月 6 日消息，独立科技新闻记者高灿鸣（Tim Culpan）昨日（8 月 5 日）发布博文，报道称苹果公司为 iPhone 18 Pro 系列及其首款折叠手机（上市后预估名为 iPhone Ultra），紧急抢购 DRAM 内存芯片。IT之家查询公开资料，高灿鸣是一名资深科技独立记者，曾在彭博社工作 18 年，期间曾独家爆料多起重大科技行业内幕，并斩获多项新闻奖。他于 2024 年",
-          "source": "IT之家",
-          "date": "2026-08-06",
-          "dateLabel": "8月6日",
-          "tags": [
-            "model",
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/986/392.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/216f0a13-a545-4d1f-b628-155626a90e50.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "1db3113c6748",
-          "title": "百度入局 AI 办公：dodo 并入百度搭子，全面整合办公 Agent 业务",
-          "desc": "8 月 6 日上午消息，新浪科技获悉，百度已启动内部办公智能体 dodo 与百度搭子团队整合，dodo 相关研发人员、资源都将并入百度搭子，实现内外部办公智能体产品完全统一。这意味着，百度办公 Agent 业务将从多线推进改为集中作战，公司将整合优势资源全面入局 AI 办公赛道争夺。据悉，dodo 是百度内部使用的办公智能体，员工可以通过通讯软件如流、Web 端或客户端下达任务，让 dodo 整理",
-          "source": "IT之家",
+          "id": "5a1c2e0dcdf5",
+          "title": "Artificial Analysis榜单：阿里Qwen3.8Agentic能力得分全球第一",
+          "desc": "Artificial Analysis榜单：阿里Qwen3.8Agentic能力得分全球第一",
+          "source": "量子位",
           "date": "2026-08-06",
           "dateLabel": "8月6日",
           "tags": [
             "business",
             "cn"
           ],
-          "url": "https://www.ithome.com/0/986/390.htm",
+          "url": "https://www.qbitai.com/2026/08/467444.html",
           "image": "",
-          "color": "#d97706"
+          "color": "#7c3aed"
         }
       ]
     },
@@ -3365,27 +3417,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-07-04",
-      "dateLabel": "7月4日",
-      "id": "d04",
-      "items": [
-        {
-          "id": "2428c931b945",
-          "title": "光象科技累计完成数亿元天使轮融资，布局物理原生基座模型",
-          "desc": "光象科技累计完成数亿元天使轮融资，布局物理原生基座模型",
-          "source": "量子位",
-          "date": "2026-07-04",
-          "dateLabel": "7月4日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/07/442958.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -3411,6 +3442,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-08-06 13:15",
-  "totalNews": 218
+  "updateTime": "2026-08-07 12:24",
+  "totalNews": 220
 }
