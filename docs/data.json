@@ -1,10 +1,220 @@
 {
   "newsData": [
     {
+      "date": "2026-08-08",
+      "dateLabel": "8月8日",
+      "id": "d08",
+      "items": [
+        {
+          "id": "67d4287a960d",
+          "title": "影响约 245 款：戴尔公布 7 月 Win11 更新兼容事件受影响机型",
+          "desc": "IT之家 8 月 8 日消息，科技媒体 Windows Latest 昨日（8 月 7 日）发布博文，报道称戴尔公司最新公布了“7 月 Windows 11 更新兼容性”事件受影响清单，波及约 245 款戴尔设备。本次 Windows 11 更新兼容性事件，可以追溯到微软 6 月 23 日发布的 Windows 11 可选更新 KB5095093，并在 7 月 14 日发布的 KB5101650 ",
+          "source": "IT之家",
+          "date": "2026-08-08",
+          "dateLabel": "8月8日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/987/269.htm",
+          "image": "",
+          "color": "#d97706"
+        },
+        {
+          "id": "a0ce21b50810",
+          "title": "消息称英伟达拟向“星际之门”项目电力服务商 Lancium 投资至多 30 亿美元",
+          "desc": "IT之家 8 月 8 日消息，据 The Information 消息，英伟达拟向电力基础设施开发商 Lancium 投资至多 30 亿美元（现汇率约合 202.79 亿元人民币）。Lancium 是由黑石集团支持的电力基础设施企业，其位于得克萨斯州阿比林的“清洁园区”（Clean Campus）正是“星际之门”（Stargate）AI 超算数据中心项目首期所在地。“星际之门”是由软银、OpenA",
+          "source": "IT之家",
+          "date": "2026-08-08",
+          "dateLabel": "8月8日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/987/266.htm",
+          "image": "",
+          "color": "#d97706"
+        },
+        {
+          "id": "306073d283ec",
+          "title": "网友反馈 2022 年购买的《指环王》电影从片库消失，谷歌回应无法退款",
+          "desc": "IT之家 8 月 8 日消息，网友 u/ugoindownsaka1 在 Reddit 社区发帖，声称其于 2022 年从 Google Play 购买了《指环王》三部曲电影，但近期重温观看时发现相关片源已从其片库中消失。该网友在 Reddit 社区分享了他和谷歌的客服聊天记录，客服表示由于购买时间太久，超过了公司标准的 120 天退款期限，且系统无法追溯交易历史，因此无法退款。该用户随后询问，在",
+          "source": "IT之家",
+          "date": "2026-08-08",
+          "dateLabel": "8月8日",
+          "tags": [
+            "policy"
+          ],
+          "url": "https://www.ithome.com/0/987/265.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/275b8c12-8be6-449d-9cdd-29384bf99e96.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "783b9a160a2c",
+          "title": "内存占用约 35MB：网友 AI 自制开源工具，避免华硕 RTX 5080 和 5090 显卡烧熔",
+          "desc": "IT之家 8 月 8 日消息，科技媒体 NeoWin 昨日（8 月 7 日）发布博文，报道称网友在 AI 编程辅助下，针对华硕的 ROG Astral RTX 5090/5080 显卡，推出了一款开源工具，避免显卡出现过热烧熔情况。该开源工具名为 12VHPWR Guard，目前仅适用于华硕 ROG Astral RTX 5080 和 RTX 5090 显卡（主要原因是上述两张显卡配有传感器，可以",
+          "source": "IT之家",
+          "date": "2026-08-08",
+          "dateLabel": "8月8日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/987/262.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/666bff43-e7aa-423f-8bab-478f2fdf6f28.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "28b1f8233285",
+          "title": "发布 326 天，苹果 iOS 26 在 iPhone 11/iPad 9 等机型上迎来首次越狱",
+          "desc": "IT之家 8 月 8 日消息，科技媒体 MacRumors 今天（8 月 8 日）发布博文，在 iOS 26 系统正式发布 326 天（2025 年 9 月 15 日发布）后，终于迎来了首次越狱，不过仅限于搭载 A12/A13 芯片机型。开发者 Lars Fröder（又名 opa334）今天发布了 Dopamine 3.0，该版本新增支持多个固件版本，包括搭载 A12 或 A13 芯片的设备上的",
+          "source": "IT之家",
+          "date": "2026-08-08",
+          "dateLabel": "8月8日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/987/260.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/628ccbec-0614-4677-aaad-4a8374820205.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "786da2281977",
+          "title": "Claude Code v2.1.224 现支持 AI 跨会话消息传递",
+          "desc": "IT之家 8 月 8 日消息，Anthropic 旗下官方账号 @ClaudeDevs 今天（8 月 8 日）在 X 平台发布推文，宣布从 Claude Code v2.1.224 开始，会话之间可以互相发送消息。根据官方介绍，自该版本 Claude Code 开始，不同的会话可以互相发送消息，更新和其他相关信息，方便用户在多个会话中协同项目的各个部分。IT之家翻译官方文档介绍如下：跨会话消息传递",
+          "source": "IT之家",
+          "date": "2026-08-08",
+          "dateLabel": "8月8日",
+          "tags": [
+            "model",
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/987/256.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/cdd55efe-692c-4ef6-9452-2205d3c39502.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "ab1d06eb1a9c",
+          "title": "微软宣布 Edge 浏览器将逐步取消 Manifest V2 扩展程序支持，影响广告拦截工具 uBlock Origin 等",
+          "desc": "IT之家 8 月 8 日消息，当地时间 8 月 7 日，微软宣布，自 2026 年 8 月起，Edge 浏览器将启动面向普通消费者的过渡计划，逐步停止对 MV2 扩展的支持并全面转向 MV3。目标是在 2026 年底前完成面向普通用户的过渡，并于 2027 年初正式面向企业客户弃用 MV2。微软表示，Edge 浏览器的 Manifest Version 2（MV2）扩展程序正加速向 MV3 迁移，",
+          "source": "IT之家",
+          "date": "2026-08-08",
+          "dateLabel": "8月8日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/987/251.htm",
+          "image": "",
+          "color": "#d97706"
+        },
+        {
+          "id": "1b21b6c912e5",
+          "title": "Pro、Max 和 Team 用户 8 月 14 日起 Claude Code 默认权限调整为自动模式",
+          "desc": "IT之家 8 月 8 日消息，Anthropic 今天（8 月 8 日）发布公告，宣布将于 8 月 14 日开始，针对 Pro、Max 和 Team 订阅用户，调整 Claude Code 的默认权限模式为自动模式（Auto Mode）。IT之家援引博文介绍，自动模式是指 Claude Code 使用独立的 AI 分类器（classifier），实时评估每次工具调用和 Shell 命令，放行安全操",
+          "source": "IT之家",
+          "date": "2026-08-08",
+          "dateLabel": "8月8日",
+          "tags": [
+            "model",
+            "research",
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/987/249.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/61dcdc25-f8ba-4234-9555-07176348c05c.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-08-07",
       "dateLabel": "8月7日",
       "id": "d07",
       "items": [
+        {
+          "id": "415d1d5b1bb8",
+          "title": "阿里推出国内首个AI语音平台CosyVoice Studio，将语义理解融入语音能力",
+          "desc": "AI语音“听、说、创”一站式满足",
+          "source": "量子位",
+          "date": "2026-08-07",
+          "dateLabel": "8月7日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/08/468324.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "785292a85194",
+          "title": "AI批量轰炸苹果bug赏金计划，审核团队已下线",
+          "desc": "AI批量轰炸苹果bug赏金计划，审核团队已下线",
+          "source": "量子位",
+          "date": "2026-08-07",
+          "dateLabel": "8月7日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/08/466738.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "036085b288f7",
+          "title": "openJiuwen发布业界首个企业级智能体分布式蜂群架构，联合邮储成功落地金融生产环境",
+          "desc": "从「能用」走向「规模化落地」",
+          "source": "量子位",
+          "date": "2026-08-07",
+          "dateLabel": "8月7日",
+          "tags": [
+            "research",
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/08/468305.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "98730d98bdef",
+          "title": "AI圈功能狂卷，付费寥寥，Keep正在试一条新路",
+          "desc": "AI卷向运动赛道，Keep的新答卷能否跑通？",
+          "source": "量子位",
+          "date": "2026-08-07",
+          "dateLabel": "8月7日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/08/467878.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "ba858ab889dd",
+          "title": "阿里视频大模型Wan3.0开启公测：文档、ppt也能变视频",
+          "desc": "8月6日，阿里巴巴视频生成大模型Wan 3.0开启公测",
+          "source": "量子位",
+          "date": "2026-08-07",
+          "dateLabel": "8月7日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/08/467877.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "5071afa88e0d",
+          "title": "刚刚，ChatGPT免费版史诗升级！GPT-5.6可以无限白嫖了",
+          "desc": "Chat优化版",
+          "source": "量子位",
+          "date": "2026-08-07",
+          "dateLabel": "8月7日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://www.qbitai.com/2026/08/467879.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
         {
           "id": "f868e4f0448a",
           "title": "蚂蚁集团开源Avernet，让人与智能体像组织一样高效协作",
@@ -35,95 +245,6 @@
           "url": "https://www.qbitai.com/2026/08/467840.html",
           "image": "",
           "color": "#7c3aed"
-        },
-        {
-          "id": "fd17b76be7ac",
-          "title": "PPIO正式发布“Fusion融合模型”：用十分之一的价格超越顶级模型的智商",
-          "desc": "PPIO正式发布“Fusion融合模型”：用十分之一的价格超越顶级模型的智商",
-          "source": "量子位",
-          "date": "2026-08-07",
-          "dateLabel": "8月7日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/08/467834.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "f4279e800859",
-          "title": "智元下架了首席科学家罗剑岚",
-          "desc": "智元机器人高管生变！",
-          "source": "量子位",
-          "date": "2026-08-07",
-          "dateLabel": "8月7日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://www.qbitai.com/2026/08/467730.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "9006f1cfa2c7",
-          "title": "Show me《指环王》！卡帕西强推大模型评测新基准",
-          "desc": "指环王成为大模型新基准",
-          "source": "量子位",
-          "date": "2026-08-07",
-          "dateLabel": "8月7日",
-          "tags": [
-            "model",
-            "research"
-          ],
-          "url": "https://www.qbitai.com/2026/08/467663.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "d066c74b5aa5",
-          "title": "冲刺全球首个100万小时具身数据！三家国产公司，联手了",
-          "desc": "采集、仿真、训练和评测，闭环了",
-          "source": "量子位",
-          "date": "2026-08-07",
-          "dateLabel": "8月7日",
-          "tags": [
-            "research",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/08/467486.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "926973064001",
-          "title": "DeepSeek豪掷1.4亿护航宇树IPO，杭州绝代双骄战略合体",
-          "desc": "此后模型、算力、数据中心都在合作范围内",
-          "source": "量子位",
-          "date": "2026-08-07",
-          "dateLabel": "8月7日",
-          "tags": [
-            "model",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/08/467487.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "55d178339b69",
-          "title": "小鹏 MONA 研发负责人姜文：L03 供应链问题已逐步克服，8 月产能效率几乎翻倍",
-          "desc": "IT之家 8 月 7 日消息，小鹏 MONA 系列研发负责人姜文今日表示，这几天收到很多评论和私信，很多 MONA L03 的锁单用户催促交付，给所有已经锁单、正在等待交付的用户说声抱歉。姜文随后公布了 MONA L03 生产的最新进展：7 月处于小范围爬坡阶段近期受全球 AI 需求火热影响，高端制程芯片供货出现波动，对 8 月份的生产带来一定冲击，供应链问题已经逐步克服，目前已经切换为双班全力生",
-          "source": "IT之家",
-          "date": "2026-08-07",
-          "dateLabel": "8月7日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/0/986/928.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/34a6da25-96f0-4ce4-81b3-05f6bdceabf2.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
         }
       ]
     },
@@ -3339,84 +3460,6 @@
           "color": "#2563eb"
         }
       ]
-    },
-    {
-      "date": "2026-07-05",
-      "dateLabel": "7月5日",
-      "id": "d05",
-      "items": [
-        {
-          "id": "705c40d5b15f",
-          "title": "Meta也来卖铲子了！小扎：模型可以慢，GPU必须赚",
-          "desc": "正考虑推出Meta Compute",
-          "source": "量子位",
-          "date": "2026-07-05",
-          "dateLabel": "7月5日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/07/443339.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "465d7c700f89",
-          "title": "华为更新韬定律论文！",
-          "desc": "放弃的路线也说清楚了",
-          "source": "量子位",
-          "date": "2026-07-05",
-          "dateLabel": "7月5日",
-          "tags": [
-            "research",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/07/443186.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "cd86406d831a",
-          "title": "李飞飞署名具身新论文：Sim2Real烧不起，Real2Sim量大管饱",
-          "desc": "一段视频，生成无限训练场景",
-          "source": "量子位",
-          "date": "2026-07-05",
-          "dateLabel": "7月5日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://www.qbitai.com/2026/07/443066.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "f3babf298777",
-          "title": "刚刚，LeCun团队让世界模型学会持续学习！",
-          "desc": "迈向持续学习的世界模型",
-          "source": "量子位",
-          "date": "2026-07-05",
-          "dateLabel": "7月5日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/07/442964.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "b57a1f00965a",
-          "title": "别争了！香农老婆，才是世界上第一个大语言模型",
-          "desc": "70年前，香农就拥有了端侧私人定制大语言模型",
-          "source": "量子位",
-          "date": "2026-07-05",
-          "dateLabel": "7月5日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/07/443241.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -3442,6 +3485,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-08-07 12:24",
-  "totalNews": 220
+  "updateTime": "2026-08-08 11:23",
+  "totalNews": 223
 }
