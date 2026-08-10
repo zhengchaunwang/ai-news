@@ -1,123 +1,206 @@
 {
   "newsData": [
     {
+      "date": "2026-08-10",
+      "dateLabel": "8月10日",
+      "id": "d10",
+      "items": [
+        {
+          "id": "8b4a9975d114",
+          "title": "苹果开测长鑫存储！百度、千问也一起挤进苹果供应链",
+          "desc": "先解决这轮内存荒！",
+          "source": "量子位",
+          "date": "2026-08-10",
+          "dateLabel": "8月10日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/08/469475.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "ca856f0f0417",
+          "title": "墨芯成立稀疏计算产学研联盟，以生态协同突破产业化壁垒",
+          "desc": "墨芯成立稀疏计算产学研联盟，以生态协同突破产业化壁垒",
+          "source": "量子位",
+          "date": "2026-08-10",
+          "dateLabel": "8月10日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/08/469454.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "c6fb0c63c280",
+          "title": "魔幻灵巧手：半年200亿热钱，3大路线，贵到几十万一只",
+          "desc": "全球灵巧手企业约50%在中国，且绝大多数将筹码押在了「五指」上。\n\n需求、资本和创业者正在快速推动，但从技术成熟、规模化量产到商业落地，中间仍隔着巨大的工程鸿沟。",
+          "source": "量子位",
+          "date": "2026-08-10",
+          "dateLabel": "8月10日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/08/469213.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "3e13562f0c75",
+          "title": "3B模型碾压英伟达谷歌后，Om AI端侧原生VLX模型：小参数实现物理世界精准感知",
+          "desc": "从云计算到云原生，产业真正的跃迁从来不是简单堆算力，而是找到更适合新世界的架构。",
+          "source": "量子位",
+          "date": "2026-08-10",
+          "dateLabel": "8月10日",
+          "tags": [
+            "research",
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/08/469076.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "4bc181bebe4d",
+          "title": "iGame X870E VULCAN OC V14 火神主板体验：BIOS 重磅升级，X3D AI 超频突破性能上限",
+          "desc": "近日，IT之家拿到了七彩虹今年推出的全新 iGame X870E VULCAN OC V14 火神主板，作为针对 X3D 处理器而生的旗舰超频主板，它不仅在堆料上更加豪华，还加入了 X3D AI 超频技术，目的就是与友商的 APEX、钛冰雕系列超频旗舰主板展开正面竞争，提升火神系列主板的产品竞争力。根据官方消息，iGame X870E VULCAN OC V14 火神主板于 2026 年 1 月取",
+          "source": "IT之家",
+          "date": "2026-08-10",
+          "dateLabel": "8月10日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/987/781.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/737d898e-f486-4206-b108-8d1bce61fd07.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "c62d746872f7",
+          "title": "曝诺奖得主哈萨比斯曾有意离开谷歌母公司 Alphabet",
+          "desc": "IT之家 8 月 10 日消息，外媒 Pathfounders 当地时间 7 日报道称，2024 年诺贝尔化学奖得主 Demis Hassabis（戴米斯 · 哈萨比斯）在 Alphabet 近期人工智能领域高管大变动前曾有意离开这家企业。Alphabet 当地时间本月 5 日宣布哈萨比斯从 Google DeepMind 首席执行官转任董事长并兼任 Alphabet 首席科学家，原 Alphab",
+          "source": "IT之家",
+          "date": "2026-08-10",
+          "dateLabel": "8月10日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/987/775.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/7d27b0e9-86c8-4e61-b46d-2a742d52cb03.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "29ccdb6f2ce2",
+          "title": "中兴 TOPFLOW“直播神器”便携聚合网络设备发售：高通 X75 芯片、支持自插卡使用，2999 元起",
+          "desc": "IT之家 8 月 10 日消息，中兴 TOPFLOW“直播神器”便携聚合网络设备现已在京东发售，标准版定价为 2999 元，液冷版定价 3399 元。该产品主要面向移动直播、视频创作、户外办公等场景打造，用户在操作时，可以通过机身正面的 3.5 英寸大触控屏，直观地监控网络、网速、流量和电量等状态，并能一手完成 SIM 卡管理、温控调整及快速开机等设置。该产品核心优势在于“四网聚合”技术与 AI ",
+          "source": "IT之家",
+          "date": "2026-08-10",
+          "dateLabel": "8月10日",
+          "tags": [
+            "business",
+            "policy",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/987/734.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/4393a0c4-8d57-44e0-a329-8e35d1ed663c.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "3d2bb5df1fe8",
+          "title": "飞傲流媒体功放 AIR AMP 发售：搭 Ti TPA3255 功放芯片、ES9020Q 独立 DAC，1799 元",
+          "desc": "IT之家 8 月 10 日消息，飞傲宣布旗下流媒体功放 AIR AMP 现已在京东发售，提供黑银双色可选，定价为 1799 元。京东飞傲 AIR AMP 台式高清流媒体功率放大器 1799 元直达链接该产品整体尺寸为 207x188x42mm，主打“二合一”设计，号称“等于飞傲流媒体接收器 SR11 加上功放 LEVEL 1 的组合”，主要面向追求操作简单、占用空间小的用户，其整体使用基于 K11",
+          "source": "IT之家",
+          "date": "2026-08-10",
+          "dateLabel": "8月10日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/987/721.htm",
+          "image": "https://img14.360buyimg.com/pop/jfs/t1/500392/23/1908/32691/6a755a1bF7e2bb58c/00833e83e8b9850e.jpg",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-08-09",
       "dateLabel": "8月9日",
       "id": "d09",
       "items": [
         {
-          "id": "7baafee39229",
-          "title": "微软 Teams 会议软件 Live Chat 实时聊天功能将于 10 月 5 日停用",
-          "desc": "IT之家 8 月 9 日消息，微软宣布旗下 Teams 会议软件中的 Live Chat 实时聊天功能，此举是为了“将资源投入到更新的客户互动和沟通体验中”。根据微软官方文档，Teams Live Chat 将于 10 月 5 日正式停止服务，届时客户发送的消息将无法继续进入 Teams。微软已正式停止新用户配置该功能，并要求现有用户在服务关闭前从网站中移除聊天组件。服务终止后，仍未删除的聊天入口",
-          "source": "IT之家",
+          "id": "746d01c14908",
+          "title": "180万刀，连亚马逊都烧不起Claude了",
+          "desc": "Claude不是我说你，钱真不能这么花",
+          "source": "量子位",
           "date": "2026-08-09",
           "dateLabel": "8月9日",
           "tags": [
-            "business"
+            "model"
           ],
-          "url": "https://www.ithome.com/0/987/504.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/021fd4dc-bd82-4dbc-9c0e-cb03978b82ab.jpg",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/08/469010.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "5d08939f637f",
-          "title": "微软 Win11 天气应用内存占用达苹果 macOS 天气应用 5 倍，且内置广告",
-          "desc": "IT之家 8 月 9 日消息，据 Windows Latest 报道，Windows 11 自带的天气应用，本质上就是套着天气预报外壳的 MSN 广告软件。它占用的内存大约是 macOS 原生天气应用的 5 倍，却还要在用户已经付费购买的操作系统中展示广告。报道称，在没有点击或滚动浏览应用的情况下，Windows 11 自带的天气应用的内存占用竟然超过了 1.2GB。更让人意外的是，天气应用里还有",
-          "source": "IT之家",
+          "id": "ae2cd2acf369",
+          "title": "GPT-5.6和Fable联手，解决了一道悬了25年的数学难题",
+          "desc": "作者读博时就在研究，17年后被AI解开了",
+          "source": "量子位",
           "date": "2026-08-09",
           "dateLabel": "8月9日",
           "tags": [
-            "business"
+            "model",
+            "research"
           ],
-          "url": "https://www.ithome.com/0/987/503.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/0b3c2a81-30c1-4023-89b4-9fcc1184c095.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/08/468913.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "b8f2d13d6465",
-          "title": "苹果 macOS 平台 ClickFix 钓鱼攻击升级，黑客在网页端加入设备筛选功能精准“定位”受害者",
-          "desc": "IT之家 8 月 9 日消息，微软发文，披露近期有黑客针对 macOS 平台发起新一轮 ClickFix 攻击活动。黑客在恶意网站中加入服务器端设备识别能力，先识别访客使用的设备和浏览环境，再决定是否展示恶意内容。微软表示，黑客曾经会直接将恶意指令写入网页源代码，但如今他改变策略，改为先让网页执行一段 JavaScript 程序，收集访客的浏览器信息、硬件配置以及运行环境数据，再将这些信息发送至服",
-          "source": "IT之家",
-          "date": "2026-08-09",
-          "dateLabel": "8月9日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/987/500.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/cf64c5d7-c4a2-4dd8-807f-51f3f75dd504.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "e82d23313e46",
-          "title": "技嘉推出钛金雕 1600PG5 AI TOP 钛金电源：1600W 功率、搭全彩 LCD 屏",
-          "desc": "IT之家 8 月 9 日消息，技嘉科技宣布正式发布钛金雕 1600PG5 AI TOP 钛金电源（AP1600TM PG5 AI TOP），国行将于近期上市。该电源尺寸为 160x150x86mm，提供 1600W 额定功率与 80PLUS 钛金能效；支持 ATX 3.1 与 PCIe 5.1 规范，搭载全彩 LCD 监控屏，硬件运行状态直观可视。用户可直接通过电源查看整机功耗数据，搭配技嘉智能管",
-          "source": "IT之家",
-          "date": "2026-08-09",
-          "dateLabel": "8月9日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/987/498.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/87513435-d9cf-4905-b69c-72c6b8a06c7c.jpg",
-          "color": "#d97706"
-        },
-        {
-          "id": "bc34262ecbdb",
-          "title": "国家统计局：人工智能推动消费电子产品迭代升级，需求增加、价格上涨，平板电脑、计算机和移动电话机分别上涨 11.3%、5.5% 和 1.0%",
-          "desc": "IT之家 8 月 9 日消息，国家统计局今日公布数据，7 月份，受国际输入性因素影响，居民消费价格指数（CPI）环比下降 0.1%，同比上涨 0.5%，扣除食品和能源价格的核心 CPI 环比上涨 0.3%，同比上涨 0.9%，CPI 总体保持温和上涨。国家统计局数据显示，人工智能推动消费电子产品迭代升级，相关产品需求增加、价格上涨，平板电脑、计算机和移动电话机价格分别上涨 11.3%、5.5% 和",
-          "source": "IT之家",
+          "id": "24c13801a972",
+          "title": "当题库追不上模型，AI开始给自己出题：中国这支团队跑通了数据层RSI",
+          "desc": "AI参与创造下一代AI",
+          "source": "量子位",
           "date": "2026-08-09",
           "dateLabel": "8月9日",
           "tags": [
             "business",
             "cn"
           ],
-          "url": "https://www.ithome.com/0/987/497.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/9e83df74-2a69-4059-8202-8a011f185ed4.jpg?x-bce-process=image/watermark,text_QUnnlJ_miJA,type_RlpMYW5UaW5nSGVpU0JHQg==,size_28,color_ffffffdd,skw_1,skc_00000051,g_7,blr_50,bls_50,x_11,y_11/format,f_auto",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/08/468782.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "a7acfdbd23b8",
-          "title": "Meta CTO：AI 省下的时间，不是用来休假的",
-          "desc": "IT之家 8 月 9 日消息，AI 赋能的科技工作者生产力大幅提升后，是否应该获得更多休假时间？Meta 首席技术官 Andrew Bosworth 给出的答案是否定的。据 Business Insider 报道，三名参加这场会议的人士透露，Bosworth 在 7 月初举行的一场员工问答会上谈到了这一问题。一名 Meta 员工询问，AI 带来的生产力提升是否可以转化为更多的休假时间，尤其是重新恢",
-          "source": "IT之家",
+          "id": "598f21dbeda4",
+          "title": "Opus 5狂烧6.9亿token做游戏，GPT-5.6用5美元复刻了",
+          "desc": "据说GPT-5.6很适合拿来做游戏",
+          "source": "量子位",
+          "date": "2026-08-09",
+          "dateLabel": "8月9日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://www.qbitai.com/2026/08/468766.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "ae4a8bc0584d",
+          "title": "爆料：哈萨比斯原本要和Jeff Dean一起走！",
+          "desc": "谷歌缓兵之计把人留下",
+          "source": "量子位",
           "date": "2026-08-09",
           "dateLabel": "8月9日",
           "tags": [
             "business"
           ],
-          "url": "https://www.ithome.com/0/987/495.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/e170b918-e4e0-4d13-8760-97a971fed409.jpg",
-          "color": "#d97706"
-        },
-        {
-          "id": "b77da39412d0",
-          "title": "AI 浪潮催生高薪数据中心岗位，美国电工、安装工等需求大增",
-          "desc": "IT之家 8 月 9 日消息，Indeed 的一项最新研究显示，如今美国增长最快的一些科技岗位，已经不再局限于传统的软件开发人员，而是包括电工、安装工、维护人员以及负责建设 AI 数据中心的工程师。过去两年，美国数据中心相关职位的招聘信息数量增加了一倍以上，而同期美国整体招聘岗位数量却有所下降。如今，美国每 1,000 个招聘岗位中，就有约 6 个与数据中心有关，是 2023 年这一比例的 3 倍",
-          "source": "IT之家",
-          "date": "2026-08-09",
-          "dateLabel": "8月9日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://www.ithome.com/0/987/490.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/4/f0ab67e6-9e71-4d95-ac65-31fa692dae0a.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "37bc95689355",
-          "title": "消息称小米成立具身智能与应用部，前字节 Seed 具身负责人孔涛挂帅",
-          "desc": "IT之家 8 月 9 日消息，据“大厂青年”公众号 8 月 7 日消息，小米机器人事业部大调整：内部新成立具身智能与应用部，由前字节 Seed Robotics 具身智能负责人孔涛挂帅。按照调整方案，这个新部门已将陈龙的 VLA 团队、蔡锐的机器人具身部等一并收拢。此次调整后，小米整个具身赛道的各个业务方向，都归到了孔涛的管辖之下。文章称，孔涛（Jason kong）此前加入小米，主要负责机器人基",
-          "source": "IT之家",
-          "date": "2026-08-09",
-          "dateLabel": "8月9日",
-          "tags": [
-            "research",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/0/987/488.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/5dc06371-f103-41e3-bf2d-2c60532281a2.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/08/468715.html",
+          "image": "",
+          "color": "#7c3aed"
         }
       ]
     },
@@ -139,107 +222,6 @@
           "url": "https://www.qbitai.com/2026/08/468631.html",
           "image": "",
           "color": "#7c3aed"
-        },
-        {
-          "id": "23acd25db4ce",
-          "title": "中国NeoLab时刻：EverMind用3篇论文，交出全栈自进化首份答卷",
-          "desc": "海外团队纷纷下注，NeoLab浪潮狂飙",
-          "source": "量子位",
-          "date": "2026-08-08",
-          "dateLabel": "8月8日",
-          "tags": [
-            "research",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/08/468555.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "515fa16698ab",
-          "title": "Jeff Dean创业BP曝光，杨植麟也在上面！硅谷VC抢破头送钱",
-          "desc": "「我，Jeff Dean，打钱」",
-          "source": "量子位",
-          "date": "2026-08-08",
-          "dateLabel": "8月8日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/08/468498.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "35df3ace904c",
-          "title": "都学坏了！奥特曼亲手封锁最强模型Astra，重蹈Mythos覆辙",
-          "desc": "唉，赶紧整完快点发布吧。。。",
-          "source": "量子位",
-          "date": "2026-08-08",
-          "dateLabel": "8月8日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/08/468462.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "59753298e020",
-          "title": "谷歌急了：AI核心员工全给我搬回硅谷坐班！",
-          "desc": "再花15亿美元买现成AI编程团队",
-          "source": "量子位",
-          "date": "2026-08-08",
-          "dateLabel": "8月8日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/08/468398.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "1c11956c8142",
-          "title": "Kimi K3也失控了…学霸AI逃离沙箱只为找答案",
-          "desc": "啊，这真是个AI“失控”的夏天",
-          "source": "量子位",
-          "date": "2026-08-08",
-          "dateLabel": "8月8日",
-          "tags": [
-            "model",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/08/468338.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "00c269cfdbd8",
-          "title": "谷歌 Pixel 11 Pro 真机曝光，将于 8 月 13 日发布",
-          "desc": "IT之家 8 月 9 日消息，X 账号 @PixelNewsHub 曝光了一台装在包装盒中的谷歌 Pixel 11 Pro 演示机，采用沙丘色外观，此外还有一张哑光黑色演示机的上手照片。据称，这些照片来自运营商，这批设备在谷歌 Made by Google 活动举行前已经抵达。IT之家注意到，黑色版本的照片显示，长焦镜头区域出现了一个圆形开孔，与上月曝光的渲染图一致，Pixel 11 Pro 将采",
-          "source": "IT之家",
-          "date": "2026-08-08",
-          "dateLabel": "8月8日",
-          "tags": [
-            "model",
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/987/476.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/087c1df2-665e-49c0-99ff-23914d982373.jpg",
-          "color": "#d97706"
-        },
-        {
-          "id": "21f820583d1e",
-          "title": "67 岁农民大伯误信 AI 推荐除草剂，150 亩芝麻苗一夜枯萎",
-          "desc": "IT之家 8 月 9 日消息，据荔枝新闻报道，安徽滁州 67 岁农户吴大伯在一年多前接触 AI 软件后，逐渐从将信将疑变为完全依赖，什么事情都询问 AI。2026 年 7 月 10 日，他向 AI 询问芝麻田除草除虫方案，AI 生成了“百亩芝麻飞防除草 + 除虫全套方案”，推荐了两种除草剂（高效氟吡甲禾灵和氟磺胺草醚）及两种除虫剂（噻虫嗪水分散粒剂和甲维盐）。吴大伯按方案用无人机全田喷洒，次日 1",
-          "source": "IT之家",
-          "date": "2026-08-08",
-          "dateLabel": "8月8日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/987/474.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/e11321c0-9f7a-41d5-aae4-30a4a60f5c14.jpg",
-          "color": "#d97706"
         }
       ]
     },
@@ -3287,118 +3269,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-07-07",
-      "dateLabel": "7月7日",
-      "id": "d07",
-      "items": [
-        {
-          "id": "de1b317de09f",
-          "title": "DeepSeek招聘被「华为天才少年」公开吐槽，“面到最不专业的”",
-          "desc": "难怪DeepSeek要着重强调招HR（doge）",
-          "source": "量子位",
-          "date": "2026-07-07",
-          "dateLabel": "7月7日",
-          "tags": [
-            "model",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/07/445608.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "b0c0d27720cd",
-          "title": "从共识到非共识：科技有「联想」沙龙首场活动直击具身智能产业化“三大困惑”",
-          "desc": "“共识与非共识”的深度思辨",
-          "source": "量子位",
-          "date": "2026-07-07",
-          "dateLabel": "7月7日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://www.qbitai.com/2026/07/445443.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "4ddbc524b61b",
-          "title": "我宣布这是中国最神奇的造车新势力",
-          "desc": "仅靠一款车5年不倒",
-          "source": "量子位",
-          "date": "2026-07-07",
-          "dateLabel": "7月7日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/07/445292.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "fe44bb109b34",
-          "title": "让Skill“有图可依”：openJiuwen首发多模态Skill范式Skill-Omni",
-          "desc": "从文字说明书到多模态经验库",
-          "source": "量子位",
-          "date": "2026-07-07",
-          "dateLabel": "7月7日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://www.qbitai.com/2026/07/445229.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "22630a81407c",
-          "title": "刚刚，首个空间原生的具身视觉基模开源！机器人更会看我们的世界了",
-          "desc": "来自蚂蚁灵波",
-          "source": "量子位",
-          "date": "2026-07-07",
-          "dateLabel": "7月7日",
-          "tags": [
-            "research",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/07/445230.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "305e4a0c7148",
-          "title": "机器人视觉迎来新突破！蚂蚁灵波空间感知模型LingBot-Depth 2.0正式发布",
-          "desc": "机器人视觉迎来新突破！蚂蚁灵波空间感知模型LingBot-Depth 2.0正式发布",
-          "source": "量子位",
-          "date": "2026-07-07",
-          "dateLabel": "7月7日",
-          "tags": [
-            "research",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/07/445184.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "b9effc1d0e62",
-          "title": "征程赶超｜WAIC 2026科学智能：AI4S从“辅助计算”到“自主发现”，中国如何重塑全球科研版图？",
-          "desc": "征程赶超｜WAIC 2026科学智能：AI4S从“辅助计算”到“自主发现”，中国如何重塑全球科研版图？",
-          "source": "量子位",
-          "date": "2026-07-07",
-          "dateLabel": "7月7日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/07/445067.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -3424,6 +3294,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-08-09 11:39",
-  "totalNews": 219
+  "updateTime": "2026-08-10 11:51",
+  "totalNews": 210
 }
