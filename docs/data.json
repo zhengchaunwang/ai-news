@@ -1,10 +1,224 @@
 {
   "newsData": [
     {
+      "date": "2026-08-13",
+      "dateLabel": "8月13日",
+      "id": "d13",
+      "items": [
+        {
+          "id": "0fe381435212",
+          "title": "360纳米大片流水线携手《知识就是力量》发布“知力·纳米”科普科幻AI大片创作平台",
+          "desc": "《知识就是力量》杂志社携手360科技集团举行“知力·纳米 科普科幻AI大片创作平台”发布暨AI创作交流活动",
+          "source": "量子位",
+          "date": "2026-08-13",
+          "dateLabel": "8月13日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/08/471624.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "39d6a65ed56f",
+          "title": "引领智能手机迈入具身交互时代 全球首款机器人手机荣耀Robot Phone发布",
+          "desc": "引领智能手机迈入具身交互时代 全球首款机器人手机荣耀Robot Phone发布",
+          "source": "量子位",
+          "date": "2026-08-13",
+          "dateLabel": "8月13日",
+          "tags": [
+            "research",
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/08/471451.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "7c683f1b56ed",
+          "title": "英特尔 CEO 陈立武暗示将重返内存市场，探索 CPU 与内存堆叠方案",
+          "desc": "IT之家 8 月 13 日消息，英特尔 CEO 陈立武在谈及美国芯片产业复兴时透露，曾被认为属于“商品化业务”的新型存储架构，如今已经成为具有战略意义的领域，也是他本人重点关注的项目之一。他还表示，存储行业正处于创新的关键时期，并暗示英特尔正在探索将存储堆叠在 CPU 上方的方案。经过多年的商品化竞争，存储芯片在最近几个季度重新成为战略资产，而且这种情况可能还会持续一段时间。因此，全球主要的 3D",
+          "source": "IT之家",
+          "date": "2026-08-13",
+          "dateLabel": "8月13日",
+          "tags": [
+            "research",
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/989/147.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/48d47a5d-655e-4bff-a9c5-8b4e6fe1d38e.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "fa671c6d6f2f",
+          "title": "2026 最大规模 AI 供应链泄露：40 分钟搜刮英伟达等全球约 2500 家共 195TB 数据",
+          "desc": "IT之家 8 月 13 日消息，科技媒体 Ars Technica 今天（8 月 13 日）发布博文，报道称今年 3 月爆发的 API 网关 LiteLLM 投毒事件中，在约 40 分钟的攻击窗口内波及全球约 2500 家企业，导致约 195TB 的密码数据泄露。IT之家曾于今年 3 月报道，月均安装量达 9500 万次的 AI 基础设施工具 LiteLLM 遭到供应链投毒。LiteLLM 是一个",
+          "source": "IT之家",
+          "date": "2026-08-13",
+          "dateLabel": "8月13日",
+          "tags": [
+            "model",
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/989/142.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/5237d436-f2ea-488c-a067-3db3f8598105.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "eff0b8146ea9",
+          "title": "AMD 披露 TPM 存在 8.3/8.5 两个高危漏洞，5 月开始已推送补丁修复",
+          "desc": "IT之家 8 月 13 日消息，AMD 最新发布安全公告 AMD-SB-7064，披露其平台使用的可信平台模块（Trusted Platform Module，TPM）实现存在 2 个高严重性漏洞，并于 5 月开始发布修复补丁。IT之家注：TPM 是面向设备安全的加密处理器规范，可通过独立硬件模块或固件形式提供。它常用于存储密钥、验证设备启动状态、支持磁盘加密和身份认证等场景。在微软 Window",
+          "source": "IT之家",
+          "date": "2026-08-13",
+          "dateLabel": "8月13日",
+          "tags": [
+            "business",
+            "policy"
+          ],
+          "url": "https://www.ithome.com/0/989/135.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/6e98df4e-ecbd-4ed3-8d25-b132a10d7438.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "4912a7e0fad4",
+          "title": "矽品精密云林斗六厂动工，预计导入 CoWoS 先进封装",
+          "desc": "IT之家 8 月 13 日消息，日月光投控旗下集成电路封装测试企业矽品精密 (SPIL) 本月 11 日举行云林斗六厂动土典礼。这座投资近千亿新台币的 AI 半导体先进封测设施预计将导入 CoWoS 2.5D 异构集成产能。IT之家获悉，矽品精密斗六厂开发面积达 6 公顷，满载情况下可创造超 2200 个优质岗位，首期启用时间预计在 2028 年。作为全球半导体产业链的重要成员，矽品正在岛内多地设",
+          "source": "IT之家",
+          "date": "2026-08-13",
+          "dateLabel": "8月13日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/989/132.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/af6095fd-456f-4e5c-a200-306f57f78b4f.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "e50ceec47f8d",
+          "title": "不惧微软法律威慑，安全研究员公布 Windows 高危零日漏洞",
+          "desc": "IT之家 8 月 13 日消息，一名安全研究人员公布了 Windows 最新版本中一个新漏洞的详细信息。该漏洞可能让黑客获得用户设备及数据的系统级访问权限。而就在几周前，这名研究人员还因公开披露此前未知的软件漏洞而受到微软对其发出的法律威胁。IT之家注意到，这个被命名为“ShieldBreak”的新漏洞，是安全研究人员 Nightmare Eclipse 最新披露的漏洞。近几个月来，他已经陆续公布",
+          "source": "IT之家",
+          "date": "2026-08-13",
+          "dateLabel": "8月13日",
+          "tags": [
+            "research",
+            "policy"
+          ],
+          "url": "https://www.ithome.com/0/989/114.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/0de1ce50-20fa-4662-972d-ad03ac0d93c4.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "38f87dc0f752",
+          "title": "消息称美国 AI 网络安全审查机制未来很可能会覆盖前沿开源模型",
+          "desc": "IT之家 8 月 13 日消息，外媒《连线》(Wired) 援引消息人士报道称，当前仅针对该国闭源模型的美国前沿人工智能模型网络安全审查机制“几乎肯定”会在未来数月扩展至开源（开放权重）模型。据称这里的“前沿”定义是与 Anthropic Claude Mythos 或 OpenAI GPT-5.6 能力相当。报道并未给出详细的对应模型版本。图源：Pexels知情人士透露，这一审查框架目前仍为自愿",
+          "source": "IT之家",
+          "date": "2026-08-13",
+          "dateLabel": "8月13日",
+          "tags": [
+            "model",
+            "business",
+            "policy",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/989/111.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/bd733c99-ad2f-4eba-870e-dbd389dd3f82.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-08-12",
       "dateLabel": "8月12日",
       "id": "d12",
       "items": [
+        {
+          "id": "9ef9fc1918c5",
+          "title": "《置身谷内》！Jeff Dean上顶会自曝离职现场：被1500人围堵",
+          "desc": "回消息到凌晨2点半",
+          "source": "量子位",
+          "date": "2026-08-12",
+          "dateLabel": "8月12日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/08/471254.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "b1c40821e376",
+          "title": "Anthropic CEO整天神神叨叨，投资人受不了了",
+          "desc": "Dario能不能少吓唬点人…",
+          "source": "量子位",
+          "date": "2026-08-12",
+          "dateLabel": "8月12日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/08/471162.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "8f32febaac74",
+          "title": "国产具身智能创全球新纪录！以30%成本跑赢 Figure AI 45%效率，聪明的具身大脑成关键",
+          "desc": "具身模型一小时狂拣1816件异形包裹",
+          "source": "量子位",
+          "date": "2026-08-12",
+          "dateLabel": "8月12日",
+          "tags": [
+            "research",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/08/471049.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "cbbbace7ab8e",
+          "title": "紫东太初推出GMC核心集剪枝方法，少80%Token仍满血保真多模态能力",
+          "desc": "免训练、开箱即用！",
+          "source": "量子位",
+          "date": "2026-08-12",
+          "dateLabel": "8月12日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.qbitai.com/2026/08/471030.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "f1f0ab0dc364",
+          "title": "2026中国科创投资夏季峰会暨陕西科创产业生态大会圆满落幕",
+          "desc": "2026年7月29日—30日，由融中财经和秦创原科技创新投资集团主办的2026中国科创投资夏季峰会暨陕西科创产业生态大会圆满落幕。",
+          "source": "量子位",
+          "date": "2026-08-12",
+          "dateLabel": "8月12日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/08/470901.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "54406c2b99d3",
+          "title": "人形之外，擎羽把“身体”变成具身智能的新变量",
+          "desc": "从柔性本体走向跨本体基础智能，让任务与世界知识延续",
+          "source": "量子位",
+          "date": "2026-08-12",
+          "dateLabel": "8月12日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.qbitai.com/2026/08/470874.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
         {
           "id": "82c0bba03b33",
           "title": "刚刚，Manus恢复独立运营",
@@ -18,110 +232,6 @@
           "url": "https://www.qbitai.com/2026/08/470805.html",
           "image": "",
           "color": "#7c3aed"
-        },
-        {
-          "id": "2a83ad9dd57d",
-          "title": "台积电何军：5.5 倍光罩尺寸 CoWoS 良率可达 99%，验证加速走向系统级",
-          "desc": "IT之家 8 月 12 日消息，台积电先进封装技术暨服务副总经理何军昨日在 OCP APAC 峰会上表示，台积电已量产的 5.5 倍光罩尺寸 CoWoS 先进封装技术可在部分产品上达到 99% 的良率。5.5 倍光罩尺寸 CoWoS 这一 2.5D 异构集成方案已在多个 AI 客户产品上得到验证，良率可稳定超过 98%。台积电未来计划在 2029 年推出 15 倍光罩尺寸的超大面积 CoWoS。▲",
-          "source": "IT之家",
-          "date": "2026-08-12",
-          "dateLabel": "8月12日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/988/698.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/37dacf17-d70e-4309-aca0-db478497d8ba.jpg",
-          "color": "#d97706"
-        },
-        {
-          "id": "d1963438412d",
-          "title": "谷歌收紧 Chrome 浏览器通知权限：“干扰”网站每分钟最多推 1000 条",
-          "desc": "IT之家 8 月 12 日消息，谷歌公司昨日（8 月 11 日）发布博文，披露称针对网站滥用推送通知，已在 Chrome 浏览器中部署多层防御体系。在谷歌 Chrome 浏览器中，推送通知主要用于新闻提醒、配送更新或价格变动提醒等场景，开发者可借此实时触达用户。不过谷歌表示越来越多的恶意行为者滥用该机制，向用户发送欺骗性和不受欢迎的通知。“在治理机制方面，谷歌于 2023 年在 Chrome 浏览",
-          "source": "IT之家",
-          "date": "2026-08-12",
-          "dateLabel": "8月12日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/988/697.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/dd859094-6925-4d9e-a050-a9c7449dc39a.png",
-          "color": "#d97706"
-        },
-        {
-          "id": "b617405006d3",
-          "title": "玩家自制水冷版 Steam Machine，CPU 和 GPU 温度最高直降 30℃",
-          "desc": "IT之家 8 月 12 日消息，虽然 Valve 的 Steam Machine 运行温度低、噪音小，但一名改装玩家还是决定进一步升级这款设备的散热系统。他使用桌面级 CNC 机床、出色的逆向工程技术以及不到 200 美元（IT之家注：现汇率约合 1,352 元人民币）的零部件，打造出了一台定制水冷版 Steam Machine。这名改装玩家在 Reddit 上使用的账号是 u/techmagne",
-          "source": "IT之家",
-          "date": "2026-08-12",
-          "dateLabel": "8月12日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/988/694.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/2fc5487d-b464-41bb-8d07-ac2a254cbe08.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "e6cd4f28e8d2",
-          "title": "国内首个成功运行超 2 万亿参数大模型的超节点，阿里云灵骏真武 M890 超节点实例上线",
-          "desc": "IT之家 8 月 12 日消息，阿里云今日宣布，灵骏真武 M890 超节点实例正式上线，首批在内蒙古乌兰察布地域开售。官方表示，企业级客户无需自建机房，在云上即可开通 64 卡高速互联算力单元，最高可承载十万亿参数级 MoE 大模型推理。灵骏真武 M890 超节点也是国内首个成功运行超 2 万亿参数大模型的超节点形态算力，Kimi K3 和 Qwen3.8-Max 均已通过该实例对外提供服务。灵骏",
-          "source": "IT之家",
-          "date": "2026-08-12",
-          "dateLabel": "8月12日",
-          "tags": [
-            "model",
-            "research",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/0/988/688.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/4cf09aee-3ffb-4d06-b843-5e3749f0e6c9.png",
-          "color": "#d97706"
-        },
-        {
-          "id": "e65443825a8b",
-          "title": "橄榄绿版谷歌 Pixel Buds Pro 2 耳机宣传图曝光",
-          "desc": "IT之家 8 月 12 日消息，消息源罗兰 · 匡特（Roland Quandt）昨日（8 月 11 日）在 Bluesky 平台发布动态，分享了一组宣传图，展示了橄榄绿（Olive）颜色的谷歌 Pixel Buds Pro 2 耳机。基于曝光的宣传图，橄榄绿版谷歌 Pixel Buds Pro 2 耳机在功能方面没有变化，包括主动降噪 (ANC)、Silent Seal 2.0、兼容 Find ",
-          "source": "IT之家",
-          "date": "2026-08-12",
-          "dateLabel": "8月12日",
-          "tags": [
-            "model",
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/988/683.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/4c239931-3194-4213-9f68-c7518613a030.png?x-bce-process=image/format,f_auto/auto-orient,o_1",
-          "color": "#d97706"
-        },
-        {
-          "id": "3484470a938b",
-          "title": "Mate 90 系列 + 韬定律芯片首秀？文旅部透露华为终端 Haco 发布会定档 9 月 23 日",
-          "desc": "IT之家 8 月 12 日消息，据IT之家小伙伴反馈，“华为终端 Haco 发布会助兴演出”出现在文化和旅游部官网的全国涉外营业性演出活动审批系统中，批复时间为 8 月 10 日，演出时间为 9 月 23 日，地点为深圳国际会展中心 20 号馆。从时间和地点来看，此次审批的演出有望是华为 Mate 90 系列旗舰手机的发布会配套演出。博主 @超维界 表示，Haco 是发布会代号，Ha=Huawei",
-          "source": "IT之家",
-          "date": "2026-08-12",
-          "dateLabel": "8月12日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/0/988/681.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/2fe097b9-2617-4be7-8a1e-a7f43e6533df.jpg",
-          "color": "#d97706"
-        },
-        {
-          "id": "3a786d864a12",
-          "title": "微软 8 月 Win11 更新扩展“低延迟配置”，启动应用可触发 1~3 秒频率冲刺",
-          "desc": "IT之家 8 月 12 日消息，科技媒体 Windows Latest 今天（8 月 12 日）发布博文，报道称 Windows 11 设备安装 8 月累积更新 KB5121003 后，“低延迟配置”（Low Latency Profile）开始覆盖应用启动场景。IT之家注：“低延迟配置”是 Windows 11 的性能优化方案，其原理是在极短时间内提高 CPU 频率以加快 PC 运行速度，让系统",
-          "source": "IT之家",
-          "date": "2026-08-12",
-          "dateLabel": "8月12日",
-          "tags": [
-            "model",
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/988/672.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/311fc646-c1bb-4817-a875-b43debb9081b.png",
-          "color": "#d97706"
         }
       ]
     },
@@ -143,105 +253,6 @@
             "cn"
           ],
           "url": "https://www.qbitai.com/2026/08/470674.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "b5a86352cefa",
-          "title": "一家新能源大厂，如何撑起全球最大AI算力超级单体？",
-          "desc": "算力竞赛的天平，正在向电力倾斜",
-          "source": "量子位",
-          "date": "2026-08-11",
-          "dateLabel": "8月11日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/08/470621.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "d75641383ee5",
-          "title": "谷歌创始人布林紧急接管Gemini团队，但“3.5 Pro已被取消”",
-          "desc": "谷歌算力分配内耗严重",
-          "source": "量子位",
-          "date": "2026-08-11",
-          "dateLabel": "8月11日",
-          "tags": [
-            "model",
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/08/470576.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "35a77e1f2d4c",
-          "title": "百年黎曼猜想被Claude破了新纪录！是个未公开新模型",
-          "desc": "把下界推高了一大截",
-          "source": "量子位",
-          "date": "2026-08-11",
-          "dateLabel": "8月11日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://www.qbitai.com/2026/08/470485.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "c1079aa12af3",
-          "title": "宇树会破发吗？王兴兴回应了",
-          "desc": "200问回应一切",
-          "source": "量子位",
-          "date": "2026-08-11",
-          "dateLabel": "8月11日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/08/470307.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "5f5ed3c43bdf",
-          "title": "GPU开始金融化！黄仁勋拉上华尔街搞5000亿美元融资",
-          "desc": "真就把GPU当理财产品了～",
-          "source": "量子位",
-          "date": "2026-08-11",
-          "dateLabel": "8月11日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/08/470254.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "34c2c1c66415",
-          "title": "Claude骂声中启动「隐形水印」：新模型全量嵌入，标记所有文字",
-          "desc": "大水印时代来了",
-          "source": "量子位",
-          "date": "2026-08-11",
-          "dateLabel": "8月11日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://www.qbitai.com/2026/08/470228.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "483719e6829e",
-          "title": "机器人赛道新岗位：月入6000元的“骨科大夫”，专治缺胳膊断腿",
-          "desc": "机器人赛道新岗位：月入6000元的“骨科大夫”，专治缺胳膊断腿",
-          "source": "量子位",
-          "date": "2026-08-11",
-          "dateLabel": "8月11日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://www.qbitai.com/2026/08/469880.html",
           "image": "",
           "color": "#7c3aed"
         }
@@ -3361,42 +3372,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-07-10",
-      "dateLabel": "7月10日",
-      "id": "d10",
-      "items": [
-        {
-          "id": "7dd608ed0cfb",
-          "title": "只剩7天！第三届蚂蚁InTech奖申报即将截止，图灵奖得主坐镇评审",
-          "desc": "四大方向，奖金直给",
-          "source": "量子位",
-          "date": "2026-07-10",
-          "dateLabel": "7月10日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/07/447846.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "63e1acb43e9b",
-          "title": "AI生物研发进入“操作系统时代”，许锦波团队MoleculeOS正式开放",
-          "desc": "AI变为研发流程的“组织者”",
-          "source": "量子位",
-          "date": "2026-07-10",
-          "dateLabel": "7月10日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/07/447832.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -3422,6 +3397,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-08-12 12:05",
-  "totalNews": 219
+  "updateTime": "2026-08-13 12:09",
+  "totalNews": 217
 }
