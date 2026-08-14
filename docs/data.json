@@ -1,14 +1,208 @@
 {
   "newsData": [
     {
+      "date": "2026-08-14",
+      "dateLabel": "8月14日",
+      "id": "d14",
+      "items": [
+        {
+          "id": "e6bb58894a57",
+          "title": "影响约 1100 万用户：全屏截图扩展 GoFullPage 回应被标记“不安全”，源于版权问题",
+          "desc": "IT之家 8 月 14 日消息，科技媒体 Android Authority 昨日（8 月 13 日）发布博文，报道称超过 1100 万用户使用的 GoFullPage 扩展程序本周突然从谷歌 Chrome Web Store 应用商店下架，被标记为“存在风险”。GoFullPage 是一款浏览器全屏网页截图扩展程序，能一键自动滚动并截取整个长网页，支持导出为 PNG、JPG 图片或 PDF 文件",
+          "source": "IT之家",
+          "date": "2026-08-14",
+          "dateLabel": "8月14日",
+          "tags": [
+            "business",
+            "policy"
+          ],
+          "url": "https://www.ithome.com/0/989/669.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/0c0af04b-57e1-405f-be31-792f6b6b1617.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "09d22562649a",
+          "title": "内存芯片价格上涨，魅族宣布在售机型维持京东原价销售",
+          "desc": "IT之家 8 月 14 日消息，魅族手机今日宣布维持京东原价销售。公告称，近期，内存芯片价格持续上涨，行业内多款机型已调整售价。魅族将继续坚持在售机型诚意不涨价：魅族 Note16 、魅族 22 、魅族 22 归航限定版维持原价销售，且可叠加国家购机补贴。一、在售机型与原价魅族 Note 168GB＋128GB 版本原价 799 元，国补后到手价 679.15 元；8GB＋258GB 版本原价 9",
+          "source": "IT之家",
+          "date": "2026-08-14",
+          "dateLabel": "8月14日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/989/668.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/16e25bda-bc2e-43ec-88a5-842eec60d628.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "945d03597b03",
+          "title": "豆包输入法 iOS 版 1.5.0 新增账号登录，词库定时云端同步",
+          "desc": "IT之家 8 月 14 日消息，豆包输入法 iOS 版 8 月 13 日正式推送 1.5.0 版本升级，IT之家附更新内容如下：新增账号登录，词库定时云端同步，换设备也不丢数据优化语音输入的跳转异常的问题。豆包输入法 iOS 版于去年 11 月登录苹果 iOS 平台，支持豆包同款语音输入。IT之家附官方功能说明：语音输入：使用豆包同款语音大模型，语音输入又快又准，支持多方言、英语及中英混输；快速说",
+          "source": "IT之家",
+          "date": "2026-08-14",
+          "dateLabel": "8月14日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://www.ithome.com/0/989/648.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/384073f5-5546-4976-891b-c8b9d0326ba6.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "fe7293f7ca7e",
+          "title": "慧与扫清 140 亿美元瞻博网络收购案美国联邦层面法律纠纷",
+          "desc": "IT之家 8 月 14 日消息，HPE（慧与）早在 2025 年 7 月就有条件完成了对 Juniper Networks（瞻博网络）的收购。作为美国司法部放行的条件，HPE 出售了企业级 WLAN 业务 Instant On 并对外部提供了 Juniper AI Ops for Mist 技术的有限访问权限。不过，这笔 140 亿美元（IT之家注：现汇率约合 945.99 亿元人民币）并购案在法",
+          "source": "IT之家",
+          "date": "2026-08-14",
+          "dateLabel": "8月14日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/989/645.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2025/7/aae8319b-d932-470d-aa57-2558d80f5ff3.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "280c8fe9b615",
+          "title": "《人形机器人试验方法》系列国家标准启动会在武汉举行，宇树科技、小米机器人参会",
+          "desc": "IT之家 8 月 14 日消息，据“中国光谷”消息，8 月 13 日，《人形机器人试验方法》系列国家标准启动会在武汉光谷举行。会上，总则、环境感知、决策规划、运动控制等 7 项标准同步启动编制。来自宇树科技、小米机器人、魔法原子、中兴通讯、云深处科技、地平线、灵心巧手、银河通用等国内头部企业，和武汉大学、华中科技大学、南京航空航天大学、西北工业大学、中国计量大学、班贝格大学等高校的 200 多名行",
+          "source": "IT之家",
+          "date": "2026-08-14",
+          "dateLabel": "8月14日",
+          "tags": [
+            "research",
+            "policy",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/989/619.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/60787d42-0bff-45b2-9492-0b0c03847a42.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "75d4104a696a",
+          "title": "消息称谷歌 DeepMind 团队不再追逐前沿模型研发工作，或迎大规模裁员",
+          "desc": "IT之家 8 月 14 日消息，据爱范儿消息，谷歌 DeepMind 团队将不再追逐前沿模型的研发工作，而是聚焦到性价比更高的 Flash 级别模型上。报道称，尽管硅谷公司有“Dogfood”文化（使用自己的产品以发现和解决问题），但 DeepMind 核心团队从未真正将 Gemini 当作日常使用的主力模型。非核心团队仍被要求使用 Gemini 模型。此外，随着 DeepMind 的重组，团队可",
+          "source": "IT之家",
+          "date": "2026-08-14",
+          "dateLabel": "8月14日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://www.ithome.com/0/989/614.htm",
+          "image": "",
+          "color": "#d97706"
+        },
+        {
+          "id": "57e84147372c",
+          "title": "荣耀和抖音成立基础体验联合实验室，围绕智慧互联、AI 创新等领域合作",
+          "desc": "IT之家 8 月 14 日消息，荣耀MagicOS 今日宣布，荣耀和抖音正式成立基础体验联合实验室，围绕用户基础体验、智慧互联与 AI 创新等领域展开深度合作。目前尚不清楚双方合作的具体内容。IT之家注意到，早在 2024 年 9 月，抖音 App 便接入荣耀 MagicOS 任意门服务，支持抖音图搜答疑、快速视频观看等功能。在最新发布的 MagicOS 10 系统的 8 月版本更新中，YOYO ",
+          "source": "IT之家",
+          "date": "2026-08-14",
+          "dateLabel": "8月14日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/989/613.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/8ae5b4c8-40b2-48d6-b543-d3dc6e190342.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "b8ccc5cf7d70",
+          "title": "中际旭创 17.47 亿元入股算力散热龙头中石科技，后者股价应声涨停",
+          "desc": "IT之家 8 月 14 日消息，高速光模块龙头中际旭创 8 月 13 日晚发布公告，宣布斥资超 17.47 亿元现金协议受让算力散热龙头中石科技 10.47% 股权。中际旭创公告称，公司主要从事高端光通信收发模块的研发、生产及销售，中石科技主要从事高性能导热材料、EMI 屏蔽材料的研发、生产及销售，其产品可广泛应用于数字基建各细分领域，包括 5G 通信及下一代先进通信、数据中心、算力中心等，未来随",
+          "source": "IT之家",
+          "date": "2026-08-14",
+          "dateLabel": "8月14日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/989/609.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/5b4d86d9-271c-4053-aa28-01c50dcdaba9.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-08-13",
       "dateLabel": "8月13日",
       "id": "d13",
       "items": [
         {
-          "id": "0fe381435212",
-          "title": "360纳米大片流水线携手《知识就是力量》发布“知力·纳米”科普科幻AI大片创作平台",
-          "desc": "《知识就是力量》杂志社携手360科技集团举行“知力·纳米 科普科幻AI大片创作平台”发布暨AI创作交流活动",
+          "id": "0b687d04246b",
+          "title": "深度体验DeepSeek Harness，我原谅它涨价了",
+          "desc": "欢迎，为后人种点树",
+          "source": "量子位",
+          "date": "2026-08-13",
+          "dateLabel": "8月13日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/08/472208.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "deca6ac3ad9f",
+          "title": "4.8亿美元砸向端侧算力！Agent芯片新贵冲出重围",
+          "desc": "首颗AI芯片已进入量产",
+          "source": "量子位",
+          "date": "2026-08-13",
+          "dateLabel": "8月13日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/08/472059.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "2604add6601b",
+          "title": "马斯克Grok 4.6重回一梯队！更低价格反超Fable 5，这Cursor是真没白收购",
+          "desc": "马斯克版Workbuddy也来了",
+          "source": "量子位",
+          "date": "2026-08-13",
+          "dateLabel": "8月13日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/08/472067.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "88cca3acf2d3",
+          "title": "具身数据来了实战派！40天2轮融资数千万，瞄准物理AI基础设施",
+          "desc": "重新定义物理AI数据基础设施",
+          "source": "量子位",
+          "date": "2026-08-13",
+          "dateLabel": "8月13日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/08/472060.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "9279bb083064",
+          "title": "Claude一举扫清2000阶以下哈达玛矩阵！AI开始清空数学待解列表",
+          "desc": "好数学家不挑AI模型",
+          "source": "量子位",
+          "date": "2026-08-13",
+          "dateLabel": "8月13日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://www.qbitai.com/2026/08/472016.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "29f1a7676e63",
+          "title": "中国人能飞！杭州发布全球首款站姿载人飞行器",
+          "desc": "让一部分人先飞起来",
           "source": "量子位",
           "date": "2026-08-13",
           "dateLabel": "8月13日",
@@ -16,115 +210,38 @@
             "business",
             "cn"
           ],
-          "url": "https://www.qbitai.com/2026/08/471624.html",
+          "url": "https://www.qbitai.com/2026/08/471893.html",
           "image": "",
           "color": "#7c3aed"
         },
         {
-          "id": "39d6a65ed56f",
-          "title": "引领智能手机迈入具身交互时代 全球首款机器人手机荣耀Robot Phone发布",
-          "desc": "引领智能手机迈入具身交互时代 全球首款机器人手机荣耀Robot Phone发布",
+          "id": "031b480c488e",
+          "title": "科大讯飞发布企业服务全系列产品 覆盖七大核心场景",
+          "desc": "科大讯飞发布企业服务全系列产品 覆盖七大核心场景",
           "source": "量子位",
           "date": "2026-08-13",
           "dateLabel": "8月13日",
           "tags": [
-            "research",
-            "business"
+            "business",
+            "cn"
           ],
-          "url": "https://www.qbitai.com/2026/08/471451.html",
+          "url": "https://www.qbitai.com/2026/08/471884.html",
           "image": "",
           "color": "#7c3aed"
         },
         {
-          "id": "7c683f1b56ed",
-          "title": "英特尔 CEO 陈立武暗示将重返内存市场，探索 CPU 与内存堆叠方案",
-          "desc": "IT之家 8 月 13 日消息，英特尔 CEO 陈立武在谈及美国芯片产业复兴时透露，曾被认为属于“商品化业务”的新型存储架构，如今已经成为具有战略意义的领域，也是他本人重点关注的项目之一。他还表示，存储行业正处于创新的关键时期，并暗示英特尔正在探索将存储堆叠在 CPU 上方的方案。经过多年的商品化竞争，存储芯片在最近几个季度重新成为战略资产，而且这种情况可能还会持续一段时间。因此，全球主要的 3D",
-          "source": "IT之家",
-          "date": "2026-08-13",
-          "dateLabel": "8月13日",
-          "tags": [
-            "research",
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/989/147.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/48d47a5d-655e-4bff-a9c5-8b4e6fe1d38e.jpg",
-          "color": "#d97706"
-        },
-        {
-          "id": "fa671c6d6f2f",
-          "title": "2026 最大规模 AI 供应链泄露：40 分钟搜刮英伟达等全球约 2500 家共 195TB 数据",
-          "desc": "IT之家 8 月 13 日消息，科技媒体 Ars Technica 今天（8 月 13 日）发布博文，报道称今年 3 月爆发的 API 网关 LiteLLM 投毒事件中，在约 40 分钟的攻击窗口内波及全球约 2500 家企业，导致约 195TB 的密码数据泄露。IT之家曾于今年 3 月报道，月均安装量达 9500 万次的 AI 基础设施工具 LiteLLM 遭到供应链投毒。LiteLLM 是一个",
-          "source": "IT之家",
-          "date": "2026-08-13",
-          "dateLabel": "8月13日",
-          "tags": [
-            "model",
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/989/142.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/5237d436-f2ea-488c-a067-3db3f8598105.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "eff0b8146ea9",
-          "title": "AMD 披露 TPM 存在 8.3/8.5 两个高危漏洞，5 月开始已推送补丁修复",
-          "desc": "IT之家 8 月 13 日消息，AMD 最新发布安全公告 AMD-SB-7064，披露其平台使用的可信平台模块（Trusted Platform Module，TPM）实现存在 2 个高严重性漏洞，并于 5 月开始发布修复补丁。IT之家注：TPM 是面向设备安全的加密处理器规范，可通过独立硬件模块或固件形式提供。它常用于存储密钥、验证设备启动状态、支持磁盘加密和身份认证等场景。在微软 Window",
-          "source": "IT之家",
-          "date": "2026-08-13",
-          "dateLabel": "8月13日",
-          "tags": [
-            "business",
-            "policy"
-          ],
-          "url": "https://www.ithome.com/0/989/135.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/6e98df4e-ecbd-4ed3-8d25-b132a10d7438.jpg",
-          "color": "#d97706"
-        },
-        {
-          "id": "4912a7e0fad4",
-          "title": "矽品精密云林斗六厂动工，预计导入 CoWoS 先进封装",
-          "desc": "IT之家 8 月 13 日消息，日月光投控旗下集成电路封装测试企业矽品精密 (SPIL) 本月 11 日举行云林斗六厂动土典礼。这座投资近千亿新台币的 AI 半导体先进封测设施预计将导入 CoWoS 2.5D 异构集成产能。IT之家获悉，矽品精密斗六厂开发面积达 6 公顷，满载情况下可创造超 2200 个优质岗位，首期启用时间预计在 2028 年。作为全球半导体产业链的重要成员，矽品正在岛内多地设",
-          "source": "IT之家",
+          "id": "bbded89df430",
+          "title": "刚刚！Ilya首个模型曝光了",
+          "desc": "SSI第一剑，劈向持续学习",
+          "source": "量子位",
           "date": "2026-08-13",
           "dateLabel": "8月13日",
           "tags": [
             "business"
           ],
-          "url": "https://www.ithome.com/0/989/132.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/af6095fd-456f-4e5c-a200-306f57f78b4f.jpg",
-          "color": "#d97706"
-        },
-        {
-          "id": "e50ceec47f8d",
-          "title": "不惧微软法律威慑，安全研究员公布 Windows 高危零日漏洞",
-          "desc": "IT之家 8 月 13 日消息，一名安全研究人员公布了 Windows 最新版本中一个新漏洞的详细信息。该漏洞可能让黑客获得用户设备及数据的系统级访问权限。而就在几周前，这名研究人员还因公开披露此前未知的软件漏洞而受到微软对其发出的法律威胁。IT之家注意到，这个被命名为“ShieldBreak”的新漏洞，是安全研究人员 Nightmare Eclipse 最新披露的漏洞。近几个月来，他已经陆续公布",
-          "source": "IT之家",
-          "date": "2026-08-13",
-          "dateLabel": "8月13日",
-          "tags": [
-            "research",
-            "policy"
-          ],
-          "url": "https://www.ithome.com/0/989/114.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/0de1ce50-20fa-4662-972d-ad03ac0d93c4.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "38f87dc0f752",
-          "title": "消息称美国 AI 网络安全审查机制未来很可能会覆盖前沿开源模型",
-          "desc": "IT之家 8 月 13 日消息，外媒《连线》(Wired) 援引消息人士报道称，当前仅针对该国闭源模型的美国前沿人工智能模型网络安全审查机制“几乎肯定”会在未来数月扩展至开源（开放权重）模型。据称这里的“前沿”定义是与 Anthropic Claude Mythos 或 OpenAI GPT-5.6 能力相当。报道并未给出详细的对应模型版本。图源：Pexels知情人士透露，这一审查框架目前仍为自愿",
-          "source": "IT之家",
-          "date": "2026-08-13",
-          "dateLabel": "8月13日",
-          "tags": [
-            "model",
-            "business",
-            "policy",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/0/989/111.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/bd733c99-ad2f-4eba-870e-dbd389dd3f82.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/08/471701.html",
+          "image": "",
+          "color": "#7c3aed"
         }
       ]
     },
@@ -3336,42 +3453,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-07-11",
-      "dateLabel": "7月11日",
-      "id": "d11",
-      "items": [
-        {
-          "id": "f4c60d592ce3",
-          "title": "中国首个十万卡集群落成！全国产算力支撑“十万卡时代”",
-          "desc": "已跑通300余项应用",
-          "source": "量子位",
-          "date": "2026-07-11",
-          "dateLabel": "7月11日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/07/447902.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "df3e42fd81ba",
-          "title": "GPT-5.6一小时解开50年数学猜想，700词Prompt驾驭64个子Agent",
-          "desc": "神话级大模型驾驭宝典",
-          "source": "量子位",
-          "date": "2026-07-11",
-          "dateLabel": "7月11日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://www.qbitai.com/2026/07/447873.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -3397,6 +3478,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-08-13 12:09",
-  "totalNews": 217
+  "updateTime": "2026-08-14 12:05",
+  "totalNews": 223
 }
