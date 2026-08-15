@@ -1,125 +1,254 @@
 {
   "newsData": [
     {
+      "date": "2026-08-15",
+      "dateLabel": "8月15日",
+      "id": "d15",
+      "items": [
+        {
+          "id": "e4e56c2ed19d",
+          "title": "微软 Copilot Notebooks 扩展支持 Markdown，强化 AI 资料分析",
+          "desc": "IT之家 8 月 15 日消息，科技媒体 Neowin 昨日（8 月 14 日）发布博文，报道称微软更新 Copilot Notebooks 应用，新增支持 Markdown、纯文本和富文本 3 种文本格式。IT之家注：Copilot Notebooks 是微软 Microsoft 365 Copilot 的专用智能工作区，支持用户集中 Word、PowerPoint、Excel、PDF 和链接等",
+          "source": "IT之家",
+          "date": "2026-08-15",
+          "dateLabel": "8月15日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/990/013.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/45579488-8782-4af0-85c5-ef03d2b26860.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "f0385339d447",
+          "title": "微软 Win11/Win10 版 Word 加入文本定位链接，协作跳转不必手动滚动",
+          "desc": "IT之家 8 月 15 日消息，科技媒体 Neowin 昨日（8 月 14 日）发布博文，报道称微软升级 Windows 10/Windows 11 以及 macOS 版 Microsoft Word 应用，新增“复制位置链接”功能。功能方面，用户选中文档中的一段文字后，在右键菜单中选择“复制位置链接”选项，Word 随后生成可分享链接。获得文档访问权限的用户点击链接后，可直接跳转到指定文本位置，",
+          "source": "IT之家",
+          "date": "2026-08-15",
+          "dateLabel": "8月15日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/990/007.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/e808e5f3-0618-4955-ac78-d7cf3764e269.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "2ec9d1155a63",
+          "title": "阿里千问开放 AI 眼镜生态，支持自建导游、教练、巡检等多种 skill",
+          "desc": "IT之家 8 月 15 日消息，阿里千问开放平台于 8 月 10 日上线，同时支持 App、PC 和 AI 眼镜三端。据官方最新介绍，在眼镜端，千问提供技能平台和行业定制两大模块。在技能平台上，开发者可以调用已开放的眼镜能力，结合特定场景和人群需求创建 Skill。调用“眼镜拍照”插件，为视障群体开发“身边有什么”Skill，让眼镜辅助识别前方台阶、障碍物并进行语音提示，成为随身助手；创建景点导览",
+          "source": "IT之家",
+          "date": "2026-08-15",
+          "dateLabel": "8月15日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/990/003.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/ebe25244-a52b-4a4f-9c55-a8fb52ac1ffd.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "7418b39fea03",
+          "title": "DeepSeek V4 Pro 正式版、Harness 上线国家超算互联网，可一站式完成部署开发",
+          "desc": "IT之家 8 月 15 日消息，8 月 14 日，国家超算互联网宣布上线 DeepSeek V4 Pro 正式版（DeepSeek-V4-Pro-0813），以及智能体框架 DeepSeek Harness。官方介绍称，作为全国首个十万卡级超智融合算力资源池，国家超算互联网可为广大科研院所、科创企业、技术开发者提供大模型从训练、微调、评测到部署全生命周期的海量算力支撑。依托自主可控的国家级国产算力",
+          "source": "IT之家",
+          "date": "2026-08-15",
+          "dateLabel": "8月15日",
+          "tags": [
+            "model",
+            "research",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/990/002.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/bc7000a8-9df3-47e5-8aad-8c8fb6c19645.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "88219b070650",
+          "title": "iQOO X 概念机内部发布：骁龙 8 Elite Gen10 Pro 处理器、15000mAh 固态电池",
+          "desc": "IT之家 8 月 15 日消息，据博主 @闪飞 分享，iQOO 昨日内部发布了一款十周年概念机 —— iQOO X。据称，这部手机由“酷客”们参与共创。据介绍，这款手机搭载了骁龙 8 Elite Gen10 Pro 处理器 + 自研电竞芯片 QX、内置 15000mAh 全固态蓝冰电池、配备真 · 全面屏 LTPO 6.0（支持 2K+240Hz 超高刷新率）、半屏超声波指纹等。IT之家注意到，现",
+          "source": "IT之家",
+          "date": "2026-08-15",
+          "dateLabel": "8月15日",
+          "tags": [
+            "model",
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/990/000.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/e36f7958-47d2-4e52-a641-6a02cd29cdff.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "e8da8808c5c2",
+          "title": "微软承认 Win10/Win11 经典版 Outlook 存在 Copilot 入口消失 Bug，部分用户拍手叫好",
+          "desc": "IT之家 8 月 15 日消息，科技媒体 Windows Central 昨日（8 月 14 日）发布博文，报道称微软承认经典版 Outlook 存在故障，会隐藏 Copilot 按钮并移除相关入口，阻止用户访问 Copilot Chat。对此部分用户视其为重大更新，反而拍手叫好。微软承认在 Windows 10、Windows 11 平台上，用户升级经典版 Outlook 至 20026.201",
+          "source": "IT之家",
+          "date": "2026-08-15",
+          "dateLabel": "8月15日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/989/999.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/b9a37cdd-98c0-4d02-90f4-6a7ecbdd9062.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "f92e8673f4ad",
+          "title": "谷歌 Gemini 将推新选项：关闭 AI 生成图片 / 视频 / 音乐的可见水印",
+          "desc": "IT之家 8 月 15 日消息，谷歌昨日（8 月 14 日）在 X 平台发布推文，预告将会在未来几天为 Gemini 新增 Media Watermark 设置，让用户可关闭图像、视频和音乐作品的可见水印。用户可从 Gemini 左侧栏打开“设置”后，在菜单倒数第 3 项可以找到 Media Watermark。将鼠标悬停在该选项上后，界面会显示“On”和“Off”2 个选项。保持开启时，Gemi",
+          "source": "IT之家",
+          "date": "2026-08-15",
+          "dateLabel": "8月15日",
+          "tags": [
+            "model",
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/989/997.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/a4bbd699-77fa-4328-bd95-03e4aa0459a7.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "5f33fecaae30",
+          "title": "可维修模块化手机 Fairphone 6+ 官宣 8 月 18 日发布：升级 12GB 内存",
+          "desc": "IT之家 8 月 15 日消息，荷兰品牌 @Fairphone 昨日（8 月 14 日）官宣将于欧洲中部时间 8 月 18 日 13 点（北京时间 8 月 18 日 19 点）推出可维修模块化手机 Fairphone 6+。颜色方面，IT之家此前报道，Fairphone 6+ 会有蓝色（Cobalt Blue）、黑色（Horizon Black）以及绿色（Forest Green）三种颜色。Fai",
+          "source": "IT之家",
+          "date": "2026-08-15",
+          "dateLabel": "8月15日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/989/996.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/c5174f9a-79c0-429c-8ca7-a41524df296d.png",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-08-14",
       "dateLabel": "8月14日",
       "id": "d14",
       "items": [
         {
-          "id": "e6bb58894a57",
-          "title": "影响约 1100 万用户：全屏截图扩展 GoFullPage 回应被标记“不安全”，源于版权问题",
-          "desc": "IT之家 8 月 14 日消息，科技媒体 Android Authority 昨日（8 月 13 日）发布博文，报道称超过 1100 万用户使用的 GoFullPage 扩展程序本周突然从谷歌 Chrome Web Store 应用商店下架，被标记为“存在风险”。GoFullPage 是一款浏览器全屏网页截图扩展程序，能一键自动滚动并截取整个长网页，支持导出为 PNG、JPG 图片或 PDF 文件",
-          "source": "IT之家",
+          "id": "12fe4a06655f",
+          "title": "刚刚，Qwen3.8-27B 开源了！家用显卡也能跑",
+          "desc": "所有人都可免费下载部署及商用。",
+          "source": "量子位",
+          "date": "2026-08-14",
+          "dateLabel": "8月14日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/08/473379.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "8df966ef38c1",
+          "title": "7亿年薪留不住！余家辉离职Meta创业",
+          "desc": "真就只待了一年",
+          "source": "量子位",
+          "date": "2026-08-14",
+          "dateLabel": "8月14日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/08/473261.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "d8fa17869832",
+          "title": "谷歌开始肢解DeepMind，数个团队被划归总部",
+          "desc": "布林亲自下场督战",
+          "source": "量子位",
+          "date": "2026-08-14",
+          "dateLabel": "8月14日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/08/473153.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "ac2fa091704e",
+          "title": "太初元碁助力国家级“AI+教育”大赛 “AI+加速卡模型适配赛道”开启招募",
+          "desc": "太初元碁助力国家级“AI+教育”大赛 “AI+加速卡模型适配赛道”开启招募",
+          "source": "量子位",
+          "date": "2026-08-14",
+          "dateLabel": "8月14日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/08/473149.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "9de296644b34",
+          "title": "刚刚，GLM-5.3发布：Coding更接近Fable 5！潜伏40年的bug都被揪出来了",
+          "desc": "顺手拿下最强开源安全模型",
+          "source": "量子位",
+          "date": "2026-08-14",
+          "dateLabel": "8月14日",
+          "tags": [
+            "model",
+            "business",
+            "policy",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/08/473038.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "745605e111cd",
+          "title": "百度文库网盘「库库AI」AI办公MAU超2500万，新推办公独立端",
+          "desc": "百度文库网盘「库库AI」AI办公MAU超2500万，新推办公独立端",
+          "source": "量子位",
+          "date": "2026-08-14",
+          "dateLabel": "8月14日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/08/473144.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "4f71ce1712ed",
+          "title": "算力需求两年涨10倍，机器人为了走进真实物理世界，正在疯狂「吃算力」",
+          "desc": "少花一半成本，部署效率提升80%！机器人研发可以不用重复造轮子了。",
+          "source": "量子位",
+          "date": "2026-08-14",
+          "dateLabel": "8月14日",
+          "tags": [
+            "research",
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/08/472722.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "f702fed94860",
+          "title": "德塔智能与舞肌科技达成战略合作，联合规范全身协同灵巧操作数据采集",
+          "desc": "德塔智能与舞肌科技达成战略合作，联合规范全身协同灵巧操作数据采集",
+          "source": "量子位",
           "date": "2026-08-14",
           "dateLabel": "8月14日",
           "tags": [
             "business",
             "policy"
           ],
-          "url": "https://www.ithome.com/0/989/669.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/0c0af04b-57e1-405f-be31-792f6b6b1617.png",
-          "color": "#d97706"
-        },
-        {
-          "id": "09d22562649a",
-          "title": "内存芯片价格上涨，魅族宣布在售机型维持京东原价销售",
-          "desc": "IT之家 8 月 14 日消息，魅族手机今日宣布维持京东原价销售。公告称，近期，内存芯片价格持续上涨，行业内多款机型已调整售价。魅族将继续坚持在售机型诚意不涨价：魅族 Note16 、魅族 22 、魅族 22 归航限定版维持原价销售，且可叠加国家购机补贴。一、在售机型与原价魅族 Note 168GB＋128GB 版本原价 799 元，国补后到手价 679.15 元；8GB＋258GB 版本原价 9",
-          "source": "IT之家",
-          "date": "2026-08-14",
-          "dateLabel": "8月14日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/0/989/668.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/16e25bda-bc2e-43ec-88a5-842eec60d628.png",
-          "color": "#d97706"
-        },
-        {
-          "id": "945d03597b03",
-          "title": "豆包输入法 iOS 版 1.5.0 新增账号登录，词库定时云端同步",
-          "desc": "IT之家 8 月 14 日消息，豆包输入法 iOS 版 8 月 13 日正式推送 1.5.0 版本升级，IT之家附更新内容如下：新增账号登录，词库定时云端同步，换设备也不丢数据优化语音输入的跳转异常的问题。豆包输入法 iOS 版于去年 11 月登录苹果 iOS 平台，支持豆包同款语音输入。IT之家附官方功能说明：语音输入：使用豆包同款语音大模型，语音输入又快又准，支持多方言、英语及中英混输；快速说",
-          "source": "IT之家",
-          "date": "2026-08-14",
-          "dateLabel": "8月14日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://www.ithome.com/0/989/648.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/384073f5-5546-4976-891b-c8b9d0326ba6.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "fe7293f7ca7e",
-          "title": "慧与扫清 140 亿美元瞻博网络收购案美国联邦层面法律纠纷",
-          "desc": "IT之家 8 月 14 日消息，HPE（慧与）早在 2025 年 7 月就有条件完成了对 Juniper Networks（瞻博网络）的收购。作为美国司法部放行的条件，HPE 出售了企业级 WLAN 业务 Instant On 并对外部提供了 Juniper AI Ops for Mist 技术的有限访问权限。不过，这笔 140 亿美元（IT之家注：现汇率约合 945.99 亿元人民币）并购案在法",
-          "source": "IT之家",
-          "date": "2026-08-14",
-          "dateLabel": "8月14日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/989/645.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2025/7/aae8319b-d932-470d-aa57-2558d80f5ff3.jpg",
-          "color": "#d97706"
-        },
-        {
-          "id": "280c8fe9b615",
-          "title": "《人形机器人试验方法》系列国家标准启动会在武汉举行，宇树科技、小米机器人参会",
-          "desc": "IT之家 8 月 14 日消息，据“中国光谷”消息，8 月 13 日，《人形机器人试验方法》系列国家标准启动会在武汉光谷举行。会上，总则、环境感知、决策规划、运动控制等 7 项标准同步启动编制。来自宇树科技、小米机器人、魔法原子、中兴通讯、云深处科技、地平线、灵心巧手、银河通用等国内头部企业，和武汉大学、华中科技大学、南京航空航天大学、西北工业大学、中国计量大学、班贝格大学等高校的 200 多名行",
-          "source": "IT之家",
-          "date": "2026-08-14",
-          "dateLabel": "8月14日",
-          "tags": [
-            "research",
-            "policy",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/0/989/619.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/60787d42-0bff-45b2-9492-0b0c03847a42.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "75d4104a696a",
-          "title": "消息称谷歌 DeepMind 团队不再追逐前沿模型研发工作，或迎大规模裁员",
-          "desc": "IT之家 8 月 14 日消息，据爱范儿消息，谷歌 DeepMind 团队将不再追逐前沿模型的研发工作，而是聚焦到性价比更高的 Flash 级别模型上。报道称，尽管硅谷公司有“Dogfood”文化（使用自己的产品以发现和解决问题），但 DeepMind 核心团队从未真正将 Gemini 当作日常使用的主力模型。非核心团队仍被要求使用 Gemini 模型。此外，随着 DeepMind 的重组，团队可",
-          "source": "IT之家",
-          "date": "2026-08-14",
-          "dateLabel": "8月14日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://www.ithome.com/0/989/614.htm",
+          "url": "https://www.qbitai.com/2026/08/472718.html",
           "image": "",
-          "color": "#d97706"
-        },
-        {
-          "id": "57e84147372c",
-          "title": "荣耀和抖音成立基础体验联合实验室，围绕智慧互联、AI 创新等领域合作",
-          "desc": "IT之家 8 月 14 日消息，荣耀MagicOS 今日宣布，荣耀和抖音正式成立基础体验联合实验室，围绕用户基础体验、智慧互联与 AI 创新等领域展开深度合作。目前尚不清楚双方合作的具体内容。IT之家注意到，早在 2024 年 9 月，抖音 App 便接入荣耀 MagicOS 任意门服务，支持抖音图搜答疑、快速视频观看等功能。在最新发布的 MagicOS 10 系统的 8 月版本更新中，YOYO ",
-          "source": "IT之家",
-          "date": "2026-08-14",
-          "dateLabel": "8月14日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/989/613.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/8ae5b4c8-40b2-48d6-b543-d3dc6e190342.png",
-          "color": "#d97706"
-        },
-        {
-          "id": "b8ccc5cf7d70",
-          "title": "中际旭创 17.47 亿元入股算力散热龙头中石科技，后者股价应声涨停",
-          "desc": "IT之家 8 月 14 日消息，高速光模块龙头中际旭创 8 月 13 日晚发布公告，宣布斥资超 17.47 亿元现金协议受让算力散热龙头中石科技 10.47% 股权。中际旭创公告称，公司主要从事高端光通信收发模块的研发、生产及销售，中石科技主要从事高性能导热材料、EMI 屏蔽材料的研发、生产及销售，其产品可广泛应用于数字基建各细分领域，包括 5G 通信及下一代先进通信、数据中心、算力中心等，未来随",
-          "source": "IT之家",
-          "date": "2026-08-14",
-          "dateLabel": "8月14日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/989/609.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/5b4d86d9-271c-4053-aa28-01c50dcdaba9.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
+          "color": "#7c3aed"
         }
       ]
     },
@@ -154,92 +283,6 @@
             "business"
           ],
           "url": "https://www.qbitai.com/2026/08/472059.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "2604add6601b",
-          "title": "马斯克Grok 4.6重回一梯队！更低价格反超Fable 5，这Cursor是真没白收购",
-          "desc": "马斯克版Workbuddy也来了",
-          "source": "量子位",
-          "date": "2026-08-13",
-          "dateLabel": "8月13日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/08/472067.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "88cca3acf2d3",
-          "title": "具身数据来了实战派！40天2轮融资数千万，瞄准物理AI基础设施",
-          "desc": "重新定义物理AI数据基础设施",
-          "source": "量子位",
-          "date": "2026-08-13",
-          "dateLabel": "8月13日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/08/472060.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "9279bb083064",
-          "title": "Claude一举扫清2000阶以下哈达玛矩阵！AI开始清空数学待解列表",
-          "desc": "好数学家不挑AI模型",
-          "source": "量子位",
-          "date": "2026-08-13",
-          "dateLabel": "8月13日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://www.qbitai.com/2026/08/472016.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "29f1a7676e63",
-          "title": "中国人能飞！杭州发布全球首款站姿载人飞行器",
-          "desc": "让一部分人先飞起来",
-          "source": "量子位",
-          "date": "2026-08-13",
-          "dateLabel": "8月13日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/08/471893.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "031b480c488e",
-          "title": "科大讯飞发布企业服务全系列产品 覆盖七大核心场景",
-          "desc": "科大讯飞发布企业服务全系列产品 覆盖七大核心场景",
-          "source": "量子位",
-          "date": "2026-08-13",
-          "dateLabel": "8月13日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/08/471884.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "bbded89df430",
-          "title": "刚刚！Ilya首个模型曝光了",
-          "desc": "SSI第一剑，劈向持续学习",
-          "source": "量子位",
-          "date": "2026-08-13",
-          "dateLabel": "8月13日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/08/471701.html",
           "image": "",
           "color": "#7c3aed"
         }
@@ -3333,126 +3376,6 @@
           "color": "#2563eb"
         }
       ]
-    },
-    {
-      "date": "2026-07-12",
-      "dateLabel": "7月12日",
-      "id": "d12",
-      "items": [
-        {
-          "id": "184009036c72",
-          "title": "“龙虾热”都退烧了，运营商怎么还盯着不放？",
-          "desc": "卖Token的优势，就是用户预算更高、付费意愿也更强",
-          "source": "36氪",
-          "date": "2026-07-12",
-          "dateLabel": "7月12日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3892559997336324",
-          "image": "https://img.36krcdn.com/hsossms/20260712/v2_fa4da8ca288a4e679af03a448f5aaab9@1743780481@ai_oswg1106555oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "f10abb930bdc",
-          "title": "Trae 搭网站：翻车、补救、埋雷",
-          "desc": "实测Trae从Excel到网站全流程",
-          "source": "36氪",
-          "date": "2026-07-12",
-          "dateLabel": "7月12日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3892646403718020",
-          "image": "https://img.36krcdn.com/hsossms/20260712/v2_04093ae86d054e9c95dd570612b9cce4@1743780481@ai_oswg1031694oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "e20c27dbc1be",
-          "title": "为啥越来越多的公司发现AI不能替代人工？",
-          "desc": "不少企业因AI盲目裁员后后悔，AI应辅助而非替代人工",
-          "source": "36氪",
-          "date": "2026-07-12",
-          "dateLabel": "7月12日",
-          "tags": [
-            "policy"
-          ],
-          "url": "https://36kr.com/p/3891302755367560",
-          "image": "https://img.36krcdn.com/hsossms/20260711/v2_4ce8cb41785b4e81bfd26ff511647c3d@1359839007_oswg51603oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "7092e7e41d5b",
-          "title": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
-          "desc": "换更大的模型就等于更聪明？这可能是Claude Code用户最深的误会。",
-          "source": "36氪",
-          "date": "2026-07-12",
-          "dateLabel": "7月12日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://36kr.com/p/3892222176574211",
-          "image": "https://img.36krcdn.com/hsossms/20260712/v2_3c485bff9f7f44e180a81668931bc0a4@000000_oswg82455oswg1080oswg459_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "13918ade5d5a",
-          "title": "AI批量造App，也在批量埋雷",
-          "desc": "当 Vibe Coding 降低了开发成本，权限、数据安全和长期维护才成了真正昂贵的部分。",
-          "source": "36氪",
-          "date": "2026-07-12",
-          "dateLabel": "7月12日",
-          "tags": [
-            "policy"
-          ],
-          "url": "https://36kr.com/p/3892107686984581",
-          "image": "https://img.36krcdn.com/hsossms/20260712/v2_2247e02b258842f1b8b65734957d4c6c@000000_oswg111244oswg1280oswg544_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "c65cc3e3dc44",
-          "title": "近百名玩家涌入具身数据 : 一年融资44.7亿，谁能真靠“卖数据”赚钱？",
-          "desc": "眼下具身数据行业还不够“性感”。",
-          "source": "36氪",
-          "date": "2026-07-12",
-          "dateLabel": "7月12日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3892027841362694",
-          "image": "https://img.36krcdn.com/hsossms/20260712/v2_4a11b9483a7c42ffaeb3ab74f7452ead@000000_oswg52415oswg898oswg381_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "b4eaa210a2a8",
-          "title": "98年哈工大教授创业，要做人形灵巧操作世界模型",
-          "desc": "从采集触觉，到对齐触觉，再到使用触觉",
-          "source": "量子位",
-          "date": "2026-07-12",
-          "dateLabel": "7月12日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/07/448034.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "946918783359",
-          "title": "老黄RTX Spark真机现身Bilibili World！CPU和GPU直接焊在一起，笔记本跑120B大模型",
-          "desc": "老黄在ComputeX发布的“超级芯片”，已经在真机中落地了",
-          "source": "量子位",
-          "date": "2026-07-12",
-          "dateLabel": "7月12日",
-          "tags": [
-            "model",
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/07/447981.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -3478,6 +3401,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-08-14 12:05",
-  "totalNews": 223
+  "updateTime": "2026-08-15 10:49",
+  "totalNews": 217
 }
