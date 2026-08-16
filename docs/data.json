@@ -1,57 +1,226 @@
 {
   "newsData": [
     {
+      "date": "2026-08-16",
+      "dateLabel": "8月16日",
+      "id": "d16",
+      "items": [
+        {
+          "id": "4bef780e3f7c",
+          "title": "卢伟冰发文庆祝小米手机 15 周岁生日，称未来全面拥抱 AI",
+          "desc": "IT之家 8 月 16 日消息，小米集团合伙人 / 总裁、手机部总裁、小米品牌总经理卢伟冰刚刚发文庆祝小米手机 15 周岁生日。从“为发烧而生”到“让全球每个人都能享受科技带来的美好生活”；从应用创新，到目标成为全球硬核科技领导者；从中国到全球；未来全面拥抱 AI。IT之家注：北京小米科技有限公司于 2010 年 4 月 6 日正式成立，最初办公地点位于银谷大厦。同年 8 月，小米推出内测版 MI",
+          "source": "IT之家",
+          "date": "2026-08-16",
+          "dateLabel": "8月16日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/990/250.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/7eaae376-85a8-4f85-99e5-06ca39fe4d2c.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "4daf8bb6c988",
+          "title": "广汽启境 GT7 今晚面向 L3 级架构全球首拆，华为靳玉志现场见证",
+          "desc": "IT之家 8 月 16 日消息，广汽集团今日宣布，启境 GT7 车型面向 L3 级有条件自动驾驶架构的全球首拆今晚 19:00 直播举行。据官方透露，本次活动由启境汽车 CEO 刘嘉铭、华为公司高级副总裁兼引望公司 CEO 靳玉志共同见证。此外，影视飓风创始人 TIM 也将参与本次活动。由广汽集团与华为乾崑联合打造的高端智能新能源汽车品牌“启境”旗下首款车型 —— 启境 GT7 今日正式上市。PA",
+          "source": "IT之家",
+          "date": "2026-08-16",
+          "dateLabel": "8月16日",
+          "tags": [
+            "research",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/990/247.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/ef347145-a81d-48ef-af2c-90d0207b0794.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "b257f772ab87",
+          "title": "黑暗奇幻动作 RPG《黎明行者之血》开启预购：游戏国区 298 元起，9 月 3 日发售",
+          "desc": "IT之家 8 月 16 日消息，由 Rebel Wolves 开发、万代南梦宫（Bandai Namco）发行的开放世界黑暗奇幻动作 RPG《黎明行者之血（The Blood of Dawnwalker）》将于 2026 年 9 月 3 日发售，登陆 PlayStation 5、XBOX Series X|S、以及 PC 平台。目前，本作已在 Steam 开启预购，国区标准版价格 298 元，日蚀",
+          "source": "IT之家",
+          "date": "2026-08-16",
+          "dateLabel": "8月16日",
+          "tags": [
+            "policy"
+          ],
+          "url": "https://www.ithome.com/0/990/245.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/f8cbf38e-b41b-4e57-8d5a-21c13fbf5289.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "50c33cdecaab",
+          "title": "网友吐槽 SK 海力士 SSD 故障无法换新，厂商只同意按原价退款",
+          "desc": "IT之家 8 月 16 日消息，SK 海力士虽是知名存储芯片厂商，主打内存颗粒业务，但也推出过不少高品质消费级固态硬盘。近日有 Reddit 用户称，自己的一块 SSD 出现故障，联系 SK 海力士申请保修换新，结果厂商表示没有可替换的同型号产品，只同意按当初的购买价退款。但受全球存储缺货影响，眼下 SSD 价格大幅上涨，这笔退款根本不够再买一块同规格的产品。正常来说，SSD 申请保修一般有两种处",
+          "source": "IT之家",
+          "date": "2026-08-16",
+          "dateLabel": "8月16日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/990/244.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/de073751-1719-4fba-a6be-0d825aac92f9.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "8969e62836a4",
+          "title": "撤离冒险射击游戏《ARC Raiders》全球销量已达到 1630 万份，累计收入超过 880 亿日元",
+          "desc": "IT之家 8 月 16 日消息，发行商 NEXON 在财报中透露，由瑞典 Embark Studios 开发的科幻题材第三人称 PvPvE 撤离射击游戏《ARC Raiders（弧光猎人）》在 PlayStation 5、XBOX Series X|S、以及 PC 平台的累计销量已达到 1,630 万份。相比于 2026 年 3 月，游戏销量增加了 80 万份。自 2025 年 10 月 30 日",
+          "source": "IT之家",
+          "date": "2026-08-16",
+          "dateLabel": "8月16日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/990/242.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/3/31c2c540-dff5-48ae-b141-b06ec1e63dcb.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "f1fc7c295347",
+          "title": "奕境曾清林谈岚图追光 S 隧道 360° 大回环：东风 57 年造车底蕴，绝不是靠 AI 堆出来的",
+          "desc": "IT之家 8 月 16 日消息，奕境汽车品牌总经理曾清林昨晚发文，谈及了岚图追光 S 此次隧道 360° 大回环挑战。针对网友对挑战的质疑，他表示，岚图的底盘都是用最猛的料，调校也是行业一绝。从来不会搞“差不多就行”那一套。曾清林称，东风的技术积累还是很深的，只是这些年，在营销上确实还是保守了点，不会玩“花活儿”。许许多多扎实的技术，默默藏在车子里没有传播好。而东风 57 年造车底蕴，绝不是靠 A",
+          "source": "IT之家",
+          "date": "2026-08-16",
+          "dateLabel": "8月16日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/990/238.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/606fb3eb-5d5c-408c-b5de-8848b5a5d4d6.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "f9aa25cccf43",
+          "title": "消息称英伟达拟向软银旗下 SB Energy 投资 30 亿美元，助 OpenAI 建设数据中心",
+          "desc": "IT之家 8 月 16 日消息，据科技媒体《The Information》当地时间周六援引知情人士消息，英伟达正洽谈向软银子公司 SB Energy 投资至多 30 亿美元（IT之家注：现汇率约合 202.82 亿元人民币）。SB Energy 目前正为 OpenAI 开发俄亥俄州的大型数据中心项目。报道称，这笔拟议投资是三方磋商的一部分，英伟达正与 OpenAI、SB Energy 商议，为俄",
+          "source": "IT之家",
+          "date": "2026-08-16",
+          "dateLabel": "8月16日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/990/237.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/3/278316e8-1c15-4d6e-86a3-aef371f9261d.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "74fda3fc7465",
+          "title": "特斯拉 Cybercab 前脸灯带可变色，实际用途未官宣",
+          "desc": "IT之家 8 月 16 日消息，特斯拉 Cybercab 的贯穿前灯条似乎还有一个隐藏功能。这款车近日在佛罗里达州一场自动驾驶活动上亮相时，前灯呈现出红、白、蓝三色效果；如今又有人在奥斯汀拍到一辆全新 Cybercab 的前灯带亮起了紫色。这两次目击似乎证实，Cybercab 确实配备了可显示多种色彩的灯条，不过特斯拉尚未官方证实这一点，也未说明该功能的具体用途。首个线索出现在佛罗里达州州长罗恩 ",
+          "source": "IT之家",
+          "date": "2026-08-16",
+          "dateLabel": "8月16日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/990/235.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/bad36541-08a9-4ffa-8da8-9bda25fb7d94.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-08-15",
       "dateLabel": "8月15日",
       "id": "d15",
       "items": [
         {
-          "id": "e4e56c2ed19d",
-          "title": "微软 Copilot Notebooks 扩展支持 Markdown，强化 AI 资料分析",
-          "desc": "IT之家 8 月 15 日消息，科技媒体 Neowin 昨日（8 月 14 日）发布博文，报道称微软更新 Copilot Notebooks 应用，新增支持 Markdown、纯文本和富文本 3 种文本格式。IT之家注：Copilot Notebooks 是微软 Microsoft 365 Copilot 的专用智能工作区，支持用户集中 Word、PowerPoint、Excel、PDF 和链接等",
-          "source": "IT之家",
+          "id": "8c1310f3e72a",
+          "title": "至知研究院提出大模型可解释性新路线：拆权重，数据成本不到1%",
+          "desc": "理解大模型，无需再训练一个替代网络",
+          "source": "量子位",
           "date": "2026-08-15",
           "dateLabel": "8月15日",
           "tags": [
-            "business"
+            "model",
+            "research",
+            "policy"
           ],
-          "url": "https://www.ithome.com/0/990/013.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/45579488-8782-4af0-85c5-ef03d2b26860.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/08/473876.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "f0385339d447",
-          "title": "微软 Win11/Win10 版 Word 加入文本定位链接，协作跳转不必手动滚动",
-          "desc": "IT之家 8 月 15 日消息，科技媒体 Neowin 昨日（8 月 14 日）发布博文，报道称微软升级 Windows 10/Windows 11 以及 macOS 版 Microsoft Word 应用，新增“复制位置链接”功能。功能方面，用户选中文档中的一段文字后，在右键菜单中选择“复制位置链接”选项，Word 随后生成可分享链接。获得文档访问权限的用户点击链接后，可直接跳转到指定文本位置，",
-          "source": "IT之家",
-          "date": "2026-08-15",
-          "dateLabel": "8月15日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/990/007.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/e808e5f3-0618-4955-ac78-d7cf3764e269.png",
-          "color": "#d97706"
-        },
-        {
-          "id": "2ec9d1155a63",
-          "title": "阿里千问开放 AI 眼镜生态，支持自建导游、教练、巡检等多种 skill",
-          "desc": "IT之家 8 月 15 日消息，阿里千问开放平台于 8 月 10 日上线，同时支持 App、PC 和 AI 眼镜三端。据官方最新介绍，在眼镜端，千问提供技能平台和行业定制两大模块。在技能平台上，开发者可以调用已开放的眼镜能力，结合特定场景和人群需求创建 Skill。调用“眼镜拍照”插件，为视障群体开发“身边有什么”Skill，让眼镜辅助识别前方台阶、障碍物并进行语音提示，成为随身助手；创建景点导览",
-          "source": "IT之家",
+          "id": "66d9bfb36225",
+          "title": "根治AI音乐通病！这家国产音乐模型正面挑战SUNO",
+          "desc": "音潮API限时免费开放",
+          "source": "量子位",
           "date": "2026-08-15",
           "dateLabel": "8月15日",
           "tags": [
             "business",
             "cn"
           ],
-          "url": "https://www.ithome.com/0/990/003.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/ebe25244-a52b-4a4f-9c55-a8fb52ac1ffd.png",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/08/473866.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "7418b39fea03",
-          "title": "DeepSeek V4 Pro 正式版、Harness 上线国家超算互联网，可一站式完成部署开发",
-          "desc": "IT之家 8 月 15 日消息，8 月 14 日，国家超算互联网宣布上线 DeepSeek V4 Pro 正式版（DeepSeek-V4-Pro-0813），以及智能体框架 DeepSeek Harness。官方介绍称，作为全国首个十万卡级超智融合算力资源池，国家超算互联网可为广大科研院所、科创企业、技术开发者提供大模型从训练、微调、评测到部署全生命周期的海量算力支撑。依托自主可控的国家级国产算力",
+          "id": "192fbe1cef3e",
+          "title": "源神启动！一张消费级显卡跑“Opus级”Agent，Qwen3.8-27B多项榜单反超Claude",
+          "desc": "推理能力还能自定义",
+          "source": "量子位",
+          "date": "2026-08-15",
+          "dateLabel": "8月15日",
+          "tags": [
+            "model",
+            "research"
+          ],
+          "url": "https://www.qbitai.com/2026/08/473669.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "26a45591cda6",
+          "title": "DeepSeek Harness插件一夜燃爆GitHub：长期记忆、电子宠物、4399小游戏全来了",
+          "desc": "大家已经给DeepSeek装上了啥",
+          "source": "量子位",
+          "date": "2026-08-15",
+          "dateLabel": "8月15日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/08/473597.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "9023edb30433",
+          "title": "对话郎咸朋：用机器人创业重做一次“百万智驾量产”",
+          "desc": "1.9万字全文实录",
+          "source": "量子位",
+          "date": "2026-08-15",
+          "dateLabel": "8月15日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.qbitai.com/2026/08/473407.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "a65490703289",
+          "title": "高效低成本开发，商业增长回报高，鸿蒙元服务背后的“开发厨房”让开发者按时吃饭！",
+          "desc": "对开发者而言，ASCF带来的不仅是“按时吃饭”的从容，更是低成本投入、高效率交付、高回报增长的完整商业闭环。",
+          "source": "量子位",
+          "date": "2026-08-15",
+          "dateLabel": "8月15日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/08/473395.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "cffdf85a7b96",
+          "title": "IT早报 0816：DeepSeek V4 Pro 正式版、Harness 上线国家超算互联网；番茄小说作者“去世”三年后“复活”；曝小米 18 手机标准版延至明年初发布...",
+          "desc": "“IT早报”时间，大家好，现在是 2026 年 8 月 16 日星期日，今天的重要科技资讯有：1. DeepSeek V4 Pro 正式版、Harness 上线国家超算互联网，可一站式完成部署开发国家超算互联网正式上线 DeepSeek V4 Pro 正式版及智能体框架 Harness，为科研与企业提供从训练到部署的国产算力支撑。该版本增强 Agent 能力，性能媲美 Claude Fable 5",
           "source": "IT之家",
           "date": "2026-08-15",
           "dateLabel": "8月15日",
@@ -61,58 +230,14 @@
             "business",
             "cn"
           ],
-          "url": "https://www.ithome.com/0/990/002.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/bc7000a8-9df3-47e5-8aad-8c8fb6c19645.png?x-bce-process=image/format,f_auto",
+          "url": "https://www.ithome.com/0/990/211.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/bc7000a8-9df3-47e5-8aad-8c8fb6c19645.png",
           "color": "#d97706"
         },
         {
-          "id": "88219b070650",
-          "title": "iQOO X 概念机内部发布：骁龙 8 Elite Gen10 Pro 处理器、15000mAh 固态电池",
-          "desc": "IT之家 8 月 15 日消息，据博主 @闪飞 分享，iQOO 昨日内部发布了一款十周年概念机 —— iQOO X。据称，这部手机由“酷客”们参与共创。据介绍，这款手机搭载了骁龙 8 Elite Gen10 Pro 处理器 + 自研电竞芯片 QX、内置 15000mAh 全固态蓝冰电池、配备真 · 全面屏 LTPO 6.0（支持 2K+240Hz 超高刷新率）、半屏超声波指纹等。IT之家注意到，现",
-          "source": "IT之家",
-          "date": "2026-08-15",
-          "dateLabel": "8月15日",
-          "tags": [
-            "model",
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/990/000.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/e36f7958-47d2-4e52-a641-6a02cd29cdff.png",
-          "color": "#d97706"
-        },
-        {
-          "id": "e8da8808c5c2",
-          "title": "微软承认 Win10/Win11 经典版 Outlook 存在 Copilot 入口消失 Bug，部分用户拍手叫好",
-          "desc": "IT之家 8 月 15 日消息，科技媒体 Windows Central 昨日（8 月 14 日）发布博文，报道称微软承认经典版 Outlook 存在故障，会隐藏 Copilot 按钮并移除相关入口，阻止用户访问 Copilot Chat。对此部分用户视其为重大更新，反而拍手叫好。微软承认在 Windows 10、Windows 11 平台上，用户升级经典版 Outlook 至 20026.201",
-          "source": "IT之家",
-          "date": "2026-08-15",
-          "dateLabel": "8月15日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/989/999.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/b9a37cdd-98c0-4d02-90f4-6a7ecbdd9062.jpg",
-          "color": "#d97706"
-        },
-        {
-          "id": "f92e8673f4ad",
-          "title": "谷歌 Gemini 将推新选项：关闭 AI 生成图片 / 视频 / 音乐的可见水印",
-          "desc": "IT之家 8 月 15 日消息，谷歌昨日（8 月 14 日）在 X 平台发布推文，预告将会在未来几天为 Gemini 新增 Media Watermark 设置，让用户可关闭图像、视频和音乐作品的可见水印。用户可从 Gemini 左侧栏打开“设置”后，在菜单倒数第 3 项可以找到 Media Watermark。将鼠标悬停在该选项上后，界面会显示“On”和“Off”2 个选项。保持开启时，Gemi",
-          "source": "IT之家",
-          "date": "2026-08-15",
-          "dateLabel": "8月15日",
-          "tags": [
-            "model",
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/989/997.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/a4bbd699-77fa-4328-bd95-03e4aa0459a7.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "5f33fecaae30",
-          "title": "可维修模块化手机 Fairphone 6+ 官宣 8 月 18 日发布：升级 12GB 内存",
-          "desc": "IT之家 8 月 15 日消息，荷兰品牌 @Fairphone 昨日（8 月 14 日）官宣将于欧洲中部时间 8 月 18 日 13 点（北京时间 8 月 18 日 19 点）推出可维修模块化手机 Fairphone 6+。颜色方面，IT之家此前报道，Fairphone 6+ 会有蓝色（Cobalt Blue）、黑色（Horizon Black）以及绿色（Forest Green）三种颜色。Fai",
+          "id": "d21af5325c30",
+          "title": "美科 AF 25mm F1.7 Air APS-C 镜头上市：提供 E/Z/X 卡口，首发价 699 元",
+          "desc": "IT之家 8 月 16 日消息，美科旗下 AF 25mm F1.7 Air 自动对焦镜头现已在京东上市，提供索尼 E、尼康 Z、富士 X 卡口三种版本，原价 799 元，首发 699 元。京东美科 25mmF1.7 Air 镜头 699 元直达链接该镜头为 APS-C 画幅，主打轻量化、高性价比，重约 170 克，整体采用复古外观设计，有黑色和白色两种配色可选，适合搭配 ZV-E10 II 等机型",
           "source": "IT之家",
           "date": "2026-08-15",
           "dateLabel": "8月15日",
@@ -120,8 +245,8 @@
             "business",
             "cn"
           ],
-          "url": "https://www.ithome.com/0/989/996.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/c5174f9a-79c0-429c-8ca7-a41524df296d.png",
+          "url": "https://www.ithome.com/0/990/208.htm",
+          "image": "https://img14.360buyimg.com/pop/jfs/t1/496564/10/10562/2590980/6a7eb573F343a5931/00835dc5dc0c76dc.png",
           "color": "#d97706"
         }
       ]
@@ -185,68 +310,6 @@
             "business"
           ],
           "url": "https://www.qbitai.com/2026/08/473149.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "9de296644b34",
-          "title": "刚刚，GLM-5.3发布：Coding更接近Fable 5！潜伏40年的bug都被揪出来了",
-          "desc": "顺手拿下最强开源安全模型",
-          "source": "量子位",
-          "date": "2026-08-14",
-          "dateLabel": "8月14日",
-          "tags": [
-            "model",
-            "business",
-            "policy",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/08/473038.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "745605e111cd",
-          "title": "百度文库网盘「库库AI」AI办公MAU超2500万，新推办公独立端",
-          "desc": "百度文库网盘「库库AI」AI办公MAU超2500万，新推办公独立端",
-          "source": "量子位",
-          "date": "2026-08-14",
-          "dateLabel": "8月14日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/08/473144.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "4f71ce1712ed",
-          "title": "算力需求两年涨10倍，机器人为了走进真实物理世界，正在疯狂「吃算力」",
-          "desc": "少花一半成本，部署效率提升80%！机器人研发可以不用重复造轮子了。",
-          "source": "量子位",
-          "date": "2026-08-14",
-          "dateLabel": "8月14日",
-          "tags": [
-            "research",
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/08/472722.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "f702fed94860",
-          "title": "德塔智能与舞肌科技达成战略合作，联合规范全身协同灵巧操作数据采集",
-          "desc": "德塔智能与舞肌科技达成战略合作，联合规范全身协同灵巧操作数据采集",
-          "source": "量子位",
-          "date": "2026-08-14",
-          "dateLabel": "8月14日",
-          "tags": [
-            "business",
-            "policy"
-          ],
-          "url": "https://www.qbitai.com/2026/08/472718.html",
           "image": "",
           "color": "#7c3aed"
         }
@@ -3254,128 +3317,6 @@
           "color": "#2563eb"
         }
       ]
-    },
-    {
-      "date": "2026-07-13",
-      "dateLabel": "7月13日",
-      "id": "d13",
-      "items": [
-        {
-          "id": "aeacbbdf7e96",
-          "title": "豆包、千问智能体下线，可灵、Seedance们的管控还会远吗？",
-          "desc": "AI监管落地，智能体下线，视频生成AI或成下一个整顿目标",
-          "source": "36氪",
-          "date": "2026-07-13",
-          "dateLabel": "7月13日",
-          "tags": [
-            "model",
-            "policy"
-          ],
-          "url": "https://36kr.com/p/3894130525912071",
-          "image": "https://img.36krcdn.com/hsossms/20260713/v2_db4cdd75c1b64077904db3f184db4691@000000@ai_oswg338032oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "c9ee68baea35",
-          "title": "豆包开始收费了，字节到底有没有商业化的压力",
-          "desc": "是战略性变现还是被迫止血？",
-          "source": "36氪",
-          "date": "2026-07-13",
-          "dateLabel": "7月13日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3894019113810944",
-          "image": "https://img.36krcdn.com/hsossms/20260713/v2_facd8db7e1e64882ac5b88d2a050df84@5888275@ai_oswg1019505oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "1c0481de80ec",
-          "title": "一年赚1950亿，差点破产，史上第二大IPO背后的秘密",
-          "desc": "真正改变命运的，是在未来迟迟不来时，有耐心不退出。",
-          "source": "36氪",
-          "date": "2026-07-13",
-          "dateLabel": "7月13日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3893993575841027",
-          "image": "https://img.36krcdn.com/hsossms/20260713/v2_cd26055541ff4ef199974f692521e798@5888275@ai_oswg1023130oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "60a6a2286cf9",
-          "title": "苹果一纸诉状，马斯克和奥特曼又吵起来了",
-          "desc": "吵架也是一种“战术”。",
-          "source": "36氪",
-          "date": "2026-07-13",
-          "dateLabel": "7月13日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3893962354801417",
-          "image": "https://img.36krcdn.com/hsossms/20260713/v2_e1bf8b6a56de4aa6a8e870d17b1618f5@5888275@ai_oswg917846oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "07825c3cb06e",
-          "title": "老黄的赌局",
-          "desc": "身在硅谷，心在华尔街",
-          "source": "36氪",
-          "date": "2026-07-13",
-          "dateLabel": "7月13日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3893972567849865",
-          "image": "https://img.36krcdn.com/hsossms/20260713/v2_ee555cbea05a4d35a7b11fb634e64d79@5888275@ai_oswg951881oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "73963817df9f",
-          "title": "是时候该给Token算算ROI的账了",
-          "desc": "Token狂欢之后，企业开始算账了",
-          "source": "36氪",
-          "date": "2026-07-13",
-          "dateLabel": "7月13日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3893971626376200",
-          "image": "https://img.36krcdn.com/hsossms/20260713/v2_cda25764204e478294b003116e91f52b@5888275@ai_oswg950143oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "39c6b6fd7183",
-          "title": "Seed吃肉，Flow喝汤，当字节不再“All in”一个AI",
-          "desc": "终究是豆包扛下了所有",
-          "source": "36氪",
-          "date": "2026-07-13",
-          "dateLabel": "7月13日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3893938573425538",
-          "image": "https://img.36krcdn.com/hsossms/20260713/v2_3c01c2450c95429d8230ed1f3119cfb9@5888275@ai_oswg902052oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "9cda85fe813d",
-          "title": "人类音乐需要重新定价",
-          "desc": "人类已经无法阻挡AI前进的脚步，但可以选择给自己重新定个价。",
-          "source": "36氪",
-          "date": "2026-07-13",
-          "dateLabel": "7月13日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3893923782605314",
-          "image": "https://img.36krcdn.com/hsossms/20260713/v2_a14ae87fafcd47199fa87ec6560db45a@5888275@ai_oswg987410oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -3401,6 +3342,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-08-15 10:49",
-  "totalNews": 217
+  "updateTime": "2026-08-16 10:57",
+  "totalNews": 213
 }
