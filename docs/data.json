@@ -1,29 +1,225 @@
 {
   "newsData": [
     {
+      "date": "2026-08-17",
+      "dateLabel": "8月17日",
+      "id": "d17",
+      "items": [
+        {
+          "id": "a222dbc0a36a",
+          "title": "阿里正式出售游戏业务：曝价格至少 15 亿美元，灵犀互娱 CEO 周炳枢发布内部信",
+          "desc": "IT之家 8 月 17 日消息，据彭博社今日报道，阿里巴巴正在以至少 15 亿美元（IT之家注：现汇率约合 101.23 亿元人民币）的交易出售其游戏部门，加速向 AI 转型。根据彭博社获得的一份内部备忘录，亚洲私募股权公司 Trustar Capital（信宸资本）已达成协议，收购阿里游戏业务灵犀互娱。报道称，灵犀互娱 CEO 周炳枢表示：“阿里巴巴将灵犀交给信宸资本，是为了更好地聚焦于其战略重",
+          "source": "IT之家",
+          "date": "2026-08-17",
+          "dateLabel": "8月17日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/990/506.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/ab937d5e-cab0-4abe-9861-e8bbd399072c.png?x-bce-process=image/auto-orient,o_1",
+          "color": "#d97706"
+        },
+        {
+          "id": "288f68356c00",
+          "title": "不再仅限 API 密钥：Codex 中的 GPT‑5.6 Sol 百万上下文能力已可通过 ChatGPT 账号使用",
+          "desc": "IT之家 8 月 17 日消息，今日，OpenAI 负责 Codex 与 ChatGPT 的工程师 Tibo（@thsottiaux）在 X 平台宣布，Codex 中针对 GPT-5.6 Sol 模型的 100 万 Token 上下文窗口功能，原本仅适用于 API 密钥，但现在也支持通过 ChatGPT 账号的使用场景。IT之家注意到，Tibo 在帖文中明确表示：“GPT-5.6 Sol 在 Co",
+          "source": "IT之家",
+          "date": "2026-08-17",
+          "dateLabel": "8月17日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://www.ithome.com/0/990/503.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/aee85e64-8d86-459d-a431-541b68e6ade0.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "02f9483425c8",
+          "title": "鸿蒙智行尊界 V800/V680 获批合肥市 L3 级自动驾驶测试牌照",
+          "desc": "IT之家 8 月 17 日消息，尊界汽车今日宣布，鸿蒙智行尊界 V800 | V680 获批合肥市 L3 级自动驾驶测试牌照，将持续开展自动驾驶全场景的深度测试。据介绍，尊界 V800 | V680 首搭 ADS 5.0 全栈软硬件解决方案，面向 L3 及更高阶自动驾驶的架构设计，搭载全新一代立体融合感知系统，更高阶自动驾驶计算冗余全感知、全冗余、全融合，安全能力再进阶。在 8 月 5 日的尊界时",
+          "source": "IT之家",
+          "date": "2026-08-17",
+          "dateLabel": "8月17日",
+          "tags": [
+            "research",
+            "business",
+            "policy"
+          ],
+          "url": "https://www.ithome.com/0/990/501.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/3fd0cc49-1c78-4346-a08a-dc0381f2d8bd.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "886587454e67",
+          "title": "蓝戟 Arc Pro B65 TF 32G 专业显卡上架，官方零售价 8999 元",
+          "desc": "IT之家 8 月 17 日消息，蓝戟 (GUNNIR) 今日宣布，其此前公布的 Intel Arc Pro B65 TF 32G 专业显卡现已上架电商平台，官方零售价 8999 元。Arc Pro B65 TF 32G 三维 268 × 111.1 × 40.1 (mm)，属于全高全长双槽类型。其拥有 20 个 Xe-core，显卡时钟设定 2400MHz，峰值 INT8 算力 197 TOPS，",
+          "source": "IT之家",
+          "date": "2026-08-17",
+          "dateLabel": "8月17日",
+          "tags": [
+            "model",
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/990/500.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/a77c30c7-eacc-44a4-bee7-64518f08bc97.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "39ff32b75feb",
+          "title": "全球首个！我国汽车芯片五项认证认可行业标准发布",
+          "desc": "IT之家 8 月 17 日消息，据国家市场监督管理总局官方微信公众号“市说新语”消息，近日，市场监管总局（国家认监委）批准立项的《汽车芯片机构认证审查通用评价要求》等五项认证认可行业标准发布。该五项标准构建了全球首个针对汽车芯片全产业链相关机构的国家层面能力评价标准体系，标志着我国在构建自主可控的汽车芯片质量保障体系方面取得重大制度突破。汽车芯片是智能网联汽车的中枢神经，也是核心战略资源。长期以来",
+          "source": "IT之家",
+          "date": "2026-08-17",
+          "dateLabel": "8月17日",
+          "tags": [
+            "business",
+            "policy"
+          ],
+          "url": "https://www.ithome.com/0/990/496.htm",
+          "image": "",
+          "color": "#d97706"
+        },
+        {
+          "id": "818a7102e271",
+          "title": "贾跃亭：法拉第未来探索机器人独立融资及上市",
+          "desc": "IT之家 8 月 17 日消息，法拉第未来（FF）创始人、合伙人、首席产品及用户生态官贾跃亭今日宣布，FF 机器人进入放量收入快速增长新阶段，探索机器人独立融资及上市。贾跃亭表示，下半年，公司将继续推进“五大变革”，全面打响“四核全智”Q3 机器人实用化战役，举措如下：1，业务方面，推动“四核全智”生态各项业务进一步落地并扩大营收：第一核，EAI 本体，加速销售、出货及交付爬坡，重点拓展加州、德州",
+          "source": "IT之家",
+          "date": "2026-08-17",
+          "dateLabel": "8月17日",
+          "tags": [
+            "research",
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/990/442.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/007ad88e-178d-4ec4-a2e8-89a32390cebb.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "5d64ff3d6932",
+          "title": "王莆中聊美团 AI 变革：全员“养虾运动”曾日耗千万，干扰真实经营",
+          "desc": "IT之家 8 月 17 日消息，据第一财经 8 月 14 日报道，美团核心本地商业 CEO 王莆中在公开演讲中谈及对企业 AI 应用的观点，同时分享了美团内部进行 AI 变革的过程。王莆中表示，从现状看，虽然 AI 供给丰富，但在落地方面，现阶段仅有少数企业能统计到可以测量的收益。这一问题源于四重错配：认知上，企业对 AI 要么夸大要么轻视；效率上，大模型用于日常事务而未触及核心；场景上，AI 仍",
+          "source": "IT之家",
+          "date": "2026-08-17",
+          "dateLabel": "8月17日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/990/439.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/2e342783-d2ce-4988-8e1c-5590772b9a72.png?x-bce-process=image/auto-orient,o_1",
+          "color": "#d97706"
+        },
+        {
+          "id": "667ac589460d",
+          "title": "保量不保价：消息称服务器 BMC SoC 龙头信骅首度签署长期供货协议",
+          "desc": "IT之家 8 月 17 日消息，台媒《工商时报》今日援引供应链消息报道称，全球第一大服务器 BMC SoC 供应商信骅 (ASPEED) 首度与下游客户签署 LTA（长期协议）。这反映 AI 产业的供应紧张态势正逐步蔓延至所有关联领域。报道指出，信骅已与多家大型客户签署 LTA，其余谈判也接近完成。此次达成的 1~2 年期合约采取“保量不保价”模式，显示信骅在谈判中处于有利地位。BMC SoC 与",
+          "source": "IT之家",
+          "date": "2026-08-17",
+          "dateLabel": "8月17日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/990/438.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/c1cc4f64-6006-4300-9b6f-711f239d18cf.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-08-16",
       "dateLabel": "8月16日",
       "id": "d16",
       "items": [
         {
-          "id": "4bef780e3f7c",
-          "title": "卢伟冰发文庆祝小米手机 15 周岁生日，称未来全面拥抱 AI",
-          "desc": "IT之家 8 月 16 日消息，小米集团合伙人 / 总裁、手机部总裁、小米品牌总经理卢伟冰刚刚发文庆祝小米手机 15 周岁生日。从“为发烧而生”到“让全球每个人都能享受科技带来的美好生活”；从应用创新，到目标成为全球硬核科技领导者；从中国到全球；未来全面拥抱 AI。IT之家注：北京小米科技有限公司于 2010 年 4 月 6 日正式成立，最初办公地点位于银谷大厦。同年 8 月，小米推出内测版 MI",
-          "source": "IT之家",
+          "id": "e8652aadec52",
+          "title": "杭州95后小伙，5亿买走硅谷城堡",
+          "desc": "辞别马斯克xAI半年之后…",
+          "source": "量子位",
           "date": "2026-08-16",
           "dateLabel": "8月16日",
           "tags": [
             "business",
             "cn"
           ],
-          "url": "https://www.ithome.com/0/990/250.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/7eaae376-85a8-4f85-99e5-06ca39fe4d2c.png?x-bce-process=image/format,f_auto",
+          "url": "https://www.qbitai.com/2026/08/474245.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "807552464d07",
+          "title": "李飞飞最新访谈：AI咋能代替人呢？",
+          "desc": "AI不是替代者，而是个人能力的放大镜",
+          "source": "量子位",
+          "date": "2026-08-16",
+          "dateLabel": "8月16日",
+          "tags": [
+            "policy"
+          ],
+          "url": "https://www.qbitai.com/2026/08/474140.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "1daac3b463aa",
+          "title": "“B站教AI”爆火后，北航90后副教授何静回应一切",
+          "desc": "“错过种一棵树最好的时间”",
+          "source": "量子位",
+          "date": "2026-08-16",
+          "dateLabel": "8月16日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/08/474064.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "26e480059204",
+          "title": "WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队",
+          "desc": "背后是四项关键能力",
+          "source": "量子位",
+          "date": "2026-08-16",
+          "dateLabel": "8月16日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/08/473972.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "a616b3ebabda",
+          "title": "牛来！A社营收暴涨1400%，最新季度入账115亿美元",
+          "desc": "将超越马斯克的SpaceX，成为史上上市估值最高的IPO。",
+          "source": "量子位",
+          "date": "2026-08-16",
+          "dateLabel": "8月16日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/08/473947.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "73ae7ab52a0e",
+          "title": "消息称驾校行业供给过剩态势严峻，行业龙头开始引入“VR+AI”等特色培训模式",
+          "desc": "IT之家 8 月 17 日消息，昨日“谁杀死了驾校”在微博引起热议，一度冲上微博热搜第一。相应话题显示，曾经生意红火的驾校行业如今供给过剩态势严峻，部分中小驾校亏损倒闭。据媒体“第一财经”报道，过去几个学员顶着烈日围着一辆车排队练车，而现如今很多驾校已经告别排队等待，“一人一车”教学模式兴起。该媒体记者在广州市番禺区南村一家驾校看到，该驾校小二楼挂着“即报名即练车日夜班练车一人一车免费模拟”的广告",
+          "source": "IT之家",
+          "date": "2026-08-16",
+          "dateLabel": "8月16日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/990/431.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/3d41bb5a-9f0f-45ad-8c5a-80f6f8da071d.jpg",
           "color": "#d97706"
         },
         {
-          "id": "4daf8bb6c988",
-          "title": "广汽启境 GT7 今晚面向 L3 级架构全球首拆，华为靳玉志现场见证",
-          "desc": "IT之家 8 月 16 日消息，广汽集团今日宣布，启境 GT7 车型面向 L3 级有条件自动驾驶架构的全球首拆今晚 19:00 直播举行。据官方透露，本次活动由启境汽车 CEO 刘嘉铭、华为公司高级副总裁兼引望公司 CEO 靳玉志共同见证。此外，影视飓风创始人 TIM 也将参与本次活动。由广汽集团与华为乾崑联合打造的高端智能新能源汽车品牌“启境”旗下首款车型 —— 启境 GT7 今日正式上市。PA",
+          "id": "f41baae32190",
+          "title": "国产 GPU 厂商壁仞科技预告 2026 上半年营收暴涨超 18 倍，经调整亏损收窄 35%-47%",
+          "desc": "IT之家 8 月 17 日消息，国产通用 GPU 厂商壁仞科技今日在港交所公告，基于对集团截至 2026 年 6 月 30 日止六个月未经审核综合管理账目的初步测算，以及对目前可获取最新资料的评估，预计报告期将录得：收入约人民币 11.50 亿元至人民币 13.00 亿元；对比截至 2025 年 6 月 30 日止六个月的约人民币 0.589 亿元，同期增长率约介于 1852%‑2107%；期内亏",
           "source": "IT之家",
           "date": "2026-08-16",
           "dateLabel": "8月16日",
@@ -32,93 +228,24 @@
             "business",
             "cn"
           ],
-          "url": "https://www.ithome.com/0/990/247.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/ef347145-a81d-48ef-af2c-90d0207b0794.png?x-bce-process=image/format,f_auto",
+          "url": "https://www.ithome.com/0/990/428.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/3eabca8b-f809-4816-ade0-a81b7ece4e48.png",
           "color": "#d97706"
         },
         {
-          "id": "b257f772ab87",
-          "title": "黑暗奇幻动作 RPG《黎明行者之血》开启预购：游戏国区 298 元起，9 月 3 日发售",
-          "desc": "IT之家 8 月 16 日消息，由 Rebel Wolves 开发、万代南梦宫（Bandai Namco）发行的开放世界黑暗奇幻动作 RPG《黎明行者之血（The Blood of Dawnwalker）》将于 2026 年 9 月 3 日发售，登陆 PlayStation 5、XBOX Series X|S、以及 PC 平台。目前，本作已在 Steam 开启预购，国区标准版价格 298 元，日蚀",
+          "id": "ec667f1c6bbd",
+          "title": "IT早报 0817：知情人士回应追觅大家电解散传闻；DeepSeek-V4 系列今日起价格上调；鸿蒙智行问界儿童车官宣将上市；SK 海力士硬盘故障仅向用户原价退款...",
+          "desc": "“IT早报”时间，大家好，现在是 2026 年 8 月 17 日星期一，今天的重要科技资讯有：1. 知情人士回应“网传追觅大家电解散”：业务正常做网传追觅大家电解散、供应商未结款将组团维权，还牵扯出裁员、卖私人飞机等传闻，相关话题登上热搜。接近追觅的知情人士称业务仍正常开展。>> 查看详情2. DeepSeek API 峰谷定价方案今日生效，高峰时段价格翻倍深度求索更新了 DeepSeek API",
           "source": "IT之家",
           "date": "2026-08-16",
           "dateLabel": "8月16日",
           "tags": [
-            "policy"
-          ],
-          "url": "https://www.ithome.com/0/990/245.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/f8cbf38e-b41b-4e57-8d5a-21c13fbf5289.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "50c33cdecaab",
-          "title": "网友吐槽 SK 海力士 SSD 故障无法换新，厂商只同意按原价退款",
-          "desc": "IT之家 8 月 16 日消息，SK 海力士虽是知名存储芯片厂商，主打内存颗粒业务，但也推出过不少高品质消费级固态硬盘。近日有 Reddit 用户称，自己的一块 SSD 出现故障，联系 SK 海力士申请保修换新，结果厂商表示没有可替换的同型号产品，只同意按当初的购买价退款。但受全球存储缺货影响，眼下 SSD 价格大幅上涨，这笔退款根本不够再买一块同规格的产品。正常来说，SSD 申请保修一般有两种处",
-          "source": "IT之家",
-          "date": "2026-08-16",
-          "dateLabel": "8月16日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/990/244.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/de073751-1719-4fba-a6be-0d825aac92f9.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "8969e62836a4",
-          "title": "撤离冒险射击游戏《ARC Raiders》全球销量已达到 1630 万份，累计收入超过 880 亿日元",
-          "desc": "IT之家 8 月 16 日消息，发行商 NEXON 在财报中透露，由瑞典 Embark Studios 开发的科幻题材第三人称 PvPvE 撤离射击游戏《ARC Raiders（弧光猎人）》在 PlayStation 5、XBOX Series X|S、以及 PC 平台的累计销量已达到 1,630 万份。相比于 2026 年 3 月，游戏销量增加了 80 万份。自 2025 年 10 月 30 日",
-          "source": "IT之家",
-          "date": "2026-08-16",
-          "dateLabel": "8月16日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/990/242.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/3/31c2c540-dff5-48ae-b141-b06ec1e63dcb.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "f1fc7c295347",
-          "title": "奕境曾清林谈岚图追光 S 隧道 360° 大回环：东风 57 年造车底蕴，绝不是靠 AI 堆出来的",
-          "desc": "IT之家 8 月 16 日消息，奕境汽车品牌总经理曾清林昨晚发文，谈及了岚图追光 S 此次隧道 360° 大回环挑战。针对网友对挑战的质疑，他表示，岚图的底盘都是用最猛的料，调校也是行业一绝。从来不会搞“差不多就行”那一套。曾清林称，东风的技术积累还是很深的，只是这些年，在营销上确实还是保守了点，不会玩“花活儿”。许许多多扎实的技术，默默藏在车子里没有传播好。而东风 57 年造车底蕴，绝不是靠 A",
-          "source": "IT之家",
-          "date": "2026-08-16",
-          "dateLabel": "8月16日",
-          "tags": [
+            "model",
             "business",
             "cn"
           ],
-          "url": "https://www.ithome.com/0/990/238.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/606fb3eb-5d5c-408c-b5de-8848b5a5d4d6.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "f9aa25cccf43",
-          "title": "消息称英伟达拟向软银旗下 SB Energy 投资 30 亿美元，助 OpenAI 建设数据中心",
-          "desc": "IT之家 8 月 16 日消息，据科技媒体《The Information》当地时间周六援引知情人士消息，英伟达正洽谈向软银子公司 SB Energy 投资至多 30 亿美元（IT之家注：现汇率约合 202.82 亿元人民币）。SB Energy 目前正为 OpenAI 开发俄亥俄州的大型数据中心项目。报道称，这笔拟议投资是三方磋商的一部分，英伟达正与 OpenAI、SB Energy 商议，为俄",
-          "source": "IT之家",
-          "date": "2026-08-16",
-          "dateLabel": "8月16日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/990/237.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/3/278316e8-1c15-4d6e-86a3-aef371f9261d.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "74fda3fc7465",
-          "title": "特斯拉 Cybercab 前脸灯带可变色，实际用途未官宣",
-          "desc": "IT之家 8 月 16 日消息，特斯拉 Cybercab 的贯穿前灯条似乎还有一个隐藏功能。这款车近日在佛罗里达州一场自动驾驶活动上亮相时，前灯呈现出红、白、蓝三色效果；如今又有人在奥斯汀拍到一辆全新 Cybercab 的前灯带亮起了紫色。这两次目击似乎证实，Cybercab 确实配备了可显示多种色彩的灯条，不过特斯拉尚未官方证实这一点，也未说明该功能的具体用途。首个线索出现在佛罗里达州州长罗恩 ",
-          "source": "IT之家",
-          "date": "2026-08-16",
-          "dateLabel": "8月16日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/990/235.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/bad36541-08a9-4ffa-8da8-9bda25fb7d94.jpg?x-bce-process=image/format,f_auto",
+          "url": "https://www.ithome.com/0/990/427.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/af6c71f3-5a7c-4f71-a39b-2f446da0cf01.jpg",
           "color": "#d97706"
         }
       ]
@@ -202,52 +329,6 @@
           "url": "https://www.qbitai.com/2026/08/473407.html",
           "image": "",
           "color": "#7c3aed"
-        },
-        {
-          "id": "a65490703289",
-          "title": "高效低成本开发，商业增长回报高，鸿蒙元服务背后的“开发厨房”让开发者按时吃饭！",
-          "desc": "对开发者而言，ASCF带来的不仅是“按时吃饭”的从容，更是低成本投入、高效率交付、高回报增长的完整商业闭环。",
-          "source": "量子位",
-          "date": "2026-08-15",
-          "dateLabel": "8月15日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/08/473395.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "cffdf85a7b96",
-          "title": "IT早报 0816：DeepSeek V4 Pro 正式版、Harness 上线国家超算互联网；番茄小说作者“去世”三年后“复活”；曝小米 18 手机标准版延至明年初发布...",
-          "desc": "“IT早报”时间，大家好，现在是 2026 年 8 月 16 日星期日，今天的重要科技资讯有：1. DeepSeek V4 Pro 正式版、Harness 上线国家超算互联网，可一站式完成部署开发国家超算互联网正式上线 DeepSeek V4 Pro 正式版及智能体框架 Harness，为科研与企业提供从训练到部署的国产算力支撑。该版本增强 Agent 能力，性能媲美 Claude Fable 5",
-          "source": "IT之家",
-          "date": "2026-08-15",
-          "dateLabel": "8月15日",
-          "tags": [
-            "model",
-            "research",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/0/990/211.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/bc7000a8-9df3-47e5-8aad-8c8fb6c19645.png",
-          "color": "#d97706"
-        },
-        {
-          "id": "d21af5325c30",
-          "title": "美科 AF 25mm F1.7 Air APS-C 镜头上市：提供 E/Z/X 卡口，首发价 699 元",
-          "desc": "IT之家 8 月 16 日消息，美科旗下 AF 25mm F1.7 Air 自动对焦镜头现已在京东上市，提供索尼 E、尼康 Z、富士 X 卡口三种版本，原价 799 元，首发 699 元。京东美科 25mmF1.7 Air 镜头 699 元直达链接该镜头为 APS-C 画幅，主打轻量化、高性价比，重约 170 克，整体采用复古外观设计，有黑色和白色两种配色可选，适合搭配 ZV-E10 II 等机型",
-          "source": "IT之家",
-          "date": "2026-08-15",
-          "dateLabel": "8月15日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/0/990/208.htm",
-          "image": "https://img14.360buyimg.com/pop/jfs/t1/496564/10/10562/2590980/6a7eb573F343a5931/00835dc5dc0c76dc.png",
-          "color": "#d97706"
         }
       ]
     },
@@ -3196,127 +3277,6 @@
           "color": "#2563eb"
         }
       ]
-    },
-    {
-      "date": "2026-07-14",
-      "dateLabel": "7月14日",
-      "id": "d14",
-      "items": [
-        {
-          "id": "7ba72b3ed060",
-          "title": "MiniMax还能“摸高”吗？",
-          "desc": "市场要进攻，不是要防守。",
-          "source": "36氪",
-          "date": "2026-07-14",
-          "dateLabel": "7月14日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3895497119253632",
-          "image": "https://img.36krcdn.com/hsossms/20260714/v2_2870f8d2fcf648b2860457815e3f18f8@1743780481@ai_oswg990076oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "27528bf8eda3",
-          "title": "Grok便宜的秘诀：偷代码？",
-          "desc": "你以为是你在用 AI，实际是 AI 在用你",
-          "source": "36氪",
-          "date": "2026-07-14",
-          "dateLabel": "7月14日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3895478832202887",
-          "image": "https://img.36krcdn.com/hsossms/20260714/v2_81824dfc63364a6fa3dfc5469ba0d955@1743780481@ai_oswg938991oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "2821b8a6dfac",
-          "title": "这，才是下一个10年最稀缺的能力",
-          "desc": "决策的底层逻辑，彻底变了！",
-          "source": "36氪",
-          "date": "2026-07-14",
-          "dateLabel": "7月14日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3895527404570501",
-          "image": "https://img.36krcdn.com/hsossms/20260714/v2_b0c20c10204e4082a51ecff2a5c944a2@000000@ai_oswg232901oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "910b2427d788",
-          "title": "国产手术机器人，喊了十年拐点",
-          "desc": "2026，会是拐点吗？",
-          "source": "36氪",
-          "date": "2026-07-14",
-          "dateLabel": "7月14日",
-          "tags": [
-            "research",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3895423864997760",
-          "image": "https://img.36krcdn.com/hsossms/20260714/v2_30f4c034480e4aaca519ef4971acbcaf@5888275@ai_oswg969525oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "64d3f1c89005",
-          "title": "卡了半年的弦论难题，Claude一夜解开，东大教授惊到删推",
-          "desc": "人类迈入全新科学时代！卡半年的弦论笔记被Claude Fable 5一晚破解，AI甚至主动写代码验证自己的预测，AI怀疑论或彻底破产。",
-          "source": "36氪",
-          "date": "2026-07-14",
-          "dateLabel": "7月14日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://36kr.com/p/3895421511124611",
-          "image": "https://img.36krcdn.com/hsossms/20260714/v2_14c01de25c8e49cf9343c8b6bdf22091@5888275@ai_oswg1111116oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "2d2f92d661e7",
-          "title": "今日，梁文锋成AI新首富，36人靠大模型成亿万富翁",
-          "desc": "36人坐拥超1.69万亿，大模型造富太疯狂了！",
-          "source": "36氪",
-          "date": "2026-07-14",
-          "dateLabel": "7月14日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://36kr.com/p/3895380647560832",
-          "image": "https://img.36krcdn.com/hsossms/20260714/v2_ac7d3328abb24693b41d97b8b51575e9@5888275@ai_oswg866468oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "fc78ac5e74ff",
-          "title": "刚刚，Claude设计“大脑”走了，马斯克再下一城",
-          "desc": "刚刚，AI编程圈干了一件狠事。拿下Cursor的马斯克，又把劲敌Claude的设计「大脑」挖走了。",
-          "source": "36氪",
-          "date": "2026-07-14",
-          "dateLabel": "7月14日",
-          "tags": [
-            "model",
-            "business"
-          ],
-          "url": "https://36kr.com/p/3895421757753218",
-          "image": "https://img.36krcdn.com/hsossms/20260714/v2_79c158b57b2949098ef2743b3ddb028f@5888275@ai_oswg896465oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "0093eaf00ce4",
-          "title": "一万亿美元砸向 AI，真正赚到钱的只有这三类公司",
-          "desc": "万亿AI基建，流进了谁的口袋？",
-          "source": "36氪",
-          "date": "2026-07-14",
-          "dateLabel": "7月14日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3895407587018625",
-          "image": "https://img.36krcdn.com/hsossms/20260714/v2_d3cce3eafee54c4bb9eaf98c2b20ae1b@5888275@ai_oswg902395oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -3342,6 +3302,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-08-16 10:57",
-  "totalNews": 213
+  "updateTime": "2026-08-17 10:56",
+  "totalNews": 210
 }
