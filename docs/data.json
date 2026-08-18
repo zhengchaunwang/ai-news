@@ -1,127 +1,247 @@
 {
   "newsData": [
     {
+      "date": "2026-08-18",
+      "dateLabel": "8月18日",
+      "id": "d18",
+      "items": [
+        {
+          "id": "1a2446b8da0e",
+          "title": "Signal65 报告：高通骁龙 X2 Elite Extreme 芯片多核比 AMD Ryzen AI 9 465 快 83%",
+          "desc": "IT之家 8 月 18 日消息，第三方机构 Signal65 今天（8 月 18 日）在 X 平台发布推文，指出在电池供电、平衡模式下，搭载高通骁龙 X2 Elite Extreme 芯片的笔记本的性能要优于英特尔酷睿 Ultra X9 388H 和 AMD Ryzen AI 9 465 处理器。该机构对比测试以下芯片：高通骁龙 X2 Elite Extreme X2E-96-100：拥有 18 ",
+          "source": "IT之家",
+          "date": "2026-08-18",
+          "dateLabel": "8月18日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/990/989.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/f57c2414-47bf-43b9-a2cd-92ca458fbf6b.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "2651e094f2a9",
+          "title": "谷歌悄悄上架 Desktop Camera 文件扫描应用，为 Googlebook 上市铺路",
+          "desc": "IT之家 8 月 18 日消息，谷歌现已在 Play 商店悄悄上架了 Desktop Camera 相机应用，相应应用主要为 Googlebook 设计，主要用于帮助相应笔记本调用摄像头进行二维码扫描和文档扫描。事实上，该应用也提前展示了 Googlebook 软件界面设计风格，可帮助用户了解相应产品设计思路，其整体操作逻辑与 Pixel Tablet 上的 Pixel Camera 应用有些类似",
+          "source": "IT之家",
+          "date": "2026-08-18",
+          "dateLabel": "8月18日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/990/988.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/4db3532f-7520-4ad3-8735-8c45db44632e.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "5591a56d5625",
+          "title": "致态 Ti600s 固态硬盘发售：新一代 Xtacking 4.0 QLC，随机写入提升 114%",
+          "desc": "IT之家 8 月 18 日消息，致态 (ZHITAI) 此前在 2023 年推出了基于 Xtacking 3.0 QLC NAND 闪存的 M.2 固态硬盘 Ti600。而在今日，致态宣布推出升级至 Xtacking 4.0 QLC 的 Ti600s。Ti600s 依旧采用 PCIe Gen4 ×4 接口，符合 NVMe 2.0 协议。其最高顺序读写速率从前代的 7000MB/s 与 6000MB",
+          "source": "IT之家",
+          "date": "2026-08-18",
+          "dateLabel": "8月18日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/990/981.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/bf367143-4923-4e36-b20d-fd261a2446db.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "ede961936bec",
+          "title": "需求超预期：华硕 RTX Spark 笔记本 ProArt P16/P14 首批配额售罄",
+          "desc": "IT之家 8 月 18 日消息，科技媒体 videocardz 昨日（8 月 17 日）发布博文，报道称在 2026 年第 2 季度财报电话会议上，华硕表示首批搭载英伟达 RTX Spark 的产品已被渠道合作伙伴订购一空。作为首批推出 RTX Spark 平台产品的厂商，华硕表示搭载 NVIDIA RTX Spark 的 ProArt P16 与 ProArt P14 预售需求远超预期，面向零售",
+          "source": "IT之家",
+          "date": "2026-08-18",
+          "dateLabel": "8月18日",
+          "tags": [
+            "model",
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/990/952.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/5e649463-868d-4c72-a413-d2cbc40cf013.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "f123b4350a18",
+          "title": "Counterpoint：未来五年超 1.3 亿颗先进封装 AI 芯片出货，英特尔挑战台积电",
+          "desc": "IT之家 8 月 18 日消息，市场研究机构 Counterpoint 今日发文，AI 加速器的出货量将大规模推动先进封装的需求：预计未来五年内，将有超过 1.3 亿颗 GPU / AI ASIC 芯片采用先进封装的片上计算内存，从而创造近 2 万亿美元（IT之家注：现汇率约合 13.51 万亿元人民币）的计算收入。报告认为，封装而非逻辑扩展已成为新的竞争战场，因为业界正努力突破内存壁垒、性能壁垒",
+          "source": "IT之家",
+          "date": "2026-08-18",
+          "dateLabel": "8月18日",
+          "tags": [
+            "research",
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/990/924.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/310f3372-181e-4da2-b7c2-2267c18800d1.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "d5101972196e",
+          "title": "华硕 GPU Tweak III 获 v2.1.8.0 稳定版更新，为兼容显卡带来自动安全关机",
+          "desc": "IT之家 8 月 18 日消息，由华硕 (ASUS) 推出的 GPU Tweak III 是一款便捷的显卡超频、设定、监控工具应用程序。而在当地时间 17 日，该软件迎来了 v2.1.8.0 稳定版更新。新版本进一步围绕华硕部分高端显卡支持的功率侦测器 + (Power Detector+) 丰富功能，在此前 12+N Pin 12V 供电异常红色警告的基础上提供了自动安全关机，保障用户价值不菲的",
+          "source": "IT之家",
+          "date": "2026-08-18",
+          "dateLabel": "8月18日",
+          "tags": [
+            "business",
+            "policy"
+          ],
+          "url": "https://www.ithome.com/0/990/938.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/6686959b-6c17-48be-9cbe-49efe4bb2cda.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "f9cb41734058",
+          "title": "初探微软 Win11 新版右键菜单定制选项，支持 8 项动作开关",
+          "desc": "IT之家 8 月 18 日消息，科技媒体 Windows Central 昨日（8 月 17 日）发布博文，分享了 Windows 11 新版右键菜单的“自定义菜单”（Customize menu）使用体验。用户需要预设相关操作，首次点击“自定义菜单”后会跳转到 Windows 设置应用，调整右键菜单显示的动作与布局。该媒体指出目前微软官方支持用户定制以下操作：Send to（发送到）Print（",
+          "source": "IT之家",
+          "date": "2026-08-18",
+          "dateLabel": "8月18日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/990/936.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/2e5bb575-f474-4660-b3c6-595b6fd17ba6.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "9816900cc42e",
+          "title": "外媒盘点微软 Win11 五年演变：切换任务栏位置，加速整合 AI 功能等",
+          "desc": "IT之家 8 月 18 日消息，科技媒体 Windows Central 昨日（8 月 17 日）发布博文，对比了 Windows 11 发布约 5 年间的前后变化差异。IT之家注：微软于 2021 年 6 月 24 日首次公开展示 Windows 11 系统，首个正式版（21H2）于 2021 年 10 月 5 日发布。过去 5 年间，微软通过年度功能更新、数十次累积更新和数千项漏洞修复，补回任",
+          "source": "IT之家",
+          "date": "2026-08-18",
+          "dateLabel": "8月18日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/990/920.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/02d4ccf1-49a0-4233-be9a-506728d30501.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-08-17",
       "dateLabel": "8月17日",
       "id": "d17",
       "items": [
         {
-          "id": "a222dbc0a36a",
-          "title": "阿里正式出售游戏业务：曝价格至少 15 亿美元，灵犀互娱 CEO 周炳枢发布内部信",
-          "desc": "IT之家 8 月 17 日消息，据彭博社今日报道，阿里巴巴正在以至少 15 亿美元（IT之家注：现汇率约合 101.23 亿元人民币）的交易出售其游戏部门，加速向 AI 转型。根据彭博社获得的一份内部备忘录，亚洲私募股权公司 Trustar Capital（信宸资本）已达成协议，收购阿里游戏业务灵犀互娱。报道称，灵犀互娱 CEO 周炳枢表示：“阿里巴巴将灵犀交给信宸资本，是为了更好地聚焦于其战略重",
-          "source": "IT之家",
-          "date": "2026-08-17",
-          "dateLabel": "8月17日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/0/990/506.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/ab937d5e-cab0-4abe-9861-e8bbd399072c.png?x-bce-process=image/auto-orient,o_1",
-          "color": "#d97706"
-        },
-        {
-          "id": "288f68356c00",
-          "title": "不再仅限 API 密钥：Codex 中的 GPT‑5.6 Sol 百万上下文能力已可通过 ChatGPT 账号使用",
-          "desc": "IT之家 8 月 17 日消息，今日，OpenAI 负责 Codex 与 ChatGPT 的工程师 Tibo（@thsottiaux）在 X 平台宣布，Codex 中针对 GPT-5.6 Sol 模型的 100 万 Token 上下文窗口功能，原本仅适用于 API 密钥，但现在也支持通过 ChatGPT 账号的使用场景。IT之家注意到，Tibo 在帖文中明确表示：“GPT-5.6 Sol 在 Co",
-          "source": "IT之家",
-          "date": "2026-08-17",
-          "dateLabel": "8月17日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://www.ithome.com/0/990/503.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/aee85e64-8d86-459d-a431-541b68e6ade0.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "02f9483425c8",
-          "title": "鸿蒙智行尊界 V800/V680 获批合肥市 L3 级自动驾驶测试牌照",
-          "desc": "IT之家 8 月 17 日消息，尊界汽车今日宣布，鸿蒙智行尊界 V800 | V680 获批合肥市 L3 级自动驾驶测试牌照，将持续开展自动驾驶全场景的深度测试。据介绍，尊界 V800 | V680 首搭 ADS 5.0 全栈软硬件解决方案，面向 L3 及更高阶自动驾驶的架构设计，搭载全新一代立体融合感知系统，更高阶自动驾驶计算冗余全感知、全冗余、全融合，安全能力再进阶。在 8 月 5 日的尊界时",
-          "source": "IT之家",
+          "id": "83f789e49c85",
+          "title": "共生知行发布人形机器人赛车Demo：以卡丁车测试双足机器人的“全身智能”",
+          "desc": "8月17日，具身智能初创公司共生知行发布双足人形机器人驾驶卡丁车Demo",
+          "source": "量子位",
           "date": "2026-08-17",
           "dateLabel": "8月17日",
           "tags": [
             "research",
-            "business",
-            "policy"
-          ],
-          "url": "https://www.ithome.com/0/990/501.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/3fd0cc49-1c78-4346-a08a-dc0381f2d8bd.png",
-          "color": "#d97706"
-        },
-        {
-          "id": "886587454e67",
-          "title": "蓝戟 Arc Pro B65 TF 32G 专业显卡上架，官方零售价 8999 元",
-          "desc": "IT之家 8 月 17 日消息，蓝戟 (GUNNIR) 今日宣布，其此前公布的 Intel Arc Pro B65 TF 32G 专业显卡现已上架电商平台，官方零售价 8999 元。Arc Pro B65 TF 32G 三维 268 × 111.1 × 40.1 (mm)，属于全高全长双槽类型。其拥有 20 个 Xe-core，显卡时钟设定 2400MHz，峰值 INT8 算力 197 TOPS，",
-          "source": "IT之家",
-          "date": "2026-08-17",
-          "dateLabel": "8月17日",
-          "tags": [
-            "model",
             "business"
           ],
-          "url": "https://www.ithome.com/0/990/500.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/a77c30c7-eacc-44a4-bee7-64518f08bc97.jpg",
-          "color": "#d97706"
-        },
-        {
-          "id": "39ff32b75feb",
-          "title": "全球首个！我国汽车芯片五项认证认可行业标准发布",
-          "desc": "IT之家 8 月 17 日消息，据国家市场监督管理总局官方微信公众号“市说新语”消息，近日，市场监管总局（国家认监委）批准立项的《汽车芯片机构认证审查通用评价要求》等五项认证认可行业标准发布。该五项标准构建了全球首个针对汽车芯片全产业链相关机构的国家层面能力评价标准体系，标志着我国在构建自主可控的汽车芯片质量保障体系方面取得重大制度突破。汽车芯片是智能网联汽车的中枢神经，也是核心战略资源。长期以来",
-          "source": "IT之家",
-          "date": "2026-08-17",
-          "dateLabel": "8月17日",
-          "tags": [
-            "business",
-            "policy"
-          ],
-          "url": "https://www.ithome.com/0/990/496.htm",
+          "url": "https://www.qbitai.com/2026/08/474537.html",
           "image": "",
-          "color": "#d97706"
+          "color": "#7c3aed"
         },
         {
-          "id": "818a7102e271",
-          "title": "贾跃亭：法拉第未来探索机器人独立融资及上市",
-          "desc": "IT之家 8 月 17 日消息，法拉第未来（FF）创始人、合伙人、首席产品及用户生态官贾跃亭今日宣布，FF 机器人进入放量收入快速增长新阶段，探索机器人独立融资及上市。贾跃亭表示，下半年，公司将继续推进“五大变革”，全面打响“四核全智”Q3 机器人实用化战役，举措如下：1，业务方面，推动“四核全智”生态各项业务进一步落地并扩大营收：第一核，EAI 本体，加速销售、出货及交付爬坡，重点拓展加州、德州",
+          "id": "62b4c2b178f3",
+          "title": "人形机器人开始打国球了！两台机器人完整打完11分制比赛",
+          "desc": "没有遥控、没人喂球",
+          "source": "量子位",
+          "date": "2026-08-17",
+          "dateLabel": "8月17日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.qbitai.com/2026/08/474518.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "7311a8c84813",
+          "title": "菲尔兹奖得主：AI现在主要靠「抬杠」突破重大数学猜想",
+          "desc": "AI最近最出圈的数学突破，都在“找反例”",
+          "source": "量子位",
+          "date": "2026-08-17",
+          "dateLabel": "8月17日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/08/474381.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "6ea4838f612d",
+          "title": "快讯｜范式PhanRouter上线智谱GLM-5.3，即日开放调用",
+          "desc": "智谱GLM-5.3首发上线范式PhanRouter，即日开放调用",
+          "source": "量子位",
+          "date": "2026-08-17",
+          "dateLabel": "8月17日",
+          "tags": [
+            "model",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/08/474361.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "4c63e73743ec",
+          "title": "终于！世界模型进入“有声时代”：24FPS画面+48kHz立体声实时生成",
+          "desc": "即将完全开源",
+          "source": "量子位",
+          "date": "2026-08-17",
+          "dateLabel": "8月17日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/08/474334.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "4e3c10c4eb97",
+          "title": "英伟达将为 OpenAI 俄亥俄州数据中心提供最高 1050 亿美元担保",
+          "desc": "IT之家 8 月 18 日消息，英伟达同意为 OpenAI 在美国俄亥俄州租赁一座大型数据中心提供最高 1,050 亿美元（IT之家注：现汇率约合 7,086.08 亿元人民币）的担保。该数据中心由软银旗下 SB Energy 负责开发，这也是英伟达迄今规模最大的基础设施融资承诺之一。由黄仁勋领导的英伟达当地时间周一表示，公司还将向 SB Energy 投资 15 亿美元（现汇率约合 101.23",
           "source": "IT之家",
           "date": "2026-08-17",
           "dateLabel": "8月17日",
           "tags": [
-            "research",
             "business"
           ],
-          "url": "https://www.ithome.com/0/990/442.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/007ad88e-178d-4ec4-a2e8-89a32390cebb.jpg?x-bce-process=image/format,f_auto",
+          "url": "https://www.ithome.com/0/990/890.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/3/278316e8-1c15-4d6e-86a3-aef371f9261d.png?x-bce-process=image/format,f_auto",
           "color": "#d97706"
         },
         {
-          "id": "5d64ff3d6932",
-          "title": "王莆中聊美团 AI 变革：全员“养虾运动”曾日耗千万，干扰真实经营",
-          "desc": "IT之家 8 月 17 日消息，据第一财经 8 月 14 日报道，美团核心本地商业 CEO 王莆中在公开演讲中谈及对企业 AI 应用的观点，同时分享了美团内部进行 AI 变革的过程。王莆中表示，从现状看，虽然 AI 供给丰富，但在落地方面，现阶段仅有少数企业能统计到可以测量的收益。这一问题源于四重错配：认知上，企业对 AI 要么夸大要么轻视；效率上，大模型用于日常事务而未触及核心；场景上，AI 仍",
+          "id": "801faeb25f05",
+          "title": "消息称 Anthropic“年化营收”飙升，7 月底已突破 650 亿美元",
+          "desc": "IT之家 8 月 18 日消息，据彭博社报道，一名知情人士周一透露，截至 7 月底，Anthropic 的年化收入运行率（Annual Revenue Run Rate）已经超过 650 亿美元（IT之家注：现汇率约合 4,386.62 亿元人民币），凸显出这家 Claude 开发商的快速增长势头，也为其可能在今年晚些时候进行 IPO 进一步增添了看点。Anthropic 最新的年化收入运行率，是",
           "source": "IT之家",
           "date": "2026-08-17",
           "dateLabel": "8月17日",
           "tags": [
             "model",
-            "cn"
+            "business"
           ],
-          "url": "https://www.ithome.com/0/990/439.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/2e342783-d2ce-4988-8e1c-5590772b9a72.png?x-bce-process=image/auto-orient,o_1",
+          "url": "https://www.ithome.com/0/990/887.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/973b3c94-e058-4a37-b228-f98153ab4bd3.jpg?x-bce-process=image/format,f_auto",
           "color": "#d97706"
         },
         {
-          "id": "667ac589460d",
-          "title": "保量不保价：消息称服务器 BMC SoC 龙头信骅首度签署长期供货协议",
-          "desc": "IT之家 8 月 17 日消息，台媒《工商时报》今日援引供应链消息报道称，全球第一大服务器 BMC SoC 供应商信骅 (ASPEED) 首度与下游客户签署 LTA（长期协议）。这反映 AI 产业的供应紧张态势正逐步蔓延至所有关联领域。报道指出，信骅已与多家大型客户签署 LTA，其余谈判也接近完成。此次达成的 1~2 年期合约采取“保量不保价”模式，显示信骅在谈判中处于有利地位。BMC SoC 与",
+          "id": "5afd2e644c65",
+          "title": "幸运用户捡到可正常工作的英伟达 RTX 2080 SUPER 显卡，更换导热硅脂和导热垫后待机温度约 35℃",
+          "desc": "IT之家 8 月 18 日消息，据外媒 TweakTown 报道，一名 Reddit 用户 Total_Pirate7125 声称在当地“垃圾场（local dump）”捡到了一块还能正常工作的英伟达 RTX 2080 SUPER 显卡，实现了“免费硬件升级”。当然，目前并不清楚这名用户所说的“local dump”具体指什么，可能是垃圾填埋场、废品回收场或其他类似地点。不过可以确定的是，这块显卡",
           "source": "IT之家",
           "date": "2026-08-17",
           "dateLabel": "8月17日",
           "tags": [
             "business"
           ],
-          "url": "https://www.ithome.com/0/990/438.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/c1cc4f64-6006-4300-9b6f-711f239d18cf.jpg?x-bce-process=image/format,f_auto",
+          "url": "https://www.ithome.com/0/990/886.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/263ec006-1c19-4898-8597-7177d488bf96.png?x-bce-process=image/format,f_auto",
           "color": "#d97706"
         }
       ]
@@ -201,52 +321,6 @@
           "url": "https://www.qbitai.com/2026/08/473947.html",
           "image": "",
           "color": "#7c3aed"
-        },
-        {
-          "id": "73ae7ab52a0e",
-          "title": "消息称驾校行业供给过剩态势严峻，行业龙头开始引入“VR+AI”等特色培训模式",
-          "desc": "IT之家 8 月 17 日消息，昨日“谁杀死了驾校”在微博引起热议，一度冲上微博热搜第一。相应话题显示，曾经生意红火的驾校行业如今供给过剩态势严峻，部分中小驾校亏损倒闭。据媒体“第一财经”报道，过去几个学员顶着烈日围着一辆车排队练车，而现如今很多驾校已经告别排队等待，“一人一车”教学模式兴起。该媒体记者在广州市番禺区南村一家驾校看到，该驾校小二楼挂着“即报名即练车日夜班练车一人一车免费模拟”的广告",
-          "source": "IT之家",
-          "date": "2026-08-16",
-          "dateLabel": "8月16日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/990/431.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/3d41bb5a-9f0f-45ad-8c5a-80f6f8da071d.jpg",
-          "color": "#d97706"
-        },
-        {
-          "id": "f41baae32190",
-          "title": "国产 GPU 厂商壁仞科技预告 2026 上半年营收暴涨超 18 倍，经调整亏损收窄 35%-47%",
-          "desc": "IT之家 8 月 17 日消息，国产通用 GPU 厂商壁仞科技今日在港交所公告，基于对集团截至 2026 年 6 月 30 日止六个月未经审核综合管理账目的初步测算，以及对目前可获取最新资料的评估，预计报告期将录得：收入约人民币 11.50 亿元至人民币 13.00 亿元；对比截至 2025 年 6 月 30 日止六个月的约人民币 0.589 亿元，同期增长率约介于 1852%‑2107%；期内亏",
-          "source": "IT之家",
-          "date": "2026-08-16",
-          "dateLabel": "8月16日",
-          "tags": [
-            "research",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/0/990/428.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/3eabca8b-f809-4816-ade0-a81b7ece4e48.png",
-          "color": "#d97706"
-        },
-        {
-          "id": "ec667f1c6bbd",
-          "title": "IT早报 0817：知情人士回应追觅大家电解散传闻；DeepSeek-V4 系列今日起价格上调；鸿蒙智行问界儿童车官宣将上市；SK 海力士硬盘故障仅向用户原价退款...",
-          "desc": "“IT早报”时间，大家好，现在是 2026 年 8 月 17 日星期一，今天的重要科技资讯有：1. 知情人士回应“网传追觅大家电解散”：业务正常做网传追觅大家电解散、供应商未结款将组团维权，还牵扯出裁员、卖私人飞机等传闻，相关话题登上热搜。接近追觅的知情人士称业务仍正常开展。>> 查看详情2. DeepSeek API 峰谷定价方案今日生效，高峰时段价格翻倍深度求索更新了 DeepSeek API",
-          "source": "IT之家",
-          "date": "2026-08-16",
-          "dateLabel": "8月16日",
-          "tags": [
-            "model",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/0/990/427.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/af6c71f3-5a7c-4f71-a39b-2f446da0cf01.jpg",
-          "color": "#d97706"
         }
       ]
     },
@@ -3155,128 +3229,6 @@
           "color": "#2563eb"
         }
       ]
-    },
-    {
-      "date": "2026-07-15",
-      "dateLabel": "7月15日",
-      "id": "d15",
-      "items": [
-        {
-          "id": "c014525e1d4e",
-          "title": "DeepSeek或冲刺A股IPO，4800亿估值引行业热议",
-          "desc": "巨头扎堆入股，大模型资本化浪潮再升级",
-          "source": "36氪",
-          "date": "2026-07-15",
-          "dateLabel": "7月15日",
-          "tags": [
-            "model",
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3896949637695363",
-          "image": "https://img.36krcdn.com/hsossms/20260715/v2_ea90e095f05f48b082b145c0092b6327@1743780481@ai_oswg907809oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "3484f0fcf691",
-          "title": "OpenAI都做不好，AI浏览器还有前途吗？",
-          "desc": "无法与成熟产品拉开体验差距，就注定不会有什么前途。",
-          "source": "36氪",
-          "date": "2026-07-15",
-          "dateLabel": "7月15日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3896812742116995",
-          "image": "https://img.36krcdn.com/hsossms/20260715/v2_6145b142bc694b74bd01d6673aa5b95b@5888275@ai_oswg1008719oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "a4a313392087",
-          "title": "阶跃星辰被两面夹击",
-          "desc": "印奇还是干得晚了",
-          "source": "36氪",
-          "date": "2026-07-15",
-          "dateLabel": "7月15日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3896836894852486",
-          "image": "https://img.36krcdn.com/hsossms/20260715/v2_25af9fdaf5f943a2a28e6dbdfe6c02f1@5888275@ai_oswg864711oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "e9b98503c2af",
-          "title": "字节入局物理AI，第二波“盛宴”开启？",
-          "desc": "方向已经清晰，拐点已经确认，潮水已经涌来。",
-          "source": "36氪",
-          "date": "2026-07-15",
-          "dateLabel": "7月15日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3896703522292865",
-          "image": "https://img.36krcdn.com/hsossms/20260715/v2_2638c116ba5d4b3e923caa9ef9fbd799@5888275@ai_oswg978579oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "b5ba296661ad",
-          "title": "别人拼命造人形机器人，这家公司先给机器狗装了只手",
-          "desc": "一只手，就能够干活？",
-          "source": "36氪",
-          "date": "2026-07-15",
-          "dateLabel": "7月15日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://36kr.com/p/3896735746901382",
-          "image": "https://img.36krcdn.com/hsossms/20260715/v2_c059ce4f2f6c456f9eda8449a7590650@5888275@ai_oswg1059998oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "a14cad9e3d9a",
-          "title": "AI试衣间，如何成为拯救女装的超高退货率的救世主？",
-          "desc": "虚拟的功能，真实的预览",
-          "source": "36氪",
-          "date": "2026-07-15",
-          "dateLabel": "7月15日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3896745373484163",
-          "image": "https://img.36krcdn.com/hsossms/20260715/v2_417d2348b8eb48708fca7005e8446ce2@5888275@ai_oswg921989oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "c90a21fab8ba",
-          "title": "8000人一夜被裁的背后，Meta被曝用AI“筛人”，26名员工集体起诉：AI Token都成考核项，休假员工成了“重灾区”",
-          "desc": "Meta 回应：裁员是人决定的，不是 AI。",
-          "source": "36氪",
-          "date": "2026-07-15",
-          "dateLabel": "7月15日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3896805645616771",
-          "image": "https://img.36krcdn.com/hsossms/20260715/v2_21e62ea7738d45ca942811b4cb76559f@5888275@ai_oswg910268oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "3f0daac6b08d",
-          "title": "谁是AI时代真正的组织架构师",
-          "desc": "重构信息流转",
-          "source": "36氪",
-          "date": "2026-07-15",
-          "dateLabel": "7月15日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://36kr.com/p/3896805990057606",
-          "image": "https://img.36krcdn.com/hsossms/20260715/v2_7ab5a888ff1d474e8d96076285654964@5888275@ai_oswg924118oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -3302,6 +3254,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-08-17 10:56",
-  "totalNews": 210
+  "updateTime": "2026-08-18 10:52",
+  "totalNews": 207
 }
