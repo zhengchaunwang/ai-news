@@ -1,124 +1,250 @@
 {
   "newsData": [
     {
+      "date": "2026-08-19",
+      "dateLabel": "8月19日",
+      "id": "d19",
+      "items": [
+        {
+          "id": "3966d480cce1",
+          "title": "郭富城换车，30万级顶配华为全家桶",
+          "desc": "5.3米六座家用SUV",
+          "source": "量子位",
+          "date": "2026-08-19",
+          "dateLabel": "8月19日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/08/475009.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "b56e9bb4ff53",
+          "title": "Anthropic 预告 Claude Code 将整合 /design 命令",
+          "desc": "IT之家 8 月 19 日消息，Anthropic Claude Design 产品设计师纳特 · 帕罗特（Nate Parrott）昨日（8 月 18 日）在 X 平台发布推文，预告将会在 Claude Code 中整合推出 /design 命令。IT之家附上演示视频如下：开发者在编写代码之前，可以通过 /design 命令直接在终端或者桌面版 Claude Code 中创建设计模型。例如，命令",
+          "source": "IT之家",
+          "date": "2026-08-19",
+          "dateLabel": "8月19日",
+          "tags": [
+            "model",
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/991/488.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/8d5d1eaa-ff79-4dd4-afb5-45da31163413.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "412cf4d07603",
+          "title": "“AI 换脸”色情 App 营销引发争议：Meta 下架广告、苹果移除应用",
+          "desc": "IT之家 8 月 19 日消息，据外媒 WIRED 报道，近期一款名为 Kromix 的 App 在 Meta 平台投放争议广营销，该应用允许用户利用 AI 生成真实人物的色情“换脸”内容，其中一则广告甚至使用了与美国一名知名女性政治人物高度相似的 AI 生成形象。广告配音将 Kromix 宣传为“真正男人使用的 AI”，并声称工具“没有限制”，随后展示该女性形象从普通场景转为色情视频的画面。报道",
+          "source": "IT之家",
+          "date": "2026-08-19",
+          "dateLabel": "8月19日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/991/482.htm",
+          "image": "",
+          "color": "#d97706"
+        },
+        {
+          "id": "16f610d33520",
+          "title": "OpenAI 回应少量 Codex 用户调用 GPT-5.6 系列 AI 模型误删文件问题",
+          "desc": "IT之家 8 月 19 日消息，OpenAI Codex 团队负责人蒂博 · 索蒂奥（Thibault Sottiaux）今天在 X 平台发布长推文，回应在 Codex 中调用 GPT-5.6 系列模型后，误删部分用户文件问题。索蒂奥表示自几周前开始陆续收到少量 Codex 用户反馈，在 Codex 中使用 GPT-5.6 系列模型后，在执行了用户未授权的破坏性操作。OpenAI 发现本应清理临时",
+          "source": "IT之家",
+          "date": "2026-08-19",
+          "dateLabel": "8月19日",
+          "tags": [
+            "model",
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/991/469.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/1bc64a44-c230-405f-a1b9-aab9e571ddb7.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "6319e70ed563",
+          "title": "每页给 6 美元，AI 公司 Handshake AI 高价收购工作文档",
+          "desc": "IT之家 8 月 19 日消息，总部位于美国旧金山的 Handshake AI 正在招聘“专业文档贡献者”（Professional Document Contributor），承诺为“高质量书面文档”支付最高 3 万美元（IT之家注：现汇率约合 20.3 万元人民币）。想要申请这份工作，候选人应当拥有咨询、金融、法律、软件工程、数据科学等领域的工作经历。Handshake AI 表示，申请人必须",
+          "source": "IT之家",
+          "date": "2026-08-19",
+          "dateLabel": "8月19日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://www.ithome.com/0/991/464.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/f628d3ec-57ff-41e1-92a1-9a14645bcb47.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "16d750a78cbc",
+          "title": "罗技 G PRO X3 SUPERSTRIKE 鼠标泄露：HERO 2 48K 传感器，续航 +50%",
+          "desc": "IT之家 8 月 19 日消息，德媒 WinFuture 在当地时间 18 日的文章中分享了泄露的罗技 G PRO X3 SUPERSTRIKE 鼠标官网宣传资料。这一鼠标在依旧配备 HITS 触觉感应触发系统的同时还得到了一系列改进。罗技 G PRO X3 SUPERSTRIKE 基于 NxLOGI 芯片组，提供较上代产品提升 50% 的 135+ hr 续航、稳定的 8kHz 轮询无线连接；搭",
+          "source": "IT之家",
+          "date": "2026-08-19",
+          "dateLabel": "8月19日",
+          "tags": [
+            "model",
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/991/451.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/0d598036-8b3f-461b-94e3-576e3f08cb95.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "247a3ac49cf0",
+          "title": "HMD 诺基亚 125 4G 2nd Edition 功能机曝光：2.4 英寸面板、30 万像素前后摄像头",
+          "desc": "IT之家 8 月 19 日消息，消息源 smashx_60 发文，曝光了 HMD 旗下诺基亚 125 4G 2nd Edition 功能机，该机规格与 HMD 此前推出的诺基亚 210 4G AI 手机大致相同。该机可选深蓝 / 银色两种配色，手机正面配备一块 320x240 分辨率 2.4 英寸 LCD 面板，匹配 30 万像素自拍摄像头和 30 万像素后摄，同时提供了 LED 闪光灯。该机配备",
+          "source": "IT之家",
+          "date": "2026-08-19",
+          "dateLabel": "8月19日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/991/441.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/7e1653b4-7811-4940-a8f3-396763851fd3.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "9796663dccd9",
+          "title": "三星最强平板 Galaxy Tab S12 Ultra 渲染图曝光：天玑 9500 芯片",
+          "desc": "IT之家 8 月 19 日消息，科技媒体 Android Headline 昨日（8 月 18 日）发布博文，分享了一组宣传图片，展示了三星最强平板 Galaxy Tab S12 Ultra。外观方面，Galaxy Tab S12 Ultra 正面配备非常窄的显示屏边框，4 条边框几乎保持统一宽度，屏幕顶部则保留 1 个尺寸较小的刘海。平板背面配备 2 颗摄像头，旁边设有 1 枚 LED 闪光灯，",
+          "source": "IT之家",
+          "date": "2026-08-19",
+          "dateLabel": "8月19日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/991/439.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/0e2ce415-e69d-4f5d-a6a5-17bb68b40811.png",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-08-18",
       "dateLabel": "8月18日",
       "id": "d18",
       "items": [
         {
-          "id": "1a2446b8da0e",
-          "title": "Signal65 报告：高通骁龙 X2 Elite Extreme 芯片多核比 AMD Ryzen AI 9 465 快 83%",
-          "desc": "IT之家 8 月 18 日消息，第三方机构 Signal65 今天（8 月 18 日）在 X 平台发布推文，指出在电池供电、平衡模式下，搭载高通骁龙 X2 Elite Extreme 芯片的笔记本的性能要优于英特尔酷睿 Ultra X9 388H 和 AMD Ryzen AI 9 465 处理器。该机构对比测试以下芯片：高通骁龙 X2 Elite Extreme X2E-96-100：拥有 18 ",
-          "source": "IT之家",
-          "date": "2026-08-18",
-          "dateLabel": "8月18日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/990/989.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/f57c2414-47bf-43b9-a2cd-92ca458fbf6b.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "2651e094f2a9",
-          "title": "谷歌悄悄上架 Desktop Camera 文件扫描应用，为 Googlebook 上市铺路",
-          "desc": "IT之家 8 月 18 日消息，谷歌现已在 Play 商店悄悄上架了 Desktop Camera 相机应用，相应应用主要为 Googlebook 设计，主要用于帮助相应笔记本调用摄像头进行二维码扫描和文档扫描。事实上，该应用也提前展示了 Googlebook 软件界面设计风格，可帮助用户了解相应产品设计思路，其整体操作逻辑与 Pixel Tablet 上的 Pixel Camera 应用有些类似",
-          "source": "IT之家",
-          "date": "2026-08-18",
-          "dateLabel": "8月18日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/990/988.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/4db3532f-7520-4ad3-8735-8c45db44632e.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "5591a56d5625",
-          "title": "致态 Ti600s 固态硬盘发售：新一代 Xtacking 4.0 QLC，随机写入提升 114%",
-          "desc": "IT之家 8 月 18 日消息，致态 (ZHITAI) 此前在 2023 年推出了基于 Xtacking 3.0 QLC NAND 闪存的 M.2 固态硬盘 Ti600。而在今日，致态宣布推出升级至 Xtacking 4.0 QLC 的 Ti600s。Ti600s 依旧采用 PCIe Gen4 ×4 接口，符合 NVMe 2.0 协议。其最高顺序读写速率从前代的 7000MB/s 与 6000MB",
-          "source": "IT之家",
-          "date": "2026-08-18",
-          "dateLabel": "8月18日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/990/981.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/bf367143-4923-4e36-b20d-fd261a2446db.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "ede961936bec",
-          "title": "需求超预期：华硕 RTX Spark 笔记本 ProArt P16/P14 首批配额售罄",
-          "desc": "IT之家 8 月 18 日消息，科技媒体 videocardz 昨日（8 月 17 日）发布博文，报道称在 2026 年第 2 季度财报电话会议上，华硕表示首批搭载英伟达 RTX Spark 的产品已被渠道合作伙伴订购一空。作为首批推出 RTX Spark 平台产品的厂商，华硕表示搭载 NVIDIA RTX Spark 的 ProArt P16 与 ProArt P14 预售需求远超预期，面向零售",
-          "source": "IT之家",
-          "date": "2026-08-18",
-          "dateLabel": "8月18日",
-          "tags": [
-            "model",
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/990/952.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/5e649463-868d-4c72-a413-d2cbc40cf013.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "f123b4350a18",
-          "title": "Counterpoint：未来五年超 1.3 亿颗先进封装 AI 芯片出货，英特尔挑战台积电",
-          "desc": "IT之家 8 月 18 日消息，市场研究机构 Counterpoint 今日发文，AI 加速器的出货量将大规模推动先进封装的需求：预计未来五年内，将有超过 1.3 亿颗 GPU / AI ASIC 芯片采用先进封装的片上计算内存，从而创造近 2 万亿美元（IT之家注：现汇率约合 13.51 万亿元人民币）的计算收入。报告认为，封装而非逻辑扩展已成为新的竞争战场，因为业界正努力突破内存壁垒、性能壁垒",
-          "source": "IT之家",
-          "date": "2026-08-18",
-          "dateLabel": "8月18日",
-          "tags": [
-            "research",
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/990/924.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/310f3372-181e-4da2-b7c2-2267c18800d1.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "d5101972196e",
-          "title": "华硕 GPU Tweak III 获 v2.1.8.0 稳定版更新，为兼容显卡带来自动安全关机",
-          "desc": "IT之家 8 月 18 日消息，由华硕 (ASUS) 推出的 GPU Tweak III 是一款便捷的显卡超频、设定、监控工具应用程序。而在当地时间 17 日，该软件迎来了 v2.1.8.0 稳定版更新。新版本进一步围绕华硕部分高端显卡支持的功率侦测器 + (Power Detector+) 丰富功能，在此前 12+N Pin 12V 供电异常红色警告的基础上提供了自动安全关机，保障用户价值不菲的",
-          "source": "IT之家",
+          "id": "80880c17af6d",
+          "title": "年轻人首选B级闪充轿车秦MAX正式上市，售价10.99-14.39万元",
+          "desc": "8月13日，比亚迪秦MAX正式上市，推出EV与DM-i双动力版本",
+          "source": "量子位",
           "date": "2026-08-18",
           "dateLabel": "8月18日",
           "tags": [
             "business",
-            "policy"
+            "cn"
           ],
-          "url": "https://www.ithome.com/0/990/938.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/6686959b-6c17-48be-9cbe-49efe4bb2cda.png",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/08/474907.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "f9cb41734058",
-          "title": "初探微软 Win11 新版右键菜单定制选项，支持 8 项动作开关",
-          "desc": "IT之家 8 月 18 日消息，科技媒体 Windows Central 昨日（8 月 17 日）发布博文，分享了 Windows 11 新版右键菜单的“自定义菜单”（Customize menu）使用体验。用户需要预设相关操作，首次点击“自定义菜单”后会跳转到 Windows 设置应用，调整右键菜单显示的动作与布局。该媒体指出目前微软官方支持用户定制以下操作：Send to（发送到）Print（",
-          "source": "IT之家",
+          "id": "d06293704653",
+          "title": "比亚迪全程护航丝路万里行，深圳收官再启海外征程",
+          "desc": "8月14日，2026丝绸之路万里行·启迪之路国内段在深圳收官。",
+          "source": "量子位",
+          "date": "2026-08-18",
+          "dateLabel": "8月18日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/08/474868.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "761231061a02",
+          "title": "网易传媒发布”蜜蜂AI” ：从工具到伙伴，让AI更懂人",
+          "desc": "8月18日，网易传媒举办“蜜蜂AI媒体沟通会”",
+          "source": "量子位",
           "date": "2026-08-18",
           "dateLabel": "8月18日",
           "tags": [
             "business"
           ],
-          "url": "https://www.ithome.com/0/990/936.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/2e5bb575-f474-4660-b3c6-595b6fd17ba6.jpg",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/08/474857.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "9816900cc42e",
-          "title": "外媒盘点微软 Win11 五年演变：切换任务栏位置，加速整合 AI 功能等",
-          "desc": "IT之家 8 月 18 日消息，科技媒体 Windows Central 昨日（8 月 17 日）发布博文，对比了 Windows 11 发布约 5 年间的前后变化差异。IT之家注：微软于 2021 年 6 月 24 日首次公开展示 Windows 11 系统，首个正式版（21H2）于 2021 年 10 月 5 日发布。过去 5 年间，微软通过年度功能更新、数十次累积更新和数千项漏洞修复，补回任",
-          "source": "IT之家",
+          "id": "56538ee84648",
+          "title": "π0引用的中国团队，又出手了：世界仿真器新作发布",
+          "desc": "给机器人造一个更接近真实的“第二世界”",
+          "source": "量子位",
+          "date": "2026-08-18",
+          "dateLabel": "8月18日",
+          "tags": [
+            "research",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/08/474838.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "c173ffffbb59",
+          "title": "人人都能写好听的歌，阿里发布AI音乐模型HappyShrimp",
+          "desc": "8月17日，阿里巴巴发布AI音乐模型HappyShrimp",
+          "source": "量子位",
+          "date": "2026-08-18",
+          "dateLabel": "8月18日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/08/474840.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "a8ce0f8f75c0",
+          "title": "6个Agent组团Vibe Gaming：自己生成、试玩、修Bug",
+          "desc": "代码能跑≠游戏能玩",
+          "source": "量子位",
           "date": "2026-08-18",
           "dateLabel": "8月18日",
           "tags": [
             "business"
           ],
-          "url": "https://www.ithome.com/0/990/920.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/02d4ccf1-49a0-4233-be9a-506728d30501.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/08/474806.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "7f179f486edb",
+          "title": "今日起，阿里“千问办公”接入企业微信",
+          "desc": "国内三大办公平台全面支持",
+          "source": "量子位",
+          "date": "2026-08-18",
+          "dateLabel": "8月18日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/08/474803.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "d32195da62f7",
+          "title": "吉利汽车业绩高点，李书福激流勇退",
+          "desc": "“吉利不再研发传统燃油车”",
+          "source": "量子位",
+          "date": "2026-08-18",
+          "dateLabel": "8月18日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/08/474736.html",
+          "image": "",
+          "color": "#7c3aed"
         }
       ]
     },
@@ -3106,129 +3232,6 @@
           "color": "#2563eb"
         }
       ]
-    },
-    {
-      "date": "2026-07-16",
-      "dateLabel": "7月16日",
-      "id": "d16",
-      "items": [
-        {
-          "id": "70e1e80ef9c6",
-          "title": "千万人与豆包AI伴侣共度的最后一周，哪些小厂在“商战”中喝汤？",
-          "desc": "“接住”用户，然后呢？",
-          "source": "36氪",
-          "date": "2026-07-16",
-          "dateLabel": "7月16日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3898310772786304",
-          "image": "https://img.36krcdn.com/hsossms/20260717/v2_a1a6931b7558406e81d686d8de10f640@1743780481@ai_oswg873164oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "9963bb50bccf",
-          "title": "匿名模型Kivine外网刷屏，开发者们都在猜：这是Kimi-K3？",
-          "desc": "实测编程效果超Opus 4.8，但先别对标Fable 5。",
-          "source": "36氪",
-          "date": "2026-07-16",
-          "dateLabel": "7月16日",
-          "tags": [
-            "model",
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3898252203984520",
-          "image": "https://img.36krcdn.com/hsossms/20260716/v2_51e2f247a23e42e1977aed92e7d4047b@5888275@ai_oswg1096419oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "bc05dc60bd97",
-          "title": "找不到真人客服，用户反手“蹭”平台Token",
-          "desc": "AI客服替代不了真人",
-          "source": "36氪",
-          "date": "2026-07-16",
-          "dateLabel": "7月16日",
-          "tags": [
-            "policy"
-          ],
-          "url": "https://36kr.com/p/3898184791148162",
-          "image": "https://img.36krcdn.com/hsossms/20260716/v2_6d5fbd2f59f9413ea8c9d4548361f0a3@5888275@ai_oswg943201oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "aaf699adcf5d",
-          "title": "Anthropic揭秘AI四大失控行为：泄密、删账、改分，还差点骗过人类",
-          "desc": "AI没有明着拒绝，而是偷偷撒谎",
-          "source": "36氪",
-          "date": "2026-07-16",
-          "dateLabel": "7月16日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3898153712518785",
-          "image": "https://img.36krcdn.com/hsossms/20260716/v2_c9c5ab69cd094988af55d443325ec651@5888275@ai_oswg1062452oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "a24a23c7e10b",
-          "title": "“Linux不会反AI，不服就Fork或离开，”Linus怒怼反AI开发者：骂AI前先照照镜子，人类也没多优秀",
-          "desc": "Linus 此次关于 AI 的表态，你又有什么看法呢？",
-          "source": "36氪",
-          "date": "2026-07-16",
-          "dateLabel": "7月16日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3898156431673220",
-          "image": "https://img.36krcdn.com/hsossms/20260716/v2_caff91851fcb48fca9f44950e02acbc6@5888275@ai_oswg1003899oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "cf293bf4a097",
-          "title": "被曝上传用户代码后，马斯克官宣开源Grok Build，GitHub上线即斩获7.7k Star",
-          "desc": "Grok Build 被曝上传用户代码",
-          "source": "36氪",
-          "date": "2026-07-16",
-          "dateLabel": "7月16日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3898156600870529",
-          "image": "https://img.36krcdn.com/hsossms/20260716/v2_86162d7856fb42cc8a981123a3f62ed3@5888275@ai_oswg846775oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "4f9ab3fdabd7",
-          "title": "苹果智能入华， 阿里百度赢麻",
-          "desc": "过审只是补课。真正的考试，还没开始。",
-          "source": "36氪",
-          "date": "2026-07-16",
-          "dateLabel": "7月16日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3898064337536130",
-          "image": "https://img.36krcdn.com/hsossms/20260716/v2_be23a85726c4470ea1564ae9162a202d@5888275@ai_oswg967399oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "7ff398f1ec90",
-          "title": "中专生拍出破亿爆款，影视圈边缘人靠AI改命丨深氪lite",
-          "desc": "AI重塑了内容行业的权力关系与生产规则。",
-          "source": "36氪",
-          "date": "2026-07-16",
-          "dateLabel": "7月16日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3898151587890824",
-          "image": "https://img.36krcdn.com/hsossms/20260716/v2_ffcd1692aefc47feaabf2fdeced7505b@5899452_oswg84707oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -3254,6 +3257,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-08-18 10:52",
+  "updateTime": "2026-08-19 10:54",
   "totalNews": 207
 }
