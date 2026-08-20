@@ -1,125 +1,244 @@
 {
   "newsData": [
     {
+      "date": "2026-08-20",
+      "dateLabel": "8月20日",
+      "id": "d20",
+      "items": [
+        {
+          "id": "d73a283e5e75",
+          "title": "完美世界2026半年报：《异环》全球流水破20亿 Q3起释放业绩",
+          "desc": "完美世界今年4月底推出的重磅新游《异环》截至8月18日已取得全球累计流水超20亿元，业绩贡献将在Q3起逐步释放",
+          "source": "量子位",
+          "date": "2026-08-20",
+          "dateLabel": "8月20日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/08/476075.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "da5ef3e992d9",
+          "title": "华尔街实测8款全球主流Agent：千问办公综合排名第一",
+          "desc": "成本也正成为Agent商业化需要考虑的重要因素",
+          "source": "量子位",
+          "date": "2026-08-20",
+          "dateLabel": "8月20日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/08/476070.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "bf418913f9d1",
+          "title": "2 层 → 3 层：消息称三星电子计划扩大平泽在建晶圆厂项目",
+          "desc": "IT之家 8 月 20 日消息，韩媒《东亚日报》当地时间昨日报道称，三星电子已向有关部门正式提交规划修正案，计划将其平泽园区的两座新晶圆厂项目从此前的 2 层 4 洁净室扩大至 3 层 6 洁净室。三星电子平泽新晶圆厂通常被称为 P5 一号与二号，有时也会被称为 P5 与 P6。与此前的平泽 P4 类似，这两座晶圆厂也将成为多功能半导体生产设施，根据市场需求将洁净室灵活用于存储或逻辑芯片制造。3 ",
+          "source": "IT之家",
+          "date": "2026-08-20",
+          "dateLabel": "8月20日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/991/994.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/9ac9e7c9-b0d0-4ea0-842f-d03b9ce42c61.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "6064f2e5e6a1",
+          "title": "谷歌在搜索和 Gemini 中推出多款全新 AI 学习工具，含交互式可视化内容、3D 模拟等",
+          "desc": "IT之家 8 月 20 日消息，谷歌当地时间周三宣布，将在搜索和 Gemini 中推出一系列全新的学习工具，包括 AI 生成的交互式可视化内容、3D 模拟、专门的学生中心、自定义练习测验等。IT之家注意到，此次推出新的学习功能，是谷歌进一步推动 Gemini 成为学生学习和备考首选 AI 助手的又一举措。目前，OpenAI 以及 Knowt、Gauth 等教育初创公司也在推出各自的学习和练习工具，",
+          "source": "IT之家",
+          "date": "2026-08-20",
+          "dateLabel": "8月20日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://www.ithome.com/0/991/993.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/b7530b22-0994-4d73-b6ff-570ab92c973a.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "d73d23973f2d",
+          "title": "Meta Muse Video 生成视频样片曝光，单次 AI 最长生成 10 秒视频",
+          "desc": "IT之家 8 月 20 日消息，科技媒体 testingcatalog 昨日（8 月 19 日）发布博文，报道称 Meta 公司即将推出 Muse Video 模型，目前已邀请部分合作伙伴 Beta 测试，单次可以生成最长 10 秒视频。根据该媒体测试生成的视频，Muse Video 在细节呈现、对场景和物体关系的理解，以及连续画面在时间维度上的稳定性方面，展现出较高潜力。Meta 此前承认模型仍",
+          "source": "IT之家",
+          "date": "2026-08-20",
+          "dateLabel": "8月20日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/991/991.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/b2d51339-4a7a-4622-bfe0-fb77a3e30c71.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "f8308e41feaa",
+          "title": "Sensor Tower：2026 年第一季度全球短剧应用下载量突破 8.5 亿次，同比增长 140%",
+          "desc": "IT之家 8 月 20 日消息，Sensor Tower 今日发布《2026 年短剧应用市场洞察报告》，2026 年第一季度，全球短剧应用下载量延续快速增长态势，突破 8.5 亿次，同比增长 140%。2026 年第一季度，共有 6 款短剧应用进入全球应用下载量排行榜前 40 名，其中 FreeReels 位列第 8。短剧应用与头部社交、AI、游戏、购物及 OTT 平台同列榜单，表明短剧已从小众娱",
+          "source": "IT之家",
+          "date": "2026-08-20",
+          "dateLabel": "8月20日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/991/946.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/c919206e-dc9e-4d49-a72c-9e61300d8af0.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "b8b557766c1c",
+          "title": "苹果反驳 OpenAI 驳回诉讼动议，重申对方存在大规模商业秘密窃取行为",
+          "desc": "IT之家 8 月 20 日消息，苹果已对 OpenAI 提出的驳回诉讼动议作出回应。苹果此前起诉两名前员工以及 OpenAI 和 io Products，指控他们窃取苹果商业机密。几天前，OpenAI 提交动议，要求法院驳回苹果针对 OpenAI、io Products 以及 Chang Liu 和 Tang Tan 的诉讼。苹果指控这些被告窃取其商业机密。IT之家注意到，OpenAI 在申请中表",
+          "source": "IT之家",
+          "date": "2026-08-20",
+          "dateLabel": "8月20日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://www.ithome.com/0/991/990.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/bab7edd2-4422-41c8-99b1-2ad71b745a48.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "85636654e674",
+          "title": "Counterpoint：2026 上半年全球人形机器人出货量同比增长近 300%，智元、宇树霸榜",
+          "desc": "IT之家 8 月 20 日消息，全球人形机器人行业目前正处于大规模商业化落地的关键阶段。根据 Counterpoint Research 今日发布的人形机器人研究报告，2026 年上半年全球人形机器人出货量突破 2.2 万台，同比增长近 300%，保持强劲增长势头。出货量方面，智元 AGIBOT 以 9,700 台的出货量位居全球第一，市场份额超 43%，随后依次是宇树机器人（Unitree）、银",
+          "source": "IT之家",
+          "date": "2026-08-20",
+          "dateLabel": "8月20日",
+          "tags": [
+            "research",
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/991/939.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/265b8ca0-d4c6-44dd-af50-6bbef2a35c67.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-08-19",
       "dateLabel": "8月19日",
       "id": "d19",
       "items": [
         {
-          "id": "3966d480cce1",
-          "title": "郭富城换车，30万级顶配华为全家桶",
-          "desc": "5.3米六座家用SUV",
+          "id": "0fc0b9b66fda",
+          "title": "章鱼动力亮相WRC 2026，携“脑-手-数据”技术体系探索具身智能未来范式",
+          "desc": "章鱼动力亮相WRC 2026，携“脑-手-数据”技术体系探索具身智能未来范式",
+          "source": "量子位",
+          "date": "2026-08-19",
+          "dateLabel": "8月19日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.qbitai.com/2026/08/475931.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "bca56bb62169",
+          "title": "全球首个人形机器人自主乒乓球完整对局亮相2026世界机器人大会",
+          "desc": "超维动力KAI全栈具身智能硬核登场",
+          "source": "量子位",
+          "date": "2026-08-19",
+          "dateLabel": "8月19日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.qbitai.com/2026/08/475907.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "345c6300e128",
+          "title": "IDC发布2026中国AI50强：360以“智能体+安全”双轮驱动入选",
+          "desc": "凭借企业级智能体与AI安全的全栈布局，360成为中国人工智能产业发展的代表企业之一。",
           "source": "量子位",
           "date": "2026-08-19",
           "dateLabel": "8月19日",
           "tags": [
             "business",
+            "policy",
             "cn"
           ],
-          "url": "https://www.qbitai.com/2026/08/475009.html",
+          "url": "https://www.qbitai.com/2026/08/475901.html",
           "image": "",
           "color": "#7c3aed"
         },
         {
-          "id": "b56e9bb4ff53",
-          "title": "Anthropic 预告 Claude Code 将整合 /design 命令",
-          "desc": "IT之家 8 月 19 日消息，Anthropic Claude Design 产品设计师纳特 · 帕罗特（Nate Parrott）昨日（8 月 18 日）在 X 平台发布推文，预告将会在 Claude Code 中整合推出 /design 命令。IT之家附上演示视频如下：开发者在编写代码之前，可以通过 /design 命令直接在终端或者桌面版 Claude Code 中创建设计模型。例如，命令",
-          "source": "IT之家",
-          "date": "2026-08-19",
-          "dateLabel": "8月19日",
-          "tags": [
-            "model",
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/991/488.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/8d5d1eaa-ff79-4dd4-afb5-45da31163413.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "412cf4d07603",
-          "title": "“AI 换脸”色情 App 营销引发争议：Meta 下架广告、苹果移除应用",
-          "desc": "IT之家 8 月 19 日消息，据外媒 WIRED 报道，近期一款名为 Kromix 的 App 在 Meta 平台投放争议广营销，该应用允许用户利用 AI 生成真实人物的色情“换脸”内容，其中一则广告甚至使用了与美国一名知名女性政治人物高度相似的 AI 生成形象。广告配音将 Kromix 宣传为“真正男人使用的 AI”，并声称工具“没有限制”，随后展示该女性形象从普通场景转为色情视频的画面。报道",
-          "source": "IT之家",
+          "id": "901416e03753",
+          "title": "MiniMax核心工程负责人阿岛离职",
+          "desc": "从技术研发到开发者沟通，长期活跃在开发者一线",
+          "source": "量子位",
           "date": "2026-08-19",
           "dateLabel": "8月19日",
           "tags": [
             "business"
           ],
-          "url": "https://www.ithome.com/0/991/482.htm",
+          "url": "https://www.qbitai.com/2026/08/475869.html",
           "image": "",
-          "color": "#d97706"
+          "color": "#7c3aed"
         },
         {
-          "id": "16f610d33520",
-          "title": "OpenAI 回应少量 Codex 用户调用 GPT-5.6 系列 AI 模型误删文件问题",
-          "desc": "IT之家 8 月 19 日消息，OpenAI Codex 团队负责人蒂博 · 索蒂奥（Thibault Sottiaux）今天在 X 平台发布长推文，回应在 Codex 中调用 GPT-5.6 系列模型后，误删部分用户文件问题。索蒂奥表示自几周前开始陆续收到少量 Codex 用户反馈，在 Codex 中使用 GPT-5.6 系列模型后，在执行了用户未授权的破坏性操作。OpenAI 发现本应清理临时",
-          "source": "IT之家",
+          "id": "f27c5ecc423d",
+          "title": "具身数据底座开卖，首发5100元：机器人训练数据有了新解法",
+          "desc": "构建全栈物理AI基础设施",
+          "source": "量子位",
+          "date": "2026-08-19",
+          "dateLabel": "8月19日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.qbitai.com/2026/08/475477.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "3afb172e9c25",
+          "title": "用DeepSeek网页版就能瓜分鹅厂600万？？！",
+          "desc": "冠军姿势长这样",
+          "source": "量子位",
           "date": "2026-08-19",
           "dateLabel": "8月19日",
           "tags": [
             "model",
-            "business"
+            "cn"
           ],
-          "url": "https://www.ithome.com/0/991/469.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/1bc64a44-c230-405f-a1b9-aab9e571ddb7.jpg",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/08/475764.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "6319e70ed563",
-          "title": "每页给 6 美元，AI 公司 Handshake AI 高价收购工作文档",
-          "desc": "IT之家 8 月 19 日消息，总部位于美国旧金山的 Handshake AI 正在招聘“专业文档贡献者”（Professional Document Contributor），承诺为“高质量书面文档”支付最高 3 万美元（IT之家注：现汇率约合 20.3 万元人民币）。想要申请这份工作，候选人应当拥有咨询、金融、法律、软件工程、数据科学等领域的工作经历。Handshake AI 表示，申请人必须",
-          "source": "IT之家",
-          "date": "2026-08-19",
-          "dateLabel": "8月19日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://www.ithome.com/0/991/464.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/f628d3ec-57ff-41e1-92a1-9a14645bcb47.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "16d750a78cbc",
-          "title": "罗技 G PRO X3 SUPERSTRIKE 鼠标泄露：HERO 2 48K 传感器，续航 +50%",
-          "desc": "IT之家 8 月 19 日消息，德媒 WinFuture 在当地时间 18 日的文章中分享了泄露的罗技 G PRO X3 SUPERSTRIKE 鼠标官网宣传资料。这一鼠标在依旧配备 HITS 触觉感应触发系统的同时还得到了一系列改进。罗技 G PRO X3 SUPERSTRIKE 基于 NxLOGI 芯片组，提供较上代产品提升 50% 的 135+ hr 续航、稳定的 8kHz 轮询无线连接；搭",
-          "source": "IT之家",
-          "date": "2026-08-19",
-          "dateLabel": "8月19日",
-          "tags": [
-            "model",
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/991/451.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/0d598036-8b3f-461b-94e3-576e3f08cb95.jpg",
-          "color": "#d97706"
-        },
-        {
-          "id": "247a3ac49cf0",
-          "title": "HMD 诺基亚 125 4G 2nd Edition 功能机曝光：2.4 英寸面板、30 万像素前后摄像头",
-          "desc": "IT之家 8 月 19 日消息，消息源 smashx_60 发文，曝光了 HMD 旗下诺基亚 125 4G 2nd Edition 功能机，该机规格与 HMD 此前推出的诺基亚 210 4G AI 手机大致相同。该机可选深蓝 / 银色两种配色，手机正面配备一块 320x240 分辨率 2.4 英寸 LCD 面板，匹配 30 万像素自拍摄像头和 30 万像素后摄，同时提供了 LED 闪光灯。该机配备",
-          "source": "IT之家",
+          "id": "effb02ac2d43",
+          "title": "写2000字提示词，不如先生成3D白模！AI视频创作进入“预演时代”",
+          "desc": "AI终于能听严格执行运镜需求",
+          "source": "量子位",
           "date": "2026-08-19",
           "dateLabel": "8月19日",
           "tags": [
             "business"
           ],
-          "url": "https://www.ithome.com/0/991/441.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/7e1653b4-7811-4940-a8f3-396763851fd3.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/08/475476.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "9796663dccd9",
-          "title": "三星最强平板 Galaxy Tab S12 Ultra 渲染图曝光：天玑 9500 芯片",
-          "desc": "IT之家 8 月 19 日消息，科技媒体 Android Headline 昨日（8 月 18 日）发布博文，分享了一组宣传图片，展示了三星最强平板 Galaxy Tab S12 Ultra。外观方面，Galaxy Tab S12 Ultra 正面配备非常窄的显示屏边框，4 条边框几乎保持统一宽度，屏幕顶部则保留 1 个尺寸较小的刘海。平板背面配备 2 颗摄像头，旁边设有 1 枚 LED 闪光灯，",
-          "source": "IT之家",
+          "id": "4d7df18a4fb4",
+          "title": "从沙子到会“思考”的智能材料，张朝阳与物理学家刘若微揭秘世界的底层逻辑",
+          "desc": "“做物理，要敢于提出蠢问题”",
+          "source": "量子位",
           "date": "2026-08-19",
           "dateLabel": "8月19日",
           "tags": [
             "business"
           ],
-          "url": "https://www.ithome.com/0/991/439.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/0e2ce415-e69d-4f5d-a6a5-17bb68b40811.png",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/08/475460.html",
+          "image": "",
+          "color": "#7c3aed"
         }
       ]
     },
@@ -3109,129 +3228,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-07-17",
-      "dateLabel": "7月17日",
-      "id": "d17",
-      "items": [
-        {
-          "id": "d8e3c6eb630c",
-          "title": "算法代理不对称：当AI替你决策时，你连反对的权利都没有",
-          "desc": "算法不仅是工具，更是隐形的权力。它塑造你的选择，你却对它一无所知。谁来打破这场不对称游戏？",
-          "source": "36氪",
-          "date": "2026-07-17",
-          "dateLabel": "7月17日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://36kr.com/p/3899527497335943",
-          "image": "https://img.36krcdn.com/hsossms/20260717/v2_a00d4967afb245449b4a911af7b0e403@5888275@ai_oswg905925oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "7682ac8108c8",
-          "title": "全球首个“变形金刚”，中国企业造出来了",
-          "desc": "全球首款可变形个人机器人启元T1发布，可切换人形/四足形态",
-          "source": "36氪",
-          "date": "2026-07-17",
-          "dateLabel": "7月17日",
-          "tags": [
-            "research",
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3899505422796161",
-          "image": "https://img.36krcdn.com/hsossms/20260717/v2_0ba78110bbc54965b8ca8c754477c4a5@5888275@ai_oswg940151oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "ea80c2b0abbc",
-          "title": "真人短剧，被AI逼上大银幕",
-          "desc": "底色是焦虑。",
-          "source": "36氪",
-          "date": "2026-07-17",
-          "dateLabel": "7月17日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3899537124165256",
-          "image": "https://img.36krcdn.com/hsossms/20260717/v2_dcb9a1cd5a6042a9955b9fb94255097c@5888275@ai_oswg863892oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "6bee4c311a80",
-          "title": "第一个被AI做空的国家，出现了",
-          "desc": "AI，戳破了印度的大国梦",
-          "source": "36氪",
-          "date": "2026-07-17",
-          "dateLabel": "7月17日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3899650585806469",
-          "image": "https://img.36krcdn.com/hsossms/20260717/v2_23262fc7027944cca303402620eba6ae@5888275@ai_oswg972803oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "56f94ef1f56f",
-          "title": "什么国产模型，都能跟Fable 5掰手腕了？全方位实测Kimi K3",
-          "desc": "见其至猛而忧其至深者，奥之特曼，达之里奥，哈之基米。",
-          "source": "36氪",
-          "date": "2026-07-17",
-          "dateLabel": "7月17日",
-          "tags": [
-            "model",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3899650690188936",
-          "image": "https://img.36krcdn.com/hsossms/20260717/v2_ca65f9e9cad74a92a605c630370f0ab5@5888275@ai_oswg900770oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "791dfcd3141c",
-          "title": "终于用上 AI 的公司，发现业务被大模型公司抢了",
-          "desc": "不仅要你的钱，而且要你的业务。",
-          "source": "36氪",
-          "date": "2026-07-17",
-          "dateLabel": "7月17日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://36kr.com/p/3899582770611845",
-          "image": "https://img.36krcdn.com/hsossms/20260717/v2_e7d5c2e5acfc446bb4cad10ee39b00ba@5888275@ai_oswg1004351oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "0c6f279f3736",
-          "title": "做出来容易上线难：搞定企业级Agent要先学会“评估”？",
-          "desc": "有些冷水也不得不泼。",
-          "source": "36氪",
-          "date": "2026-07-17",
-          "dateLabel": "7月17日",
-          "tags": [
-            "research",
-            "business"
-          ],
-          "url": "https://36kr.com/p/3899570321901449",
-          "image": "https://img.36krcdn.com/hsossms/20260717/v2_af2ca26d109740eb8463686482c573fc@5888275@ai_oswg936060oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "759c13560403",
-          "title": "全体起立：面向AI智能体的Internet Court现已开庭",
-          "desc": "全体起立：面向AI智能体的Internet Court现已开庭",
-          "source": "36氪",
-          "date": "2026-07-17",
-          "dateLabel": "7月17日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3899512269538945",
-          "image": "https://img.36krcdn.com/hsossms/20260717/v2_fbb538cfe4a04badbfdde5667ccd453a@5888275@ai_oswg927223oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -3257,6 +3253,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-08-19 10:54",
+  "updateTime": "2026-08-20 10:53",
   "totalNews": 207
 }
