@@ -1,127 +1,244 @@
 {
   "newsData": [
     {
+      "date": "2026-08-22",
+      "dateLabel": "8月22日",
+      "id": "d22",
+      "items": [
+        {
+          "id": "de2c2e8540a0",
+          "title": "豆包输入法鸿蒙版上架尝鲜，版本号 0.9.1",
+          "desc": "IT之家 8 月 22 日消息，豆包输入法鸿蒙版现已在 App Gallery 应用商店开启尝鲜，版本号为 0.9.1（901），时间为 8 月 22 日至 9 月 21 日。官方表示，豆包输入法的「语音输入」使用豆包同款语音大模型，语音输入又快又准，支持多方言、英语及中英混输；快速说话、轻声说话均可精准识别，无网弱网环境下也能流畅使用，同时提供点击输入、长按输入等多种操作方式。「键盘输入」则提供",
+          "source": "IT之家",
+          "date": "2026-08-22",
+          "dateLabel": "8月22日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://www.ithome.com/0/992/930.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/9c23de36-4df3-4254-b94e-a5ec08d19383.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "2602dd998bc8",
+          "title": "第二届世界人形机器人运动会今天开幕，新增拔河、乒乓球等项目",
+          "desc": "IT之家 8 月 22 日消息，由北京市人民政府、中央广播电视总台等单位联合主办的第二届世界人形机器人运动会今天开幕。本次比赛将持续到 26 日，共设置 51 个项目、1300 多场比赛。今年竞技赛新增跳远、举重、拔河、乒乓球等高强度对抗项目。本届运动会正赛将于 8 月 22 日至 26 日在国家速滑馆“冰丝带”举行，将举行 51 个项目共 1301 场比赛，吸引 666 支队伍携 2056 台机",
+          "source": "IT之家",
+          "date": "2026-08-22",
+          "dateLabel": "8月22日",
+          "tags": [
+            "research",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/992/928.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/b71b6c72-0f4c-4b25-8564-7f979e0e1913.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "6348edea50bc",
+          "title": "Rust 1.98 发布：打破代数运算性能瓶颈，编译器可重排更多运算",
+          "desc": "IT之家 8 月 22 日消息，科技媒体 Linuxiac 昨日（8 月 21 日）发布博文，报道称 Rust 团队更新推出 1.98 版本，重点加入面向 f32 和 f64 浮点类型的“代数浮点”（algebraic floating-point）方法，同时加快整数格式化，并稳定多项标准库 API。本次更新重点针对 f32 和 f64 浮点数引入了全新的代数运算方法（包括 algebraic_a",
+          "source": "IT之家",
+          "date": "2026-08-22",
+          "dateLabel": "8月22日",
+          "tags": [
+            "business",
+            "policy"
+          ],
+          "url": "https://www.ithome.com/0/992/912.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/1eda1c81-eae6-42f8-b8eb-0cde78d04838.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "6e214a555aa0",
+          "title": "小米官方“龙虾”Xiaomi miclaw 将于 9 月 21 日结束封测",
+          "desc": "IT之家 8 月 22 日消息，8 月 21 日，小米官方账号“Beta 版小助手”发布《Xiaomi miclaw 封测结束公告》。公告显示，今年 3 月，小米开启了官方“龙虾” Xiaomi miclaw 封测，获得了众多用户的关注。经过近半年的封闭测试，团队获得了关于 AI 类产品很多有益的意见和建议。现在，决定于 2026 年 9 月 21 日结束这次封测。用户的 Xiaomi micla",
+          "source": "IT之家",
+          "date": "2026-08-22",
+          "dateLabel": "8月22日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/992/911.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/027437f1-fd05-4588-ae53-1c317ca25526.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "48baf024e5f3",
+          "title": "冲击全球最大 IPO：曝 Anthropic 募资 1000 亿美元，目标估值 2 万亿美元",
+          "desc": "IT之家 8 月 22 日消息，金融媒体 mitrade 昨日（8 月 21 日）发布博文，报道称 Anthropic 最早可能会在本月（2026 年 8 月）底公开提交 IPO 申请，预估融资规模将超过此前 SpaceX 创造的纪录。数据显示，全球首富埃隆 · 马斯克（Elon Musk）旗下 SpaceX 于今年 6 月 IPO 上市初期，筹集了 750 亿美元（IT之家注：现汇率约合 5,0",
+          "source": "IT之家",
+          "date": "2026-08-22",
+          "dateLabel": "8月22日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/992/910.htm",
+          "image": "",
+          "color": "#d97706"
+        },
+        {
+          "id": "9f066db12828",
+          "title": "Anthropic 发力自研芯片，聘请前谷歌 TPU 负责人阿米尔 · 萨莱克",
+          "desc": "IT之家 8 月 22 日消息，据彭博社报道，Anthropic 于周五透露，前谷歌 TPU 项目创始高管之一阿米尔 · 萨莱克（Amir Salek）将加入 Anthropic 的算力团队。在 2022 年离职前，萨莱克曾长期负责谷歌的 TPU 业务，主导并交付了前七代 TPU 芯片。萨莱克还曾就职于英伟达，在离开谷歌后，萨莱克曾出任私募股权投资机构塞伯罗斯资本管理公司的高级董事总经理。目前，A",
+          "source": "IT之家",
+          "date": "2026-08-22",
+          "dateLabel": "8月22日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/992/909.htm",
+          "image": "",
+          "color": "#d97706"
+        },
+        {
+          "id": "33ef924eab61",
+          "title": "微软公布《漫威斗魂》等游戏不兼容 Win11 八月更新初步结果：RGB 灯效设备代码冲突",
+          "desc": "IT之家 8 月 22 日消息，科技媒体 NeoWin 昨日（8 月 21 日）发布博文，报道称微软更新支持文档，认为多款游戏不兼容 Windows 11 八月累积更新，可能关联带 RGB（红绿蓝）灯效设备安装的驱动或组件。IT之家此前报道，微软目前已确认受影响游戏包括《ARC Raiders》《漫威斗魂》及《最终决战》，主要症状表现为游戏无响应、闪退、显示“EXCEPTION_ACCESS_VI",
+          "source": "IT之家",
+          "date": "2026-08-22",
+          "dateLabel": "8月22日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/992/907.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/180707ae-4aab-40fc-aaab-aa7e96ef6dc7.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "7099f78a77ca",
+          "title": "微软 Win11 将精细化管理统一内存，调控图形和 AI 预留容量",
+          "desc": "IT之家 8 月 22 日消息，科技媒体 Windows Latest 昨日（8 月 21 日）发布博文，报道称在 Windows 11 系统中，微软计划增加统一内存管理，精细化管控图形处理和 AI 任务预留内存。IT之家注：统一内存（Unified memory）是指 CPU、GPU 和其他加速器共享同一块高速内存池。与传统电脑将系统 RAM 和显存分开的方式不同，统一内存能让本地 AI 模型、",
+          "source": "IT之家",
+          "date": "2026-08-22",
+          "dateLabel": "8月22日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/992/904.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/5eba4d49-01bb-4935-af12-32c3668d79d2.jpg",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-08-21",
       "dateLabel": "8月21日",
       "id": "d21",
       "items": [
         {
-          "id": "d370a72751c2",
-          "title": "石头 A30 Pro Steam 3.0 体验：180℃ 蒸汽 +90℃ 热水一键混洗，洗地机开始“上强度”了",
-          "desc": "随着生活节奏的不断加快，大家对家里地面的清洁要求也越来越高。以前，地面上有点灰、有点脏，拿起拖把简单拖一遍基本就够了。但现在，厨房里干涸的油污、餐桌下洒落的饭菜、卫生间里的顽固水渍，以及宠物和孩子日常活动留下的各种痕迹，都让日常清洁变得更加复杂。在这种时候，单靠一台扫地机器人往往显得力不从心。想要彻底搞定这些令人头疼的干湿混合垃圾，洗地机自然成了许多家庭的首选。事实上，对于洗地机行业来说，如何把这",
-          "source": "IT之家",
+          "id": "8861f06fe764",
+          "title": "最大运力自动驾驶轻卡落地，来自无人车巨头",
+          "desc": "载重4.2吨、容积19.32m³",
+          "source": "量子位",
+          "date": "2026-08-21",
+          "dateLabel": "8月21日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/08/476778.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "2a374d9f339e",
+          "title": "明略科技携手海康机器人亮相世界机器人大会，以“Agent+具身”联合进入商业机器人场景",
+          "desc": "明略科技（2718.HK）与海康机器人联合参展2026WRC，聚焦商业服务领域展示具身智能落地进展。",
+          "source": "量子位",
+          "date": "2026-08-21",
+          "dateLabel": "8月21日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.qbitai.com/2026/08/476733.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "74a4f1db39df",
+          "title": "雷鸟iO发布：两天续航、全天候主动式AI，轻至34g",
+          "desc": "8月21日，全球领先的消费级AR品牌雷鸟创新（RayNeo）举办2026雷鸟AI眼镜新品发布会",
+          "source": "量子位",
+          "date": "2026-08-21",
+          "dateLabel": "8月21日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/08/476628.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "fb9f0d3f5fbe",
+          "title": "机器人的GPT-3时刻真·来了！卡卡西上身，看3秒就学会新动作",
+          "desc": "机器人看3秒演示就能学会",
+          "source": "量子位",
           "date": "2026-08-21",
           "dateLabel": "8月21日",
           "tags": [
             "model",
             "research"
           ],
-          "url": "https://www.ithome.com/0/992/496.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/fed6898e-5b17-4e01-903a-f05cf57f7351.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/08/476596.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "4c1c35bd0335",
-          "title": "前摩托罗拉设备总裁 Sergio Buniac 将领导高通移动、计算、个人 AI 业务",
-          "desc": "IT之家 8 月 21 日消息，Qualcomm（高通）当地时间 20 日宣布，自 2018 年起在联想旗下摩托罗拉设备担任总裁的 Sergio Buniac 将于 9 月 2 日正式加入高通。Sergio Buniac 将担任执行副总裁以及移动、计算、个人人工智能业务集团总经理。其将负责包括新一代人工智能设备的智能手机、个人计算、智能可穿戴设备、扩展现实业务，直接向高通总裁兼首席执行官 Cris",
-          "source": "IT之家",
-          "date": "2026-08-21",
-          "dateLabel": "8月21日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/0/992/495.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/6ff681b7-7d10-4089-ad3f-5cf4aae7530c.jpg",
-          "color": "#d97706"
-        },
-        {
-          "id": "52ee00d1aa87",
-          "title": "井芯微 RapidIO 交换芯片 SR1820、RapidIO - PCIe 桥接芯片 ST0420 成功点亮",
-          "desc": "IT之家 8 月 21 日消息，井芯微电子 (sdichips) 昨日宣布，其自主研制的 RapidIO 3.2 交换芯片 SR1820、RapidIO 3.2 - PCIe 4.0 桥接芯片 ST0420 于 8 月 18 日回片并成功点亮，用时不到 1hr 即打通全部主功能用例。SR1820 是一款低延迟的 24 端口 48 通道 RapidIO Gen3 交换芯片，峰值交换容量达 600Gb",
-          "source": "IT之家",
+          "id": "5338f1e7109b",
+          "title": "科学家只管提问题，AI负责跑实验：深势科技把科研全流程搬进桌面",
+          "desc": "让科学家的时间回到科学创造",
+          "source": "量子位",
           "date": "2026-08-21",
           "dateLabel": "8月21日",
           "tags": [
             "business"
           ],
-          "url": "https://www.ithome.com/0/992/489.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/67a3e0ea-f7e8-4a1a-a8e4-8c2ccd98e803.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/08/476591.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "dd771799e338",
-          "title": "小米智能门锁 5C 预售：直插式 C 级锁芯，到手价 659 元",
-          "desc": "IT之家 8 月 21 日消息，小米智能门锁 5C 今日预售，新品到手价 659 元。小米智能门锁 5C 提供多种开锁方式，包含 AI 指纹、固定密码、周期 / 一次性密码、机械钥匙、米家 App 蓝牙、小米手机 / 手表 / 手环 NFC、NFC 门卡。安全方面，这款门锁将离合内置锁体，配合直插式 C 级锁芯贯穿锁体结构，可有效防止外力拆卸前面板后直接开锁，同时还可抵御暴力下压外把手开锁，更加可",
-          "source": "IT之家",
-          "date": "2026-08-21",
-          "dateLabel": "8月21日",
-          "tags": [
-            "policy",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/0/992/482.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/09e80c6c-c8e8-47ad-b05b-97bfea462620.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "d627686f8791",
-          "title": "消息称 Anthropic 计划调整数据留存策略：客户可选择在自有设施保存",
-          "desc": "IT之家 8 月 21 日消息，彭博社当地时间 20 日援引消息人士的话报道称，Anthropic 计划调整此前为保障网络安全实施的数据留存策略：企业客户将可选择在自有云计算基础设施而不是 Anthropic 设施上保留 30 天内的数据。这一安全系统预计将在今年晚些时候正式上线。先进人工智能模型在网络安全领域展现了强大的攻击能力。Anthropic 为此在今年 6 月宣布企业客户产生的所有前沿模",
-          "source": "IT之家",
-          "date": "2026-08-21",
-          "dateLabel": "8月21日",
-          "tags": [
-            "business",
-            "policy"
-          ],
-          "url": "https://www.ithome.com/0/992/462.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/56c88030-ecce-4211-ab09-acc752f9d739.jpg",
-          "color": "#d97706"
-        },
-        {
-          "id": "ac2b1d395fd7",
-          "title": "小鹏 GX 上市 2 个月交付超 1.5 万台，在阿联酋等区域已斩获超 2000 台订单",
-          "desc": "IT之家 8 月 21 日消息，小鹏汽车官方今日宣布，今年是小鹏发力 AI 智驾和高端旗舰的关键年。随着第二代 VLA 正式发布，小鹏史上最强「旗舰双王」—— 小鹏 GX 与 G9L 相继登场，AI 智驾与高端旗舰双线提速。其中，小鹏 GX 上市 2 个月交付超 15,000 台。在成都，GX 车主车均零重力座椅开启时长、昆仑云境双拼色版本选购占比、第二代 VLA 节假日跨城出行车均使用里程，三项",
-          "source": "IT之家",
-          "date": "2026-08-21",
-          "dateLabel": "8月21日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/0/992/457.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/64676067-4ead-4fad-886a-d2caa467ea28.jpg",
-          "color": "#d97706"
-        },
-        {
-          "id": "c04562a93210",
-          "title": "鸿蒙智行问界儿童车预售：350W 电机、20km 续航、前后双 1080P 摄像头，到手价 1.48 万元",
-          "desc": "IT之家 8 月 21 日消息，鸿蒙智行问界儿童车现已开启预售，将于 8 月 30 日正式上市，售价 15,800 元。目前在“AITO 问界车生活商城”小程序可领 1,000 元无门槛优惠券，实际到手价 1.48 万元。IT之家从商品页面获悉，问界儿童车长宽高分别为 1500/800/655mm，采用车规级金属漆，有金瑞红、赛里木青、暖云白三种颜色可选；支持 App 控车与多功能遥控器操作。问界",
-          "source": "IT之家",
+          "id": "fe6bfb1aa4c0",
+          "title": "WRC展会拿旧Demo炒冷饭？扒一扒千寻藏在水下的全栈底牌",
+          "desc": "一点新鲜变化都没有吗？",
+          "source": "量子位",
           "date": "2026-08-21",
           "dateLabel": "8月21日",
           "tags": [
             "business"
           ],
-          "url": "https://www.ithome.com/0/992/456.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/c75a2e2f-3c07-4b9d-985f-7a6fe68f489b.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/08/476532.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "391778b800d4",
-          "title": "微软提高 Win11 安全，9 月累积更新将彻底移除 WMIC",
-          "desc": "IT之家 8 月 21 日消息，科技媒体 Windows Latest 今天（8 月 21 日）发布博文，报道称在下月（2026 年 9 月）补丁星期二活动中，微软将彻底移除 Windows 11 系统中的 WMIC。IT之家注：WMIC（Windows Management Instrumentation Command-line）是 Windows 的命令行管理工具，可让管理员通过脚本查询系统",
-          "source": "IT之家",
+          "id": "85582115ee69",
+          "title": "设计无边界！中坚科技旗下子公司桦之坚携巨型概念机器人ZERO惊艳2026世界机器人大会",
+          "desc": "中坚科技（002779.SZ）旗下桦之坚携概念人形机器人ZERO亮相2026世界机器人大会。",
+          "source": "量子位",
           "date": "2026-08-21",
           "dateLabel": "8月21日",
           "tags": [
-            "business",
-            "policy"
+            "research"
           ],
-          "url": "https://www.ithome.com/0/992/453.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/57ab25f5-32c6-442f-949b-c31a92e66b3e.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/08/476525.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "75cd47ff739e",
+          "title": "Jeff Dean离职后首次公开访谈火力有点猛。。。",
+          "desc": "离开谷歌的原因之一：小团队可以极致聚焦！",
+          "source": "量子位",
+          "date": "2026-08-21",
+          "dateLabel": "8月21日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/08/476468.html",
+          "image": "",
+          "color": "#7c3aed"
         }
       ]
     },
@@ -3011,128 +3128,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-07-19",
-      "dateLabel": "7月19日",
-      "id": "d19",
-      "items": [
-        {
-          "id": "7add97fd0c37",
-          "title": "冷门的哲学，成了“治”AI的热门",
-          "desc": "智能进了社会，治理不能慢半拍",
-          "source": "量子位",
-          "date": "2026-07-19",
-          "dateLabel": "7月19日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/07/455041.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "def1f9a2f343",
-          "title": "围观WAIC模型「读心术」！现场火火火火火",
-          "desc": "主观世界模型",
-          "source": "量子位",
-          "date": "2026-07-19",
-          "dateLabel": "7月19日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/07/455031.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "486b1c4f51d8",
-          "title": "不靠英伟达网卡，国产GPU直通方案实测出炉：吞吐飙升、延迟砍半",
-          "desc": "奇异摩尔首次亮相WAIC 2026",
-          "source": "量子位",
-          "date": "2026-07-19",
-          "dateLabel": "7月19日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/07/454932.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "25b6cef61729",
-          "title": "逛了趟WAIC，我只想说，AI在物理世界都快卷疯了……",
-          "desc": "还得是AI圈春晚",
-          "source": "量子位",
-          "date": "2026-07-19",
-          "dateLabel": "7月19日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/07/454802.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "18b0fe8a705a",
-          "title": "聚焦WAIC｜端侧原生架构获产业共识，Om AI联汇正式发起物理AI协同发展倡议",
-          "desc": "聚焦WAIC｜端侧原生架构获产业共识，Om AI联汇正式发起物理AI协同发展倡议",
-          "source": "量子位",
-          "date": "2026-07-19",
-          "dateLabel": "7月19日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://www.qbitai.com/2026/07/454791.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "9fa82d4216d8",
-          "title": "2026世界人工智能大会“未来计算·未来算力”专题论坛在沪召开，共识凝聚五问",
-          "desc": "2026世界人工智能大会“未来计算·未来算力”专题论坛在沪召开，共识凝聚五问",
-          "source": "量子位",
-          "date": "2026-07-19",
-          "dateLabel": "7月19日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/07/454774.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "f7ad4b4656f0",
-          "title": "华为靳玉志再谈“L3 无法跳过”，称法律法规完善及用户适应都需要一个过程",
-          "desc": "IT之家 7 月 20 日消息，据 36 氪汽车昨晚报道，华为公司高级副总裁、引望公司 CEO 靳玉志在接受采访时再次谈及了“L3 无法跳过”这一话题。业内有人提出可以直接从 L2 升级到 L4，但华为乾崑认为 L3 是无法跨越的必经阶段。对此，靳玉志表示：L3 和 L4，不是一种对立的关系，是迈向完全自动驾驶同一个方向的不同阶段。从法规和用户角度来看，从 L2 到 L3 是一个变革性的变化，意味",
-          "source": "IT之家",
-          "date": "2026-07-19",
-          "dateLabel": "7月19日",
-          "tags": [
-            "policy",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/0/978/822.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/fd2b37cf-9040-43b2-aa65-f9b7c2e0347a.png?x-bce-process=image/format,f_auto/auto-orient,o_1",
-          "color": "#d97706"
-        },
-        {
-          "id": "83c41938488a",
-          "title": "IT早报 0720：华为靳玉志称境和界是互补关系；比亚迪大汉实车曝光；Kimi K3 打破美 AI 领先中国认知；西班牙二度夺冠，EA 连续五次成功预测世界杯冠军...",
-          "desc": "“IT早报”时间，大家好，现在是 2026 年 7 月 20 日星期一，今天的重要科技资讯有：1、华为靳玉志：“境”和“界”并不冲突、是互补的关系，鸿蒙智行打造 30 万以上汽车的样板点靳玉志表示：“境”和“界”是互补的关系。网上有人认为二者冲突，实际上是不冲突的，在华为内部很早就达成了共识。>> 查看详情2、比亚迪王朝首款 D 级旗舰轿车，大汉实车曝光新车定位比亚迪王朝首款 D 级旗舰轿车，长宽",
-          "source": "IT之家",
-          "date": "2026-07-19",
-          "dateLabel": "7月19日",
-          "tags": [
-            "model",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/0/978/821.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/7dac2a59-62e8-40c6-ad2f-70ed98f2a87c.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -3158,6 +3153,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-08-21 10:59",
+  "updateTime": "2026-08-22 10:51",
   "totalNews": 200
 }
