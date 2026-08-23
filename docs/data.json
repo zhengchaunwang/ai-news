@@ -1,123 +1,250 @@
 {
   "newsData": [
     {
+      "date": "2026-08-23",
+      "dateLabel": "8月23日",
+      "id": "d23",
+      "items": [
+        {
+          "id": "e913d92c7f09",
+          "title": "上纬新材消费级机器人启元 Q1/T1 开启预订，预计首批发货最早 9 月",
+          "desc": "IT之家 8 月 23 日消息，据财联社今日报道，上纬新材消费级机器人启元 Q1、启元 T1 双产品开启预订，用户可通过上纬启元官方小程序、天猫、抖音、B站官方店铺，以及线下体验活动参与预订，预计首批发货时间为今年 9 月。就在今年 7 月，上纬新材官宣全球首个可变形个人机器人 —— 启元 T1 正式登场。据介绍，上纬新材启元 T1 支持双足站立，也能四足行走；支持柔性力控，自然牵手；支持静谧移动",
+          "source": "IT之家",
+          "date": "2026-08-23",
+          "dateLabel": "8月23日",
+          "tags": [
+            "research",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/993/155.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/d7f729fe-5f3a-4305-a2e4-5f90503c16d3.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "61dadc5a8cd7",
+          "title": "《使命召唤：现代战争 4》测试版率先搭载英伟达 DLSS 4.5 光线重建技术",
+          "desc": "IT之家 8 月 23 日消息，《使命召唤：现代战争 4》测试版于 8 月 21 日开启预购玩家抢先体验。一名眼尖的 Reddit 用户发现，该测试版似乎搭载了全新的 DLSS 版本，同时还首次在游戏中实现了 DLSS 4.5 光线重建（Ray Reconstruction）。英伟达此前已经宣布，DLSS 4.5 光线重建技术计划于本月发布，但截至目前还没有任何游戏正式采用这一技术。如今，这一情况",
+          "source": "IT之家",
+          "date": "2026-08-23",
+          "dateLabel": "8月23日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/993/153.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/60dd95e2-1c90-453b-aaa1-9ada23e15a30.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "4b2619507846",
+          "title": "小米推出米家扫拖机器人 7C：滚筒活水增压拖地，到手价 2069.1 元",
+          "desc": "IT之家 8 月 23 日消息，米家扫拖机器人 7C 现已在小米有品上架预约，官方标价 2299 元，券后到手价 2069.1 元，8 月 26 日 10 点现货开售（点击前往）。IT之家从商品页面获悉，这款新品支持滚筒活水拖地，配备恒压恒湿滚筒拖布，200 转 / 分钟高速洗拖，强效清洁咖啡渍、油渍、宠物脚印等顽固污渍; 配合活水边拖边洗，有效减少二次污染。模拟人手拖地施压逻辑，滚筒拖布持续稳定",
+          "source": "IT之家",
+          "date": "2026-08-23",
+          "dateLabel": "8月23日",
+          "tags": [
+            "research",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/993/152.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/464113a6-41b2-438c-972c-7677ee78d490.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "d279a87f2865",
+          "title": "Oura 遭集体诉讼，被指夸大智能戒指睡眠追踪准确性",
+          "desc": "IT之家 8 月 23 日消息，一项拟议中的集体诉讼正在指控智能戒指制造商 Oura 欺骗消费者，夸大其睡眠追踪功能的准确性。这起诉讼由旧金山的 Clarkson Law Firm 于当地时间周四提起。诉状称，Oura 戒指无法测量评估睡眠质量或判断睡眠阶段所需的任何生理信号，实际上依赖 AI 生成的估算结果，而这些结果“正确的概率就像抛硬币一样”。这起诉讼源于多年来 Oura 用户在互联网上分享",
+          "source": "IT之家",
+          "date": "2026-08-23",
+          "dateLabel": "8月23日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.ithome.com/0/993/151.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/a5a50238-404d-4f63-b92a-fbe6d21477c2.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "8e3ab25ef57a",
+          "title": "安全防护形同虚设：Anthropic 多款 Claude 旧模型可被越狱生成露骨色情内容",
+          "desc": "IT之家 8 月 23 日消息，Anthropic 针对 Claude 制定的通用使用规范明确禁止模型生成露骨色情内容，包括描绘或要求发生性行为或其他性行为、生成与性癖或性幻想有关的内容，以及进行色情聊天。不过，这并没有阻止 Anthropic 今年早些时候发布的模型 Claude Opus 4.6 轻易参与其安全机制原本试图阻止的色情角色扮演。TechCrunch 在测试中发现，想让 Opus ",
+          "source": "IT之家",
+          "date": "2026-08-23",
+          "dateLabel": "8月23日",
+          "tags": [
+            "model",
+            "business",
+            "policy"
+          ],
+          "url": "https://www.ithome.com/0/993/149.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/78760d21-9579-423e-a047-163ed75d3a88.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "cdd9b165a20f",
+          "title": "微软 Edge 浏览器移动版推出邀请好友得积分活动，一年最多可获 9 万 Rewards 积分",
+          "desc": "IT之家 8 月 23 日消息，只要邀请足够多的朋友使用 Microsoft Edge，你就可以通过 Microsoft Rewards 轻松兑换 Xbox Game Pass 或礼品卡。微软推出了一项新的推广活动：用户在手机上使用 Edge，并通过专属推荐链接邀请朋友体验这款浏览器，就能获得 Microsoft Rewards 积分。根据测试，每成功邀请一名用户，可以获得 500 个 Rewar",
+          "source": "IT之家",
+          "date": "2026-08-23",
+          "dateLabel": "8月23日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/993/145.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/229c9f56-3a9e-4cd4-be2a-85101a28e883.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "7703bc22e85e",
+          "title": "鸿蒙智行智界 RX 轿跑 SUV 各版本配置出炉，预售价 29.98 万元起",
+          "desc": "IT之家 8 月 23 日消息，在 8 月 20 日的享界 G9 及鸿蒙智行新品发布会上，智界 RX 轿跑 SUV 开启预订。华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东透露，该车搭载面向未来的 L3 级自动驾驶架构设计。IT之家注意到，目前这款新车的各版本配置已出炉，预售价 29.98 万元起。Max 长续航版：29.98 万元起共光路舱内激光雷达主驾智能环抱零重力座椅华为途灵",
+          "source": "IT之家",
+          "date": "2026-08-23",
+          "dateLabel": "8月23日",
+          "tags": [
+            "research",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/993/142.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/30afae1a-c19a-445a-a4c9-e533b973c469.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "ac9149cb402f",
+          "title": "OpenAI 一改此前立场，呼吁加州强化 AI 安全法案",
+          "desc": "IT之家 8 月 23 日消息，OpenAI 呼吁加州进一步加强一项具有里程碑意义的 AI 安全法案。该法案已于去年获得通过。OpenAI 全球事务团队在 LinkedIn 上发表的一篇文章中表示，加州 SB 53 法案“应该进一步扩大安全保障措施”。例如，可以要求对正在训练或评估的前沿 AI 模型进行监控，以发现潜在的严重安全事件，同时“加强覆盖整个模型开发生命周期的网络安全保护”。OpenAI",
+          "source": "IT之家",
+          "date": "2026-08-23",
+          "dateLabel": "8月23日",
+          "tags": [
+            "research",
+            "policy"
+          ],
+          "url": "https://www.ithome.com/0/993/141.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/2/8ad2304d-c61b-4004-9483-e1a55ca43342.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-08-22",
       "dateLabel": "8月22日",
       "id": "d22",
       "items": [
         {
-          "id": "de2c2e8540a0",
-          "title": "豆包输入法鸿蒙版上架尝鲜，版本号 0.9.1",
-          "desc": "IT之家 8 月 22 日消息，豆包输入法鸿蒙版现已在 App Gallery 应用商店开启尝鲜，版本号为 0.9.1（901），时间为 8 月 22 日至 9 月 21 日。官方表示，豆包输入法的「语音输入」使用豆包同款语音大模型，语音输入又快又准，支持多方言、英语及中英混输；快速说话、轻声说话均可精准识别，无网弱网环境下也能流畅使用，同时提供点击输入、长按输入等多种操作方式。「键盘输入」则提供",
-          "source": "IT之家",
+          "id": "4cf3b07e9336",
+          "title": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径",
+          "desc": "端侧部署解决了具身大脑能否装进身体的问题。那么，同一个「大脑」，如何快速适配工业、商用和家庭三类机器人呢？",
+          "source": "量子位",
           "date": "2026-08-22",
           "dateLabel": "8月22日",
           "tags": [
-            "model"
+            "research"
           ],
-          "url": "https://www.ithome.com/0/992/930.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/9c23de36-4df3-4254-b94e-a5ec08d19383.jpg",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/08/477253.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "2602dd998bc8",
-          "title": "第二届世界人形机器人运动会今天开幕，新增拔河、乒乓球等项目",
-          "desc": "IT之家 8 月 22 日消息，由北京市人民政府、中央广播电视总台等单位联合主办的第二届世界人形机器人运动会今天开幕。本次比赛将持续到 26 日，共设置 51 个项目、1300 多场比赛。今年竞技赛新增跳远、举重、拔河、乒乓球等高强度对抗项目。本届运动会正赛将于 8 月 22 日至 26 日在国家速滑馆“冰丝带”举行，将举行 51 个项目共 1301 场比赛，吸引 666 支队伍携 2056 台机",
-          "source": "IT之家",
+          "id": "459804ae4f00",
+          "title": "伽利略机器人首发“陆行具身系统”，打通轮车足底层技术壁垒",
+          "desc": "直击WRC",
+          "source": "量子位",
+          "date": "2026-08-22",
+          "dateLabel": "8月22日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.qbitai.com/2026/08/477246.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "36b53133cf5f",
+          "title": "魔法原子亮相WRC 2026，三大场景解决方案实景展示物理AI真·上岗",
+          "desc": "一脑驱动多形落地",
+          "source": "量子位",
+          "date": "2026-08-22",
+          "dateLabel": "8月22日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/08/477155.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "afd2420f2680",
+          "title": "00后清华博士生创业“神经接口”：把人类肌肉反应炼成Token",
+          "desc": "采集，从一条腕带开始",
+          "source": "量子位",
+          "date": "2026-08-22",
+          "dateLabel": "8月22日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/08/477094.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "e4d368ac16ff",
+          "title": "Eon用LIF“上传”果蝇脑，中国团队直接上精细神经元和跨身体平台",
+          "desc": "将真实场景重建为持续更新、可计算的4D数字世界。",
+          "source": "量子位",
+          "date": "2026-08-22",
+          "dateLabel": "8月22日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/08/477090.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "6bffdf4a69fb",
+          "title": "当机器人大脑飞上天！替人奔赴危险作业现场，对话硅羽科技",
+          "desc": "当机器人大脑飞上天！替人奔赴危险作业现场，对话硅羽科技",
+          "source": "量子位",
+          "date": "2026-08-22",
+          "dateLabel": "8月22日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.qbitai.com/2026/08/476965.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "8d31f55b6cc8",
+          "title": "从模型到生产力：星海图与产业朋友圈共探具身智能的下一站",
+          "desc": "让具身智能技术真正落地千行万业。",
+          "source": "量子位",
           "date": "2026-08-22",
           "dateLabel": "8月22日",
           "tags": [
             "research",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/0/992/928.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/b71b6c72-0f4c-4b25-8564-7f979e0e1913.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "6348edea50bc",
-          "title": "Rust 1.98 发布：打破代数运算性能瓶颈，编译器可重排更多运算",
-          "desc": "IT之家 8 月 22 日消息，科技媒体 Linuxiac 昨日（8 月 21 日）发布博文，报道称 Rust 团队更新推出 1.98 版本，重点加入面向 f32 和 f64 浮点类型的“代数浮点”（algebraic floating-point）方法，同时加快整数格式化，并稳定多项标准库 API。本次更新重点针对 f32 和 f64 浮点数引入了全新的代数运算方法（包括 algebraic_a",
-          "source": "IT之家",
-          "date": "2026-08-22",
-          "dateLabel": "8月22日",
-          "tags": [
-            "business",
-            "policy"
-          ],
-          "url": "https://www.ithome.com/0/992/912.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/1eda1c81-eae6-42f8-b8eb-0cde78d04838.jpg",
-          "color": "#d97706"
-        },
-        {
-          "id": "6e214a555aa0",
-          "title": "小米官方“龙虾”Xiaomi miclaw 将于 9 月 21 日结束封测",
-          "desc": "IT之家 8 月 22 日消息，8 月 21 日，小米官方账号“Beta 版小助手”发布《Xiaomi miclaw 封测结束公告》。公告显示，今年 3 月，小米开启了官方“龙虾” Xiaomi miclaw 封测，获得了众多用户的关注。经过近半年的封闭测试，团队获得了关于 AI 类产品很多有益的意见和建议。现在，决定于 2026 年 9 月 21 日结束这次封测。用户的 Xiaomi micla",
-          "source": "IT之家",
-          "date": "2026-08-22",
-          "dateLabel": "8月22日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/0/992/911.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/027437f1-fd05-4588-ae53-1c317ca25526.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "48baf024e5f3",
-          "title": "冲击全球最大 IPO：曝 Anthropic 募资 1000 亿美元，目标估值 2 万亿美元",
-          "desc": "IT之家 8 月 22 日消息，金融媒体 mitrade 昨日（8 月 21 日）发布博文，报道称 Anthropic 最早可能会在本月（2026 年 8 月）底公开提交 IPO 申请，预估融资规模将超过此前 SpaceX 创造的纪录。数据显示，全球首富埃隆 · 马斯克（Elon Musk）旗下 SpaceX 于今年 6 月 IPO 上市初期，筹集了 750 亿美元（IT之家注：现汇率约合 5,0",
-          "source": "IT之家",
-          "date": "2026-08-22",
-          "dateLabel": "8月22日",
-          "tags": [
             "business"
           ],
-          "url": "https://www.ithome.com/0/992/910.htm",
+          "url": "https://www.qbitai.com/2026/08/476930.html",
           "image": "",
-          "color": "#d97706"
+          "color": "#7c3aed"
         },
         {
-          "id": "9f066db12828",
-          "title": "Anthropic 发力自研芯片，聘请前谷歌 TPU 负责人阿米尔 · 萨莱克",
-          "desc": "IT之家 8 月 22 日消息，据彭博社报道，Anthropic 于周五透露，前谷歌 TPU 项目创始高管之一阿米尔 · 萨莱克（Amir Salek）将加入 Anthropic 的算力团队。在 2022 年离职前，萨莱克曾长期负责谷歌的 TPU 业务，主导并交付了前七代 TPU 芯片。萨莱克还曾就职于英伟达，在离开谷歌后，萨莱克曾出任私募股权投资机构塞伯罗斯资本管理公司的高级董事总经理。目前，A",
+          "id": "f659e1bcefe2",
+          "title": "哈佛商学院推出 699 美元创业训练营，讲师 AI 数字分身提供路演反馈",
+          "desc": "IT之家 8 月 23 日消息，随着哈佛商学院（HBS）寻求扩大自身影响力，其开始借助 AI 虚拟形象为学生提供个性化反馈。这些 AI 虚拟形象由一家名为 HeyGen 的初创公司打造，目前已被纳入哈佛商学院为创业者推出的 HBS Foundry 训练营。这项课程为期 8 周，收费 699 美元（IT之家注：现汇率约合 4,710 元人民币）。该项目每周都会安排教师进行直播授课，但在模拟路演和董事",
           "source": "IT之家",
           "date": "2026-08-22",
           "dateLabel": "8月22日",
           "tags": [
-            "business"
+            "research"
           ],
-          "url": "https://www.ithome.com/0/992/909.htm",
-          "image": "",
-          "color": "#d97706"
-        },
-        {
-          "id": "33ef924eab61",
-          "title": "微软公布《漫威斗魂》等游戏不兼容 Win11 八月更新初步结果：RGB 灯效设备代码冲突",
-          "desc": "IT之家 8 月 22 日消息，科技媒体 NeoWin 昨日（8 月 21 日）发布博文，报道称微软更新支持文档，认为多款游戏不兼容 Windows 11 八月累积更新，可能关联带 RGB（红绿蓝）灯效设备安装的驱动或组件。IT之家此前报道，微软目前已确认受影响游戏包括《ARC Raiders》《漫威斗魂》及《最终决战》，主要症状表现为游戏无响应、闪退、显示“EXCEPTION_ACCESS_VI",
-          "source": "IT之家",
-          "date": "2026-08-22",
-          "dateLabel": "8月22日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/992/907.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/180707ae-4aab-40fc-aaab-aa7e96ef6dc7.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "7099f78a77ca",
-          "title": "微软 Win11 将精细化管理统一内存，调控图形和 AI 预留容量",
-          "desc": "IT之家 8 月 22 日消息，科技媒体 Windows Latest 昨日（8 月 21 日）发布博文，报道称在 Windows 11 系统中，微软计划增加统一内存管理，精细化管控图形处理和 AI 任务预留内存。IT之家注：统一内存（Unified memory）是指 CPU、GPU 和其他加速器共享同一块高速内存池。与传统电脑将系统 RAM 和显存分开的方式不同，统一内存能让本地 AI 模型、",
-          "source": "IT之家",
-          "date": "2026-08-22",
-          "dateLabel": "8月22日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/992/904.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/5eba4d49-01bb-4935-af12-32c3668d79d2.jpg",
+          "url": "https://www.ithome.com/0/993/131.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/25a74bfc-51c3-4adf-a230-a4795d79df22.gif",
           "color": "#d97706"
         }
       ]
@@ -152,91 +279,6 @@
             "research"
           ],
           "url": "https://www.qbitai.com/2026/08/476733.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "74a4f1db39df",
-          "title": "雷鸟iO发布：两天续航、全天候主动式AI，轻至34g",
-          "desc": "8月21日，全球领先的消费级AR品牌雷鸟创新（RayNeo）举办2026雷鸟AI眼镜新品发布会",
-          "source": "量子位",
-          "date": "2026-08-21",
-          "dateLabel": "8月21日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/08/476628.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "fb9f0d3f5fbe",
-          "title": "机器人的GPT-3时刻真·来了！卡卡西上身，看3秒就学会新动作",
-          "desc": "机器人看3秒演示就能学会",
-          "source": "量子位",
-          "date": "2026-08-21",
-          "dateLabel": "8月21日",
-          "tags": [
-            "model",
-            "research"
-          ],
-          "url": "https://www.qbitai.com/2026/08/476596.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "5338f1e7109b",
-          "title": "科学家只管提问题，AI负责跑实验：深势科技把科研全流程搬进桌面",
-          "desc": "让科学家的时间回到科学创造",
-          "source": "量子位",
-          "date": "2026-08-21",
-          "dateLabel": "8月21日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/08/476591.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "fe6bfb1aa4c0",
-          "title": "WRC展会拿旧Demo炒冷饭？扒一扒千寻藏在水下的全栈底牌",
-          "desc": "一点新鲜变化都没有吗？",
-          "source": "量子位",
-          "date": "2026-08-21",
-          "dateLabel": "8月21日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/08/476532.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "85582115ee69",
-          "title": "设计无边界！中坚科技旗下子公司桦之坚携巨型概念机器人ZERO惊艳2026世界机器人大会",
-          "desc": "中坚科技（002779.SZ）旗下桦之坚携概念人形机器人ZERO亮相2026世界机器人大会。",
-          "source": "量子位",
-          "date": "2026-08-21",
-          "dateLabel": "8月21日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://www.qbitai.com/2026/08/476525.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "75cd47ff739e",
-          "title": "Jeff Dean离职后首次公开访谈火力有点猛。。。",
-          "desc": "离开谷歌的原因之一：小团队可以极致聚焦！",
-          "source": "量子位",
-          "date": "2026-08-21",
-          "dateLabel": "8月21日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/08/476468.html",
           "image": "",
           "color": "#7c3aed"
         }
@@ -3008,126 +3050,6 @@
           "color": "#2563eb"
         }
       ]
-    },
-    {
-      "date": "2026-07-20",
-      "dateLabel": "7月20日",
-      "id": "d20",
-      "items": [
-        {
-          "id": "4b6e34d4f8cb",
-          "title": "WAIC 2026收官｜范式大会亮点集锦，见证AI 2.0从技术突破走向产业实践",
-          "desc": "WAIC 2026收官｜范式大会亮点集锦，见证AI 2.0从技术突破走向产业实践",
-          "source": "量子位",
-          "date": "2026-07-20",
-          "dateLabel": "7月20日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/07/455963.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "087d00da9e3b",
-          "title": "不同模型厂同一家Agentic Infra，AGI时代的地基终于浮出水面",
-          "desc": "大模型时代的共同选择",
-          "source": "量子位",
-          "date": "2026-07-20",
-          "dateLabel": "7月20日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://www.qbitai.com/2026/07/455805.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "277e3ebaf21c",
-          "title": "当AI进入最依赖“人”的行业：一家四线城市康复机构利润增长40%",
-          "desc": "当AI进入最依赖“人”的行业：一家四线城市康复机构利润增长40%",
-          "source": "量子位",
-          "date": "2026-07-20",
-          "dateLabel": "7月20日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/07/455791.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "f42997d77ad0",
-          "title": "全球首发技术路线+全域联盟双轮破局，AI for ADANES释放先进核能新质生产力",
-          "desc": "全球首发技术路线+全域联盟双轮破局，AI for ADANES释放先进核能新质生产力",
-          "source": "量子位",
-          "date": "2026-07-20",
-          "dateLabel": "7月20日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/07/455729.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "f7a89f716a50",
-          "title": "启鸣达人首发《世界模型驱动的教育AGI白皮书》| WAIC 2026",
-          "desc": "从理论探索到体系构建",
-          "source": "量子位",
-          "date": "2026-07-20",
-          "dateLabel": "7月20日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/07/455730.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "3f8385ca1c64",
-          "title": "AI语音进入“表演时代”：阿里Qwen-Audio-3.0-TTS登顶全球权威榜单",
-          "desc": "细粒度标签+ 20 种方言",
-          "source": "量子位",
-          "date": "2026-07-20",
-          "dateLabel": "7月20日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/07/455658.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "5df05e8a03c9",
-          "title": "WAIC之后，重新理解与爱为舞：一家AI原生企业的学习场景验证",
-          "desc": "WAIC之后，重新理解与爱为舞：一家AI原生企业的学习场景验证",
-          "source": "量子位",
-          "date": "2026-07-20",
-          "dateLabel": "7月20日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/07/455596.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "34b2d48d9005",
-          "title": "GMI Cloud  “无界造物节”在WAIC圆满完赛，“MaaS+创意”赋能 AI 创作新生态！",
-          "desc": "GMI Cloud × HappyHorse 共建 AI 创作生态",
-          "source": "量子位",
-          "date": "2026-07-20",
-          "dateLabel": "7月20日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/07/455593.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -3153,6 +3075,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-08-22 10:51",
-  "totalNews": 200
+  "updateTime": "2026-08-23 11:00",
+  "totalNews": 194
 }
