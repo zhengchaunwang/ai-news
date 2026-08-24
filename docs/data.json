@@ -1,128 +1,192 @@
 {
   "newsData": [
     {
+      "date": "2026-08-24",
+      "dateLabel": "8月24日",
+      "id": "d24",
+      "items": [
+        {
+          "id": "ab9dcce4cda9",
+          "title": "今年已有 2800 余项国家标准发布，新兴产业占比超 50%",
+          "desc": "IT之家 8 月 24 日消息，据央视新闻报道，今年以来，市场监管总局（国家标准委）已发布国家标准 2800 余项，其中新兴产业国家标准达 1400 余项，占比超 50%，有力支撑了新质生产力蓬勃发展。其中，新一代信息技术产业和新材料产业发布国家标准均超过 300 项，《信息技术脑机接口多模态数据格式》《人工智能终端智能化分级》等标准树立了信息技术产业发展前沿标杆；《船用高强度止裂钢板》《聚丙烯腈",
+          "source": "IT之家",
+          "date": "2026-08-24",
+          "dateLabel": "8月24日",
+          "tags": [
+            "research",
+            "business",
+            "policy"
+          ],
+          "url": "https://www.ithome.com/0/993/391.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/9e83df74-2a69-4059-8202-8a011f185ed4.jpg?x-bce-process=image/watermark,text_QUnnlJ_miJA,type_RlpMYW5UaW5nSGVpU0JHQg==,size_28,color_ffffffdd,skw_1,skc_00000051,g_7,blr_50,bls_50,x_11,y_11/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "c5e26314b949",
+          "title": "三星电子创纪录的股东回报计划未达投资者预期，股价大跌 8%",
+          "desc": "IT之家 8 月 24 日消息，三星电子股价周一早盘交易中大跌 8%，此前该公司创纪录的 790 亿美元（IT之家注：现汇率约合 5,316 亿元人民币）股东回报计划令投资者失望，投资者原本期待能从三星由人工智能驱动的巨额现金收益中获得更多份额，同时也希望公司能更明确地披露股票回购计划。这家韩国芯片制造商上周五表示，今年的股东回报将为 90 万亿至 110 万亿韩元（现汇率约合 4,365 亿至 ",
+          "source": "IT之家",
+          "date": "2026-08-24",
+          "dateLabel": "8月24日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/993/389.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2025/11/bd47b90f-07be-4a7b-9104-9898391d8825.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "3b83941c47e3",
+          "title": "“绝世高手”之“太极宗师”：智元远征 A3 夺得第二届世界人形机器人运动会“武术-太极拳”金牌",
+          "desc": "IT之家 8 月 24 日消息，智元机器人官方微博刚刚发文宣布，智元远征 A3 化身“太极宗师”，夺得第二届世界人形机器人运动会“武术-太极拳”金牌。目前奖牌总数升至 3 金 3 银 2 铜，居奖牌榜首位。据IT之家昨日报道，第二届世界人形机器人运动会正式开赛，智元核心产品精灵 G2、灵犀 X2、远征 A3 悉数参加。在已经完赛的“场景赛”部分项目中，智元精灵 G2 取得了两金三银两铜的好成绩。远",
+          "source": "IT之家",
+          "date": "2026-08-24",
+          "dateLabel": "8月24日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.ithome.com/0/993/384.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/f130384f-05e4-46c6-b40b-a047c18dabb2.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "7200e9b2b434",
+          "title": "IT之家鸿蒙版 8.50 发布：离线阅读、无图模式等十数项更新",
+          "desc": "家友们，IT之家鸿蒙版 8.50 正式发布上线了！支持多账号切换、离线阅读、无图模式、过长评论折叠、科技大事服务卡片、圈子发帖草稿箱；发现页新增大模型榜单、汽车销量榜和网络诊断工具，并补齐搜索默认词、月历事件海报、引用回复、帮助与反馈等功能。多数页面已适配沉浸式渐变模糊顶部导航。快来下载体验。更新亮点总结：新增支持多账号切换支持离线阅读，可下载资讯，离线浏览圈子发帖支持草稿，保存、恢复和管理支持无",
+          "source": "IT之家",
+          "date": "2026-08-24",
+          "dateLabel": "8月24日",
+          "tags": [
+            "model",
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/993/382.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/df3e5d93-9a6d-435a-a31f-34e12aefe375.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "f2cffe3e0c21",
+          "title": "联想来酷 Air 16 酷睿 5 315 开启预约：12GB + 512GB，国补后 3739.15 元",
+          "desc": "IT之家 8 月 24 日消息，联想 (Lenovo) 来酷 (Lecoo) 今日宣布，搭载英特尔酷睿 5 处理器 315 的来酷 Air 16 现已开启预约，8 月 27 日 10:00 发售。这款 \"Wildcat Lake\" 轻薄笔记本电脑板载 12GB LPDDR5-5600 内存，拥有 512GB PCIe NVMe SSD，平台补贴价 4399 元，叠加国家补贴后最终到手价低至 373",
+          "source": "IT之家",
+          "date": "2026-08-24",
+          "dateLabel": "8月24日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/993/376.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/5d9e8a3f-0258-444f-8468-b9d87337b88b.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "a0a50376f3a7",
+          "title": "汽车密码新国标公开征求意见：防止固件、引导程序、操作系统或关键应用软件被非法篡改、替换或伪造后运行",
+          "desc": "IT之家 8 月 24 日消息，工信部装备工业一司 8 月 21 日发布公告，公开征求《汽车密码应用技术要求》强制性国家标准的意见。征求意见稿编制说明提到，我国已成为全球最大的智能网联汽车市场，L2 级及以上辅助驾驶功能正加速普及，L3 级自动驾驶开启商业化试点，单车代码量突破十亿级，车载通信涵盖 V2V、V2I、V2N 等多种复杂场景，数据采集、传输、存储、处理全链路面临前所未有的安全挑战。近年",
+          "source": "IT之家",
+          "date": "2026-08-24",
+          "dateLabel": "8月24日",
+          "tags": [
+            "business",
+            "policy"
+          ],
+          "url": "https://www.ithome.com/0/993/372.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/8dc7d75b-03cd-45b3-ab5c-8eae00a05727.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "fdef006edfb2",
+          "title": "摩尔线程发布《MTT S5000 Prefill-as-a-Service 技术白皮书》，破解长上下文推理成本瓶颈",
+          "desc": "IT之家 8 月 24 日消息，摩尔线程正式发布《MTT S5000 Prefill-as-a-Service 技术白皮书》，宣布基于旗舰级 AI 训推一体智算卡 MTT S5000 构建“Prefill As a Service”新范式，面向 AI Agent、代码生成、超长文档分析等长上下文推理场景，为行业提供兼顾推理效率、成本控制与算力变现的可落地路径。据摩尔线程介绍，随着大模型输入上下文规",
+          "source": "IT之家",
+          "date": "2026-08-24",
+          "dateLabel": "8月24日",
+          "tags": [
+            "model",
+            "research",
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/993/370.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/6fecd8f7-1da7-4bdc-be3d-15c107252c09.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "e164454409d0",
+          "title": "微软放宽 Win11 智能应用控制启用限制，无需全新安装系统即可开启",
+          "desc": "IT之家 8 月 24 日消息，想要轻松从电脑中榨取更多性能的 Windows 11 用户，如今不再需要面对微软智能应用控制（Smart App Control）功能最令人头疼的硬性要求之一。据IT之家了解，智能应用控制是微软随 Windows 11 22H2 推出的 Windows 11 专属安全功能，其利用微软基于云端的智能和代码签名信息，来判断某个应用程序是否应被允许运行，并在不可信或可能有",
+          "source": "IT之家",
+          "date": "2026-08-24",
+          "dateLabel": "8月24日",
+          "tags": [
+            "policy"
+          ],
+          "url": "https://www.ithome.com/0/993/368.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/9ae01793-2173-4394-996a-346df858c8d7.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-08-23",
       "dateLabel": "8月23日",
       "id": "d23",
       "items": [
         {
-          "id": "e913d92c7f09",
-          "title": "上纬新材消费级机器人启元 Q1/T1 开启预订，预计首批发货最早 9 月",
-          "desc": "IT之家 8 月 23 日消息，据财联社今日报道，上纬新材消费级机器人启元 Q1、启元 T1 双产品开启预订，用户可通过上纬启元官方小程序、天猫、抖音、B站官方店铺，以及线下体验活动参与预订，预计首批发货时间为今年 9 月。就在今年 7 月，上纬新材官宣全球首个可变形个人机器人 —— 启元 T1 正式登场。据介绍，上纬新材启元 T1 支持双足站立，也能四足行走；支持柔性力控，自然牵手；支持静谧移动",
-          "source": "IT之家",
-          "date": "2026-08-23",
-          "dateLabel": "8月23日",
-          "tags": [
-            "research",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/0/993/155.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/d7f729fe-5f3a-4305-a2e4-5f90503c16d3.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "61dadc5a8cd7",
-          "title": "《使命召唤：现代战争 4》测试版率先搭载英伟达 DLSS 4.5 光线重建技术",
-          "desc": "IT之家 8 月 23 日消息，《使命召唤：现代战争 4》测试版于 8 月 21 日开启预购玩家抢先体验。一名眼尖的 Reddit 用户发现，该测试版似乎搭载了全新的 DLSS 版本，同时还首次在游戏中实现了 DLSS 4.5 光线重建（Ray Reconstruction）。英伟达此前已经宣布，DLSS 4.5 光线重建技术计划于本月发布，但截至目前还没有任何游戏正式采用这一技术。如今，这一情况",
-          "source": "IT之家",
-          "date": "2026-08-23",
-          "dateLabel": "8月23日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/993/153.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/60dd95e2-1c90-453b-aaa1-9ada23e15a30.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "4b2619507846",
-          "title": "小米推出米家扫拖机器人 7C：滚筒活水增压拖地，到手价 2069.1 元",
-          "desc": "IT之家 8 月 23 日消息，米家扫拖机器人 7C 现已在小米有品上架预约，官方标价 2299 元，券后到手价 2069.1 元，8 月 26 日 10 点现货开售（点击前往）。IT之家从商品页面获悉，这款新品支持滚筒活水拖地，配备恒压恒湿滚筒拖布，200 转 / 分钟高速洗拖，强效清洁咖啡渍、油渍、宠物脚印等顽固污渍; 配合活水边拖边洗，有效减少二次污染。模拟人手拖地施压逻辑，滚筒拖布持续稳定",
-          "source": "IT之家",
-          "date": "2026-08-23",
-          "dateLabel": "8月23日",
-          "tags": [
-            "research",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/0/993/152.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/464113a6-41b2-438c-972c-7677ee78d490.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "d279a87f2865",
-          "title": "Oura 遭集体诉讼，被指夸大智能戒指睡眠追踪准确性",
-          "desc": "IT之家 8 月 23 日消息，一项拟议中的集体诉讼正在指控智能戒指制造商 Oura 欺骗消费者，夸大其睡眠追踪功能的准确性。这起诉讼由旧金山的 Clarkson Law Firm 于当地时间周四提起。诉状称，Oura 戒指无法测量评估睡眠质量或判断睡眠阶段所需的任何生理信号，实际上依赖 AI 生成的估算结果，而这些结果“正确的概率就像抛硬币一样”。这起诉讼源于多年来 Oura 用户在互联网上分享",
+          "id": "ac7750fd0111",
+          "title": "今年我国已有 7 种高端钢材实现全新突破，面向新能源汽车、人形机器人等新兴赛道",
+          "desc": "IT之家 8 月 24 日消息，据央视新闻客户端 8 月 22 日报道，我国钢铁产量连续多年位居世界首位。今年以来，钢铁企业依托全国重点实验室，聚焦高端特种钢材持续发力，不断实现核心技术突破，一大批高端钢材实现了自主量产。钢材如何做到强度过硬，还能抵御海水腐蚀？在河北唐山的钢铁实验室，记者找到了答案。钢材加工过程中会产生易导致材料脆化的碳化物，科研人员通过调控钢材原子结构，将碳化物有效包裹。研究人",
           "source": "IT之家",
           "date": "2026-08-23",
           "dateLabel": "8月23日",
           "tags": [
             "research"
           ],
-          "url": "https://www.ithome.com/0/993/151.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/a5a50238-404d-4f63-b92a-fbe6d21477c2.jpg?x-bce-process=image/format,f_auto",
+          "url": "https://www.ithome.com/0/993/332.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/dbcd126e-3295-4081-adf8-9c41d22a2aa3.png?x-bce-process=image/format,f_auto",
           "color": "#d97706"
         },
         {
-          "id": "8e3ab25ef57a",
-          "title": "安全防护形同虚设：Anthropic 多款 Claude 旧模型可被越狱生成露骨色情内容",
-          "desc": "IT之家 8 月 23 日消息，Anthropic 针对 Claude 制定的通用使用规范明确禁止模型生成露骨色情内容，包括描绘或要求发生性行为或其他性行为、生成与性癖或性幻想有关的内容，以及进行色情聊天。不过，这并没有阻止 Anthropic 今年早些时候发布的模型 Claude Opus 4.6 轻易参与其安全机制原本试图阻止的色情角色扮演。TechCrunch 在测试中发现，想让 Opus ",
+          "id": "97b7d57ddfa0",
+          "title": "消息称 AI 初创公司 Hugging Face 探索出售，估值达 130 亿美元",
+          "desc": "IT之家 8 月 24 日消息，据 Business Insider 当地时间周日援引知情人士消息报道，人工智能初创公司 Hugging Face 一直在探索出售事宜，该交易对公司的估值可能达到 130 亿美元（IT之家注：现汇率约合 876.6 亿元人民币）或更高。这家总部位于纽约的公司托管开源大语言模型和数据集，据报道一直在与一家银行合作，以评估竞购者的兴趣。2023 年，Hugging Fa",
+          "source": "IT之家",
+          "date": "2026-08-23",
+          "dateLabel": "8月23日",
+          "tags": [
+            "research",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/993/329.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/447a48a7-5efa-495f-8da2-03667b893abb.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "ac8986b82835",
+          "title": "因使用主播内容训练亚马逊 AI，Twitch 面临集体诉讼",
+          "desc": "IT之家 8 月 24 日消息，Twitch 正面临一场集体诉讼，原因是其将主播的内容用于训练亚马逊的 AI。一名 Twitch 主播已针对该平台及其母公司亚马逊提起拟议的集体诉讼，声称他的直播内容以及无数其他创作者的内容，在未经同意、也未获得报酬的情况下被用于生成式 AI 训练。据 Courthouse News 报道，原告 Warren Pandiscia 是一位拥有约 1000 名粉丝的 T",
+          "source": "IT之家",
+          "date": "2026-08-23",
+          "dateLabel": "8月23日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.ithome.com/0/993/326.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/21996e92-460a-4bf3-8feb-dc6963dbeb4a.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "4d8ede2d5c27",
+          "title": "谷歌 Pixel 11 Pro 手机拆解揭示 HiLight 背后的秘密：硬件为 8 颗 RGB LED",
+          "desc": "IT之家 8 月 24 日消息，随着 Pixel 11 系列手机的发布，谷歌推出了一个新的后置视觉提醒环，名为 HiLight，正式取代了前几代 Pixel 上的红外温度传感器。IT之家注意到，该硬件直接围绕后置相机条上的闪光灯构建，并覆盖全系列机型。目前，HiLight 作为一款专用指示灯，在 Gemini 助手激活时脉冲闪烁，当手机屏幕朝下放置时，会为来自收藏联系人的来电发出亮光。尽管谷歌在发",
           "source": "IT之家",
           "date": "2026-08-23",
           "dateLabel": "8月23日",
           "tags": [
             "model",
-            "business",
-            "policy"
+            "business"
           ],
-          "url": "https://www.ithome.com/0/993/149.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/78760d21-9579-423e-a047-163ed75d3a88.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "cdd9b165a20f",
-          "title": "微软 Edge 浏览器移动版推出邀请好友得积分活动，一年最多可获 9 万 Rewards 积分",
-          "desc": "IT之家 8 月 23 日消息，只要邀请足够多的朋友使用 Microsoft Edge，你就可以通过 Microsoft Rewards 轻松兑换 Xbox Game Pass 或礼品卡。微软推出了一项新的推广活动：用户在手机上使用 Edge，并通过专属推荐链接邀请朋友体验这款浏览器，就能获得 Microsoft Rewards 积分。根据测试，每成功邀请一名用户，可以获得 500 个 Rewar",
-          "source": "IT之家",
-          "date": "2026-08-23",
-          "dateLabel": "8月23日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/0/993/145.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/229c9f56-3a9e-4cd4-be2a-85101a28e883.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "7703bc22e85e",
-          "title": "鸿蒙智行智界 RX 轿跑 SUV 各版本配置出炉，预售价 29.98 万元起",
-          "desc": "IT之家 8 月 23 日消息，在 8 月 20 日的享界 G9 及鸿蒙智行新品发布会上，智界 RX 轿跑 SUV 开启预订。华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东透露，该车搭载面向未来的 L3 级自动驾驶架构设计。IT之家注意到，目前这款新车的各版本配置已出炉，预售价 29.98 万元起。Max 长续航版：29.98 万元起共光路舱内激光雷达主驾智能环抱零重力座椅华为途灵",
-          "source": "IT之家",
-          "date": "2026-08-23",
-          "dateLabel": "8月23日",
-          "tags": [
-            "research",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/0/993/142.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/30afae1a-c19a-445a-a4c9-e533b973c469.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "ac9149cb402f",
-          "title": "OpenAI 一改此前立场，呼吁加州强化 AI 安全法案",
-          "desc": "IT之家 8 月 23 日消息，OpenAI 呼吁加州进一步加强一项具有里程碑意义的 AI 安全法案。该法案已于去年获得通过。OpenAI 全球事务团队在 LinkedIn 上发表的一篇文章中表示，加州 SB 53 法案“应该进一步扩大安全保障措施”。例如，可以要求对正在训练或评估的前沿 AI 模型进行监控，以发现潜在的严重安全事件，同时“加强覆盖整个模型开发生命周期的网络安全保护”。OpenAI",
-          "source": "IT之家",
-          "date": "2026-08-23",
-          "dateLabel": "8月23日",
-          "tags": [
-            "research",
-            "policy"
-          ],
-          "url": "https://www.ithome.com/0/993/141.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/2/8ad2304d-c61b-4004-9483-e1a55ca43342.png?x-bce-process=image/format,f_auto",
+          "url": "https://www.ithome.com/0/993/325.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/d7c05544-4bfa-44f7-99a2-19f07f814bac.png?x-bce-process=image/format,f_auto",
           "color": "#d97706"
         }
       ]
@@ -2924,132 +2988,6 @@
           "color": "#2563eb"
         }
       ]
-    },
-    {
-      "date": "2026-07-21",
-      "dateLabel": "7月21日",
-      "id": "d21",
-      "items": [
-        {
-          "id": "a2175c9093c8",
-          "title": "谷歌连发三款“Lite、Flash”模型，但最强Pro再次缺席",
-          "desc": "3.5 Pro仍在测试，Gemini 4已在路上",
-          "source": "36氪",
-          "date": "2026-07-21",
-          "dateLabel": "7月21日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://36kr.com/p/3906038850262152",
-          "image": "https://img.36krcdn.com/hsossms/20260722/v2_69442a7d31b84d9fa28304b59ace1781@5091053@ai_oswg985846oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "d72745d8984b",
-          "title": "中国 AI，牌都打明了",
-          "desc": "中国开始出自己的牌了。",
-          "source": "36氪",
-          "date": "2026-07-21",
-          "dateLabel": "7月21日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3905349135472008",
-          "image": "https://img.36krcdn.com/hsossms/20260722/v2_17fada28a37d44af8dcecae4b19c7331@5091053@ai_oswg947262oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "75e288f5b51e",
-          "title": "上海WAIC深度观察：模型隐身，Agent疯野",
-          "desc": "知春路不相信模型领先",
-          "source": "36氪",
-          "date": "2026-07-21",
-          "dateLabel": "7月21日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3906011261147014",
-          "image": "https://img.36krcdn.com/hsossms/20260722/v2_923d382288c040388cdeef476bf6f9ec@5091053@ai_oswg1022578oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "2ae9e51d97fc",
-          "title": "Kimi“熔断”，杨植麟也“摸高”",
-          "desc": "Kimi也有自己的“韬定律”。",
-          "source": "36氪",
-          "date": "2026-07-21",
-          "dateLabel": "7月21日",
-          "tags": [
-            "model",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3905427199497856",
-          "image": "https://img.36krcdn.com/hsossms/20260722/v2_94d2447e869b40178836e03d7e2878ea@5091053@ai_oswg926333oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "0b1775c49819",
-          "title": "Kimi K3爆火引发“算力荒”，“不着急上市”的杨植麒急了？",
-          "desc": "Kimi K3爆火后，被誉为“AI六小虎”之一的月之暗面却遭遇了“算力荒”。",
-          "source": "36氪",
-          "date": "2026-07-21",
-          "dateLabel": "7月21日",
-          "tags": [
-            "model",
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3905354888664964",
-          "image": "https://img.36krcdn.com/hsossms/20260722/v2_b693240613b44013a337091e93c3ed4a@5091053@ai_oswg934533oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "c685cee867df",
-          "title": "Kimi K3，让谁紧张？",
-          "desc": "估值逻辑又变了？",
-          "source": "36氪",
-          "date": "2026-07-21",
-          "dateLabel": "7月21日",
-          "tags": [
-            "model",
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3905392402748801",
-          "image": "https://img.36krcdn.com/hsossms/20260722/v2_ed9b1c3348994b778b62d43dae4e905a@5091053@ai_oswg949593oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "6c49b9e76cd5",
-          "title": "世界模型“六小龙”在WAIC吵起来了，行业红利就在非共识里",
-          "desc": "分歧是论文的素材，重叠是产业的基底。",
-          "source": "36氪",
-          "date": "2026-07-21",
-          "dateLabel": "7月21日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://36kr.com/p/3905463018984582",
-          "image": "https://img.36krcdn.com/hsossms/20260722/v2_bfd8115dec24402f94af1e389c6a5bc2@5091053@ai_oswg921139oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "2581882fa057",
-          "title": "10万步暴走WAIC，10个问题看懂AI产业下一程：从聊天，到抢「身体」干活",
-          "desc": "AI 抢身体、抢干活的一集。",
-          "source": "36氪",
-          "date": "2026-07-21",
-          "dateLabel": "7月21日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3905521038579334",
-          "image": "https://img.36krcdn.com/hsossms/20260722/v2_ee141168f47d46468efc0f82a24dece8@5091053@ai_oswg957417oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -3075,6 +3013,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-08-23 11:00",
-  "totalNews": 194
+  "updateTime": "2026-08-24 11:00",
+  "totalNews": 190
 }
