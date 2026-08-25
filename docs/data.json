@@ -1,126 +1,260 @@
 {
   "newsData": [
     {
+      "date": "2026-08-25",
+      "dateLabel": "8月25日",
+      "id": "d25",
+      "items": [
+        {
+          "id": "26149564fde1",
+          "title": "ResNet作者任少卿机器人创业！公司注册就独角兽了",
+          "desc": "虽然明确机器人创业，但依然在职蔚来",
+          "source": "量子位",
+          "date": "2026-08-25",
+          "dateLabel": "8月25日",
+          "tags": [
+            "research",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/08/478675.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "771f71eba491",
+          "title": "中消协发布消费提示：使用人工智能服务需谨防误导",
+          "desc": "IT之家 8 月 25 日消息，中国消费者协会今天发布人工智能服务消费提示，提醒广大消费者理性认识通用生成式人工智能的信息辅助和参考属性，对涉及价格费用、合同条款、售后服务、法律责任等重要消费信息，不宜仅依据人工智能生成内容作出决定，应通过经营者官方渠道、合同文本、监管部门及其他权威渠道进行核实确认。IT之家附全文如下：目前，以大语言模型为核心的生成式人工智能技术正加速融入消费生活各类场景。人工智",
+          "source": "IT之家",
+          "date": "2026-08-25",
+          "dateLabel": "8月25日",
+          "tags": [
+            "business",
+            "policy",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/993/856.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2025/11/49e3c3c3-5ece-4eb9-bb3b-fc680292d666.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "75f5455d302b",
+          "title": "明确自动驾驶违法由车企担责，道路交通安全法修订草案提请审议",
+          "desc": "IT之家 8 月 25 日消息，据新华社报道，今日（8 月 25 日），道路交通安全法修订草案提请十四届全国人大常委会第二十四次会议初次审议。据IT之家了解，现行道路交通安全法于 2004 年施行，2007 年、2011 年、2021 年修正了个别条款。此次修订草案共 9 章 170 条，明确了自动驾驶汽车的上道路行驶条件、违章处理原则和保险制度等；聚焦“醉驾”“盲驾”“僵尸车”“超标车”治理和电",
+          "source": "IT之家",
+          "date": "2026-08-25",
+          "dateLabel": "8月25日",
+          "tags": [
+            "policy"
+          ],
+          "url": "https://www.ithome.com/0/993/853.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/84353397-2735-4db7-97d9-036bd17a9524.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "5bbf9cc54056",
+          "title": "宏碁非凡 Go Air 轻薄本发售：酷睿 5 320 + 12GB + 512GB，国补后 4249.15 元",
+          "desc": "IT之家 8 月 25 日消息，宏碁 (Acer) 现已发售搭载英特尔酷睿 5 处理器 320 的非凡 Go Air 轻薄笔记本电脑。其配备 12GB LPDDR5 内存和 512GB SSD 存储，标价 4999 元，国家补贴后到手价低至 4249.15 元。京东宏碁 非凡 Go Air 轻薄本低至 4249.15 元直达链接2026 年数码家电政府补贴持续进行中，IT 之家为大家汇总国补领券地",
+          "source": "IT之家",
+          "date": "2026-08-25",
+          "dateLabel": "8月25日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/993/845.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/f60c7f54-5c26-4841-8788-f26d612b6482.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "202c8ccedaa5",
+          "title": "小米玄戒 O100 原型机、AI Cube 真机首秀：自研芯片加持，内置 Xiaomi MiMo 端侧模型",
+          "desc": "IT之家 8 月 25 日消息，小米玄戒芯片技术沟通会于 8 月 24 日下午举行，除了三款玄戒芯片，小米还展出了两款原型机。今日，小米集团合伙人、总裁，手机部总裁，小米品牌总经理卢伟冰晒出了玄戒 O100 原型机 —— 为端侧大模型而生的高速 AI 演示终端。卢伟冰介绍称，玄戒 O100 原型机采用玄戒 O3 与 O100 双芯协同计算，将传统手机影像模块取消、主板全部推翻重制，加入主动风冷散热",
+          "source": "IT之家",
+          "date": "2026-08-25",
+          "dateLabel": "8月25日",
+          "tags": [
+            "model",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/993/838.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/436cfae8-a13a-4fa6-99ac-148d05ed3453.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "d615775f364a",
+          "title": "联发科首款 2nm 芯片：天玑 9600 Pro 芯片跑分曝光",
+          "desc": "IT之家 8 月 25 日消息，vivo X500 Pro Max（型号 V2610）手机昨日（8 月 24 日）现身 GeekBench 跑分库，6.7.1 版本单核成绩为 2653 分，多核成绩为 7516 分。根据跑分库页面信息，该手机搭载联发科 MT6995（ENG）芯片，配备 2+3+3 集群 CPU 设计，搭载 Mali-G2-Ultra-NX MC12 GPU，预估为联发科天玑 96",
+          "source": "IT之家",
+          "date": "2026-08-25",
+          "dateLabel": "8月25日",
+          "tags": [
+            "model",
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/993/829.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/3f557971-f7b3-45bc-9bbb-7688f912de07.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "17213d44f1ab",
+          "title": "比亚迪 × 荣耀达成深度手车互联合作，地址流转一拖即达、音乐无缝流转",
+          "desc": "IT之家 8 月 25 日消息，比亚迪今日官宣与荣耀达成深度手车互联合作，地址流转一拖即达、音乐无缝流转、微信扫一扫一句话唤起（需要 DiLink100 及以上智能座舱平台）。2025 年 10 月，荣耀宣布与比亚迪签署战略合作协议，将聚焦核心技术与功能落地、渠道生态与用户权益、联合传播与用户触达三条主线纵深推进。在核心技术与功能落地层面，双方将持续深化跨端生态融合、AI Agent 融合、高精度",
+          "source": "IT之家",
+          "date": "2026-08-25",
+          "dateLabel": "8月25日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/993/828.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/f3e1ac17-2672-46d5-a9f9-602918964eda.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "453a34cd8511",
+          "title": "全球最大生活指南百科 WikiHow 指控 OpenAI 爬取超 1.1 万篇教程文章训练 AI",
+          "desc": "IT之家 8 月 25 日消息，路透社今天（8 月 25 日）发布博文，报道称 WikiHow 于 8 月 21 日向美国曼哈顿联邦法院提交诉讼，指控 OpenAI 其未经许可抓取超过 11,000 篇教程文章，用于训练 ChatGPT 及 GPT 大型语言模型，并侵犯至少 1,200 项已注册版权。IT之家注：WikiHow 是全球最大的协作式“怎么做”（How-to）生活指南百科网站，目标是建",
+          "source": "IT之家",
+          "date": "2026-08-25",
+          "dateLabel": "8月25日",
+          "tags": [
+            "model",
+            "research",
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/993/824.htm",
+          "image": "",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-08-24",
       "dateLabel": "8月24日",
       "id": "d24",
       "items": [
         {
-          "id": "ab9dcce4cda9",
-          "title": "今年已有 2800 余项国家标准发布，新兴产业占比超 50%",
-          "desc": "IT之家 8 月 24 日消息，据央视新闻报道，今年以来，市场监管总局（国家标准委）已发布国家标准 2800 余项，其中新兴产业国家标准达 1400 余项，占比超 50%，有力支撑了新质生产力蓬勃发展。其中，新一代信息技术产业和新材料产业发布国家标准均超过 300 项，《信息技术脑机接口多模态数据格式》《人工智能终端智能化分级》等标准树立了信息技术产业发展前沿标杆；《船用高强度止裂钢板》《聚丙烯腈",
+          "id": "9c36a71d5c51",
+          "title": "AI重塑商业，信任决定未来商业能走多远丨Visa大中华区总裁张文翊",
+          "desc": "Visa看到的AI未来",
+          "source": "量子位",
+          "date": "2026-08-24",
+          "dateLabel": "8月24日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/08/478670.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "7a6568469e62",
+          "title": "一篇论文改写AI科研评价规则！中国公司拿出实践数据，双榜第一",
+          "desc": "全球大厂开始押注的AI科研，终于有了统一标准",
+          "source": "量子位",
+          "date": "2026-08-24",
+          "dateLabel": "8月24日",
+          "tags": [
+            "research",
+            "policy",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/08/478568.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "b8c2f5ad6d16",
+          "title": "阿里达摩院推出肝癌AI模型，精准识别1厘米微小肿瘤",
+          "desc": "8月24日消息，阿里巴巴达摩院联合中国医科大学附属盛京医院等机构研发出肝癌诊断AI模型DAMO LiON",
+          "source": "量子位",
+          "date": "2026-08-24",
+          "dateLabel": "8月24日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/08/478473.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "507a242f6a4b",
+          "title": "单芯片到万卡集群体系化突破 中诚华隆HL200推理芯片及超节点集群重磅发布",
+          "desc": "定义国产推理算力新范式 赋能万卡级AI推理算力规模化落地",
+          "source": "量子位",
+          "date": "2026-08-24",
+          "dateLabel": "8月24日",
+          "tags": [
+            "research",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/08/478469.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "06799216bd8a",
+          "title": "8月25日直播预告 | AFAC2026金融智能创新大赛，总决赛路演倒计时来啦！",
+          "desc": "AFAC2026总决赛路演将于8月25-26日在上海阿纳迪酒店（长宁区临虹路7号）举办。",
+          "source": "量子位",
+          "date": "2026-08-24",
+          "dateLabel": "8月24日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/08/478447.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "3bd6259561c7",
+          "title": "阿里视频大模型Wan3.0正式上线，行业评价“稳定、真实、有质感”",
+          "desc": "8月24日，阿里巴巴视频生成大模型Wan3.0正式上线。",
+          "source": "量子位",
+          "date": "2026-08-24",
+          "dateLabel": "8月24日",
+          "tags": [
+            "model",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/08/478427.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "db835f876071",
+          "title": "WRC 2026｜原生全模态世界模型：从模拟世界到交互世界",
+          "desc": "WRC 2026｜原生全模态世界模型：从模拟世界到交互世界",
+          "source": "量子位",
+          "date": "2026-08-24",
+          "dateLabel": "8月24日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/08/478421.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "1df7a6df0f2d",
+          "title": "IT早报 0825：2026 胡润中国品牌榜发布；成都减灾所就预警偏差致歉；小米明确二手手机等产品不属三包范围；小米玄戒 O3、O100、D100 三款自研芯片发布...",
+          "desc": "“IT早报”时间，大家好，现在是 2026 年 8 月 25 日星期二，今天的重要科技资讯有：1. 2026 胡润中国品牌榜发布：苹果蝉联第一，抖音与微信并列，华为重返前十，AIGC 品牌首次入榜胡润研究院发布《2026 胡润中国品牌榜》，苹果蝉联第一，AIGC 行业首次独立入榜，华为重返总榜前十，本文带来完整榜单信息。>> 查看详情2. 首报震级 7.7 级，成都高新减灾研究所就宜宾长宁 4.7",
           "source": "IT之家",
           "date": "2026-08-24",
           "dateLabel": "8月24日",
           "tags": [
             "research",
             "business",
-            "policy"
+            "cn"
           ],
-          "url": "https://www.ithome.com/0/993/391.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/9e83df74-2a69-4059-8202-8a011f185ed4.jpg?x-bce-process=image/watermark,text_QUnnlJ_miJA,type_RlpMYW5UaW5nSGVpU0JHQg==,size_28,color_ffffffdd,skw_1,skc_00000051,g_7,blr_50,bls_50,x_11,y_11/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "c5e26314b949",
-          "title": "三星电子创纪录的股东回报计划未达投资者预期，股价大跌 8%",
-          "desc": "IT之家 8 月 24 日消息，三星电子股价周一早盘交易中大跌 8%，此前该公司创纪录的 790 亿美元（IT之家注：现汇率约合 5,316 亿元人民币）股东回报计划令投资者失望，投资者原本期待能从三星由人工智能驱动的巨额现金收益中获得更多份额，同时也希望公司能更明确地披露股票回购计划。这家韩国芯片制造商上周五表示，今年的股东回报将为 90 万亿至 110 万亿韩元（现汇率约合 4,365 亿至 ",
-          "source": "IT之家",
-          "date": "2026-08-24",
-          "dateLabel": "8月24日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/993/389.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2025/11/bd47b90f-07be-4a7b-9104-9898391d8825.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "3b83941c47e3",
-          "title": "“绝世高手”之“太极宗师”：智元远征 A3 夺得第二届世界人形机器人运动会“武术-太极拳”金牌",
-          "desc": "IT之家 8 月 24 日消息，智元机器人官方微博刚刚发文宣布，智元远征 A3 化身“太极宗师”，夺得第二届世界人形机器人运动会“武术-太极拳”金牌。目前奖牌总数升至 3 金 3 银 2 铜，居奖牌榜首位。据IT之家昨日报道，第二届世界人形机器人运动会正式开赛，智元核心产品精灵 G2、灵犀 X2、远征 A3 悉数参加。在已经完赛的“场景赛”部分项目中，智元精灵 G2 取得了两金三银两铜的好成绩。远",
-          "source": "IT之家",
-          "date": "2026-08-24",
-          "dateLabel": "8月24日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://www.ithome.com/0/993/384.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/f130384f-05e4-46c6-b40b-a047c18dabb2.png",
-          "color": "#d97706"
-        },
-        {
-          "id": "7200e9b2b434",
-          "title": "IT之家鸿蒙版 8.50 发布：离线阅读、无图模式等十数项更新",
-          "desc": "家友们，IT之家鸿蒙版 8.50 正式发布上线了！支持多账号切换、离线阅读、无图模式、过长评论折叠、科技大事服务卡片、圈子发帖草稿箱；发现页新增大模型榜单、汽车销量榜和网络诊断工具，并补齐搜索默认词、月历事件海报、引用回复、帮助与反馈等功能。多数页面已适配沉浸式渐变模糊顶部导航。快来下载体验。更新亮点总结：新增支持多账号切换支持离线阅读，可下载资讯，离线浏览圈子发帖支持草稿，保存、恢复和管理支持无",
-          "source": "IT之家",
-          "date": "2026-08-24",
-          "dateLabel": "8月24日",
-          "tags": [
-            "model",
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/993/382.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/df3e5d93-9a6d-435a-a31f-34e12aefe375.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "f2cffe3e0c21",
-          "title": "联想来酷 Air 16 酷睿 5 315 开启预约：12GB + 512GB，国补后 3739.15 元",
-          "desc": "IT之家 8 月 24 日消息，联想 (Lenovo) 来酷 (Lecoo) 今日宣布，搭载英特尔酷睿 5 处理器 315 的来酷 Air 16 现已开启预约，8 月 27 日 10:00 发售。这款 \"Wildcat Lake\" 轻薄笔记本电脑板载 12GB LPDDR5-5600 内存，拥有 512GB PCIe NVMe SSD，平台补贴价 4399 元，叠加国家补贴后最终到手价低至 373",
-          "source": "IT之家",
-          "date": "2026-08-24",
-          "dateLabel": "8月24日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/993/376.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/5d9e8a3f-0258-444f-8468-b9d87337b88b.jpg",
-          "color": "#d97706"
-        },
-        {
-          "id": "a0a50376f3a7",
-          "title": "汽车密码新国标公开征求意见：防止固件、引导程序、操作系统或关键应用软件被非法篡改、替换或伪造后运行",
-          "desc": "IT之家 8 月 24 日消息，工信部装备工业一司 8 月 21 日发布公告，公开征求《汽车密码应用技术要求》强制性国家标准的意见。征求意见稿编制说明提到，我国已成为全球最大的智能网联汽车市场，L2 级及以上辅助驾驶功能正加速普及，L3 级自动驾驶开启商业化试点，单车代码量突破十亿级，车载通信涵盖 V2V、V2I、V2N 等多种复杂场景，数据采集、传输、存储、处理全链路面临前所未有的安全挑战。近年",
-          "source": "IT之家",
-          "date": "2026-08-24",
-          "dateLabel": "8月24日",
-          "tags": [
-            "business",
-            "policy"
-          ],
-          "url": "https://www.ithome.com/0/993/372.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/8dc7d75b-03cd-45b3-ab5c-8eae00a05727.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "fdef006edfb2",
-          "title": "摩尔线程发布《MTT S5000 Prefill-as-a-Service 技术白皮书》，破解长上下文推理成本瓶颈",
-          "desc": "IT之家 8 月 24 日消息，摩尔线程正式发布《MTT S5000 Prefill-as-a-Service 技术白皮书》，宣布基于旗舰级 AI 训推一体智算卡 MTT S5000 构建“Prefill As a Service”新范式，面向 AI Agent、代码生成、超长文档分析等长上下文推理场景，为行业提供兼顾推理效率、成本控制与算力变现的可落地路径。据摩尔线程介绍，随着大模型输入上下文规",
-          "source": "IT之家",
-          "date": "2026-08-24",
-          "dateLabel": "8月24日",
-          "tags": [
-            "model",
-            "research",
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/993/370.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/6fecd8f7-1da7-4bdc-be3d-15c107252c09.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "e164454409d0",
-          "title": "微软放宽 Win11 智能应用控制启用限制，无需全新安装系统即可开启",
-          "desc": "IT之家 8 月 24 日消息，想要轻松从电脑中榨取更多性能的 Windows 11 用户，如今不再需要面对微软智能应用控制（Smart App Control）功能最令人头疼的硬性要求之一。据IT之家了解，智能应用控制是微软随 Windows 11 22H2 推出的 Windows 11 专属安全功能，其利用微软基于云端的智能和代码签名信息，来判断某个应用程序是否应被允许运行，并在不可信或可能有",
-          "source": "IT之家",
-          "date": "2026-08-24",
-          "dateLabel": "8月24日",
-          "tags": [
-            "policy"
-          ],
-          "url": "https://www.ithome.com/0/993/368.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/9ae01793-2173-4394-996a-346df858c8d7.jpg?x-bce-process=image/format,f_auto",
+          "url": "https://www.ithome.com/0/993/792.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/01f75780-53bc-48f5-93fa-4a4f2fc1c464.png?x-bce-process=image/format,f_auto",
           "color": "#d97706"
         }
       ]
@@ -131,63 +265,32 @@
       "id": "d23",
       "items": [
         {
-          "id": "ac7750fd0111",
-          "title": "今年我国已有 7 种高端钢材实现全新突破，面向新能源汽车、人形机器人等新兴赛道",
-          "desc": "IT之家 8 月 24 日消息，据央视新闻客户端 8 月 22 日报道，我国钢铁产量连续多年位居世界首位。今年以来，钢铁企业依托全国重点实验室，聚焦高端特种钢材持续发力，不断实现核心技术突破，一大批高端钢材实现了自主量产。钢材如何做到强度过硬，还能抵御海水腐蚀？在河北唐山的钢铁实验室，记者找到了答案。钢材加工过程中会产生易导致材料脆化的碳化物，科研人员通过调控钢材原子结构，将碳化物有效包裹。研究人",
-          "source": "IT之家",
+          "id": "48de8e99127c",
+          "title": "前保安杀进了AI决赛，高中生拿走25万！这AI比赛办得有点绝",
+          "desc": "Tim和胡彦斌亲自颁奖",
+          "source": "量子位",
           "date": "2026-08-23",
           "dateLabel": "8月23日",
           "tags": [
-            "research"
-          ],
-          "url": "https://www.ithome.com/0/993/332.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/dbcd126e-3295-4081-adf8-9c41d22a2aa3.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "97b7d57ddfa0",
-          "title": "消息称 AI 初创公司 Hugging Face 探索出售，估值达 130 亿美元",
-          "desc": "IT之家 8 月 24 日消息，据 Business Insider 当地时间周日援引知情人士消息报道，人工智能初创公司 Hugging Face 一直在探索出售事宜，该交易对公司的估值可能达到 130 亿美元（IT之家注：现汇率约合 876.6 亿元人民币）或更高。这家总部位于纽约的公司托管开源大语言模型和数据集，据报道一直在与一家银行合作，以评估竞购者的兴趣。2023 年，Hugging Fa",
-          "source": "IT之家",
-          "date": "2026-08-23",
-          "dateLabel": "8月23日",
-          "tags": [
-            "research",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/0/993/329.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/447a48a7-5efa-495f-8da2-03667b893abb.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "ac8986b82835",
-          "title": "因使用主播内容训练亚马逊 AI，Twitch 面临集体诉讼",
-          "desc": "IT之家 8 月 24 日消息，Twitch 正面临一场集体诉讼，原因是其将主播的内容用于训练亚马逊的 AI。一名 Twitch 主播已针对该平台及其母公司亚马逊提起拟议的集体诉讼，声称他的直播内容以及无数其他创作者的内容，在未经同意、也未获得报酬的情况下被用于生成式 AI 训练。据 Courthouse News 报道，原告 Warren Pandiscia 是一位拥有约 1000 名粉丝的 T",
-          "source": "IT之家",
-          "date": "2026-08-23",
-          "dateLabel": "8月23日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://www.ithome.com/0/993/326.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/21996e92-460a-4bf3-8feb-dc6963dbeb4a.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "4d8ede2d5c27",
-          "title": "谷歌 Pixel 11 Pro 手机拆解揭示 HiLight 背后的秘密：硬件为 8 颗 RGB LED",
-          "desc": "IT之家 8 月 24 日消息，随着 Pixel 11 系列手机的发布，谷歌推出了一个新的后置视觉提醒环，名为 HiLight，正式取代了前几代 Pixel 上的红外温度传感器。IT之家注意到，该硬件直接围绕后置相机条上的闪光灯构建，并覆盖全系列机型。目前，HiLight 作为一款专用指示灯，在 Gemini 助手激活时脉冲闪烁，当手机屏幕朝下放置时，会为来自收藏联系人的来电发出亮光。尽管谷歌在发",
-          "source": "IT之家",
-          "date": "2026-08-23",
-          "dateLabel": "8月23日",
-          "tags": [
-            "model",
             "business"
           ],
-          "url": "https://www.ithome.com/0/993/325.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/d7c05544-4bfa-44f7-99a2-19f07f814bac.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/08/478358.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "fc1b5d1798bd",
+          "title": "WRC唯一真「人机共生」展台，是家沉浸式机器人咖啡店",
+          "desc": "玩的就是真实",
+          "source": "量子位",
+          "date": "2026-08-23",
+          "dateLabel": "8月23日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.qbitai.com/2026/08/478319.html",
+          "image": "",
+          "color": "#7c3aed"
         }
       ]
     },
@@ -2867,127 +2970,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-07-22",
-      "dateLabel": "7月22日",
-      "id": "d22",
-      "items": [
-        {
-          "id": "73562540427d",
-          "title": "Codex 之后，你现在能在 Claude 「蒸馏」自己了",
-          "desc": "「做给 AI 看，比解释 47 遍强多了。」",
-          "source": "36氪",
-          "date": "2026-07-22",
-          "dateLabel": "7月22日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://36kr.com/p/3907365426467969",
-          "image": "https://img.36krcdn.com/hsossms/20260723/v2_1916e34249314d2681d0949a7e2c1cd7@5091053@ai_oswg902501oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "23677441e957",
-          "title": "OpenAI 黑进 Hugging Face ，当喊停的不再是人类",
-          "desc": "一场原本用来测试 AI 能力的内部考试，就这样从模拟环境跑进了现实世界，最后变成了一起影响其他公司真实业务系统的安全事故。",
-          "source": "36氪",
-          "date": "2026-07-22",
-          "dateLabel": "7月22日",
-          "tags": [
-            "policy"
-          ],
-          "url": "https://36kr.com/p/3907365960586376",
-          "image": "https://img.36krcdn.com/hsossms/20260723/v2_64c62c9657e546cb8a42ab5572d85d42@5091053@ai_oswg905374oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "1195784376b5",
-          "title": "刚刚，全球三大AI包揽IMO满分，击败99%人类",
-          "desc": "三年三级跳，硅基大脑的恐怖进化。",
-          "source": "36氪",
-          "date": "2026-07-22",
-          "dateLabel": "7月22日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3907377789719938",
-          "image": "https://img.36krcdn.com/hsossms/20260723/v2_769c52d16ef041aca883102a83c8f56d@5091053@ai_oswg1075930oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "946306d1c265",
-          "title": "从赛场到产业：广州大学城科技园，为创新青年项目搭好转化沃土",
-          "desc": "助力粤港澳大湾区建设国际科技创新中心，推动番禺产业向高端化、智能化、数字化加速迈进。",
-          "source": "36氪",
-          "date": "2026-07-22",
-          "dateLabel": "7月22日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3905236966901378",
-          "image": "https://img.36krcdn.com/hsossms/20260721/v2_9a1f653816894b76bcfef342efe0811b@5925182_oswg1359468oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "acade1a35d5a",
-          "title": "15万美元一年，AI颠覆传统教育，美国有钱人已经先跑了",
-          "desc": "美国富人，开始逃离传统学校",
-          "source": "36氪",
-          "date": "2026-07-22",
-          "dateLabel": "7月22日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3906734042322313",
-          "image": "https://img.36krcdn.com/hsossms/20260722/v2_1c6e8ac911db43bcbdc871e2ad271352@46958@ai_oswg1041069oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "f461c972592d",
-          "title": "Kimi K3时刻：中美AI产业链叙事要变天？",
-          "desc": "上周全球市场直接把大家跌懵了，真假小作文趁机甚嚣尘上。",
-          "source": "36氪",
-          "date": "2026-07-22",
-          "dateLabel": "7月22日",
-          "tags": [
-            "model",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3906759052907910",
-          "image": "https://img.36krcdn.com/hsossms/20260722/v2_3cd6c5c8f3774de7b2d5190a3611fdad@000000@ai_oswg264539oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "9ff9239fa0c3",
-          "title": "谷歌Gemini跌出全球排名前十",
-          "desc": "进入2026年，全球头部大模型赛道竞争愈发白热化。",
-          "source": "36氪",
-          "date": "2026-07-22",
-          "dateLabel": "7月22日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://36kr.com/p/3906712566797699",
-          "image": "https://img.36krcdn.com/hsossms/20260722/v2_c974ecbe852d411d846c3da7effb380b@46958@ai_oswg939636oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "165626861500",
-          "title": "OpenAI挖了苹果400人，又盯上了苹果身后的中国制造商",
-          "desc": "挖墙脚还是双向奔赴?",
-          "source": "36氪",
-          "date": "2026-07-22",
-          "dateLabel": "7月22日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3906610073819017",
-          "image": "https://img.36krcdn.com/hsossms/20260722/v2_2ee82b745b934ccb93365dc5cfd88ad6@46958@ai_oswg923226oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -3013,6 +2995,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-08-24 11:00",
-  "totalNews": 190
+  "updateTime": "2026-08-25 10:55",
+  "totalNews": 188
 }
