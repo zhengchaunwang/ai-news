@@ -1,128 +1,235 @@
 {
   "newsData": [
     {
+      "date": "2026-08-27",
+      "dateLabel": "8月27日",
+      "id": "d27",
+      "items": [
+        {
+          "id": "4aa6b51a6c7f",
+          "title": "基元律动累计融资数千万美元，推出“中国版OpenRouter”",
+          "desc": "近日，AI基础设施公司基元律动（TokenRhythm）宣布完成新一轮融资，融资额达数千万美元。",
+          "source": "量子位",
+          "date": "2026-08-27",
+          "dateLabel": "8月27日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/08/480079.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "5fce2e0f4e38",
+          "title": "工业Agent不是“套壳”大模型！西门子百年经验灌进工业AI",
+          "desc": "西门子Xcelerator与普通软件货架最本质的区别。货架解决的是「把产品卖出去」，西门子Xcelerator要解决的是「让产品在真实工业场景中持续生长」。",
+          "source": "量子位",
+          "date": "2026-08-27",
+          "dateLabel": "8月27日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://www.qbitai.com/2026/08/480005.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "37e22fa90b53",
+          "title": "千问办公首发上线Qwen3.8-Flash，生成速度提升100%，Token消耗减少75%",
+          "desc": "8月26日晚，千问办公首发上线刚刚发布的Qwen3.8-Flash模型，同时推出标准模式。",
+          "source": "量子位",
+          "date": "2026-08-27",
+          "dateLabel": "8月27日",
+          "tags": [
+            "model",
+            "business",
+            "policy"
+          ],
+          "url": "https://www.qbitai.com/2026/08/480001.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "83585809784e",
+          "title": "微软 XBOX CEO 夏尔马：游戏硬件行业应寻求兼顾可负担性和效率",
+          "desc": "IT之家 8 月 27 日消息，微软 XBOX CEO 阿莎 · 夏尔马进一步证实了将改变下一代主机开发和销售思路的可能性，并指出，整个游戏硬件行业都必须在控制售价和提高效率上寻找新办法。当地时间 26 日，夏尔马接受 BBC 采访时表示：“行业正经历一场‘内存末日（Rampocalypse）’。过去我们不需要考虑这些问题，现在硬件和零部件危机已经迫使所有厂商重新思考，既要提高效率，也要给玩家更多",
+          "source": "IT之家",
+          "date": "2026-08-27",
+          "dateLabel": "8月27日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/995/273.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/fa91c25d-6f1e-4b4e-831b-eaf0269f4104.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "d7c3dc997c59",
+          "title": "微软确认 Win11 KB5121003 游戏崩溃与 RGB 驱动有关，正阻止相关驱动加载",
+          "desc": "IT之家 8 月 27 日消息，微软于当地时间 8 月 26 日确认并解决了 Windows 11 KB5121003 更新后部分游戏出现的崩溃或无响应问题。该问题影响《ARC Raiders》《漫威斗魂》及《最终决战》等游戏，症状包括应用无响应、游戏闪退、显示“EXCEPTION_ACCESS_VIOLATION”报错、无预警重启。经微软调查，该问题并非由 Windows 更新导致，而是与带 R",
+          "source": "IT之家",
+          "date": "2026-08-27",
+          "dateLabel": "8月27日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/995/266.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/674f9069-b504-48c7-af55-a89b52cbd760.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "11c2661b34c9",
+          "title": "英国实施全球首例 AI 实时辅助脑外科手术，成功切除脑部肿瘤",
+          "desc": "IT之家 8 月 27 日消息，据英国 BBC 今天（27 日）报道，英国贝德福德郡 48 岁的里斯 · 希伯特成为全球首位在 AI 实时辅助下接受脑部手术的患者，医生成功切除了他的脑部肿瘤。伦敦大学学院医院的外科医生表示，如果不做这场手术，他可能最终失明。手术期间，AI 实时分析内镜传回的画面，帮助医生判断脑内重要血管和神经可能隐藏的位置，从而避开这些关键结构，在保证安全的情况下尽可能完整地切除",
+          "source": "IT之家",
+          "date": "2026-08-27",
+          "dateLabel": "8月27日",
+          "tags": [
+            "policy"
+          ],
+          "url": "https://www.ithome.com/0/995/255.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/8ba8dc5f-5072-4913-9d87-b0bef7550196.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "a1068fba4a63",
+          "title": "Day-0 支持：摩尔线程官宣完成智谱 GLM-5.3-Flash 极速适配",
+          "desc": "IT之家 8 月 27 日消息，智谱近日上线并开源 GLM-5.3-Flash (320B-A18B)。摩尔线程官方今日宣布，基于 AI 训推一体智算卡 MTT S5000 及 MUSA 软件栈，Day-0 支持，实现了对该模型的极速适配与高效运行。据介绍，作为 GLM-5 系列的首个原生多模态模型，GLM-5.3-Flash 总参数为 320B，激活参数仅 18B，在全球权威的 Artifici",
+          "source": "IT之家",
+          "date": "2026-08-27",
+          "dateLabel": "8月27日",
+          "tags": [
+            "model",
+            "research",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/995/237.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/854bbb86-a9aa-4f28-8269-52fb2d41f737.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "eb2932aea5b8",
+          "title": "6001 米：吉利银河战舰 700“AI 全地形硬核 SUV”打破量产车最高海拔爬坡纪录",
+          "desc": "IT之家 8 月 27 日消息，吉利汽车集团今日宣布，银河战舰 700 打破量产车最高海拔爬坡纪录，成绩定格在 6001 米。据介绍，此次挑战中，吉利银河战舰 700 系统综合功率 830kW、轮端峰值扭矩 13920N·m，测试车辆非改装车。据IT之家此前报道，吉利银河战舰 700 定位“AI 全地形硬核 SUV”，预计将于年内上市。该车采用硬朗的线条勾勒与方盒子车身造型，前脸采用长条矩形格栅轮",
+          "source": "IT之家",
+          "date": "2026-08-27",
+          "dateLabel": "8月27日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/995/220.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/d243f674-bf1b-4c9f-aeb5-6bb4221701b3.jpg",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-08-26",
       "dateLabel": "8月26日",
       "id": "d26",
       "items": [
         {
-          "id": "afbd3a2128b3",
-          "title": "OpenAI「辣椒芯」干翻英伟达！老黄股价不跌反涨",
-          "desc": "不和老黄商量",
+          "id": "13c5693b67ac",
+          "title": "神秘「牛来」模型果然是智谱！GLM首个原生多模态，还用的国产卡",
+          "desc": "GLM-5.3 Flash",
+          "source": "量子位",
+          "date": "2026-08-26",
+          "dateLabel": "8月26日",
+          "tags": [
+            "model",
+            "research",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/08/479919.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "6f432d66e45d",
+          "title": "AI视频应用井喷，美图打开新的增长空间",
+          "desc": "从图像到视频，美图找到了一门更赚钱的生意",
           "source": "量子位",
           "date": "2026-08-26",
           "dateLabel": "8月26日",
           "tags": [
             "business"
           ],
-          "url": "https://www.qbitai.com/2026/08/479320.html",
+          "url": "https://www.qbitai.com/2026/08/479895.html",
           "image": "",
           "color": "#7c3aed"
         },
         {
-          "id": "c9018af27aaf",
-          "title": "Stability AI 完成 7600 万美元 B 轮融资：EA 与三大音乐娱乐企业均参投",
-          "desc": "IT之家 8 月 26 日消息，Stability AI 美国加州当地时间 25 日宣布完成总额 7,600 万美元（IT之家注：现汇率约合 5.12 亿元人民币）的 B 轮融资。这笔资金将用于推动创意制作产品的开发，深化应用研究领域，扩展专业服务业务。Stability AI 本次融资的投资者包括知名游戏企业 EA、全球三大音乐娱乐企业（索尼音乐、环球音乐、华纳音乐），AMD 风投部门也在这一轮",
-          "source": "IT之家",
-          "date": "2026-08-26",
-          "dateLabel": "8月26日",
-          "tags": [
-            "research",
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/994/413.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/63529999-defb-46c4-8e89-9a9a23960cbf.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "089d7afc9ed4",
-          "title": "谷歌 Android XR 拟升级实时翻译：“仅前方”拾音增强一对一对话",
-          "desc": "IT之家 8 月 26 日消息，科技媒体 Android Authority 昨日（8 月 25 日）发布博文，报道称谷歌计划为 Android XR 引入“聆听区域”（Listening area）设置，提供“仅前方”和“周边区域”2 种麦克风模式。该媒体通过逆向拆解 Google Translate for Android 10.32.66 版本，发现了“聆听区域”相关文本字符串。IT之家援引",
-          "source": "IT之家",
+          "id": "80644f51ec09",
+          "title": "小宇宙推出《AI趋势报告》：AI创作、AI办公、协作型AI等成讨论新趋势",
+          "desc": "AI内容创作者增长187%，相关节目数量增长239%",
+          "source": "量子位",
           "date": "2026-08-26",
           "dateLabel": "8月26日",
           "tags": [
             "business"
           ],
-          "url": "https://www.ithome.com/0/994/411.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/94ed8a45-3fb6-4049-9f19-be7021e5ef65.png",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/08/479811.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "4e4ffd9425a7",
-          "title": "特斯拉中国回应 FSD 上海数据中心“撤离”传闻：不实",
-          "desc": "IT之家 8 月 26 日消息，近日，有网友爆料称，特斯拉为 FSD（Full Self-Driving Supervised，监督版完全自动驾驶，以下简称“FSD 监督版”）入华筹备的上海数据中心已经“人去楼空”，相关对接团队全部撤离。今日《每日经济新闻》向特斯拉中国方面求证，一位内部人士回应称，上述消息“不实”。报道称，公开信息显示，特斯拉目前仍在推进 FSD 监督版在中国市场的数据合规及本土",
-          "source": "IT之家",
-          "date": "2026-08-26",
-          "dateLabel": "8月26日",
-          "tags": [
-            "policy",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/0/994/410.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/89a1f1b7-5706-40c6-99f0-51e4825429c8.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "e9d501b43be5",
-          "title": "汤道生内部发文回应腾讯 AI 慢了：AI 竞争不是短跑，熬得久比起得早更重要",
-          "desc": "IT之家 8 月 26 日消息，据鞭牛士今日报道，腾讯集团高级执行副总裁、云与智慧产业事业群 CEO 汤道生 8 月 25 日晚在腾讯内部刊物《知点》年刊上发表一篇文章。汤道生表示，这篇文章由他和 AI 协同完成，AI 已经从单纯的执行工具，变成辅助思考的协作伙伴。文章中，汤道生直面外界“腾讯做 AI 慢了”的评价。他坦言，全球大模型竞赛节奏飞快，友商在 ToB 市场声量突出，加上算力不足拖累了混",
-          "source": "IT之家",
+          "id": "12d4058cdcb2",
+          "title": "硅谷今日最热具身模型！不用后训练，看一遍就学会",
+          "desc": "具身智能迈向GPT时刻",
+          "source": "量子位",
           "date": "2026-08-26",
           "dateLabel": "8月26日",
           "tags": [
             "model",
-            "business",
-            "cn"
+            "research"
           ],
-          "url": "https://www.ithome.com/0/994/409.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/2c24f3a9-53ca-4656-8d47-bf91950782b7.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "c68831046238",
-          "title": "小米 YU7 GT 创纪录后，梅赛德斯-AMG 也来纽北测自动驾驶",
-          "desc": "IT之家 8 月 26 日消息，“绿色地狱”纽博格林赛道是车手证明实力、刷新圈速纪录的圣地。不过，越来越多的汽车制造商开始将纽博格林视为自动驾驶技术的试验场。小米在今年夏天率先展开尝试，一辆搭载自动驾驶技术的小米 YU7 GT 用 10 分 29.483 秒完成了一圈，达成全球首个纽北自动驾驶圈速纪录。这个成绩比人工驾驶的同款车型慢了 3 分多钟，但对于一辆自动驾驶汽车来说，这样的表现已经相当不错",
-          "source": "IT之家",
-          "date": "2026-08-26",
-          "dateLabel": "8月26日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/0/994/406.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/a638a3b1-2103-483f-8eed-1113daa3a365.jpg",
-          "color": "#d97706"
-        },
-        {
-          "id": "633c793a3c63",
-          "title": "斯坦福研究：22~25 岁职场新人受 AI 冲击最大，高等教育可缓冲影响",
-          "desc": "IT之家 8 月 26 日消息，斯坦福数字经济实验室于 8 月 12 日更新论文，依托薪资服务商 ADP 覆盖数百万美国劳动者的高频薪资数据，揭示生成式 AI 普及后劳动力市场的真实变化，报告提示，应届与初入职场的年轻人正承受 AI 带来的最直接冲击。研究报告指出从整体来看，并未发现全美范围大规模岗位被 AI 替代的证据，严重冲击了年轻人的“第一梯级”就业。该报告指出在软件开发和客服等高影响职业中",
-          "source": "IT之家",
-          "date": "2026-08-26",
-          "dateLabel": "8月26日",
-          "tags": [
-            "research",
-            "policy"
-          ],
-          "url": "https://www.ithome.com/0/994/403.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/a3571709-5dbc-4f07-8951-030c85fca7d7.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "7508b6064d5b",
-          "title": "工信部：我国已经有近 200 项 AI 关键标准成功研制，加快新一代通信网、算力网规划建设，加强 6G 技术研发",
-          "desc": "IT之家 8 月 26 日消息，据央视新闻报道，国新办今日举行“开局起步‘十五五’”系列主题新闻发布会，工业和信息化部相关负责人介绍全力抓好“十五五”规划实施、加快推进新型工业化有关情况。发布会上介绍，我国已经有近 200 项人工智能关键标准成功研制。我国将着力推动信息通信业高质量发展，加快新一代通信网、算力网规划建设，推动 5G、工业互联网在重点行业规模化普及应用，加强 6G 技术研发，增强网络",
-          "source": "IT之家",
-          "date": "2026-08-26",
-          "dateLabel": "8月26日",
-          "tags": [
-            "business",
-            "policy"
-          ],
-          "url": "https://www.ithome.com/0/994/397.htm",
+          "url": "https://www.qbitai.com/2026/08/479834.html",
           "image": "",
-          "color": "#d97706"
+          "color": "#7c3aed"
+        },
+        {
+          "id": "68103a9ddb37",
+          "title": "达卯科技与福建智算方舟达成合作，全栈式算电协同服务在闽落子",
+          "desc": "长乐机场综保区智算中心全栈算电协同服务",
+          "source": "量子位",
+          "date": "2026-08-26",
+          "dateLabel": "8月26日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/08/479808.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "f14de4140112",
+          "title": "刚刚，Top级的视频AI免费了！我反手做了个精致版《牛来》",
+          "desc": "Agnes Video 2.5 Flash",
+          "source": "量子位",
+          "date": "2026-08-26",
+          "dateLabel": "8月26日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://www.qbitai.com/2026/08/479670.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "733b892c71cd",
+          "title": "宇树智元共用一个大脑！神秘模型Demo炸场，10分钟一镜到底",
+          "desc": "宇树智元共用一个大脑！神秘模型Demo炸场，10分钟一镜到底",
+          "source": "量子位",
+          "date": "2026-08-26",
+          "dateLabel": "8月26日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/08/479634.html",
+          "image": "",
+          "color": "#7c3aed"
         }
       ]
     },
@@ -2914,85 +3021,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-07-24",
-      "dateLabel": "7月24日",
-      "id": "d24",
-      "items": [
-        {
-          "id": "9c48418ff440",
-          "title": "Agent手机的三条路线与一场权力游戏",
-          "desc": "谁会掌控你的下一部手机",
-          "source": "36氪",
-          "date": "2026-07-24",
-          "dateLabel": "7月24日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3909566283306372",
-          "image": "https://img.36krcdn.com/hsossms/20260724/v2_76aef10802c44531832da8f9c4b23a1c@000000@ai_oswg344814oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "7cea2ebd8fbd",
-          "title": "Al手机大战，全面开打",
-          "desc": "2026，才是真正的AI手机元年。",
-          "source": "36氪",
-          "date": "2026-07-24",
-          "dateLabel": "7月24日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3909564969342081",
-          "image": "https://img.36krcdn.com/hsossms/20260724/v2_7bf58ef8bf8345d19b0101c8fc7b6bcb@000000@ai_oswg286040oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "32c98bf78a54",
-          "title": "大模型价格战下半场：将推理价格打下去",
-          "desc": "推理才是难题",
-          "source": "36氪",
-          "date": "2026-07-24",
-          "dateLabel": "7月24日",
-          "tags": [
-            "model",
-            "research"
-          ],
-          "url": "https://36kr.com/p/3909564577945216",
-          "image": "https://img.36krcdn.com/hsossms/20260724/v2_d1e37676d77b4b3c86f3227e4e9320b1@46958@ai_oswg870926oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "334866a24f7b",
-          "title": "拆解谷歌100页AI经济报告：覆盖90%岗位，却只接手了1/5的活儿",
-          "desc": "谷歌发布AI经济报告，显示AI渗透广、介入浅",
-          "source": "36氪",
-          "date": "2026-07-24",
-          "dateLabel": "7月24日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3909559860352128",
-          "image": "https://img.36krcdn.com/hsossms/20260724/v2_24c66b3c265b49f2ae308f015f0ef55f@46958@ai_oswg1083348oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "01f8af7bfb41",
-          "title": "合肥又押中AI独角兽：多模态赛道，3个月融了21亿",
-          "desc": "跑出原生全模态新路径",
-          "source": "量子位",
-          "date": "2026-07-24",
-          "dateLabel": "7月24日",
-          "tags": [
-            "research",
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/07/460154.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -3018,6 +3046,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-08-26 11:01",
-  "totalNews": 190
+  "updateTime": "2026-08-27 20:20",
+  "totalNews": 192
 }
