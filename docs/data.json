@@ -1,10 +1,150 @@
 {
   "newsData": [
     {
+      "date": "2026-08-29",
+      "dateLabel": "8月29日",
+      "id": "d29",
+      "items": [
+        {
+          "id": "f2375171a6a1",
+          "title": "消息称空客有意出售美国航天业务：聚焦欧洲卫星制造，应对 SpaceX 与中国对手竞争",
+          "desc": "IT之家 8 月 29 日消息，《金融时报》今日报道称，空中客车（Airbus）正探索出售其美国航天业务部门。与此同时，这家法德合资的飞机制造商正致力于通过三方合并打造一家泛欧洲卫星领域的龙头企业。知情人士透露，空客正在评估潜在买家对其美国航天业务的收购意向。该业务包含位于佛罗里达州的一处工厂，以及 Arrow 系列小型卫星。该系列卫星可实现规模化量产，面向商业及政府通信、对地成像业务，也可满足国",
+          "source": "IT之家",
+          "date": "2026-08-29",
+          "dateLabel": "8月29日",
+          "tags": [
+            "research",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/995/927.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/b87f21da-1f34-4006-8086-67b38a6ea894.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "9decbcf5b10d",
+          "title": "蓝狐 Aura A1 小屏手机发布：联发科 G100 芯片，首发 1399 元起",
+          "desc": "IT之家 8 月 29 日消息，蓝狐 Aura A1 手机今天发布，新品主打 4.7 寸小屏，可选粉、白、黑三种配色，首发售价 1399 元起。IT之家附该机各版本价格如下：8GB+128GB：原价 1499 元，首发 1399 元12GB+256GB：原价 1799 元，首发 1699 元京东蓝狐 Aura A1 小屏智能手机 1399 元起直达链接外观方面，蓝狐 Aura A1 可选白色、黑色",
+          "source": "IT之家",
+          "date": "2026-08-29",
+          "dateLabel": "8月29日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/995/920.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/946436ed-31f7-4328-b8ad-a5e3cd49c8e0.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "0787769fe0da",
+          "title": "行业首个量子增强型大模型“玄幂 Xenomi”发布：深度融合 AI 与量子计算",
+          "desc": "IT之家 8 月 29 日消息，据“国光量子”公众号 27 日推文，国光量超人工智能研究团队将相关量子技术引入大语言模型的决策与推理过程，并面向科研和学术领域，推出玄幂（Xenomi）· 大模型家族。玄幂在科研科普、路由和智能体决策等特定任务中，相较于主流开源模型展现出更稳定的专业理解、更清晰的任务判断和更短的决策路径，也是行业首个量子增强型大模型。根据介绍，公司希望在以量子计算为代表的尖端研究领",
+          "source": "IT之家",
+          "date": "2026-08-29",
+          "dateLabel": "8月29日",
+          "tags": [
+            "model",
+            "research",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/995/921.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/3dea4c99-5635-49d8-b556-da9955099950.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "016fa4b54bec",
+          "title": "Anthropic 官宣 Claude Code 打通桌面端与终端",
+          "desc": "（原标题《终于，Claude Code 打通了桌面端与终端！》）终端里干到一半的活，换个窗口就得从头再干一遍。今天，这事结束了。就在刚刚，Anthropic 官宣，Claude Code 桌面端打通了终端会话！在桌面端敲下 /resume，历史会话列表就弹出来，点击任意一个之前在 CLI 终端里开过的工作会话，原样拉进桌面接着干。完整对话记录、代码片段、之前一起理清的来龙去脉，一个不落地跟着搬。更",
+          "source": "IT之家",
+          "date": "2026-08-29",
+          "dateLabel": "8月29日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://www.ithome.com/0/995/917.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/5d802bab-878e-4734-9cfa-fee0dd579e1d.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "d1490bc3ff9c",
+          "title": "适用于 Win10 的最后一版英伟达 GeForce Game Ready 显卡驱动将于 10 月发布",
+          "desc": "IT之家 8 月 29 日消息，据科技媒体 VideoCardz 今天报道，英伟达至今仍在为微软 Windows 10 操作系统提供 GeForce Game Ready 显卡驱动程序，但今年 10 月以后情况将发生改变。微软官方已在 2025 年 10 月 14 日停止支持 Windows 10，如今仍有大量游戏玩家没有升级，停留在 Windows 10。英伟达注意到仍有大量 GeForce 用",
+          "source": "IT之家",
+          "date": "2026-08-29",
+          "dateLabel": "8月29日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/995/915.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/47de1901-15ac-4e7e-9c03-4e1560bfee26.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "6c015e43dc7d",
+          "title": "OpenAI 宣布将断供 Cursor 后，Anthropic 称继续增加算力支持 Cursor",
+          "desc": "IT之家 8 月 29 日消息，Anthropic 联合创始人 Tom Brown（汤姆 · 布朗）今日在 X 平台发文，称将继续增加算力支持 Cursor，并期待与 SpaceX 后续合作。自 Claude 3.5 Sonnet 发布以来，Cursor 一直是 Anthropic 值得信赖的合作伙伴。我们将继续增加算力投入，全力支持 Cursor 平台中的 Claude 系列模型，同时也非常期待",
+          "source": "IT之家",
+          "date": "2026-08-29",
+          "dateLabel": "8月29日",
+          "tags": [
+            "model",
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/995/913.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/8ce9f943-4093-4149-b8ee-5337941a63fe.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "6ea4eede14d5",
+          "title": "AI 会冲垮软件行业？Anthropic CEO 阿莫迪：我们无意摧毁任何人",
+          "desc": "IT之家 8 月 29 日消息，据《商业内幕》今天报道，Anthropic 首席执行官达里奥 · 阿莫迪（Dario Amodei）本周出席活动时表示，他们公司希望为客户创造更多价值，Claude 人工智能助手是带着和平而来的，而不是摧毁其他行业。▲ 达里奥 · 阿莫迪据报道，阿莫迪当时坐在 Salesforce 首席执行官马克 · 贝尼奥夫（Marc Benioff）旁边，试图平息华尔街传闻的“",
+          "source": "IT之家",
+          "date": "2026-08-29",
+          "dateLabel": "8月29日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://www.ithome.com/0/995/911.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/db8433fb-6932-4b32-94de-c6c0bf7399de.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "40033fb4bd31",
+          "title": "国内首部 AIGC 长剧《后西游记》定档 8 月 31 日开播，登陆湖南卫视黄金档",
+          "desc": "IT之家 8 月 29 日消息，芒果 TV AIGC 创新内容中心制作、伯璟文化承制的神话题材季播剧《后西游记》第一季“花果山篇”，将于 8 月 31 日起上线芒果 TV，并登陆湖南卫视黄金档。据悉，这是国内首部 AIGC 长剧。据介绍，神话题材季播剧《后西游记》改编自明末清初匿名作者所著的同名神魔小说，其第一季共 30 集，每集 40 分钟。作为《西游记》三大续书之一，《后西游记》原著讲述了因世",
+          "source": "IT之家",
+          "date": "2026-08-29",
+          "dateLabel": "8月29日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/995/901.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/c5ba6291-baf5-4b29-825f-2464cc82e5ef.png",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-08-28",
       "dateLabel": "8月28日",
       "id": "d28",
       "items": [
+        {
+          "id": "d7aae292e31c",
+          "title": "我的自媒体搭子太能卷，一顿饭功夫17份成品",
+          "desc": "我的自媒体搭子太能卷，一顿饭功夫17份成品",
+          "source": "量子位",
+          "date": "2026-08-28",
+          "dateLabel": "8月28日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/08/480700.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
         {
           "id": "10cb4c061421",
           "title": "《时代》周刊全球AI 100放榜，精准捕获稚晖君最“想低调”的幕后老板",
@@ -102,22 +242,6 @@
             "business"
           ],
           "url": "https://www.qbitai.com/2026/08/480236.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "54a35e37786c",
-          "title": "商汤大装置助力智象未来实现视频生成业务向国产算力无感迁移",
-          "desc": "国产算力跑通视频生成规模化应用",
-          "source": "量子位",
-          "date": "2026-08-28",
-          "dateLabel": "8月28日",
-          "tags": [
-            "model",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/08/480227.html",
           "image": "",
           "color": "#7c3aed"
         }
@@ -2897,128 +3021,6 @@
           "color": "#2563eb"
         }
       ]
-    },
-    {
-      "date": "2026-07-26",
-      "dateLabel": "7月26日",
-      "id": "d26",
-      "items": [
-        {
-          "id": "7c39e30e2b5f",
-          "title": "开源反派 Anthropic也有性价比？",
-          "desc": "半价 Fable 5，加量不加价。",
-          "source": "36氪",
-          "date": "2026-07-26",
-          "dateLabel": "7月26日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3912255169353602",
-          "image": "https://img.36krcdn.com/hsossms/20260726/v2_9d0a14a341e14fcebdf5ed39606b905f@1743780481@ai_oswg962821oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "9e93b598373f",
-          "title": "人形机器人，拼脑子的时候到了",
-          "desc": "当“躯体”的技术成熟度已逼近量产门槛，“大脑”的智能水平正在成为决定谁能真正胜出",
-          "source": "36氪",
-          "date": "2026-07-26",
-          "dateLabel": "7月26日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://36kr.com/p/3912252459799945",
-          "image": "https://img.36krcdn.com/hsossms/20260726/v2_51d5ca3afcf94d7c85b1eebbec8751b4@1743780481@ai_oswg838643oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "39c0b233a4ab",
-          "title": "OpenAI挖到最新菲尔兹奖得主，字节刚出炉的科学家计划在瞄准谁？",
-          "desc": "科学家去 AI 公司上班，这场人才迁徙比你想的更关键。",
-          "source": "36氪",
-          "date": "2026-07-26",
-          "dateLabel": "7月26日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3912031933142404",
-          "image": "https://img.36krcdn.com/hsossms/20260726/v2_fc5cdd195e4248659192e7571918fd6c@000000@ai_oswg274940oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "abae734edc82",
-          "title": "Karpathy从Anthropic离职了？个人简介修改引发全网猜测",
-          "desc": "一起等等 Karpathy 的回应吧",
-          "source": "36氪",
-          "date": "2026-07-26",
-          "dateLabel": "7月26日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3911859358717321",
-          "image": "https://img.36krcdn.com/hsossms/20260726/v2_a7463d95441644cb80b618ebb395438a@000000@ai_oswg236455oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "5365f932b94c",
-          "title": "全世界AI能力下降一万倍，只有我还是普通人",
-          "desc": "寡头垄断API初创企业如何生存？",
-          "source": "36氪",
-          "date": "2026-07-26",
-          "dateLabel": "7月26日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3911095760230019",
-          "image": "https://img.36krcdn.com/hsossms/20260725/v2_61579cab15aa4002b43df6cc6d8def33@6181939_oswg1169806oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "6dc8278f77c1",
-          "title": "Codex也断了：OpenAI三线齐崩，Agent时代的宕机账单怎么算",
-          "desc": "OpenAI三线齐崩，Agent时代的宕机账单怎么算",
-          "source": "36氪",
-          "date": "2026-07-26",
-          "dateLabel": "7月26日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3911112634340996",
-          "image": "https://img.36krcdn.com/hsossms/20260725/v2_ad67a491f3694aa688d7afd99d609d0f@000000_oswg112423oswg1217oswg1219_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "9f00c7b33338",
-          "title": "硬氪首发 | 复旦教授、前英特尔首席科学家做端侧具身大脑，「眸深智能」完成近亿元Pre-A轮追加融资",
-          "desc": "把动作变成token，今年上半年营收已达数千万元，近半年估值翻十倍。",
-          "source": "36氪",
-          "date": "2026-07-26",
-          "dateLabel": "7月26日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3911162147640456",
-          "image": "https://img.36krcdn.com/hsossms/20260725/v2_44f27216a65b4e0e963e25dd7e66d7db@000000_oswg50341oswg893oswg380_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "9a6ab9016fed",
-          "title": "融资20亿，一家机器人宣布破产",
-          "desc": "能用的机器人太贵，足够便宜的用途又不大。",
-          "source": "36氪",
-          "date": "2026-07-26",
-          "dateLabel": "7月26日",
-          "tags": [
-            "research",
-            "business"
-          ],
-          "url": "https://36kr.com/p/3911200563991681",
-          "image": "https://img.36krcdn.com/hsossms/20260725/v2_a469ee0908b3435ba8e4d2f33c7b140f@000000@ai_oswg283948oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -3044,6 +3046,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-08-28 21:46",
+  "updateTime": "2026-08-29 16:37",
   "totalNews": 192
 }
