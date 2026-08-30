@@ -1,128 +1,238 @@
 {
   "newsData": [
     {
+      "date": "2026-08-30",
+      "dateLabel": "8月30日",
+      "id": "d30",
+      "items": [
+        {
+          "id": "f59cf5043fa5",
+          "title": "因缺少 MTE 安全功能，GrapheneOS 当前阶段放弃适配谷歌 Pixel 11 系列手机",
+          "desc": "IT之家 8 月 30 日消息，GrapheneOS（石墨烯 OS）开发团队今天在 X 平台宣布，由于谷歌 Pixel 11 系列手机缺少 MTE（Arm 内存标记扩展）安全功能，他们当前不得不放弃 Pixel 11 的 GrapheneOS 适配工作。官方表示，他们经过一周的工作后完成了 Pixel 11 系列 GrapheneOS 初步移植。但由于该系列机型的软件、固件和硬件缺乏 MTE 支持",
+          "source": "IT之家",
+          "date": "2026-08-30",
+          "dateLabel": "8月30日",
+          "tags": [
+            "business",
+            "policy"
+          ],
+          "url": "https://www.ithome.com/0/996/177.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/04c4c7b8-8c3e-411a-884d-170f13221af6.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "f925e3be7d64",
+          "title": "隆基绿能 2026 年上半年归母亏损 36.84 亿元，亏损同比扩大",
+          "desc": "IT之家 8 月 30 日消息，隆基绿能今日发布 2026 年上半年（2026 年 1 月～2026 年 6 月）报告：营业总收入：270.45 亿元，同比下降 17.58%归母净利润：-36.84 亿元扣非净利润：-40.32 亿元经营现金流：-58.18 亿元加权平均净资产收益率：-7.04%基本每股收益：-0.49 元稀释每股收益：-0.49 元资产负债率：66.06% AI 解读本次业绩低",
+          "source": "IT之家",
+          "date": "2026-08-30",
+          "dateLabel": "8月30日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/996/173.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/0876fd73-1547-4698-b2c6-de000c4f60c3.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "76afddbd4174",
+          "title": "特斯拉车机系统有望接入 Grok Bot，打造移动 AI 工作站",
+          "desc": "IT之家 8 月 30 日消息，特斯拉正不断将旗下电动汽车打造成为“车轮上的联网生产力中心”。继近期推出 Grok Bot 后，特斯拉似乎正在准备将 SpaceXAI 最新的自主智能体平台直接整合进车内。这一线索最早出现在 X 平台。一名用户询问，未来司机是否可以直接坐在车内管理自己的 Grok Bot 智能体，并查看后台任务的执行情况。SpaceXAI 的 Grok Voice and Chat",
+          "source": "IT之家",
+          "date": "2026-08-30",
+          "dateLabel": "8月30日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/996/169.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/7f5ad7fd-6b1a-42d5-8374-9b6d3c4c989c.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "9e3ed4337ba3",
+          "title": "日企 Links 推出 LC7530 迷你主机：锐龙 5 7530U 芯片、16GB LPDDR4 内存",
+          "desc": "IT之家 8 月 30 日消息，日本企业 Links 现已推出 LC7530 迷你主机，新品定位中低端，搭载相对老旧的 AMD 处理器。据介绍，这款迷你主机的尺寸是 12.8*12.8*4.13 cm，重量约 610g，整体较为紧凑。搭载 2023 年发布的 AMD 锐龙 5 7530U 处理器，采用 Zen 3 架构、6 核心 12 线程设计，最高加速频率可达 4.5GHz。规格方面，该机搭载 ",
+          "source": "IT之家",
+          "date": "2026-08-30",
+          "dateLabel": "8月30日",
+          "tags": [
+            "research",
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/996/167.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/a8e7c758-19fb-47f7-a45a-ec9af2161adf.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "fe0b849590a0",
+          "title": "硅谷知名风投 a16z 成立新基金：筹集 11 亿美元，布局芯片、内存与机器人赛道",
+          "desc": "IT之家 8 月 30 日消息，据科技媒体 TechCrunch 前天报道，美国硅谷知名风险投资公司安德里森 · 霍罗威茨（Andreessen Horowitz，又名 a16z）近日推出“机器时代”（Machine Age）新基金，筹集资金达 11 亿美元（IT之家注：现汇率约合 74.21 亿元人民币）。据悉，这支新基金将重点关注硬件领域，与 a16z 过去更加关注的软件赛道有所不同。该公司表",
+          "source": "IT之家",
+          "date": "2026-08-30",
+          "dateLabel": "8月30日",
+          "tags": [
+            "research",
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/996/136.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/1ed70a9d-1408-4c0f-a2c6-f7cad82f4e36.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "593c04654665",
+          "title": "大我 BIGME 推出 4G 通话阅读本 B6 Pro：6 英寸彩墨屏，到手价 2099 元",
+          "desc": "IT之家 8 月 30 日消息，大我 BIGME 今日宣布，彩墨屏 AI 阅读器 B6 Pro 国内即将开启预售，9 月 1 日 20:00 - 9 月 22 日 10:00 支付定金，9 月 22 日 10:30 起支付尾款，B6 Pro（8GB+256GB）预售到手价 2099 元。这款新品配备 6 英寸彩色墨水屏，拥有 300PPI （黑白） / 150PPI （彩色）；搭载天玑 1080 ",
+          "source": "IT之家",
+          "date": "2026-08-30",
+          "dateLabel": "8月30日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/996/133.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/10cb3540-73cd-42fc-a11c-9d7256780811.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "0721196a9501",
+          "title": "R 星确认：《GTA 6》发售时不会有微交易和生成式 AI",
+          "desc": "IT之家 8 月 30 日消息，Rockstar Games 表示，《侠盗猎车手 6》（GTA 6）在今年 11 月发售时不会加入微交易或生成式 AI。本周早些时候，《GTA 6》开发团队在接受 Kinda Funny Games 采访时确认，这款备受期待的开放世界大作将避开这两种可能引发争议的做法。这意味着游戏在发售后的几个月里，至少不会因为这两个话题引发玩家的争议。Kinda Funny 主持",
+          "source": "IT之家",
+          "date": "2026-08-30",
+          "dateLabel": "8月30日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/996/132.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/8355825b-2ffe-4309-9cc7-76475129fc61.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "400f6ca1fb98",
+          "title": "日均峰值 11.3 起：报告称 2026 年已记录 1664 起 AI 失控事件，7 月环比增 93.76%",
+          "desc": "IT之家 8 月 30 日消息，英国长期韧性中心（CLTR）于 8 月 28 日发布报告，称其“失控观察站”在 2026 年 7 月共记录 306 起 AI 安全事件，比 6 月（158 起）增涨 93.67%。“失控观察站”成立于 2026 年 2 月，获英国人工智能安全研究所资助，借助开源情报追踪 AI 系统违背操作者意图的案例。报告列举的案例包括：智能体在对话中插入伪造用户消息以模拟同意、仿",
+          "source": "IT之家",
+          "date": "2026-08-30",
+          "dateLabel": "8月30日",
+          "tags": [
+            "research",
+            "business",
+            "policy",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/996/124.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/91324e07-710d-42d0-8d35-e79afa06d964.png",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-08-29",
       "dateLabel": "8月29日",
       "id": "d29",
       "items": [
         {
-          "id": "f2375171a6a1",
-          "title": "消息称空客有意出售美国航天业务：聚焦欧洲卫星制造，应对 SpaceX 与中国对手竞争",
-          "desc": "IT之家 8 月 29 日消息，《金融时报》今日报道称，空中客车（Airbus）正探索出售其美国航天业务部门。与此同时，这家法德合资的飞机制造商正致力于通过三方合并打造一家泛欧洲卫星领域的龙头企业。知情人士透露，空客正在评估潜在买家对其美国航天业务的收购意向。该业务包含位于佛罗里达州的一处工厂，以及 Arrow 系列小型卫星。该系列卫星可实现规模化量产，面向商业及政府通信、对地成像业务，也可满足国",
-          "source": "IT之家",
+          "id": "22927a428f81",
+          "title": "AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑",
+          "desc": "推理软件栈的微小差异，就能改变输出token",
+          "source": "量子位",
           "date": "2026-08-29",
           "dateLabel": "8月29日",
           "tags": [
-            "research",
-            "cn"
+            "research"
           ],
-          "url": "https://www.ithome.com/0/995/927.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/b87f21da-1f34-4006-8086-67b38a6ea894.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/08/481372.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "9decbcf5b10d",
-          "title": "蓝狐 Aura A1 小屏手机发布：联发科 G100 芯片，首发 1399 元起",
-          "desc": "IT之家 8 月 29 日消息，蓝狐 Aura A1 手机今天发布，新品主打 4.7 寸小屏，可选粉、白、黑三种配色，首发售价 1399 元起。IT之家附该机各版本价格如下：8GB+128GB：原价 1499 元，首发 1399 元12GB+256GB：原价 1799 元，首发 1699 元京东蓝狐 Aura A1 小屏智能手机 1399 元起直达链接外观方面，蓝狐 Aura A1 可选白色、黑色",
-          "source": "IT之家",
+          "id": "b275b508eba2",
+          "title": "去年归国的徐梦迪，成了清华姚班班主任",
+          "desc": "本科读车辆工程，如今教AI第一班",
+          "source": "量子位",
           "date": "2026-08-29",
           "dateLabel": "8月29日",
           "tags": [
             "business",
             "cn"
           ],
-          "url": "https://www.ithome.com/0/995/920.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/946436ed-31f7-4328-b8ad-a5e3cd49c8e0.jpg",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/08/481318.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "0787769fe0da",
-          "title": "行业首个量子增强型大模型“玄幂 Xenomi”发布：深度融合 AI 与量子计算",
-          "desc": "IT之家 8 月 29 日消息，据“国光量子”公众号 27 日推文，国光量超人工智能研究团队将相关量子技术引入大语言模型的决策与推理过程，并面向科研和学术领域，推出玄幂（Xenomi）· 大模型家族。玄幂在科研科普、路由和智能体决策等特定任务中，相较于主流开源模型展现出更稳定的专业理解、更清晰的任务判断和更短的决策路径，也是行业首个量子增强型大模型。根据介绍，公司希望在以量子计算为代表的尖端研究领",
-          "source": "IT之家",
+          "id": "70efd58f8dd5",
+          "title": "Claude开始训练Claude！4美元一小时，跑赢150美元人类研究员",
+          "desc": "AI「自进化」，越来越近了",
+          "source": "量子位",
           "date": "2026-08-29",
           "dateLabel": "8月29日",
           "tags": [
             "model",
-            "research",
-            "business",
-            "cn"
+            "research"
           ],
-          "url": "https://www.ithome.com/0/995/921.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/3dea4c99-5635-49d8-b556-da9955099950.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/08/481223.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "016fa4b54bec",
-          "title": "Anthropic 官宣 Claude Code 打通桌面端与终端",
-          "desc": "（原标题《终于，Claude Code 打通了桌面端与终端！》）终端里干到一半的活，换个窗口就得从头再干一遍。今天，这事结束了。就在刚刚，Anthropic 官宣，Claude Code 桌面端打通了终端会话！在桌面端敲下 /resume，历史会话列表就弹出来，点击任意一个之前在 CLI 终端里开过的工作会话，原样拉进桌面接着干。完整对话记录、代码片段、之前一起理清的来龙去脉，一个不落地跟着搬。更",
-          "source": "IT之家",
+          "id": "1a95a665501b",
+          "title": "20ms把PDF变成Markdown！开源OCR神器快了近300倍",
+          "desc": "3秒可处理200份PDF",
+          "source": "量子位",
           "date": "2026-08-29",
           "dateLabel": "8月29日",
           "tags": [
-            "model"
+            "business",
+            "cn"
           ],
-          "url": "https://www.ithome.com/0/995/917.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/5d802bab-878e-4734-9cfa-fee0dd579e1d.png",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/08/481075.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "d1490bc3ff9c",
-          "title": "适用于 Win10 的最后一版英伟达 GeForce Game Ready 显卡驱动将于 10 月发布",
-          "desc": "IT之家 8 月 29 日消息，据科技媒体 VideoCardz 今天报道，英伟达至今仍在为微软 Windows 10 操作系统提供 GeForce Game Ready 显卡驱动程序，但今年 10 月以后情况将发生改变。微软官方已在 2025 年 10 月 14 日停止支持 Windows 10，如今仍有大量游戏玩家没有升级，停留在 Windows 10。英伟达注意到仍有大量 GeForce 用",
-          "source": "IT之家",
+          "id": "8638cb13c604",
+          "title": "Coding不再是程序员专属！阿里Qoder这波有点绝",
+          "desc": "Coding正在变成Al世界的数字执行力",
+          "source": "量子位",
+          "date": "2026-08-29",
+          "dateLabel": "8月29日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/08/480940.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "8573096b5e1d",
+          "title": "OpenClaw：红过，爱过，散了",
+          "desc": "龙虾退潮，Harness上位",
+          "source": "量子位",
           "date": "2026-08-29",
           "dateLabel": "8月29日",
           "tags": [
             "business"
           ],
-          "url": "https://www.ithome.com/0/995/915.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/47de1901-15ac-4e7e-9c03-4e1560bfee26.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/08/480855.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "6c015e43dc7d",
-          "title": "OpenAI 宣布将断供 Cursor 后，Anthropic 称继续增加算力支持 Cursor",
-          "desc": "IT之家 8 月 29 日消息，Anthropic 联合创始人 Tom Brown（汤姆 · 布朗）今日在 X 平台发文，称将继续增加算力支持 Cursor，并期待与 SpaceX 后续合作。自 Claude 3.5 Sonnet 发布以来，Cursor 一直是 Anthropic 值得信赖的合作伙伴。我们将继续增加算力投入，全力支持 Cursor 平台中的 Claude 系列模型，同时也非常期待",
-          "source": "IT之家",
-          "date": "2026-08-29",
-          "dateLabel": "8月29日",
-          "tags": [
-            "model",
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/995/913.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/8ce9f943-4093-4149-b8ee-5337941a63fe.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "6ea4eede14d5",
-          "title": "AI 会冲垮软件行业？Anthropic CEO 阿莫迪：我们无意摧毁任何人",
-          "desc": "IT之家 8 月 29 日消息，据《商业内幕》今天报道，Anthropic 首席执行官达里奥 · 阿莫迪（Dario Amodei）本周出席活动时表示，他们公司希望为客户创造更多价值，Claude 人工智能助手是带着和平而来的，而不是摧毁其他行业。▲ 达里奥 · 阿莫迪据报道，阿莫迪当时坐在 Salesforce 首席执行官马克 · 贝尼奥夫（Marc Benioff）旁边，试图平息华尔街传闻的“",
-          "source": "IT之家",
+          "id": "df5c934b0bc0",
+          "title": "32GB大显存加持，英特尔锐炫Pro B70搞定AI漫剧创作",
+          "desc": "从剧本到成片",
+          "source": "量子位",
           "date": "2026-08-29",
           "dateLabel": "8月29日",
           "tags": [
             "model"
           ],
-          "url": "https://www.ithome.com/0/995/911.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/db8433fb-6932-4b32-94de-c6c0bf7399de.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "40033fb4bd31",
-          "title": "国内首部 AIGC 长剧《后西游记》定档 8 月 31 日开播，登陆湖南卫视黄金档",
-          "desc": "IT之家 8 月 29 日消息，芒果 TV AIGC 创新内容中心制作、伯璟文化承制的神话题材季播剧《后西游记》第一季“花果山篇”，将于 8 月 31 日起上线芒果 TV，并登陆湖南卫视黄金档。据悉，这是国内首部 AIGC 长剧。据介绍，神话题材季播剧《后西游记》改编自明末清初匿名作者所著的同名神魔小说，其第一季共 30 集，每集 40 分钟。作为《西游记》三大续书之一，《后西游记》原著讲述了因世",
-          "source": "IT之家",
-          "date": "2026-08-29",
-          "dateLabel": "8月29日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/0/995/901.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/c5ba6291-baf5-4b29-825f-2464cc82e5ef.png",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/08/480787.html",
+          "image": "",
+          "color": "#7c3aed"
         }
       ]
     },
@@ -170,78 +280,6 @@
             "business"
           ],
           "url": "https://www.qbitai.com/2026/08/480600.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "a60794109359",
-          "title": "e生涯斩获浙江一等奖，同蚂蚁、浙大一道晋级数据要素国赛",
-          "desc": "8月26日，2026年“数据要素×”大赛浙江赛区决赛落下帷幕。",
-          "source": "量子位",
-          "date": "2026-08-28",
-          "dateLabel": "8月28日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/08/480591.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "caead1ff7d23",
-          "title": "首款癌症疫苗，一针300万？？？",
-          "desc": "别让顶级治疗方法称为富人专属",
-          "source": "量子位",
-          "date": "2026-08-28",
-          "dateLabel": "8月28日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/08/480557.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "b9754fd3fba9",
-          "title": "Łukasz Kaiser领衔，2026 奇点智能技术大会北京站正式官宣",
-          "desc": "11 月 20 -21 日，由奇点智能研究院与 CSDN 联合主办的「奇点智能大会北京站」正式举行",
-          "source": "量子位",
-          "date": "2026-08-28",
-          "dateLabel": "8月28日",
-          "tags": [
-            "research",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/08/480482.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "85496562e9f4",
-          "title": "Claude开始接管物理世界！能用机械臂阻拦5000万美元打款了",
-          "desc": "Claude觉醒超体",
-          "source": "量子位",
-          "date": "2026-08-28",
-          "dateLabel": "8月28日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://www.qbitai.com/2026/08/480487.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "ab6bdf096a4a",
-          "title": "被高估的视触觉：容易复制的生意，有多大投资价值？",
-          "desc": "重新审视触视觉",
-          "source": "量子位",
-          "date": "2026-08-28",
-          "dateLabel": "8月28日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/08/480236.html",
           "image": "",
           "color": "#7c3aed"
         }
@@ -2899,128 +2937,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-07-27",
-      "dateLabel": "7月27日",
-      "id": "d27",
-      "items": [
-        {
-          "id": "e12e5b47d04e",
-          "title": "菲尔兹奖得主预警：AI可能杀死数学",
-          "desc": "数学家面临AlphaGO时刻",
-          "source": "36氪",
-          "date": "2026-07-27",
-          "dateLabel": "7月27日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3914508085089669",
-          "image": "https://img.36krcdn.com/hsossms/20260728/v2_59fba2a9526d44c59fdb168ee3070bfa@5888275@ai_oswg1083600oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "164005f3b4ee",
-          "title": "CUDA 20年护城河一个周末崩了，Claude独自跑通AMD新GPU",
-          "desc": "来自ASI的降维打击",
-          "source": "36氪",
-          "date": "2026-07-27",
-          "dateLabel": "7月27日",
-          "tags": [
-            "model",
-            "business"
-          ],
-          "url": "https://36kr.com/p/3914508098573443",
-          "image": "https://img.36krcdn.com/hsossms/20260728/v2_4a6007bb355a42d6a5d56d123c97b2a3@5888275@ai_oswg805268oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "5d480fdbb304",
-          "title": "刚刚，北大校友翁荔官宣离职，AI 时代最好的「对齐」是照顾好自己",
-          "desc": "人无法像模型一样无限扩展",
-          "source": "36氪",
-          "date": "2026-07-27",
-          "dateLabel": "7月27日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3914516361254281",
-          "image": "https://img.36krcdn.com/hsossms/20260728/v2_83836301209340fb9680633df165f471@000000_oswg118517oswg1280oswg544_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "694b71a3537d",
-          "title": "Kimi带起的这场竞赛，到不了AGI",
-          "desc": "不直接冲向AGI，却不断测绘其边界。",
-          "source": "36氪",
-          "date": "2026-07-27",
-          "dateLabel": "7月27日",
-          "tags": [
-            "model",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3913825502762885",
-          "image": "https://img.36krcdn.com/hsossms/20260727/v2_000aea74f36f47d39b9aa245f2bc1526@85002653_oswg724367oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "ddd1fe165d5b",
-          "title": "Reddit后悔，谷歌的6000万美元买路钱有点烫手",
-          "desc": "AI聊天机器人与Reddit，其实属于是同业竞争。",
-          "source": "36氪",
-          "date": "2026-07-27",
-          "dateLabel": "7月27日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://36kr.com/p/3913786107778183",
-          "image": "https://img.36krcdn.com/hsossms/20260727/v2_f3b1723ca8734e5786cced2d2936504d@5888275@ai_oswg935365oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "136352023550",
-          "title": "一句话搭出9人旅行网站，奥特曼：ChatGPT Work名字起小了",
-          "desc": "手机成了智能体的遥控器",
-          "source": "36氪",
-          "date": "2026-07-27",
-          "dateLabel": "7月27日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://36kr.com/p/3913707512812935",
-          "image": "https://img.36krcdn.com/hsossms/20260727/v2_fc6707b3090e4aa7b68b9dd49fcc35a0@5888275@ai_oswg917230oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "34bd6f6c7512",
-          "title": "不做加法做减法，可能会是智能眼镜的新出路",
-          "desc": "芯片匮乏的情况下，削弱实用价值或许是个好选择。",
-          "source": "36氪",
-          "date": "2026-07-27",
-          "dateLabel": "7月27日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3913785998808194",
-          "image": "https://img.36krcdn.com/hsossms/20260727/v2_4929cf06bfe34c3c84d1ced1c8bdade9@5888275@ai_oswg917138oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "7c3eb547ae3a",
-          "title": "宁德时代的第三增长曲线，离不开 AI",
-          "desc": "To C 认知，也越来越重要了。",
-          "source": "36氪",
-          "date": "2026-07-27",
-          "dateLabel": "7月27日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3913757893973888",
-          "image": "https://img.36krcdn.com/hsossms/20260727/v2_1f29586187154191803abb77b516e207@5888275@ai_oswg875216oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -3046,6 +2962,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-08-29 16:37",
-  "totalNews": 192
+  "updateTime": "2026-08-30 15:51",
+  "totalNews": 186
 }
