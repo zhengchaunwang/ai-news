@@ -1,6 +1,132 @@
 {
   "newsData": [
     {
+      "date": "2026-08-31",
+      "dateLabel": "8月31日",
+      "id": "d31",
+      "items": [
+        {
+          "id": "f8d3c72e378e",
+          "title": "「GPT-6」灰测demo刷屏！周四发布在即",
+          "desc": "核弹爆炸",
+          "source": "量子位",
+          "date": "2026-08-31",
+          "dateLabel": "8月31日",
+          "tags": [
+            "model",
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/08/481893.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "5731c188ad58",
+          "title": "OpenAI买几万台Mac搞强化训练！英伟达的活被苹果抢了",
+          "desc": "什么样的AI业务，英伟达GPU和谷歌TPU搞不定，非得用Mac",
+          "source": "量子位",
+          "date": "2026-08-31",
+          "dateLabel": "8月31日",
+          "tags": [
+            "research",
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/08/481759.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "12c4fdfc7dd1",
+          "title": "全国第三，公司第二，“初创黑马”灵犀智涌用ROSS Harness把机器人送进工业具身智能第一梯队",
+          "desc": "灵犀智涌用一台由Demo级本体组装而成的机器人，成为工业场景赛除行业头部企业外唯一获奖的机器人公司。",
+          "source": "量子位",
+          "date": "2026-08-31",
+          "dateLabel": "8月31日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.qbitai.com/2026/08/481750.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "ef24072af190",
+          "title": "AQuA：让量化研究 Agent 持续进化，也让回测结果经得起检验",
+          "desc": "自主研究系统的上限，不只取决于模型有多聪明，也取决于系统能否分辨什么是新证据，什么只是一次偶然的高分。",
+          "source": "量子位",
+          "date": "2026-08-31",
+          "dateLabel": "8月31日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.qbitai.com/2026/08/481475.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "bbd7104b59b8",
+          "title": "鸿蒙智行智界 RX 轿跑 SUV 官宣开展 L3 级自动驾驶准入测试",
+          "desc": "IT之家 8 月 31 日消息，在鸿蒙智行智界汽车的智界 RX 安全科技全解读直播活动中，智界汽车产品经理李鑫悦透露，智界 RX 已开展 L3 级自动驾驶准入测试。在 8 月 20 日的享界 G9 及鸿蒙智行新品发布会上，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东宣布，智界 RX 搭载面向未来的 L3 级自动驾驶架构设计。据IT之家了解，该车定位全新轿跑 SUV，基于华为途灵平",
+          "source": "IT之家",
+          "date": "2026-08-31",
+          "dateLabel": "8月31日",
+          "tags": [
+            "research",
+            "business",
+            "policy",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/996/545.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/a61581d4-a3a6-4f5b-baf9-22b3029a32d7.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "3be158fe25bc",
+          "title": "工信部：加大大模型、智能体、Token 等服务采购力度",
+          "desc": "IT之家 8 月 31 日消息，今日，工业和信息化部办公厅发布关于开展人工智能应用服务商培育专项行动的通知。IT之家附全文如下：人工智能应用服务商（以下简称服务商）是指围绕用户单位智能化需求，提供人工智能解决方案咨询规划、交付实施、运营管理、安全治理等服务的企业或机构。为深入贯彻党中央、国务院决策部署，落实《国务院关于深入实施“人工智能 +”行动的意见》中“培育人工智能应用服务商”“打造人工智能应",
+          "source": "IT之家",
+          "date": "2026-08-31",
+          "dateLabel": "8月31日",
+          "tags": [
+            "model",
+            "business",
+            "policy"
+          ],
+          "url": "https://www.ithome.com/0/996/543.htm",
+          "image": "",
+          "color": "#d97706"
+        },
+        {
+          "id": "ca44a73bbb10",
+          "title": "更简洁、更快速，微软 Win11 八月可选更新 KB5120998 带来新版搜索功能",
+          "desc": "IT之家 8 月 31 日消息，Windows 11 的 8 月可选更新带来了不少用户期待已久的改进，其中包括全新的搜索功能。用户终于可以摆脱 Bing 和 Copilot 搜索结果，现在界面更简洁，速度也更快。不过，对于大多数用户来说，这项功能不会在安装更新后立即启用。微软目前正在分阶段推送，而由于这本身还是一次可选更新，很多用户甚至不会主动安装它。如何获得更简洁、更快速的新版 Windows ",
+          "source": "IT之家",
+          "date": "2026-08-31",
+          "dateLabel": "8月31日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/996/541.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/9abeba62-83c7-4cb2-88d3-6ac2e997c6eb.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "c654910302cf",
+          "title": "安伯尼克 Anbernic RG 55G1 掌机发布：骁龙 G1 Gen 2 芯片，899 元起",
+          "desc": "IT之家 8 月 31 日消息，安伯尼克 Anbernic 现已推出 RG 55G1 掌机，新机 4GB+64GB 版本首发售价 899 元，8GB+128GB 版首发到手价 1049 元。从外观来看，这款掌机明显致敬了任天堂 Switch Lite。新机搭载骁龙 G1 Gen 2 芯片，并配备主动散热系统。规格方面，这款掌机配备 5.5 英寸 IPS 面板，采用 16:9 比例，分辨率为 108",
+          "source": "IT之家",
+          "date": "2026-08-31",
+          "dateLabel": "8月31日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/996/536.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/cf1161cb-b012-4dcb-9655-47871697c69d.png",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-08-30",
       "dateLabel": "8月30日",
       "id": "d30",
@@ -217,20 +343,6 @@
             "business"
           ],
           "url": "https://www.qbitai.com/2026/08/480855.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "df5c934b0bc0",
-          "title": "32GB大显存加持，英特尔锐炫Pro B70搞定AI漫剧创作",
-          "desc": "从剧本到成片",
-          "source": "量子位",
-          "date": "2026-08-29",
-          "dateLabel": "8月29日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://www.qbitai.com/2026/08/480787.html",
           "image": "",
           "color": "#7c3aed"
         }
@@ -2811,132 +2923,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-07-28",
-      "dateLabel": "7月28日",
-      "id": "d28",
-      "items": [
-        {
-          "id": "7854ddd718f7",
-          "title": "36氪研究院 | 2026年中国智能硬件行业发展研究报告",
-          "desc": "AI原生引领代际跃迁，全场景释放产业动能",
-          "source": "36氪",
-          "date": "2026-07-28",
-          "dateLabel": "7月28日",
-          "tags": [
-            "research",
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3915066350327176",
-          "image": "https://img.36krcdn.com/hsossms/20260728/v2_fcd298b616714c09960ebfea94949cb9@12547972_oswg515175oswg600oswg400_img_png",
-          "color": "#2563eb"
-        },
-        {
-          "id": "582ad5899343",
-          "title": "从跟跑到定义：中国机器人凭什么站上《时代》封面",
-          "desc": "时隔八年，中国机器人产业从跟跑到定义实现跨越。",
-          "source": "36氪",
-          "date": "2026-07-28",
-          "dateLabel": "7月28日",
-          "tags": [
-            "research",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3915243041664392",
-          "image": "https://img.36krcdn.com/hsossms/20260728/v2_c0b12643dece4a8ba1f01205b8833af9@000000@ai_oswg347352oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "08fe8d3e709a",
-          "title": "比「算力荒」更致命，「数据荒」正在带来灾难？",
-          "desc": "比GPU更难跨越的，是具身智能面前的“数据天堑”",
-          "source": "36氪",
-          "date": "2026-07-28",
-          "dateLabel": "7月28日",
-          "tags": [
-            "research",
-            "business"
-          ],
-          "url": "https://36kr.com/p/3915157826295171",
-          "image": "https://img.36krcdn.com/hsossms/20260728/v2_5e97940483cc476e994a76e1074df185@000000@ai_oswg214911oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "006b0eab60d0",
-          "title": "K3 2.8万亿参数封神，Kimi凭啥碾压海外巨头？",
-          "desc": "另类AI生存路",
-          "source": "36氪",
-          "date": "2026-07-28",
-          "dateLabel": "7月28日",
-          "tags": [
-            "model",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3915119126140549",
-          "image": "https://img.36krcdn.com/hsossms/20260728/v2_cfed3546d8ee4f6986331cba85ca7454@1743780481@ai_oswg1084499oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "c9cf57d831b4",
-          "title": "豆包搜索，走出了豆包",
-          "desc": "把搜索能力开放给Agent了",
-          "source": "量子位",
-          "date": "2026-07-28",
-          "dateLabel": "7月28日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/07/461961.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "854255ce6b40",
-          "title": "Kimi K3、Unlimited OCR包揽全球前二，中国开源模型持续刷屏海外",
-          "desc": "Kimi K3、Unlimited OCR包揽全球前二，中国开源模型持续刷屏海外",
-          "source": "量子位",
-          "date": "2026-07-28",
-          "dateLabel": "7月28日",
-          "tags": [
-            "model",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/07/461949.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "bb3f1b8a2a28",
-          "title": "当AI学会“仿真思维”，教师才能回归育人本质",
-          "desc": "从“工具效率”到“认知理解”，教育AI进入深水区",
-          "source": "量子位",
-          "date": "2026-07-28",
-          "dateLabel": "7月28日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/07/461939.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "5d346f416291",
-          "title": "Ilya获黄仁勋50亿美元押注：“是时候Scaling了”",
-          "desc": "迷人的Scaling曲线",
-          "source": "量子位",
-          "date": "2026-07-28",
-          "dateLabel": "7月28日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/07/461911.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -2962,6 +2948,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-08-30 15:51",
-  "totalNews": 186
+  "updateTime": "2026-08-31 16:05",
+  "totalNews": 185
 }
