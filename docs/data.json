@@ -1,10 +1,192 @@
 {
   "newsData": [
     {
+      "date": "2026-09-02",
+      "dateLabel": "9月2日",
+      "id": "d02",
+      "items": [
+        {
+          "id": "fc3d40c8cf43",
+          "title": "企业级Agent落地样板间！百融硅基员工批量上岗，按结果领工资",
+          "desc": "AI客服日扛1.5万通电话",
+          "source": "量子位",
+          "date": "2026-09-02",
+          "dateLabel": "9月2日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/09/482967.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "893c346b4069",
+          "title": "Claude最强Fable 5.1发布！8项屠榜，最高降价45%，反蒸馏机制上线",
+          "desc": "无论你此前让Claude处理什么任务，Fable 5.1都能做更多，并且把最难的部分完成得更出色",
+          "source": "量子位",
+          "date": "2026-09-02",
+          "dateLabel": "9月2日",
+          "tags": [
+            "model",
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/09/482652.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "3113d4d7cee8",
+          "title": "香港首个真实开放场景服务机器人落地兰桂坊",
+          "desc": "在香港兰桂坊，一位特殊的“酒保”正式上岗",
+          "source": "量子位",
+          "date": "2026-09-02",
+          "dateLabel": "9月2日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.qbitai.com/2026/09/482855.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "83fd4cab2f12",
+          "title": "巨简单，更懂家！海信JUOS正式发布：行业首个家庭智能伴侣级AIOS",
+          "desc": "8月31日，海信正式发布行业首个家庭智能伴侣级AIOS——海信JUOS。",
+          "source": "量子位",
+          "date": "2026-09-02",
+          "dateLabel": "9月2日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/09/482699.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "5cc6615d157a",
+          "title": "李飞飞发布：全球首个多模态世界模型",
+          "desc": "一张图补全3D世界，还能给机器人造训练场",
+          "source": "量子位",
+          "date": "2026-09-02",
+          "dateLabel": "9月2日",
+          "tags": [
+            "research",
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/09/482586.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "5b7343027346",
+          "title": "AI 大模型周榜：国产 GLM-5.3-Flash 首秀杀进代码榜前十，千问 3.8-Max 登顶前端榜",
+          "desc": "IT之家 9 月 2 日消息，Arena（arena.ai）平台发布 2026 年第 35 周（8 月 24 日 ~8 月 30 日）AI 大模型盲测排行榜，本期有多款国产新模型亮相，且取得亮眼排名。国产 GLM-5.3-Flash 首次进入代码榜 Top 10，Qwen3.8-Max-0902 首次入榜即登顶前端开发榜榜首，Kimi-K3-Max 稳定守住综合榜 Top 10 位置，整体来看国产",
+          "source": "IT之家",
+          "date": "2026-09-02",
+          "dateLabel": "9月2日",
+          "tags": [
+            "model",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/997/432.htm",
+          "image": "",
+          "color": "#d97706"
+        },
+        {
+          "id": "06edeebb6734",
+          "title": "阿里云企业级 Agent 协作平台“万有无界”开启公测",
+          "desc": "IT之家 9 月 2 日消息，据阿里云官方消息，今日，阿里云旗下企业级人与 Agent 协作平台“万有无界”开启公测。企业用户和个人用户均可通过官网 (https://www.qianwenai.com/agents/wanyou) 注册体验，可调用阿里最新旗舰模型 Qwen3.8-Max。据介绍，万有无界是一个多角色 Agent 协作工作台。与让单一 AI Agent 大包大揽不同，它把一件复杂",
+          "source": "IT之家",
+          "date": "2026-09-02",
+          "dateLabel": "9月2日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/997/434.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/f71fa912-3ea3-468e-b18c-14f20670e50c.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "9108500d93d8",
+          "title": "台电 T60 Mini 平板海外亮相：紫光展锐 T7300 芯片、8.8 英寸 90Hz 屏幕",
+          "desc": "IT之家 9 月 2 日消息，台电 T60 Mini 平板电脑现已在日本市场亮相，新品采用 8.8 英寸屏幕，支持 4G LTE 移动数据网络。IT之家了解到，这款平板采用小巧设计，机身厚度约 8mm，重约 324g，配备 8.8 英寸屏幕，分辨率为 2560*1600，支持 90Hz 高刷。硬件方面，该机搭载紫光展锐 T7300 芯片，采用 6nm 制程工艺、八核心架构，最高主频可达 2.2GH",
+          "source": "IT之家",
+          "date": "2026-09-02",
+          "dateLabel": "9月2日",
+          "tags": [
+            "research",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/997/433.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/5c21da97-00e3-4595-8a8a-0cb1d86e4e92.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-09-01",
       "dateLabel": "9月1日",
       "id": "d01",
       "items": [
+        {
+          "id": "09b255a10576",
+          "title": "3秒出片比播放还快，MiniMax打开了AI视频的实时商业化路径",
+          "desc": "3秒出片比播放还快，MiniMax打开了AI视频的实时商业化路径",
+          "source": "量子位",
+          "date": "2026-09-01",
+          "dateLabel": "9月1日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/09/482512.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "14834a0c514c",
+          "title": "GitHub最热架构图Agent，开发者故事看哭了",
+          "desc": "美观且支持实时更新的架构图，也能用AI一键生成了！",
+          "source": "量子位",
+          "date": "2026-09-01",
+          "dateLabel": "9月1日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.qbitai.com/2026/09/482469.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "208ed80c0f99",
+          "title": "急急急用电！马斯克开造燃气轮机叶片",
+          "desc": "SpaceX正在德克萨斯州筹备燃气轮机叶片铸造工厂",
+          "source": "量子位",
+          "date": "2026-09-01",
+          "dateLabel": "9月1日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/09/482451.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "9c8b127665ab",
+          "title": "A社化身A割！Claude官宣永久提额25%，结果到手反而少17%",
+          "desc": "主打一个明升暗降，理直气壮",
+          "source": "量子位",
+          "date": "2026-09-01",
+          "dateLabel": "9月1日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://www.qbitai.com/2026/09/482406.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
         {
           "id": "39bb2a9371b1",
           "title": "自进化WAM来了！清华AIR联手域变换提出具身In-Context Causal Learning",
@@ -19,112 +201,6 @@
           "url": "https://www.qbitai.com/2026/09/482337.html",
           "image": "",
           "color": "#7c3aed"
-        },
-        {
-          "id": "c5b167714c07",
-          "title": "AIVC只是前菜！复旦提出生命算子，统一生命建模",
-          "desc": "连发六篇Nature期刊，复旦Neolab打通全尺度生命推演",
-          "source": "量子位",
-          "date": "2026-09-01",
-          "dateLabel": "9月1日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/09/482300.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "8df6266d8c03",
-          "title": "我国专家牵头制定，全球首个腿式机器人国际标准正式发布",
-          "desc": "IT之家 9 月 1 日消息，据央视新闻援引国家标准委，由我国专家牵头制定的全球首个腿式机器人国际标准《机器人 —— 服务机器人性能规范及其试验方法第 5 部分：腿式机器人运动》近日正式发布。“腿式机器人”就是靠“腿”行走、跑跳、爬坡、越障的一类机器人（IT之家注：例如人形机器人、机器狗）。目前，这类机器人已开始承担表演、巡检、搬运、搜救等实际工作。然而，如何评价它们“走得好不好”“干得巧不巧”，",
-          "source": "IT之家",
-          "date": "2026-09-01",
-          "dateLabel": "9月1日",
-          "tags": [
-            "research",
-            "business",
-            "policy"
-          ],
-          "url": "https://www.ithome.com/0/996/961.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/4/6079a756-567b-4b71-aa8b-e75d1e00956f.jpg?x-bce-process=image/watermark,text_QUnnlJ_miJA,type_RlpMYW5UaW5nSGVpU0JHQg==,size_28,color_ffffffdd,skw_1,skc_00000051,g_7,blr_50,bls_50,x_11,y_11",
-          "color": "#d97706"
-        },
-        {
-          "id": "8f667f6182ab",
-          "title": "华硕 ProArt GR1X 英伟达 RTX Spark 迷你主机 2026Q4 上市",
-          "desc": "IT之家 9 月 1 日消息，华硕 (ASUS) ProArt 官方近日表示，其基于 NVIDIA（英伟达）RTX Spark 超级芯片的 ProArt GR1X 迷你主机即将于 2026 年第 4 季度上市。ProArt GR1X 延续了该产品家族一贯的内敛优雅设计，三维 150×150×51 (mm)。其至高配备 20 核 CPU、6144 核 \"Blackwell\" GPU、128GB 共享",
-          "source": "IT之家",
-          "date": "2026-09-01",
-          "dateLabel": "9月1日",
-          "tags": [
-            "model",
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/996/960.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/8f710f41-dd09-4fea-87cf-33ca734d74be.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "1be1b02c5368",
-          "title": "韩国公布史上最大规模财政支出计划：2027 年预算达 821 万亿韩元，押注 AI 与芯片产业",
-          "desc": "IT之家 9 月 1 日消息，据路透社报道，韩国政府周二公布了迄今规模最大的财政支出计划，将 2027 年政府总支出设定为 821 万亿韩元（IT之家注：现汇率约合 4.01 万亿元人民币），希望在全球人工智能竞赛中进一步巩固韩国的科技优势。韩国预算部门在年度预算案中表示，2027 年政府支出将较 2026 年增加 12.8%，创下韩国历史上最高的年度增幅。这份预算案也体现出，在总统李在明领导下，",
-          "source": "IT之家",
-          "date": "2026-09-01",
-          "dateLabel": "9月1日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/996/950.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/3/ff981935-0ecd-4222-944f-5a5a1b43b922.jpg",
-          "color": "#d97706"
-        },
-        {
-          "id": "e7c1bd446d76",
-          "title": "比亚迪新一代 4D 毫米波雷达芯片量产：可覆盖 L2-L4 级智能驾驶应用",
-          "desc": "IT之家 9 月 1 日消息，比亚迪半导体今天（1 日）通过公众号发文宣布，以璇玑 A3 为算力中心的新一代卫星架构 4D 毫米波雷达芯片已量产。该芯片基于 28nm 车规工艺，专为满足汽车市场对高分辨率雷达系统需求设计，可无缝对接多款主流智驾芯片平台。同时，该芯片针对卫星架构设计配置了 MIPI CSI-2 高速接口，兼容多款主流串行加串器（SerDes），已完成与“璇玑 A3”智驾芯片的联调适",
-          "source": "IT之家",
-          "date": "2026-09-01",
-          "dateLabel": "9月1日",
-          "tags": [
-            "research",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/0/996/949.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/b9a689d0-d4f3-42d7-a599-d2aae1b9c0a0.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "4bd6fcb32a57",
-          "title": "机智连接推出 AI 纪要 TWS 耳机 Plaud One，内置 eSIM",
-          "desc": "IT之家 9 月 1 日消息，深圳 AI 纪要硬件企业机智连接 (Plaud) 上周宣布推出 Plaud One 耳机。这一设备主打随时随地的人工智能体验，内置 4G LTE eSIM，定价 249.99 美元（IT之家注：现汇率约合 1,684 元人民币），限量 2000 台。Plaud One 录制距离可达 5m，可记录用户的每一次对话，支持无缝调用智能体，为人工智能提供流畅连贯的上下文场景，",
-          "source": "IT之家",
-          "date": "2026-09-01",
-          "dateLabel": "9月1日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/0/996/945.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/071dbaf2-e02a-4331-8205-233550363473.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "dcb24fb8a906",
-          "title": "华硕公布 ProArt P14 笔记本规格：英伟达 RTX Spark 平台，统一内存 24GB 起步",
-          "desc": "IT之家 9 月 1 日消息，科技媒体 Wccftech 今天（9 月 1 日）发布博文，报道称华硕公布 ProArt P14 笔记本详细配置。该机搭载英伟达 RTX Spark 平台，内存从 24GB LPDDR5X 统一内存起步，最高可选 128GB。IT之家曾于今年 6 月报道，在台北电脑展 2026 期间，华硕发布 ProArt P14 笔记本，内置 Blackwell 架构 RTX GP",
-          "source": "IT之家",
-          "date": "2026-09-01",
-          "dateLabel": "9月1日",
-          "tags": [
-            "model",
-            "research",
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/996/944.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/12fab2e9-a262-4080-b3e5-6a5a3f6688db.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
         }
       ]
     },
@@ -2712,131 +2788,6 @@
           "color": "#2563eb"
         }
       ]
-    },
-    {
-      "date": "2026-07-30",
-      "dateLabel": "7月30日",
-      "id": "d30",
-      "items": [
-        {
-          "id": "eef08c383c75",
-          "title": "「马斯克」最新专访：中国很有可能会成为AI领导者",
-          "desc": "马斯克预测10年后人工智能将远远超过人类智能的总和。",
-          "source": "36氪",
-          "date": "2026-07-30",
-          "dateLabel": "7月30日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3918134271088263",
-          "image": "https://img.36krcdn.com/hsossms/20260731/v2_7815ebdb6f9a4d19b028d49a13360eb1@1743780481@ai_oswg856743oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "6c9e6a094250",
-          "title": "灵心巧手，具身卖铲人的自我修养",
-          "desc": "一家灵巧手公司的野心",
-          "source": "36氪",
-          "date": "2026-07-30",
-          "dateLabel": "7月30日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3918141239684487",
-          "image": "https://img.36krcdn.com/hsossms/20260731/v2_058f51c33bb544398acd2da568efd6d8@1743780481@ai_oswg870272oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "855d1126c054",
-          "title": "2年营收下降20亿，拓斯达再闯港股：“断臂”转型押注具身智能",
-          "desc": "砍掉低毛率业务，押注具身智能。",
-          "source": "36氪",
-          "date": "2026-07-30",
-          "dateLabel": "7月30日",
-          "tags": [
-            "research",
-            "business"
-          ],
-          "url": "https://36kr.com/p/3918034895957637",
-          "image": "https://img.36krcdn.com/hsossms/20260730/v2_0da7edabd969438b89d8b829350da7dd@5888275@ai_oswg1017499oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "150d205c9537",
-          "title": "算力冲出大气层",
-          "desc": "过去几年，国内算力几乎全部依赖地面数据中心，但地面算力面临电力、土地、带宽的多重约束，扩容空间持续收窄。一名地方发改委人士通俗地说：“原来算力都在地面跑，现在有一部分要算到天上去了。”算力，正在冲出大气层。",
-          "source": "36氪",
-          "date": "2026-07-30",
-          "dateLabel": "7月30日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3918042932915584",
-          "image": "https://img.36krcdn.com/hsossms/20260730/v2_cb7ba633fe434feda1cb07d341d9cf22@5888275@ai_oswg926023oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "c1286c72aa07",
-          "title": "SemiAnalysis：AWS、Meta推行“模块化”数据中心，建设周期压缩36%、降本8%",
-          "desc": "算力基建打响效率战！面对用工荒，数据中心正全面拥抱“模块化”。工厂预制不仅将建设工期压缩36%、资本开支降低8%，更让算力抢跑变现——提前单月交付每兆瓦即可创收50万美元。",
-          "source": "36氪",
-          "date": "2026-07-30",
-          "dateLabel": "7月30日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3918043150134913",
-          "image": "https://img.36krcdn.com/hsossms/20260730/v2_33f3932d4a1b4f5c8e1b997ff61187cf@5888275@ai_oswg1020486oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "ddca02c5616e",
-          "title": "Kimi K3公开了不少秘密，但最重要的Infra却很难抄",
-          "desc": "一个优秀的但不能直接复制的标准答案。",
-          "source": "36氪",
-          "date": "2026-07-30",
-          "dateLabel": "7月30日",
-          "tags": [
-            "model",
-            "policy",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3918081073262209",
-          "image": "https://img.36krcdn.com/hsossms/20260730/v2_7a64fc2ed24d46d3936394297649f15c@5888275@ai_oswg1032359oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "07342d2d5c0d",
-          "title": "Al，清华校友赢麻了，北大怎么样？",
-          "desc": "新的产业前沿，一直站着北大人。",
-          "source": "36氪",
-          "date": "2026-07-30",
-          "dateLabel": "7月30日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3918058934414979",
-          "image": "https://img.36krcdn.com/hsossms/20260730/v2_9910cd9a9981450ead0098602bc5d49a@5888275@ai_oswg1014463oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "10404b175eb5",
-          "title": "Claude Code之父：Harness保质期只有半年，解开缰绳吧",
-          "desc": "Claude code之父：大模型是有机生物，做好AI产品疏胜于堵",
-          "source": "量子位",
-          "date": "2026-07-30",
-          "dateLabel": "7月30日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://www.qbitai.com/2026/07/463433.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -2862,6 +2813,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-09-01 15:15",
-  "totalNews": 179
+  "updateTime": "2026-09-02 14:47",
+  "totalNews": 176
 }
