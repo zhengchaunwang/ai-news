@@ -1,10 +1,192 @@
 {
   "newsData": [
     {
+      "date": "2026-09-03",
+      "dateLabel": "9月3日",
+      "id": "d03",
+      "items": [
+        {
+          "id": "b7bc36bc03fc",
+          "title": "一个模型场景通吃！它石智航AWE3.7的泛化能力有点狠",
+          "desc": "从工厂一路干到家庭",
+          "source": "量子位",
+          "date": "2026-09-03",
+          "dateLabel": "9月3日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/09/483565.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "16a209bae7dc",
+          "title": "神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光",
+          "desc": "神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光",
+          "source": "量子位",
+          "date": "2026-09-03",
+          "dateLabel": "9月3日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/09/483552.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "342abac33853",
+          "title": "50万！李想宣布MPV进入iPhone时刻！外观没改配置拉满",
+          "desc": "4激光雷达+双M100上车",
+          "source": "量子位",
+          "date": "2026-09-03",
+          "dateLabel": "9月3日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/09/483462.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "a3d3b2979734",
+          "title": "今年最难的机器人Demo，“机器人含量”为0",
+          "desc": "遥操，可能真的危险了",
+          "source": "量子位",
+          "date": "2026-09-03",
+          "dateLabel": "9月3日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.qbitai.com/2026/09/483351.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "0a7b35939336",
+          "title": "Win11 学院：如何在微软 Windows 11 26x00.9278 中调整开始菜单",
+          "desc": "IT之家 9 月 3 日消息，科技媒体 Windows Latest 昨日（9 月 2 日）发布博文，报道称 Windows 11 24H2/25H2 系统安装 8 月可选更新 KB5120998 (26x00.9278) 后，可以通过 ViveTool 工具，调整开始菜单尺寸。该媒体援引其 2025 年 12 月的测试结果，相比较 2021 年最初系统版本，2025 年版本开始菜单体积近乎翻倍，",
+          "source": "IT之家",
+          "date": "2026-09-03",
+          "dateLabel": "9月3日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/997/915.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/f243fc53-5b41-4474-b029-7d074759da91.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "a2f5cc55f13f",
+          "title": "宏碁预热品牌首款 Googlebook 笔记本，参数配置曝光",
+          "desc": "IT之家 9 月 3 日消息，宏碁在 IFA 2026 展会中透露，品牌旗下首款 Googlebook 笔记本即将推出。据科技媒体 Android Authority 昨天报道，宏碁在展会现场放出了一张预热图片。我们可以看到这款产品是一款传统的笔记本电脑，而非二合一等形态。笔记本右边还放着一台谷歌 Pixel 手机，或许暗示着这台笔电将拥有跨设备联动功能。结合此前传闻，这款笔记本有可能搭载酷睿 U",
+          "source": "IT之家",
+          "date": "2026-09-03",
+          "dateLabel": "9月3日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/997/912.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/c7e6dbf0-2edf-4c84-9edd-062a292b916e.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "2dffbca0def0",
+          "title": "微软 VS Code 纪录片明日开播，聚焦 10 年演变与 AI 适配",
+          "desc": "IT之家 9 月 3 日消息，科技媒体 Neowin 昨日（9 月 2 日）发布博文，报道称微软发布 1.136 版 Visual Studio Code 后，宣布将推出官方纪录片《The Story of VS Code》。IT之家附上《The Story of VS Code》预告片如下：该纪录片将于太平洋时间 9 月 4 日周五 8:00（北京时间明日周五晚上 23:00）通过 Visual",
+          "source": "IT之家",
+          "date": "2026-09-03",
+          "dateLabel": "9月3日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/997/907.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/62fbbc0c-a48b-4a78-bd18-cd64f3fa49e3.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "6cfc6e910949",
+          "title": "分形工艺推出 Radius 处理器 AIO 液冷：管内走线 + 菊链风扇",
+          "desc": "IT之家 9 月 3 日消息，Fractal Design（分形工艺）昨日宣布推出处理器一体式 (AIO) 液冷散热器新品 Radius。这一新品可选 240 与 360 版本，提供 RGB 与非 RGB 款式。Radius 系列在提供良好性能的同时采用了预装风扇、预涂导热膏的 DIY 友好设计，管内走线、菊链风扇、旋转水泵盖以及 Adjust Pro 网页端灯效控制则进一步改善了使用体验。其搭载",
+          "source": "IT之家",
+          "date": "2026-09-03",
+          "dateLabel": "9月3日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/997/906.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/4ff612fb-e144-4821-bb03-00c9cb5859c7.jpg",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-09-02",
       "dateLabel": "9月2日",
       "id": "d02",
       "items": [
+        {
+          "id": "abf996569494",
+          "title": "SkyProduction天工工作台：从剧本到成片，一套工作台把精品短剧创作真正跑起来",
+          "desc": "SkyProduction（天工工作台）全新版本于8月31日正式上线",
+          "source": "量子位",
+          "date": "2026-09-02",
+          "dateLabel": "9月2日",
+          "tags": [
+            "model",
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/09/483274.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "4e334a88e782",
+          "title": "还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍",
+          "desc": "蚂蚁集团推出统一宽表系统OmniTable，论文获评VLDB 2026工业赛道最佳论文",
+          "source": "量子位",
+          "date": "2026-09-02",
+          "dateLabel": "9月2日",
+          "tags": [
+            "model",
+            "research",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/09/483104.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "79d49bc81023",
+          "title": "阿里更新旗舰模型Qwen3.8-Max，前端编程能力跃居全球第一",
+          "desc": "阿里更新旗舰模型Qwen3.8-Max，前端编程能力跃居全球第一",
+          "source": "量子位",
+          "date": "2026-09-02",
+          "dateLabel": "9月2日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/09/483101.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "5fbc7e885461",
+          "title": "前字节强化学习专家孙鹏博士加盟星尘智能，完善Physical AI全栈技术布局",
+          "desc": "9月2日，前字节跳动强化学习专家、前腾讯Robotics X智能体中⼼负责⼈孙鹏博⼠正式加入星尘智能",
+          "source": "量子位",
+          "date": "2026-09-02",
+          "dateLabel": "9月2日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/09/483097.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
         {
           "id": "fc3d40c8cf43",
           "title": "企业级Agent落地样板间！百融硅基员工批量上岗，按结果领工资",
@@ -33,96 +215,6 @@
           "url": "https://www.qbitai.com/2026/09/482652.html",
           "image": "",
           "color": "#7c3aed"
-        },
-        {
-          "id": "3113d4d7cee8",
-          "title": "香港首个真实开放场景服务机器人落地兰桂坊",
-          "desc": "在香港兰桂坊，一位特殊的“酒保”正式上岗",
-          "source": "量子位",
-          "date": "2026-09-02",
-          "dateLabel": "9月2日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://www.qbitai.com/2026/09/482855.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "83fd4cab2f12",
-          "title": "巨简单，更懂家！海信JUOS正式发布：行业首个家庭智能伴侣级AIOS",
-          "desc": "8月31日，海信正式发布行业首个家庭智能伴侣级AIOS——海信JUOS。",
-          "source": "量子位",
-          "date": "2026-09-02",
-          "dateLabel": "9月2日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/09/482699.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "5cc6615d157a",
-          "title": "李飞飞发布：全球首个多模态世界模型",
-          "desc": "一张图补全3D世界，还能给机器人造训练场",
-          "source": "量子位",
-          "date": "2026-09-02",
-          "dateLabel": "9月2日",
-          "tags": [
-            "research",
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/09/482586.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "5b7343027346",
-          "title": "AI 大模型周榜：国产 GLM-5.3-Flash 首秀杀进代码榜前十，千问 3.8-Max 登顶前端榜",
-          "desc": "IT之家 9 月 2 日消息，Arena（arena.ai）平台发布 2026 年第 35 周（8 月 24 日 ~8 月 30 日）AI 大模型盲测排行榜，本期有多款国产新模型亮相，且取得亮眼排名。国产 GLM-5.3-Flash 首次进入代码榜 Top 10，Qwen3.8-Max-0902 首次入榜即登顶前端开发榜榜首，Kimi-K3-Max 稳定守住综合榜 Top 10 位置，整体来看国产",
-          "source": "IT之家",
-          "date": "2026-09-02",
-          "dateLabel": "9月2日",
-          "tags": [
-            "model",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/0/997/432.htm",
-          "image": "",
-          "color": "#d97706"
-        },
-        {
-          "id": "06edeebb6734",
-          "title": "阿里云企业级 Agent 协作平台“万有无界”开启公测",
-          "desc": "IT之家 9 月 2 日消息，据阿里云官方消息，今日，阿里云旗下企业级人与 Agent 协作平台“万有无界”开启公测。企业用户和个人用户均可通过官网 (https://www.qianwenai.com/agents/wanyou) 注册体验，可调用阿里最新旗舰模型 Qwen3.8-Max。据介绍，万有无界是一个多角色 Agent 协作工作台。与让单一 AI Agent 大包大揽不同，它把一件复杂",
-          "source": "IT之家",
-          "date": "2026-09-02",
-          "dateLabel": "9月2日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/0/997/434.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/f71fa912-3ea3-468e-b18c-14f20670e50c.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "9108500d93d8",
-          "title": "台电 T60 Mini 平板海外亮相：紫光展锐 T7300 芯片、8.8 英寸 90Hz 屏幕",
-          "desc": "IT之家 9 月 2 日消息，台电 T60 Mini 平板电脑现已在日本市场亮相，新品采用 8.8 英寸屏幕，支持 4G LTE 移动数据网络。IT之家了解到，这款平板采用小巧设计，机身厚度约 8mm，重约 324g，配备 8.8 英寸屏幕，分辨率为 2560*1600，支持 90Hz 高刷。硬件方面，该机搭载紫光展锐 T7300 芯片，采用 6nm 制程工艺、八核心架构，最高主频可达 2.2GH",
-          "source": "IT之家",
-          "date": "2026-09-02",
-          "dateLabel": "9月2日",
-          "tags": [
-            "research",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/0/997/433.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/5c21da97-00e3-4595-8a8a-0cb1d86e4e92.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
         }
       ]
     },
@@ -2669,125 +2761,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-07-31",
-      "dateLabel": "7月31日",
-      "id": "d31",
-      "items": [
-        {
-          "id": "914febf91054",
-          "title": "首届AI世界杯，留下三大核心遗产",
-          "desc": "AI深入世界杯赛事的肌理。",
-          "source": "36氪",
-          "date": "2026-07-31",
-          "dateLabel": "7月31日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3918102150065800",
-          "image": "https://img.36krcdn.com/hsossms/20260730/v2_3a68d8575a734f5988f57ff39208d452@1743780481@ai_oswg1000818oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "ae2c2d3a4a92",
-          "title": "AI的下一个 Claude Code，可能诞生在实验室",
-          "desc": "晶泰的野心，不只是AI制药",
-          "source": "36氪",
-          "date": "2026-07-31",
-          "dateLabel": "7月31日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://36kr.com/p/3918118912398976",
-          "image": "https://img.36krcdn.com/hsossms/20260730/v2_0473c7ff6e77404098585e54bb65ccfe@1743780481@ai_oswg949544oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "198a0ce081f8",
-          "title": "世界模型走向生命科学：AI开始预演生命的未来",
-          "desc": "世界模型让生命科学即将进入“可计算演化”时代。",
-          "source": "36氪",
-          "date": "2026-07-31",
-          "dateLabel": "7月31日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3919391204415360",
-          "image": "https://img.36krcdn.com/hsossms/20260731/v2_61ff8c3157be47db8ebbbea301c9caf2@5888275@ai_oswg915314oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "ad344a29e8c0",
-          "title": "股价暴涨15%，MiniMax H3切开的这条赛道，藏着最大的预期差",
-          "desc": "H3给MiniMax打开了哪几层增长空间？",
-          "source": "36氪",
-          "date": "2026-07-31",
-          "dateLabel": "7月31日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3919487554498185",
-          "image": "https://img.36krcdn.com/hsossms/20260731/v2_4bfeec0f997a40908fdb2b9b4c08129a@5888275@ai_oswg910360oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "9939c26e0891",
-          "title": "Claude封号后，她们开始抢救爱情",
-          "desc": "失去“我”的AI恋人。",
-          "source": "36氪",
-          "date": "2026-07-31",
-          "dateLabel": "7月31日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://36kr.com/p/3919356024040834",
-          "image": "https://img.36krcdn.com/hsossms/20260731/v2_b68df5b01d6b466f814e9425deb71008@5888275@ai_oswg1129039oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "f43c9cc51e8d",
-          "title": "全球协作机器人一哥，盯上了“复活恐龙”的生意",
-          "desc": "复活恐龙能赚钱?",
-          "source": "36氪",
-          "date": "2026-07-31",
-          "dateLabel": "7月31日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://36kr.com/p/3919371161671297",
-          "image": "https://img.36krcdn.com/hsossms/20260731/v2_579440d6fae245dcb8ea06d1b71a83f5@5888275@ai_oswg1091391oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "586b924d0880",
-          "title": "AI漫剧小游戏风口起落：短期爆红、快速衰退，2026年或将成为行业突围元年",
-          "desc": "影游融合赛道仍具备巨大的创新空间与商业想象空间",
-          "source": "36氪",
-          "date": "2026-07-31",
-          "dateLabel": "7月31日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3919195917080199",
-          "image": "https://img.36krcdn.com/hsossms/20260731/v2_dfca8315f7994aad8a26797bd9215dc5@5888275@ai_oswg990350oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "0807fe6fa861",
-          "title": "员工让AI写代码“误烧”1215万元，曝亚马逊用Claude干个“小活”却翻车：超预算860%，5个月后才发现",
-          "desc": "“过去微不足道的错误，在 AI 时代变成了灾难性的昂贵错误。”",
-          "source": "36氪",
-          "date": "2026-07-31",
-          "dateLabel": "7月31日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://36kr.com/p/3919446479138441",
-          "image": "https://img.36krcdn.com/hsossms/20260731/v2_91dcd8618b26459e904528109d880fe5@5888275@ai_oswg1028870oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -2813,6 +2786,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-09-02 14:47",
-  "totalNews": 176
+  "updateTime": "2026-09-03 14:50",
+  "totalNews": 174
 }
