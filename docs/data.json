@@ -1,123 +1,220 @@
 {
   "newsData": [
     {
+      "date": "2026-09-04",
+      "dateLabel": "9月4日",
+      "id": "d04",
+      "items": [
+        {
+          "id": "63f30eb79ba8",
+          "title": "2026 上半年智能眼镜竞争加剧，雷鸟创新五榜登顶实现全品类销量领先",
+          "desc": "雷鸟创新（RayNeo）包揽全球 AR 眼镜与中国智能眼镜市场出货量和销量第一。",
+          "source": "量子位",
+          "date": "2026-09-04",
+          "dateLabel": "9月4日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/09/484159.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "73d5005536d5",
+          "title": "千问办公上线首月用户数突破 3000万，企业用户占比过半",
+          "desc": "千问办公上线首月用户数突破 3000万，企业用户占比过半",
+          "source": "量子位",
+          "date": "2026-09-04",
+          "dateLabel": "9月4日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/09/484155.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "0208ed6b3420",
+          "title": "常州女首富机器人转型才开始，先因裁应届生上了热搜",
+          "desc": "比新业务更考验一家公司的，可能是怎么对待年轻人。",
+          "source": "量子位",
+          "date": "2026-09-04",
+          "dateLabel": "9月4日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.qbitai.com/2026/09/483984.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "8f03f9e54401",
+          "title": "卡车自动驾驶里程超10亿公里，嬴彻科技定义“货运物理AI”",
+          "desc": "吃下90%市场",
+          "source": "量子位",
+          "date": "2026-09-04",
+          "dateLabel": "9月4日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/09/483598.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "9fd3e22ffa80",
+          "title": "IBM 最快量子芯片：Nighthawk r2 登场，每秒执行逾 10 万个量子线路",
+          "desc": "IT之家 9 月 4 日消息，IBM 于 8 月 31 日发布博文，宣布推出 IBM Quantum Nighthawk r2 量子处理器，是其迄今速度最快的量子处理器。IT之家援引博文介绍，该处理器拥有 120 个可编程量子比特，218 个专用耦合器和 120 个独立重置元件，合计 458 个物理量子元件，每秒可执行超过 10 万个量子电路，吞吐量是该公司 Heron 处理器的 25 倍。在设计",
+          "source": "IT之家",
+          "date": "2026-09-04",
+          "dateLabel": "9月4日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/998/404.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/7f99b4f5-0714-4395-a501-e88e0483855d.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "318a37293896",
+          "title": "工信部：支持国家级人工智能开源社区（AtomGit）发展壮大，鼓励人工智能创业企业积极参与开源生态建设",
+          "desc": "IT之家 9 月 4 日消息，今日，工业和信息化部办公厅印发《人工智能中小企业创业支持计划（2026-2028 年）》。通过三年，在行业应用、数据服务、智能算力等重点领域，培育形成一大批创新活力强、成长潜力大的人工智能创业企业，新培育科技和创新型中小企业 1 万家以上，专精特新“小巨人”企业突破 2000 家，涌现一批瞪羚企业和独角兽企业。其中提到，夯实普惠算力资源供给。依托中国算力平台推进算力资",
+          "source": "IT之家",
+          "date": "2026-09-04",
+          "dateLabel": "9月4日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/998/403.htm",
+          "image": "",
+          "color": "#d97706"
+        },
+        {
+          "id": "c4d5e85de9ae",
+          "title": "联想发布 Yoga Tab (Plus) Gen 2 平板电脑，搭载旗舰移动平台",
+          "desc": "IT之家 9 月 4 日消息，联想 (Lenovo) 当地时间 3 日在 IFA 2026 上发布了基于旗舰级移动平台的 Yoga Tab Plus Gen 2、Yoga Tab Gen 2 平板电脑。Yoga Tab Plus Gen 2Yoga Tab Plus Gen 2 采用高通骁龙 8 Elite 芯片；配备 13\" 3840×2560 144Hz 屏幕，峰值亮度 1100nits、色域",
+          "source": "IT之家",
+          "date": "2026-09-04",
+          "dateLabel": "9月4日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/998/396.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/aa9e8179-1554-4d38-9ea4-a41fed4eea9b.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "9c805fcf1a4f",
+          "title": "服役近 10 年后：谷歌助理移动端逐步停用，Gemini 全面接棒",
+          "desc": "IT之家 9 月 4 日消息，当地时间 9 月 4 日，谷歌正式启动谷歌助理（Google Assistant）移动端的退役工作，这款服役近十年的智能语音助手将逐步退出历史舞台，由新一代 AI 助手 Gemini 全面接棒。谷歌此前通过电子邮件向安卓用户宣布了这一消息。根据通知，移动设备上的 Google Assistant 服务将从 9 月 4 日起陆续停止，符合条件的安卓设备将自动切换至 Ge",
+          "source": "IT之家",
+          "date": "2026-09-04",
+          "dateLabel": "9月4日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/998/393.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/7ccc15df-125f-4d6c-9540-f813271f82da.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-09-03",
       "dateLabel": "9月3日",
       "id": "d03",
       "items": [
         {
-          "id": "b7bc36bc03fc",
-          "title": "一个模型场景通吃！它石智航AWE3.7的泛化能力有点狠",
-          "desc": "从工厂一路干到家庭",
+          "id": "cc6d515b80cc",
+          "title": "新版GPT Image 2.5已经能伪造GPT-6发布会了",
+          "desc": "改进GPT Image 2的噪点问题",
+          "source": "量子位",
+          "date": "2026-09-03",
+          "dateLabel": "9月3日",
+          "tags": [
+            "model",
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/09/483948.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "106d8e33d26b",
+          "title": "刚刚，GPT-6正式发布！OpenAI：欢迎来到AGI时代",
+          "desc": "全球最强C",
+          "source": "量子位",
+          "date": "2026-09-03",
+          "dateLabel": "9月3日",
+          "tags": [
+            "model",
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/09/483898.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "893a145441ac",
+          "title": "“没有Token的CS学生，应立即退学”",
+          "desc": "禁止古法编程、Token自费",
           "source": "量子位",
           "date": "2026-09-03",
           "dateLabel": "9月3日",
           "tags": [
             "business"
           ],
-          "url": "https://www.qbitai.com/2026/09/483565.html",
+          "url": "https://www.qbitai.com/2026/09/483839.html",
           "image": "",
           "color": "#7c3aed"
         },
         {
-          "id": "16a209bae7dc",
-          "title": "神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光",
-          "desc": "神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光",
+          "id": "4fe4a0f7a2b1",
+          "title": "腾讯WorkBuddy联名硬件来了！首批100多家伙伴入场",
+          "desc": "眼镜、耳机、麦克风都来了",
           "source": "量子位",
-          "date": "2026-09-03",
-          "dateLabel": "9月3日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/09/483552.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "342abac33853",
-          "title": "50万！李想宣布MPV进入iPhone时刻！外观没改配置拉满",
-          "desc": "4激光雷达+双M100上车",
-          "source": "量子位",
-          "date": "2026-09-03",
-          "dateLabel": "9月3日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/09/483462.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "a3d3b2979734",
-          "title": "今年最难的机器人Demo，“机器人含量”为0",
-          "desc": "遥操，可能真的危险了",
-          "source": "量子位",
-          "date": "2026-09-03",
-          "dateLabel": "9月3日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://www.qbitai.com/2026/09/483351.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "0a7b35939336",
-          "title": "Win11 学院：如何在微软 Windows 11 26x00.9278 中调整开始菜单",
-          "desc": "IT之家 9 月 3 日消息，科技媒体 Windows Latest 昨日（9 月 2 日）发布博文，报道称 Windows 11 24H2/25H2 系统安装 8 月可选更新 KB5120998 (26x00.9278) 后，可以通过 ViveTool 工具，调整开始菜单尺寸。该媒体援引其 2025 年 12 月的测试结果，相比较 2021 年最初系统版本，2025 年版本开始菜单体积近乎翻倍，",
-          "source": "IT之家",
-          "date": "2026-09-03",
-          "dateLabel": "9月3日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/997/915.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/f243fc53-5b41-4474-b029-7d074759da91.jpg",
-          "color": "#d97706"
-        },
-        {
-          "id": "a2f5cc55f13f",
-          "title": "宏碁预热品牌首款 Googlebook 笔记本，参数配置曝光",
-          "desc": "IT之家 9 月 3 日消息，宏碁在 IFA 2026 展会中透露，品牌旗下首款 Googlebook 笔记本即将推出。据科技媒体 Android Authority 昨天报道，宏碁在展会现场放出了一张预热图片。我们可以看到这款产品是一款传统的笔记本电脑，而非二合一等形态。笔记本右边还放着一台谷歌 Pixel 手机，或许暗示着这台笔电将拥有跨设备联动功能。结合此前传闻，这款笔记本有可能搭载酷睿 U",
-          "source": "IT之家",
-          "date": "2026-09-03",
-          "dateLabel": "9月3日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/997/912.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/c7e6dbf0-2edf-4c84-9edd-062a292b916e.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "2dffbca0def0",
-          "title": "微软 VS Code 纪录片明日开播，聚焦 10 年演变与 AI 适配",
-          "desc": "IT之家 9 月 3 日消息，科技媒体 Neowin 昨日（9 月 2 日）发布博文，报道称微软发布 1.136 版 Visual Studio Code 后，宣布将推出官方纪录片《The Story of VS Code》。IT之家附上《The Story of VS Code》预告片如下：该纪录片将于太平洋时间 9 月 4 日周五 8:00（北京时间明日周五晚上 23:00）通过 Visual",
-          "source": "IT之家",
           "date": "2026-09-03",
           "dateLabel": "9月3日",
           "tags": [
             "business",
             "cn"
           ],
-          "url": "https://www.ithome.com/0/997/907.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/62fbbc0c-a48b-4a78-bd18-cd64f3fa49e3.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/09/483786.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "6cfc6e910949",
-          "title": "分形工艺推出 Radius 处理器 AIO 液冷：管内走线 + 菊链风扇",
-          "desc": "IT之家 9 月 3 日消息，Fractal Design（分形工艺）昨日宣布推出处理器一体式 (AIO) 液冷散热器新品 Radius。这一新品可选 240 与 360 版本，提供 RGB 与非 RGB 款式。Radius 系列在提供良好性能的同时采用了预装风扇、预涂导热膏的 DIY 友好设计，管内走线、菊链风扇、旋转水泵盖以及 Adjust Pro 网页端灯效控制则进一步改善了使用体验。其搭载",
-          "source": "IT之家",
+          "id": "6ab7d33beaa8",
+          "title": "世界生成模型来了3D头部玩家，可进入生产管线的场景级生成时代来临！",
+          "desc": "单图直出场景，顶会最佳论文落地",
+          "source": "量子位",
+          "date": "2026-09-03",
+          "dateLabel": "9月3日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.qbitai.com/2026/09/483189.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "c1b8c523d9aa",
+          "title": "陈大年复出，入局大模型",
+          "desc": "首秀逼近DeepSeek万亿旗舰",
+          "source": "量子位",
           "date": "2026-09-03",
           "dateLabel": "9月3日",
           "tags": [
             "model",
             "cn"
           ],
-          "url": "https://www.ithome.com/0/997/906.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/4ff612fb-e144-4821-bb03-00c9cb5859c7.jpg",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/09/483600.html",
+          "image": "",
+          "color": "#7c3aed"
         }
       ]
     },
@@ -2684,83 +2781,6 @@
           "color": "#2563eb"
         }
       ]
-    },
-    {
-      "date": "2026-08-01",
-      "dateLabel": "8月1日",
-      "id": "d01",
-      "items": [
-        {
-          "id": "9d993bdd0601",
-          "title": "获奖之后，王虹最想感谢的人",
-          "desc": "\"他真的给了我很大的帮助\"",
-          "source": "量子位",
-          "date": "2026-08-01",
-          "dateLabel": "8月1日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/08/464761.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "17c709f6de73",
-          "title": "奥特曼也逃不过刷TikTok上瘾，Sora背后最抓马的一段来了",
-          "desc": "狂刷3小时！",
-          "source": "量子位",
-          "date": "2026-08-01",
-          "dateLabel": "8月1日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://www.qbitai.com/2026/08/464713.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "5870177c945c",
-          "title": "OpenAI前员工刚跑路就喊话：要套现就赶紧套，别等IPO！",
-          "desc": "对前沿实验室估值悲观",
-          "source": "量子位",
-          "date": "2026-08-01",
-          "dateLabel": "8月1日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/08/464693.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "b5f615ba2261",
-          "title": "李飞飞World Labs收购SceniX，物理AI训练正从“采数据”走向“造世界”",
-          "desc": "下一场竞争，是谁能造出更多“有用的世界”",
-          "source": "量子位",
-          "date": "2026-08-01",
-          "dateLabel": "8月1日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://www.qbitai.com/2026/08/464532.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "31736f764c20",
-          "title": "黄仁勋：不玩𝕏是我太内向，现在为AI必须站出来",
-          "desc": "三本教科书，救活英伟达",
-          "source": "量子位",
-          "date": "2026-08-01",
-          "dateLabel": "8月1日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/08/464452.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -2786,6 +2806,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-09-03 14:50",
-  "totalNews": 174
+  "updateTime": "2026-09-04 14:55",
+  "totalNews": 175
 }
