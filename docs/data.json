@@ -1,10 +1,206 @@
 {
   "newsData": [
     {
+      "date": "2026-09-05",
+      "dateLabel": "9月5日",
+      "id": "d05",
+      "items": [
+        {
+          "id": "3488ba227456",
+          "title": "陶哲轩吐槽GPT-6孪生素数新突破：令人无语的一幕",
+          "desc": "AI直接吐出正确答案，但最关键的可能不是答案",
+          "source": "量子位",
+          "date": "2026-09-05",
+          "dateLabel": "9月5日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://www.qbitai.com/2026/09/484649.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "602f1c57c57b",
+          "title": "这个世界模型训练完就“退场”，机器人反而更能干了",
+          "desc": "如此“反骨”的方法，具体又是怎么实现的？",
+          "source": "量子位",
+          "date": "2026-09-05",
+          "dateLabel": "9月5日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.qbitai.com/2026/09/484611.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "28bd01090047",
+          "title": "姚班校友主导，Claude攻克费马大定理首个完整形式化证明",
+          "desc": "最后靠Harness救回来",
+          "source": "量子位",
+          "date": "2026-09-05",
+          "dateLabel": "9月5日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://www.qbitai.com/2026/09/484551.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "f8eac8bdb508",
+          "title": "高通第六代骁龙 8 超级至尊版芯片样品曝光：主频冲至 5068MHz",
+          "desc": "IT之家 9 月 5 日消息，消息源 @Nonx_Official 昨日（9 月 4 日）在 B 站发帖，分享了一组截图，展示了基于 SM8975 的 QRD 测试单元的设备信息硬件。IT之家曾于 8 月 21 日报道，SM8975 对应高通 Snapdragon 8 Elite Extreme Gen6，上市后预估名为“第六代骁龙 8 超级至尊版”。根据曝光的信息显示，高通第六代骁龙 8 超级至",
+          "source": "IT之家",
+          "date": "2026-09-05",
+          "dateLabel": "9月5日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/998/741.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/36ce6644-fc52-47b0-9c3f-0b27e5b8a29f.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "85ede9e60dc4",
+          "title": "三星 Galaxy S27 手机首发：Exynos 2700 芯片跑分曝光，10 核 CPU 设计",
+          "desc": "IT之家 9 月 5 日消息，科技媒体 sammyfans 昨日（9 月 4 日）发布博文，报道称三星 Exynos 2,700 工程样片 GeekBench 跑分曝光，6.7.1 版本单核成绩为 4,328 分，多核成绩为 14,700 分。IT之家注：上述跑分来自内部 Geekbench 6 跑分列表，在公开数据库中仅有 1 条 4 月上传的记录，6.6.0 版本单核成绩为 2,603 分，多",
+          "source": "IT之家",
+          "date": "2026-09-05",
+          "dateLabel": "9月5日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/998/735.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/b3039d3c-c906-4a8d-88a8-d1a7784b0feb.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "4169a3e26837",
+          "title": "恐影响学生引用 / 教师查重：微软 10 月停运 Word 的 Bing 文本联网比对功能",
+          "desc": "IT之家 9 月 5 日消息，科技媒体 Neowin 昨日（9 月 4 日）发布博文，报道称微软官宣 2026 年 10 月 3 日停用 Microsoft Word 中的“相似度检查器”（Similarity Checker）功能。该功能于 2020 年 7 月上线，隶属于 Microsoft Editor 体验，主要基于 Bing 搜索，对比文档内容与在线来源，帮助用户识别可能与其他网页内容相",
+          "source": "IT之家",
+          "date": "2026-09-05",
+          "dateLabel": "9月5日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/998/727.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/22ac1329-cfd6-4c4d-b613-579d6f019936.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "8e6a5f40448f",
+          "title": "上海警方破获《三角洲行动》OBS / OBX-AI 外挂案，腾讯安全团队协助抓获 2 名犯罪嫌疑人",
+          "desc": "IT之家 9 月 5 日消息，腾讯昨日发文宣布，在《三角洲行动》及腾讯游戏安全团队协助下，上海警方赴辽宁丹东开展收网行动，成功抓获 OBS / OBX-AI 两款游戏外挂的开发作者及总代理，现场查获外挂源代码。目前，上海警方已依法对上述 2 名犯罪嫌疑人采取刑事强制措施。据介绍，该作者利用公开网络上的开源代码进行非法加工、编译，制作了 OBS 和 OBX-AI 两款游戏外挂程序。外挂总代理随后通过",
+          "source": "IT之家",
+          "date": "2026-09-05",
+          "dateLabel": "9月5日",
+          "tags": [
+            "business",
+            "policy",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/998/725.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/5862dc5f-25ca-48eb-a67b-050ede519397.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "3420bfde055a",
+          "title": "鸿蒙座舱车机芯片阶段性短缺，华境汽车就华境 S 交付延期而道歉",
+          "desc": "IT之家 9 月 5 日消息，华境汽车今日发布官方说明，就旗下首款车型华境 S 的交付周期调整向用户作出解释。华境汽车表示，由于行业芯片供应链波动，华境 S 鸿蒙座舱配套车机芯片出现阶段性供货紧缺，导致部分用户订单交付周期有所延长。针对此次交付延长的原因，华境汽车在说明中表示，生产制造能力已全面就绪，但对行业整体芯片供给挑战的预判和预案不够充分。目前华境 S 已启动专项保供工作，包括与核心合作伙伴",
+          "source": "IT之家",
+          "date": "2026-09-05",
+          "dateLabel": "9月5日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/998/701.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/bac2aa1b-4984-4bfa-9644-a16d0e911391.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-09-04",
       "dateLabel": "9月4日",
       "id": "d04",
       "items": [
+        {
+          "id": "d08e8ca7bcee",
+          "title": "趋境科技与摩尔线程达成战略合作，高品质 AI Token 国产异构方案性价比超越国际先进算力",
+          "desc": "国产卡跑出高品质 AI Token 生产级性能",
+          "source": "量子位",
+          "date": "2026-09-04",
+          "dateLabel": "9月4日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/09/484547.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "9240b6fc8257",
+          "title": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
+          "desc": "星尘智能（Astribot） 基座模型团队发布能异步执行的在线强化学习框架 SmoothRL",
+          "source": "量子位",
+          "date": "2026-09-04",
+          "dateLabel": "9月4日",
+          "tags": [
+            "model",
+            "research",
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/09/484437.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "0eb80d375c39",
+          "title": "九问ScienceDiscovery实现树搜索驱动RSI，加速科学发现，小时级写出通用积分器，低成本找出物理科学规律",
+          "desc": "不训练模型、不调参数",
+          "source": "量子位",
+          "date": "2026-09-04",
+          "dateLabel": "9月4日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.qbitai.com/2026/09/484293.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "a8afa7609f0f",
+          "title": "金融AI的年度大考交卷了：2万名选手、30+家机构、百亿级数据开源",
+          "desc": "5000支队伍同台做题，写尽行业四年变化",
+          "source": "量子位",
+          "date": "2026-09-04",
+          "dateLabel": "9月4日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/09/484203.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "070418aa6461",
+          "title": "李飞飞刚发Atlas，中国开源“同款”已抢跑半年？",
+          "desc": "智能不只是模式识别，更是对世界的建模",
+          "source": "量子位",
+          "date": "2026-09-04",
+          "dateLabel": "9月4日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/09/484163.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
         {
           "id": "63f30eb79ba8",
           "title": "2026 上半年智能眼镜竞争加剧，雷鸟创新五榜登顶实现全品类销量领先",
@@ -33,93 +229,6 @@
           "url": "https://www.qbitai.com/2026/09/484155.html",
           "image": "",
           "color": "#7c3aed"
-        },
-        {
-          "id": "0208ed6b3420",
-          "title": "常州女首富机器人转型才开始，先因裁应届生上了热搜",
-          "desc": "比新业务更考验一家公司的，可能是怎么对待年轻人。",
-          "source": "量子位",
-          "date": "2026-09-04",
-          "dateLabel": "9月4日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://www.qbitai.com/2026/09/483984.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "8f03f9e54401",
-          "title": "卡车自动驾驶里程超10亿公里，嬴彻科技定义“货运物理AI”",
-          "desc": "吃下90%市场",
-          "source": "量子位",
-          "date": "2026-09-04",
-          "dateLabel": "9月4日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/09/483598.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "9fd3e22ffa80",
-          "title": "IBM 最快量子芯片：Nighthawk r2 登场，每秒执行逾 10 万个量子线路",
-          "desc": "IT之家 9 月 4 日消息，IBM 于 8 月 31 日发布博文，宣布推出 IBM Quantum Nighthawk r2 量子处理器，是其迄今速度最快的量子处理器。IT之家援引博文介绍，该处理器拥有 120 个可编程量子比特，218 个专用耦合器和 120 个独立重置元件，合计 458 个物理量子元件，每秒可执行超过 10 万个量子电路，吞吐量是该公司 Heron 处理器的 25 倍。在设计",
-          "source": "IT之家",
-          "date": "2026-09-04",
-          "dateLabel": "9月4日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/998/404.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/7f99b4f5-0714-4395-a501-e88e0483855d.png",
-          "color": "#d97706"
-        },
-        {
-          "id": "318a37293896",
-          "title": "工信部：支持国家级人工智能开源社区（AtomGit）发展壮大，鼓励人工智能创业企业积极参与开源生态建设",
-          "desc": "IT之家 9 月 4 日消息，今日，工业和信息化部办公厅印发《人工智能中小企业创业支持计划（2026-2028 年）》。通过三年，在行业应用、数据服务、智能算力等重点领域，培育形成一大批创新活力强、成长潜力大的人工智能创业企业，新培育科技和创新型中小企业 1 万家以上，专精特新“小巨人”企业突破 2000 家，涌现一批瞪羚企业和独角兽企业。其中提到，夯实普惠算力资源供给。依托中国算力平台推进算力资",
-          "source": "IT之家",
-          "date": "2026-09-04",
-          "dateLabel": "9月4日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/0/998/403.htm",
-          "image": "",
-          "color": "#d97706"
-        },
-        {
-          "id": "c4d5e85de9ae",
-          "title": "联想发布 Yoga Tab (Plus) Gen 2 平板电脑，搭载旗舰移动平台",
-          "desc": "IT之家 9 月 4 日消息，联想 (Lenovo) 当地时间 3 日在 IFA 2026 上发布了基于旗舰级移动平台的 Yoga Tab Plus Gen 2、Yoga Tab Gen 2 平板电脑。Yoga Tab Plus Gen 2Yoga Tab Plus Gen 2 采用高通骁龙 8 Elite 芯片；配备 13\" 3840×2560 144Hz 屏幕，峰值亮度 1100nits、色域",
-          "source": "IT之家",
-          "date": "2026-09-04",
-          "dateLabel": "9月4日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/0/998/396.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/aa9e8179-1554-4d38-9ea4-a41fed4eea9b.png",
-          "color": "#d97706"
-        },
-        {
-          "id": "9c805fcf1a4f",
-          "title": "服役近 10 年后：谷歌助理移动端逐步停用，Gemini 全面接棒",
-          "desc": "IT之家 9 月 4 日消息，当地时间 9 月 4 日，谷歌正式启动谷歌助理（Google Assistant）移动端的退役工作，这款服役近十年的智能语音助手将逐步退出历史舞台，由新一代 AI 助手 Gemini 全面接棒。谷歌此前通过电子邮件向安卓用户宣布了这一消息。根据通知，移动设备上的 Google Assistant 服务将从 9 月 4 日起陆续停止，符合条件的安卓设备将自动切换至 Ge",
-          "source": "IT之家",
-          "date": "2026-09-04",
-          "dateLabel": "9月4日",
-          "tags": [
-            "model",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/0/998/393.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/7ccc15df-125f-4d6c-9540-f813271f82da.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
         }
       ]
     },
@@ -2661,126 +2770,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-08-02",
-      "dateLabel": "8月2日",
-      "id": "d02",
-      "items": [
-        {
-          "id": "8b0fd214059c",
-          "title": "从吴启华到王祖贤，AI肖像授权这门生意没那么简单",
-          "desc": "商业前景大好，法律权责边界仍需要厘清。",
-          "source": "36氪",
-          "date": "2026-08-02",
-          "dateLabel": "8月2日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3922163449097858",
-          "image": "https://img.36krcdn.com/hsossms/20260802/v2_fce0c0c9c15b43d38b0ce66481fe290c@000000@ai_oswg355069oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "700ea83de2cc",
-          "title": "从TPU到自我进化的Agent，Jeff Dean如何判断AI的下一步",
-          "desc": "当 AI 成为初级工程师，真正稀缺的是什么",
-          "source": "36氪",
-          "date": "2026-08-02",
-          "dateLabel": "8月2日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3921921512205699",
-          "image": "https://img.36krcdn.com/hsossms/20260802/v2_f36480b1fdbc4ce8abb5914720c692f5@000000@ai_oswg312999oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "b840ddc3b336",
-          "title": "OpenAI官宣下一代模型Astra，取得10大未解难题突破，附249页论文",
-          "desc": "相关问题均已开放至少10年，且核心结论长期没有进展。",
-          "source": "36氪",
-          "date": "2026-08-02",
-          "dateLabel": "8月2日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://36kr.com/p/3921831591341702",
-          "image": "https://img.36krcdn.com/hsossms/20260802/v2_551aca06b64a49deb83624793a57422b@000000@ai_oswg225273oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "5e1cdf2102f0",
-          "title": "2026，千问元宝静悄悄",
-          "desc": "AI下半场，大厂不拼嗓门拼生态。",
-          "source": "36氪",
-          "date": "2026-08-02",
-          "dateLabel": "8月2日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3922299713498759",
-          "image": "https://img.36krcdn.com/hsossms/20260802/v2_1b31cf5604e047c3a1fe68fe61a04150@000000@ai_oswg369319oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "18f1d73af499",
-          "title": "MiniMax H3、Seedance 2.5、DeepSeek V4全来了，国产大模型今天有点忙",
-          "desc": "7月的最后一天，AI圈也没闲着。",
-          "source": "36氪",
-          "date": "2026-08-02",
-          "dateLabel": "8月2日",
-          "tags": [
-            "model",
-            "cn"
-          ],
-          "url": "https://36kr.com/p/3922353035433603",
-          "image": "https://img.36krcdn.com/hsossms/20260802/v2_308c851cadd243caa8221763a313bc06@1743780481@ai_oswg922901oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "9ed8571a962f",
-          "title": "谁在制造AI“虚假繁荣”？",
-          "desc": "所有人都被卖了一个谎言。",
-          "source": "36氪",
-          "date": "2026-08-02",
-          "dateLabel": "8月2日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://36kr.com/p/3922380390537088",
-          "image": "https://img.36krcdn.com/hsossms/20260802/v2_74ccc36537dd4dd9a9174d7c118fe7a1@1743780481@ai_oswg920136oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-          "color": "#2563eb"
-        },
-        {
-          "id": "76e74fe43765",
-          "title": "李飞飞教机器人摸麻将挤牙膏，AI终于有“手感”了",
-          "desc": "视觉负责回答「我要做什么」，触觉负责不断修正「我现在做得对不对」",
-          "source": "36氪",
-          "date": "2026-08-02",
-          "dateLabel": "8月2日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://36kr.com/p/3921955573542533",
-          "image": "https://img.36krcdn.com/hsossms/20260802/v2_0b81332c47e14e5fb6cd8db206b55f1a@000000_oswg20148oswg724oswg308_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        },
-        {
-          "id": "b1a8dfba8130",
-          "title": "谷歌机器人整了波大活儿，要攻克「最后几厘米」的行业难题？",
-          "desc": "谷歌通用机器人模型有什么不一样？",
-          "source": "36氪",
-          "date": "2026-08-02",
-          "dateLabel": "8月2日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://36kr.com/p/3921809960425350",
-          "image": "https://img.36krcdn.com/hsossms/20260802/v2_f9d4c50501434162a2289106d111a13a@1547419282_oswg708214oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-          "color": "#2563eb"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -2806,6 +2795,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-09-04 14:55",
-  "totalNews": 175
+  "updateTime": "2026-09-05 14:40",
+  "totalNews": 174
 }
