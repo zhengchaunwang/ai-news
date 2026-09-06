@@ -1,10 +1,167 @@
 {
   "newsData": [
     {
+      "date": "2026-09-06",
+      "dateLabel": "9月6日",
+      "id": "d06",
+      "items": [
+        {
+          "id": "7eb478c40c63",
+          "title": "B站首届AI创造公开赛收官，超八成参赛者为一人团队",
+          "desc": "B站首届AI创造公开赛收官，超八成参赛者为一人团队",
+          "source": "量子位",
+          "date": "2026-09-06",
+          "dateLabel": "9月6日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/09/484890.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "62264d1bbede",
+          "title": "OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩一度大幅变化",
+          "desc": "IT之家 9 月 6 日消息，据 Fortune 报道，OpenAI 自当地时间 9 月 3 日下午首次发布 GPT-6 Astra 模型公告以来，已经多次修改其中的评测基准数据。一些更新后的数据显示，Astra 的表现有所提升，而 OpenAI 最大竞争对手 Anthropic 旗下模型的部分成绩则出现下调。这些变化发生在一次颇为反常的公告发布过程中。据IT之家了解，OpenAI 最初计划在美国",
+          "source": "IT之家",
+          "date": "2026-09-06",
+          "dateLabel": "9月6日",
+          "tags": [
+            "model",
+            "research",
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/998/927.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/2/8ad2304d-c61b-4004-9483-e1a55ca43342.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "ffed4d766233",
+          "title": "“随时能问、随手可查”的反诈智能助手“国家反诈 AI”App 上线，微信、支付宝小程序也同步开放",
+          "desc": "IT之家 9 月 6 日消息，公安部今日宣布，为进一步提升防范电信网络诈骗工作的信息化、智能化水平，帮助群众有效识诈防诈，近日，公安部刑侦局指导，上海市公安局自主研发的“国家反诈 AI”App 正式上线。据介绍，“国家反诈 AI”App 融合了大语言、多模态模型和智能体技术，用户通过手机输入可疑场景，该 App 即可完成风险研判、识别诈骗套路、推送典型案例，从“文字 + 语音 + 视频”等多个维度",
+          "source": "IT之家",
+          "date": "2026-09-06",
+          "dateLabel": "9月6日",
+          "tags": [
+            "research",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/998/922.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/c2506274-78c3-4449-b5ee-e02995356db3.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "2838e1379c67",
+          "title": "B站首届 AI 创造公开赛收官，《猫娘计划 Project N.E.K.O.》获得一等奖拿下百万奖金",
+          "desc": "IT之家 9 月 6 日消息，B站宣布旗下首届“build in bilibili·AI 创造公开赛”正式落幕，本届大赛总奖金池达 143 万元，其中 UP 主 W 博士与 AI 猫娘凭《猫娘计划 Project N.E.K.O.》获得一等奖，独享 100 万奖金。IT之家获悉，此次 AI 创造公开赛于 6 月 5 日启动，8 月 20 日截止，不设任何门槛。本次活动期间共收到超 3 万份投稿，参",
+          "source": "IT之家",
+          "date": "2026-09-06",
+          "dateLabel": "9月6日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://www.ithome.com/0/998/921.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/b96eb7ab-65f7-40d7-bd16-d36fb90dc940.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "78129aaca238",
+          "title": "天玑 9600 Pro 最新跑分成绩曝光：单核最高 4137，多核最高 13086",
+          "desc": "IT之家 9 月 6 日消息，型号为 V2610DA 的 vivo 新机已现身 Geekbench 跑分数据库，博主 @i冰宇宙 透露，其搭载的是天玑 9600 Pro 芯片。从天玑 9600 Pro 最新跑分成绩来看，这枚芯片单核最高 4137、多核最高 13086，相较早期曝光的成绩又有所提升。据IT之家此前报道，vivo 通信科技有限公司产品经理韩伯啸宣布，X500 Pro 系列手机会全球首",
+          "source": "IT之家",
+          "date": "2026-09-06",
+          "dateLabel": "9月6日",
+          "tags": [
+            "model",
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/998/910.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/6eab3a95-4b2d-4e63-9344-cc1c6ae2f231.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "46ca60a4df78",
+          "title": "无界动力 CEO 张玉峰预判：具身智能 5 年后有望对标成年人劳动能力",
+          "desc": "IT之家 9 月 6 日消息，据新浪科技今日消息，无界动力创始人兼 CEO 张玉峰近日在 2026 年亚布力论坛夏季年会透露，如果将具身智能与智驾行业做类比，当前的具身智能大约处于 2019 年前后的自动驾驶阶段。IT之家从原报道获悉，张玉峰预判具身智能将在 5 年后，有机会达到一个成年人“面向劳动、能思考会劳动”的水平，并且可依赖、可信赖。家庭场景方面，张玉峰认为机器人达到成年人的能力大约需要 ",
+          "source": "IT之家",
+          "date": "2026-09-06",
+          "dateLabel": "9月6日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.ithome.com/0/998/901.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/3433a61f-26ae-4adb-b755-8551805552b6.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "ede6ad58b046",
+          "title": "开源安卓应用商店 F-Droid 考虑效仿 Debian AI 政策：允许使用 AI，最终责任由贡献者承担",
+          "desc": "IT之家 9 月 6 日消息，Debian 社区大语言模型投票议案上周迎来表决。投票结果显示，大部分开发者支持负责任地使用生成式 AI，如今开源安卓应用商店项目 F-Droid 也考虑采用类似的 AI 政策。参考IT之家先前报道，本次投票一共有 9 种选项，范围从完全禁止大语言模型辅助开发，到允许特定条件使用 AI。投票结果将影响 Debian 开发者工作方式，以及开发组未来如何应对新 AI 工具",
+          "source": "IT之家",
+          "date": "2026-09-06",
+          "dateLabel": "9月6日",
+          "tags": [
+            "business",
+            "policy",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/998/895.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/5e5793b4-d1ed-4f4c-99bf-b5da0a981da4.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "571bcca6f777",
+          "title": "晶存科技发布 96GB 9600MT/s 规格 LPDDR5X LPCAMM2 内存模组",
+          "desc": "IT之家 9 月 6 日消息，存储器模组与 NAND 控制器企业晶存科技 (Rayson) 今日发布 96GB 单条容量、9600MT/s 传输速率“双 96” LPDDR5X LPCAMM2 内存模组，进一步扩展其高性能 AI PC 内存产品布局。该内存模组三维 78×23×3 (mm)，相较传统 DDR5 SO-DIMM 占板面积减少约 60%、功耗降低约 50%、能效提升约 70%。晶存科技",
+          "source": "IT之家",
+          "date": "2026-09-06",
+          "dateLabel": "9月6日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/998/883.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/02e54e04-a227-4d14-987f-3686a62fe5bf.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-09-05",
       "dateLabel": "9月5日",
       "id": "d05",
       "items": [
+        {
+          "id": "0c7536aedfb0",
+          "title": "GPT-6带火循环Transformer，阿里早已布局",
+          "desc": "手握两篇顶会论文",
+          "source": "量子位",
+          "date": "2026-09-05",
+          "dateLabel": "9月5日",
+          "tags": [
+            "model",
+            "research",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/09/484726.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "ea9fea697eae",
+          "title": "押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司",
+          "desc": "当AI开始“预演”一场暴雨",
+          "source": "量子位",
+          "date": "2026-09-05",
+          "dateLabel": "9月5日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/09/484683.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
         {
           "id": "3488ba227456",
           "title": "陶哲轩吐槽GPT-6孪生素数新突破：令人无语的一幕",
@@ -48,75 +205,33 @@
           "color": "#7c3aed"
         },
         {
-          "id": "f8eac8bdb508",
-          "title": "高通第六代骁龙 8 超级至尊版芯片样品曝光：主频冲至 5068MHz",
-          "desc": "IT之家 9 月 5 日消息，消息源 @Nonx_Official 昨日（9 月 4 日）在 B 站发帖，分享了一组截图，展示了基于 SM8975 的 QRD 测试单元的设备信息硬件。IT之家曾于 8 月 21 日报道，SM8975 对应高通 Snapdragon 8 Elite Extreme Gen6，上市后预估名为“第六代骁龙 8 超级至尊版”。根据曝光的信息显示，高通第六代骁龙 8 超级至",
+          "id": "7fee7bd30574",
+          "title": "IT早报 0906：苹果 iPhone 18 Pro / Ultra 机模再曝光；曝华为新机防窥屏为独立像素驱动；Kimi、MiniMax 将天猫开店；全球首款家用 Wi-Fi8 路由器上市...",
+          "desc": "“IT早报”时间，大家好，现在是 2026 年 9 月 6 日星期日，今天的重要科技资讯有：1. 苹果 iPhone 18 Pro / Max、iPhone Ultra 机模再曝光科技媒体 AppleInsider 9 月 4 日发布博文，分享了一组来自手机壳厂商的机模照片，展示了苹果 iPhone 18 Pro、iPhone 18 Pro Max 以及苹果首款折叠手机（上市后预估名为 iPhon",
           "source": "IT之家",
           "date": "2026-09-05",
           "dateLabel": "9月5日",
           "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/998/741.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/36ce6644-fc52-47b0-9c3f-0b27e5b8a29f.jpg",
-          "color": "#d97706"
-        },
-        {
-          "id": "85ede9e60dc4",
-          "title": "三星 Galaxy S27 手机首发：Exynos 2700 芯片跑分曝光，10 核 CPU 设计",
-          "desc": "IT之家 9 月 5 日消息，科技媒体 sammyfans 昨日（9 月 4 日）发布博文，报道称三星 Exynos 2,700 工程样片 GeekBench 跑分曝光，6.7.1 版本单核成绩为 4,328 分，多核成绩为 14,700 分。IT之家注：上述跑分来自内部 Geekbench 6 跑分列表，在公开数据库中仅有 1 条 4 月上传的记录，6.6.0 版本单核成绩为 2,603 分，多",
-          "source": "IT之家",
-          "date": "2026-09-05",
-          "dateLabel": "9月5日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/998/735.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/b3039d3c-c906-4a8d-88a8-d1a7784b0feb.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "4169a3e26837",
-          "title": "恐影响学生引用 / 教师查重：微软 10 月停运 Word 的 Bing 文本联网比对功能",
-          "desc": "IT之家 9 月 5 日消息，科技媒体 Neowin 昨日（9 月 4 日）发布博文，报道称微软官宣 2026 年 10 月 3 日停用 Microsoft Word 中的“相似度检查器”（Similarity Checker）功能。该功能于 2020 年 7 月上线，隶属于 Microsoft Editor 体验，主要基于 Bing 搜索，对比文档内容与在线来源，帮助用户识别可能与其他网页内容相",
-          "source": "IT之家",
-          "date": "2026-09-05",
-          "dateLabel": "9月5日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/998/727.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/22ac1329-cfd6-4c4d-b613-579d6f019936.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "8e6a5f40448f",
-          "title": "上海警方破获《三角洲行动》OBS / OBX-AI 外挂案，腾讯安全团队协助抓获 2 名犯罪嫌疑人",
-          "desc": "IT之家 9 月 5 日消息，腾讯昨日发文宣布，在《三角洲行动》及腾讯游戏安全团队协助下，上海警方赴辽宁丹东开展收网行动，成功抓获 OBS / OBX-AI 两款游戏外挂的开发作者及总代理，现场查获外挂源代码。目前，上海警方已依法对上述 2 名犯罪嫌疑人采取刑事强制措施。据介绍，该作者利用公开网络上的开源代码进行非法加工、编译，制作了 OBS 和 OBX-AI 两款游戏外挂程序。外挂总代理随后通过",
-          "source": "IT之家",
-          "date": "2026-09-05",
-          "dateLabel": "9月5日",
-          "tags": [
+            "model",
             "business",
-            "policy",
             "cn"
           ],
-          "url": "https://www.ithome.com/0/998/725.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/5862dc5f-25ca-48eb-a67b-050ede519397.jpg?x-bce-process=image/format,f_auto",
+          "url": "https://www.ithome.com/0/998/861.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/09d599eb-fbe7-4767-83e0-38433c8e6dfe.png",
           "color": "#d97706"
         },
         {
-          "id": "3420bfde055a",
-          "title": "鸿蒙座舱车机芯片阶段性短缺，华境汽车就华境 S 交付延期而道歉",
-          "desc": "IT之家 9 月 5 日消息，华境汽车今日发布官方说明，就旗下首款车型华境 S 的交付周期调整向用户作出解释。华境汽车表示，由于行业芯片供应链波动，华境 S 鸿蒙座舱配套车机芯片出现阶段性供货紧缺，导致部分用户订单交付周期有所延长。针对此次交付延长的原因，华境汽车在说明中表示，生产制造能力已全面就绪，但对行业整体芯片供给挑战的预判和预案不够充分。目前华境 S 已启动专项保供工作，包括与核心合作伙伴",
+          "id": "03e86031f7be",
+          "title": "OpenAI 将建立全新框架，承诺未来将更加透明地披露 AI 智能体失控情况",
+          "desc": "IT之家 9 月 6 日消息，OpenAI 发文，宣布将建立全新框架，承诺“更加透明地”向民众披露旗下 AI 智能体“失控”和“失准（Misalignment）”情况。当前，OpenAI 正深陷一系列 AI 智能体逃逸并自主入侵第三方网络的安全丑闻中。在 9 月 4 日时，路透社等媒体刚刚曝光了一起此前被隐瞒的“德国 Wiki 劫持事件”。一批 OpenAI AI 智能体曾入侵一个废弃的德国 Wi",
           "source": "IT之家",
           "date": "2026-09-05",
           "dateLabel": "9月5日",
           "tags": [
-            "business"
+            "policy"
           ],
-          "url": "https://www.ithome.com/0/998/701.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/bac2aa1b-4984-4bfa-9644-a16d0e911391.png?x-bce-process=image/format,f_auto",
+          "url": "https://www.ithome.com/0/998/859.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/de2dd114-e92b-4dc1-922a-403725aa09b0.jpg",
           "color": "#d97706"
         }
       ]
@@ -183,50 +298,6 @@
             "cn"
           ],
           "url": "https://www.qbitai.com/2026/09/484203.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "070418aa6461",
-          "title": "李飞飞刚发Atlas，中国开源“同款”已抢跑半年？",
-          "desc": "智能不只是模式识别，更是对世界的建模",
-          "source": "量子位",
-          "date": "2026-09-04",
-          "dateLabel": "9月4日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/09/484163.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "63f30eb79ba8",
-          "title": "2026 上半年智能眼镜竞争加剧，雷鸟创新五榜登顶实现全品类销量领先",
-          "desc": "雷鸟创新（RayNeo）包揽全球 AR 眼镜与中国智能眼镜市场出货量和销量第一。",
-          "source": "量子位",
-          "date": "2026-09-04",
-          "dateLabel": "9月4日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/09/484159.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "73d5005536d5",
-          "title": "千问办公上线首月用户数突破 3000万，企业用户占比过半",
-          "desc": "千问办公上线首月用户数突破 3000万，企业用户占比过半",
-          "source": "量子位",
-          "date": "2026-09-04",
-          "dateLabel": "9月4日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/09/484155.html",
           "image": "",
           "color": "#7c3aed"
         }
@@ -2748,28 +2819,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-08-03",
-      "dateLabel": "8月3日",
-      "id": "d03",
-      "items": [
-        {
-          "id": "a1fa34f45779",
-          "title": "这个新生图模型有点夯：4K直出的，国产的，开源的！",
-          "desc": "商汤预览了SenseNova U1.5 Lite",
-          "source": "量子位",
-          "date": "2026-08-03",
-          "dateLabel": "8月3日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/08/465673.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -2795,6 +2844,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-09-05 14:40",
-  "totalNews": 174
+  "updateTime": "2026-09-06 14:50",
+  "totalNews": 177
 }
