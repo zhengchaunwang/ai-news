@@ -1,10 +1,148 @@
 {
   "newsData": [
     {
+      "date": "2026-09-07",
+      "dateLabel": "9月7日",
+      "id": "d07",
+      "items": [
+        {
+          "id": "6d0caea1cfac",
+          "title": "国内首份办公Agent用户行为报告发布：北京用户量全国居首，海外用户占比超12%",
+          "desc": "9月7日，国内首份《中国办公Agent用户行为不完全报告》在京发布。",
+          "source": "量子位",
+          "date": "2026-09-07",
+          "dateLabel": "9月7日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/09/485064.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "c9170cc37b39",
+          "title": "原生全模态技术战略闭环，智象（HiDream.ai）发布具身世界模型HiDream-O1-Embodied",
+          "desc": "原生全模态技术战略闭环，智象（HiDream.ai）发布具身世界模型HiDream-O1-Embodied",
+          "source": "量子位",
+          "date": "2026-09-07",
+          "dateLabel": "9月7日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/09/485056.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "adbc0b1462ea",
+          "title": "业内首个！“千问办公”推出“多人工作台”",
+          "desc": "近日，阿里巴巴旗下Agent产品“千问办公”推出业内首个“多人工作台”。",
+          "source": "量子位",
+          "date": "2026-09-07",
+          "dateLabel": "9月7日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/09/485046.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "b01d847d9ecb",
+          "title": "产业龙头领投！中科类脑完成数亿元B+轮战略融资",
+          "desc": "产业龙头领投！中科类脑完成数亿元B+轮战略融资",
+          "source": "量子位",
+          "date": "2026-09-07",
+          "dateLabel": "9月7日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/09/485039.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "061e89935b61",
+          "title": "华为鸿蒙星河互联升级，官宣支持苹果 Apple Watch 智能手表、AirPods 无线耳机",
+          "desc": "IT之家 9 月 7 日消息，在今天的 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会上，华为终端 BG CEO 何刚宣布，华为鸿蒙星河互联升级，支持苹果 Apple Watch 智能手表、AirPods 无线耳机。在去年 10 月的发布会上，华为宣布鸿蒙 HarmonyOS 6 系统将支持与苹果 iOS 等系统的互传体验。去年 11 月，鸿蒙星河互联 App 正",
+          "source": "IT之家",
+          "date": "2026-09-07",
+          "dateLabel": "9月7日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/999/278.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/2f8fc69b-dab8-4d01-8180-1337c6863694.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "cde33fbd0e9e",
+          "title": "韩券商 KB Securities：三星电子、SK 海力士内存库存已不足 10 天",
+          "desc": "IT之家 9 月 7 日消息，韩国证券企业 KB Securities 当地时间今日分析认为，三星电子、SK 海力士的内存库存在本季度已不足 10 天，这意味着两大存储半导体龙头难以为突发性需求挤出更多供应。图源：Pexels机构预计，全球超大规模数据中心企业在 2027 年的 AI 基础设施投资规模将达 1.3 万亿美元（IT之家注：现汇率约合 8.74 万亿元人民币），同比增长 60%。而存储",
+          "source": "IT之家",
+          "date": "2026-09-07",
+          "dateLabel": "9月7日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/999/264.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/089e37cc-f969-4042-9bdc-16ac1c55deaf.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "93cf06f9491d",
+          "title": "阿里千问办公推出业内首个“多人工作台”，适用活动组织、家校协同和企业协作",
+          "desc": "IT之家 9 月 7 日消息，阿里云今日宣布千问办公推出业内首个“多人工作台”。用户简单描述需求，即可生成并发布一个最多支持百人同时在线协作的网页，承载复杂的业务流程。该功能适用于活动组织、家校协同和企业协作等场景，可解决 SaaS 软件采购成本高、定制软件开发耗时高的难题。目前，用户可从千问办公首页下方功能入口直接体验。据介绍，目前，市面上的 AI 工作台主要面向个人使用，例如生成在线简历、个人",
+          "source": "IT之家",
+          "date": "2026-09-07",
+          "dateLabel": "9月7日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/999/254.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/5e2e58f8-2d8a-4dbc-8efa-8666a56e67ce.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "2075b9875e84",
+          "title": "本土数据中心建设阻力加大，谷歌苹果等美国科技巨头将目光投向澳大利亚",
+          "desc": "IT之家 9 月 7 日消息，据彭博社报道，数据中心运营商 AirTrunk Operating Pty Ltd 表示，随着美国国内对数据中心建设的反对声音不断增加，美国科技巨头正将目光投向澳大利亚。当地相对绿色的电力结构以及毗邻亚洲市场的地理优势，正在吸引科技公司考虑在澳大利亚建设更多数据中心。总部位于悉尼的 AirTrunk 能源与公用事业副总裁萨布 · 怀特洛表示，在过去六到八个月里，公司发",
+          "source": "IT之家",
+          "date": "2026-09-07",
+          "dateLabel": "9月7日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/999/243.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/4/f0ab67e6-9e71-4d95-ac65-31fa692dae0a.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-09-06",
       "dateLabel": "9月6日",
       "id": "d06",
       "items": [
+        {
+          "id": "9fa40eb24790",
+          "title": "具身ICL来了创业玩家！上下文成Scaling新赛道",
+          "desc": "让机器人学会利用更长的多模态Context",
+          "source": "量子位",
+          "date": "2026-09-06",
+          "dateLabel": "9月6日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.qbitai.com/2026/09/484897.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
         {
           "id": "7eb478c40c63",
           "title": "B站首届AI创造公开赛收官，超八成参赛者为一人团队",
@@ -18,111 +156,6 @@
           "url": "https://www.qbitai.com/2026/09/484890.html",
           "image": "",
           "color": "#7c3aed"
-        },
-        {
-          "id": "62264d1bbede",
-          "title": "OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩一度大幅变化",
-          "desc": "IT之家 9 月 6 日消息，据 Fortune 报道，OpenAI 自当地时间 9 月 3 日下午首次发布 GPT-6 Astra 模型公告以来，已经多次修改其中的评测基准数据。一些更新后的数据显示，Astra 的表现有所提升，而 OpenAI 最大竞争对手 Anthropic 旗下模型的部分成绩则出现下调。这些变化发生在一次颇为反常的公告发布过程中。据IT之家了解，OpenAI 最初计划在美国",
-          "source": "IT之家",
-          "date": "2026-09-06",
-          "dateLabel": "9月6日",
-          "tags": [
-            "model",
-            "research",
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/998/927.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/2/8ad2304d-c61b-4004-9483-e1a55ca43342.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "ffed4d766233",
-          "title": "“随时能问、随手可查”的反诈智能助手“国家反诈 AI”App 上线，微信、支付宝小程序也同步开放",
-          "desc": "IT之家 9 月 6 日消息，公安部今日宣布，为进一步提升防范电信网络诈骗工作的信息化、智能化水平，帮助群众有效识诈防诈，近日，公安部刑侦局指导，上海市公安局自主研发的“国家反诈 AI”App 正式上线。据介绍，“国家反诈 AI”App 融合了大语言、多模态模型和智能体技术，用户通过手机输入可疑场景，该 App 即可完成风险研判、识别诈骗套路、推送典型案例，从“文字 + 语音 + 视频”等多个维度",
-          "source": "IT之家",
-          "date": "2026-09-06",
-          "dateLabel": "9月6日",
-          "tags": [
-            "research",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/0/998/922.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/c2506274-78c3-4449-b5ee-e02995356db3.jpg",
-          "color": "#d97706"
-        },
-        {
-          "id": "2838e1379c67",
-          "title": "B站首届 AI 创造公开赛收官，《猫娘计划 Project N.E.K.O.》获得一等奖拿下百万奖金",
-          "desc": "IT之家 9 月 6 日消息，B站宣布旗下首届“build in bilibili·AI 创造公开赛”正式落幕，本届大赛总奖金池达 143 万元，其中 UP 主 W 博士与 AI 猫娘凭《猫娘计划 Project N.E.K.O.》获得一等奖，独享 100 万奖金。IT之家获悉，此次 AI 创造公开赛于 6 月 5 日启动，8 月 20 日截止，不设任何门槛。本次活动期间共收到超 3 万份投稿，参",
-          "source": "IT之家",
-          "date": "2026-09-06",
-          "dateLabel": "9月6日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://www.ithome.com/0/998/921.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/b96eb7ab-65f7-40d7-bd16-d36fb90dc940.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "78129aaca238",
-          "title": "天玑 9600 Pro 最新跑分成绩曝光：单核最高 4137，多核最高 13086",
-          "desc": "IT之家 9 月 6 日消息，型号为 V2610DA 的 vivo 新机已现身 Geekbench 跑分数据库，博主 @i冰宇宙 透露，其搭载的是天玑 9600 Pro 芯片。从天玑 9600 Pro 最新跑分成绩来看，这枚芯片单核最高 4137、多核最高 13086，相较早期曝光的成绩又有所提升。据IT之家此前报道，vivo 通信科技有限公司产品经理韩伯啸宣布，X500 Pro 系列手机会全球首",
-          "source": "IT之家",
-          "date": "2026-09-06",
-          "dateLabel": "9月6日",
-          "tags": [
-            "model",
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/998/910.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/6eab3a95-4b2d-4e63-9344-cc1c6ae2f231.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "46ca60a4df78",
-          "title": "无界动力 CEO 张玉峰预判：具身智能 5 年后有望对标成年人劳动能力",
-          "desc": "IT之家 9 月 6 日消息，据新浪科技今日消息，无界动力创始人兼 CEO 张玉峰近日在 2026 年亚布力论坛夏季年会透露，如果将具身智能与智驾行业做类比，当前的具身智能大约处于 2019 年前后的自动驾驶阶段。IT之家从原报道获悉，张玉峰预判具身智能将在 5 年后，有机会达到一个成年人“面向劳动、能思考会劳动”的水平，并且可依赖、可信赖。家庭场景方面，张玉峰认为机器人达到成年人的能力大约需要 ",
-          "source": "IT之家",
-          "date": "2026-09-06",
-          "dateLabel": "9月6日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://www.ithome.com/0/998/901.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/3433a61f-26ae-4adb-b755-8551805552b6.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "ede6ad58b046",
-          "title": "开源安卓应用商店 F-Droid 考虑效仿 Debian AI 政策：允许使用 AI，最终责任由贡献者承担",
-          "desc": "IT之家 9 月 6 日消息，Debian 社区大语言模型投票议案上周迎来表决。投票结果显示，大部分开发者支持负责任地使用生成式 AI，如今开源安卓应用商店项目 F-Droid 也考虑采用类似的 AI 政策。参考IT之家先前报道，本次投票一共有 9 种选项，范围从完全禁止大语言模型辅助开发，到允许特定条件使用 AI。投票结果将影响 Debian 开发者工作方式，以及开发组未来如何应对新 AI 工具",
-          "source": "IT之家",
-          "date": "2026-09-06",
-          "dateLabel": "9月6日",
-          "tags": [
-            "business",
-            "policy",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/0/998/895.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/5e5793b4-d1ed-4f4c-99bf-b5da0a981da4.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "571bcca6f777",
-          "title": "晶存科技发布 96GB 9600MT/s 规格 LPDDR5X LPCAMM2 内存模组",
-          "desc": "IT之家 9 月 6 日消息，存储器模组与 NAND 控制器企业晶存科技 (Rayson) 今日发布 96GB 单条容量、9600MT/s 传输速率“双 96” LPDDR5X LPCAMM2 内存模组，进一步扩展其高性能 AI PC 内存产品布局。该内存模组三维 78×23×3 (mm)，相较传统 DDR5 SO-DIMM 占板面积减少约 60%、功耗降低约 50%、能效提升约 70%。晶存科技",
-          "source": "IT之家",
-          "date": "2026-09-06",
-          "dateLabel": "9月6日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/998/883.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/02e54e04-a227-4d14-987f-3686a62fe5bf.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
         }
       ]
     },
@@ -189,50 +222,6 @@
           "url": "https://www.qbitai.com/2026/09/484611.html",
           "image": "",
           "color": "#7c3aed"
-        },
-        {
-          "id": "28bd01090047",
-          "title": "姚班校友主导，Claude攻克费马大定理首个完整形式化证明",
-          "desc": "最后靠Harness救回来",
-          "source": "量子位",
-          "date": "2026-09-05",
-          "dateLabel": "9月5日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://www.qbitai.com/2026/09/484551.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "7fee7bd30574",
-          "title": "IT早报 0906：苹果 iPhone 18 Pro / Ultra 机模再曝光；曝华为新机防窥屏为独立像素驱动；Kimi、MiniMax 将天猫开店；全球首款家用 Wi-Fi8 路由器上市...",
-          "desc": "“IT早报”时间，大家好，现在是 2026 年 9 月 6 日星期日，今天的重要科技资讯有：1. 苹果 iPhone 18 Pro / Max、iPhone Ultra 机模再曝光科技媒体 AppleInsider 9 月 4 日发布博文，分享了一组来自手机壳厂商的机模照片，展示了苹果 iPhone 18 Pro、iPhone 18 Pro Max 以及苹果首款折叠手机（上市后预估名为 iPhon",
-          "source": "IT之家",
-          "date": "2026-09-05",
-          "dateLabel": "9月5日",
-          "tags": [
-            "model",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/0/998/861.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/09d599eb-fbe7-4767-83e0-38433c8e6dfe.png",
-          "color": "#d97706"
-        },
-        {
-          "id": "03e86031f7be",
-          "title": "OpenAI 将建立全新框架，承诺未来将更加透明地披露 AI 智能体失控情况",
-          "desc": "IT之家 9 月 6 日消息，OpenAI 发文，宣布将建立全新框架，承诺“更加透明地”向民众披露旗下 AI 智能体“失控”和“失准（Misalignment）”情况。当前，OpenAI 正深陷一系列 AI 智能体逃逸并自主入侵第三方网络的安全丑闻中。在 9 月 4 日时，路透社等媒体刚刚曝光了一起此前被隐瞒的“德国 Wiki 劫持事件”。一批 OpenAI AI 智能体曾入侵一个废弃的德国 Wi",
-          "source": "IT之家",
-          "date": "2026-09-05",
-          "dateLabel": "9月5日",
-          "tags": [
-            "policy"
-          ],
-          "url": "https://www.ithome.com/0/998/859.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/de2dd114-e92b-4dc1-922a-403725aa09b0.jpg",
-          "color": "#d97706"
         }
       ]
     },
@@ -2796,29 +2785,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-08-04",
-      "dateLabel": "8月4日",
-      "id": "d04",
-      "items": [
-        {
-          "id": "3d2cc78ad08f",
-          "title": "开源版Claude Science来了！零依赖、MIT协议，内置30+项科研Skills",
-          "desc": "北京大学&元空AI Agent联合实验室",
-          "source": "量子位",
-          "date": "2026-08-04",
-          "dateLabel": "8月4日",
-          "tags": [
-            "model",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/08/466386.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -2844,6 +2810,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-09-06 14:50",
-  "totalNews": 177
+  "updateTime": "2026-09-07 14:59",
+  "totalNews": 175
 }
