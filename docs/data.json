@@ -1,10 +1,189 @@
 {
   "newsData": [
     {
+      "date": "2026-09-08",
+      "dateLabel": "9月8日",
+      "id": "d08",
+      "items": [
+        {
+          "id": "1046454e215c",
+          "title": "现场围观金融AI决赛，大厂挑人的逻辑我悟了",
+          "desc": "百万奖金、大厂直通、VC跟投",
+          "source": "量子位",
+          "date": "2026-09-08",
+          "dateLabel": "9月8日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/09/485794.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "7e665b79d3b7",
+          "title": "深度智控获宁德时代、沙特阿美战投等重磅加码，加速打造物理AI时代算力与能源底座",
+          "desc": "近日，物理AI企业深度智控（DeepCtrls）完成新一轮B+轮数亿元融资。",
+          "source": "量子位",
+          "date": "2026-09-08",
+          "dateLabel": "9月8日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/09/485784.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "06c041f9fbfa",
+          "title": "深入马来西亚AI现场！WAIC CONNECT MALAYSIA首日亮点全速递",
+          "desc": "从看市场，到见场景；从认识伙伴，到寻找合作。",
+          "source": "量子位",
+          "date": "2026-09-08",
+          "dateLabel": "9月8日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/09/485630.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "9fe611b849a0",
+          "title": "王云鹤创业后交出首个模型",
+          "desc": "把多模型执行经验用到了模型训练",
+          "source": "量子位",
+          "date": "2026-09-08",
+          "dateLabel": "9月8日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.qbitai.com/2026/09/485555.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "e91966bef19e",
+          "title": "消息人士透露 Anthropic 放弃收购 Decart，60 亿美元交易告吹",
+          "desc": "IT之家 9 月 8 日消息，彭博社在美国当地时间昨日的报道中表示，Anthropic 已放弃收购人工智能实验室 Decart。这笔被取消的交易价值本有望达到 60 亿美元（IT之家注：现汇率约合 403.71 亿元人民币）。消息人士透露，Anthropic 此前已对 Decart 进行了尽职调查，但最终放弃了该收购。两家公司或许仍会寻求其他合作机会。Decart 由三位以色列工程师于 2023 ",
+          "source": "IT之家",
+          "date": "2026-09-08",
+          "dateLabel": "9月8日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/999/704.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/318009a2-4898-4bd5-98ca-5e78051ecf1d.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "901501a64f7a",
+          "title": "GOG 喜加一：科幻惊悚叙事冒险游戏《State of Mind》免费领",
+          "desc": "IT之家 9 月 8 日消息，由德国开发商 Daedalic Entertainment 制作的科幻惊悚叙事冒险游戏《State of Mind》目前正在 GOG 平台开启限时免费“喜加一”活动。活动截止至 9 月 10 日 21:00，玩家免费领取后即可永久保留，IT之家附游戏地址（https://www.gog.com/en/game/state_of_mind）。《State of Mind",
+          "source": "IT之家",
+          "date": "2026-09-08",
+          "dateLabel": "9月8日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/999/698.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/fe7becf3-2adb-48a7-b9a9-62b75fe8b7e9.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "fa1bf5c4ce62",
+          "title": "三星 Galaxy A08 渲染图曝光：联发科 Helio G99 芯片、6000mAh 电池",
+          "desc": "IT之家 9 月 8 日消息，消息源 The Cipher Project 昨日（9 月 7 日）在 Telegram 频道爆料，分享了三星 Galaxy A08 手机的渲染图，并称外观沿用 Galaxy A07 设计，屏幕周围边框较厚，屏幕采用水滴屏设计。IT之家此前报道，三星 Galaxy A08 4G 型号为 SM-A085F，将会搭载联发科 Helio G99 芯片，ARM Mali G5",
+          "source": "IT之家",
+          "date": "2026-09-08",
+          "dateLabel": "9月8日",
+          "tags": [
+            "model",
+            "business"
+          ],
+          "url": "https://www.ithome.com/0/999/684.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/149c7920-115a-4dde-b307-2549fbe40edf.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "fb77b0e9c5c2",
+          "title": "百度小度已进入超 5500 万家庭，推出家庭事务管理智能体",
+          "desc": "IT之家 9 月 8 日消息，在今日的百度 AI 开放日“2026 小度新品发布会”上，小度宣布已进入超 5,500 万家庭。小度宣称专注智能屏，是家庭一老一小的首个 AI 屏。百度集团副总裁、小度科技 CEO 李莹表示，超能小度目前已陪伴超 5,500 万家庭，产品日均语言深度交互量实现近 300% 增长。超能小度中一句话即可完成配置的 AI 随心看护功能表现亮眼，摄像机 AI 功能渗透率达 6",
+          "source": "IT之家",
+          "date": "2026-09-08",
+          "dateLabel": "9月8日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/0/999/677.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/0489fb21-13b5-401e-bab6-b6221e94df43.jpg",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-09-07",
       "dateLabel": "9月7日",
       "id": "d07",
       "items": [
+        {
+          "id": "e83eba6f6269",
+          "title": "3秒变身！会合体的机器人，卖到全球50国",
+          "desc": "谁说现在机器人都长得差不多的！",
+          "source": "量子位",
+          "date": "2026-09-07",
+          "dateLabel": "9月7日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.qbitai.com/2026/09/485525.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "9d5db5581862",
+          "title": "GPT-6不只Astra！Sol内测结果曝光，速度快6倍",
+          "desc": "OpenAI研究院人均带3个AI实习生",
+          "source": "量子位",
+          "date": "2026-09-07",
+          "dateLabel": "9月7日",
+          "tags": [
+            "model",
+            "research"
+          ],
+          "url": "https://www.qbitai.com/2026/09/485431.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "b486b683bd46",
+          "title": "DHH领衔，英伟达、微软、HuggingFace等150+全球技术大咖集结，GOSIM Shenzhen 2026全议程公布",
+          "desc": "10 月 16–17 日，面向全球开发者的开源技术大会 GOSIM 将首次来到深圳，举办 GOSIM Shenzhen 2026。",
+          "source": "量子位",
+          "date": "2026-09-07",
+          "dateLabel": "9月7日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/09/485154.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "dfa838d15e18",
+          "title": "菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3",
+          "desc": "“在两个模型之间找到数学上的共同基础其实非常困难”",
+          "source": "量子位",
+          "date": "2026-09-07",
+          "dateLabel": "9月7日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://www.qbitai.com/2026/09/485108.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
         {
           "id": "6d0caea1cfac",
           "title": "国内首份办公Agent用户行为报告发布：北京用户量全国居首，海外用户占比超12%",
@@ -33,94 +212,6 @@
           "url": "https://www.qbitai.com/2026/09/485056.html",
           "image": "",
           "color": "#7c3aed"
-        },
-        {
-          "id": "adbc0b1462ea",
-          "title": "业内首个！“千问办公”推出“多人工作台”",
-          "desc": "近日，阿里巴巴旗下Agent产品“千问办公”推出业内首个“多人工作台”。",
-          "source": "量子位",
-          "date": "2026-09-07",
-          "dateLabel": "9月7日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/09/485046.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "b01d847d9ecb",
-          "title": "产业龙头领投！中科类脑完成数亿元B+轮战略融资",
-          "desc": "产业龙头领投！中科类脑完成数亿元B+轮战略融资",
-          "source": "量子位",
-          "date": "2026-09-07",
-          "dateLabel": "9月7日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/09/485039.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "061e89935b61",
-          "title": "华为鸿蒙星河互联升级，官宣支持苹果 Apple Watch 智能手表、AirPods 无线耳机",
-          "desc": "IT之家 9 月 7 日消息，在今天的 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会上，华为终端 BG CEO 何刚宣布，华为鸿蒙星河互联升级，支持苹果 Apple Watch 智能手表、AirPods 无线耳机。在去年 10 月的发布会上，华为宣布鸿蒙 HarmonyOS 6 系统将支持与苹果 iOS 等系统的互传体验。去年 11 月，鸿蒙星河互联 App 正",
-          "source": "IT之家",
-          "date": "2026-09-07",
-          "dateLabel": "9月7日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/0/999/278.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/2f8fc69b-dab8-4d01-8180-1337c6863694.jpg",
-          "color": "#d97706"
-        },
-        {
-          "id": "cde33fbd0e9e",
-          "title": "韩券商 KB Securities：三星电子、SK 海力士内存库存已不足 10 天",
-          "desc": "IT之家 9 月 7 日消息，韩国证券企业 KB Securities 当地时间今日分析认为，三星电子、SK 海力士的内存库存在本季度已不足 10 天，这意味着两大存储半导体龙头难以为突发性需求挤出更多供应。图源：Pexels机构预计，全球超大规模数据中心企业在 2027 年的 AI 基础设施投资规模将达 1.3 万亿美元（IT之家注：现汇率约合 8.74 万亿元人民币），同比增长 60%。而存储",
-          "source": "IT之家",
-          "date": "2026-09-07",
-          "dateLabel": "9月7日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/999/264.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/089e37cc-f969-4042-9bdc-16ac1c55deaf.jpg",
-          "color": "#d97706"
-        },
-        {
-          "id": "93cf06f9491d",
-          "title": "阿里千问办公推出业内首个“多人工作台”，适用活动组织、家校协同和企业协作",
-          "desc": "IT之家 9 月 7 日消息，阿里云今日宣布千问办公推出业内首个“多人工作台”。用户简单描述需求，即可生成并发布一个最多支持百人同时在线协作的网页，承载复杂的业务流程。该功能适用于活动组织、家校协同和企业协作等场景，可解决 SaaS 软件采购成本高、定制软件开发耗时高的难题。目前，用户可从千问办公首页下方功能入口直接体验。据介绍，目前，市面上的 AI 工作台主要面向个人使用，例如生成在线简历、个人",
-          "source": "IT之家",
-          "date": "2026-09-07",
-          "dateLabel": "9月7日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/0/999/254.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/5e2e58f8-2d8a-4dbc-8efa-8666a56e67ce.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "2075b9875e84",
-          "title": "本土数据中心建设阻力加大，谷歌苹果等美国科技巨头将目光投向澳大利亚",
-          "desc": "IT之家 9 月 7 日消息，据彭博社报道，数据中心运营商 AirTrunk Operating Pty Ltd 表示，随着美国国内对数据中心建设的反对声音不断增加，美国科技巨头正将目光投向澳大利亚。当地相对绿色的电力结构以及毗邻亚洲市场的地理优势，正在吸引科技公司考虑在澳大利亚建设更多数据中心。总部位于悉尼的 AirTrunk 能源与公用事业副总裁萨布 · 怀特洛表示，在过去六到八个月里，公司发",
-          "source": "IT之家",
-          "date": "2026-09-07",
-          "dateLabel": "9月7日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/0/999/243.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/4/f0ab67e6-9e71-4d95-ac65-31fa692dae0a.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
         }
       ]
     },
@@ -2662,129 +2753,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-08-05",
-      "dateLabel": "8月5日",
-      "id": "d05",
-      "items": [
-        {
-          "id": "4dfbb1a174b5",
-          "title": "突发，Jeff Dean离职创业！谷歌股价应声蒸发1.34万亿",
-          "desc": "与此同时，哈萨比斯卸任谷歌DeepMind CEO",
-          "source": "量子位",
-          "date": "2026-08-05",
-          "dateLabel": "8月5日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/08/467196.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "43cc446fc50b",
-          "title": "别再吹AI生图了，不能图层编辑的AI都是“画饼”",
-          "desc": "兔展智能发布RabbitVis，让AI真正走完设计全流程",
-          "source": "量子位",
-          "date": "2026-08-05",
-          "dateLabel": "8月5日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/08/467034.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "07ce0c300ac8",
-          "title": "等等，MiniMax H3不是刚发布吗？怎么就卷到几分钱的价格了……",
-          "desc": "MiniMax H3也能开箱即用了",
-          "source": "量子位",
-          "date": "2026-08-05",
-          "dateLabel": "8月5日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/08/467036.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "bb2f7d69fc3b",
-          "title": "又一家AI基金暴雷了",
-          "desc": "开源改写游戏规则",
-          "source": "量子位",
-          "date": "2026-08-05",
-          "dateLabel": "8月5日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/08/467001.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "e11fce57bb3b",
-          "title": "淘天开启2027届应届生招聘：AI技术类岗位占比超9成",
-          "desc": "阿里巴巴淘天集团开启2027届应届生招聘。",
-          "source": "量子位",
-          "date": "2026-08-05",
-          "dateLabel": "8月5日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/08/466998.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "4d5958737248",
-          "title": "114B参数、6B激活，Sand.ai刚刚开源全球首个千亿MoE视频生成模型",
-          "desc": "10秒1080P，成本只要5毛钱",
-          "source": "量子位",
-          "date": "2026-08-05",
-          "dateLabel": "8月5日",
-          "tags": [
-            "model",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/08/466847.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "9cf33c88d30f",
-          "title": "微软叫停Tokenmaxxing！预算卡死，超限自负",
-          "desc": "内部默认用GPT-5.6",
-          "source": "量子位",
-          "date": "2026-08-05",
-          "dateLabel": "8月5日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://www.qbitai.com/2026/08/466739.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "5f9297b75e47",
-          "title": "老黄垒20年的CUDA护城河，AI刚刚用10小时凿开了",
-          "desc": "CUDA又危了？",
-          "source": "量子位",
-          "date": "2026-08-05",
-          "dateLabel": "8月5日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/08/466553.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -2810,6 +2778,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-09-07 14:59",
-  "totalNews": 175
+  "updateTime": "2026-09-08 14:54",
+  "totalNews": 173
 }
