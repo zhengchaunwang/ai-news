@@ -1,10 +1,150 @@
 {
   "newsData": [
     {
+      "date": "2026-09-09",
+      "dateLabel": "9月9日",
+      "id": "d09",
+      "items": [
+        {
+          "id": "89af7b97ce3f",
+          "title": "蚂蚁百灵发布首个金融增强模型，AI开始进入真实投研工作流",
+          "desc": "蚂蚁集团百灵首个金融增强开放模型 Ling-3.0-flash-Fin发布。",
+          "source": "量子位",
+          "date": "2026-09-09",
+          "dateLabel": "9月9日",
+          "tags": [
+            "model",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/09/486288.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "d82b9e9aa4d3",
+          "title": "具身机器人能搞定超市盘点吗？全球七万门店正在给出答案",
+          "desc": "从Demo到货架，这两家公司要让具身智能算得过账",
+          "source": "量子位",
+          "date": "2026-09-09",
+          "dateLabel": "9月9日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.qbitai.com/2026/09/486280.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "82a4bcbc2bf6",
+          "title": "SkyProduction限免活动第二期：MiniMax H3会员限时免费无限用！",
+          "desc": "8月28日-9月1日，SkyProduction（天工工作台）联合阿里巴巴通义万相，推出了Wan 3.0模型限时免费活动",
+          "source": "量子位",
+          "date": "2026-09-09",
+          "dateLabel": "9月9日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/09/486052.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "7ee3c40c2d45",
+          "title": "宜宾，一场机器人“招聘会”的产业雄心",
+          "desc": "9月3日，宜宾国际会展中心，55支机器人团队正在完成一场特殊的“面试”。",
+          "source": "量子位",
+          "date": "2026-09-09",
+          "dateLabel": "9月9日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.qbitai.com/2026/09/486038.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "a0f785ec817c",
+          "title": "面壁智能开源 MiniCPM5-2B AI 模型：AA 榜单全球 4B 以下第一，初具端侧通用 Agent 能力",
+          "desc": "IT之家 9 月 9 日消息，面壁智能昨日联合 OpenBMB 开源社区正式开源新一代“小钢炮”MiniCPM5-2B。MiniCPM5-2B 的参数规模为 2B，是一款高密度端侧语言基座模型，支持工具调用、深度搜索、代码生成等任务，官方称初步实现了端侧通用 Agent 雏形。根据榜单 Artificial Analysis Intelligence Index（以下简称「AA 榜单」）的最新评测",
+          "source": "IT之家",
+          "date": "2026-09-09",
+          "dateLabel": "9月9日",
+          "tags": [
+            "research",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/000/198.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/db19bec8-75c2-4872-9cbe-d800f1c05974.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "96981747f8b7",
+          "title": "特斯拉确认：HW3 版 Model S/X 即将迎来 FSD V14 Lite",
+          "desc": "IT之家 9 月 9 日消息，特斯拉旗下搭载 Hardware 3（HW3/AI3）硬件的老款旗舰车型车主，已经耐心等待了很长时间。此前，更主流的 Model 3 和 Model Y 陆续获得了 FSD（监督版）v14 Lite，而 Model S 和 Model X 车主只能继续等待。现在，这段等待似乎终于要结束了。在上周于美国奥斯汀举行的 Cybercab 发布活动期间，特斯拉 AI 负责人 ",
+          "source": "IT之家",
+          "date": "2026-09-09",
+          "dateLabel": "9月9日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/000/194.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/46aac377-e9b1-48d0-91ae-4bbac148c6c2.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "777cd68bd671",
+          "title": "美国商务部向格罗方德等 5 家量子技术企业授予合计 7.75 亿美元研发拨款",
+          "desc": "IT之家 9 月 9 日消息，参考美国商务部旗下国家标准与技术研究院 (NIST) 官网公告，美国商务部于当地时间本月 8 日根据《芯片法案》向 GlobalFoundries（格罗方德）等 5 家量子技术领域企业授予合计 7.75 亿美元（IT之家注：现汇率约合 52.14 亿元人民币）的研发拨款。这其中格罗方德独得 3.75 亿美元（现汇率约合 25.23 亿元人民币），D-Wave、PsiQ",
+          "source": "IT之家",
+          "date": "2026-09-09",
+          "dateLabel": "9月9日",
+          "tags": [
+            "research",
+            "business",
+            "policy"
+          ],
+          "url": "https://www.ithome.com/1/000/193.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/dd235617-a830-475d-91a2-3e2c9fa31030.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "6ccab76185bb",
+          "title": "马斯克：希望特斯拉 Cybercab 很快也能在欧洲推出",
+          "desc": "IT之家 9 月 9 日消息，特斯拉专为自动驾驶打造的双座车型 Cybercab 已经开始在美国得克萨斯州搭载付费乘客，而埃隆 · 马斯克近日释放了一个信号：欧洲城市或许不必再等待太久，就有机会体验 Cybercab 无人驾驶出行服务。此前，游戏主播 @rob2628 在奥斯汀体验了一次 Cybercab，并在 X 上分享了乘坐感受，同时表达了希望这款无人驾驶双座车不要多年之后才进入欧盟市场的愿望",
+          "source": "IT之家",
+          "date": "2026-09-09",
+          "dateLabel": "9月9日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/000/189.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/a53a23de-0626-4057-b2e4-7dd3d25e57fc.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-09-08",
       "dateLabel": "9月8日",
       "id": "d08",
       "items": [
+        {
+          "id": "12983432bbca",
+          "title": "感谢用GPT-6搓3D的！燃烧自己的token换来一次全体重置",
+          "desc": "Blender也不用学了",
+          "source": "量子位",
+          "date": "2026-09-08",
+          "dateLabel": "9月8日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://www.qbitai.com/2026/09/485854.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
         {
           "id": "1046454e215c",
           "title": "现场围观金融AI决赛，大厂挑人的逻辑我悟了",
@@ -60,64 +200,6 @@
           "url": "https://www.qbitai.com/2026/09/485555.html",
           "image": "",
           "color": "#7c3aed"
-        },
-        {
-          "id": "e91966bef19e",
-          "title": "消息人士透露 Anthropic 放弃收购 Decart，60 亿美元交易告吹",
-          "desc": "IT之家 9 月 8 日消息，彭博社在美国当地时间昨日的报道中表示，Anthropic 已放弃收购人工智能实验室 Decart。这笔被取消的交易价值本有望达到 60 亿美元（IT之家注：现汇率约合 403.71 亿元人民币）。消息人士透露，Anthropic 此前已对 Decart 进行了尽职调查，但最终放弃了该收购。两家公司或许仍会寻求其他合作机会。Decart 由三位以色列工程师于 2023 ",
-          "source": "IT之家",
-          "date": "2026-09-08",
-          "dateLabel": "9月8日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/999/704.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/318009a2-4898-4bd5-98ca-5e78051ecf1d.jpg",
-          "color": "#d97706"
-        },
-        {
-          "id": "901501a64f7a",
-          "title": "GOG 喜加一：科幻惊悚叙事冒险游戏《State of Mind》免费领",
-          "desc": "IT之家 9 月 8 日消息，由德国开发商 Daedalic Entertainment 制作的科幻惊悚叙事冒险游戏《State of Mind》目前正在 GOG 平台开启限时免费“喜加一”活动。活动截止至 9 月 10 日 21:00，玩家免费领取后即可永久保留，IT之家附游戏地址（https://www.gog.com/en/game/state_of_mind）。《State of Mind",
-          "source": "IT之家",
-          "date": "2026-09-08",
-          "dateLabel": "9月8日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/999/698.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/fe7becf3-2adb-48a7-b9a9-62b75fe8b7e9.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "fa1bf5c4ce62",
-          "title": "三星 Galaxy A08 渲染图曝光：联发科 Helio G99 芯片、6000mAh 电池",
-          "desc": "IT之家 9 月 8 日消息，消息源 The Cipher Project 昨日（9 月 7 日）在 Telegram 频道爆料，分享了三星 Galaxy A08 手机的渲染图，并称外观沿用 Galaxy A07 设计，屏幕周围边框较厚，屏幕采用水滴屏设计。IT之家此前报道，三星 Galaxy A08 4G 型号为 SM-A085F，将会搭载联发科 Helio G99 芯片，ARM Mali G5",
-          "source": "IT之家",
-          "date": "2026-09-08",
-          "dateLabel": "9月8日",
-          "tags": [
-            "model",
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/999/684.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/149c7920-115a-4dde-b307-2549fbe40edf.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "fb77b0e9c5c2",
-          "title": "百度小度已进入超 5500 万家庭，推出家庭事务管理智能体",
-          "desc": "IT之家 9 月 8 日消息，在今日的百度 AI 开放日“2026 小度新品发布会”上，小度宣布已进入超 5,500 万家庭。小度宣称专注智能屏，是家庭一老一小的首个 AI 屏。百度集团副总裁、小度科技 CEO 李莹表示，超能小度目前已陪伴超 5,500 万家庭，产品日均语言深度交互量实现近 300% 增长。超能小度中一句话即可完成配置的 AI 随心看护功能表现亮眼，摄像机 AI 功能渗透率达 6",
-          "source": "IT之家",
-          "date": "2026-09-08",
-          "dateLabel": "9月8日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/0/999/677.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/0489fb21-13b5-401e-bab6-b6221e94df43.jpg",
-          "color": "#d97706"
         }
       ]
     },
@@ -137,79 +219,6 @@
             "research"
           ],
           "url": "https://www.qbitai.com/2026/09/485525.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "9d5db5581862",
-          "title": "GPT-6不只Astra！Sol内测结果曝光，速度快6倍",
-          "desc": "OpenAI研究院人均带3个AI实习生",
-          "source": "量子位",
-          "date": "2026-09-07",
-          "dateLabel": "9月7日",
-          "tags": [
-            "model",
-            "research"
-          ],
-          "url": "https://www.qbitai.com/2026/09/485431.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "b486b683bd46",
-          "title": "DHH领衔，英伟达、微软、HuggingFace等150+全球技术大咖集结，GOSIM Shenzhen 2026全议程公布",
-          "desc": "10 月 16–17 日，面向全球开发者的开源技术大会 GOSIM 将首次来到深圳，举办 GOSIM Shenzhen 2026。",
-          "source": "量子位",
-          "date": "2026-09-07",
-          "dateLabel": "9月7日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/09/485154.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "dfa838d15e18",
-          "title": "菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3",
-          "desc": "“在两个模型之间找到数学上的共同基础其实非常困难”",
-          "source": "量子位",
-          "date": "2026-09-07",
-          "dateLabel": "9月7日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://www.qbitai.com/2026/09/485108.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "6d0caea1cfac",
-          "title": "国内首份办公Agent用户行为报告发布：北京用户量全国居首，海外用户占比超12%",
-          "desc": "9月7日，国内首份《中国办公Agent用户行为不完全报告》在京发布。",
-          "source": "量子位",
-          "date": "2026-09-07",
-          "dateLabel": "9月7日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/09/485064.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "c9170cc37b39",
-          "title": "原生全模态技术战略闭环，智象（HiDream.ai）发布具身世界模型HiDream-O1-Embodied",
-          "desc": "原生全模态技术战略闭环，智象（HiDream.ai）发布具身世界模型HiDream-O1-Embodied",
-          "source": "量子位",
-          "date": "2026-09-07",
-          "dateLabel": "9月7日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/09/485056.html",
           "image": "",
           "color": "#7c3aed"
         }
@@ -2703,56 +2712,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-08-06",
-      "dateLabel": "8月6日",
-      "id": "d06",
-      "items": [
-        {
-          "id": "a73b4efdef39",
-          "title": "美学升维，流畅突破：荣耀MagicOS11双架构重塑体验",
-          "desc": "正式公开了安卓液态玻璃设计的完整技术底座",
-          "source": "量子位",
-          "date": "2026-08-06",
-          "dateLabel": "8月6日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://www.qbitai.com/2026/08/467478.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "3111b469b88f",
-          "title": "没有人靠段子永载GitHub，除非谷歌姐夫",
-          "desc": "Jeff Dean用大脑挖比特币",
-          "source": "量子位",
-          "date": "2026-08-06",
-          "dateLabel": "8月6日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/08/467447.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "5a1c2e0dcdf5",
-          "title": "Artificial Analysis榜单：阿里Qwen3.8Agentic能力得分全球第一",
-          "desc": "Artificial Analysis榜单：阿里Qwen3.8Agentic能力得分全球第一",
-          "source": "量子位",
-          "date": "2026-08-06",
-          "dateLabel": "8月6日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/08/467444.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -2778,6 +2737,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-09-08 14:54",
-  "totalNews": 173
+  "updateTime": "2026-09-09 15:03",
+  "totalNews": 170
 }
