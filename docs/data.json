@@ -1,10 +1,167 @@
 {
   "newsData": [
     {
+      "date": "2026-09-10",
+      "dateLabel": "9月10日",
+      "id": "d10",
+      "items": [
+        {
+          "id": "1d4cd4f27411",
+          "title": "一周连发6个模型！这家公司把具身智能的闭环跑通了",
+          "desc": "模型可以开源，部署经验不能",
+          "source": "量子位",
+          "date": "2026-09-10",
+          "dateLabel": "9月10日",
+          "tags": [
+            "research",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/09/486625.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "df95cd0bc820",
+          "title": "打造10万卡国产算力集群推出JoyAI世界模型，京东发布物理AI建设最新成果",
+          "desc": "9月9日，以“JoyAI · 跃迁物理世界”为主题的JDDiscovery-2026京东全球科技探索者大会在北京举行",
+          "source": "量子位",
+          "date": "2026-09-10",
+          "dateLabel": "9月10日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/09/486436.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "d812be939ac2",
+          "title": "实测星火X2.5：手搓粒子月亮、拆完61页财报……还顺手揪出了我的Bug",
+          "desc": "赶上了API限时五折",
+          "source": "量子位",
+          "date": "2026-09-10",
+          "dateLabel": "9月10日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/09/486350.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "54b0c5a1d1af",
+          "title": "月之暗面官宣 Kimi 企业合作伙伴计划，金山云、中软国际、华胜天成等已加入",
+          "desc": "IT之家 9 月 10 日消息，月之暗面今天宣布启动 Kimi 企业合作伙伴计划，旨在帮助企业将 AI 真正部署到核心业务中，并培养前线部署工程师（Forward Deployed Engineer，FDE）队伍。据悉，月之暗面将为加入计划的伙伴提供模型与 Agent 底座、方案沉淀、能力转型等支持。Kimi 选择以开放合作的方式推进企业级落地，将模型能力与工程方法论体系开放给合作伙伴，由伙伴发挥",
+          "source": "IT之家",
+          "date": "2026-09-10",
+          "dateLabel": "9月10日",
+          "tags": [
+            "model",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/000/736.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/edefdcff-5b3e-46cd-b21b-2d6526d5ea83.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "234faabd8be5",
+          "title": "VAIO T 双转轴翻转本发布：平板模式屏幕“背对面”覆盖键盘",
+          "desc": "IT之家 9 月 10 日消息，VAIO 日本当地时间今日发布了笔记本电脑新品 VAIO T。该产品采用双转轴结构，除连接上下方的常规转轴外还在上方中部设置了第二转轴。这意味着 VAIO T 在平板模式下屏幕能以“背对面”的形式直接覆盖键盘（四面呈 B-A-C-D 排布），而不是传统翻转本的“背对背”(B-A-D-C)，平整的底部能带来更良好的使用体验。VAIO T 还支持视图模式（下图中部）。V",
+          "source": "IT之家",
+          "date": "2026-09-10",
+          "dateLabel": "9月10日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/000/734.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/e951251b-1470-484b-8dc3-4380ca004ddf.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "6e9aaf1c00ed",
+          "title": "雷军回应新华社报道小米“底层技术自研打开科技创新空间”：未来 5 年，计划投入 2000 亿元研发费用",
+          "desc": "IT之家 9 月 10 日消息，新华社今日发文报道了小米玄戒三芯、小米澎程系列新车的发布，称底层技术自研打开科技创新空间。小米创办人、董事长兼 CEO 雷军随后发文回应：感谢认可！技术为本，这是小米永不更改的铁律。在硬核科技上，我们会持续加大研发投入。未来 5 年，我们计划投入 2000 亿元研发费用。据IT之家此前报道，在 8 月 24 日的小米玄戒芯片技术沟通会上，新一代玄戒芯片“三芯齐发”，",
+          "source": "IT之家",
+          "date": "2026-09-10",
+          "dateLabel": "9月10日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/000/730.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/6ce8cd49-0568-45b4-8262-b3115a5ef76a.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "a679d01c79a9",
+          "title": "DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，API 定价下调",
+          "desc": "IT之家 9 月 10 日消息，深度求索今日正式发布 DeepSeek V4.1 Flash 模型。这是其全新模型结构系列中的最小尺寸的模型，具备原生多模态视觉理解能力。新模型结构的设计初衷是：能力上限更高、推理速度更快、吞吐更大、可扩展到更大参数模型。DeepSeek V4.1 Flash 为 552B 参数的 MoE 模型，采用了全新的 Causal-Encoder-Decoder 结构，输入",
+          "source": "IT之家",
+          "date": "2026-09-10",
+          "dateLabel": "9月10日",
+          "tags": [
+            "model",
+            "research",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/000/719.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/70a0e633-fdfc-46df-b4a7-73fcf33db1dd.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "5a87da2ec8ed",
+          "title": "JPR 报告 2026Q2 全球 PC AIB 显卡出货量 1250 万块：环比增 10%、同比增 6.6%",
+          "desc": "IT之家 9 月 10 日消息，市场调查机构 Jon Peddie Research 昨日（9 月 9 日）发布博文，报告称 2026 年第二季度全球 PC 图形附加板（AIB）市场出货量达到 1,250 万块，环比增长 10%、同比增长 6.6%。IT之家注：AIB 是 Add-in Board 的缩写，在 PC 硬件语境中，图形附加板通常指带有 GPU、显存、供电和散热组件的完整独立显卡，例如",
+          "source": "IT之家",
+          "date": "2026-09-10",
+          "dateLabel": "9月10日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/000/717.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/5653f3b7-7d09-437d-88df-99ea0d99e641.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-09-09",
       "dateLabel": "9月9日",
       "id": "d09",
       "items": [
+        {
+          "id": "a818a4283a5c",
+          "title": "刚刚，苹果首款折叠屏发布！15999元起，AI参与设计",
+          "desc": "一比根号二的小胖折叠",
+          "source": "量子位",
+          "date": "2026-09-09",
+          "dateLabel": "9月9日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/09/486450.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "6c3f64573dfb",
+          "title": "国产AI4S计算平台登场亮相2026外滩大会 算力技术与人才布局双向发力",
+          "desc": "国产AI4S计算平台登场亮相2026外滩大会 算力技术与人才布局双向发力",
+          "source": "量子位",
+          "date": "2026-09-09",
+          "dateLabel": "9月9日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/09/486370.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
         {
           "id": "89af7b97ce3f",
           "title": "蚂蚁百灵发布首个金融增强模型，AI开始进入真实投研工作流",
@@ -63,66 +220,6 @@
           "url": "https://www.qbitai.com/2026/09/486038.html",
           "image": "",
           "color": "#7c3aed"
-        },
-        {
-          "id": "a0f785ec817c",
-          "title": "面壁智能开源 MiniCPM5-2B AI 模型：AA 榜单全球 4B 以下第一，初具端侧通用 Agent 能力",
-          "desc": "IT之家 9 月 9 日消息，面壁智能昨日联合 OpenBMB 开源社区正式开源新一代“小钢炮”MiniCPM5-2B。MiniCPM5-2B 的参数规模为 2B，是一款高密度端侧语言基座模型，支持工具调用、深度搜索、代码生成等任务，官方称初步实现了端侧通用 Agent 雏形。根据榜单 Artificial Analysis Intelligence Index（以下简称「AA 榜单」）的最新评测",
-          "source": "IT之家",
-          "date": "2026-09-09",
-          "dateLabel": "9月9日",
-          "tags": [
-            "research",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/000/198.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/db19bec8-75c2-4872-9cbe-d800f1c05974.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "96981747f8b7",
-          "title": "特斯拉确认：HW3 版 Model S/X 即将迎来 FSD V14 Lite",
-          "desc": "IT之家 9 月 9 日消息，特斯拉旗下搭载 Hardware 3（HW3/AI3）硬件的老款旗舰车型车主，已经耐心等待了很长时间。此前，更主流的 Model 3 和 Model Y 陆续获得了 FSD（监督版）v14 Lite，而 Model S 和 Model X 车主只能继续等待。现在，这段等待似乎终于要结束了。在上周于美国奥斯汀举行的 Cybercab 发布活动期间，特斯拉 AI 负责人 ",
-          "source": "IT之家",
-          "date": "2026-09-09",
-          "dateLabel": "9月9日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/000/194.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/46aac377-e9b1-48d0-91ae-4bbac148c6c2.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "777cd68bd671",
-          "title": "美国商务部向格罗方德等 5 家量子技术企业授予合计 7.75 亿美元研发拨款",
-          "desc": "IT之家 9 月 9 日消息，参考美国商务部旗下国家标准与技术研究院 (NIST) 官网公告，美国商务部于当地时间本月 8 日根据《芯片法案》向 GlobalFoundries（格罗方德）等 5 家量子技术领域企业授予合计 7.75 亿美元（IT之家注：现汇率约合 52.14 亿元人民币）的研发拨款。这其中格罗方德独得 3.75 亿美元（现汇率约合 25.23 亿元人民币），D-Wave、PsiQ",
-          "source": "IT之家",
-          "date": "2026-09-09",
-          "dateLabel": "9月9日",
-          "tags": [
-            "research",
-            "business",
-            "policy"
-          ],
-          "url": "https://www.ithome.com/1/000/193.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/dd235617-a830-475d-91a2-3e2c9fa31030.png",
-          "color": "#d97706"
-        },
-        {
-          "id": "6ccab76185bb",
-          "title": "马斯克：希望特斯拉 Cybercab 很快也能在欧洲推出",
-          "desc": "IT之家 9 月 9 日消息，特斯拉专为自动驾驶打造的双座车型 Cybercab 已经开始在美国得克萨斯州搭载付费乘客，而埃隆 · 马斯克近日释放了一个信号：欧洲城市或许不必再等待太久，就有机会体验 Cybercab 无人驾驶出行服务。此前，游戏主播 @rob2628 在奥斯汀体验了一次 Cybercab，并在 X 上分享了乘坐感受，同时表达了希望这款无人驾驶双座车不要多年之后才进入欧盟市场的愿望",
-          "source": "IT之家",
-          "date": "2026-09-09",
-          "dateLabel": "9月9日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/000/189.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/a53a23de-0626-4057-b2e4-7dd3d25e57fc.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
         }
       ]
     },
@@ -142,62 +239,6 @@
             "model"
           ],
           "url": "https://www.qbitai.com/2026/09/485854.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "1046454e215c",
-          "title": "现场围观金融AI决赛，大厂挑人的逻辑我悟了",
-          "desc": "百万奖金、大厂直通、VC跟投",
-          "source": "量子位",
-          "date": "2026-09-08",
-          "dateLabel": "9月8日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/09/485794.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "7e665b79d3b7",
-          "title": "深度智控获宁德时代、沙特阿美战投等重磅加码，加速打造物理AI时代算力与能源底座",
-          "desc": "近日，物理AI企业深度智控（DeepCtrls）完成新一轮B+轮数亿元融资。",
-          "source": "量子位",
-          "date": "2026-09-08",
-          "dateLabel": "9月8日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/09/485784.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "06c041f9fbfa",
-          "title": "深入马来西亚AI现场！WAIC CONNECT MALAYSIA首日亮点全速递",
-          "desc": "从看市场，到见场景；从认识伙伴，到寻找合作。",
-          "source": "量子位",
-          "date": "2026-09-08",
-          "dateLabel": "9月8日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/09/485630.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "9fe611b849a0",
-          "title": "王云鹤创业后交出首个模型",
-          "desc": "把多模型执行经验用到了模型训练",
-          "source": "量子位",
-          "date": "2026-09-08",
-          "dateLabel": "9月8日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://www.qbitai.com/2026/09/485555.html",
           "image": "",
           "color": "#7c3aed"
         }
@@ -2647,71 +2688,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-08-07",
-      "dateLabel": "8月7日",
-      "id": "d07",
-      "items": [
-        {
-          "id": "415d1d5b1bb8",
-          "title": "阿里推出国内首个AI语音平台CosyVoice Studio，将语义理解融入语音能力",
-          "desc": "AI语音“听、说、创”一站式满足",
-          "source": "量子位",
-          "date": "2026-08-07",
-          "dateLabel": "8月7日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/08/468324.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "785292a85194",
-          "title": "AI批量轰炸苹果bug赏金计划，审核团队已下线",
-          "desc": "AI批量轰炸苹果bug赏金计划，审核团队已下线",
-          "source": "量子位",
-          "date": "2026-08-07",
-          "dateLabel": "8月7日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/08/466738.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "036085b288f7",
-          "title": "openJiuwen发布业界首个企业级智能体分布式蜂群架构，联合邮储成功落地金融生产环境",
-          "desc": "从「能用」走向「规模化落地」",
-          "source": "量子位",
-          "date": "2026-08-07",
-          "dateLabel": "8月7日",
-          "tags": [
-            "research",
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/08/468305.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "98730d98bdef",
-          "title": "AI圈功能狂卷，付费寥寥，Keep正在试一条新路",
-          "desc": "AI卷向运动赛道，Keep的新答卷能否跑通？",
-          "source": "量子位",
-          "date": "2026-08-07",
-          "dateLabel": "8月7日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/08/467878.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -2737,6 +2713,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-09-09 15:03",
-  "totalNews": 170
+  "updateTime": "2026-09-10 15:00",
+  "totalNews": 168
 }
