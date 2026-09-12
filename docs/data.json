@@ -1,10 +1,204 @@
 {
   "newsData": [
     {
+      "date": "2026-09-12",
+      "dateLabel": "9月12日",
+      "id": "d12",
+      "items": [
+        {
+          "id": "9b1c7f212fa8",
+          "title": "陶哲轩邓煜究竟在反对什么：AI暴力解题摧毁人类数学精神",
+          "desc": "25位菲尔兹奖得主联名吹哨",
+          "source": "量子位",
+          "date": "2026-09-12",
+          "dateLabel": "9月12日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/09/487653.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "e00210c6f2a2",
+          "title": "海盗船推出 SHUGO 艺术联名 DDR5 6000 内存条，32GB 到手价 5499 元",
+          "desc": "IT之家 9 月 12 日消息，美商海盗船推出 SHUGO DDR5 守护者艺术联名版 DDR5 6000 内存条，提供黑曜刃、樱花版两种，32GB（16G×2）CL28 版本 5499 元，现已开售。京东美商海盗船（USCORSAIR）32GB (16Gx2) 套装 SHUGO DDR5 6000 台式机内存条 守护者 艺术联名款 RGB 灯条 CL28 樱花版 5499 元直达链接这款内存条属",
+          "source": "IT之家",
+          "date": "2026-09-12",
+          "dateLabel": "9月12日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/001/570.htm",
+          "image": "https://img14.360buyimg.com/pop/jfs/t1/515052/23/5631/83416/6a979987F69581142/00833203200b495d.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "ef7c2aec91ae",
+          "title": "Wildcat Lake 款戴尔 14 轻薄本上市：酷睿 5 320 版 5999 元",
+          "desc": "IT之家 9 月 12 日消息，戴尔 14（国行商品标题又写作灵越 14 Air）现已在京东上架，将于 9 月 14 日 10:00 开售，IT之家汇总价格如下：酷睿 5 320 处理器、16GB 内存、512GB 固态硬盘、FHD+ 60Hz 屏幕：5999 元酷睿 5 320 处理器、16GB 内存、512GB 固态硬盘、QHD+ 120Hz 屏幕：6399 元酷睿 5 320 处理器、16G",
+          "source": "IT之家",
+          "date": "2026-09-12",
+          "dateLabel": "9月12日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/001/568.htm",
+          "image": "https://img14.360buyimg.com/pop/jfs/t1/520639/25/5191/84709/6aa25f8dFb367183c/0083320320e0ba8b.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "870e4071060d",
+          "title": "荣耀亲选 DigaCite AI 相册管家上架：11 英寸全高清面板、内置 AI 创作功能，999 元",
+          "desc": "IT之家 9 月 12 日消息，荣耀现已在京东上架荣耀亲选 DigaCite AI 相册管家，该产品可以看作是一款平板电脑，定价 1199 元，首发价 999 元。京东荣耀亲选 DigaCiteAI 相册管家券后 999 元领 200 元券该产品采用 6.9mm 金属机身，配备 11 英寸 1920x1200 分辨率面板，支持横竖双摆两种摆放方式，可自然融入各类家居环境。设备最高支持 4TB 拓展",
+          "source": "IT之家",
+          "date": "2026-09-12",
+          "dateLabel": "9月12日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/001/557.htm",
+          "image": "https://img14.360buyimg.com/pop/jfs/t1/520933/30/6771/63905/6aa2a67aFf0c224b0/00833203204e3636.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "90bb1af27ade",
+          "title": "25 位菲尔兹奖得主联合警告“AI 在数学领域严重错位”，邓煜调侃要退休回家写百合小说",
+          "desc": "IT之家 9 月 12 日消息，当地时间 9 月 11 日，陶哲轩、邓煜、彼得 · 舒尔茨（Peter Scholze）等 25 位菲尔兹奖得主作为最初签署人，联合发表声明《人工智能在数学中的严重错位》（A Severe Misalignment of AI in Mathematics），警告 AI 公司与数学共同体之间正在出现“严重错位”。声明称，在过去几个月里，大语言模型的数学能力有了显著提",
+          "source": "IT之家",
+          "date": "2026-09-12",
+          "dateLabel": "9月12日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/001/554.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/fc8f2101-b156-48b5-8cca-501315d1b973.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "c9f9c2aeaea2",
+          "title": "飞傲 FT15 金刚石纳米级振膜平板头戴耳机发布，2999 元",
+          "desc": "IT之家 9 月 12 日消息，飞傲 FT15 头戴式耳机今日正式发布，宣称是“金刚石纳米级振膜平板头戴耳机”，售价 2,999 元，现已正式开售。飞傲 FT15 搭载 800 纳米特薄膜片，厚度相比前代降低了 86.7%；整面自研金刚石镀层，频响延伸至 40kHz。飞傲 FT15 配备 101mm 全尺寸单元，采用均匀等磁场专利设计，定制异形强磁，源头抑制分割振动与失真，还有 28 纳米芯片级电",
+          "source": "IT之家",
+          "date": "2026-09-12",
+          "dateLabel": "9月12日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/001/551.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/1ea477db-82ac-4056-b578-9b9ec3fd6b81.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "e69792379f8b",
+          "title": "英伟达 DLSS 5 混合精度 Mod 测试：RTX 50 系列显卡性能仅提升 1% 至 2%",
+          "desc": "IT之家 9 月 12 日消息，在英伟达 DLSS 5 神经渲染 DLL 文件流出后，各路民间大神纷纷下场进行调试和优化，还有 Mod 开发者尝试通过降低模型推理成本以提升游戏性能。根据 X 用户 SwurvGaming 分享的情报，有 Mod 开发者将 FP8 与 NVFP4 混合精度应用于 DLSS 5 神经渲染模型，并在 RTX 50 系列显卡上运行。不过，该方案在 4K 分辨率下仅将神经渲",
+          "source": "IT之家",
+          "date": "2026-09-12",
+          "dateLabel": "9月12日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.ithome.com/1/001/524.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/dd42f4b9-60da-4c50-9578-c2d8220da364.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "3f9ddf6cf448",
+          "title": "俞敏洪：人工智能可能加剧社会贫富悬殊",
+          "desc": "11 月 12 日上午消息，在“2026 崇礼论坛”上，新东方创始人俞敏洪表示，“现在人工智能的发展呈现出一种趋势，互联网发展曾创造了无数工作机会，未来人工智能同样也会创造大量新的工作机会。但我们也会发现一个明显的倾向，人工智能正在替代普通人的工作机会，尤其是过去几百年里，那些依靠重复劳动赚取生活资源的普通人。而未来所创造出的新工作机会，则需要人们重新学习和重新定义。”他谈到，“这跟工业革命带来的",
+          "source": "IT之家",
+          "date": "2026-09-12",
+          "dateLabel": "9月12日",
+          "tags": [
+            "policy"
+          ],
+          "url": "https://www.ithome.com/1/001/522.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/fae4eee6-d653-4742-a75f-a25bcf868e94.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-09-11",
       "dateLabel": "9月11日",
       "id": "d11",
       "items": [
+        {
+          "id": "c4214bb1ff29",
+          "title": "银行Agent上岗：4200万小微经营者可用，信贷、票据、财税一把梭",
+          "desc": "看清「一个真正的人」",
+          "source": "量子位",
+          "date": "2026-09-11",
+          "dateLabel": "9月11日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/09/487631.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "06626e696c21",
+          "title": "啊？Anthropic最高320万招销售，只为服务Meta",
+          "desc": "原来你俩互相下单呢",
+          "source": "量子位",
+          "date": "2026-09-11",
+          "dateLabel": "9月11日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/09/487573.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "9327ee4f12e0",
+          "title": "百度秒哒再升级！让最懂业务的人，亲手造自己的系统",
+          "desc": "把开发、交付和接单全打通了",
+          "source": "量子位",
+          "date": "2026-09-11",
+          "dateLabel": "9月11日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/09/487415.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "363b57f08ef8",
+          "title": "不简单，“吃货快乐榜”也全面AI化了",
+          "desc": "不简单，“吃货快乐榜”也全面AI化了",
+          "source": "量子位",
+          "date": "2026-09-11",
+          "dateLabel": "9月11日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/09/487282.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "fb3956de3b90",
+          "title": "墨芯人工智能亮相2026 Inclusion·外滩大会：以专用稀疏推理芯片提升算力效能，共创AI新经济",
+          "desc": "9月9日，墨芯人工智能亮相以\"共创AI新经济\"为主题的2026 Inclusion·外滩大会。",
+          "source": "量子位",
+          "date": "2026-09-11",
+          "dateLabel": "9月11日",
+          "tags": [
+            "research",
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/09/487273.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
         {
           "id": "4dba2256d0ff",
           "title": "量子位「MEET2027智能未来大会」启动！年度榜单征集进行中",
@@ -47,81 +241,6 @@
           "url": "https://www.qbitai.com/2026/09/487092.html",
           "image": "",
           "color": "#7c3aed"
-        },
-        {
-          "id": "82f43ebc44e6",
-          "title": "吹爆开源！RunningHub让MiniMax H3满血提速12倍，本地部署照样起飞",
-          "desc": "15秒视频，50秒出片",
-          "source": "量子位",
-          "date": "2026-09-11",
-          "dateLabel": "9月11日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/09/487055.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "502112589db5",
-          "title": "TrendForce 数据：十大芯片设计企业营收 2026Q2 同比增长 73%，AMD 升至第三",
-          "desc": "IT之家 9 月 11 日消息，TrendForce（集邦）今日根据其最新 IC 设计产业研究表示，全球十大（无晶圆厂）芯片设计企业合计营收在 2026 年第 2 季度达到 1,414.55 亿美元（IT之家注：现汇率约合 9,517.14 亿元人民币），同比增长 73%、环比增长 17%。▲ 图源：TrendForce2026Q2 营收增长最为显著的当属博通，凭借 AI 相关业务（XPU 与互连",
-          "source": "IT之家",
-          "date": "2026-09-11",
-          "dateLabel": "9月11日",
-          "tags": [
-            "research",
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/001/261.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/c6502d17-dfbd-42ed-8bb6-36e3cbca8e3f.jpg",
-          "color": "#d97706"
-        },
-        {
-          "id": "4d4c4d8e72b1",
-          "title": "小米开源工业级目标说话人语音识别大模型 Xiaomi-CocktailASR-1",
-          "desc": "IT之家 9 月 11 日消息，小米技术今日发文宣布，小米正式发布并开源工业级目标说话人语音识别大模型 Xiaomi-CocktailASR-1。官方表示，Xiaomi-CocktailASR-1 旨在解决“鸡尾酒会”难题（IT之家注：当前语音识别技术已经可以以较高精度识别一个人所讲的话，但是当说话的人数为两人或者多人时，语音识别率就会极大地降低，这一难题被称为鸡尾酒会问题）。该模型采用端到端 L",
-          "source": "IT之家",
-          "date": "2026-09-11",
-          "dateLabel": "9月11日",
-          "tags": [
-            "model",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/001/260.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/6fa7ebf2-3047-4dd9-bcb3-c610555c61d4.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "d046805bf9e3",
-          "title": "英伟达黄仁勋：网络安全是 AI 下一个重要市场，驳斥 AI 恐慌论",
-          "desc": "IT之家 9 月 11 日消息，昨日（9 月 10 日）召开的高盛会议上，英伟达首席执行官黄仁勋表示，网络安全将成为人工智能的下一个“重磅应用”。黄仁勋表示，网络安全是编程的自然延伸：编程可衍生出漏洞查找，而漏洞查找进一步对应网络安全市场。黄仁勋认为 AI 能力提升后，可被企业用于持续发现漏洞并协助防御攻击。针对外界的 AI 网络安全风险引发的忧虑，尤其是 OpenAI、Anthropic 等公司",
-          "source": "IT之家",
-          "date": "2026-09-11",
-          "dateLabel": "9月11日",
-          "tags": [
-            "business",
-            "policy"
-          ],
-          "url": "https://www.ithome.com/1/001/259.htm",
-          "image": "",
-          "color": "#d97706"
-        },
-        {
-          "id": "916911226205",
-          "title": "并非玩笑！Rapidus 社长小池淳义设想 2040 年前后建设月球半导体工厂",
-          "desc": "IT之家 9 月 11 日消息，日本先进半导体企业 Rapidus 社长小池淳义当地时间本月 10 日在美国出席智库活动并进行演讲时发表了到 2040 年前后在月球表面建设半导体工厂的构想。小池淳义还在演讲现场播放了利用 AI 制作的月面工厂构想视频。他表示“（埃隆 ·）马斯克应该也会非常喜欢这段视频”，“这不是玩笑，而是认真的计划”，还提到了月球表面有可供半导体制造使用的水资源。▲ 小池淳义相比",
-          "source": "IT之家",
-          "date": "2026-09-11",
-          "dateLabel": "9月11日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/001/255.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/ea5f5edd-5d17-4a2e-a42a-75ee34c6f84c.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
         }
       ]
     },
@@ -2681,85 +2800,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-08-09",
-      "dateLabel": "8月9日",
-      "id": "d09",
-      "items": [
-        {
-          "id": "746d01c14908",
-          "title": "180万刀，连亚马逊都烧不起Claude了",
-          "desc": "Claude不是我说你，钱真不能这么花",
-          "source": "量子位",
-          "date": "2026-08-09",
-          "dateLabel": "8月9日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://www.qbitai.com/2026/08/469010.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "ae2cd2acf369",
-          "title": "GPT-5.6和Fable联手，解决了一道悬了25年的数学难题",
-          "desc": "作者读博时就在研究，17年后被AI解开了",
-          "source": "量子位",
-          "date": "2026-08-09",
-          "dateLabel": "8月9日",
-          "tags": [
-            "model",
-            "research"
-          ],
-          "url": "https://www.qbitai.com/2026/08/468913.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "24c13801a972",
-          "title": "当题库追不上模型，AI开始给自己出题：中国这支团队跑通了数据层RSI",
-          "desc": "AI参与创造下一代AI",
-          "source": "量子位",
-          "date": "2026-08-09",
-          "dateLabel": "8月9日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/08/468782.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "598f21dbeda4",
-          "title": "Opus 5狂烧6.9亿token做游戏，GPT-5.6用5美元复刻了",
-          "desc": "据说GPT-5.6很适合拿来做游戏",
-          "source": "量子位",
-          "date": "2026-08-09",
-          "dateLabel": "8月9日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://www.qbitai.com/2026/08/468766.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "ae4a8bc0584d",
-          "title": "爆料：哈萨比斯原本要和Jeff Dean一起走！",
-          "desc": "谷歌缓兵之计把人留下",
-          "source": "量子位",
-          "date": "2026-08-09",
-          "dateLabel": "8月9日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/08/468715.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -2785,6 +2825,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-09-11 14:59",
-  "totalNews": 173
+  "updateTime": "2026-09-12 14:50",
+  "totalNews": 176
 }
