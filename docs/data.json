@@ -1,10 +1,208 @@
 {
   "newsData": [
     {
+      "date": "2026-09-13",
+      "dateLabel": "9月13日",
+      "id": "d13",
+      "items": [
+        {
+          "id": "a8eb80afd153",
+          "title": "OpenAI年内不上市了！奥特曼支持对手Dario呼吁：AI该踩刹车了",
+          "desc": "RSI太危险，得管！",
+          "source": "量子位",
+          "date": "2026-09-13",
+          "dateLabel": "9月13日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/09/488380.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "e69670ab48bf",
+          "title": "特斯拉计划在奥斯汀建设第二个 Robotaxi 专属充电站，配置 24 个 V4 充电桩",
+          "desc": "IT之家 9 月 13 日消息，要规模化运营自动驾驶网约车车队，远不止编写自动驾驶代码这么简单。车辆在接送乘客的间隙，需要专门场地完成充电、清洁与待班停放，不能挤占面向普通车主的公共充电桩。随着 Robotaxi 网络稳步扩张，特斯拉已经在规划专属配套基础设施，保障这支无人驾驶车队持续补能。长期追踪超级充电站动态的网友 MarcoRPi1（@MarcoRPi1）在 X 平台挖出的许可文件与设计图纸",
+          "source": "IT之家",
+          "date": "2026-09-13",
+          "dateLabel": "9月13日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://www.ithome.com/1/001/762.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/d5d649f6-9bdb-42d1-8d5d-33c42a6d586c.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "d4804cac30b4",
+          "title": "华为 HarmonyOS 粒子动效适配设备清单调整，Mate 70 Air 等升级 7.0.0.105SP10 版本后支持",
+          "desc": "IT之家 9 月 13 日消息，华为官网近日调整了沉浸光感和粒子动效设备支持清单，Mate 60 系列、Mate X5 系列、Mate XT 系列、Pura 70 系列等目前显示“暂不支持”。另外，Mate 70 和 Mate 70 Air 需升级至 HarmonyOS 7.0.0.105SP10 及以上版本支持；Pura 90 和 Pura 80 需升级至 HarmonyOS 7.0.0.105",
+          "source": "IT之家",
+          "date": "2026-09-13",
+          "dateLabel": "9月13日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/001/757.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/a1ba8161-448d-4c88-afec-3e2fe1bfc03c.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "09371aba042c",
+          "title": "车主手册披露：特斯拉 Grok 将支持语音收发短信功能",
+          "desc": "IT之家 9 月 13 日消息，特斯拉借助 Grok，持续把车载语音控制从基础关键词指令，升级成一套完整的对话助手。自从 SpaceX AI 的聊天程序登陆特斯拉车机屏幕后，工程师不断拓展其功能，让驾驶员双手不用离开方向盘就能完成更多操作。如今官方文档披露，下一步将要上线短信收发功能。网友在特斯拉 Model Y 新版车主手册里发现了这项待上线功能。更新后的介绍页面说明了 Grok 切换为助手模式",
+          "source": "IT之家",
+          "date": "2026-09-13",
+          "dateLabel": "9月13日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/001/755.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/f024559b-09c5-4833-a8bb-53621655bba1.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "c9e8c2198fe8",
+          "title": "图灵量子发布 TuringQ Gen3 第三代光量子计算机：标准 IDC 机柜形态，采用自研 XLink 低延迟互联架构",
+          "desc": "IT之家 9 月 13 日消息，据新浪财经报道，图灵量子今日正式发布“TuringQ Gen3 大规模芯片级可扩展光量子计算机”。该产品采用标准 IDC 机柜形态，拥有全芯片化、模块化、可扩展的整机架构和全栈软硬件体系，支持量子算力节点按需扩展。IT之家从原报道获悉，TuringQ Gen3 基于高速可编程薄膜铌酸锂光量子芯片打造，集成量子光源、可编程光量子处理芯片、单光子探测及量子-经典异构计算",
+          "source": "IT之家",
+          "date": "2026-09-13",
+          "dateLabel": "9月13日",
+          "tags": [
+            "research",
+            "business",
+            "policy"
+          ],
+          "url": "https://www.ithome.com/1/001/752.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/6681bb4d-8d8b-43f2-9f6a-02a9e32a39e1.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "f6881a45c077",
+          "title": "时隔多年苹果再拿华为做对比，Apple Watch 心率准确性研究将 HUAWEI WATCH 5 列为“唯一的例外”",
+          "desc": "IT之家 9 月 13 日消息，苹果在 9 月 10 日正式发布了 Apple Watch Series 12 智能手表，搭载更强的健康传感器和全新的 Apple 芯片。伴随 Apple Watch Series 12 智能手表发布的还有一份苹果《Apple Watch 心率准确性研究》。苹果在这份研究中总结了升级后的光学心率传感系统在可穿戴设备领域中相对于其他设备的准确性。参与苹果此次研究的腕戴",
+          "source": "IT之家",
+          "date": "2026-09-13",
+          "dateLabel": "9月13日",
+          "tags": [
+            "research",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/001/740.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/e224a7de-c1b5-454f-b9bd-b6ba0385cce7.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "f4deab61df69",
+          "title": "荣耀 Play11 手机发售：骁龙 4 Gen4、AI 一键关广告弹窗，1399 元起",
+          "desc": "IT之家 9 月 13 日消息，荣耀旗下 Play11 手机现已在荣耀商城发售（点此访问），该机主打 IP69K 认证、8300mAh 电池，定价为 1399 元起，部分地区国补后低至 1189.15 元起。6GB RAM+128GB 存储空间：1399 元8GB RAM+128GB 存储空间：1449 元8GB RAM+256GB 存储空间：1749 元该机提供幻夜黑、沙漠金、流星银等配色可选，",
+          "source": "IT之家",
+          "date": "2026-09-13",
+          "dateLabel": "9月13日",
+          "tags": [
+            "policy"
+          ],
+          "url": "https://www.ithome.com/1/001/731.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/ec3afb33-c336-4d4d-a1bf-68f40c0cd84a.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "957ae723c307",
+          "title": "谷歌为 Android 新增系统级密码管理器迁移，通行密钥支持无缝搬家",
+          "desc": "IT之家 9 月 13 日消息，谷歌本周四宣布为 Android 新增系统级密码管理器迁移体验。用户只需要点击几下屏幕，就能安全、迅速地切换不同密码管理器，全程无需下载任何文件。谷歌表示，Android 系统过去的迁移密码体验并不完美。用户往往需要将密码库导出为未加密的文本文件，通行密钥完全无法转移，用户只能在网站和 App 间重新创建。如今谷歌为 Android 带来全新密码迁移体验。用户只需要",
+          "source": "IT之家",
+          "date": "2026-09-13",
+          "dateLabel": "9月13日",
+          "tags": [
+            "policy"
+          ],
+          "url": "https://www.ithome.com/1/001/727.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/8b433123-5417-430e-a6da-5bab1009ab0f.jpg",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-09-12",
       "dateLabel": "9月12日",
       "id": "d12",
       "items": [
+        {
+          "id": "3f1764027062",
+          "title": "“算力中国·年度卓越成就”发布 太初元碁超智融合计算系统入选",
+          "desc": "太初（杭州）集成电路有限公司新一代超智融合计算系统元碁Hypertintellix入选“算力中国·年度卓越成就”。",
+          "source": "量子位",
+          "date": "2026-09-12",
+          "dateLabel": "9月12日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/09/487860.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "2bcda088d467",
+          "title": "A社承认Claude安全对齐存在缺陷，但“尚无解决方案”",
+          "desc": "Claude越界攻击真实系统，并非只是测试系统的设置问题，模型本身的安全问题也出了问题。",
+          "source": "量子位",
+          "date": "2026-09-12",
+          "dateLabel": "9月12日",
+          "tags": [
+            "model",
+            "policy"
+          ],
+          "url": "https://www.qbitai.com/2026/09/487796.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "079b1de522ec",
+          "title": "探索RSI，生数新世界模型让机器人开始自我进化",
+          "desc": "触觉、记忆、Ego数据、自进化……这个世界模型全都有",
+          "source": "量子位",
+          "date": "2026-09-12",
+          "dateLabel": "9月12日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.qbitai.com/2026/09/487752.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "e36f34e720e4",
+          "title": "AI数学的最后一道高墙，塌了！GPT-6 Astra刷穿FrontierMath Tier 4",
+          "desc": "FrontierMath Tier 4，饱和了",
+          "source": "量子位",
+          "date": "2026-09-12",
+          "dateLabel": "9月12日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://www.qbitai.com/2026/09/487701.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "d7232384c60f",
+          "title": "Kimi突发K2.8：性能逼近K3，百万上下文全员开放",
+          "desc": "冲刺港股IPO",
+          "source": "量子位",
+          "date": "2026-09-12",
+          "dateLabel": "9月12日",
+          "tags": [
+            "model",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/09/487688.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
         {
           "id": "9b1c7f212fa8",
           "title": "陶哲轩邓煜究竟在反对什么：AI暴力解题摧毁人类数学精神",
@@ -18,107 +216,6 @@
           "url": "https://www.qbitai.com/2026/09/487653.html",
           "image": "",
           "color": "#7c3aed"
-        },
-        {
-          "id": "e00210c6f2a2",
-          "title": "海盗船推出 SHUGO 艺术联名 DDR5 6000 内存条，32GB 到手价 5499 元",
-          "desc": "IT之家 9 月 12 日消息，美商海盗船推出 SHUGO DDR5 守护者艺术联名版 DDR5 6000 内存条，提供黑曜刃、樱花版两种，32GB（16G×2）CL28 版本 5499 元，现已开售。京东美商海盗船（USCORSAIR）32GB (16Gx2) 套装 SHUGO DDR5 6000 台式机内存条 守护者 艺术联名款 RGB 灯条 CL28 樱花版 5499 元直达链接这款内存条属",
-          "source": "IT之家",
-          "date": "2026-09-12",
-          "dateLabel": "9月12日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/001/570.htm",
-          "image": "https://img14.360buyimg.com/pop/jfs/t1/515052/23/5631/83416/6a979987F69581142/00833203200b495d.jpg",
-          "color": "#d97706"
-        },
-        {
-          "id": "ef7c2aec91ae",
-          "title": "Wildcat Lake 款戴尔 14 轻薄本上市：酷睿 5 320 版 5999 元",
-          "desc": "IT之家 9 月 12 日消息，戴尔 14（国行商品标题又写作灵越 14 Air）现已在京东上架，将于 9 月 14 日 10:00 开售，IT之家汇总价格如下：酷睿 5 320 处理器、16GB 内存、512GB 固态硬盘、FHD+ 60Hz 屏幕：5999 元酷睿 5 320 处理器、16GB 内存、512GB 固态硬盘、QHD+ 120Hz 屏幕：6399 元酷睿 5 320 处理器、16G",
-          "source": "IT之家",
-          "date": "2026-09-12",
-          "dateLabel": "9月12日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/001/568.htm",
-          "image": "https://img14.360buyimg.com/pop/jfs/t1/520639/25/5191/84709/6aa25f8dFb367183c/0083320320e0ba8b.jpg",
-          "color": "#d97706"
-        },
-        {
-          "id": "870e4071060d",
-          "title": "荣耀亲选 DigaCite AI 相册管家上架：11 英寸全高清面板、内置 AI 创作功能，999 元",
-          "desc": "IT之家 9 月 12 日消息，荣耀现已在京东上架荣耀亲选 DigaCite AI 相册管家，该产品可以看作是一款平板电脑，定价 1199 元，首发价 999 元。京东荣耀亲选 DigaCiteAI 相册管家券后 999 元领 200 元券该产品采用 6.9mm 金属机身，配备 11 英寸 1920x1200 分辨率面板，支持横竖双摆两种摆放方式，可自然融入各类家居环境。设备最高支持 4TB 拓展",
-          "source": "IT之家",
-          "date": "2026-09-12",
-          "dateLabel": "9月12日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/001/557.htm",
-          "image": "https://img14.360buyimg.com/pop/jfs/t1/520933/30/6771/63905/6aa2a67aFf0c224b0/00833203204e3636.png",
-          "color": "#d97706"
-        },
-        {
-          "id": "90bb1af27ade",
-          "title": "25 位菲尔兹奖得主联合警告“AI 在数学领域严重错位”，邓煜调侃要退休回家写百合小说",
-          "desc": "IT之家 9 月 12 日消息，当地时间 9 月 11 日，陶哲轩、邓煜、彼得 · 舒尔茨（Peter Scholze）等 25 位菲尔兹奖得主作为最初签署人，联合发表声明《人工智能在数学中的严重错位》（A Severe Misalignment of AI in Mathematics），警告 AI 公司与数学共同体之间正在出现“严重错位”。声明称，在过去几个月里，大语言模型的数学能力有了显著提",
-          "source": "IT之家",
-          "date": "2026-09-12",
-          "dateLabel": "9月12日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/001/554.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/fc8f2101-b156-48b5-8cca-501315d1b973.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "c9f9c2aeaea2",
-          "title": "飞傲 FT15 金刚石纳米级振膜平板头戴耳机发布，2999 元",
-          "desc": "IT之家 9 月 12 日消息，飞傲 FT15 头戴式耳机今日正式发布，宣称是“金刚石纳米级振膜平板头戴耳机”，售价 2,999 元，现已正式开售。飞傲 FT15 搭载 800 纳米特薄膜片，厚度相比前代降低了 86.7%；整面自研金刚石镀层，频响延伸至 40kHz。飞傲 FT15 配备 101mm 全尺寸单元，采用均匀等磁场专利设计，定制异形强磁，源头抑制分割振动与失真，还有 28 纳米芯片级电",
-          "source": "IT之家",
-          "date": "2026-09-12",
-          "dateLabel": "9月12日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/001/551.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/1ea477db-82ac-4056-b578-9b9ec3fd6b81.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "e69792379f8b",
-          "title": "英伟达 DLSS 5 混合精度 Mod 测试：RTX 50 系列显卡性能仅提升 1% 至 2%",
-          "desc": "IT之家 9 月 12 日消息，在英伟达 DLSS 5 神经渲染 DLL 文件流出后，各路民间大神纷纷下场进行调试和优化，还有 Mod 开发者尝试通过降低模型推理成本以提升游戏性能。根据 X 用户 SwurvGaming 分享的情报，有 Mod 开发者将 FP8 与 NVFP4 混合精度应用于 DLSS 5 神经渲染模型，并在 RTX 50 系列显卡上运行。不过，该方案在 4K 分辨率下仅将神经渲",
-          "source": "IT之家",
-          "date": "2026-09-12",
-          "dateLabel": "9月12日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://www.ithome.com/1/001/524.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/dd42f4b9-60da-4c50-9578-c2d8220da364.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "3f9ddf6cf448",
-          "title": "俞敏洪：人工智能可能加剧社会贫富悬殊",
-          "desc": "11 月 12 日上午消息，在“2026 崇礼论坛”上，新东方创始人俞敏洪表示，“现在人工智能的发展呈现出一种趋势，互联网发展曾创造了无数工作机会，未来人工智能同样也会创造大量新的工作机会。但我们也会发现一个明显的倾向，人工智能正在替代普通人的工作机会，尤其是过去几百年里，那些依靠重复劳动赚取生活资源的普通人。而未来所创造出的新工作机会，则需要人们重新学习和重新定义。”他谈到，“这跟工业革命带来的",
-          "source": "IT之家",
-          "date": "2026-09-12",
-          "dateLabel": "9月12日",
-          "tags": [
-            "policy"
-          ],
-          "url": "https://www.ithome.com/1/001/522.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/fae4eee6-d653-4742-a75f-a25bcf868e94.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
         }
       ]
     },
@@ -167,78 +264,6 @@
             "cn"
           ],
           "url": "https://www.qbitai.com/2026/09/487415.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "363b57f08ef8",
-          "title": "不简单，“吃货快乐榜”也全面AI化了",
-          "desc": "不简单，“吃货快乐榜”也全面AI化了",
-          "source": "量子位",
-          "date": "2026-09-11",
-          "dateLabel": "9月11日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/09/487282.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "fb3956de3b90",
-          "title": "墨芯人工智能亮相2026 Inclusion·外滩大会：以专用稀疏推理芯片提升算力效能，共创AI新经济",
-          "desc": "9月9日，墨芯人工智能亮相以\"共创AI新经济\"为主题的2026 Inclusion·外滩大会。",
-          "source": "量子位",
-          "date": "2026-09-11",
-          "dateLabel": "9月11日",
-          "tags": [
-            "research",
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/09/487273.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "4dba2256d0ff",
-          "title": "量子位「MEET2027智能未来大会」启动！年度榜单征集进行中",
-          "desc": "今年12月，北京，MEET2027智能未来大会！",
-          "source": "量子位",
-          "date": "2026-09-11",
-          "dateLabel": "9月11日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/09/487176.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "71e743664647",
-          "title": "3万台无人车之后，这家公司盯上了城市级物理AI",
-          "desc": "3万台无人车之后，这家公司盯上了城市级物理AI",
-          "source": "量子位",
-          "date": "2026-09-11",
-          "dateLabel": "9月11日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/09/487163.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "fa6c9aec2106",
-          "title": "OpenAI这是拿千禧年难题当Benchmark刷啊。。。",
-          "desc": "爆料直指霍奇猜想",
-          "source": "量子位",
-          "date": "2026-09-11",
-          "dateLabel": "9月11日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://www.qbitai.com/2026/09/487092.html",
           "image": "",
           "color": "#7c3aed"
         }
@@ -2680,126 +2705,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-08-10",
-      "dateLabel": "8月10日",
-      "id": "d10",
-      "items": [
-        {
-          "id": "d3db9883e869",
-          "title": "AI倒查论文100年！99.2%的顶刊都有问题…",
-          "desc": "科研人快来啊，天上掉选题了",
-          "source": "量子位",
-          "date": "2026-08-10",
-          "dateLabel": "8月10日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://www.qbitai.com/2026/08/469795.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "cd13962106ab",
-          "title": "PDF当死，ARA该立！论文是时候Agent原生了",
-          "desc": "以后论文的第一读者不是人，而是AI？",
-          "source": "量子位",
-          "date": "2026-08-10",
-          "dateLabel": "8月10日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://www.qbitai.com/2026/08/469721.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "c4d50083d9d0",
-          "title": "模型路线趋同之后，Physical AI的胜负手变了",
-          "desc": "物理AI新瓶颈已出现",
-          "source": "量子位",
-          "date": "2026-08-10",
-          "dateLabel": "8月10日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/08/469544.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "eb972a1ef74c",
-          "title": "对话郎咸朋：具身也会有“蔚小理”，靠融资实现不了物理AGI",
-          "desc": "“我们90天就成了独角兽”",
-          "source": "量子位",
-          "date": "2026-08-10",
-          "dateLabel": "8月10日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/08/469520.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "c3e7f7c18715",
-          "title": "Claude Code倒计时5天默认自动模式，多花的钱A社自己掏",
-          "desc": "会话越长，人的表现越差",
-          "source": "量子位",
-          "date": "2026-08-10",
-          "dateLabel": "8月10日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://www.qbitai.com/2026/08/469500.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "1946464d1080",
-          "title": "Meoo秒悟团队版全量上线， 接入Qwen-3.8-Max、即日起可直接订阅",
-          "desc": "从面向个人的AI创作工具，扩展为可供组织使用的生产力平台",
-          "source": "量子位",
-          "date": "2026-08-10",
-          "dateLabel": "8月10日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/08/469493.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "8b4a9975d114",
-          "title": "苹果开测长鑫存储！百度、千问也一起挤进苹果供应链",
-          "desc": "先解决这轮内存荒！",
-          "source": "量子位",
-          "date": "2026-08-10",
-          "dateLabel": "8月10日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/08/469475.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "ca856f0f0417",
-          "title": "墨芯成立稀疏计算产学研联盟，以生态协同突破产业化壁垒",
-          "desc": "墨芯成立稀疏计算产学研联盟，以生态协同突破产业化壁垒",
-          "source": "量子位",
-          "date": "2026-08-10",
-          "dateLabel": "8月10日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/08/469454.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -2825,6 +2730,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-09-12 14:50",
-  "totalNews": 176
+  "updateTime": "2026-09-13 15:09",
+  "totalNews": 169
 }
