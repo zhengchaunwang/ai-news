@@ -1,10 +1,178 @@
 {
   "newsData": [
     {
+      "date": "2026-09-14",
+      "dateLabel": "9月14日",
+      "id": "d14",
+      "items": [
+        {
+          "id": "41732590069c",
+          "title": "AI开始改进“改进自己的方法”，RSI进入平方时代丨MetaRSI",
+          "desc": "小模型突破瓶颈，旗舰模型打开新空间",
+          "source": "量子位",
+          "date": "2026-09-14",
+          "dateLabel": "9月14日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/09/488832.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "2a8559844381",
+          "title": "中国物理AI大突破：PhysBrain 1.5登顶全球开源榜一，空间智能与GPT-6 Astra并驾齐驱",
+          "desc": "这家中国公司，刚跑完了物理闭环里最难的一段路",
+          "source": "量子位",
+          "date": "2026-09-14",
+          "dateLabel": "9月14日",
+          "tags": [
+            "model",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/09/488725.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "8e4ee97c156f",
+          "title": "奥特曼被骗！A社一脚油门冲刺IPO，募资叫板SpaceX",
+          "desc": "还是太嫩了啊Dario",
+          "source": "量子位",
+          "date": "2026-09-14",
+          "dateLabel": "9月14日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/09/488699.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "2e428caa664b",
+          "title": "智谱提前剧透下一代GLM：完全自训练方法公开了",
+          "desc": "模型、论文都还没出，没想到先从财务公告上剧透了",
+          "source": "量子位",
+          "date": "2026-09-14",
+          "dateLabel": "9月14日",
+          "tags": [
+            "model",
+            "research",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/09/488694.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "e740ba674b80",
+          "title": "夜深 emo 陪你聊聊天：京造 AI 自适应床垫 9999 元众筹，支持 32 项健康监测",
+          "desc": "京东京造 X JoyInside AI 智能床垫今日首发众筹，叠加补贴后低至 9699 元，支持 1 年价保 + 整机 3 年质保（电机 10 年质保）。此款较普通床垫，新增支持：内置压电双模传感器（检测阻塞性呼吸暂停）识别后自动轻柔抬升AI 闹钟智能唤醒AI 语音陪聊 / 控制床垫32 项健康监测（小程序可查看日报 / 周报 / 月报）支持 AI 智能温度控制（石墨烯加热）支持 AI 自适应调节",
+          "source": "IT之家",
+          "date": "2026-09-14",
+          "dateLabel": "9月14日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/002/089.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/bab95d43-2147-4451-950a-19e414a81350.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "5b1f50d40d5f",
+          "title": "小米卢伟冰：科技家电的未来是主动智能，也是米家下一个十年要走的路",
+          "desc": "IT之家 9 月 14 日消息，小米集团合伙人、总裁卢伟冰今日发文谈到了米家品牌。他提到，2016 年小米创立米家品牌，正式进入家电行业。科技家电的未来是主动智能，这也是米家下一个十年，要走的路。未来，会有更多“懂事”的米家产品和大家见面。他表示，家电从能联网、能 App 控制，到能语音、能 AI 交互，“让家电听话”这件事，行业已经做到了极致。但说句实话，再听话，本质还是“遥控器”一-你说一句，",
+          "source": "IT之家",
+          "date": "2026-09-14",
+          "dateLabel": "9月14日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/002/091.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/dbbda746-9273-4c58-8837-396c56c8fa19.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "81d0a041ccbc",
+          "title": "OpenAI CEO 奥尔特曼支持控制 AI 发展速度，强调并非停止技术进步",
+          "desc": "IT之家 9 月 14 日消息，OpenAI 首席执行官萨姆 · 奥尔特曼（Sam Altman）于当地时间上周日表态，支持对人工智能的发展采取“控速”思路，避免尖端模型的能力发展速度超出人类可控范围。奥尔特曼的表述与 Anthropic 首席执行官达里奥 · 阿莫迪（Dario Amodei）的观点相近。他称，将工作重心转向安全会付出一定代价，但此举有助于维持外界信心，证明美国企业在研发能力日益",
+          "source": "IT之家",
+          "date": "2026-09-14",
+          "dateLabel": "9月14日",
+          "tags": [
+            "policy"
+          ],
+          "url": "https://www.ithome.com/1/002/090.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/2/8ad2304d-c61b-4004-9483-e1a55ca43342.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "d88c78ab1fd5",
+          "title": "部分联想笔记本用户反馈不兼容微软 8 月 Win11 更新，导致随机断电 / 黑屏",
+          "desc": "IT之家 9 月 14 日消息，科技媒体 Neowin 今天（9 月 14 日）发布博文，报道称部分联想笔记本在升级微软 8 月累积更新 KB5121003 后，出现随机断电和黑屏故障。IT之家注：微软在 8 月补丁星期二活动中面向 Windows 11 用户推送 KB5121003 安全更新，24H2 版本系统升至 build 26100.9168，25H2 版本升至 build 26200.9",
+          "source": "IT之家",
+          "date": "2026-09-14",
+          "dateLabel": "9月14日",
+          "tags": [
+            "business",
+            "policy"
+          ],
+          "url": "https://www.ithome.com/1/002/082.htm",
+          "image": "",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-09-13",
       "dateLabel": "9月13日",
       "id": "d13",
       "items": [
+        {
+          "id": "eb8b541fa42c",
+          "title": "2000+真实场景搬进仿真！一个导航模型零样本“通吃”四种机器人本体",
+          "desc": "亮源新创的Physical Al路线清晰了",
+          "source": "量子位",
+          "date": "2026-09-13",
+          "dateLabel": "9月13日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.qbitai.com/2026/09/488672.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "7ef774673eb1",
+          "title": "GitHub三榜第一背后，一个“专升本”工程师的十年",
+          "desc": "出身寒微不是耻辱，放弃自己才是。",
+          "source": "量子位",
+          "date": "2026-09-13",
+          "dateLabel": "9月13日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/09/488519.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "2a7396db193f",
+          "title": "今年外滩最特别Agent：能干活，能陪聊，还会朋友圈拉黑你",
+          "desc": "Agent的下一步是关系型生产力",
+          "source": "量子位",
+          "date": "2026-09-13",
+          "dateLabel": "9月13日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/09/488447.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
         {
           "id": "a8eb80afd153",
           "title": "OpenAI年内不上市了！奥特曼支持对手Dario呼吁：AI该踩刹车了",
@@ -18,109 +186,6 @@
           "url": "https://www.qbitai.com/2026/09/488380.html",
           "image": "",
           "color": "#7c3aed"
-        },
-        {
-          "id": "e69670ab48bf",
-          "title": "特斯拉计划在奥斯汀建设第二个 Robotaxi 专属充电站，配置 24 个 V4 充电桩",
-          "desc": "IT之家 9 月 13 日消息，要规模化运营自动驾驶网约车车队，远不止编写自动驾驶代码这么简单。车辆在接送乘客的间隙，需要专门场地完成充电、清洁与待班停放，不能挤占面向普通车主的公共充电桩。随着 Robotaxi 网络稳步扩张，特斯拉已经在规划专属配套基础设施，保障这支无人驾驶车队持续补能。长期追踪超级充电站动态的网友 MarcoRPi1（@MarcoRPi1）在 X 平台挖出的许可文件与设计图纸",
-          "source": "IT之家",
-          "date": "2026-09-13",
-          "dateLabel": "9月13日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://www.ithome.com/1/001/762.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/d5d649f6-9bdb-42d1-8d5d-33c42a6d586c.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "d4804cac30b4",
-          "title": "华为 HarmonyOS 粒子动效适配设备清单调整，Mate 70 Air 等升级 7.0.0.105SP10 版本后支持",
-          "desc": "IT之家 9 月 13 日消息，华为官网近日调整了沉浸光感和粒子动效设备支持清单，Mate 60 系列、Mate X5 系列、Mate XT 系列、Pura 70 系列等目前显示“暂不支持”。另外，Mate 70 和 Mate 70 Air 需升级至 HarmonyOS 7.0.0.105SP10 及以上版本支持；Pura 90 和 Pura 80 需升级至 HarmonyOS 7.0.0.105",
-          "source": "IT之家",
-          "date": "2026-09-13",
-          "dateLabel": "9月13日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/001/757.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/a1ba8161-448d-4c88-afec-3e2fe1bfc03c.png",
-          "color": "#d97706"
-        },
-        {
-          "id": "09371aba042c",
-          "title": "车主手册披露：特斯拉 Grok 将支持语音收发短信功能",
-          "desc": "IT之家 9 月 13 日消息，特斯拉借助 Grok，持续把车载语音控制从基础关键词指令，升级成一套完整的对话助手。自从 SpaceX AI 的聊天程序登陆特斯拉车机屏幕后，工程师不断拓展其功能，让驾驶员双手不用离开方向盘就能完成更多操作。如今官方文档披露，下一步将要上线短信收发功能。网友在特斯拉 Model Y 新版车主手册里发现了这项待上线功能。更新后的介绍页面说明了 Grok 切换为助手模式",
-          "source": "IT之家",
-          "date": "2026-09-13",
-          "dateLabel": "9月13日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/001/755.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/f024559b-09c5-4833-a8bb-53621655bba1.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "c9e8c2198fe8",
-          "title": "图灵量子发布 TuringQ Gen3 第三代光量子计算机：标准 IDC 机柜形态，采用自研 XLink 低延迟互联架构",
-          "desc": "IT之家 9 月 13 日消息，据新浪财经报道，图灵量子今日正式发布“TuringQ Gen3 大规模芯片级可扩展光量子计算机”。该产品采用标准 IDC 机柜形态，拥有全芯片化、模块化、可扩展的整机架构和全栈软硬件体系，支持量子算力节点按需扩展。IT之家从原报道获悉，TuringQ Gen3 基于高速可编程薄膜铌酸锂光量子芯片打造，集成量子光源、可编程光量子处理芯片、单光子探测及量子-经典异构计算",
-          "source": "IT之家",
-          "date": "2026-09-13",
-          "dateLabel": "9月13日",
-          "tags": [
-            "research",
-            "business",
-            "policy"
-          ],
-          "url": "https://www.ithome.com/1/001/752.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/6681bb4d-8d8b-43f2-9f6a-02a9e32a39e1.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "f6881a45c077",
-          "title": "时隔多年苹果再拿华为做对比，Apple Watch 心率准确性研究将 HUAWEI WATCH 5 列为“唯一的例外”",
-          "desc": "IT之家 9 月 13 日消息，苹果在 9 月 10 日正式发布了 Apple Watch Series 12 智能手表，搭载更强的健康传感器和全新的 Apple 芯片。伴随 Apple Watch Series 12 智能手表发布的还有一份苹果《Apple Watch 心率准确性研究》。苹果在这份研究中总结了升级后的光学心率传感系统在可穿戴设备领域中相对于其他设备的准确性。参与苹果此次研究的腕戴",
-          "source": "IT之家",
-          "date": "2026-09-13",
-          "dateLabel": "9月13日",
-          "tags": [
-            "research",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/001/740.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/e224a7de-c1b5-454f-b9bd-b6ba0385cce7.jpg",
-          "color": "#d97706"
-        },
-        {
-          "id": "f4deab61df69",
-          "title": "荣耀 Play11 手机发售：骁龙 4 Gen4、AI 一键关广告弹窗，1399 元起",
-          "desc": "IT之家 9 月 13 日消息，荣耀旗下 Play11 手机现已在荣耀商城发售（点此访问），该机主打 IP69K 认证、8300mAh 电池，定价为 1399 元起，部分地区国补后低至 1189.15 元起。6GB RAM+128GB 存储空间：1399 元8GB RAM+128GB 存储空间：1449 元8GB RAM+256GB 存储空间：1749 元该机提供幻夜黑、沙漠金、流星银等配色可选，",
-          "source": "IT之家",
-          "date": "2026-09-13",
-          "dateLabel": "9月13日",
-          "tags": [
-            "policy"
-          ],
-          "url": "https://www.ithome.com/1/001/731.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/ec3afb33-c336-4d4d-a1bf-68f40c0cd84a.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "957ae723c307",
-          "title": "谷歌为 Android 新增系统级密码管理器迁移，通行密钥支持无缝搬家",
-          "desc": "IT之家 9 月 13 日消息，谷歌本周四宣布为 Android 新增系统级密码管理器迁移体验。用户只需要点击几下屏幕，就能安全、迅速地切换不同密码管理器，全程无需下载任何文件。谷歌表示，Android 系统过去的迁移密码体验并不完美。用户往往需要将密码库导出为未加密的文本文件，通行密钥完全无法转移，用户只能在网站和 App 间重新创建。如今谷歌为 Android 带来全新密码迁移体验。用户只需要",
-          "source": "IT之家",
-          "date": "2026-09-13",
-          "dateLabel": "9月13日",
-          "tags": [
-            "policy"
-          ],
-          "url": "https://www.ithome.com/1/001/727.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/8b433123-5417-430e-a6da-5bab1009ab0f.jpg",
-          "color": "#d97706"
         }
       ]
     },
@@ -156,64 +221,6 @@
             "policy"
           ],
           "url": "https://www.qbitai.com/2026/09/487796.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "079b1de522ec",
-          "title": "探索RSI，生数新世界模型让机器人开始自我进化",
-          "desc": "触觉、记忆、Ego数据、自进化……这个世界模型全都有",
-          "source": "量子位",
-          "date": "2026-09-12",
-          "dateLabel": "9月12日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://www.qbitai.com/2026/09/487752.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "e36f34e720e4",
-          "title": "AI数学的最后一道高墙，塌了！GPT-6 Astra刷穿FrontierMath Tier 4",
-          "desc": "FrontierMath Tier 4，饱和了",
-          "source": "量子位",
-          "date": "2026-09-12",
-          "dateLabel": "9月12日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://www.qbitai.com/2026/09/487701.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "d7232384c60f",
-          "title": "Kimi突发K2.8：性能逼近K3，百万上下文全员开放",
-          "desc": "冲刺港股IPO",
-          "source": "量子位",
-          "date": "2026-09-12",
-          "dateLabel": "9月12日",
-          "tags": [
-            "model",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/09/487688.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "9b1c7f212fa8",
-          "title": "陶哲轩邓煜究竟在反对什么：AI暴力解题摧毁人类数学精神",
-          "desc": "25位菲尔兹奖得主联名吹哨",
-          "source": "量子位",
-          "date": "2026-09-12",
-          "dateLabel": "9月12日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/09/487653.html",
           "image": "",
           "color": "#7c3aed"
         }
@@ -2682,29 +2689,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-08-11",
-      "dateLabel": "8月11日",
-      "id": "d11",
-      "items": [
-        {
-          "id": "997d8f51568d",
-          "title": "蚂蚁首次投向机器人“指尖”！数亿元押注，全球首个物理交互脑发布",
-          "desc": "资本正从具身本体集体涌向触觉",
-          "source": "量子位",
-          "date": "2026-08-11",
-          "dateLabel": "8月11日",
-          "tags": [
-            "research",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/08/470674.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -2730,6 +2714,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-09-13 15:09",
-  "totalNews": 169
+  "updateTime": "2026-09-14 15:33",
+  "totalNews": 168
 }
