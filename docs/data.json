@@ -1,128 +1,230 @@
 {
   "newsData": [
     {
+      "date": "2026-09-15",
+      "dateLabel": "9月15日",
+      "id": "d15",
+      "items": [
+        {
+          "id": "f25820763e09",
+          "title": "前OpenAI后训练VP回应陶哲轩：说AI毁了数学，可能还是太小瞧AI了",
+          "desc": "未来的AI不仅能解决问题，还能提出有价值的洞见、建立新的概念框架，让数学家在此基础上继续探索。",
+          "source": "量子位",
+          "date": "2026-09-15",
+          "dateLabel": "9月15日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.qbitai.com/2026/09/489288.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "f50ae7bceeaf",
+          "title": "9月21日，深圳前海！聊聊工业AI与生态共创的下一步",
+          "desc": "西门子Xcelerator繁星生态大会，在生态合作中共赢机遇",
+          "source": "量子位",
+          "date": "2026-09-15",
+          "dateLabel": "9月15日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/09/489277.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "4a319eb7bb5b",
+          "title": "7名博士生仅用3个月从零训练7B大模型：代码+数据+训练日志全公开",
+          "desc": "几百个Agent参与研发，AI开始造AI",
+          "source": "量子位",
+          "date": "2026-09-15",
+          "dateLabel": "9月15日",
+          "tags": [
+            "model",
+            "research"
+          ],
+          "url": "https://www.qbitai.com/2026/09/489227.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "a2a1baf38be7",
+          "title": "行业呼吁控制 AI 研发节奏：投资者担忧资本开支降温，半导体板块承压",
+          "desc": "IT之家 9 月 15 日消息，据路透社报道，在行业领军人物呼吁控制 AI 研发节奏后，投资者对由 AI 带动的股市上涨行情开始心生不安，不过也有人认为，监管约束最终或将利好 AI 行业。上周末，在接连传出 AI 可能危及人类的悲观论断之后，包括 Anthropic 首席执行官达里奥 · 阿莫代伊（Dario Amodei）在内的多位 AI 行业领军人物呼吁放缓技术迭代速度，争取更多时间管控相关风",
+          "source": "IT之家",
+          "date": "2026-09-15",
+          "dateLabel": "9月15日",
+          "tags": [
+            "policy"
+          ],
+          "url": "https://www.ithome.com/1/002/562.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2025/11/62b5ea8d-908b-4cef-8fe9-837cb9190d66.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "e1eea9567ecf",
+          "title": "迎接定制化需求：消息称三星电子将委托台积电生产部分 HBM 基础裸片",
+          "desc": "IT之家 9 月 15 日消息，韩媒 ZDNET Korea 当地时间今日报道称，三星电子存储器业务正推动其 HBM 内存基础裸片 (Base Die) 供应的双轨化，部分基础裸片将交由台积电生产。消息人士表示，已有客户在芯片设计中导入三星电子 DRAM Die + 台积电 Base Die 的 HBM 堆栈方案。三星电子存储器业务的 HBM4 Base Die 由三星电子内部的系统 LSI 业务",
+          "source": "IT之家",
+          "date": "2026-09-15",
+          "dateLabel": "9月15日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/002/561.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/27d8a640-59ef-45d7-8790-abfc1c5a4553.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "24fa7608adbe",
+          "title": "联想推出 IdeaCentre AIO 24IWC11 一体机：至高酷睿 7 350 处理器，24 寸 1080P 屏幕",
+          "desc": "IT之家 9 月 15 日消息，联想现已在海外市场推出 IdeaCentre AIO 24IWC11 一体机，新品采用英特尔 Windcat Lake 平台，配备 120Hz 屏幕。据介绍，这款一体机的入门配置采用 24 英寸 1080P IPS 屏幕，支持 120Hz 高刷，峰值亮度 350nits，覆盖 99% sRGB 色域。规格方面，这款一体机可选英特尔酷睿 3 304、酷睿 5 320、",
+          "source": "IT之家",
+          "date": "2026-09-15",
+          "dateLabel": "9月15日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/002/557.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/cf6d4b89-9d9d-4de8-acd2-b59780e1b1b8.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "fc7d8930269c",
+          "title": "联发科技陈冠州：Token 经济时代来临，智能体将引爆 Token 消耗 & 市场规模",
+          "desc": "IT之家 9 月 15 日消息，在今天的 2026 年联发科天玑旗舰新品发布会上，联发科技董事、总经理暨营运长陈冠州率先登台发表了主题演讲，重点谈及了 GAI 和 Token 经济。陈冠州表示，2023 年～2026 年全球半导体行业 TAM 成长提升 43%，2027 年全球半导体行业市场规模预估超 11.4 万亿元人民币。而随着 AI 从云端继续往手机等终端渗透，端侧 AI 显然会成为接下来芯",
+          "source": "IT之家",
+          "date": "2026-09-15",
+          "dateLabel": "9月15日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/002/554.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/9dcbc164-56c4-4fd8-b2d3-97086676cc2c.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "325664bf42b3",
+          "title": "谷歌 DeepMind 前员工警告：AI 有能力灭绝人类，留给我们的时间已不多",
+          "desc": "IT之家 9 月 15 日消息，据路透社报道，谷歌 DeepMind 前员工于周一成为最新一位发出警告的 AI 研究者，他称这项技术有可能“灭绝全人类”，想要避免这一结局，留给人类的时间或许已经不多。公众对人工智能潜在危险的担忧正在加剧。此前 Anthropic 研究员雅各布 · 考克森（Jacob Coxon）上周表示自己已经离职，部分原因是“投身 AI 研发的人真心相信，到本十年末，AI 有可",
+          "source": "IT之家",
+          "date": "2026-09-15",
+          "dateLabel": "9月15日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.ithome.com/1/002/547.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2025/11/62b5ea8d-908b-4cef-8fe9-837cb9190d66.png",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-09-14",
       "dateLabel": "9月14日",
       "id": "d14",
       "items": [
         {
-          "id": "41732590069c",
-          "title": "AI开始改进“改进自己的方法”，RSI进入平方时代丨MetaRSI",
-          "desc": "小模型突破瓶颈，旗舰模型打开新空间",
+          "id": "845cb6b7de31",
+          "title": "首届蚂蚁灵波具身大模型挑战赛正式启动",
+          "desc": "通过这场大赛，蚂蚁灵波希望将 LingBot-VLA 进一步推向更广泛的开发者社区和高校科研社区",
+          "source": "量子位",
+          "date": "2026-09-14",
+          "dateLabel": "9月14日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/09/489105.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "3da901e2d7e4",
+          "title": "全国唯一！商汤大装置临港AIDC获“算效+算电”双5A认证",
+          "desc": "业界首个5A算电协同认证",
+          "source": "量子位",
+          "date": "2026-09-14",
+          "dateLabel": "9月14日",
+          "tags": [
+            "policy",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/09/489106.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "079b1de522ec",
+          "title": "探索RSI，生数新世界模型让机器人开始自我进化",
+          "desc": "探索RSI，生数新世界模型让机器人开始自我进化",
+          "source": "量子位",
+          "date": "2026-09-14",
+          "dateLabel": "9月14日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.qbitai.com/2026/09/489037.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "df285de7aa32",
+          "title": "分子之心QuantaMind登Science Advances，让AI给分子世界”拍电影”",
+          "desc": "AI 蛋白质设计迈入“动态时代”",
           "source": "量子位",
           "date": "2026-09-14",
           "dateLabel": "9月14日",
           "tags": [
             "business"
           ],
-          "url": "https://www.qbitai.com/2026/09/488832.html",
+          "url": "https://www.qbitai.com/2026/09/489023.html",
           "image": "",
           "color": "#7c3aed"
         },
         {
-          "id": "2a8559844381",
-          "title": "中国物理AI大突破：PhysBrain 1.5登顶全球开源榜一，空间智能与GPT-6 Astra并驾齐驱",
-          "desc": "这家中国公司，刚跑完了物理闭环里最难的一段路",
-          "source": "量子位",
-          "date": "2026-09-14",
-          "dateLabel": "9月14日",
-          "tags": [
-            "model",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/09/488725.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "8e4ee97c156f",
-          "title": "奥特曼被骗！A社一脚油门冲刺IPO，募资叫板SpaceX",
-          "desc": "还是太嫩了啊Dario",
+          "id": "f5f1682fbd15",
+          "title": "端侧AI从「能跑」到「会进化」，元空智能跑进惠普预装",
+          "desc": "让模型和设备共同进化",
           "source": "量子位",
           "date": "2026-09-14",
           "dateLabel": "9月14日",
           "tags": [
             "business"
           ],
-          "url": "https://www.qbitai.com/2026/09/488699.html",
+          "url": "https://www.qbitai.com/2026/09/488933.html",
           "image": "",
           "color": "#7c3aed"
         },
         {
-          "id": "2e428caa664b",
-          "title": "智谱提前剧透下一代GLM：完全自训练方法公开了",
-          "desc": "模型、论文都还没出，没想到先从财务公告上剧透了",
+          "id": "85344593b70f",
+          "title": "一年连融三轮，这家金融AI公司又拿下超3亿B轮",
+          "desc": "险资、券商与头部创投持续加码",
           "source": "量子位",
           "date": "2026-09-14",
           "dateLabel": "9月14日",
           "tags": [
-            "model",
-            "research",
-            "cn"
+            "business"
           ],
-          "url": "https://www.qbitai.com/2026/09/488694.html",
+          "url": "https://www.qbitai.com/2026/09/488912.html",
           "image": "",
           "color": "#7c3aed"
         },
         {
-          "id": "e740ba674b80",
-          "title": "夜深 emo 陪你聊聊天：京造 AI 自适应床垫 9999 元众筹，支持 32 项健康监测",
-          "desc": "京东京造 X JoyInside AI 智能床垫今日首发众筹，叠加补贴后低至 9699 元，支持 1 年价保 + 整机 3 年质保（电机 10 年质保）。此款较普通床垫，新增支持：内置压电双模传感器（检测阻塞性呼吸暂停）识别后自动轻柔抬升AI 闹钟智能唤醒AI 语音陪聊 / 控制床垫32 项健康监测（小程序可查看日报 / 周报 / 月报）支持 AI 智能温度控制（石墨烯加热）支持 AI 自适应调节",
-          "source": "IT之家",
+          "id": "00b379ae2492",
+          "title": "2026崇礼论坛：一场未来智能生活与下一代AI创造者的盛会",
+          "desc": "共话AI时代的生活、影像与创造。",
+          "source": "量子位",
           "date": "2026-09-14",
           "dateLabel": "9月14日",
           "tags": [
-            "business",
-            "cn"
+            "business"
           ],
-          "url": "https://www.ithome.com/1/002/089.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/bab95d43-2147-4451-950a-19e414a81350.png",
-          "color": "#d97706"
-        },
-        {
-          "id": "5b1f50d40d5f",
-          "title": "小米卢伟冰：科技家电的未来是主动智能，也是米家下一个十年要走的路",
-          "desc": "IT之家 9 月 14 日消息，小米集团合伙人、总裁卢伟冰今日发文谈到了米家品牌。他提到，2016 年小米创立米家品牌，正式进入家电行业。科技家电的未来是主动智能，这也是米家下一个十年，要走的路。未来，会有更多“懂事”的米家产品和大家见面。他表示，家电从能联网、能 App 控制，到能语音、能 AI 交互，“让家电听话”这件事，行业已经做到了极致。但说句实话，再听话，本质还是“遥控器”一-你说一句，",
-          "source": "IT之家",
-          "date": "2026-09-14",
-          "dateLabel": "9月14日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/002/091.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/dbbda746-9273-4c58-8837-396c56c8fa19.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "81d0a041ccbc",
-          "title": "OpenAI CEO 奥尔特曼支持控制 AI 发展速度，强调并非停止技术进步",
-          "desc": "IT之家 9 月 14 日消息，OpenAI 首席执行官萨姆 · 奥尔特曼（Sam Altman）于当地时间上周日表态，支持对人工智能的发展采取“控速”思路，避免尖端模型的能力发展速度超出人类可控范围。奥尔特曼的表述与 Anthropic 首席执行官达里奥 · 阿莫迪（Dario Amodei）的观点相近。他称，将工作重心转向安全会付出一定代价，但此举有助于维持外界信心，证明美国企业在研发能力日益",
-          "source": "IT之家",
-          "date": "2026-09-14",
-          "dateLabel": "9月14日",
-          "tags": [
-            "policy"
-          ],
-          "url": "https://www.ithome.com/1/002/090.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/2/8ad2304d-c61b-4004-9483-e1a55ca43342.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "d88c78ab1fd5",
-          "title": "部分联想笔记本用户反馈不兼容微软 8 月 Win11 更新，导致随机断电 / 黑屏",
-          "desc": "IT之家 9 月 14 日消息，科技媒体 Neowin 今天（9 月 14 日）发布博文，报道称部分联想笔记本在升级微软 8 月累积更新 KB5121003 后，出现随机断电和黑屏故障。IT之家注：微软在 8 月补丁星期二活动中面向 Windows 11 用户推送 KB5121003 安全更新，24H2 版本系统升至 build 26100.9168，25H2 版本升至 build 26200.9",
-          "source": "IT之家",
-          "date": "2026-09-14",
-          "dateLabel": "9月14日",
-          "tags": [
-            "business",
-            "policy"
-          ],
-          "url": "https://www.ithome.com/1/002/082.htm",
+          "url": "https://www.qbitai.com/2026/09/488875.html",
           "image": "",
-          "color": "#d97706"
+          "color": "#7c3aed"
         }
       ]
     },
@@ -2582,113 +2684,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-08-12",
-      "dateLabel": "8月12日",
-      "id": "d12",
-      "items": [
-        {
-          "id": "9ef9fc1918c5",
-          "title": "《置身谷内》！Jeff Dean上顶会自曝离职现场：被1500人围堵",
-          "desc": "回消息到凌晨2点半",
-          "source": "量子位",
-          "date": "2026-08-12",
-          "dateLabel": "8月12日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/08/471254.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "b1c40821e376",
-          "title": "Anthropic CEO整天神神叨叨，投资人受不了了",
-          "desc": "Dario能不能少吓唬点人…",
-          "source": "量子位",
-          "date": "2026-08-12",
-          "dateLabel": "8月12日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/08/471162.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "8f32febaac74",
-          "title": "国产具身智能创全球新纪录！以30%成本跑赢 Figure AI 45%效率，聪明的具身大脑成关键",
-          "desc": "具身模型一小时狂拣1816件异形包裹",
-          "source": "量子位",
-          "date": "2026-08-12",
-          "dateLabel": "8月12日",
-          "tags": [
-            "research",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/08/471049.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "cbbbace7ab8e",
-          "title": "紫东太初推出GMC核心集剪枝方法，少80%Token仍满血保真多模态能力",
-          "desc": "免训练、开箱即用！",
-          "source": "量子位",
-          "date": "2026-08-12",
-          "dateLabel": "8月12日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://www.qbitai.com/2026/08/471030.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "f1f0ab0dc364",
-          "title": "2026中国科创投资夏季峰会暨陕西科创产业生态大会圆满落幕",
-          "desc": "2026年7月29日—30日，由融中财经和秦创原科技创新投资集团主办的2026中国科创投资夏季峰会暨陕西科创产业生态大会圆满落幕。",
-          "source": "量子位",
-          "date": "2026-08-12",
-          "dateLabel": "8月12日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/08/470901.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "54406c2b99d3",
-          "title": "人形之外，擎羽把“身体”变成具身智能的新变量",
-          "desc": "从柔性本体走向跨本体基础智能，让任务与世界知识延续",
-          "source": "量子位",
-          "date": "2026-08-12",
-          "dateLabel": "8月12日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://www.qbitai.com/2026/08/470874.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "82c0bba03b33",
-          "title": "刚刚，Manus恢复独立运营",
-          "desc": "Manus，完成复活赛了！",
-          "source": "量子位",
-          "date": "2026-08-12",
-          "dateLabel": "8月12日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/08/470805.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -2714,6 +2709,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-09-14 15:33",
+  "updateTime": "2026-09-15 15:10",
   "totalNews": 168
 }
