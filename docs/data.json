@@ -1,28 +1,153 @@
 {
   "newsData": [
     {
+      "date": "2026-09-16",
+      "dateLabel": "9月16日",
+      "id": "d16",
+      "items": [
+        {
+          "id": "0bc0f4b8271a",
+          "title": "量子位2026人工智能年度榜单，正式启动！",
+          "desc": "报名通道已开启，欢迎参与！",
+          "source": "量子位",
+          "date": "2026-09-16",
+          "dateLabel": "9月16日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/09/490329.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "9b26dbaf8c2b",
+          "title": "被英伟达点名的杭州团队，补上了AI for Science的「最后一公里」",
+          "desc": "从想法到结果，一次对话实现",
+          "source": "量子位",
+          "date": "2026-09-16",
+          "dateLabel": "9月16日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/09/490185.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "6eb43e71c42c",
+          "title": "把记忆交给CPU，大模型会变快",
+          "desc": "让GPU去忙生成Token",
+          "source": "量子位",
+          "date": "2026-09-16",
+          "dateLabel": "9月16日",
+          "tags": [
+            "model",
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/09/489724.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "b92460eda96d",
+          "title": "实时互动、实时改视频、探索空间视频，Vidu S2一次放了三个大招",
+          "desc": "实时互动、实时改视频、探索空间视频，Vidu S2一次放了三个大招",
+          "source": "量子位",
+          "date": "2026-09-16",
+          "dateLabel": "9月16日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/09/490109.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "5a419430db34",
+          "title": "华为GTS让Agent学会「看着网络排障」，双防火墙难题几乎全拿下",
+          "desc": "任务通过率提升24.2%，token成本最高下降45%",
+          "source": "量子位",
+          "date": "2026-09-16",
+          "dateLabel": "9月16日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/09/490098.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "456c25de2860",
+          "title": "Astera Labs 丰富智能内存控制器产品线，新增 Leo X、Leo 2 E、Leo 2 P 系列",
+          "desc": "IT之家 9 月 16 日消息，芯片高速互连初创企业 Astera Labs 美国加州当地时间 15 日宣布以 Leo X、Leo 2 E、Leo 2 P 三系列丰富其 Leo 智能内存控制器产品线。Leo 2 E、Leo 2 P 是符合标准 CXL 3.2 规范的芯片，支持 4 个下游 DDR4 / DDR5 内存控制器。Leo 2 E 支持 PCIe Gen6 1×16 单端口配置；Leo 2",
+          "source": "IT之家",
+          "date": "2026-09-16",
+          "dateLabel": "9月16日",
+          "tags": [
+            "business",
+            "policy"
+          ],
+          "url": "https://www.ithome.com/1/003/090.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/5a21cd50-6fdd-442b-9068-eb897c79bfc3.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "1ef49cb7de5b",
+          "title": "消息称字节跳动完成 2.9 亿美元融资，用于拆分 AI 制药业务 Anew Labs",
+          "desc": "IT之家 9 月 16 日消息，据路透社援引两名知情人士消息称，字节跳动从集团拆分 AI 制药业务 Anew Labs 后，完成了一轮 2.9 亿美元（IT之家注：现汇率约合 19.51 亿元人民币）融资。Anew Labs 总部位于上海，业务为利用 AI 进行药物发现。其中一名知情人士称，该公司在首次对外融资后估值达到 15 亿美元（现汇率约合 100.9 亿元人民币）。本轮融资由原红杉中国 H",
+          "source": "IT之家",
+          "date": "2026-09-16",
+          "dateLabel": "9月16日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/003/089.htm",
+          "image": "",
+          "color": "#d97706"
+        },
+        {
+          "id": "8ce96c710610",
+          "title": "“第二代豆包手机”努比亚 NaviX Ultra 发布：“全球首款 AI 智能体手机”，5999 元起",
+          "desc": "IT之家 9 月 16 日消息，努比亚 NaviX Ultra 手机今日正式发布，也就是大家俗称的第二代豆包手机，售价 5999 元起，国补到手价 5499 元起。12GB + 512GB 售价 5999 元16GB + 512GB 售价 6499 元16GB + 1TB 售价 7499 元努比亚 NaviX Ultra 宣称是“全球首款 AI 智能体手机”，由中兴通讯努比亚全链路主导打造，豆包手",
+          "source": "IT之家",
+          "date": "2026-09-16",
+          "dateLabel": "9月16日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/003/087.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/846360b5-073e-405a-a76b-2ccfe934101f.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-09-15",
       "dateLabel": "9月15日",
       "id": "d15",
       "items": [
         {
-          "id": "f25820763e09",
-          "title": "前OpenAI后训练VP回应陶哲轩：说AI毁了数学，可能还是太小瞧AI了",
-          "desc": "未来的AI不仅能解决问题，还能提出有价值的洞见、建立新的概念框架，让数学家在此基础上继续探索。",
+          "id": "2e199b88186a",
+          "title": "梁文锋CFO到位！投过智谱MiniMax",
+          "desc": "严文韬，1991年生，高瓴创投合伙人",
           "source": "量子位",
           "date": "2026-09-15",
           "dateLabel": "9月15日",
           "tags": [
-            "research"
+            "model",
+            "cn"
           ],
-          "url": "https://www.qbitai.com/2026/09/489288.html",
+          "url": "https://www.qbitai.com/2026/09/489707.html",
           "image": "",
           "color": "#7c3aed"
         },
         {
-          "id": "f50ae7bceeaf",
-          "title": "9月21日，深圳前海！聊聊工业AI与生态共创的下一步",
-          "desc": "西门子Xcelerator繁星生态大会，在生态合作中共赢机遇",
+          "id": "3b979241b68b",
+          "title": "地平线第1500万颗征程芯片搭载大众 ID. AURA T6，HSD V2.1 即将推出",
+          "desc": "首发全场景倒车能力，体验再进一步",
           "source": "量子位",
           "date": "2026-09-15",
           "dateLabel": "9月15日",
@@ -30,94 +155,55 @@
             "business",
             "cn"
           ],
-          "url": "https://www.qbitai.com/2026/09/489277.html",
+          "url": "https://www.qbitai.com/2026/09/489698.html",
           "image": "",
           "color": "#7c3aed"
         },
         {
-          "id": "4a319eb7bb5b",
-          "title": "7名博士生仅用3个月从零训练7B大模型：代码+数据+训练日志全公开",
-          "desc": "几百个Agent参与研发，AI开始造AI",
+          "id": "e94176632203",
+          "title": "手机替我跑了一整套流程！我就说了一句话，AI执行了100步",
+          "desc": "一句话，YOYO全面接管我的生活",
+          "source": "量子位",
+          "date": "2026-09-15",
+          "dateLabel": "9月15日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/09/489466.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "807e581ac9ab",
+          "title": "无问芯穹联合清华、上交正式开源具身端侧推理引擎APXInf，Pi 0.5性能SOTA",
+          "desc": "卡位具身智能规模化落地“最后一公里”！",
+          "source": "量子位",
+          "date": "2026-09-15",
+          "dateLabel": "9月15日",
+          "tags": [
+            "research",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/09/489460.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "15603f2cd715",
+          "title": "全球AI视频榜单第一梯队再添中国力量：智象发布首款物理规律导向视频模型",
+          "desc": "智象未来（HiDream.ai）正式发布首个原生全模态视频生成模型 HiDream-O1-Video-1.0",
           "source": "量子位",
           "date": "2026-09-15",
           "dateLabel": "9月15日",
           "tags": [
             "model",
-            "research"
+            "business",
+            "cn"
           ],
-          "url": "https://www.qbitai.com/2026/09/489227.html",
+          "url": "https://www.qbitai.com/2026/09/489389.html",
           "image": "",
           "color": "#7c3aed"
-        },
-        {
-          "id": "a2a1baf38be7",
-          "title": "行业呼吁控制 AI 研发节奏：投资者担忧资本开支降温，半导体板块承压",
-          "desc": "IT之家 9 月 15 日消息，据路透社报道，在行业领军人物呼吁控制 AI 研发节奏后，投资者对由 AI 带动的股市上涨行情开始心生不安，不过也有人认为，监管约束最终或将利好 AI 行业。上周末，在接连传出 AI 可能危及人类的悲观论断之后，包括 Anthropic 首席执行官达里奥 · 阿莫代伊（Dario Amodei）在内的多位 AI 行业领军人物呼吁放缓技术迭代速度，争取更多时间管控相关风",
-          "source": "IT之家",
-          "date": "2026-09-15",
-          "dateLabel": "9月15日",
-          "tags": [
-            "policy"
-          ],
-          "url": "https://www.ithome.com/1/002/562.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2025/11/62b5ea8d-908b-4cef-8fe9-837cb9190d66.png",
-          "color": "#d97706"
-        },
-        {
-          "id": "e1eea9567ecf",
-          "title": "迎接定制化需求：消息称三星电子将委托台积电生产部分 HBM 基础裸片",
-          "desc": "IT之家 9 月 15 日消息，韩媒 ZDNET Korea 当地时间今日报道称，三星电子存储器业务正推动其 HBM 内存基础裸片 (Base Die) 供应的双轨化，部分基础裸片将交由台积电生产。消息人士表示，已有客户在芯片设计中导入三星电子 DRAM Die + 台积电 Base Die 的 HBM 堆栈方案。三星电子存储器业务的 HBM4 Base Die 由三星电子内部的系统 LSI 业务",
-          "source": "IT之家",
-          "date": "2026-09-15",
-          "dateLabel": "9月15日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/002/561.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/27d8a640-59ef-45d7-8790-abfc1c5a4553.jpg",
-          "color": "#d97706"
-        },
-        {
-          "id": "24fa7608adbe",
-          "title": "联想推出 IdeaCentre AIO 24IWC11 一体机：至高酷睿 7 350 处理器，24 寸 1080P 屏幕",
-          "desc": "IT之家 9 月 15 日消息，联想现已在海外市场推出 IdeaCentre AIO 24IWC11 一体机，新品采用英特尔 Windcat Lake 平台，配备 120Hz 屏幕。据介绍，这款一体机的入门配置采用 24 英寸 1080P IPS 屏幕，支持 120Hz 高刷，峰值亮度 350nits，覆盖 99% sRGB 色域。规格方面，这款一体机可选英特尔酷睿 3 304、酷睿 5 320、",
-          "source": "IT之家",
-          "date": "2026-09-15",
-          "dateLabel": "9月15日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/002/557.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/cf6d4b89-9d9d-4de8-acd2-b59780e1b1b8.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "fc7d8930269c",
-          "title": "联发科技陈冠州：Token 经济时代来临，智能体将引爆 Token 消耗 & 市场规模",
-          "desc": "IT之家 9 月 15 日消息，在今天的 2026 年联发科天玑旗舰新品发布会上，联发科技董事、总经理暨营运长陈冠州率先登台发表了主题演讲，重点谈及了 GAI 和 Token 经济。陈冠州表示，2023 年～2026 年全球半导体行业 TAM 成长提升 43%，2027 年全球半导体行业市场规模预估超 11.4 万亿元人民币。而随着 AI 从云端继续往手机等终端渗透，端侧 AI 显然会成为接下来芯",
-          "source": "IT之家",
-          "date": "2026-09-15",
-          "dateLabel": "9月15日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/002/554.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/9dcbc164-56c4-4fd8-b2d3-97086676cc2c.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "325664bf42b3",
-          "title": "谷歌 DeepMind 前员工警告：AI 有能力灭绝人类，留给我们的时间已不多",
-          "desc": "IT之家 9 月 15 日消息，据路透社报道，谷歌 DeepMind 前员工于周一成为最新一位发出警告的 AI 研究者，他称这项技术有可能“灭绝全人类”，想要避免这一结局，留给人类的时间或许已经不多。公众对人工智能潜在危险的担忧正在加剧。此前 Anthropic 研究员雅各布 · 考克森（Jacob Coxon）上周表示自己已经离职，部分原因是“投身 AI 研发的人真心相信，到本十年末，AI 有可",
-          "source": "IT之家",
-          "date": "2026-09-15",
-          "dateLabel": "9月15日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://www.ithome.com/1/002/547.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2025/11/62b5ea8d-908b-4cef-8fe9-837cb9190d66.png",
-          "color": "#d97706"
         }
       ]
     },
@@ -2648,42 +2734,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-08-13",
-      "dateLabel": "8月13日",
-      "id": "d13",
-      "items": [
-        {
-          "id": "0b687d04246b",
-          "title": "深度体验DeepSeek Harness，我原谅它涨价了",
-          "desc": "欢迎，为后人种点树",
-          "source": "量子位",
-          "date": "2026-08-13",
-          "dateLabel": "8月13日",
-          "tags": [
-            "model",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/08/472208.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "deca6ac3ad9f",
-          "title": "4.8亿美元砸向端侧算力！Agent芯片新贵冲出重围",
-          "desc": "首颗AI芯片已进入量产",
-          "source": "量子位",
-          "date": "2026-08-13",
-          "dateLabel": "8月13日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/08/472059.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -2709,6 +2759,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-09-15 15:10",
-  "totalNews": 168
+  "updateTime": "2026-09-16 15:12",
+  "totalNews": 171
 }
