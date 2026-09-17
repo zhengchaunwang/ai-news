@@ -1,126 +1,191 @@
 {
   "newsData": [
     {
+      "date": "2026-09-17",
+      "dateLabel": "9月17日",
+      "id": "d17",
+      "items": [
+        {
+          "id": "eb9e695fdac1",
+          "title": "马斯克睡进工地！为AI基建拼了",
+          "desc": "AI正火嘛，老马的待遇也算提升了一点：这回至少有房车了（doge）",
+          "source": "量子位",
+          "date": "2026-09-17",
+          "dateLabel": "9月17日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/09/491280.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "b3da24c6914e",
+          "title": "首购积分加赠70%：SkyProduction天工工作台联合火山引擎推出中秋国庆三重福利",
+          "desc": "从9月15日开始，SkyProduction（天工工作台）和火山引擎(Seedance 2.5)隆重推出中秋国庆特惠活动",
+          "source": "量子位",
+          "date": "2026-09-17",
+          "dateLabel": "9月17日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://www.qbitai.com/2026/09/491147.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "7a0f843070bd",
+          "title": "国产RSI模型交卷！Flash模型靠它反打旗舰",
+          "desc": "1亿Tokens人人免费领",
+          "source": "量子位",
+          "date": "2026-09-17",
+          "dateLabel": "9月17日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/09/491091.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "f2ecdd1a99d0",
+          "title": "比亚迪李云飞：中国汽车首登世界第一，这份荣耀属于所有中国汽车品牌",
+          "desc": "9月13日，2026比亚迪粉丝嘉年华在深圳坪山体育馆举行",
+          "source": "量子位",
+          "date": "2026-09-17",
+          "dateLabel": "9月17日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/09/491062.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "9a6d0dee966d",
+          "title": "网易有道周枫：AI能力竞争，正在进入「Model + Agent + Workflow」时代，网易有道AI Open Day展示AI时代“有道解法”",
+          "desc": "9月16日，网易有道「NEXT，AGENT｜有道AI Open Day」在北京举办。",
+          "source": "量子位",
+          "date": "2026-09-17",
+          "dateLabel": "9月17日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/09/490974.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "afed0e2d0f39",
+          "title": "罗福莉沉寂半年官宣小米强化学习！直播新模型训练过程，一小时烧3万美元",
+          "desc": "奖励曲线、显卡故障全公开",
+          "source": "量子位",
+          "date": "2026-09-17",
+          "dateLabel": "9月17日",
+          "tags": [
+            "research",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/09/490950.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "6a83232da44f",
+          "title": "微软发布 1.138 版 VS Code：优化 AI 智能体协作、扩展 Codex harness",
+          "desc": "IT之家 9 月 17 日消息，微软今天（9 月 17 日）发布公告，宣布推出 1.138 版 Visual Studio Code 更新，新增开发容器中的智能体会话、扩展 Codex harness，并预览会话清理功能。在开发容器的智能体会话中，新版支持在本地开发容器中运行智能体。智能体可使用项目指定的工具和依赖项，并遵循项目配置的环境。该机制不会默认调用本地计算机中的全部工具和依赖项。IT之家",
+          "source": "IT之家",
+          "date": "2026-09-17",
+          "dateLabel": "9月17日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/003/590.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/ab759892-3a55-47a7-b2bd-71f29aeaa665.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "4010346f7cc1",
+          "title": "戴尔首款 XPS Googlebook 曝光，预计搭载高通骁龙 X Elite 芯片",
+          "desc": "IT之家 9 月 17 日消息，戴尔首款 Googlebook 笔记本电脑的官方文件已经泄露，显示该产品将划分到“XPS”品牌名下。爆料人 Evan Blass 今日在 X 上分享了一份戴尔产品碳足迹披露文件（该文件目前可在戴尔官网上查到），其中明确标注产品名称为“XPS Googlebook DX13267”。Evan Blass 透露，该产品内部代号为“Mica”。这一型号与此前 Geekbe",
+          "source": "IT之家",
+          "date": "2026-09-17",
+          "dateLabel": "9月17日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/003/587.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/d52be7ad-33bc-4aa8-8f6a-ba053c8ca23e.jpg",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-09-16",
       "dateLabel": "9月16日",
       "id": "d16",
       "items": [
         {
-          "id": "0bc0f4b8271a",
-          "title": "量子位2026人工智能年度榜单，正式启动！",
-          "desc": "报名通道已开启，欢迎参与！",
+          "id": "e05bfb685990",
+          "title": "通用能力不打折，空间具身智能断层领先！ZDTaichu5.0-9B国产开源，跻身全球多模态第一梯队",
+          "desc": "九大空间测试10B规模通用模型中8项第一",
           "source": "量子位",
           "date": "2026-09-16",
           "dateLabel": "9月16日",
           "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/09/490329.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "9b26dbaf8c2b",
-          "title": "被英伟达点名的杭州团队，补上了AI for Science的「最后一公里」",
-          "desc": "从想法到结果，一次对话实现",
-          "source": "量子位",
-          "date": "2026-09-16",
-          "dateLabel": "9月16日",
-          "tags": [
+            "research",
             "business",
             "cn"
           ],
-          "url": "https://www.qbitai.com/2026/09/490185.html",
+          "url": "https://www.qbitai.com/2026/09/490839.html",
           "image": "",
           "color": "#7c3aed"
         },
         {
-          "id": "6eb43e71c42c",
-          "title": "把记忆交给CPU，大模型会变快",
-          "desc": "让GPU去忙生成Token",
+          "id": "c789acfbb537",
+          "title": "AI大模型工场2026 AI产业生态大会今日举办，大咖同台共探智能生长与产业共生",
+          "desc": "9月15日，由AI大模型工场主办的“2026 AI产业生态大会”在北京举行。",
           "source": "量子位",
           "date": "2026-09-16",
           "dateLabel": "9月16日",
           "tags": [
             "model",
-            "business"
+            "cn"
           ],
-          "url": "https://www.qbitai.com/2026/09/489724.html",
+          "url": "https://www.qbitai.com/2026/09/490760.html",
           "image": "",
           "color": "#7c3aed"
         },
         {
-          "id": "b92460eda96d",
-          "title": "实时互动、实时改视频、探索空间视频，Vidu S2一次放了三个大招",
-          "desc": "实时互动、实时改视频、探索空间视频，Vidu S2一次放了三个大招",
+          "id": "ad746dc24de6",
+          "title": "高通技术公司携手中兴努比亚和豆包手机助手，共同推动智能手机迈入个人AI新时代",
+          "desc": "第五代骁龙8至尊版赋能全新AI智能体手机努比亚NaviX Ultra，加速智能体体验规模化落地",
           "source": "量子位",
           "date": "2026-09-16",
           "dateLabel": "9月16日",
           "tags": [
             "business"
           ],
-          "url": "https://www.qbitai.com/2026/09/490109.html",
+          "url": "https://www.qbitai.com/2026/09/490756.html",
           "image": "",
           "color": "#7c3aed"
         },
         {
-          "id": "5a419430db34",
-          "title": "华为GTS让Agent学会「看着网络排障」，双防火墙难题几乎全拿下",
-          "desc": "任务通过率提升24.2%，token成本最高下降45%",
+          "id": "de726d0e7b32",
+          "title": "基元律动与无问芯穹达成战略合作，推进高质量Token供给与应用",
+          "desc": "2026年 9 月 15 日，AI基础设施公司基元律动（TokenRhythm）与无问芯穹（Infinigence AI）签署战略合作协议。",
           "source": "量子位",
-          "date": "2026-09-16",
-          "dateLabel": "9月16日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/09/490098.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "456c25de2860",
-          "title": "Astera Labs 丰富智能内存控制器产品线，新增 Leo X、Leo 2 E、Leo 2 P 系列",
-          "desc": "IT之家 9 月 16 日消息，芯片高速互连初创企业 Astera Labs 美国加州当地时间 15 日宣布以 Leo X、Leo 2 E、Leo 2 P 三系列丰富其 Leo 智能内存控制器产品线。Leo 2 E、Leo 2 P 是符合标准 CXL 3.2 规范的芯片，支持 4 个下游 DDR4 / DDR5 内存控制器。Leo 2 E 支持 PCIe Gen6 1×16 单端口配置；Leo 2",
-          "source": "IT之家",
-          "date": "2026-09-16",
-          "dateLabel": "9月16日",
-          "tags": [
-            "business",
-            "policy"
-          ],
-          "url": "https://www.ithome.com/1/003/090.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/5a21cd50-6fdd-442b-9068-eb897c79bfc3.jpg",
-          "color": "#d97706"
-        },
-        {
-          "id": "1ef49cb7de5b",
-          "title": "消息称字节跳动完成 2.9 亿美元融资，用于拆分 AI 制药业务 Anew Labs",
-          "desc": "IT之家 9 月 16 日消息，据路透社援引两名知情人士消息称，字节跳动从集团拆分 AI 制药业务 Anew Labs 后，完成了一轮 2.9 亿美元（IT之家注：现汇率约合 19.51 亿元人民币）融资。Anew Labs 总部位于上海，业务为利用 AI 进行药物发现。其中一名知情人士称，该公司在首次对外融资后估值达到 15 亿美元（现汇率约合 100.9 亿元人民币）。本轮融资由原红杉中国 H",
-          "source": "IT之家",
-          "date": "2026-09-16",
-          "dateLabel": "9月16日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/003/089.htm",
-          "image": "",
-          "color": "#d97706"
-        },
-        {
-          "id": "8ce96c710610",
-          "title": "“第二代豆包手机”努比亚 NaviX Ultra 发布：“全球首款 AI 智能体手机”，5999 元起",
-          "desc": "IT之家 9 月 16 日消息，努比亚 NaviX Ultra 手机今日正式发布，也就是大家俗称的第二代豆包手机，售价 5999 元起，国补到手价 5499 元起。12GB + 512GB 售价 5999 元16GB + 512GB 售价 6499 元16GB + 1TB 售价 7499 元努比亚 NaviX Ultra 宣称是“全球首款 AI 智能体手机”，由中兴通讯努比亚全链路主导打造，豆包手",
-          "source": "IT之家",
           "date": "2026-09-16",
           "dateLabel": "9月16日",
           "tags": [
             "business"
           ],
-          "url": "https://www.ithome.com/1/003/087.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/846360b5-073e-405a-a76b-2ccfe934101f.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/09/490750.html",
+          "image": "",
+          "color": "#7c3aed"
         }
       ]
     },
@@ -2670,70 +2735,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-08-14",
-      "dateLabel": "8月14日",
-      "id": "d14",
-      "items": [
-        {
-          "id": "12fe4a06655f",
-          "title": "刚刚，Qwen3.8-27B 开源了！家用显卡也能跑",
-          "desc": "所有人都可免费下载部署及商用。",
-          "source": "量子位",
-          "date": "2026-08-14",
-          "dateLabel": "8月14日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/08/473379.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "8df966ef38c1",
-          "title": "7亿年薪留不住！余家辉离职Meta创业",
-          "desc": "真就只待了一年",
-          "source": "量子位",
-          "date": "2026-08-14",
-          "dateLabel": "8月14日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/08/473261.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "d8fa17869832",
-          "title": "谷歌开始肢解DeepMind，数个团队被划归总部",
-          "desc": "布林亲自下场督战",
-          "source": "量子位",
-          "date": "2026-08-14",
-          "dateLabel": "8月14日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/08/473153.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "ac2fa091704e",
-          "title": "太初元碁助力国家级“AI+教育”大赛 “AI+加速卡模型适配赛道”开启招募",
-          "desc": "太初元碁助力国家级“AI+教育”大赛 “AI+加速卡模型适配赛道”开启招募",
-          "source": "量子位",
-          "date": "2026-08-14",
-          "dateLabel": "8月14日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/08/473149.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -2759,6 +2760,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-09-16 15:12",
+  "updateTime": "2026-09-17 15:09",
   "totalNews": 171
 }
