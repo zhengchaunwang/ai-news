@@ -1,10 +1,224 @@
 {
   "newsData": [
     {
+      "date": "2026-09-18",
+      "dateLabel": "9月18日",
+      "id": "d18",
+      "items": [
+        {
+          "id": "2bef11a8387f",
+          "title": "Manus重生第17天，估值居然就翻倍了",
+          "desc": "作价40亿美元推进新融资",
+          "source": "量子位",
+          "date": "2026-09-18",
+          "dateLabel": "9月18日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/09/491764.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "22e7bba1eb78",
+          "title": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放",
+          "desc": "Git白学了？？？",
+          "source": "量子位",
+          "date": "2026-09-18",
+          "dateLabel": "9月18日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://www.qbitai.com/2026/09/491711.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "207fbaca8b84",
+          "title": "深蓝汽车预热智能座舱新品即将登场，预计为车载 AI 助手",
+          "desc": "IT之家 9 月 18 日消息，深蓝汽车今日预热新品即将登场，官方宣传语为“AI 有温度，出行更懂你”。从官方海报来看，该产品采用方形设计，预计与车载 AI 助手有关。IT之家注意到，目前有多家厂商推出车载 AI 助手相关产品。例如，字节旗下火山引擎昨日刚刚宣布车载 AI 助手“豆包座舱助手”正式发布，车主在豆包 App 中即可远程控车、查询车况、将对话中的行程推送到车机上，豆包成为车上的常驻形象",
+          "source": "IT之家",
+          "date": "2026-09-18",
+          "dateLabel": "9月18日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/004/092.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/642244a2-a2db-41fb-862a-9f95530483f5.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "12682fb16008",
+          "title": "消息称理想汽车开始卖技术：马赫芯片、碳化硅、增程器启动外供",
+          "desc": "IT之家 9 月 18 日消息，据 36 氪从多位产业人士处获悉，今年以来，理想汽车已经开启了多项核心技术的对外供应计划；而伴随业务拆分，部分业务也有引入外部资金的计划。典型启动外供的业务有自研马赫芯片、碳化硅模组公司斯科半导体及增程器等。目前，马赫芯片、碳化硅模组等都已经成立独立的公司实体，寻求更多外部客户，斯科半导体也准备引入更多外部资金。而其他的动力技术，如增程系统也向外释放出接纳外部客户的",
+          "source": "IT之家",
+          "date": "2026-09-18",
+          "dateLabel": "9月18日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/004/087.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/3cb2957d-61bb-4d9b-9afc-190fe93ccd19.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "69333e2077a0",
+          "title": "M610BB 手机曝光：高通第六代骁龙 8 至尊版芯片，预估为小米 18 Pro",
+          "desc": "IT之家 9 月 18 日消息，继型号 M154FF 和 M1544F 两款小米手机跑分曝光后，型号 M610BB 手机也现身 GeekBench 跑分平台，7.0.0 版本单核成绩为 2,831 分、多核成绩 8,843 分。型号方面，科技媒体 GSMArena 认为该机上市后关联小米 18 Pro，由于是工程样机，内存容量、软件调校、温控状态和测试版本都会显著影响跑分成绩，因此相关跑分目前仅供",
+          "source": "IT之家",
+          "date": "2026-09-18",
+          "dateLabel": "9月18日",
+          "tags": [
+            "model",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/004/085.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/6de1dd88-d318-4363-845f-acf011b93995.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "56f26ae335a5",
+          "title": "Waymo 加速亚太布局，计划 2028 年在新加坡提供 Robotaxi 商用服务",
+          "desc": "IT之家 9 月 18 日消息，Alphabet 旗下自动驾驶企业 Waymo 当地时间 17 日宣布，计划于 2028 年在新加坡提供有偿 Robotaxi 出行服务。该企业本周早些时候曾表示目标明年在日本东京实现商业化运营。Waymo 计划在未来数月建立新加坡本地业务，完成首批捷豹 I-PACE 车队的入驻；2027 年启动基于真人驾驶的本地化训练；2028 年时则将通过第一方应用向一般公众提",
+          "source": "IT之家",
+          "date": "2026-09-18",
+          "dateLabel": "9月18日",
+          "tags": [
+            "research",
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/004/084.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/aefd4765-73bc-447f-a8d8-ec5baeed685f.gif",
+          "color": "#d97706"
+        },
+        {
+          "id": "67734a618173",
+          "title": "水月雨 Position 准星入耳式电竞耳机发售：内置 DSP 游戏声卡、10mm 动圈，159 元",
+          "desc": "IT之家 9 月 18 日消息，水月雨旗下 Position 准星入耳式电竞耳机现已在京东发售，该耳机配备 USB-C/3.5mm 双接口，内置 DSP 游戏声卡，支持 AI 降噪，定价为 159 元。京东水月雨准星 Position 耳机 159 元直达链接该耳机提供银 / 黑双色可选，使用合金熔铸腔体加以高温烤漆处理提升质感。耳机出音导管前端配备可拆卸装置，用户可以轻松更换防堵塞声学滤波组件。",
+          "source": "IT之家",
+          "date": "2026-09-18",
+          "dateLabel": "9月18日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/004/083.htm",
+          "image": "https://img14.360buyimg.com/pop/jfs/t1/515328/31/13638/56129/6aaa469bFd2ccede6/0083320320817654.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "0cef807e824e",
+          "title": "海盗船推出 RS II 风扇、NAUTILUS II 处理器液冷",
+          "desc": "IT之家 9 月 18 日消息，CORSAIR（海盗船）美国加州当地时间昨日宣布推出兼具性能与实惠的 RS II 系列 PWM 风扇、NAUTILUS II 处理器一体式 (AIO) 液冷散热器。▲ RS II ARGBRS II 系列 PWM 风扇包括无光和 ARGB 两个分支，每个分支均提供 120mm、140mm、360mm 单框 (3×120mm) 分支，无光版仅有黑色，ARGB 版可选黑",
+          "source": "IT之家",
+          "date": "2026-09-18",
+          "dateLabel": "9月18日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/004/081.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/a3c7ed01-d966-44dc-ac59-43f480031996.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-09-17",
       "dateLabel": "9月17日",
       "id": "d17",
       "items": [
+        {
+          "id": "495873ccb341",
+          "title": "从“会回答”到“会办事”，vivo如何解AI手机这道题？",
+          "desc": "构建个体专属AI助理",
+          "source": "量子位",
+          "date": "2026-09-17",
+          "dateLabel": "9月17日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/09/491649.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "02cd052ec0b0",
+          "title": "Claude Code团队讲究啊，这都往外说",
+          "desc": "工程师的核心永远是Problem Solving。",
+          "source": "量子位",
+          "date": "2026-09-17",
+          "dateLabel": "9月17日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://www.qbitai.com/2026/09/491596.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "43d0e38e7c20",
+          "title": "图形学宗师童欣加盟Meshy，要做“AI for Fun”的头号玩家",
+          "desc": "他要和这一代最富有想象力的年轻人一起，去创造一个新的图形学。",
+          "source": "量子位",
+          "date": "2026-09-17",
+          "dateLabel": "9月17日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/09/491522.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "7adc136f0d59",
+          "title": "央企做了个通用Agent，直接杀进IDC实测前三！",
+          "desc": "中国电信，TeleAgent",
+          "source": "量子位",
+          "date": "2026-09-17",
+          "dateLabel": "9月17日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/09/491454.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "9160ad5a7f41",
+          "title": "Claude双入口合并，原生Office上线！硅谷AI办公大战也开始了",
+          "desc": "文档和PPT都能做了",
+          "source": "量子位",
+          "date": "2026-09-17",
+          "dateLabel": "9月17日",
+          "tags": [
+            "model",
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/09/491391.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "a6e0da1b1265",
+          "title": "刚刚，唐杰发布智谱RSI首个成果",
+          "desc": "GLM已经开始参与构建GLM了",
+          "source": "量子位",
+          "date": "2026-09-17",
+          "dateLabel": "9月17日",
+          "tags": [
+            "model",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/09/491357.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
         {
           "id": "eb9e695fdac1",
           "title": "马斯克睡进工地！为AI基建拼了",
@@ -32,94 +246,6 @@
           "url": "https://www.qbitai.com/2026/09/491147.html",
           "image": "",
           "color": "#7c3aed"
-        },
-        {
-          "id": "7a0f843070bd",
-          "title": "国产RSI模型交卷！Flash模型靠它反打旗舰",
-          "desc": "1亿Tokens人人免费领",
-          "source": "量子位",
-          "date": "2026-09-17",
-          "dateLabel": "9月17日",
-          "tags": [
-            "model",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/09/491091.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "f2ecdd1a99d0",
-          "title": "比亚迪李云飞：中国汽车首登世界第一，这份荣耀属于所有中国汽车品牌",
-          "desc": "9月13日，2026比亚迪粉丝嘉年华在深圳坪山体育馆举行",
-          "source": "量子位",
-          "date": "2026-09-17",
-          "dateLabel": "9月17日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/09/491062.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "9a6d0dee966d",
-          "title": "网易有道周枫：AI能力竞争，正在进入「Model + Agent + Workflow」时代，网易有道AI Open Day展示AI时代“有道解法”",
-          "desc": "9月16日，网易有道「NEXT，AGENT｜有道AI Open Day」在北京举办。",
-          "source": "量子位",
-          "date": "2026-09-17",
-          "dateLabel": "9月17日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/09/490974.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "afed0e2d0f39",
-          "title": "罗福莉沉寂半年官宣小米强化学习！直播新模型训练过程，一小时烧3万美元",
-          "desc": "奖励曲线、显卡故障全公开",
-          "source": "量子位",
-          "date": "2026-09-17",
-          "dateLabel": "9月17日",
-          "tags": [
-            "research",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/09/490950.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "6a83232da44f",
-          "title": "微软发布 1.138 版 VS Code：优化 AI 智能体协作、扩展 Codex harness",
-          "desc": "IT之家 9 月 17 日消息，微软今天（9 月 17 日）发布公告，宣布推出 1.138 版 Visual Studio Code 更新，新增开发容器中的智能体会话、扩展 Codex harness，并预览会话清理功能。在开发容器的智能体会话中，新版支持在本地开发容器中运行智能体。智能体可使用项目指定的工具和依赖项，并遵循项目配置的环境。该机制不会默认调用本地计算机中的全部工具和依赖项。IT之家",
-          "source": "IT之家",
-          "date": "2026-09-17",
-          "dateLabel": "9月17日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/003/590.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/ab759892-3a55-47a7-b2bd-71f29aeaa665.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "4010346f7cc1",
-          "title": "戴尔首款 XPS Googlebook 曝光，预计搭载高通骁龙 X Elite 芯片",
-          "desc": "IT之家 9 月 17 日消息，戴尔首款 Googlebook 笔记本电脑的官方文件已经泄露，显示该产品将划分到“XPS”品牌名下。爆料人 Evan Blass 今日在 X 上分享了一份戴尔产品碳足迹披露文件（该文件目前可在戴尔官网上查到），其中明确标注产品名称为“XPS Googlebook DX13267”。Evan Blass 透露，该产品内部代号为“Mica”。这一型号与此前 Geekbe",
-          "source": "IT之家",
-          "date": "2026-09-17",
-          "dateLabel": "9月17日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/003/587.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/d52be7ad-33bc-4aa8-8f6a-ba053c8ca23e.jpg",
-          "color": "#d97706"
         }
       ]
     },
@@ -2653,88 +2779,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-08-15",
-      "dateLabel": "8月15日",
-      "id": "d15",
-      "items": [
-        {
-          "id": "8c1310f3e72a",
-          "title": "至知研究院提出大模型可解释性新路线：拆权重，数据成本不到1%",
-          "desc": "理解大模型，无需再训练一个替代网络",
-          "source": "量子位",
-          "date": "2026-08-15",
-          "dateLabel": "8月15日",
-          "tags": [
-            "model",
-            "research",
-            "policy"
-          ],
-          "url": "https://www.qbitai.com/2026/08/473876.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "66d9bfb36225",
-          "title": "根治AI音乐通病！这家国产音乐模型正面挑战SUNO",
-          "desc": "音潮API限时免费开放",
-          "source": "量子位",
-          "date": "2026-08-15",
-          "dateLabel": "8月15日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/08/473866.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "192fbe1cef3e",
-          "title": "源神启动！一张消费级显卡跑“Opus级”Agent，Qwen3.8-27B多项榜单反超Claude",
-          "desc": "推理能力还能自定义",
-          "source": "量子位",
-          "date": "2026-08-15",
-          "dateLabel": "8月15日",
-          "tags": [
-            "model",
-            "research"
-          ],
-          "url": "https://www.qbitai.com/2026/08/473669.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "26a45591cda6",
-          "title": "DeepSeek Harness插件一夜燃爆GitHub：长期记忆、电子宠物、4399小游戏全来了",
-          "desc": "大家已经给DeepSeek装上了啥",
-          "source": "量子位",
-          "date": "2026-08-15",
-          "dateLabel": "8月15日",
-          "tags": [
-            "model",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/08/473597.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "9023edb30433",
-          "title": "对话郎咸朋：用机器人创业重做一次“百万智驾量产”",
-          "desc": "1.9万字全文实录",
-          "source": "量子位",
-          "date": "2026-08-15",
-          "dateLabel": "8月15日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://www.qbitai.com/2026/08/473407.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -2760,6 +2804,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-09-17 15:09",
-  "totalNews": 171
+  "updateTime": "2026-09-18 15:01",
+  "totalNews": 174
 }
