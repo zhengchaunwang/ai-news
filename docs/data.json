@@ -1,127 +1,252 @@
 {
   "newsData": [
     {
+      "date": "2026-09-20",
+      "dateLabel": "9月20日",
+      "id": "d20",
+      "items": [
+        {
+          "id": "f00c834d2b58",
+          "title": "《网络安全人才实战能力报告-AI赋能篇》正式发布，当AI进入业务深水区安全如何跟上",
+          "desc": "9月18日，在第一届中国网络空间安全大会上，《网络安全人才实战能力报告—AI赋能篇》正式发布",
+          "source": "量子位",
+          "date": "2026-09-20",
+          "dateLabel": "9月20日",
+          "tags": [
+            "business",
+            "policy",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/09/492849.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "074c0ea6d5d9",
+          "title": "消息称 Anthropic 拟于 IPO 前推出新 AI 模型，以应对 OpenAI GPT-6 Astra 竞争压力",
+          "desc": "IT之家 9 月 20 日消息，据路透社报道，三位消息人士透露，Anthropic 正考虑推出一款全新人工智能模型，以此应对 OpenAI 发布 GPT‑6 Astra 之后的强劲发展势头。此事发生在该公司筹备 IPO（首次公开募股）前夕；就在此前，其首席执行官还呼吁整个 AI 行业放缓技术迭代的脚步。消息人士称，此番计划发布新模型，意在直面来自直接竞争对手的竞争压力。而在此之前，Anthropi",
+          "source": "IT之家",
+          "date": "2026-09-20",
+          "dateLabel": "9月20日",
+          "tags": [
+            "model",
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/004/817.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/8/973b3c94-e058-4a37-b228-f98153ab4bd3.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "c13b6b7ce2fe",
+          "title": "工信部副部长辛国斌：大力发展开源基座模型和垂类模型，深入推进 AI+ 制造",
+          "desc": "IT之家 9 月 20 日消息，据财联社消息，2026 世界制造业大会今日开幕，工业和信息化部副部长辛国斌在开幕式致辞中表示，工信部将以新一代智能制造为主攻方向，不断提升制造业创新力、竞争力、综合实力，塑造中国制造新优势。辛国斌在致辞中提出四点主张，IT之家附详情如下：一是要提升产业创新体系效能。加强原始创新和关键核心技术攻关，强化企业科技创新主体地位，优化产业创新平台布局建设，推动更多科技创新转",
+          "source": "IT之家",
+          "date": "2026-09-20",
+          "dateLabel": "9月20日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/004/810.htm",
+          "image": "",
+          "color": "#d97706"
+        },
+        {
+          "id": "846c1d2fb067",
+          "title": "消息称一加 16 手机将支持 180FPS 超高帧运行《原神》，号称实现“DLSS4 同代”游戏体验",
+          "desc": "IT之家 9 月 20 日消息，微博博主 @数码闲聊站 今日在微博发文称，“加加 16”（一加 16）手机可以跑 180FPS 超高帧率《原神》。该博主宣称，该机将搭载新一代「风驰游戏内核」，与高通深度合作，基于 SM8975 （预计为骁龙 8 Elite Gen6 Pro）打造独占 GPU 黑科技，首次在移动端实现了“DLSS4 同代”游戏体验，性能释放“恐怖如斯”，原神能裸机直接跑满 180F",
+          "source": "IT之家",
+          "date": "2026-09-20",
+          "dateLabel": "9月20日",
+          "tags": [
+            "model",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/004/806.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/17b867d3-bddd-4ca9-aadf-0b12ece6543c.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "ab5e34708327",
+          "title": "雷神首款 AI 移动工作站 AI Master M7000 明日开售：锐龙 AI Max+ 395 处理器，1.99 万元",
+          "desc": "IT之家 9 月 20 日消息，雷神官方今天宣布，雷神首款人工智能移动工作站 AI Master M7000 将于明日 10:00 开售，号称可运行 120B 参数的端侧 AI 大模型，适配创作、开发、科研、涉密四大领域，首发 + 国补价格 1.99 万元。据介绍，该机将搭载 AMD 锐龙 AI Max+ 395 处理器，拥有 64GB 内存以及 AI 固态硬盘，预装 Herdsman（IT之家注",
+          "source": "IT之家",
+          "date": "2026-09-20",
+          "dateLabel": "9月20日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/004/801.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/c3e49bea-04ee-450c-92cf-538ad4747b37.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "5ef0ee80e915",
+          "title": "卢伟冰：真正意义上的 AI 手机，离走进我们生活，还有不少距离",
+          "desc": "IT之家 9 月 20 日消息，小米集团合伙人 / 总裁、手机部总裁、小米品牌总经理卢伟冰今日发文，详细介绍了小米 18 Pro 系列手机的升级点，他表示：“这是小米数字旗舰系列，升级幅度最大的一次。”卢伟冰提到，近年来，全行业都在聊 AI 手机，但目前看，真正意义上的 AI 手机，距离走进我们的生活，还有不少距离。他表示，还需要整个 AI 和手机行业的共同努力。这一次，小米也走出了关键的一步，从",
+          "source": "IT之家",
+          "date": "2026-09-20",
+          "dateLabel": "9月20日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/004/782.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/fbe99546-164b-4160-a6bc-73f57af187af.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1",
+          "color": "#d97706"
+        },
+        {
+          "id": "0c1a09563e82",
+          "title": "更大的换热面积：机械大师公布 KLEIN 系列双冷排 AIO 液冷",
+          "desc": "IT之家 9 月 20 日消息，方糖机械大师 (Mechanic Master) 现已在其官网公布了“3D 结构分体水冷”KLEIN AIO。与传统 PC AIO 液冷散热器多数仅配备一组冷排不同的是，KLEIN AIO 现有的三款产品 (K240+120,  K360+120, K360+360) 均拥有 2 组冷排，这带来了更大的换热面积。K240+120、K360+120 支持机箱顶部 + ",
+          "source": "IT之家",
+          "date": "2026-09-20",
+          "dateLabel": "9月20日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/004/746.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/87b6942f-7c94-4871-9098-fcc4176ba187.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "8b200b515f81",
+          "title": "市场监管总局：“十五五”时期将运用大数据、AI 等规范网络销售、直播带货，建设消费信用体系",
+          "desc": "IT之家 9 月 20 日消息，国务院新闻办公室于 2026 年 9 月 20 日（星期日）上午 10 时举行“开局起步‘十五五’”系列主题新闻发布会，请市场监管总局新闻发言人、副局长束为，国家药监局副局长杨胜，市场监管总局规划和财务司司长王国伟，市场监管总局网络交易监督管理司司长朱剑桥介绍“十五五”时期推动市场监管高质量发展有关情况，并答记者问。IT之家从国新办官网获悉，市场监管总局新闻发言人、",
+          "source": "IT之家",
+          "date": "2026-09-20",
+          "dateLabel": "9月20日",
+          "tags": [
+            "business",
+            "policy"
+          ],
+          "url": "https://www.ithome.com/1/004/745.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/1e55db1d-fb99-4356-a2c4-ca53fe6a99d4.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-09-19",
       "dateLabel": "9月19日",
       "id": "d19",
       "items": [
         {
-          "id": "20a47492d95c",
-          "title": "微软 Word 接入 ChatGPT，用户可 AI 起草、改写与校对文档",
-          "desc": "IT之家 9 月 19 日消息，科技媒体 NeoWin 今天（9 月 19 日）发布博文，报道称 OpenAI 开放 ChatGPT for Microsoft Word，免费用户也可在 Word 侧边栏调用 ChatGPT。IT之家附上相关截图如下：在适用范围上，现在所有 ChatGPT 套餐（包括免费版）均可使用。用户安装后，可在 Word 内看到 ChatGPT 侧边栏。该插件可读取当前打开",
-          "source": "IT之家",
+          "id": "6f4854734980",
+          "title": "“留给人类阻止AI的时间不多了”",
+          "desc": "AI有可能终结我们所有人",
+          "source": "量子位",
           "date": "2026-09-19",
           "dateLabel": "9月19日",
           "tags": [
-            "model",
             "business"
           ],
-          "url": "https://www.ithome.com/1/004/444.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/6b54e14d-f342-4437-8ded-0a5a7a9f987c.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "15aa6bfc8d27",
-          "title": "华为朱照生：昇腾已经跨越了生态拐点，完全有能力、有机会在 Agentic 时代构建 AI 新生态",
-          "desc": "IT之家 9 月 19 日消息，据 21 世纪经济报道，9 月 19 日，华为计算战略与业务发展部部长朱照生表示，昇腾已经跨越了生态的拐点，完全有能力、有机会在 Agentic 时代构建 AI 新生态。从社区来看，昇腾 CANN 开源社区月均活跃用户数超过 5200 人，自今年 6 月起成为国内活跃度最高的开源社区，社区非华为开发者数量超过华为开发者数量，目前日均新增合入代码超过 3 万行。模型层",
-          "source": "IT之家",
-          "date": "2026-09-19",
-          "dateLabel": "9月19日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/004/441.htm",
+          "url": "https://www.qbitai.com/2026/09/492755.html",
           "image": "",
-          "color": "#d97706"
+          "color": "#7c3aed"
         },
         {
-          "id": "62bed0b23a6e",
-          "title": "英伟达黄仁勋反对放缓 AI 发展的呼声，称 2030 年不会是世界末日",
-          "desc": "IT之家 9 月 19 日消息，在本周放出的 CBS《周日早间》节目中，英伟达首席执行官黄仁勋表示“2030 年不会是世界末日”，并反对放缓 AI 发展的呼声。在过去 1 周时间里，恐慌浪潮席卷 AI 行业，这股浪潮由 Anthropic CEO 达里奥 · 阿莫代伊于 9 月 12 日发表的文章《我们必须控制前沿》所引发，文章呼吁对前沿 AI 模型的开发进行协调管控、放缓节奏。OpenAI CE",
-          "source": "IT之家",
+          "id": "eb42908df42d",
+          "title": "马斯克批量收购破产公司ing…世界首富脑子是不一样",
+          "desc": "老马想买倒闭公司数据为哪般",
+          "source": "量子位",
           "date": "2026-09-19",
           "dateLabel": "9月19日",
           "tags": [
             "business"
           ],
-          "url": "https://www.ithome.com/1/004/438.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/f06bb52c-bdf2-47e1-8274-4c0a843f4179.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/09/492661.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "c3b4e8dde9b0",
-          "title": "马斯克脑机公司 Neuralink 新突破：让失语者“说出我爱你”",
-          "desc": "IT之家 9 月 19 日消息，全球首富埃隆 · 马斯克（Elon Musk）联合创立的脑机公司 Neuralink 昨日（9 月 18 日）在 X 平台发布推文，有语言障碍的志愿者 Terry 在植入脑机接口后，可以通过意念向其亲人传达“我爱你”信息。埃隆 · 马斯克称此次演示 \" 令人动容，出乎意料 \"。IT之家附上相关视频如下：在 23 秒的视频中，一名此前丧失语言能力的男子，借助脑机接口将",
-          "source": "IT之家",
+          "id": "b077001caeb7",
+          "title": "27B模型分分钟交付网页，Qwen 3.8还是太能了",
+          "desc": "设计、前端一口气全干了，结果后端没来上班",
+          "source": "量子位",
           "date": "2026-09-19",
           "dateLabel": "9月19日",
           "tags": [
             "business"
           ],
-          "url": "https://www.ithome.com/1/004/436.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/db7ba371-13bd-4575-946c-60ba5837212f.png",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/09/492573.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "814a814edfe5",
-          "title": "HKC 隐刃 L1 拉伸手机游戏手柄新增“冰川蓝”配色：霍尔摇杆、1KHz 回报率，169 元",
-          "desc": "IT之家 9 月 19 日消息，HKC 现已为旗下隐刃 L1 拉伸手机游戏手柄新增“冰川蓝”配色，该产品采用 USB-C 接口，定价为 169 元。京东 HKC 隐刃 L1 游戏手柄 169 元直达链接该手柄采用人体工程学设计，带有 RGB 灯效，重量 230g，手柄背面带有防滑激光纹路和可拆卸硅胶垫片，支持 214mm 长度内手机。该手柄使用微软 Xbox 同类型振动马达，配备 500 万次寿命",
-          "source": "IT之家",
+          "id": "25f9e658adea",
+          "title": "Nature：AI重生到1900，这一世抢先爱因斯坦提出光量子",
+          "desc": "AI能否提出相对论？",
+          "source": "量子位",
+          "date": "2026-09-19",
+          "dateLabel": "9月19日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/09/492550.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "1eb8fc730147",
+          "title": "千万奖池找“鲸锐”！单项奖金200万，只等一个最会用AI讲故事的你",
+          "desc": "1000万，把才华送上真正的大舞台",
+          "source": "量子位",
+          "date": "2026-09-19",
+          "dateLabel": "9月19日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/09/492501.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "735b01ae402c",
+          "title": "华为汪涛：华为要打造AI算力底座，只做好一颗芯片远远不够",
+          "desc": "CANN跨过拐点，华为补上软件生态",
+          "source": "量子位",
           "date": "2026-09-19",
           "dateLabel": "9月19日",
           "tags": [
             "business",
             "cn"
           ],
-          "url": "https://www.ithome.com/1/004/435.htm",
-          "image": "https://img14.360buyimg.com/pop/jfs/t1/520714/23/9780/62504/6aa7a58eF6009bbd1/00833203207ff43c.png",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/09/492476.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "a2baad6729c8",
-          "title": "OpenAI 示警：先进 AI 可在 2 台相邻物理隔离 PC 间“对话”",
-          "desc": "IT之家 9 月 19 日消息，科技媒体 Wccftech 昨日（9 月 18 日）发布博文，报道称在先进 AI 模型交互方面，物理隔离电脑未必能完全阻断两台相邻计算机间的信息交换。OpenAI 研究员诺姆 · 布朗（Noam Brown）表示：“人类绝对不要低估 AI 的能力”，基于学术研究成果，发现相邻的物理隔离计算机可借 CPU 升温与温度传感器读数，形成低带宽隐蔽通信通道，充当“摩斯电码”",
-          "source": "IT之家",
+          "id": "3b7eed2c04b4",
+          "title": "陶哲轩代表SAIR Foundation宣布正式启动“开放数学模型计划”",
+          "desc": "让开放模型与可负担的算力成为数学研究的共享基石",
+          "source": "量子位",
           "date": "2026-09-19",
           "dateLabel": "9月19日",
           "tags": [
             "research",
             "business"
           ],
-          "url": "https://www.ithome.com/1/004/430.htm",
+          "url": "https://www.qbitai.com/2026/09/492467.html",
           "image": "",
-          "color": "#d97706"
+          "color": "#7c3aed"
         },
         {
-          "id": "b03f4dbfd2a8",
-          "title": "OpenAI 研究员示警：AI 能力越强，越容易“隐藏内心想法”",
-          "desc": "IT之家 9 月 19 日消息，OpenAI 研究员诺姆 · 布朗（Noam Brown）最新表示，伴随着 AI 模型能力越来越强，模型的思维链可监测性正逐渐下降，未来开发者可能无法有效、可靠地发现、解释并约束 AI 的风险行为。IT之家查询公开资料，布朗目前在 OpenAI 公司担任研究科学家（Research Scientist），同时也是推理模型 o1、o3 系列的核心贡献者，目前领导多智能",
-          "source": "IT之家",
+          "id": "205144cd981f",
+          "title": "AI离“理解万物”还有多远？先拿癌细胞和行星轨道试试水",
+          "desc": "同一预测核心，跨七类系统验证",
+          "source": "量子位",
           "date": "2026-09-19",
           "dateLabel": "9月19日",
           "tags": [
-            "research"
+            "business"
           ],
-          "url": "https://www.ithome.com/1/004/429.htm",
+          "url": "https://www.qbitai.com/2026/09/492429.html",
           "image": "",
-          "color": "#d97706"
-        },
-        {
-          "id": "c7cbcfc071fe",
-          "title": "问卷调查显示华为正在评估无屏幕健康手环产品",
-          "desc": "IT之家 9 月 19 日消息，科技媒体 the5krunner 昨日（9 月 18 日）发布博文，报道称基于最新问卷调查，华为可能会推出无屏幕的健康手环，在上市后可能会和 Whoop 等产品竞争。报道称本次问卷调查针对拥有华为智能手表的用户，出现在应用的“设备”选项卡中，调查包含 28 个问题，内容涉及无屏幕健康手环的价格、电池续航时间、表带以及人工智能功能等。IT之家附上相关截图如下：调查还询",
-          "source": "IT之家",
-          "date": "2026-09-19",
-          "dateLabel": "9月19日",
-          "tags": [
-            "research",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/004/426.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/64b8d8a7-4e77-402e-88d0-fa18c5e0f490.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
+          "color": "#7c3aed"
         }
       ]
     },
@@ -142,106 +267,6 @@
             "cn"
           ],
           "url": "https://www.qbitai.com/2026/09/492426.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "71718195964c",
-          "title": "达卯科技算电协同2.0平台入选2026国际数字能源展重大成果发布",
-          "desc": "成果中唯一聚焦算电协同全链路运营的AI技术产品",
-          "source": "量子位",
-          "date": "2026-09-18",
-          "dateLabel": "9月18日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/09/492421.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "4ae124918ddc",
-          "title": "具身智能技术路线尚未定型，基础设施却先收敛",
-          "desc": "从一次成功到一万次稳定执行，具身智能还缺什么？",
-          "source": "量子位",
-          "date": "2026-09-18",
-          "dateLabel": "9月18日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://www.qbitai.com/2026/09/492238.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "41caeed04574",
-          "title": "AGI新战场谷歌亚马逊巨头激战，杀出个中国LimiX-2赢了又赢",
-          "desc": "LimiX让模型理解数据背后的因果机制",
-          "source": "量子位",
-          "date": "2026-09-18",
-          "dateLabel": "9月18日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/09/492175.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "34e35eee9aa8",
-          "title": "白天务农晚上码农，这个斐济农民跨越一万公里来拼多多取经",
-          "desc": "那些数以亿万计的，仍在等待被市场看见的小农户们。",
-          "source": "量子位",
-          "date": "2026-09-18",
-          "dateLabel": "9月18日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/09/492015.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "d264fab8673d",
-          "title": "AGI最难一战，竟在医院！中国AI登上Science，医生不怕失业还催着上线",
-          "desc": "用通用AI去啃最硬的骨头，这条路走得通",
-          "source": "量子位",
-          "date": "2026-09-18",
-          "dateLabel": "9月18日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/09/491875.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "2bef11a8387f",
-          "title": "Manus重生第17天，估值居然就翻倍了",
-          "desc": "作价40亿美元推进新融资",
-          "source": "量子位",
-          "date": "2026-09-18",
-          "dateLabel": "9月18日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/09/491764.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "22e7bba1eb78",
-          "title": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放",
-          "desc": "Git白学了？？？",
-          "source": "量子位",
-          "date": "2026-09-18",
-          "dateLabel": "9月18日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://www.qbitai.com/2026/09/491711.html",
           "image": "",
           "color": "#7c3aed"
         }
@@ -2610,130 +2635,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-08-17",
-      "dateLabel": "8月17日",
-      "id": "d17",
-      "items": [
-        {
-          "id": "83f789e49c85",
-          "title": "共生知行发布人形机器人赛车Demo：以卡丁车测试双足机器人的“全身智能”",
-          "desc": "8月17日，具身智能初创公司共生知行发布双足人形机器人驾驶卡丁车Demo",
-          "source": "量子位",
-          "date": "2026-08-17",
-          "dateLabel": "8月17日",
-          "tags": [
-            "research",
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/08/474537.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "62b4c2b178f3",
-          "title": "人形机器人开始打国球了！两台机器人完整打完11分制比赛",
-          "desc": "没有遥控、没人喂球",
-          "source": "量子位",
-          "date": "2026-08-17",
-          "dateLabel": "8月17日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://www.qbitai.com/2026/08/474518.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "7311a8c84813",
-          "title": "菲尔兹奖得主：AI现在主要靠「抬杠」突破重大数学猜想",
-          "desc": "AI最近最出圈的数学突破，都在“找反例”",
-          "source": "量子位",
-          "date": "2026-08-17",
-          "dateLabel": "8月17日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/08/474381.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "6ea4838f612d",
-          "title": "快讯｜范式PhanRouter上线智谱GLM-5.3，即日开放调用",
-          "desc": "智谱GLM-5.3首发上线范式PhanRouter，即日开放调用",
-          "source": "量子位",
-          "date": "2026-08-17",
-          "dateLabel": "8月17日",
-          "tags": [
-            "model",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/08/474361.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "4c63e73743ec",
-          "title": "终于！世界模型进入“有声时代”：24FPS画面+48kHz立体声实时生成",
-          "desc": "即将完全开源",
-          "source": "量子位",
-          "date": "2026-08-17",
-          "dateLabel": "8月17日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/08/474334.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "4e3c10c4eb97",
-          "title": "英伟达将为 OpenAI 俄亥俄州数据中心提供最高 1050 亿美元担保",
-          "desc": "IT之家 8 月 18 日消息，英伟达同意为 OpenAI 在美国俄亥俄州租赁一座大型数据中心提供最高 1,050 亿美元（IT之家注：现汇率约合 7,086.08 亿元人民币）的担保。该数据中心由软银旗下 SB Energy 负责开发，这也是英伟达迄今规模最大的基础设施融资承诺之一。由黄仁勋领导的英伟达当地时间周一表示，公司还将向 SB Energy 投资 15 亿美元（现汇率约合 101.23",
-          "source": "IT之家",
-          "date": "2026-08-17",
-          "dateLabel": "8月17日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/990/890.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/3/278316e8-1c15-4d6e-86a3-aef371f9261d.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "801faeb25f05",
-          "title": "消息称 Anthropic“年化营收”飙升，7 月底已突破 650 亿美元",
-          "desc": "IT之家 8 月 18 日消息，据彭博社报道，一名知情人士周一透露，截至 7 月底，Anthropic 的年化收入运行率（Annual Revenue Run Rate）已经超过 650 亿美元（IT之家注：现汇率约合 4,386.62 亿元人民币），凸显出这家 Claude 开发商的快速增长势头，也为其可能在今年晚些时候进行 IPO 进一步增添了看点。Anthropic 最新的年化收入运行率，是",
-          "source": "IT之家",
-          "date": "2026-08-17",
-          "dateLabel": "8月17日",
-          "tags": [
-            "model",
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/990/887.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/973b3c94-e058-4a37-b228-f98153ab4bd3.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "5afd2e644c65",
-          "title": "幸运用户捡到可正常工作的英伟达 RTX 2080 SUPER 显卡，更换导热硅脂和导热垫后待机温度约 35℃",
-          "desc": "IT之家 8 月 18 日消息，据外媒 TweakTown 报道，一名 Reddit 用户 Total_Pirate7125 声称在当地“垃圾场（local dump）”捡到了一块还能正常工作的英伟达 RTX 2080 SUPER 显卡，实现了“免费硬件升级”。当然，目前并不清楚这名用户所说的“local dump”具体指什么，可能是垃圾填埋场、废品回收场或其他类似地点。不过可以确定的是，这块显卡",
-          "source": "IT之家",
-          "date": "2026-08-17",
-          "dateLabel": "8月17日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/990/886.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/263ec006-1c19-4898-8597-7177d488bf96.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -2759,6 +2660,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-09-19 15:01",
-  "totalNews": 171
+  "updateTime": "2026-09-20 15:26",
+  "totalNews": 164
 }
