@@ -1,131 +1,196 @@
 {
   "newsData": [
     {
+      "date": "2026-09-21",
+      "dateLabel": "9月21日",
+      "id": "d21",
+      "items": [
+        {
+          "id": "a7ba9836eaf3",
+          "title": "GPT-6 Astra开进机器人身体！清华联手无问芯穹等开源RPent",
+          "desc": "在物理世界真正干活的具身智能体",
+          "source": "量子位",
+          "date": "2026-09-21",
+          "dateLabel": "9月21日",
+          "tags": [
+            "model",
+            "research",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/09/493218.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "3c1682609a2e",
+          "title": "开源Top2！实测阶跃Step 5 Preview，真有点猛啊…",
+          "desc": "激活参数仅27B",
+          "source": "量子位",
+          "date": "2026-09-21",
+          "dateLabel": "9月21日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/09/493179.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "18b8d06a2d54",
+          "title": "中国Neocloud市场第一！商汤大装置全面领跑",
+          "desc": "沙利文报告",
+          "source": "量子位",
+          "date": "2026-09-21",
+          "dateLabel": "9月21日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/09/493175.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "b3105ab76148",
+          "title": "百曜科技发起，《AI虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告》正式发布",
+          "desc": "《AI 虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告——AI 时代生命科学的新型基础设施》正式发布。",
+          "source": "量子位",
+          "date": "2026-09-21",
+          "dateLabel": "9月21日",
+          "tags": [
+            "research",
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/09/493114.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "759dfe472fdf",
+          "title": "IDC评估中国AI算力管理平台:范式智能四项维度获满分，综合评分第一",
+          "desc": "范式成为《中国AI算力管理平台技术能力评估，2026》综合评分位列第一的厂商。",
+          "source": "量子位",
+          "date": "2026-09-21",
+          "dateLabel": "9月21日",
+          "tags": [
+            "research",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/09/493109.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "76c4ce7e50b1",
+          "title": "汽车行业首个AI超级智能体「迪迪虾」来了！腾势多款车型即将OTA",
+          "desc": "近日，比亚迪重磅发布了AI超级智能体「迪迪虾」，首搭腾势N8L纯电车型上",
+          "source": "量子位",
+          "date": "2026-09-21",
+          "dateLabel": "9月21日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/09/493091.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "06485adf5426",
+          "title": "消息称软银拟发超 110 亿美元高收益债，加码 OpenAI 投资",
+          "desc": "IT之家 9 月 21 日消息，据彭博社报道，知情人士周一透露，随着孙正义旗下的软银集团不断加大对 OpenAI 的投资力度，该集团正计划筹措超过 110 亿美元（IT之家注：现汇率约合 737.52 亿元人民币）等值资金，这有望成为有史以来规模最大的高收益债（垃圾债）发行交易之一。知情人士称，软银计划发行分为三种期限、总值 100 亿美元（现汇率约合 670.47 亿元人民币）的美元债券，以及分",
+          "source": "IT之家",
+          "date": "2026-09-21",
+          "dateLabel": "9月21日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/005/255.htm",
+          "image": "",
+          "color": "#d97706"
+        },
+        {
+          "id": "87077c5ce791",
+          "title": "支付宝推出「鱼来」，摸鱼 AI 辅助系统",
+          "desc": "IT之家 9 月 21 日消息，支付宝今天宣布推出「鱼来」摸鱼 AI 辅助系统。官方表示，过去工作间隙的摸鱼可能发生得毫无规律：打开网页、刷两下手机、发会儿呆…… 这就导致了想休息但没有计划，想调整状态又找不到节奏。IT之家了解到，「鱼来」可以将 AI 能力从事务管理进一步延伸到状态管理，基于异步任务能力打造。用户可在阿宝助手中说「鱼来」即可随机召唤并选出命定之鱼，还支持设置每日提醒，以下是官方给",
+          "source": "IT之家",
+          "date": "2026-09-21",
+          "dateLabel": "9月21日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/005/245.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/eeedcad9-6794-4ebc-a5d6-85f49ff2e737.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-09-20",
       "dateLabel": "9月20日",
       "id": "d20",
       "items": [
         {
-          "id": "f00c834d2b58",
-          "title": "《网络安全人才实战能力报告-AI赋能篇》正式发布，当AI进入业务深水区安全如何跟上",
-          "desc": "9月18日，在第一届中国网络空间安全大会上，《网络安全人才实战能力报告—AI赋能篇》正式发布",
+          "id": "879db6ecc071",
+          "title": "刚刚，剪映发了个大的：AI生视频和AI剪辑的壁，被打破了！",
+          "desc": "剪映Hub+剪映助手，好用",
+          "source": "量子位",
+          "date": "2026-09-20",
+          "dateLabel": "9月20日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/09/492973.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "d72eb07bb353",
+          "title": "华为首发企业AI白皮书：AI让员工更快了，怎样让整个企业受益？",
+          "desc": "AI越来越能干，企业该怎么用",
           "source": "量子位",
           "date": "2026-09-20",
           "dateLabel": "9月20日",
           "tags": [
             "business",
-            "policy",
             "cn"
           ],
-          "url": "https://www.qbitai.com/2026/09/492849.html",
+          "url": "https://www.qbitai.com/2026/09/493068.html",
           "image": "",
           "color": "#7c3aed"
         },
         {
-          "id": "074c0ea6d5d9",
-          "title": "消息称 Anthropic 拟于 IPO 前推出新 AI 模型，以应对 OpenAI GPT-6 Astra 竞争压力",
-          "desc": "IT之家 9 月 20 日消息，据路透社报道，三位消息人士透露，Anthropic 正考虑推出一款全新人工智能模型，以此应对 OpenAI 发布 GPT‑6 Astra 之后的强劲发展势头。此事发生在该公司筹备 IPO（首次公开募股）前夕；就在此前，其首席执行官还呼吁整个 AI 行业放缓技术迭代的脚步。消息人士称，此番计划发布新模型，意在直面来自直接竞争对手的竞争压力。而在此之前，Anthropi",
-          "source": "IT之家",
-          "date": "2026-09-20",
-          "dateLabel": "9月20日",
-          "tags": [
-            "model",
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/004/817.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/973b3c94-e058-4a37-b228-f98153ab4bd3.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "c13b6b7ce2fe",
-          "title": "工信部副部长辛国斌：大力发展开源基座模型和垂类模型，深入推进 AI+ 制造",
-          "desc": "IT之家 9 月 20 日消息，据财联社消息，2026 世界制造业大会今日开幕，工业和信息化部副部长辛国斌在开幕式致辞中表示，工信部将以新一代智能制造为主攻方向，不断提升制造业创新力、竞争力、综合实力，塑造中国制造新优势。辛国斌在致辞中提出四点主张，IT之家附详情如下：一是要提升产业创新体系效能。加强原始创新和关键核心技术攻关，强化企业科技创新主体地位，优化产业创新平台布局建设，推动更多科技创新转",
-          "source": "IT之家",
+          "id": "23a99177f815",
+          "title": "一张3090就能跑！全栈国产模型，把AI办公搬到企业本地",
+          "desc": "AI办公这块蛋糕，中国电信可能要先切走一块了。",
+          "source": "量子位",
           "date": "2026-09-20",
           "dateLabel": "9月20日",
           "tags": [
             "business",
             "cn"
           ],
-          "url": "https://www.ithome.com/1/004/810.htm",
+          "url": "https://www.qbitai.com/2026/09/492946.html",
           "image": "",
-          "color": "#d97706"
+          "color": "#7c3aed"
         },
         {
-          "id": "846c1d2fb067",
-          "title": "消息称一加 16 手机将支持 180FPS 超高帧运行《原神》，号称实现“DLSS4 同代”游戏体验",
-          "desc": "IT之家 9 月 20 日消息，微博博主 @数码闲聊站 今日在微博发文称，“加加 16”（一加 16）手机可以跑 180FPS 超高帧率《原神》。该博主宣称，该机将搭载新一代「风驰游戏内核」，与高通深度合作，基于 SM8975 （预计为骁龙 8 Elite Gen6 Pro）打造独占 GPU 黑科技，首次在移动端实现了“DLSS4 同代”游戏体验，性能释放“恐怖如斯”，原神能裸机直接跑满 180F",
-          "source": "IT之家",
-          "date": "2026-09-20",
-          "dateLabel": "9月20日",
-          "tags": [
-            "model",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/004/806.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/17b867d3-bddd-4ca9-aadf-0b12ece6543c.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "ab5e34708327",
-          "title": "雷神首款 AI 移动工作站 AI Master M7000 明日开售：锐龙 AI Max+ 395 处理器，1.99 万元",
-          "desc": "IT之家 9 月 20 日消息，雷神官方今天宣布，雷神首款人工智能移动工作站 AI Master M7000 将于明日 10:00 开售，号称可运行 120B 参数的端侧 AI 大模型，适配创作、开发、科研、涉密四大领域，首发 + 国补价格 1.99 万元。据介绍，该机将搭载 AMD 锐龙 AI Max+ 395 处理器，拥有 64GB 内存以及 AI 固态硬盘，预装 Herdsman（IT之家注",
-          "source": "IT之家",
-          "date": "2026-09-20",
-          "dateLabel": "9月20日",
-          "tags": [
-            "model",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/004/801.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/c3e49bea-04ee-450c-92cf-538ad4747b37.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "5ef0ee80e915",
-          "title": "卢伟冰：真正意义上的 AI 手机，离走进我们生活，还有不少距离",
-          "desc": "IT之家 9 月 20 日消息，小米集团合伙人 / 总裁、手机部总裁、小米品牌总经理卢伟冰今日发文，详细介绍了小米 18 Pro 系列手机的升级点，他表示：“这是小米数字旗舰系列，升级幅度最大的一次。”卢伟冰提到，近年来，全行业都在聊 AI 手机，但目前看，真正意义上的 AI 手机，距离走进我们的生活，还有不少距离。他表示，还需要整个 AI 和手机行业的共同努力。这一次，小米也走出了关键的一步，从",
-          "source": "IT之家",
-          "date": "2026-09-20",
-          "dateLabel": "9月20日",
-          "tags": [
-            "model",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/004/782.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/fbe99546-164b-4160-a6bc-73f57af187af.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1",
-          "color": "#d97706"
-        },
-        {
-          "id": "0c1a09563e82",
-          "title": "更大的换热面积：机械大师公布 KLEIN 系列双冷排 AIO 液冷",
-          "desc": "IT之家 9 月 20 日消息，方糖机械大师 (Mechanic Master) 现已在其官网公布了“3D 结构分体水冷”KLEIN AIO。与传统 PC AIO 液冷散热器多数仅配备一组冷排不同的是，KLEIN AIO 现有的三款产品 (K240+120,  K360+120, K360+360) 均拥有 2 组冷排，这带来了更大的换热面积。K240+120、K360+120 支持机箱顶部 + ",
-          "source": "IT之家",
+          "id": "fc3f47b0c8b0",
+          "title": "APUS 开源国内首批Jev跨平台复现：国产模型实现秒级决策",
+          "desc": "9月19日，中国人工智能企业APUS旗下 AI 实验室公布了全球最早一批针对Jev的独立开源复现成果",
+          "source": "量子位",
           "date": "2026-09-20",
           "dateLabel": "9月20日",
           "tags": [
             "business",
             "cn"
           ],
-          "url": "https://www.ithome.com/1/004/746.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/87b6942f-7c94-4871-9098-fcc4176ba187.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "8b200b515f81",
-          "title": "市场监管总局：“十五五”时期将运用大数据、AI 等规范网络销售、直播带货，建设消费信用体系",
-          "desc": "IT之家 9 月 20 日消息，国务院新闻办公室于 2026 年 9 月 20 日（星期日）上午 10 时举行“开局起步‘十五五’”系列主题新闻发布会，请市场监管总局新闻发言人、副局长束为，国家药监局副局长杨胜，市场监管总局规划和财务司司长王国伟，市场监管总局网络交易监督管理司司长朱剑桥介绍“十五五”时期推动市场监管高质量发展有关情况，并答记者问。IT之家从国新办官网获悉，市场监管总局新闻发言人、",
-          "source": "IT之家",
-          "date": "2026-09-20",
-          "dateLabel": "9月20日",
-          "tags": [
-            "business",
-            "policy"
-          ],
-          "url": "https://www.ithome.com/1/004/745.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/1e55db1d-fb99-4356-a2c4-ca53fe6a99d4.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/09/492939.html",
+          "image": "",
+          "color": "#7c3aed"
         }
       ]
     },
@@ -2510,131 +2575,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-08-18",
-      "dateLabel": "8月18日",
-      "id": "d18",
-      "items": [
-        {
-          "id": "80880c17af6d",
-          "title": "年轻人首选B级闪充轿车秦MAX正式上市，售价10.99-14.39万元",
-          "desc": "8月13日，比亚迪秦MAX正式上市，推出EV与DM-i双动力版本",
-          "source": "量子位",
-          "date": "2026-08-18",
-          "dateLabel": "8月18日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/08/474907.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "d06293704653",
-          "title": "比亚迪全程护航丝路万里行，深圳收官再启海外征程",
-          "desc": "8月14日，2026丝绸之路万里行·启迪之路国内段在深圳收官。",
-          "source": "量子位",
-          "date": "2026-08-18",
-          "dateLabel": "8月18日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/08/474868.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "761231061a02",
-          "title": "网易传媒发布”蜜蜂AI” ：从工具到伙伴，让AI更懂人",
-          "desc": "8月18日，网易传媒举办“蜜蜂AI媒体沟通会”",
-          "source": "量子位",
-          "date": "2026-08-18",
-          "dateLabel": "8月18日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/08/474857.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "56538ee84648",
-          "title": "π0引用的中国团队，又出手了：世界仿真器新作发布",
-          "desc": "给机器人造一个更接近真实的“第二世界”",
-          "source": "量子位",
-          "date": "2026-08-18",
-          "dateLabel": "8月18日",
-          "tags": [
-            "research",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/08/474838.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "c173ffffbb59",
-          "title": "人人都能写好听的歌，阿里发布AI音乐模型HappyShrimp",
-          "desc": "8月17日，阿里巴巴发布AI音乐模型HappyShrimp",
-          "source": "量子位",
-          "date": "2026-08-18",
-          "dateLabel": "8月18日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/08/474840.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "a8ce0f8f75c0",
-          "title": "6个Agent组团Vibe Gaming：自己生成、试玩、修Bug",
-          "desc": "代码能跑≠游戏能玩",
-          "source": "量子位",
-          "date": "2026-08-18",
-          "dateLabel": "8月18日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/08/474806.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "7f179f486edb",
-          "title": "今日起，阿里“千问办公”接入企业微信",
-          "desc": "国内三大办公平台全面支持",
-          "source": "量子位",
-          "date": "2026-08-18",
-          "dateLabel": "8月18日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/08/474803.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "d32195da62f7",
-          "title": "吉利汽车业绩高点，李书福激流勇退",
-          "desc": "“吉利不再研发传统燃油车”",
-          "source": "量子位",
-          "date": "2026-08-18",
-          "dateLabel": "8月18日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/08/474736.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -2660,6 +2600,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-09-20 15:26",
-  "totalNews": 164
+  "updateTime": "2026-09-21 15:36",
+  "totalNews": 160
 }
