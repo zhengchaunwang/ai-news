@@ -1,130 +1,198 @@
 {
   "newsData": [
     {
-      "date": "2026-09-21",
-      "dateLabel": "9月21日",
-      "id": "d21",
+      "date": "2026-09-22",
+      "dateLabel": "9月22日",
+      "id": "d22",
       "items": [
         {
-          "id": "a7ba9836eaf3",
-          "title": "GPT-6 Astra开进机器人身体！清华联手无问芯穹等开源RPent",
-          "desc": "在物理世界真正干活的具身智能体",
+          "id": "084bcf455e47",
+          "title": "阿里研究员透露Qwen4.5后模型将扩展至5-10T参数",
+          "desc": "未来Qwen4.5、Qwen5等版本将扩展至5-10T参数。",
           "source": "量子位",
-          "date": "2026-09-21",
-          "dateLabel": "9月21日",
+          "date": "2026-09-22",
+          "dateLabel": "9月22日",
+          "tags": [
+            "research",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/09/493629.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "4149c25c79c5",
+          "title": "阿里公布全模态模型新进展，Qwen4和下代视频模型均在训练中",
+          "desc": "9月22日， 2026云栖大会开幕，阿里巴巴公布大模型最新进展。",
+          "source": "量子位",
+          "date": "2026-09-22",
+          "dateLabel": "9月22日",
+          "tags": [
+            "model",
+            "research",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/09/493625.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "4bd736d7149f",
+          "title": "2026 East Forward出海大会：全球化到达下一站，中国企业如何走得更远",
+          "desc": "“潮起之时，靠岸相见”",
+          "source": "量子位",
+          "date": "2026-09-22",
+          "dateLabel": "9月22日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/09/493510.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "af8000ecebe6",
+          "title": "阿里巴巴：机器智能时代，坚定投入AI模型 AI芯片 AI云三大基石",
+          "desc": "吴泳铭表示，阿里巴巴将坚定投入AI模型、AI芯片和AI云这三项基础设施建设，这是阿里的长期战略选择。",
+          "source": "量子位",
+          "date": "2026-09-22",
+          "dateLabel": "9月22日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/09/493502.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "c7427e1b19e7",
+          "title": "阿里吴泳铭最新演讲：未来机器思考的总量将达到人类的1000倍以上",
+          "desc": "9月22日，在2026杭州云栖大会上，阿里巴巴集团CEO吴泳铭发表最新演讲，阐述了对“机器智能”时代的思考。",
+          "source": "量子位",
+          "date": "2026-09-22",
+          "dateLabel": "9月22日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/09/493485.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "48609702dd40",
+          "title": "AI算力之争不靠堆卡！浪潮信息捅破智算「能力天花板」，还瓦解了「产能焦虑」",
+          "desc": "弥补算力缺口，不能只靠堆料",
+          "source": "量子位",
+          "date": "2026-09-22",
+          "dateLabel": "9月22日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/09/493363.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "13e6df4a7668",
+          "title": "小米 18 Pro 系列手机官宣首发「传奇一瞬」大模型影像，号称成像质感媲美专业相机",
+          "desc": "IT之家 9 月 22 日消息，小米官方刚刚宣布，小米 18 Pro 系列手机将首发「传奇一瞬」大模型影像，号称成像质感媲美专业相机。传感器数据直传云端，百万样片多维度训练实现相机级光学虚化，成像质感媲美专业相机IT之家注意到，小米在去年 12 月发布的小米 17 Ultra 徕卡版上，带来了专属「徕卡一瞬」模式，由小米与徕卡合作开发。该模式包含 LEICA M3 和 LEICA M9 两种模式：",
+          "source": "IT之家",
+          "date": "2026-09-22",
+          "dateLabel": "9月22日",
           "tags": [
             "model",
             "research",
             "business",
             "cn"
           ],
-          "url": "https://www.qbitai.com/2026/09/493218.html",
+          "url": "https://www.ithome.com/1/005/675.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/be26b5ff-b4ef-493d-abb4-0972abce4853.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "52e0428894bb",
+          "title": "消息称高瓴创投合伙人严文韬加入 DeepSeek，终结深度求索三年来 CFO 空缺局面",
+          "desc": "IT之家 9 月 22 日消息，据投资界报道，高瓴创投合伙人严文韬于 9 月 21 日正式加入 DeepSeek，本人已到公司报到。随着严文韬的入职，DeepSeek 深度求索终结了成立三年来 CFO 空缺的局面。资料显示，严文韬于 1991 年出生，毕业于复旦大学，2013 年至 2020 年间先后在腾讯投资、H Capital 任职，并于 2020 年加入高瓴创投。报道还提到，严文韬的加入临近",
+          "source": "IT之家",
+          "date": "2026-09-22",
+          "dateLabel": "9月22日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/005/674.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/3f779ae9-bc91-4e8f-94d9-36c1ca5c5f5a.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-21",
+      "dateLabel": "9月21日",
+      "id": "d21",
+      "items": [
+        {
+          "id": "96cb02edbb9f",
+          "title": "SkyProduction天工工作台中秋国庆特惠第二波：Seedance 2.5 720P 低至 0.27 元/秒，全网地板价！",
+          "desc": "9月15日，SkyProduction（天工工作台）中秋国庆折上折活动正式开启！",
+          "source": "量子位",
+          "date": "2026-09-21",
+          "dateLabel": "9月21日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://www.qbitai.com/2026/09/493268.html",
           "image": "",
           "color": "#7c3aed"
         },
         {
-          "id": "3c1682609a2e",
-          "title": "开源Top2！实测阶跃Step 5 Preview，真有点猛啊…",
-          "desc": "激活参数仅27B",
+          "id": "a5f7d785c007",
+          "title": "啊啊啊GPT-6 Astra这么不安全！这次马斯克都瘫坐了",
+          "desc": "97%尝试危险行为",
+          "source": "量子位",
+          "date": "2026-09-21",
+          "dateLabel": "9月21日",
+          "tags": [
+            "model",
+            "policy"
+          ],
+          "url": "https://www.qbitai.com/2026/09/493241.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "4c37927cef39",
+          "title": "长三角安全人工智能安徽省实验室发布星界、星驭、星鉴三大AI安全解决方案",
+          "desc": "9月19日，第一届中国网络空间安全大会（CCSC 2026）的高水平专题论坛在安徽合肥正式举办。",
           "source": "量子位",
           "date": "2026-09-21",
           "dateLabel": "9月21日",
           "tags": [
             "business",
+            "policy",
             "cn"
           ],
-          "url": "https://www.qbitai.com/2026/09/493179.html",
+          "url": "https://www.qbitai.com/2026/09/493235.html",
           "image": "",
           "color": "#7c3aed"
         },
         {
-          "id": "18b8d06a2d54",
-          "title": "中国Neocloud市场第一！商汤大装置全面领跑",
-          "desc": "沙利文报告",
-          "source": "量子位",
-          "date": "2026-09-21",
-          "dateLabel": "9月21日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/09/493175.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "b3105ab76148",
-          "title": "百曜科技发起，《AI虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告》正式发布",
-          "desc": "《AI 虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告——AI 时代生命科学的新型基础设施》正式发布。",
+          "id": "aef9e39beb94",
+          "title": "国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单",
+          "desc": "OceanBase团队提交的Data Agent方案登顶国际数据智能体基准Data Agent Benchmark",
           "source": "量子位",
           "date": "2026-09-21",
           "dateLabel": "9月21日",
           "tags": [
             "research",
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/09/493114.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "759dfe472fdf",
-          "title": "IDC评估中国AI算力管理平台:范式智能四项维度获满分，综合评分第一",
-          "desc": "范式成为《中国AI算力管理平台技术能力评估，2026》综合评分位列第一的厂商。",
-          "source": "量子位",
-          "date": "2026-09-21",
-          "dateLabel": "9月21日",
-          "tags": [
-            "research",
-            "business",
             "cn"
           ],
-          "url": "https://www.qbitai.com/2026/09/493109.html",
+          "url": "https://www.qbitai.com/2026/09/493231.html",
           "image": "",
           "color": "#7c3aed"
-        },
-        {
-          "id": "76c4ce7e50b1",
-          "title": "汽车行业首个AI超级智能体「迪迪虾」来了！腾势多款车型即将OTA",
-          "desc": "近日，比亚迪重磅发布了AI超级智能体「迪迪虾」，首搭腾势N8L纯电车型上",
-          "source": "量子位",
-          "date": "2026-09-21",
-          "dateLabel": "9月21日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/09/493091.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "06485adf5426",
-          "title": "消息称软银拟发超 110 亿美元高收益债，加码 OpenAI 投资",
-          "desc": "IT之家 9 月 21 日消息，据彭博社报道，知情人士周一透露，随着孙正义旗下的软银集团不断加大对 OpenAI 的投资力度，该集团正计划筹措超过 110 亿美元（IT之家注：现汇率约合 737.52 亿元人民币）等值资金，这有望成为有史以来规模最大的高收益债（垃圾债）发行交易之一。知情人士称，软银计划发行分为三种期限、总值 100 亿美元（现汇率约合 670.47 亿元人民币）的美元债券，以及分",
-          "source": "IT之家",
-          "date": "2026-09-21",
-          "dateLabel": "9月21日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/005/255.htm",
-          "image": "",
-          "color": "#d97706"
-        },
-        {
-          "id": "87077c5ce791",
-          "title": "支付宝推出「鱼来」，摸鱼 AI 辅助系统",
-          "desc": "IT之家 9 月 21 日消息，支付宝今天宣布推出「鱼来」摸鱼 AI 辅助系统。官方表示，过去工作间隙的摸鱼可能发生得毫无规律：打开网页、刷两下手机、发会儿呆…… 这就导致了想休息但没有计划，想调整状态又找不到节奏。IT之家了解到，「鱼来」可以将 AI 能力从事务管理进一步延伸到状态管理，基于异步任务能力打造。用户可在阿宝助手中说「鱼来」即可随机召唤并选出命定之鱼，还支持设置每日提醒，以下是官方给",
-          "source": "IT之家",
-          "date": "2026-09-21",
-          "dateLabel": "9月21日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/005/245.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/eeedcad9-6794-4ebc-a5d6-85f49ff2e737.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
         }
       ]
     },
@@ -2554,27 +2622,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-08-19",
-      "dateLabel": "8月19日",
-      "id": "d19",
-      "items": [
-        {
-          "id": "0fc0b9b66fda",
-          "title": "章鱼动力亮相WRC 2026，携“脑-手-数据”技术体系探索具身智能未来范式",
-          "desc": "章鱼动力亮相WRC 2026，携“脑-手-数据”技术体系探索具身智能未来范式",
-          "source": "量子位",
-          "date": "2026-08-19",
-          "dateLabel": "8月19日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://www.qbitai.com/2026/08/475931.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -2600,6 +2647,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-09-21 15:36",
-  "totalNews": 160
+  "updateTime": "2026-09-22 15:17",
+  "totalNews": 163
 }
