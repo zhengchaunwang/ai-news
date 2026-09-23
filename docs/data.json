@@ -1,45 +1,135 @@
 {
   "newsData": [
     {
+      "date": "2026-09-23",
+      "dateLabel": "9月23日",
+      "id": "d23",
+      "items": [
+        {
+          "id": "6a345f8c1c33",
+          "title": "Jev vs Decitron：同为决策AI，为什么不是一回事？",
+          "desc": "对复杂现实进行推演与决策",
+          "source": "量子位",
+          "date": "2026-09-23",
+          "dateLabel": "9月23日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/09/496352.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "6a148c30f041",
+          "title": "实时世界模型进入“全科生”阶段，PixVerse R2先交卷！",
+          "desc": "实时性和通用能力，世界模型可以全都要",
+          "source": "量子位",
+          "date": "2026-09-23",
+          "dateLabel": "9月23日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/09/496329.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "88a60a5555a7",
+          "title": "稚晖君把机器人卖到2万元一台，可人可狗可开发！",
+          "desc": "两万元，买到的是怎样一个机器人",
+          "source": "量子位",
+          "date": "2026-09-23",
+          "dateLabel": "9月23日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.qbitai.com/2026/09/496304.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "406fdde13a7d",
+          "title": "阿里千问AI平台全面升级模型服务、Agent服务、AI应用",
+          "desc": "覆盖MaaS、Agent服务、行业AI解决方案",
+          "source": "量子位",
+          "date": "2026-09-23",
+          "dateLabel": "9月23日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/09/496301.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "718d006ea776",
+          "title": "GPT-6 Astra搓3D刷屏后，3D生成的竞争规则变了",
+          "desc": "下半场开始了",
+          "source": "量子位",
+          "date": "2026-09-23",
+          "dateLabel": "9月23日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://www.qbitai.com/2026/09/496170.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "dc73e39940b6",
+          "title": "Claude Opus 5.5突袭！68万行代码一天迁完，API价格打8折",
+          "desc": "缓存读取价砍了60%",
+          "source": "量子位",
+          "date": "2026-09-23",
+          "dateLabel": "9月23日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://www.qbitai.com/2026/09/496221.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "f00e791bef7f",
+          "title": "刷视频也能教会机器人干活！1200亿tokens人类动作预训练，误差按幂律下降",
+          "desc": "押注互联网里的人类经验",
+          "source": "量子位",
+          "date": "2026-09-23",
+          "dateLabel": "9月23日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.qbitai.com/2026/09/496129.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "d1d54c76fbe8",
+          "title": "滴滴自动驾驶连获全国工商联及北京市荣誉榜单认可",
+          "desc": "滴滴首次入选2026年民营企业发展新质生产力案例，首次登上2026北京民营企业未来产业先锋榜。",
+          "source": "量子位",
+          "date": "2026-09-23",
+          "dateLabel": "9月23日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/09/496124.html",
+          "image": "",
+          "color": "#7c3aed"
+        }
+      ]
+    },
+    {
       "date": "2026-09-22",
       "dateLabel": "9月22日",
       "id": "d22",
       "items": [
         {
-          "id": "084bcf455e47",
-          "title": "阿里研究员透露Qwen4.5后模型将扩展至5-10T参数",
-          "desc": "未来Qwen4.5、Qwen5等版本将扩展至5-10T参数。",
-          "source": "量子位",
-          "date": "2026-09-22",
-          "dateLabel": "9月22日",
-          "tags": [
-            "research",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/09/493629.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "4149c25c79c5",
-          "title": "阿里公布全模态模型新进展，Qwen4和下代视频模型均在训练中",
-          "desc": "9月22日， 2026云栖大会开幕，阿里巴巴公布大模型最新进展。",
-          "source": "量子位",
-          "date": "2026-09-22",
-          "dateLabel": "9月22日",
-          "tags": [
-            "model",
-            "research",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/09/493625.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "4bd736d7149f",
-          "title": "2026 East Forward出海大会：全球化到达下一站，中国企业如何走得更远",
-          "desc": "“潮起之时，靠岸相见”",
+          "id": "051393d3c690",
+          "title": "陆川手搓历史现场，王珞丹熬夜抽卡，阿里全模态开始兜底生产",
+          "desc": "阿里：三年之内会出现一个原生的全模态统一生成模型，未来体验将不再受限于模态边界。",
           "source": "量子位",
           "date": "2026-09-22",
           "dateLabel": "9月22日",
@@ -47,85 +137,9 @@
             "business",
             "cn"
           ],
-          "url": "https://www.qbitai.com/2026/09/493510.html",
+          "url": "https://www.qbitai.com/2026/09/494429.html",
           "image": "",
           "color": "#7c3aed"
-        },
-        {
-          "id": "af8000ecebe6",
-          "title": "阿里巴巴：机器智能时代，坚定投入AI模型 AI芯片 AI云三大基石",
-          "desc": "吴泳铭表示，阿里巴巴将坚定投入AI模型、AI芯片和AI云这三项基础设施建设，这是阿里的长期战略选择。",
-          "source": "量子位",
-          "date": "2026-09-22",
-          "dateLabel": "9月22日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/09/493502.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "c7427e1b19e7",
-          "title": "阿里吴泳铭最新演讲：未来机器思考的总量将达到人类的1000倍以上",
-          "desc": "9月22日，在2026杭州云栖大会上，阿里巴巴集团CEO吴泳铭发表最新演讲，阐述了对“机器智能”时代的思考。",
-          "source": "量子位",
-          "date": "2026-09-22",
-          "dateLabel": "9月22日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/09/493485.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "48609702dd40",
-          "title": "AI算力之争不靠堆卡！浪潮信息捅破智算「能力天花板」，还瓦解了「产能焦虑」",
-          "desc": "弥补算力缺口，不能只靠堆料",
-          "source": "量子位",
-          "date": "2026-09-22",
-          "dateLabel": "9月22日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/09/493363.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "13e6df4a7668",
-          "title": "小米 18 Pro 系列手机官宣首发「传奇一瞬」大模型影像，号称成像质感媲美专业相机",
-          "desc": "IT之家 9 月 22 日消息，小米官方刚刚宣布，小米 18 Pro 系列手机将首发「传奇一瞬」大模型影像，号称成像质感媲美专业相机。传感器数据直传云端，百万样片多维度训练实现相机级光学虚化，成像质感媲美专业相机IT之家注意到，小米在去年 12 月发布的小米 17 Ultra 徕卡版上，带来了专属「徕卡一瞬」模式，由小米与徕卡合作开发。该模式包含 LEICA M3 和 LEICA M9 两种模式：",
-          "source": "IT之家",
-          "date": "2026-09-22",
-          "dateLabel": "9月22日",
-          "tags": [
-            "model",
-            "research",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/005/675.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/be26b5ff-b4ef-493d-abb4-0972abce4853.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "52e0428894bb",
-          "title": "消息称高瓴创投合伙人严文韬加入 DeepSeek，终结深度求索三年来 CFO 空缺局面",
-          "desc": "IT之家 9 月 22 日消息，据投资界报道，高瓴创投合伙人严文韬于 9 月 21 日正式加入 DeepSeek，本人已到公司报到。随着严文韬的入职，DeepSeek 深度求索终结了成立三年来 CFO 空缺的局面。资料显示，严文韬于 1991 年出生，毕业于复旦大学，2013 年至 2020 年间先后在腾讯投资、H Capital 任职，并于 2020 年加入高瓴创投。报道还提到，严文韬的加入临近",
-          "source": "IT之家",
-          "date": "2026-09-22",
-          "dateLabel": "9月22日",
-          "tags": [
-            "model",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/005/674.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/3f779ae9-bc91-4e8f-94d9-36c1ca5c5f5a.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
         }
       ]
     },
@@ -2498,130 +2512,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-08-20",
-      "dateLabel": "8月20日",
-      "id": "d20",
-      "items": [
-        {
-          "id": "009a8a3b5ff6",
-          "title": "这届“WRC必看”：全栈AI、20+超难家务，8.99万带回家",
-          "desc": "这届“WRC必看”：全栈AI、20+超难家务，8.99万带回家",
-          "source": "量子位",
-          "date": "2026-08-20",
-          "dateLabel": "8月20日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/08/476280.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "46fc5b241458",
-          "title": "光帆AI技术正式落地韶音OpenFit 2 AI耳机，携手突破AI边界",
-          "desc": "韶音宣布与光帆科技达成AI技术合作，将上线基于光帆自研AI OS的效率功能合集——\"AI 实验室\"",
-          "source": "量子位",
-          "date": "2026-08-20",
-          "dateLabel": "8月20日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/08/476281.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "947046a28d05",
-          "title": "闭源RSI的严父：18个Agent自主科研，Kimi K3靠Harness逼近Opus 5",
-          "desc": "经典RSI剧本开始动摇",
-          "source": "量子位",
-          "date": "2026-08-20",
-          "dateLabel": "8月20日",
-          "tags": [
-            "model",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/08/476199.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "f20787364614",
-          "title": "今年WRC最大展台，预告具身智能未来",
-          "desc": "从自主泛化到真生产力",
-          "source": "量子位",
-          "date": "2026-08-20",
-          "dateLabel": "8月20日",
-          "tags": [
-            "research",
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/08/476141.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "5bbb43b3b45c",
-          "title": "攻克行业级柔性操作难题！招商局狮子山人工智能实验室首次亮相WRC 2026",
-          "desc": "全栈自研，真机叠衣ICRA夺冠",
-          "source": "量子位",
-          "date": "2026-08-20",
-          "dateLabel": "8月20日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/08/476129.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "86d3b6f91ac3",
-          "title": "宇树科技上市首日大涨629%，世界机器人大会里谁是“下一个宇树”？",
-          "desc": "这几个玩家或可被“押注”",
-          "source": "量子位",
-          "date": "2026-08-20",
-          "dateLabel": "8月20日",
-          "tags": [
-            "research",
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/08/476120.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "49f17d25b08e",
-          "title": "墨奇亮相WRC：一台机器人长程任务实战背后的“具身大脑”革命",
-          "desc": "墨奇智能（MORPHI）首次在国内系统亮相，公开展示其新近发布的具身智能模型架构MoRA",
-          "source": "量子位",
-          "date": "2026-08-20",
-          "dateLabel": "8月20日",
-          "tags": [
-            "research",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/08/476078.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "d73a283e5e75",
-          "title": "完美世界2026半年报：《异环》全球流水破20亿 Q3起释放业绩",
-          "desc": "完美世界今年4月底推出的重磅新游《异环》截至8月18日已取得全球累计流水超20亿元，业绩贡献将在Q3起逐步释放",
-          "source": "量子位",
-          "date": "2026-08-20",
-          "dateLabel": "8月20日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/08/476075.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -2647,6 +2537,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-09-22 15:17",
-  "totalNews": 163
+  "updateTime": "2026-09-23 15:20",
+  "totalNews": 156
 }
