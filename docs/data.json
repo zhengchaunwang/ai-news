@@ -1,10 +1,222 @@
 {
   "newsData": [
     {
+      "date": "2026-09-26",
+      "dateLabel": "9月26日",
+      "id": "d26",
+      "items": [
+        {
+          "id": "aab0e6b33144",
+          "title": "微软提醒 Win11 禁用 8.3 文件名：可提升文件操作速度，但影响应用兼容性",
+          "desc": "IT之家 9 月 26 日消息，科技媒体 Neowin 昨日（9 月 25 日）发布博文，报道称微软近期通过官方文档重申在 Windows 10、Windows 11 系统中禁用 8.3 文件名（8.3 filename），虽可显著提升文件密集型操作性能，但若未妥善处理依赖该功能的应用或注册表项，可能导致软件卸载失败等兼容性问题。IT之家注：8.3 文件名源于 MS-DOS 时代的文件命名规范，规",
+          "source": "IT之家",
+          "date": "2026-09-26",
+          "dateLabel": "9月26日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/007/365.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/4733ab6a-1dad-44c6-85a9-93d5077ab71e.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "b6295280524f",
+          "title": "“中国天眼”FAST 项目有望 2028 年前后实现全链条国产化",
+          "desc": "IT之家 9 月 26 日消息，@央视财经 今天（9 月 26 日）发布微博，报道称“中国天眼”FAST 项目有望在 2028 年前后，实现全链条国产化。FAST 运行和发展中心主任兼总工程师姜鹏介绍，从终端馈源，到射频电路放大器，一直到芯片，逐层地往前摸索，已经花了几年时间了。FAST 相位阵、19 波束目前还是进口的，希望在 2028 年前后，FAST 能实现全部国产化。姜鹏表示，正在规划未来",
+          "source": "IT之家",
+          "date": "2026-09-26",
+          "dateLabel": "9月26日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/007/361.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/0d18de01-16cd-488e-a28c-3ab06736ad5a.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "0a0a32fabc09",
+          "title": "美团上线 LongCat-2.5-Preview 模型：1.6T 参数，主打 AI 长程任务与多模态能力",
+          "desc": "IT之家 9 月 26 日消息，美团旗下 LongCat API 开放平台于 9 月 25 日上线新一代大模型 LongCat-2.5-Preview，主打“长程任务”与多模态能力，并同步开放 API 与网页端体验入口。IT之家附上官方更新日志内容如下：LongCat-2.5-Preview 的核心特性如下：多模态理解：新增图片理解能力，可解析图像内容，支持跨模态问答、内容摘要与复杂视觉推理。卓越",
+          "source": "IT之家",
+          "date": "2026-09-26",
+          "dateLabel": "9月26日",
+          "tags": [
+            "model",
+            "research",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/007/356.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/663ed252-a37e-4b4f-9aa5-e6c1d4b28ec5.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "0b71d1554fd3",
+          "title": "联力带来 Edge Hub V2 / Adv 集线器，后者支持双显卡 12V-2×6 温度检测",
+          "desc": "IT之家 9 月 26 日消息，联力 (LIAN LI) 近日在官网公布了 Edge Hub V2 / Adv 集线器。其采用 PCIe 8-Pin 供电，支持磁吸固定，可与联力自家 Edge / RS 系列电源配对或安装在其它位置。▲ Edge Hub V2Edge Hub V2 / Adv 均采用双芯片并行架构，可提供 4 组 USB 9-Pin 接针与 6 组 PWM 4-Pin (2A) ",
+          "source": "IT之家",
+          "date": "2026-09-26",
+          "dateLabel": "9月26日",
+          "tags": [
+            "research",
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/007/353.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/4b838d49-e767-47cb-9cf4-2894fde271a2.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "897441a506b1",
+          "title": "赛豆科技首款量产车 AIVA ME7 官宣 9 月 28 日亮相法国巴黎",
+          "desc": "IT之家 9 月 26 日消息，赛豆 AIVA 汽车今日宣布，旗下首款量产车 AIVA ME7 将于今年 9 月 28 日在法国巴黎・尚普拉特勒城堡亮相。据IT之家此前报道，由重庆市沙坪坝区与赛力斯共同投资的赛豆科技在今年 6 月迎来首秀，发布 AIVA 首款概念车 AIVA Origin Concept，并宣布首款量产车型 AIVA ME7 将于年内发布，全系车型将覆盖 20 万元以上主流市场。",
+          "source": "IT之家",
+          "date": "2026-09-26",
+          "dateLabel": "9月26日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/007/351.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/1d519168-8dea-42d0-bab5-40a947e8225a.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "1ad962076fbe",
+          "title": "联想 Googlebook 二合一平板电脑曝光：预估配联发科 Kompanio Ultra 910 芯片",
+          "desc": "IT之家 9 月 26 日消息，消息源 Evan Blass 昨日（9 月 25 日）在 X 平台发布推文，分享了两张图片，展示了联想尚未发布的 Googlebook 二合一平板电脑。该设备采用平板式布局，背部配有支架，键盘比现有 Googlebook 更薄，左侧扶手印有“Googlebook”标识。机身右侧设有一个开关按钮，用于关闭键盘以防误触，旁侧附有蓝牙标志，暗示键盘可拆卸独立使用。背面摄像",
+          "source": "IT之家",
+          "date": "2026-09-26",
+          "dateLabel": "9月26日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/007/350.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/c18de8cf-a719-41d8-9650-a23039bdd241.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "79e84d2f7b52",
+          "title": "vivo S2 FE 手机曝光：联发科天玑 7300e 芯片、10000mAh 容量电池",
+          "desc": "IT之家 9 月 26 日消息，科技媒体 gizmochina 昨日（9 月 25 日）发布博文，报道称 vivo S2 FE 手机曝光，预估配联发科天玑 7300e 芯片，以及 10000mAh 容量电池，预估 10 月 6 日发布。消息称 S2 FE 机身正面配备 6.83 英寸 1.5K AMOLED 显示屏，刷新率为 120Hz，后置 5,000 万像素主摄像头，前置 3,200 万像素摄",
+          "source": "IT之家",
+          "date": "2026-09-26",
+          "dateLabel": "9月26日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/007/346.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/7c88ff5e-ba79-4199-baf7-e08d2b48a5bc.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "ef8683b5af8b",
+          "title": "微星推出 MS-C9ZA 无风扇边缘 AI 盒子，基于 Jetson Orin Nano 8GB",
+          "desc": "IT之家 9 月 26 日消息，微星 (MSI) 本月 23 日宣布推出 MS-C9ZA。这款边缘 AI 盒子可在端侧执行 AI 推理与计算机视觉处理，协助降低云端依赖、带宽使用与网络延迟，面向机器人、智能制造等场景。MS-C9ZA 基于 NVIDIA（英伟达）Jetson Orin Nano 8GB 模组，拥有 1024 个 \"Ampere\" GPU 核心、6 个 Arm Cortex-A78A",
+          "source": "IT之家",
+          "date": "2026-09-26",
+          "dateLabel": "9月26日",
+          "tags": [
+            "research",
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/007/344.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/d955d668-fd63-4670-a582-27169e7b2cd1.jpg",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-09-25",
       "dateLabel": "9月25日",
       "id": "d25",
       "items": [
+        {
+          "id": "323aaf7a9a17",
+          "title": "“AlphaGo”杀进足球场！自我对弈140年，机器人成“梅西终结者”",
+          "desc": "“AlphaGo”杀进足球场！自我对弈140年，机器人成“梅西终结者”",
+          "source": "量子位",
+          "date": "2026-09-25",
+          "dateLabel": "9月25日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.qbitai.com/2026/09/497278.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "a4302c20590b",
+          "title": "OpenAI闯大祸！GPT竟黑进医保系统，黄仁勋：管不住就关掉",
+          "desc": "OpenAI闯大祸！GPT竟黑进医保系统，黄仁勋：管不住就关掉",
+          "source": "量子位",
+          "date": "2026-09-25",
+          "dateLabel": "9月25日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://www.qbitai.com/2026/09/497177.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "2dfd8ca6928b",
+          "title": "亮出“中国最强AI芯片”还不够，平头哥又甩出一手开源",
+          "desc": "大厂造芯，正在从交付芯片，走向更广泛的开放共建阶段。",
+          "source": "量子位",
+          "date": "2026-09-25",
+          "dateLabel": "9月25日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/09/497108.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "c7f9282ec990",
+          "title": "别人忙着卷Code，Kimi抽身反打浏览器插件：网页操作一秒变Skill",
+          "desc": "Agent的手越伸越长",
+          "source": "量子位",
+          "date": "2026-09-25",
+          "dateLabel": "9月25日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/09/497075.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "48df2a02970d",
+          "title": "华为大模型双子星联手创业，要找物理世界的Scaling Law",
+          "desc": "一场物理世界的基模实验",
+          "source": "量子位",
+          "date": "2026-09-25",
+          "dateLabel": "9月25日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/09/497070.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "4fe84f96c405",
+          "title": "呃…小扎「自研Manus」刚成Meta太子，就塌房了",
+          "desc": "人工外包团队",
+          "source": "量子位",
+          "date": "2026-09-25",
+          "dateLabel": "9月25日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/09/497060.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
         {
           "id": "ba548a6999f4",
           "title": "给机器人当老师，还能赚外快？“中国版Index”觅蜂派来了",
@@ -19,110 +231,6 @@
           "url": "https://www.qbitai.com/2026/09/497012.html",
           "image": "",
           "color": "#7c3aed"
-        },
-        {
-          "id": "dbda424410e9",
-          "title": "英伟达黄仁勋谈“AI 让孩子淡忘基础数学”：这不是问题，我都记不住家庭地址 / 电话号码",
-          "desc": "IT之家 9 月 25 日消息，在接受《纽约时报》采访时，针对外界对“AI 让孩子淡忘基础数学”的担忧时，英伟达首席执行官黄仁勋认为，由于 AI 而忘记基础数学知识并不是问题。主持人 Ezra Klein 指出基于一项对中国 2.6 万名学生的研究发现，人工智能帮助学生更快地完成作业，并在作业中取得更好的成绩，但随着时间的推移，他们的考试成绩却下降了。IT之家附上相关视频如下：对此黄仁勋承认“知识",
-          "source": "IT之家",
-          "date": "2026-09-25",
-          "dateLabel": "9月25日",
-          "tags": [
-            "research",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/007/145.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/2acde1e5-225b-46cf-861e-dea159ecc74a.png",
-          "color": "#d97706"
-        },
-        {
-          "id": "17a122adbf32",
-          "title": "试图闯入政府或学校网站，OpenAI 智能体四次“失控”细节曝光",
-          "desc": "IT之家 9 月 25 日消息，当地时间 23 日，据《纽约时报》援引研究人员和政府官员消息称，OpenAI 的人工智能系统今年至少又有 4 次擅自行动，在没有收到相应指令的情况下实施黑客攻击，或试图闯入政府和大学网站。这些攻击发生于 5 月和 6 月。到 7 月，OpenAI 入侵了 AI 初创公司 Hugging Face，由此引发全球范围内关于 AI 安全的争论。Hugging Face 事",
-          "source": "IT之家",
-          "date": "2026-09-25",
-          "dateLabel": "9月25日",
-          "tags": [
-            "research",
-            "policy"
-          ],
-          "url": "https://www.ithome.com/1/007/144.htm",
-          "image": "",
-          "color": "#d97706"
-        },
-        {
-          "id": "bdf870f6e0d5",
-          "title": "宇树科技创始人王兴兴：机器人核心瓶颈是能否解决几毫米的工作误差",
-          "desc": "IT之家 9 月 25 日消息，据界面新闻今日报道，第五届全球数字贸易博览会 9 月 24 日在杭州举行，宇树科技创始人王兴兴发表《从机械到灵智 — 具身未来进化论》主题演讲。回顾 AI 行业发展，ChatGPT 的出现彻底重塑了大众对人工智能的认知，打开了行业想象力。对此王兴兴判断，具身智能赛道未来也必将迎来专属的“ChatGPT 时刻”。当机器人可在 80% 的陌生场景中，通过语音具身能力完成",
-          "source": "IT之家",
-          "date": "2026-09-25",
-          "dateLabel": "9月25日",
-          "tags": [
-            "model",
-            "research",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/007/143.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/3/fb929200-874c-4f3f-9873-952685705ea6.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1",
-          "color": "#d97706"
-        },
-        {
-          "id": "5077a01bc93f",
-          "title": "鸿蒙智行问界国庆版本 OTA 升级内容公布：新增充电站分时电价显示等功能",
-          "desc": "IT之家 9 月 25 日消息，AITO 汽车今日公布了问界国庆版本 OTA 升级内容，9 月 24 日晚问界各车型已陆续启动本次 OTA 升级。IT之家附本次更新内容如下：华为乾崑智驾 ADS 5新增中控屏转向灯激活影像支持大小设置功能新增支持在导航中按“沿途、周边、目的地”分类搜索功能新增可编辑已添加的途经点功能新增充电站分时电价显示功能新增百度地图优化组队出行体验，支持实时对讲等功能优化沿途",
-          "source": "IT之家",
-          "date": "2026-09-25",
-          "dateLabel": "9月25日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/007/141.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/b873a7f0-a11f-4e0c-8c7f-4e6152d4d7d8.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "61981d6490ec",
-          "title": "马斯克秀 AI 算力：计划年底前配 110 万张英伟达 GB300，目标约 6 个月跻身行业领先",
-          "desc": "IT之家 9 月 25 日消息，全球首富埃隆 · 马斯克（Elon Musk）今天（9 月 25 日）在 X 平台发布推文，详细披露了旗下 SpaceXAI 公司的算力部署情况。SpaceXAI 公司旗下目前主要运营 Colossus 1 和 Colossus 2 两大计算集群，其中 Colossus 1 包含 15 万张英伟达 H100、5 万张 H200 以及 3 万张 GB200；而 Col",
-          "source": "IT之家",
-          "date": "2026-09-25",
-          "dateLabel": "9月25日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/007/138.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/575669e1-e21d-47f0-bffa-ac74c5bdfd8e.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "7d8fdb384804",
-          "title": "谷歌网页版 Gmail 星标和“重要”标签默认设为蓝色，用户抱怨导致收件箱杂乱无章",
-          "desc": "IT之家 9 月 25 日消息，科技媒体 Android Authority 今天（9 月 25 日）发布博文，报道称谷歌调整网页版 Gmail 的星标和“重要”标记，默认统一变成蓝色，这引发了用户的广泛抱怨。谷歌于 9 月 17 日通过 X 平台发布推文，表示为了符合现代无障碍标准，将默认的星标和“重要”标签颜色从黄色更新为蓝色。此项更改确保收件箱更清晰、更易读，并且对所有人都更友好。IT之家附",
-          "source": "IT之家",
-          "date": "2026-09-25",
-          "dateLabel": "9月25日",
-          "tags": [
-            "business",
-            "policy"
-          ],
-          "url": "https://www.ithome.com/1/007/131.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/7e388b45-f9ce-4239-b990-433d8a682114.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "044934067ddc",
-          "title": "瞄准 AI 数据中心光学需求，康宁扩大 Polarcor 玻璃偏振片产能",
-          "desc": "IT之家 9 月 25 日消息，康宁公司于 9 月 24 日宣布，将扩大 Polarcor 玻璃偏振片的制造产能，以应对 AI 数据中心和计算应用持续增长的需求。此次产能扩建将提升康宁工程化玻璃偏振片的生产能力。该类产品广泛应用于光隔离器及其他激光光学器件，是先进光学和光子系统的重要组成部分。与此同时，康宁与一家领先的有源光子技术企业达成了一项新的多年期供货协议。据康宁介绍，这项多年期供货协议将为",
-          "source": "IT之家",
-          "date": "2026-09-25",
-          "dateLabel": "9月25日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/007/130.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/145b89c0-e975-4b20-bd73-123ad6ccb354.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
         }
       ]
     },
@@ -173,82 +281,6 @@
             "research"
           ],
           "url": "https://www.qbitai.com/2026/09/496834.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "aca537f1339d",
-          "title": "GPT-6之后，具身智能走向何方？诺因发布GLOW技术报告，给出机器人“一教就会”的答案",
-          "desc": "人类演示一次，机器人即可实现跨场景任务复用",
-          "source": "量子位",
-          "date": "2026-09-24",
-          "dateLabel": "9月24日",
-          "tags": [
-            "model",
-            "research",
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/09/496816.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "17f8d26113bb",
-          "title": "Stripe Tour 中国首秀：构建 AI 经济基础设施，赋能全球商业增长",
-          "desc": "Stripe Managed Payments (SMP) 现已全面上线",
-          "source": "量子位",
-          "date": "2026-09-24",
-          "dateLabel": "9月24日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/09/496779.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "7fc97554f492",
-          "title": "教机器人干活，光“刷课时”可不够！灵初这次较真数据质量",
-          "desc": "专治人机动作对不齐",
-          "source": "量子位",
-          "date": "2026-09-24",
-          "dateLabel": "9月24日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://www.qbitai.com/2026/09/496778.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "8280c7ca053c",
-          "title": "5分钟完成机器人纳管、10秒启动跨集群任务，清华大学联合无问芯穹开源具身智能云原生平台RLark",
-          "desc": "开源一座具身智能的新“塔台”",
-          "source": "量子位",
-          "date": "2026-09-24",
-          "dateLabel": "9月24日",
-          "tags": [
-            "research",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/09/496767.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "c38de7aae3cd",
-          "title": "海信新一代性能旗舰E7S Pro+正式发布，原生真彩再进阶",
-          "desc": "9月23日，2026海信电视秋季新品发布会上，定位“原生真彩，性能旗舰”的RGB-Mini LED新品E7S Pro+正式发布",
-          "source": "量子位",
-          "date": "2026-09-24",
-          "dateLabel": "9月24日",
-          "tags": [
-            "model",
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/09/496658.html",
           "image": "",
           "color": "#7c3aed"
         }
@@ -2505,41 +2537,6 @@
           "color": "#d97706"
         }
       ]
-    },
-    {
-      "date": "2026-08-23",
-      "dateLabel": "8月23日",
-      "id": "d23",
-      "items": [
-        {
-          "id": "48de8e99127c",
-          "title": "前保安杀进了AI决赛，高中生拿走25万！这AI比赛办得有点绝",
-          "desc": "Tim和胡彦斌亲自颁奖",
-          "source": "量子位",
-          "date": "2026-08-23",
-          "dateLabel": "8月23日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/08/478358.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "fc1b5d1798bd",
-          "title": "WRC唯一真「人机共生」展台，是家沉浸式机器人咖啡店",
-          "desc": "玩的就是真实",
-          "source": "量子位",
-          "date": "2026-08-23",
-          "dateLabel": "8月23日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://www.qbitai.com/2026/08/478319.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -2565,6 +2562,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-09-25 15:06",
+  "updateTime": "2026-09-26 15:03",
   "totalNews": 157
 }
