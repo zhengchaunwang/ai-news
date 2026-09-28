@@ -1,126 +1,195 @@
 {
   "newsData": [
     {
-      "date": "2026-09-27",
-      "dateLabel": "9月27日",
-      "id": "d27",
+      "date": "2026-09-28",
+      "dateLabel": "9月28日",
+      "id": "d28",
       "items": [
         {
-          "id": "974e6afcd219",
-          "title": "亿道首发 JX200 双卡液冷 AI 工作站：20.4L 机身，240 AIO 液冷",
-          "desc": "IT之家 9 月 27 日消息，亿道 (Emdoor) 在英特尔技术创新与产业生态大会 (Intel Connection 2026) 上首发 JX200 双卡液冷 AI 工作站。其机身体积 20.4L，能容纳 2 张具备 32GB 显存的英特尔 Arc Pro B70 专业显卡。▲ JX200JX200 基于集成英特尔第 14 代酷睿处理器 HX 变体的 IRX-HM770 MoDT 主板，搭配",
+          "id": "e83d0881717a",
+          "title": "极摩客发布 EVO-X5 Pro“桌面 AI 超算”，192GB + 2TB 早鸟价 6599 美元",
+          "desc": "IT之家 9 月 28 日消息，极摩客 (GMKtec) 今日正式发布了基于 AMD 锐龙 AI Max+ PRO 495 处理器的“桌面 AI 超算”EVO-X5 Pro。该型号集成至高 192GB LPDDR5X-8533 内存，支持 320B LLM 本地运行。EVO-X5 Pro 拥有 3 个 M.2 2280 SSD 盘位 (PCIe Gen4 ×4 + ×4 + ×1)，提供 2 个 ",
           "source": "IT之家",
-          "date": "2026-09-27",
-          "dateLabel": "9月27日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://www.ithome.com/1/007/519.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/2640d720-9d2e-461e-8b0a-65d7a7993cfb.jpg",
-          "color": "#d97706"
-        },
-        {
-          "id": "defb2ecd88e5",
-          "title": "问界强调仍是鸿蒙智行成员：新 M8 月底预售，标配面向 L3 级自动驾驶架构设计、华为 ADS 5",
-          "desc": "IT之家 9 月 27 日消息，鸿蒙智行问界汽车今日宣布，问界新 M8 全系标配面向 L3 级自动驾驶的架构设计，搭载华为乾崑智驾 ADS 5、新一代全向立体融合感知系统。问界汽车还强调，其仍然是鸿蒙智行成员之一。问界新 M8，由赛力斯与华为双方联合设计与开发。根据规划，问界新 M8 将于 9 月 30 日开启预售。新车座椅采用经典菱格纹，对中控台区域的一些细节进行了全新设计，虽然依然搭载一体式联",
-          "source": "IT之家",
-          "date": "2026-09-27",
-          "dateLabel": "9月27日",
-          "tags": [
-            "research",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/007/518.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/ffba1653-f539-4345-b522-b0b841fcf9a0.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "f245a6853e39",
-          "title": "消息称 OpenAI 将推出常驻 AI 助手「O」，预计 9 月 29 日发布",
-          "desc": "IT之家 9 月 27 日消息，据消息人士 Alexey Shabanov 昨日透露，OpenAI 即将推出一款常驻 AI 助手，其代号为「O」，预计将在 9 月 29 日的 OpenAI DevDay 推出。IT之家从原爆料获悉，ChatGPT 的配置文件中已经出现了许多与「O」相关的线索，包括将「O」设置为显示名称、配置“-o”的电子邮件后缀。综合这些线索来看，这款智能体预计将能够在普通聊天之",
-          "source": "IT之家",
-          "date": "2026-09-27",
-          "dateLabel": "9月27日",
+          "date": "2026-09-28",
+          "dateLabel": "9月28日",
           "tags": [
             "model",
             "business"
           ],
-          "url": "https://www.ithome.com/1/007/512.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/b735f868-ace6-488a-8852-a61b7b2f636b.png?x-bce-process=image/format,f_auto",
+          "url": "https://www.ithome.com/1/007/863.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/6978599f-3ba2-47ec-9215-67d66e5f7aba.jpg",
           "color": "#d97706"
         },
         {
-          "id": "d04a1c8842ea",
-          "title": "华为官网悄悄调整：鸿蒙智行智界 V9“辅助驾驶冗余架构”升级为“L3 级自动驾驶架构设计”",
-          "desc": "IT之家 9 月 27 日消息，鸿蒙智行首款旗舰 MPV —— 智界 V9 已于今年 6 月开启交付。其也是行业首款搭载 896 线激光雷达的 MPV，新车售价区间 38.98 万-51.98 万元。智界 V9 发布时，华为官网页面显示，其搭载的是“辅助驾驶冗余架构”。IT之家注意到，相关页面最近悄悄调整，将智界 V9（Max+ 及以上版本）的“辅助驾驶冗余架构”升级为了“L3 级自动驾驶架构设计",
+          "id": "6cd577413144",
+          "title": "映众推出 AWS-511Z-R1 塔式工作站，基于英特尔 W790 平台",
+          "desc": "IT之家 9 月 28 日消息，映众 (INNO3D) 今日宣布推出全塔 GPU 工作站 AWS-511Z-R1。其基于英特尔 W790 平台，支持至强 W-2400/2500/3400/3500 处理器，拥有 8 条 DDR5 RDIMM 内存插槽。AWS-511Z-R1 配备一对 3000W 的 80 PLUS 钛金 CRPS 电源，支持 2 张 NVIDIA RTX PRO 6000 Bla",
           "source": "IT之家",
-          "date": "2026-09-27",
-          "dateLabel": "9月27日",
+          "date": "2026-09-28",
+          "dateLabel": "9月28日",
+          "tags": [
+            "model",
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/007/859.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/ee0c72f3-e890-4951-80c7-06352f6d3ab1.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "80b1cfd0c36c",
+          "title": "4999 元起：荣耀 Magic9 标准版手机发布，第五代骁龙 8 至尊版芯片、双 2 亿 ARRI 阿莱影像",
+          "desc": "IT之家 9 月 28 日现场消息，荣耀今天召开新品发布会，推出 Magic9 标准版手机。新品主打小屏设计，拥有 ARRI 阿莱影像加持，配备双 2 亿像素影像系统，支持安装行业最小最轻 200mm 拇指增距镜，定价 4999 元起，即日起开启首销。IT之家附荣耀 Magic9 各版本定价如下：12+256GB：4999 元12+512GB：5499 元16+512GB：5999 元16+1TB",
+          "source": "IT之家",
+          "date": "2026-09-28",
+          "dateLabel": "9月28日",
+          "tags": [
+            "business",
+            "policy"
+          ],
+          "url": "https://www.ithome.com/1/007/858.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/d1d25552-bb33-4459-9b29-e5ad03026099.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "82e21ae55e39",
+          "title": "AI 半导体供应链三巨头时隔两月再聚首，曝英伟达黄仁勋、三星李在镕、SK 崔泰源将在美会面",
+          "desc": "IT之家 9 月 28 日消息，据韩媒 News1 昨天（27 日）报道，当地时间 28 日，英伟达 CEO 黄仁勋将在美国纽约会见三星电子会长李在镕和 SK 集团会长崔泰源。全球 AI 半导体供应链三家核心企业的掌门人也将在两个月后再次聚首，下一代高带宽内存（HBM）和 AI 基础设施合作会谈到哪些内容因此备受关注。韩国商界 27 日消息称，李在镕和崔泰源计划参加 28 日在纽约举行的韩国协会年",
+          "source": "IT之家",
+          "date": "2026-09-28",
+          "dateLabel": "9月28日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/007/849.htm",
+          "image": "",
+          "color": "#d97706"
+        },
+        {
+          "id": "0566f9df445d",
+          "title": "SK 海力士驳斥“日本东北地区晶圆厂动工”传闻，称“纯属无稽之谈”",
+          "desc": "IT之家 9 月 28 日消息，据韩媒 smedaily 当地时间今日报道，SK 海力士驳斥了“日本东北地区晶圆厂项目已启动”的传闻，称这“纯属无稽之谈”。消息人士此前表示，一座与 SK 海力士有关的日本晶圆厂已在进行基础工程施工，尚不清楚是独资还是与铠侠合资；SK 海力士近期要求韩国零部件企业扩大供应规模，以应对内存供应短缺。相关阅读：《SK 集团会长崔泰源：SK 海力士正考虑在日本设厂事宜》",
+          "source": "IT之家",
+          "date": "2026-09-28",
+          "dateLabel": "9月28日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/007/848.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/c7a31670-7373-4d55-b415-4a37a38f9731.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "1dc715b77c8d",
+          "title": "鸿蒙智行智界 RX 正式上市，25.98 万-38.98 万元",
+          "desc": "IT之家 9 月 28 日消息，鸿蒙智行智界 RX 今天（28 日）下午正式上市，新车提供 6 款不同配置，售价区间为 25.98 万-38.98 万元。智界 RX 定位中大型纯电轿跑 SUV，基于华为途灵平台打造，提供单电机后驱与双电机四驱两种布局，车身尺寸为 5020×2007×1585mm，轴距 3000mm，首发华为智擎新一代高性能电驱，搭载面向未来的 L3 级自动驾驶架构设计。该车拥有 ",
+          "source": "IT之家",
+          "date": "2026-09-28",
+          "dateLabel": "9月28日",
           "tags": [
             "research",
             "business",
             "cn"
           ],
-          "url": "https://www.ithome.com/1/007/511.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/0773cf0c-b87b-4e3e-b25e-68ae505e16fb.jpg",
+          "url": "https://www.ithome.com/1/007/839.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/0bf1080e-8374-44fd-a33c-6db5a09bf284.jpg",
           "color": "#d97706"
         },
         {
-          "id": "76b7948bf366",
-          "title": "iPhone 17 Pro 银色 7459 元京东部分地区补货，iPhone 18 Pro 系列换新补贴 800 元",
-          "desc": "京东现已开启 iPhone 新品狂促，以旧换新额外补贴 800 元 + 再享 12 期免息：点此查看主会场。京东苹果 iPhone 18 Pro12 期免息换新补贴 800 元直达链接京东苹果 iPhone 18 Pro Max12 期免息换新补贴 800 元直达链接AirPods 5 支持主动降噪，国行定价 999 元起，京东目前支持部分地区政府补贴（收货地址在江苏、吉林、北京、大连），实付 8",
+          "id": "c9da6fdbc2b6",
+          "title": "华为余承东：冗余是 L3 时代入场券，也是自动驾驶的双重保险",
+          "desc": "IT之家 9 月 28 日消息，在今天的智界 RX 及鸿蒙智行新品发布会上，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东宣布，智界 RX 提前迎接 L3 自动驾驶时代，正在公开城市快速路等复杂道路开展实测。关于 L3 自动驾驶，余承东表示，其不是硬件堆砌，而是全链路冗余架构。他介绍称，L3 涵盖感知、计算、制动、转向、供电、通信、定位、交互八大关键节点冗余，主系统失效，备份系统继",
           "source": "IT之家",
+          "date": "2026-09-28",
+          "dateLabel": "9月28日",
+          "tags": [
+            "research",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/007/836.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/6c07d312-6516-4a83-9717-4857fee1d785.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "3180c93aca7c",
+          "title": "华为余承东：智界 RX 提前迎接 L3 自动驾驶时代，正在公开城市快速路等复杂道路开展实测",
+          "desc": "IT之家 9 月 28 日消息，在今天的智界 RX 及鸿蒙智行新品发布会上，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东宣布，智界 RX 提前迎接 L3 自动驾驶时代。据介绍，智界 RX 不仅搭载 L3 级自动驾驶架构设计，而且已获批 L3 级自动驾驶道路测试牌照，正在公开城市快速路等复杂道路开展实测。余承东表示，智界 RX 还搭载全维防碰撞系统 CAS 5.0，支持全时域、全方",
+          "source": "IT之家",
+          "date": "2026-09-28",
+          "dateLabel": "9月28日",
+          "tags": [
+            "research",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/007/834.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/d4994c52-8d5a-4a75-9744-178374e705e8.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-27",
+      "dateLabel": "9月27日",
+      "id": "d27",
+      "items": [
+        {
+          "id": "a1e56ceeff23",
+          "title": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层",
+          "desc": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层",
+          "source": "量子位",
           "date": "2026-09-27",
           "dateLabel": "9月27日",
           "tags": [
             "model",
+            "business",
             "cn"
           ],
-          "url": "https://www.ithome.com/1/007/510.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/63895645-41cb-4547-9c1b-0f69f2aa360b.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/09/498633.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "e69e7b312f90",
-          "title": "医保系统遭 AI 智能体入侵，澳大利亚传唤 OpenAI 与 Anthropic CEO 接受质询",
-          "desc": "IT之家 9 月 27 日消息，据路透社报道，调查负责人于当地时间周日对外表示，OpenAI 与 Anthropic 两家企业的首席执行官已收到传唤，需要出席澳大利亚参议院的人工智能专项调查听证会。就在几天前，一则消息被曝光：OpenAI 有一个失控智能机器人程序入侵了该国医疗系统数据库。IT之家注意到，这起联邦医疗保险（Medicare）系统遭入侵事件遭到澳大利亚总理安东尼 · 阿尔巴尼斯（An",
-          "source": "IT之家",
-          "date": "2026-09-27",
-          "dateLabel": "9月27日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://www.ithome.com/1/007/508.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/2/8ad2304d-c61b-4004-9483-e1a55ca43342.png",
-          "color": "#d97706"
-        },
-        {
-          "id": "882e64317791",
-          "title": "英国最大桌游展 UKGE 出台新规：禁止 AI 生成游戏参展，仅少数情况例外",
-          "desc": "IT之家 9 月 27 日消息，本周，英国规模最大的桌面桌游展会 —— 英国桌游展（UK Games Expo）公布了一套针对展会上 AI 生成游戏作品的新规。前几年该展会因亲近 AI 相关内容引发舆论反弹之后，主办方如今选择调转方向：禁止 AI 生成的游戏参展，仅保留极少数例外情况。新政策写明：“主办方拥有完全自主处置权限；如果参展商展出、陈列或者销售此类（AI 生成）作品，主办方有权要求参展商",
-          "source": "IT之家",
-          "date": "2026-09-27",
-          "dateLabel": "9月27日",
-          "tags": [
-            "policy"
-          ],
-          "url": "https://www.ithome.com/1/007/506.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/7842119a-5572-47d6-bc05-eac5e610425e.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "6fdd168fa7a6",
-          "title": "微软为新版 Outlook 新增发送前自动拼写检查功能，经典版添加更多 Copilot 功能",
-          "desc": "IT之家 9 月 27 日消息，微软想出了一项新功能，或许会成为用户选择新版 Outlook 而非经典版 Outlook 的理由：点击发送之前自动执行拼写检查。据IT之家了解，Outlook 原本就依托微软编辑器（Microsoft Editor）提供拼写检查，可以在用户撰写邮件的过程中实时检查文字错误。不过微软即将推出的这项新功能工作方式有所不同：当用户正要发送一封含有拼写错误的邮件时，该功能会",
-          "source": "IT之家",
+          "id": "e510e7753dbd",
+          "title": "量子计算走上桌面！“小盒子”跑通端到端，数据全程不出门",
+          "desc": "想让开发者“说句话就能跑量子计算”",
+          "source": "量子位",
           "date": "2026-09-27",
           "dateLabel": "9月27日",
           "tags": [
             "business"
           ],
-          "url": "https://www.ithome.com/1/007/495.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/24973b35-7373-487b-8803-cf72dcb84db4.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/09/498605.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "925ad8760dc2",
+          "title": "又快又能打！匿名模型玉兔模型杀上双榜第一，Coding实测全记录",
+          "desc": "中秋假期文具OpenRouter调用日榜榜首",
+          "source": "量子位",
+          "date": "2026-09-27",
+          "dateLabel": "9月27日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/09/498584.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "2276e0a24ce8",
+          "title": "啥题啊能干崩OpenAI最强模型训练…",
+          "desc": "啥题啊能干崩OpenAI最强模型训练…",
+          "source": "量子位",
+          "date": "2026-09-27",
+          "dateLabel": "9月27日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.qbitai.com/2026/09/498546.html",
+          "image": "",
+          "color": "#7c3aed"
         }
       ]
     },
@@ -2339,129 +2408,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-08-25",
-      "dateLabel": "8月25日",
-      "id": "d25",
-      "items": [
-        {
-          "id": "e3c5864d68a7",
-          "title": "从开源走向共建：范式联合优必选等十余家具身巨头发布PhanthyMotus新计划",
-          "desc": "近日，范式正式举办 PhanthyMotus 生态社区共建计划发布会，宣布其首个通用具身Agent底座从“开源”迈入“多方共建”新阶段。",
-          "source": "量子位",
-          "date": "2026-08-25",
-          "dateLabel": "8月25日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/08/479314.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "e1b144fb4615",
-          "title": "开源国产8B模型，比肩闭源Image 2了！",
-          "desc": "SenseNova U1.5 Lite",
-          "source": "量子位",
-          "date": "2026-08-25",
-          "dateLabel": "8月25日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/08/479192.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "102977b76215",
-          "title": "半年3轮10亿，他们都投了这家已经把机器人卖到500个家庭的公司",
-          "desc": "字节、汇川等已入股未来不远机器人最新一轮融资",
-          "source": "量子位",
-          "date": "2026-08-25",
-          "dateLabel": "8月25日",
-          "tags": [
-            "research",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/08/479132.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "8a4faf18b6d1",
-          "title": "AI4S开始进入「项目时代」：紫东太初把AI从做Task推向做Project",
-          "desc": "AI科研能力从工具级转向系统级",
-          "source": "量子位",
-          "date": "2026-08-25",
-          "dateLabel": "8月25日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://www.qbitai.com/2026/08/479096.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "4f9ac2ba4ed1",
-          "title": "赛博义父Tibo最新访谈：专门实体按钮搞重置，“我想重置就重置”",
-          "desc": "下一代Agent天然会走向云端和更大规模的计算资源",
-          "source": "量子位",
-          "date": "2026-08-25",
-          "dateLabel": "8月25日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/08/478996.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "5bccf8503175",
-          "title": "王虹合作者获奖！科学探索奖2026年度获奖名单公布",
-          "desc": "今年50位获奖人来自13个城市的30家高校、医院和科研机构",
-          "source": "量子位",
-          "date": "2026-08-25",
-          "dateLabel": "8月25日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/08/478912.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "cad5e25f39de",
-          "title": "人民教育音像数字出版社与小猿达成合作 “中小学课本学习智能体”首落小猿AI学习机",
-          "desc": "2026年8月21日，小猿学习机在京举办“中小学课本学习智能体”首发上线活动。",
-          "source": "量子位",
-          "date": "2026-08-25",
-          "dateLabel": "8月25日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/08/478839.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "15c2548639ae",
-          "title": "WAIC CONNECT | AI出海，不聊虚的！CONNECT带你拿下马来西亚真正的AI采购需求",
-          "desc": "2026年9月7日–8日，WAIC CONNECT MALAYSIA活动，将在吉隆坡盛大开启！",
-          "source": "量子位",
-          "date": "2026-08-25",
-          "dateLabel": "8月25日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/08/478479.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -2487,6 +2433,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-09-27 15:34",
-  "totalNews": 152
+  "updateTime": "2026-09-28 16:12",
+  "totalNews": 148
 }
