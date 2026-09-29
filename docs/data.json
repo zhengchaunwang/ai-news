@@ -1,130 +1,163 @@
 {
   "newsData": [
     {
+      "date": "2026-09-29",
+      "dateLabel": "9月29日",
+      "id": "d29",
+      "items": [
+        {
+          "id": "06edfed9441d",
+          "title": "李飞飞创业公司被苏姿丰550亿收购！世界模型最大交易落地",
+          "desc": "李飞飞将入职AMD首席科学家",
+          "source": "量子位",
+          "date": "2026-09-29",
+          "dateLabel": "9月29日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/09/499098.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "1f3d8fe6a53f",
+          "title": "吉利智充 C12 率先落地杭州、上海、宁波、嘉兴、西安，单枪峰值功率 2250 千瓦，10% 至 97% 补能平均 8 分 40 秒",
+          "desc": "IT之家 9 月 29 日消息，据《每日经济新闻》，吉利智充 C12 今日在杭州、上海、宁波、嘉兴、西安五城同步落地。该设施单枪峰值功率 2.2 兆瓦，10% 至 97% 补能平均用时 8 分 40 秒。吉利称，其 AI 智充“边充边养”技术可在快充过程中控制电池温度，充电最高温度始终低于 65℃，电池循环寿命提升 20% 以上。9 月 23 日晚，吉利汽车集团在宁波前湾新区发布“吉利智充”技术。",
+          "source": "IT之家",
+          "date": "2026-09-29",
+          "dateLabel": "9月29日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/008/313.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/317da478-2ab0-4292-b803-fb3239e7a6c1.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "c5c17c68a38b",
+          "title": "2026 年世界互联网大会乌镇峰会 11 月 2 日至 5 日举行：设 27 个分论坛，聚焦人工智能开源开放",
+          "desc": "IT之家 9 月 29 日消息，世界互联网大会官方今日召开新闻发布会，宣布 2026 年世界互联网大会乌镇峰会将于 11 月 2 日至 5 日在浙江省乌镇举行。本次峰会主题为“开源开放共建共享 —— 携手构建网络空间命运共同体”。本届峰会将邀请全球政府、国际组织、企业、专家学者代表，围绕人工智能开源开放发展的理念与实践，从创新发展、安全治理、文明交流、国际合作等多个维度展开交流。IT之家从官方获悉",
+          "source": "IT之家",
+          "date": "2026-09-29",
+          "dateLabel": "9月29日",
+          "tags": [
+            "business",
+            "policy",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/008/310.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/a3cbbf65-760b-44c6-9466-a96348473794.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "12c967a1d0dd",
+          "title": "LPDDR6 内存加持 AI 推理 ASIC，SEMIFIVE 接获规格交接型芯片设计订单",
+          "desc": "IT之家 9 月 29 日消息，韩国芯片设计服务企业 SEMIFIVE 当地时间今日宣布，将为一家美国无晶圆厂 AI 设计芯片企业开发一款支持 LPDDR6、PCIe Gen5 的数据中心级“大芯片”推理加速器。IT之家注意到，这是高带宽低功耗的 LPDDR6 成为 ASIC 片外缓存选择的早期案例之一。这颗芯片预计 2027H1 流片，2028 年量产出货。SEMIFIVE 获得的这份订单采用“",
+          "source": "IT之家",
+          "date": "2026-09-29",
+          "dateLabel": "9月29日",
+          "tags": [
+            "research",
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/008/309.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/6cb37a7a-f3e7-4b7f-ba71-721eb66e5978.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "3d02484dd750",
+          "title": "第三方工具 4t Tray Minimizer 不兼容微软 9 月 Win10 更新，导致文件管理器频繁崩溃",
+          "desc": "IT之家 9 月 29 日消息，科技媒体 Wccftech 昨日（9 月 28 日）发布博文，报道称微软 9 月 8 日面向 Windows 10 系统推送的 KB5126256 更新存在兼容性问题，在装有第三方工具 4t Tray Minimizer 的设备上导致文件管理器频繁崩溃。IT之家注：KB5126256 适用于 Windows 10 21H2 和 22H2，是扩展安全更新（ESU）的授",
+          "source": "IT之家",
+          "date": "2026-09-29",
+          "dateLabel": "9月29日",
+          "tags": [
+            "business",
+            "policy"
+          ],
+          "url": "https://www.ithome.com/1/008/303.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/eb1947f3-e7d7-41a3-be91-6d539a714bc5.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "9453786db207",
+          "title": "OpenAI 提出前沿 AI 训练安全指导原则：高级管理人员应有否决权",
+          "desc": "IT之家 9 月 29 日消息，OpenAI 今天通过官方新闻稿提出了一套指导原则，要求企业在开展前沿 AI 强化学习训练前提交结构化的安全论证文件。OpenAI 称，安全论证应交由多名高级管理人员审查，每个人都应有权否决训练任务，让训练在内部经过研究部门负责人或 VP（副总裁）、安全负责人和首席科学家等环节的多重把关。此外，研究部门负责人、研究副总裁等负责训练任务的高级管理人员，应对安全论证以及",
+          "source": "IT之家",
+          "date": "2026-09-29",
+          "dateLabel": "9月29日",
+          "tags": [
+            "research",
+            "policy"
+          ],
+          "url": "https://www.ithome.com/1/008/301.htm",
+          "image": "",
+          "color": "#d97706"
+        },
+        {
+          "id": "99d07b3fbdee",
+          "title": "集邦咨询：AI 智能体浪潮下全球服务器 CPU 交付周期拉长至 25~30 周",
+          "desc": "IT之家 9 月 29 日消息，市场调查机构集邦咨询（TrendForce）昨日（9 月 28 日）发布博文，报道称在 AI 智能体浪潮下，全球服务器 CPU 交付周期已拉长到 25~30 周，而常规情况下为 16~20 周。IT之家附上相关截图如下：该机构以 Meta 的 Muse 为例，指出 AI 智能体成为当前 AI 基建的重要发展方向，并推动服务器 CPU 的市场需求。Muse 服务可执行",
+          "source": "IT之家",
+          "date": "2026-09-29",
+          "dateLabel": "9月29日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/008/296.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/3f4803ea-499b-486b-a13a-485a3eef881f.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "168c51a457dc",
+          "title": "OpenAI 明日重开 200 美元档 ChatGPT-Pro 订阅：API 支出减半，新增更多不计量功能",
+          "desc": "IT之家 9 月 29 日消息，OpenAI 首席产品官 Tibo 宣布将于明天向新用户重新开放月费 200 美元的 ChatGPT Pro 订阅，同时调整该档位的用量计算方式。按照新的计算规则，200 美元 Pro 订阅对应的 API 等效价值相比原来接近翻倍，而且 OpenAI 不会重新恢复此前的 5 小时使用限制，仅保留周额度用量管理，让用户能够在需要时集中使用额度，而不是受短时间窗口限制。",
+          "source": "IT之家",
+          "date": "2026-09-29",
+          "dateLabel": "9月29日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://www.ithome.com/1/008/295.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/93561a7f-ce26-4b8e-816b-5ac84b095387.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-09-28",
       "dateLabel": "9月28日",
       "id": "d28",
       "items": [
         {
-          "id": "e83d0881717a",
-          "title": "极摩客发布 EVO-X5 Pro“桌面 AI 超算”，192GB + 2TB 早鸟价 6599 美元",
-          "desc": "IT之家 9 月 28 日消息，极摩客 (GMKtec) 今日正式发布了基于 AMD 锐龙 AI Max+ PRO 495 处理器的“桌面 AI 超算”EVO-X5 Pro。该型号集成至高 192GB LPDDR5X-8533 内存，支持 320B LLM 本地运行。EVO-X5 Pro 拥有 3 个 M.2 2280 SSD 盘位 (PCIe Gen4 ×4 + ×4 + ×1)，提供 2 个 ",
-          "source": "IT之家",
-          "date": "2026-09-28",
-          "dateLabel": "9月28日",
-          "tags": [
-            "model",
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/007/863.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/6978599f-3ba2-47ec-9215-67d66e5f7aba.jpg",
-          "color": "#d97706"
-        },
-        {
-          "id": "6cd577413144",
-          "title": "映众推出 AWS-511Z-R1 塔式工作站，基于英特尔 W790 平台",
-          "desc": "IT之家 9 月 28 日消息，映众 (INNO3D) 今日宣布推出全塔 GPU 工作站 AWS-511Z-R1。其基于英特尔 W790 平台，支持至强 W-2400/2500/3400/3500 处理器，拥有 8 条 DDR5 RDIMM 内存插槽。AWS-511Z-R1 配备一对 3000W 的 80 PLUS 钛金 CRPS 电源，支持 2 张 NVIDIA RTX PRO 6000 Bla",
-          "source": "IT之家",
-          "date": "2026-09-28",
-          "dateLabel": "9月28日",
-          "tags": [
-            "model",
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/007/859.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/ee0c72f3-e890-4951-80c7-06352f6d3ab1.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "80b1cfd0c36c",
-          "title": "4999 元起：荣耀 Magic9 标准版手机发布，第五代骁龙 8 至尊版芯片、双 2 亿 ARRI 阿莱影像",
-          "desc": "IT之家 9 月 28 日现场消息，荣耀今天召开新品发布会，推出 Magic9 标准版手机。新品主打小屏设计，拥有 ARRI 阿莱影像加持，配备双 2 亿像素影像系统，支持安装行业最小最轻 200mm 拇指增距镜，定价 4999 元起，即日起开启首销。IT之家附荣耀 Magic9 各版本定价如下：12+256GB：4999 元12+512GB：5499 元16+512GB：5999 元16+1TB",
-          "source": "IT之家",
-          "date": "2026-09-28",
-          "dateLabel": "9月28日",
-          "tags": [
-            "business",
-            "policy"
-          ],
-          "url": "https://www.ithome.com/1/007/858.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/d1d25552-bb33-4459-9b29-e5ad03026099.jpg",
-          "color": "#d97706"
-        },
-        {
-          "id": "82e21ae55e39",
-          "title": "AI 半导体供应链三巨头时隔两月再聚首，曝英伟达黄仁勋、三星李在镕、SK 崔泰源将在美会面",
-          "desc": "IT之家 9 月 28 日消息，据韩媒 News1 昨天（27 日）报道，当地时间 28 日，英伟达 CEO 黄仁勋将在美国纽约会见三星电子会长李在镕和 SK 集团会长崔泰源。全球 AI 半导体供应链三家核心企业的掌门人也将在两个月后再次聚首，下一代高带宽内存（HBM）和 AI 基础设施合作会谈到哪些内容因此备受关注。韩国商界 27 日消息称，李在镕和崔泰源计划参加 28 日在纽约举行的韩国协会年",
-          "source": "IT之家",
+          "id": "7dd8ceba44b0",
+          "title": "工业创新进入“组队局”，拆解西门子Xcelerator开放生态的赋能链路",
+          "desc": "工业平台已经卷到帮伙伴拿线索、做Agent、出海了",
+          "source": "量子位",
           "date": "2026-09-28",
           "dateLabel": "9月28日",
           "tags": [
             "business"
           ],
-          "url": "https://www.ithome.com/1/007/849.htm",
+          "url": "https://www.qbitai.com/2026/09/498877.html",
           "image": "",
-          "color": "#d97706"
+          "color": "#7c3aed"
         },
         {
-          "id": "0566f9df445d",
-          "title": "SK 海力士驳斥“日本东北地区晶圆厂动工”传闻，称“纯属无稽之谈”",
-          "desc": "IT之家 9 月 28 日消息，据韩媒 smedaily 当地时间今日报道，SK 海力士驳斥了“日本东北地区晶圆厂项目已启动”的传闻，称这“纯属无稽之谈”。消息人士此前表示，一座与 SK 海力士有关的日本晶圆厂已在进行基础工程施工，尚不清楚是独资还是与铠侠合资；SK 海力士近期要求韩国零部件企业扩大供应规模，以应对内存供应短缺。相关阅读：《SK 集团会长崔泰源：SK 海力士正考虑在日本设厂事宜》",
-          "source": "IT之家",
+          "id": "09b1a7f55dad",
+          "title": "HC归来，华为正重新定义AIDC基础设施",
+          "desc": "AI基础设施下一站：算电协同",
+          "source": "量子位",
           "date": "2026-09-28",
           "dateLabel": "9月28日",
           "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/007/848.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/c7a31670-7373-4d55-b415-4a37a38f9731.jpg",
-          "color": "#d97706"
-        },
-        {
-          "id": "1dc715b77c8d",
-          "title": "鸿蒙智行智界 RX 正式上市，25.98 万-38.98 万元",
-          "desc": "IT之家 9 月 28 日消息，鸿蒙智行智界 RX 今天（28 日）下午正式上市，新车提供 6 款不同配置，售价区间为 25.98 万-38.98 万元。智界 RX 定位中大型纯电轿跑 SUV，基于华为途灵平台打造，提供单电机后驱与双电机四驱两种布局，车身尺寸为 5020×2007×1585mm，轴距 3000mm，首发华为智擎新一代高性能电驱，搭载面向未来的 L3 级自动驾驶架构设计。该车拥有 ",
-          "source": "IT之家",
-          "date": "2026-09-28",
-          "dateLabel": "9月28日",
-          "tags": [
-            "research",
             "business",
             "cn"
           ],
-          "url": "https://www.ithome.com/1/007/839.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/0bf1080e-8374-44fd-a33c-6db5a09bf284.jpg",
-          "color": "#d97706"
-        },
-        {
-          "id": "c9da6fdbc2b6",
-          "title": "华为余承东：冗余是 L3 时代入场券，也是自动驾驶的双重保险",
-          "desc": "IT之家 9 月 28 日消息，在今天的智界 RX 及鸿蒙智行新品发布会上，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东宣布，智界 RX 提前迎接 L3 自动驾驶时代，正在公开城市快速路等复杂道路开展实测。关于 L3 自动驾驶，余承东表示，其不是硬件堆砌，而是全链路冗余架构。他介绍称，L3 涵盖感知、计算、制动、转向、供电、通信、定位、交互八大关键节点冗余，主系统失效，备份系统继",
-          "source": "IT之家",
-          "date": "2026-09-28",
-          "dateLabel": "9月28日",
-          "tags": [
-            "research",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/007/836.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/6c07d312-6516-4a83-9717-4857fee1d785.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "3180c93aca7c",
-          "title": "华为余承东：智界 RX 提前迎接 L3 自动驾驶时代，正在公开城市快速路等复杂道路开展实测",
-          "desc": "IT之家 9 月 28 日消息，在今天的智界 RX 及鸿蒙智行新品发布会上，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东宣布，智界 RX 提前迎接 L3 自动驾驶时代。据介绍，智界 RX 不仅搭载 L3 级自动驾驶架构设计，而且已获批 L3 级自动驾驶道路测试牌照，正在公开城市快速路等复杂道路开展实测。余承东表示，智界 RX 还搭载全维防碰撞系统 CAS 5.0，支持全时域、全方",
-          "source": "IT之家",
-          "date": "2026-09-28",
-          "dateLabel": "9月28日",
-          "tags": [
-            "research",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/007/834.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/d4994c52-8d5a-4a75-9744-178374e705e8.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/09/498787.html",
+          "image": "",
+          "color": "#7c3aed"
         }
       ]
     },
@@ -241,52 +274,6 @@
             "cn"
           ],
           "url": "https://www.qbitai.com/2026/09/497624.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "d6e7594bd642",
-          "title": "在云栖大会，我终于看懂了米哈游千亿AI野心",
-          "desc": "大伟哥：如果做不到，一年两年之后过来打我脸",
-          "source": "量子位",
-          "date": "2026-09-26",
-          "dateLabel": "9月26日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/09/497613.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "b189b1829c76",
-          "title": "谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架",
-          "desc": "vLLM人马创业公司团队出品",
-          "source": "量子位",
-          "date": "2026-09-26",
-          "dateLabel": "9月26日",
-          "tags": [
-            "model",
-            "research",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/09/497425.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "6a2eb88ccd3d",
-          "title": "OpenAI失控Agent还找DeepSeek、Kimi当外援！近百万条作案短链曝光",
-          "desc": "还把「密钥」叫战利品",
-          "source": "量子位",
-          "date": "2026-09-26",
-          "dateLabel": "9月26日",
-          "tags": [
-            "model",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/09/497382.html",
           "image": "",
           "color": "#7c3aed"
         }
@@ -2300,114 +2287,6 @@
           "color": "#d97706"
         }
       ]
-    },
-    {
-      "date": "2026-08-26",
-      "dateLabel": "8月26日",
-      "id": "d26",
-      "items": [
-        {
-          "id": "13c5693b67ac",
-          "title": "神秘「牛来」模型果然是智谱！GLM首个原生多模态，还用的国产卡",
-          "desc": "GLM-5.3 Flash",
-          "source": "量子位",
-          "date": "2026-08-26",
-          "dateLabel": "8月26日",
-          "tags": [
-            "model",
-            "research",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/08/479919.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "6f432d66e45d",
-          "title": "AI视频应用井喷，美图打开新的增长空间",
-          "desc": "从图像到视频，美图找到了一门更赚钱的生意",
-          "source": "量子位",
-          "date": "2026-08-26",
-          "dateLabel": "8月26日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/08/479895.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "80644f51ec09",
-          "title": "小宇宙推出《AI趋势报告》：AI创作、AI办公、协作型AI等成讨论新趋势",
-          "desc": "AI内容创作者增长187%，相关节目数量增长239%",
-          "source": "量子位",
-          "date": "2026-08-26",
-          "dateLabel": "8月26日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/08/479811.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "12d4058cdcb2",
-          "title": "硅谷今日最热具身模型！不用后训练，看一遍就学会",
-          "desc": "具身智能迈向GPT时刻",
-          "source": "量子位",
-          "date": "2026-08-26",
-          "dateLabel": "8月26日",
-          "tags": [
-            "model",
-            "research"
-          ],
-          "url": "https://www.qbitai.com/2026/08/479834.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "68103a9ddb37",
-          "title": "达卯科技与福建智算方舟达成合作，全栈式算电协同服务在闽落子",
-          "desc": "长乐机场综保区智算中心全栈算电协同服务",
-          "source": "量子位",
-          "date": "2026-08-26",
-          "dateLabel": "8月26日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/08/479808.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "f14de4140112",
-          "title": "刚刚，Top级的视频AI免费了！我反手做了个精致版《牛来》",
-          "desc": "Agnes Video 2.5 Flash",
-          "source": "量子位",
-          "date": "2026-08-26",
-          "dateLabel": "8月26日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://www.qbitai.com/2026/08/479670.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "733b892c71cd",
-          "title": "宇树智元共用一个大脑！神秘模型Demo炸场，10分钟一镜到底",
-          "desc": "宇树智元共用一个大脑！神秘模型Demo炸场，10分钟一镜到底",
-          "source": "量子位",
-          "date": "2026-08-26",
-          "dateLabel": "8月26日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/08/479634.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -2433,6 +2312,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-09-28 16:12",
-  "totalNews": 148
+  "updateTime": "2026-09-29 15:52",
+  "totalNews": 140
 }
