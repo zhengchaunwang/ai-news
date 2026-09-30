@@ -1,10 +1,206 @@
 {
   "newsData": [
     {
+      "date": "2026-09-30",
+      "dateLabel": "9月30日",
+      "id": "d30",
+      "items": [
+        {
+          "id": "fafb3525ddb6",
+          "title": "DeepSeek知乎独家发文，首次公开V4.1 Agent训练“大本营”DSec",
+          "desc": "DeepSeek在知乎独家发布技术长文，首次系统阐释了DeepSeek弹性计算（DeepSeek Elastic Compute，DSec）",
+          "source": "量子位",
+          "date": "2026-09-30",
+          "dateLabel": "9月30日",
+          "tags": [
+            "model",
+            "research",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/09/499308.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "24ff14704c09",
+          "title": "36家敲钟的机器人公司：赚钱能力差距巨大，商业化也不玩花架子了",
+          "desc": "机器人上市，风向有变",
+          "source": "量子位",
+          "date": "2026-09-30",
+          "dateLabel": "9月30日",
+          "tags": [
+            "research",
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/09/499280.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "a2089cb9dca0",
+          "title": "DeepSeek官方开源昇腾基础组件，与昇腾共建高效易用的AI芯片软件生态",
+          "desc": "DeepSeek官方开源昇腾基础组件，与昇腾共建高效易用的AI芯片软件生态",
+          "source": "量子位",
+          "date": "2026-09-30",
+          "dateLabel": "9月30日",
+          "tags": [
+            "model",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/09/499263.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "da467dcb00be",
+          "title": "消息称豆包 AI 个人助手产品叫作“小豆”，计划推出独立 App",
+          "desc": "IT之家 9 月 30 日消息，新浪科技此前曾报道，豆包在个人助理方向正在推进相关产品规划，该探索项目当时代号为“Spell”，主要由豆包手机助手团队主导。据《读佳》今日消息，豆包这款产品叫作“小豆”，并会推出独立 App 版本，小豆的名字在今年暑期就已确定。小豆目前还在内部测试阶段，最终对外版本有可能发生调整，一切以官方发布为准。据IT之家此前报道，2025 年 12 月，豆包手机助手技术预览版",
+          "source": "IT之家",
+          "date": "2026-09-30",
+          "dateLabel": "9月30日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/008/773.htm",
+          "image": "",
+          "color": "#d97706"
+        },
+        {
+          "id": "d3a5880557f8",
+          "title": "LG 与微软合作研发智能家居 AI 语音助手，号称可实现流畅自然语音交流",
+          "desc": "IT之家 9 月 30 日消息，据韩媒 EtNews 今天报道，LG 电子今天在首尔江南区举办的微软行业峰会上，展示与微软合作研发的智能家居 AI 语音助手。该产品应用于智能家居中枢设备“ThinQ ON”，号称可实现接近人类交流的对话体验。据介绍，这款语音助手基于语音到语音（Speech to Speech）智能体技术，融合微软的 Voice Live。它可以支持“插话”功能，用户在聆听 AI ",
+          "source": "IT之家",
+          "date": "2026-09-30",
+          "dateLabel": "9月30日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/008/770.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/8a4748a3-22ad-4811-8bc5-c5f385e1d436.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "65f311129306",
+          "title": "三星 Galaxy Tab S12 Ultra 平板宣传图曝光：7 年安卓更新、主打 AI 技能",
+          "desc": "IT之家 9 月 30 日消息，科技媒体 sammyguru 今天（9 月 30 日）发布博文，分享了一组来自电商平台的图片，展示了三星 Galaxy Tab S12 Ultra 和 Galaxy Tab S12+，并显示两款平板 10 月 7 日发布。Galaxy Tab S12 Ultra 最高提供 16GB 内存与 1TB 存储，搭载联发科天玑 9500 芯片。屏幕为 14.6 英寸 Dyn",
+          "source": "IT之家",
+          "date": "2026-09-30",
+          "dateLabel": "9月30日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/008/762.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/8a9ad768-a1ab-4c43-bb0f-1f22a05ac6e7.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "349ac0f37eb1",
+          "title": "沃尔玛对超市门店内的 AI 生成海报说“不”",
+          "desc": "IT之家 9 月 30 日消息，当地时间 29 日，据《商业内幕》报道，沃尔玛明确禁止门店使用“AI 垃圾内容”。长期以来，沃尔玛不允许门店自行定制印刷标识，最近更新的规定又进一步强调，AI 生成的海报同样不得使用。规定明确写道：“门店不得展示使用 AI 工具制作的标识。”新规针对的是零售店和餐厅经理越来越常见的一种做法：不用专业平面设计师，直接拿 ChatGPT、Claude 或 Gemini ",
+          "source": "IT之家",
+          "date": "2026-09-30",
+          "dateLabel": "9月30日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://www.ithome.com/1/008/758.htm",
+          "image": "",
+          "color": "#d97706"
+        },
+        {
+          "id": "a067bc93807c",
+          "title": "央视起底物流领域新型“软敲诈”犯罪：利用 AI 合成人脸盗号、软暴力胁迫货主加价",
+          "desc": "IT之家 9 月 30 日消息，据央视新闻今天报道，如今线上货运便捷高效，但网上下单如果遭遇接单司机临时加价、恶意索费、扣货要挟的情况，就需要提高警惕了。近日，湖北宜昌警方侦破一起利用 AI 合成人脸技术盗取货运账号，以软暴力胁迫货主加价的物流领域新型“软敲诈”案。IT之家从原报道获悉，郑女士是河南一家重型锻压设备企业的销售人员，今年 5 月，企业接到一笔订单，急需将一批六万多元的生产配件运往湖南",
+          "source": "IT之家",
+          "date": "2026-09-30",
+          "dateLabel": "9月30日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/008/744.htm",
+          "image": "http://vd3.bdstatic.com/mda-siv98aztinv5ny51/360p/h264/1790749901231777983/mda-siv98aztinv5ny51.mp4",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-09-29",
       "dateLabel": "9月29日",
       "id": "d29",
       "items": [
+        {
+          "id": "62d855e060f4",
+          "title": "OpenAI光速上新GPT-6.1 Sol！一晚上25项更新，都在这里了",
+          "desc": "今年devday牙膏挤爆",
+          "source": "量子位",
+          "date": "2026-09-29",
+          "dateLabel": "9月29日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://www.qbitai.com/2026/09/499246.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "65adeae300ae",
+          "title": "正行创新联合创始人杨宇欣正式亮相：出任总裁，负责全球业务拓展",
+          "desc": "推动公司具身模型、本体、软件等全栈能力进入更多真实场景",
+          "source": "量子位",
+          "date": "2026-09-29",
+          "dateLabel": "9月29日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/09/499239.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "5cb5dc5cc830",
+          "title": "精准揪出RL训练数据Bug，Prompt直出小游戏，IQuest-Q1夯爆了！",
+          "desc": "精准揪出RL训练数据Bug，Prompt直出小游戏，IQuest-Q1夯爆了！",
+          "source": "量子位",
+          "date": "2026-09-29",
+          "dateLabel": "9月29日",
+          "tags": [
+            "model",
+            "research"
+          ],
+          "url": "https://www.qbitai.com/2026/09/499188.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "bd7d6ad920d8",
+          "title": "OpenAI因新模型太强叫停发布",
+          "desc": "AGI计划暂停。",
+          "source": "量子位",
+          "date": "2026-09-29",
+          "dateLabel": "9月29日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/09/499140.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "695ba22a5c04",
+          "title": "成立一年完成5轮融资，诺因智能再获数亿元，累计超10亿元",
+          "desc": "诺因从Demo走向家庭",
+          "source": "量子位",
+          "date": "2026-09-29",
+          "dateLabel": "9月29日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/09/499135.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
         {
           "id": "06edfed9441d",
           "title": "李飞飞创业公司被苏姿丰550亿收购！世界模型最大交易落地",
@@ -18,110 +214,6 @@
           "url": "https://www.qbitai.com/2026/09/499098.html",
           "image": "",
           "color": "#7c3aed"
-        },
-        {
-          "id": "1f3d8fe6a53f",
-          "title": "吉利智充 C12 率先落地杭州、上海、宁波、嘉兴、西安，单枪峰值功率 2250 千瓦，10% 至 97% 补能平均 8 分 40 秒",
-          "desc": "IT之家 9 月 29 日消息，据《每日经济新闻》，吉利智充 C12 今日在杭州、上海、宁波、嘉兴、西安五城同步落地。该设施单枪峰值功率 2.2 兆瓦，10% 至 97% 补能平均用时 8 分 40 秒。吉利称，其 AI 智充“边充边养”技术可在快充过程中控制电池温度，充电最高温度始终低于 65℃，电池循环寿命提升 20% 以上。9 月 23 日晚，吉利汽车集团在宁波前湾新区发布“吉利智充”技术。",
-          "source": "IT之家",
-          "date": "2026-09-29",
-          "dateLabel": "9月29日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/008/313.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/317da478-2ab0-4292-b803-fb3239e7a6c1.jpg",
-          "color": "#d97706"
-        },
-        {
-          "id": "c5c17c68a38b",
-          "title": "2026 年世界互联网大会乌镇峰会 11 月 2 日至 5 日举行：设 27 个分论坛，聚焦人工智能开源开放",
-          "desc": "IT之家 9 月 29 日消息，世界互联网大会官方今日召开新闻发布会，宣布 2026 年世界互联网大会乌镇峰会将于 11 月 2 日至 5 日在浙江省乌镇举行。本次峰会主题为“开源开放共建共享 —— 携手构建网络空间命运共同体”。本届峰会将邀请全球政府、国际组织、企业、专家学者代表，围绕人工智能开源开放发展的理念与实践，从创新发展、安全治理、文明交流、国际合作等多个维度展开交流。IT之家从官方获悉",
-          "source": "IT之家",
-          "date": "2026-09-29",
-          "dateLabel": "9月29日",
-          "tags": [
-            "business",
-            "policy",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/008/310.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/a3cbbf65-760b-44c6-9466-a96348473794.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "12c967a1d0dd",
-          "title": "LPDDR6 内存加持 AI 推理 ASIC，SEMIFIVE 接获规格交接型芯片设计订单",
-          "desc": "IT之家 9 月 29 日消息，韩国芯片设计服务企业 SEMIFIVE 当地时间今日宣布，将为一家美国无晶圆厂 AI 设计芯片企业开发一款支持 LPDDR6、PCIe Gen5 的数据中心级“大芯片”推理加速器。IT之家注意到，这是高带宽低功耗的 LPDDR6 成为 ASIC 片外缓存选择的早期案例之一。这颗芯片预计 2027H1 流片，2028 年量产出货。SEMIFIVE 获得的这份订单采用“",
-          "source": "IT之家",
-          "date": "2026-09-29",
-          "dateLabel": "9月29日",
-          "tags": [
-            "research",
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/008/309.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/6cb37a7a-f3e7-4b7f-ba71-721eb66e5978.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "3d02484dd750",
-          "title": "第三方工具 4t Tray Minimizer 不兼容微软 9 月 Win10 更新，导致文件管理器频繁崩溃",
-          "desc": "IT之家 9 月 29 日消息，科技媒体 Wccftech 昨日（9 月 28 日）发布博文，报道称微软 9 月 8 日面向 Windows 10 系统推送的 KB5126256 更新存在兼容性问题，在装有第三方工具 4t Tray Minimizer 的设备上导致文件管理器频繁崩溃。IT之家注：KB5126256 适用于 Windows 10 21H2 和 22H2，是扩展安全更新（ESU）的授",
-          "source": "IT之家",
-          "date": "2026-09-29",
-          "dateLabel": "9月29日",
-          "tags": [
-            "business",
-            "policy"
-          ],
-          "url": "https://www.ithome.com/1/008/303.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/eb1947f3-e7d7-41a3-be91-6d539a714bc5.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "9453786db207",
-          "title": "OpenAI 提出前沿 AI 训练安全指导原则：高级管理人员应有否决权",
-          "desc": "IT之家 9 月 29 日消息，OpenAI 今天通过官方新闻稿提出了一套指导原则，要求企业在开展前沿 AI 强化学习训练前提交结构化的安全论证文件。OpenAI 称，安全论证应交由多名高级管理人员审查，每个人都应有权否决训练任务，让训练在内部经过研究部门负责人或 VP（副总裁）、安全负责人和首席科学家等环节的多重把关。此外，研究部门负责人、研究副总裁等负责训练任务的高级管理人员，应对安全论证以及",
-          "source": "IT之家",
-          "date": "2026-09-29",
-          "dateLabel": "9月29日",
-          "tags": [
-            "research",
-            "policy"
-          ],
-          "url": "https://www.ithome.com/1/008/301.htm",
-          "image": "",
-          "color": "#d97706"
-        },
-        {
-          "id": "99d07b3fbdee",
-          "title": "集邦咨询：AI 智能体浪潮下全球服务器 CPU 交付周期拉长至 25~30 周",
-          "desc": "IT之家 9 月 29 日消息，市场调查机构集邦咨询（TrendForce）昨日（9 月 28 日）发布博文，报道称在 AI 智能体浪潮下，全球服务器 CPU 交付周期已拉长到 25~30 周，而常规情况下为 16~20 周。IT之家附上相关截图如下：该机构以 Meta 的 Muse 为例，指出 AI 智能体成为当前 AI 基建的重要发展方向，并推动服务器 CPU 的市场需求。Muse 服务可执行",
-          "source": "IT之家",
-          "date": "2026-09-29",
-          "dateLabel": "9月29日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/008/296.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/3f4803ea-499b-486b-a13a-485a3eef881f.png",
-          "color": "#d97706"
-        },
-        {
-          "id": "168c51a457dc",
-          "title": "OpenAI 明日重开 200 美元档 ChatGPT-Pro 订阅：API 支出减半，新增更多不计量功能",
-          "desc": "IT之家 9 月 29 日消息，OpenAI 首席产品官 Tibo 宣布将于明天向新用户重新开放月费 200 美元的 ChatGPT Pro 订阅，同时调整该档位的用量计算方式。按照新的计算规则，200 美元 Pro 订阅对应的 API 等效价值相比原来接近翻倍，而且 OpenAI 不会重新恢复此前的 5 小时使用限制，仅保留周额度用量管理，让用户能够在需要时集中使用额度，而不是受短时间窗口限制。",
-          "source": "IT之家",
-          "date": "2026-09-29",
-          "dateLabel": "9月29日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://www.ithome.com/1/008/295.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/93561a7f-ce26-4b8e-816b-5ac84b095387.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
         }
       ]
     },
@@ -141,21 +233,6 @@
             "business"
           ],
           "url": "https://www.qbitai.com/2026/09/498877.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "09b1a7f55dad",
-          "title": "HC归来，华为正重新定义AIDC基础设施",
-          "desc": "AI基础设施下一站：算电协同",
-          "source": "量子位",
-          "date": "2026-09-28",
-          "dateLabel": "9月28日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/09/498787.html",
           "image": "",
           "color": "#7c3aed"
         }
@@ -2162,131 +2239,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-08-27",
-      "dateLabel": "8月27日",
-      "id": "d27",
-      "items": [
-        {
-          "id": "4aa6b51a6c7f",
-          "title": "基元律动累计融资数千万美元，推出“中国版OpenRouter”",
-          "desc": "近日，AI基础设施公司基元律动（TokenRhythm）宣布完成新一轮融资，融资额达数千万美元。",
-          "source": "量子位",
-          "date": "2026-08-27",
-          "dateLabel": "8月27日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/08/480079.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "5fce2e0f4e38",
-          "title": "工业Agent不是“套壳”大模型！西门子百年经验灌进工业AI",
-          "desc": "西门子Xcelerator与普通软件货架最本质的区别。货架解决的是「把产品卖出去」，西门子Xcelerator要解决的是「让产品在真实工业场景中持续生长」。",
-          "source": "量子位",
-          "date": "2026-08-27",
-          "dateLabel": "8月27日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://www.qbitai.com/2026/08/480005.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "37e22fa90b53",
-          "title": "千问办公首发上线Qwen3.8-Flash，生成速度提升100%，Token消耗减少75%",
-          "desc": "8月26日晚，千问办公首发上线刚刚发布的Qwen3.8-Flash模型，同时推出标准模式。",
-          "source": "量子位",
-          "date": "2026-08-27",
-          "dateLabel": "8月27日",
-          "tags": [
-            "model",
-            "business",
-            "policy"
-          ],
-          "url": "https://www.qbitai.com/2026/08/480001.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "83585809784e",
-          "title": "微软 XBOX CEO 夏尔马：游戏硬件行业应寻求兼顾可负担性和效率",
-          "desc": "IT之家 8 月 27 日消息，微软 XBOX CEO 阿莎 · 夏尔马进一步证实了将改变下一代主机开发和销售思路的可能性，并指出，整个游戏硬件行业都必须在控制售价和提高效率上寻找新办法。当地时间 26 日，夏尔马接受 BBC 采访时表示：“行业正经历一场‘内存末日（Rampocalypse）’。过去我们不需要考虑这些问题，现在硬件和零部件危机已经迫使所有厂商重新思考，既要提高效率，也要给玩家更多",
-          "source": "IT之家",
-          "date": "2026-08-27",
-          "dateLabel": "8月27日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/995/273.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/fa91c25d-6f1e-4b4e-831b-eaf0269f4104.jpg",
-          "color": "#d97706"
-        },
-        {
-          "id": "d7c3dc997c59",
-          "title": "微软确认 Win11 KB5121003 游戏崩溃与 RGB 驱动有关，正阻止相关驱动加载",
-          "desc": "IT之家 8 月 27 日消息，微软于当地时间 8 月 26 日确认并解决了 Windows 11 KB5121003 更新后部分游戏出现的崩溃或无响应问题。该问题影响《ARC Raiders》《漫威斗魂》及《最终决战》等游戏，症状包括应用无响应、游戏闪退、显示“EXCEPTION_ACCESS_VIOLATION”报错、无预警重启。经微软调查，该问题并非由 Windows 更新导致，而是与带 R",
-          "source": "IT之家",
-          "date": "2026-08-27",
-          "dateLabel": "8月27日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/995/266.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/674f9069-b504-48c7-af55-a89b52cbd760.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "11c2661b34c9",
-          "title": "英国实施全球首例 AI 实时辅助脑外科手术，成功切除脑部肿瘤",
-          "desc": "IT之家 8 月 27 日消息，据英国 BBC 今天（27 日）报道，英国贝德福德郡 48 岁的里斯 · 希伯特成为全球首位在 AI 实时辅助下接受脑部手术的患者，医生成功切除了他的脑部肿瘤。伦敦大学学院医院的外科医生表示，如果不做这场手术，他可能最终失明。手术期间，AI 实时分析内镜传回的画面，帮助医生判断脑内重要血管和神经可能隐藏的位置，从而避开这些关键结构，在保证安全的情况下尽可能完整地切除",
-          "source": "IT之家",
-          "date": "2026-08-27",
-          "dateLabel": "8月27日",
-          "tags": [
-            "policy"
-          ],
-          "url": "https://www.ithome.com/0/995/255.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/8ba8dc5f-5072-4913-9d87-b0bef7550196.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "a1068fba4a63",
-          "title": "Day-0 支持：摩尔线程官宣完成智谱 GLM-5.3-Flash 极速适配",
-          "desc": "IT之家 8 月 27 日消息，智谱近日上线并开源 GLM-5.3-Flash (320B-A18B)。摩尔线程官方今日宣布，基于 AI 训推一体智算卡 MTT S5000 及 MUSA 软件栈，Day-0 支持，实现了对该模型的极速适配与高效运行。据介绍，作为 GLM-5 系列的首个原生多模态模型，GLM-5.3-Flash 总参数为 320B，激活参数仅 18B，在全球权威的 Artifici",
-          "source": "IT之家",
-          "date": "2026-08-27",
-          "dateLabel": "8月27日",
-          "tags": [
-            "model",
-            "research",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/0/995/237.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/854bbb86-a9aa-4f28-8269-52fb2d41f737.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "eb2932aea5b8",
-          "title": "6001 米：吉利银河战舰 700“AI 全地形硬核 SUV”打破量产车最高海拔爬坡纪录",
-          "desc": "IT之家 8 月 27 日消息，吉利汽车集团今日宣布，银河战舰 700 打破量产车最高海拔爬坡纪录，成绩定格在 6001 米。据介绍，此次挑战中，吉利银河战舰 700 系统综合功率 830kW、轮端峰值扭矩 13920N·m，测试车辆非改装车。据IT之家此前报道，吉利银河战舰 700 定位“AI 全地形硬核 SUV”，预计将于年内上市。该车采用硬朗的线条勾勒与方盒子车身造型，前脸采用长条矩形格栅轮",
-          "source": "IT之家",
-          "date": "2026-08-27",
-          "dateLabel": "8月27日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/995/220.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/d243f674-bf1b-4c9f-aeb5-6bb4221701b3.jpg",
-          "color": "#d97706"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -2312,6 +2264,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-09-29 15:52",
-  "totalNews": 140
+  "updateTime": "2026-09-30 15:57",
+  "totalNews": 137
 }
