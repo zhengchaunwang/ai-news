@@ -1,10 +1,203 @@
 {
   "newsData": [
     {
+      "date": "2026-10-01",
+      "dateLabel": "10月1日",
+      "id": "d01",
+      "items": [
+        {
+          "id": "fca2bd467aa3",
+          "title": "全靠平时爱看《空中浩劫》：迪拜航空 FZ1073 一乘客通过节目学会拉杆，协助救回机上 174 人",
+          "desc": "IT之家 10 月 1 日消息，当地时间 9 月 30 日，迪拜航空（FlyDubai）FZ1073 航班（波音 737 MAX）在从迪拜飞往特拉维夫途中发生驾驶舱袭击事件。在此过程中，以色列乘客亚尼夫 · 哈尤恩（Yaniv Hayoun）与其他乘客为了阻止灾难发生，强行闯入驾驶舱，并协助制服恐怖分子（指副驾驶，后因涉嫌恐怖主义行为而被捕）。随后，哈尤恩短暂操作飞机操纵装置，帮助飞机结束俯冲，待",
+          "source": "IT之家",
+          "date": "2026-10-01",
+          "dateLabel": "10月1日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/009/094.htm",
+          "image": "",
+          "color": "#d97706"
+        },
+        {
+          "id": "ba12efd0a0d9",
+          "title": "一字不改：加州州长纽森反击特朗普将“人工智能”改为“超级智能”，州政府范围内继续叫“AI”",
+          "desc": "IT之家 10 月 1 日消息，特朗普昨日签署行政令将“Super Intelligence”定义为原有法律中“Artificial Intelligence”所涵盖的技术和系统，用“SI”取代原先“AI”的定义及相关立法。详情可见IT之家昨日报道。当地时间 9 月 30 日，美国加利福尼亚州州长加文 · 纽森签署第 N-10-26 号行政令，要求所有受其管辖的州政府机构和部门，在官方事务中继续使",
+          "source": "IT之家",
+          "date": "2026-10-01",
+          "dateLabel": "10月1日",
+          "tags": [
+            "policy"
+          ],
+          "url": "https://www.ithome.com/1/009/086.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/cfdec1bc-7914-4522-b77e-09a4a357a1a8.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "e52c9ef9cac7",
+          "title": "软银完成对 OpenAI 最后一笔投资，300 亿美元承诺全部到位",
+          "desc": "IT之家 10 月 1 日消息，软银集团今日表示，公司已通过软银愿景基金 2 完成对 OpenAI 的第三笔投资，金额为 100 亿美元（IT之家注：现汇率约合 671.69 亿元人民币），这是软银对 OpenAI 的最后一笔投资。至此，软银此前承诺的 300 亿美元（现汇率约合 2,015.06 亿元人民币）投资全部到位。OpenAI 的估值正处于快速上升阶段。据彭博社报道，该人工智能实验室在寻",
+          "source": "IT之家",
+          "date": "2026-10-01",
+          "dateLabel": "10月1日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/009/085.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/58adf355-91a0-4df5-ada8-f93bb44fbc3f.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "4ec43e97c89b",
+          "title": "调研显示：超 85% 的日本游戏开发者正使用生成式 AI",
+          "desc": "IT之家 10 月 1 日消息，日本计算机娱乐供应商协会（CESA）于本月上旬发布了一份有关游戏行业开发现状的初步调研摘要，完整报告将于 12 月正式对外公布。其中一组格外值得关注的数据显示：85.8% 的日本游戏开发者已经在日常工作当中积极使用生成式人工智能。据IT之家了解，该调研的数据采集自日本游戏开发者大会 CEDEC 开展的开发者问卷调查。作为对比，去年的数据仅有 51% 的开发者正在使用",
+          "source": "IT之家",
+          "date": "2026-10-01",
+          "dateLabel": "10月1日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/009/083.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/f31c06db-5a57-44ce-b12e-0841f8f2ab32.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "4da1cf11f9fe",
+          "title": "数据中心催生庞大用工需求，谷歌高管称全美存在数十万个技术工种缺口",
+          "desc": "IT之家 10 月 1 日消息，当地时间 9 月 29 日，据《财富》杂志报道，现如今，数据中心已然成为 AI 争议中的焦点之一。批评者担心，大规模建设数据中心会给社区带来耗水、用电和噪声等问题。但与此同时，数据中心也催生了庞大的用工需求，其中技术工种尤其缺人。谷歌俄亥俄州和印第安纳州数据中心运营区域负责人蒂姆 · 查德威克在博客中写道：“目前全美有数十万个技术工种岗位空缺，等着有人来填补。高级电",
+          "source": "IT之家",
+          "date": "2026-10-01",
+          "dateLabel": "10月1日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/009/082.htm",
+          "image": "",
+          "color": "#d97706"
+        },
+        {
+          "id": "bf1224d92596",
+          "title": "美光科技 CEO 梅赫罗特拉：目前已锁定约 1500 亿美元长期订单，AI 存储需求紧张",
+          "desc": "IT之家 10 月 1 日消息，美光科技董事长兼 CEO 桑杰 · 梅赫罗特拉（Sanjay Mehrotra）在财报电话会上表示，美光目前已签署 26 项长协，锁定约 1,500 亿美元（IT之家注：现汇率约合 1.01 万亿元人民币）长期订单，2027 和 2028 年存储市场供需将比 2026 年更为紧缺，且“看不到供需恢复平衡的尽头”。美光科技于周三公布的季度营收指引高于市场预期，今年截至",
+          "source": "IT之家",
+          "date": "2026-10-01",
+          "dateLabel": "10月1日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/009/079.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/5f355551-88ce-47ce-8857-d3f594f1dc60.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "ac721a4743ee",
+          "title": "iPhone 18 标准版首秀：苹果 A20 芯片焊点图曝光，推测 5 核 GPU",
+          "desc": "IT之家 10 月 1 日消息，IT之家家友 @白饭炒白米饭 昨日（9 月 30 日）发布动态，分享了苹果 A20 标准版芯片的焊点图，该芯片将会装备在 iPhone 18 标准版机型上。IT之家附上帖子内容如下：有了 Apple A20 标准版芯片的焊点图，现在可以进一步推测 A20 的芯片规模了。1、制造工艺，因为与 A20 Pro 同代，因此用的是台积电 N2 工艺制造。2、芯片面积，已知 ",
+          "source": "IT之家",
+          "date": "2026-10-01",
+          "dateLabel": "10月1日",
+          "tags": [
+            "model",
+            "business",
+            "policy"
+          ],
+          "url": "https://www.ithome.com/1/009/075.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/d930fb9f-2cbf-4a2c-9caa-cad2f1748dc8.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "27df329f196d",
+          "title": "福特 CEO 法利：AI 将成为蓝领工人的“搭档”，帮其更快掌握技能",
+          "desc": "IT之家 10 月 1 日消息，福特汽车 CEO 吉姆 · 法利认为，AI 不会绕过蓝领工人，但也未必会大规模取代他们。当地时间 9 月 30 日，据《财富》杂志报道，法利称，AI 进入工厂、维修车间和各类技术岗位后，更多会成为工人的“搭档”：帮他们处理更复杂的工作、更快掌握技能，也帮助企业缓解技术工人严重短缺的问题。法利进一步解释道：“我认为，大多数这类岗位都会用上 AI，同时也不会轻易被 AI",
+          "source": "IT之家",
+          "date": "2026-10-01",
+          "dateLabel": "10月1日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/009/073.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/02bd8bd4-9e8a-4797-8608-0fed318dadfa.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-09-30",
       "dateLabel": "9月30日",
       "id": "d30",
       "items": [
+        {
+          "id": "1491bd90ee29",
+          "title": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
+          "desc": "千禧年难题的突破，10000个Agent最多占了10%的功劳。",
+          "source": "量子位",
+          "date": "2026-09-30",
+          "dateLabel": "9月30日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.qbitai.com/2026/09/499654.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "cb548a47d010",
+          "title": "直播回顾：工业AI的下一个机会在哪？",
+          "desc": "什么样的AI才适合工业现场？企业真正开始做工业AI时，又该从哪里下手？",
+          "source": "量子位",
+          "date": "2026-09-30",
+          "dateLabel": "9月30日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/09/499605.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "f144a6e8a917",
+          "title": "Anthropic，你是来给智谱打广告的吧！",
+          "desc": "实测说GLM-5.3很强",
+          "source": "量子位",
+          "date": "2026-09-30",
+          "dateLabel": "9月30日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/09/499597.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "834f9dfb1344",
+          "title": "Manus 2.0回来了！给AI配手机号和钱包，还能拉群干活",
+          "desc": "给Agent配上手机号，再拉个群",
+          "source": "量子位",
+          "date": "2026-09-30",
+          "dateLabel": "9月30日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/09/499592.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "0792a55c0a03",
+          "title": "刚刚，GPT-6 Astra接上宇树G1，把厨房收拾了！",
+          "desc": "让GPT把机器人技能当工具调用",
+          "source": "量子位",
+          "date": "2026-09-30",
+          "dateLabel": "9月30日",
+          "tags": [
+            "model",
+            "research"
+          ],
+          "url": "https://www.qbitai.com/2026/09/499493.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
         {
           "id": "fafb3525ddb6",
           "title": "DeepSeek知乎独家发文，首次公开V4.1 Agent训练“大本营”DSec",
@@ -52,76 +245,6 @@
           "url": "https://www.qbitai.com/2026/09/499263.html",
           "image": "",
           "color": "#7c3aed"
-        },
-        {
-          "id": "da467dcb00be",
-          "title": "消息称豆包 AI 个人助手产品叫作“小豆”，计划推出独立 App",
-          "desc": "IT之家 9 月 30 日消息，新浪科技此前曾报道，豆包在个人助理方向正在推进相关产品规划，该探索项目当时代号为“Spell”，主要由豆包手机助手团队主导。据《读佳》今日消息，豆包这款产品叫作“小豆”，并会推出独立 App 版本，小豆的名字在今年暑期就已确定。小豆目前还在内部测试阶段，最终对外版本有可能发生调整，一切以官方发布为准。据IT之家此前报道，2025 年 12 月，豆包手机助手技术预览版",
-          "source": "IT之家",
-          "date": "2026-09-30",
-          "dateLabel": "9月30日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/008/773.htm",
-          "image": "",
-          "color": "#d97706"
-        },
-        {
-          "id": "d3a5880557f8",
-          "title": "LG 与微软合作研发智能家居 AI 语音助手，号称可实现流畅自然语音交流",
-          "desc": "IT之家 9 月 30 日消息，据韩媒 EtNews 今天报道，LG 电子今天在首尔江南区举办的微软行业峰会上，展示与微软合作研发的智能家居 AI 语音助手。该产品应用于智能家居中枢设备“ThinQ ON”，号称可实现接近人类交流的对话体验。据介绍，这款语音助手基于语音到语音（Speech to Speech）智能体技术，融合微软的 Voice Live。它可以支持“插话”功能，用户在聆听 AI ",
-          "source": "IT之家",
-          "date": "2026-09-30",
-          "dateLabel": "9月30日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/008/770.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/8a4748a3-22ad-4811-8bc5-c5f385e1d436.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "65f311129306",
-          "title": "三星 Galaxy Tab S12 Ultra 平板宣传图曝光：7 年安卓更新、主打 AI 技能",
-          "desc": "IT之家 9 月 30 日消息，科技媒体 sammyguru 今天（9 月 30 日）发布博文，分享了一组来自电商平台的图片，展示了三星 Galaxy Tab S12 Ultra 和 Galaxy Tab S12+，并显示两款平板 10 月 7 日发布。Galaxy Tab S12 Ultra 最高提供 16GB 内存与 1TB 存储，搭载联发科天玑 9500 芯片。屏幕为 14.6 英寸 Dyn",
-          "source": "IT之家",
-          "date": "2026-09-30",
-          "dateLabel": "9月30日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/008/762.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/8a9ad768-a1ab-4c43-bb0f-1f22a05ac6e7.png",
-          "color": "#d97706"
-        },
-        {
-          "id": "349ac0f37eb1",
-          "title": "沃尔玛对超市门店内的 AI 生成海报说“不”",
-          "desc": "IT之家 9 月 30 日消息，当地时间 29 日，据《商业内幕》报道，沃尔玛明确禁止门店使用“AI 垃圾内容”。长期以来，沃尔玛不允许门店自行定制印刷标识，最近更新的规定又进一步强调，AI 生成的海报同样不得使用。规定明确写道：“门店不得展示使用 AI 工具制作的标识。”新规针对的是零售店和餐厅经理越来越常见的一种做法：不用专业平面设计师，直接拿 ChatGPT、Claude 或 Gemini ",
-          "source": "IT之家",
-          "date": "2026-09-30",
-          "dateLabel": "9月30日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://www.ithome.com/1/008/758.htm",
-          "image": "",
-          "color": "#d97706"
-        },
-        {
-          "id": "a067bc93807c",
-          "title": "央视起底物流领域新型“软敲诈”犯罪：利用 AI 合成人脸盗号、软暴力胁迫货主加价",
-          "desc": "IT之家 9 月 30 日消息，据央视新闻今天报道，如今线上货运便捷高效，但网上下单如果遭遇接单司机临时加价、恶意索费、扣货要挟的情况，就需要提高警惕了。近日，湖北宜昌警方侦破一起利用 AI 合成人脸技术盗取货运账号，以软暴力胁迫货主加价的物流领域新型“软敲诈”案。IT之家从原报道获悉，郑女士是河南一家重型锻压设备企业的销售人员，今年 5 月，企业接到一笔订单，急需将一批六万多元的生产配件运往湖南",
-          "source": "IT之家",
-          "date": "2026-09-30",
-          "dateLabel": "9月30日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/008/744.htm",
-          "image": "http://vd3.bdstatic.com/mda-siv98aztinv5ny51/360p/h264/1790749901231777983/mda-siv98aztinv5ny51.mp4",
-          "color": "#d97706"
         }
       ]
     },
@@ -155,63 +278,6 @@
             "business"
           ],
           "url": "https://www.qbitai.com/2026/09/499239.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "5cb5dc5cc830",
-          "title": "精准揪出RL训练数据Bug，Prompt直出小游戏，IQuest-Q1夯爆了！",
-          "desc": "精准揪出RL训练数据Bug，Prompt直出小游戏，IQuest-Q1夯爆了！",
-          "source": "量子位",
-          "date": "2026-09-29",
-          "dateLabel": "9月29日",
-          "tags": [
-            "model",
-            "research"
-          ],
-          "url": "https://www.qbitai.com/2026/09/499188.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "bd7d6ad920d8",
-          "title": "OpenAI因新模型太强叫停发布",
-          "desc": "AGI计划暂停。",
-          "source": "量子位",
-          "date": "2026-09-29",
-          "dateLabel": "9月29日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/09/499140.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "695ba22a5c04",
-          "title": "成立一年完成5轮融资，诺因智能再获数亿元，累计超10亿元",
-          "desc": "诺因从Demo走向家庭",
-          "source": "量子位",
-          "date": "2026-09-29",
-          "dateLabel": "9月29日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/09/499135.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "06edfed9441d",
-          "title": "李飞飞创业公司被苏姿丰550亿收购！世界模型最大交易落地",
-          "desc": "李飞飞将入职AMD首席科学家",
-          "source": "量子位",
-          "date": "2026-09-29",
-          "dateLabel": "9月29日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/09/499098.html",
           "image": "",
           "color": "#7c3aed"
         }
@@ -2190,55 +2256,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-08-28",
-      "dateLabel": "8月28日",
-      "id": "d28",
-      "items": [
-        {
-          "id": "d7aae292e31c",
-          "title": "我的自媒体搭子太能卷，一顿饭功夫17份成品",
-          "desc": "我的自媒体搭子太能卷，一顿饭功夫17份成品",
-          "source": "量子位",
-          "date": "2026-08-28",
-          "dateLabel": "8月28日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/08/480700.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "10cb4c061421",
-          "title": "《时代》周刊全球AI 100放榜，精准捕获稚晖君最“想低调”的幕后老板",
-          "desc": "久久不愿来到台前的智元掌舵人",
-          "source": "量子位",
-          "date": "2026-08-28",
-          "dateLabel": "8月28日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/08/480666.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "41146b81960d",
-          "title": "刚刚，港股AGI第一股杀疯了！Agent业务半年进账近5亿，Token收入Q2暴涨500%",
-          "desc": "企业智能化服务撑起基本盘，第二增长曲线冒头",
-          "source": "量子位",
-          "date": "2026-08-28",
-          "dateLabel": "8月28日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/08/480600.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -2264,6 +2281,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-09-30 15:57",
-  "totalNews": 137
+  "updateTime": "2026-10-01 16:18",
+  "totalNews": 138
 }
