@@ -1,123 +1,163 @@
 {
   "newsData": [
     {
+      "date": "2026-10-02",
+      "dateLabel": "10月2日",
+      "id": "d02",
+      "items": [
+        {
+          "id": "170942ac4e85",
+          "title": "京瓷预热本月下旬在日本市场推出 DIGNO BX4 商用手机：4 年安卓版本更新、搭联发科天玑 6400 处理器",
+          "desc": "IT之家 10 月 2 日消息，京瓷宣布，将于 10 月（本月）下旬起在日本市场通过软银 SoftBank 运营商渠道面向企业用户推出一款名为“DIGNO BX4”的智能手机。京瓷表示，DIGNO BX4 针对长期使用场景设计，支持最多 4 次安卓系统版本升级，并从上市之日起提供最长 5 年的安全更新。该机还通过了谷歌“Android Enterprise Recommended”认证，可满足企业",
+          "source": "IT之家",
+          "date": "2026-10-02",
+          "dateLabel": "10月2日",
+          "tags": [
+            "business",
+            "policy"
+          ],
+          "url": "https://www.ithome.com/1/009/311.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/634ceb7e-ee74-4cd2-8e10-0accaa4490b5.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "0db655eba8ee",
+          "title": "日本法院首次确认声音受法律保护，“AI 声优”涉及侵犯形象权",
+          "desc": "IT之家 10 月 2 日消息，当地时间 9 月 30 日，据法新社报道，东京一家法院在日本知名声优津田健次郎起诉 TikTok 的案件中认可了他的主张，认定 AI 未经许可模仿其“浑厚”的男中音声线涉及权利侵害，并首次在日本司法实践中确认人的声音受到法律保护。津田健次郎从事声优工作已有 30 多年，为大量电影、动画剧集和电子游戏配过音，其中最广为人知的角色之一是《游戏王》中的海马濑人。他称，一个",
+          "source": "IT之家",
+          "date": "2026-10-02",
+          "dateLabel": "10月2日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/009/309.htm",
+          "image": "",
+          "color": "#d97706"
+        },
+        {
+          "id": "757a75943667",
+          "title": "《战争机器：事变日》游戏发售宣传片公开：首发支持 DLSS 4.5 及光追，10 月 7 日正式发售",
+          "desc": "IT之家 10 月 2 日消息，《战争机器：事变日（Gears of War：E-Day）》开发商 The Coalition 现已公布游戏发售宣传片，本作将于北京时间 10 月 7 日正式发售，登陆 XBOX Series X|S 与 PC 平台（包括 Steam 与 Microsoft Store），首发加入 XBOX Game Pass。游戏在 PC 平台首发支持英伟达 DLSS 4.5 技",
+          "source": "IT之家",
+          "date": "2026-10-02",
+          "dateLabel": "10月2日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/009/306.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/4df1d8b9-4f53-4a75-93f4-9fbc33f12d88.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "c0b66aaf34bb",
+          "title": "OpenAI 升级 ChatGPT 购物体验，新增 AI 衣服虚拟试穿体验",
+          "desc": "IT之家 10 月 2 日消息，OpenAI 宣布进一步升级 ChatGPT 的购物功能，新增虚拟试穿和 Favorites（收藏）两项功能，用户现在可以上传自己的照片，让 ChatGPT 生成穿着特定服饰或配饰后的效果图，同时也可以将感兴趣的商品保存下来，方便之后继续查看。IT之家注意到，去年 OpenAI 曾为 ChatGPT 推出专门的 Shopping Research 购物研究功能，主要",
+          "source": "IT之家",
+          "date": "2026-10-02",
+          "dateLabel": "10月2日",
+          "tags": [
+            "model",
+            "research"
+          ],
+          "url": "https://www.ithome.com/1/009/304.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/a637710e-83c4-4167-b69d-c8f94df3da69.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "6cb59e8ffb6d",
+          "title": "极米记得 AI 显示眼镜 MemoMind One 明日登陆线下门店，开启定金预定",
+          "desc": "IT之家 10 月 2 日消息，极米记得 AI 显示眼镜 MemoMind One 明日登陆全国 56 家线下门店、INNO100 全球创新旗舰店。10 月 3 日到 10 月 14 日，到店预付 100 元定金预定，即可获赠价值 199 元墨镜夹片 1 副。据官方介绍，它是一副可以长期佩戴的专业 AI 眼镜，也是一副能帮你“记得”的专业 AI 眼镜，AI 能记忆、能导航、能提词。目前，官方暂未公",
+          "source": "IT之家",
+          "date": "2026-10-02",
+          "dateLabel": "10月2日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/009/302.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/ea43ece5-9c6c-447d-97d4-5d23e634afce.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "afa9fa98d176",
+          "title": "AOC 推出“U27G4FD”27 英寸裸眼 3D 显示器：4K 180Hz、配双 5W 扬声器",
+          "desc": "IT之家 10 月 2 日消息，AOC 宣布推出一款型号为“U27G4FD”的裸眼 3D 显示器，该机为 4K 180Hz 规格，国行将于近期上市。该产品采用 27 英寸 4K UHD 分辨率 180Hz 刷新率氧化物制程 Fast IPS 面板，提供 0.5ms（MPRT）、1ms GtG 响应时间，搭配 MBR / MBR Sync 低运动模糊技术，拥有英伟达 G-SYNC Compatibl",
+          "source": "IT之家",
+          "date": "2026-10-02",
+          "dateLabel": "10月2日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/009/299.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/d1e0eff7-6fde-42c6-8084-b736179f9968.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "a3e13dfe2aea",
+          "title": "富士 X-T6 无反相机设计草图曝光，配 X-Processor 6 图像处理器",
+          "desc": "IT之家 10 月 2 日消息，科技媒体 dailycameranews 今天（10 月 2 日）发布博文，爆料称富士（Fujifilm）计划 2026 年年底或者 2027 年年初发布 X-T6 无反相机，并透露了相关规格参数。IT之家此前报道，富士原本计划在秋季发布 X-T6，并同步推出 2 款新定焦镜头，不过当前产品节奏已转向镜头发布，机身则等待下一场 X Summit。X-T6 预计搭载 ",
+          "source": "IT之家",
+          "date": "2026-10-02",
+          "dateLabel": "10月2日",
+          "tags": [
+            "model",
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/009/283.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/ab969cf8-f1f6-4152-b776-eb1f54238cd4.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "45536989f0ce",
+          "title": "AI 灌水稿激增：预印本平台 arXiv 出台新规，每人每月限投 2 篇",
+          "desc": "IT之家 10 月 2 日消息，预印本开放获取平台 arXiv 发布博文，宣布于昨日（10 月 1 日）开始实施全新速率限制政策，将所有投稿者每月提交上限设为 2 篇、同时在审活跃稿件上限设为 3 篇。IT之家注：arXiv 于 1991 年 8 月 14 日由理论物理学家 Paul Ginsparg 在洛斯阿拉莫斯国家实验室（LANL）创建，是一个面向物理学、数学、计算机科学、定量生物学、定量金",
+          "source": "IT之家",
+          "date": "2026-10-02",
+          "dateLabel": "10月2日",
+          "tags": [
+            "research",
+            "business",
+            "policy"
+          ],
+          "url": "https://www.ithome.com/1/009/279.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/4deb728b-5212-43bf-906d-2389b41dfa21.png",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-10-01",
       "dateLabel": "10月1日",
       "id": "d01",
       "items": [
         {
-          "id": "fca2bd467aa3",
-          "title": "全靠平时爱看《空中浩劫》：迪拜航空 FZ1073 一乘客通过节目学会拉杆，协助救回机上 174 人",
-          "desc": "IT之家 10 月 1 日消息，当地时间 9 月 30 日，迪拜航空（FlyDubai）FZ1073 航班（波音 737 MAX）在从迪拜飞往特拉维夫途中发生驾驶舱袭击事件。在此过程中，以色列乘客亚尼夫 · 哈尤恩（Yaniv Hayoun）与其他乘客为了阻止灾难发生，强行闯入驾驶舱，并协助制服恐怖分子（指副驾驶，后因涉嫌恐怖主义行为而被捕）。随后，哈尤恩短暂操作飞机操纵装置，帮助飞机结束俯冲，待",
-          "source": "IT之家",
+          "id": "2f7bfe7078c1",
+          "title": "何恺明团队新作：看猫片就能学会ARC挑战",
+          "desc": "用ImageNet训练encoder",
+          "source": "量子位",
           "date": "2026-10-01",
           "dateLabel": "10月1日",
           "tags": [
-            "business"
+            "research"
           ],
-          "url": "https://www.ithome.com/1/009/094.htm",
+          "url": "https://www.qbitai.com/2026/10/499812.html",
           "image": "",
-          "color": "#d97706"
+          "color": "#7c3aed"
         },
         {
-          "id": "ba12efd0a0d9",
-          "title": "一字不改：加州州长纽森反击特朗普将“人工智能”改为“超级智能”，州政府范围内继续叫“AI”",
-          "desc": "IT之家 10 月 1 日消息，特朗普昨日签署行政令将“Super Intelligence”定义为原有法律中“Artificial Intelligence”所涵盖的技术和系统，用“SI”取代原先“AI”的定义及相关立法。详情可见IT之家昨日报道。当地时间 9 月 30 日，美国加利福尼亚州州长加文 · 纽森签署第 N-10-26 号行政令，要求所有受其管辖的州政府机构和部门，在官方事务中继续使",
-          "source": "IT之家",
-          "date": "2026-10-01",
-          "dateLabel": "10月1日",
-          "tags": [
-            "policy"
-          ],
-          "url": "https://www.ithome.com/1/009/086.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/cfdec1bc-7914-4522-b77e-09a4a357a1a8.png",
-          "color": "#d97706"
-        },
-        {
-          "id": "e52c9ef9cac7",
-          "title": "软银完成对 OpenAI 最后一笔投资，300 亿美元承诺全部到位",
-          "desc": "IT之家 10 月 1 日消息，软银集团今日表示，公司已通过软银愿景基金 2 完成对 OpenAI 的第三笔投资，金额为 100 亿美元（IT之家注：现汇率约合 671.69 亿元人民币），这是软银对 OpenAI 的最后一笔投资。至此，软银此前承诺的 300 亿美元（现汇率约合 2,015.06 亿元人民币）投资全部到位。OpenAI 的估值正处于快速上升阶段。据彭博社报道，该人工智能实验室在寻",
-          "source": "IT之家",
-          "date": "2026-10-01",
-          "dateLabel": "10月1日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/009/085.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/58adf355-91a0-4df5-ada8-f93bb44fbc3f.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "4ec43e97c89b",
-          "title": "调研显示：超 85% 的日本游戏开发者正使用生成式 AI",
-          "desc": "IT之家 10 月 1 日消息，日本计算机娱乐供应商协会（CESA）于本月上旬发布了一份有关游戏行业开发现状的初步调研摘要，完整报告将于 12 月正式对外公布。其中一组格外值得关注的数据显示：85.8% 的日本游戏开发者已经在日常工作当中积极使用生成式人工智能。据IT之家了解，该调研的数据采集自日本游戏开发者大会 CEDEC 开展的开发者问卷调查。作为对比，去年的数据仅有 51% 的开发者正在使用",
-          "source": "IT之家",
-          "date": "2026-10-01",
-          "dateLabel": "10月1日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/009/083.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/f31c06db-5a57-44ce-b12e-0841f8f2ab32.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "4da1cf11f9fe",
-          "title": "数据中心催生庞大用工需求，谷歌高管称全美存在数十万个技术工种缺口",
-          "desc": "IT之家 10 月 1 日消息，当地时间 9 月 29 日，据《财富》杂志报道，现如今，数据中心已然成为 AI 争议中的焦点之一。批评者担心，大规模建设数据中心会给社区带来耗水、用电和噪声等问题。但与此同时，数据中心也催生了庞大的用工需求，其中技术工种尤其缺人。谷歌俄亥俄州和印第安纳州数据中心运营区域负责人蒂姆 · 查德威克在博客中写道：“目前全美有数十万个技术工种岗位空缺，等着有人来填补。高级电",
-          "source": "IT之家",
-          "date": "2026-10-01",
-          "dateLabel": "10月1日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/009/082.htm",
-          "image": "",
-          "color": "#d97706"
-        },
-        {
-          "id": "bf1224d92596",
-          "title": "美光科技 CEO 梅赫罗特拉：目前已锁定约 1500 亿美元长期订单，AI 存储需求紧张",
-          "desc": "IT之家 10 月 1 日消息，美光科技董事长兼 CEO 桑杰 · 梅赫罗特拉（Sanjay Mehrotra）在财报电话会上表示，美光目前已签署 26 项长协，锁定约 1,500 亿美元（IT之家注：现汇率约合 1.01 万亿元人民币）长期订单，2027 和 2028 年存储市场供需将比 2026 年更为紧缺，且“看不到供需恢复平衡的尽头”。美光科技于周三公布的季度营收指引高于市场预期，今年截至",
-          "source": "IT之家",
-          "date": "2026-10-01",
-          "dateLabel": "10月1日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/009/079.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/5f355551-88ce-47ce-8857-d3f594f1dc60.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "ac721a4743ee",
-          "title": "iPhone 18 标准版首秀：苹果 A20 芯片焊点图曝光，推测 5 核 GPU",
-          "desc": "IT之家 10 月 1 日消息，IT之家家友 @白饭炒白米饭 昨日（9 月 30 日）发布动态，分享了苹果 A20 标准版芯片的焊点图，该芯片将会装备在 iPhone 18 标准版机型上。IT之家附上帖子内容如下：有了 Apple A20 标准版芯片的焊点图，现在可以进一步推测 A20 的芯片规模了。1、制造工艺，因为与 A20 Pro 同代，因此用的是台积电 N2 工艺制造。2、芯片面积，已知 ",
-          "source": "IT之家",
+          "id": "a176bc8721d5",
+          "title": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
+          "desc": "价格只有Astra一半",
+          "source": "量子位",
           "date": "2026-10-01",
           "dateLabel": "10月1日",
           "tags": [
             "model",
-            "business",
-            "policy"
-          ],
-          "url": "https://www.ithome.com/1/009/075.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/d930fb9f-2cbf-4a2c-9caa-cad2f1748dc8.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "27df329f196d",
-          "title": "福特 CEO 法利：AI 将成为蓝领工人的“搭档”，帮其更快掌握技能",
-          "desc": "IT之家 10 月 1 日消息，福特汽车 CEO 吉姆 · 法利认为，AI 不会绕过蓝领工人，但也未必会大规模取代他们。当地时间 9 月 30 日，据《财富》杂志报道，法利称，AI 进入工厂、维修车间和各类技术岗位后，更多会成为工人的“搭档”：帮他们处理更复杂的工作、更快掌握技能，也帮助企业缓解技术工人严重短缺的问题。法利进一步解释道：“我认为，大多数这类岗位都会用上 AI，同时也不会轻易被 AI",
-          "source": "IT之家",
-          "date": "2026-10-01",
-          "dateLabel": "10月1日",
-          "tags": [
             "business"
           ],
-          "url": "https://www.ithome.com/1/009/073.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/02bd8bd4-9e8a-4797-8608-0fed318dadfa.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/10/499663.html",
+          "image": "",
+          "color": "#7c3aed"
         }
       ]
     },
@@ -2235,27 +2275,6 @@
           "color": "#d97706"
         }
       ]
-    },
-    {
-      "date": "2026-08-29",
-      "dateLabel": "8月29日",
-      "id": "d29",
-      "items": [
-        {
-          "id": "22927a428f81",
-          "title": "AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑",
-          "desc": "推理软件栈的微小差异，就能改变输出token",
-          "source": "量子位",
-          "date": "2026-08-29",
-          "dateLabel": "8月29日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://www.qbitai.com/2026/08/481372.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -2281,6 +2300,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-10-01 16:18",
-  "totalNews": 138
+  "updateTime": "2026-10-02 15:55",
+  "totalNews": 139
 }
