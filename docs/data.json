@@ -1,127 +1,174 @@
 {
   "newsData": [
     {
+      "date": "2026-10-03",
+      "dateLabel": "10月3日",
+      "id": "d03",
+      "items": [
+        {
+          "id": "73db40be5cb8",
+          "title": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
+          "desc": "又咋啦。。。",
+          "source": "量子位",
+          "date": "2026-10-03",
+          "dateLabel": "10月3日",
+          "tags": [
+            "policy"
+          ],
+          "url": "https://www.qbitai.com/2026/10/501368.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "0a0c6dc29e1f",
+          "title": "Jev估值100亿美元！创始人Diogo Almeida回答一切",
+          "desc": "Jev估值100亿美元！创始人Diogo Almeida回答一切",
+          "source": "量子位",
+          "date": "2026-10-03",
+          "dateLabel": "10月3日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/10/500148.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "4d01c03a7f06",
+          "title": "爱彼迎 Airbnb 民宿房东利用 AI 图片勒索房客要求其支付维修费，后者利用水印检测器成功识破",
+          "desc": "综合外媒 PC Gamer 报道，近期一名用户 FurinaDeFontaine 在 Reddit 平台发文，称自己使用爱彼迎 Airbnb 订民宿退房后，房主用 AI 生成了一张所谓的“马桶漏水”照片，试图向其勒索 1,700 美元（IT之家注：现汇率约合 11,414 元人民币）“维修费”。据 FurinaDeFontaine 介绍，涉事房东据称隶属澳大利亚当地规模较大的一家民宿运营公司，在自",
+          "source": "IT之家",
+          "date": "2026-10-03",
+          "dateLabel": "10月3日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/009/473.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/df41ea2a-45c1-4d03-beda-580a107e21b2.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "cacceeb828ad",
+          "title": "前索尼 PlayStation 负责人莱登喊话微软 XBOX CEO 夏尔马：现在就是你们的 Dreamcast 时刻",
+          "desc": "IT之家 10 月 3 日消息，据外媒 Eurogamer 今天（3 日）报道，前索尼 PlayStation 负责人肖恩 · 莱登认为，XBOX 需要尽快明确自己的定位：究竟继续做需要独占游戏支撑的主机平台，还是凭借动视暴雪等业务转向大型游戏发行商。无论选择哪条路，都不能再在独占策略上反复摇摆。本世代 XBOX Series X|S 销量持续下滑，微软对第一方游戏的独占政策也几经变化。菲尔 · ",
+          "source": "IT之家",
+          "date": "2026-10-03",
+          "dateLabel": "10月3日",
+          "tags": [
+            "policy"
+          ],
+          "url": "https://www.ithome.com/1/009/455.htm",
+          "image": "",
+          "color": "#d97706"
+        },
+        {
+          "id": "fbc6e918ad7c",
+          "title": "“争气机”换更强“争气芯”：全系韬芯片之华为 Mate 90 发布，央视报道称走出世界半导体的新路",
+          "desc": "IT之家 10 月 3 日消息，在 10 月 1 日的华为 Mate 90 系列及全场景新品发布会上，华为年度旗舰 ——Mate 90 系列手机正式发布，全系搭载了韬定律芯片。旗舰 τ 芯片：麒麟 9030（Mate 90）、麒麟 9035（Mate 90 Pro）；逻辑折叠 τ 芯片：麒麟 9050（Mate 90 Pro Max）、麒麟 9050 Pro（Mate 90 Pro Max / R",
+          "source": "IT之家",
+          "date": "2026-10-03",
+          "dateLabel": "10月3日",
+          "tags": [
+            "model",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/009/451.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/a64dda62-cdb1-4288-bfe8-68a0357d9457.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "794d7152683d",
+          "title": "GOG 喜加一：Roguelike 铁路经营模拟游戏《Bounty Train》免费领",
+          "desc": "IT之家 10 月 3 日消息，GOG 平台现已开启新一轮限时免费“喜加一”活动，玩家可以在北京时间 2026 年 10 月 5 日 21:00 前免费领取 Roguelike 铁路经营模拟游戏《Bounty Train（赏金列车）》，本作提供简体中文界面 / 字幕。IT之家附领取地址（https://www.gog.com/en/game/bounty_train）。公开信息显示，《Bounty",
+          "source": "IT之家",
+          "date": "2026-10-03",
+          "dateLabel": "10月3日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/009/448.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/4eaf90fa-f74e-4e96-9a85-23da6adb4a84.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "69f7f8c10f52",
+          "title": "HPE 获得其首笔 AMD \"Helios\" AI 机架订单，价值 12 亿美元",
+          "desc": "IT之家 10 月 3 日消息，HPE（慧与）当地时间 9 月 30 日宣布获得该企业首笔 AMD \"Helios\" AI 机架系统订单。这笔价值 12 亿美元（IT之家注：现汇率约合 80.57 亿元人民币）的订单由私有云基础设施企业 Vultr 下达。Vultr 是 Juniper Networks（瞻博网络）的合作伙伴。而在 HPE 收购 Juniper Networks 后，这份关系也得到",
+          "source": "IT之家",
+          "date": "2026-10-03",
+          "dateLabel": "10月3日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/009/446.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/0d66ae03-3eb2-41c7-a4d4-497243bfceaf.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "54c422aa26f0",
+          "title": "佳能 EOS R7 V 曝光：专用视频 APS-C 画幅相机，预估 2027 年底发布",
+          "desc": "IT之家 10 月 3 日消息，科技媒体 dailycameranews 昨日（10 月 2 日）发布博文，报道称佳能拟将旗舰 APS-C 产品线拆分为照片与视频两条路线，其中专用视频机型 EOS R7 V 预计于 2027 年底或 2028 年初发布。IT之家援引博文介绍，佳能计划将旗舰 APS-C 无反产品线细分为两条路线。一款为以高速连拍为核心的 EOS R7 Mark II，另一款为专用视",
+          "source": "IT之家",
+          "date": "2026-10-03",
+          "dateLabel": "10月3日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/009/445.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/715ded86-4d58-4ff2-8c7d-78d1adf2f4b1.png",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-10-02",
       "dateLabel": "10月2日",
       "id": "d02",
       "items": [
         {
-          "id": "170942ac4e85",
-          "title": "京瓷预热本月下旬在日本市场推出 DIGNO BX4 商用手机：4 年安卓版本更新、搭联发科天玑 6400 处理器",
-          "desc": "IT之家 10 月 2 日消息，京瓷宣布，将于 10 月（本月）下旬起在日本市场通过软银 SoftBank 运营商渠道面向企业用户推出一款名为“DIGNO BX4”的智能手机。京瓷表示，DIGNO BX4 针对长期使用场景设计，支持最多 4 次安卓系统版本升级，并从上市之日起提供最长 5 年的安全更新。该机还通过了谷歌“Android Enterprise Recommended”认证，可满足企业",
-          "source": "IT之家",
-          "date": "2026-10-02",
-          "dateLabel": "10月2日",
-          "tags": [
-            "business",
-            "policy"
-          ],
-          "url": "https://www.ithome.com/1/009/311.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/634ceb7e-ee74-4cd2-8e10-0accaa4490b5.jpg",
-          "color": "#d97706"
-        },
-        {
-          "id": "0db655eba8ee",
-          "title": "日本法院首次确认声音受法律保护，“AI 声优”涉及侵犯形象权",
-          "desc": "IT之家 10 月 2 日消息，当地时间 9 月 30 日，据法新社报道，东京一家法院在日本知名声优津田健次郎起诉 TikTok 的案件中认可了他的主张，认定 AI 未经许可模仿其“浑厚”的男中音声线涉及权利侵害，并首次在日本司法实践中确认人的声音受到法律保护。津田健次郎从事声优工作已有 30 多年，为大量电影、动画剧集和电子游戏配过音，其中最广为人知的角色之一是《游戏王》中的海马濑人。他称，一个",
-          "source": "IT之家",
+          "id": "8a3aed5c47a2",
+          "title": "openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗",
+          "desc": "让每一次请求选对模型，让每一次反馈都成为下一次更优、更省的选择",
+          "source": "量子位",
           "date": "2026-10-02",
           "dateLabel": "10月2日",
           "tags": [
             "business"
           ],
-          "url": "https://www.ithome.com/1/009/309.htm",
+          "url": "https://www.qbitai.com/2026/10/500098.html",
           "image": "",
-          "color": "#d97706"
+          "color": "#7c3aed"
         },
         {
-          "id": "757a75943667",
-          "title": "《战争机器：事变日》游戏发售宣传片公开：首发支持 DLSS 4.5 及光追，10 月 7 日正式发售",
-          "desc": "IT之家 10 月 2 日消息，《战争机器：事变日（Gears of War：E-Day）》开发商 The Coalition 现已公布游戏发售宣传片，本作将于北京时间 10 月 7 日正式发售，登陆 XBOX Series X|S 与 PC 平台（包括 Steam 与 Microsoft Store），首发加入 XBOX Game Pass。游戏在 PC 平台首发支持英伟达 DLSS 4.5 技",
-          "source": "IT之家",
-          "date": "2026-10-02",
-          "dateLabel": "10月2日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/009/306.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/4df1d8b9-4f53-4a75-93f4-9fbc33f12d88.jpg",
-          "color": "#d97706"
-        },
-        {
-          "id": "c0b66aaf34bb",
-          "title": "OpenAI 升级 ChatGPT 购物体验，新增 AI 衣服虚拟试穿体验",
-          "desc": "IT之家 10 月 2 日消息，OpenAI 宣布进一步升级 ChatGPT 的购物功能，新增虚拟试穿和 Favorites（收藏）两项功能，用户现在可以上传自己的照片，让 ChatGPT 生成穿着特定服饰或配饰后的效果图，同时也可以将感兴趣的商品保存下来，方便之后继续查看。IT之家注意到，去年 OpenAI 曾为 ChatGPT 推出专门的 Shopping Research 购物研究功能，主要",
-          "source": "IT之家",
+          "id": "eb295060cfc7",
+          "title": "丘成桐新论文致谢了GPT和Claude",
+          "desc": "44年前被亲自列入问题清单",
+          "source": "量子位",
           "date": "2026-10-02",
           "dateLabel": "10月2日",
           "tags": [
             "model",
             "research"
           ],
-          "url": "https://www.ithome.com/1/009/304.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/a637710e-83c4-4167-b69d-c8f94df3da69.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/10/499991.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "6cb59e8ffb6d",
-          "title": "极米记得 AI 显示眼镜 MemoMind One 明日登陆线下门店，开启定金预定",
-          "desc": "IT之家 10 月 2 日消息，极米记得 AI 显示眼镜 MemoMind One 明日登陆全国 56 家线下门店、INNO100 全球创新旗舰店。10 月 3 日到 10 月 14 日，到店预付 100 元定金预定，即可获赠价值 199 元墨镜夹片 1 副。据官方介绍，它是一副可以长期佩戴的专业 AI 眼镜，也是一副能帮你“记得”的专业 AI 眼镜，AI 能记忆、能导航、能提词。目前，官方暂未公",
-          "source": "IT之家",
+          "id": "556a133957a6",
+          "title": "arXiv最严新规！每人每月最多提交2篇，拒稿不退额度",
+          "desc": "换区也没用",
+          "source": "量子位",
           "date": "2026-10-02",
           "dateLabel": "10月2日",
           "tags": [
-            "business"
+            "research"
           ],
-          "url": "https://www.ithome.com/1/009/302.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/ea43ece5-9c6c-447d-97d4-5d23e634afce.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "afa9fa98d176",
-          "title": "AOC 推出“U27G4FD”27 英寸裸眼 3D 显示器：4K 180Hz、配双 5W 扬声器",
-          "desc": "IT之家 10 月 2 日消息，AOC 宣布推出一款型号为“U27G4FD”的裸眼 3D 显示器，该机为 4K 180Hz 规格，国行将于近期上市。该产品采用 27 英寸 4K UHD 分辨率 180Hz 刷新率氧化物制程 Fast IPS 面板，提供 0.5ms（MPRT）、1ms GtG 响应时间，搭配 MBR / MBR Sync 低运动模糊技术，拥有英伟达 G-SYNC Compatibl",
-          "source": "IT之家",
-          "date": "2026-10-02",
-          "dateLabel": "10月2日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/009/299.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/d1e0eff7-6fde-42c6-8084-b736179f9968.png",
-          "color": "#d97706"
-        },
-        {
-          "id": "a3e13dfe2aea",
-          "title": "富士 X-T6 无反相机设计草图曝光，配 X-Processor 6 图像处理器",
-          "desc": "IT之家 10 月 2 日消息，科技媒体 dailycameranews 今天（10 月 2 日）发布博文，爆料称富士（Fujifilm）计划 2026 年年底或者 2027 年年初发布 X-T6 无反相机，并透露了相关规格参数。IT之家此前报道，富士原本计划在秋季发布 X-T6，并同步推出 2 款新定焦镜头，不过当前产品节奏已转向镜头发布，机身则等待下一场 X Summit。X-T6 预计搭载 ",
-          "source": "IT之家",
-          "date": "2026-10-02",
-          "dateLabel": "10月2日",
-          "tags": [
-            "model",
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/009/283.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/ab969cf8-f1f6-4152-b776-eb1f54238cd4.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "45536989f0ce",
-          "title": "AI 灌水稿激增：预印本平台 arXiv 出台新规，每人每月限投 2 篇",
-          "desc": "IT之家 10 月 2 日消息，预印本开放获取平台 arXiv 发布博文，宣布于昨日（10 月 1 日）开始实施全新速率限制政策，将所有投稿者每月提交上限设为 2 篇、同时在审活跃稿件上限设为 3 篇。IT之家注：arXiv 于 1991 年 8 月 14 日由理论物理学家 Paul Ginsparg 在洛斯阿拉莫斯国家实验室（LANL）创建，是一个面向物理学、数学、计算机科学、定量生物学、定量金",
-          "source": "IT之家",
-          "date": "2026-10-02",
-          "dateLabel": "10月2日",
-          "tags": [
-            "research",
-            "business",
-            "policy"
-          ],
-          "url": "https://www.ithome.com/1/009/279.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/4deb728b-5212-43bf-906d-2389b41dfa21.png",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/10/499958.html",
+          "image": "",
+          "color": "#7c3aed"
         }
       ]
     },
@@ -206,83 +253,6 @@
             "cn"
           ],
           "url": "https://www.qbitai.com/2026/09/499597.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "834f9dfb1344",
-          "title": "Manus 2.0回来了！给AI配手机号和钱包，还能拉群干活",
-          "desc": "给Agent配上手机号，再拉个群",
-          "source": "量子位",
-          "date": "2026-09-30",
-          "dateLabel": "9月30日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/09/499592.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "0792a55c0a03",
-          "title": "刚刚，GPT-6 Astra接上宇树G1，把厨房收拾了！",
-          "desc": "让GPT把机器人技能当工具调用",
-          "source": "量子位",
-          "date": "2026-09-30",
-          "dateLabel": "9月30日",
-          "tags": [
-            "model",
-            "research"
-          ],
-          "url": "https://www.qbitai.com/2026/09/499493.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "fafb3525ddb6",
-          "title": "DeepSeek知乎独家发文，首次公开V4.1 Agent训练“大本营”DSec",
-          "desc": "DeepSeek在知乎独家发布技术长文，首次系统阐释了DeepSeek弹性计算（DeepSeek Elastic Compute，DSec）",
-          "source": "量子位",
-          "date": "2026-09-30",
-          "dateLabel": "9月30日",
-          "tags": [
-            "model",
-            "research",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/09/499308.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "24ff14704c09",
-          "title": "36家敲钟的机器人公司：赚钱能力差距巨大，商业化也不玩花架子了",
-          "desc": "机器人上市，风向有变",
-          "source": "量子位",
-          "date": "2026-09-30",
-          "dateLabel": "9月30日",
-          "tags": [
-            "research",
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/09/499280.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "a2089cb9dca0",
-          "title": "DeepSeek官方开源昇腾基础组件，与昇腾共建高效易用的AI芯片软件生态",
-          "desc": "DeepSeek官方开源昇腾基础组件，与昇腾共建高效易用的AI芯片软件生态",
-          "source": "量子位",
-          "date": "2026-09-30",
-          "dateLabel": "9月30日",
-          "tags": [
-            "model",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/09/499263.html",
           "image": "",
           "color": "#7c3aed"
         }
@@ -2148,133 +2118,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-08-30",
-      "dateLabel": "8月30日",
-      "id": "d30",
-      "items": [
-        {
-          "id": "f59cf5043fa5",
-          "title": "因缺少 MTE 安全功能，GrapheneOS 当前阶段放弃适配谷歌 Pixel 11 系列手机",
-          "desc": "IT之家 8 月 30 日消息，GrapheneOS（石墨烯 OS）开发团队今天在 X 平台宣布，由于谷歌 Pixel 11 系列手机缺少 MTE（Arm 内存标记扩展）安全功能，他们当前不得不放弃 Pixel 11 的 GrapheneOS 适配工作。官方表示，他们经过一周的工作后完成了 Pixel 11 系列 GrapheneOS 初步移植。但由于该系列机型的软件、固件和硬件缺乏 MTE 支持",
-          "source": "IT之家",
-          "date": "2026-08-30",
-          "dateLabel": "8月30日",
-          "tags": [
-            "business",
-            "policy"
-          ],
-          "url": "https://www.ithome.com/0/996/177.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/04c4c7b8-8c3e-411a-884d-170f13221af6.jpg",
-          "color": "#d97706"
-        },
-        {
-          "id": "f925e3be7d64",
-          "title": "隆基绿能 2026 年上半年归母亏损 36.84 亿元，亏损同比扩大",
-          "desc": "IT之家 8 月 30 日消息，隆基绿能今日发布 2026 年上半年（2026 年 1 月～2026 年 6 月）报告：营业总收入：270.45 亿元，同比下降 17.58%归母净利润：-36.84 亿元扣非净利润：-40.32 亿元经营现金流：-58.18 亿元加权平均净资产收益率：-7.04%基本每股收益：-0.49 元稀释每股收益：-0.49 元资产负债率：66.06% AI 解读本次业绩低",
-          "source": "IT之家",
-          "date": "2026-08-30",
-          "dateLabel": "8月30日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/996/173.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/0876fd73-1547-4698-b2c6-de000c4f60c3.png",
-          "color": "#d97706"
-        },
-        {
-          "id": "76afddbd4174",
-          "title": "特斯拉车机系统有望接入 Grok Bot，打造移动 AI 工作站",
-          "desc": "IT之家 8 月 30 日消息，特斯拉正不断将旗下电动汽车打造成为“车轮上的联网生产力中心”。继近期推出 Grok Bot 后，特斯拉似乎正在准备将 SpaceXAI 最新的自主智能体平台直接整合进车内。这一线索最早出现在 X 平台。一名用户询问，未来司机是否可以直接坐在车内管理自己的 Grok Bot 智能体，并查看后台任务的执行情况。SpaceXAI 的 Grok Voice and Chat",
-          "source": "IT之家",
-          "date": "2026-08-30",
-          "dateLabel": "8月30日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/0/996/169.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/7f5ad7fd-6b1a-42d5-8374-9b6d3c4c989c.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "9e3ed4337ba3",
-          "title": "日企 Links 推出 LC7530 迷你主机：锐龙 5 7530U 芯片、16GB LPDDR4 内存",
-          "desc": "IT之家 8 月 30 日消息，日本企业 Links 现已推出 LC7530 迷你主机，新品定位中低端，搭载相对老旧的 AMD 处理器。据介绍，这款迷你主机的尺寸是 12.8*12.8*4.13 cm，重量约 610g，整体较为紧凑。搭载 2023 年发布的 AMD 锐龙 5 7530U 处理器，采用 Zen 3 架构、6 核心 12 线程设计，最高加速频率可达 4.5GHz。规格方面，该机搭载 ",
-          "source": "IT之家",
-          "date": "2026-08-30",
-          "dateLabel": "8月30日",
-          "tags": [
-            "research",
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/996/167.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/a8e7c758-19fb-47f7-a45a-ec9af2161adf.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "fe0b849590a0",
-          "title": "硅谷知名风投 a16z 成立新基金：筹集 11 亿美元，布局芯片、内存与机器人赛道",
-          "desc": "IT之家 8 月 30 日消息，据科技媒体 TechCrunch 前天报道，美国硅谷知名风险投资公司安德里森 · 霍罗威茨（Andreessen Horowitz，又名 a16z）近日推出“机器时代”（Machine Age）新基金，筹集资金达 11 亿美元（IT之家注：现汇率约合 74.21 亿元人民币）。据悉，这支新基金将重点关注硬件领域，与 a16z 过去更加关注的软件赛道有所不同。该公司表",
-          "source": "IT之家",
-          "date": "2026-08-30",
-          "dateLabel": "8月30日",
-          "tags": [
-            "research",
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/996/136.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/1ed70a9d-1408-4c0f-a2c6-f7cad82f4e36.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "593c04654665",
-          "title": "大我 BIGME 推出 4G 通话阅读本 B6 Pro：6 英寸彩墨屏，到手价 2099 元",
-          "desc": "IT之家 8 月 30 日消息，大我 BIGME 今日宣布，彩墨屏 AI 阅读器 B6 Pro 国内即将开启预售，9 月 1 日 20:00 - 9 月 22 日 10:00 支付定金，9 月 22 日 10:30 起支付尾款，B6 Pro（8GB+256GB）预售到手价 2099 元。这款新品配备 6 英寸彩色墨水屏，拥有 300PPI （黑白） / 150PPI （彩色）；搭载天玑 1080 ",
-          "source": "IT之家",
-          "date": "2026-08-30",
-          "dateLabel": "8月30日",
-          "tags": [
-            "model",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/0/996/133.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/10cb3540-73cd-42fc-a11c-9d7256780811.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "0721196a9501",
-          "title": "R 星确认：《GTA 6》发售时不会有微交易和生成式 AI",
-          "desc": "IT之家 8 月 30 日消息，Rockstar Games 表示，《侠盗猎车手 6》（GTA 6）在今年 11 月发售时不会加入微交易或生成式 AI。本周早些时候，《GTA 6》开发团队在接受 Kinda Funny Games 采访时确认，这款备受期待的开放世界大作将避开这两种可能引发争议的做法。这意味着游戏在发售后的几个月里，至少不会因为这两个话题引发玩家的争议。Kinda Funny 主持",
-          "source": "IT之家",
-          "date": "2026-08-30",
-          "dateLabel": "8月30日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/0/996/132.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/8355825b-2ffe-4309-9cc7-76475129fc61.jpg",
-          "color": "#d97706"
-        },
-        {
-          "id": "400f6ca1fb98",
-          "title": "日均峰值 11.3 起：报告称 2026 年已记录 1664 起 AI 失控事件，7 月环比增 93.76%",
-          "desc": "IT之家 8 月 30 日消息，英国长期韧性中心（CLTR）于 8 月 28 日发布报告，称其“失控观察站”在 2026 年 7 月共记录 306 起 AI 安全事件，比 6 月（158 起）增涨 93.67%。“失控观察站”成立于 2026 年 2 月，获英国人工智能安全研究所资助，借助开源情报追踪 AI 系统违背操作者意图的案例。报告列举的案例包括：智能体在对话中插入伪造用户消息以模拟同意、仿",
-          "source": "IT之家",
-          "date": "2026-08-30",
-          "dateLabel": "8月30日",
-          "tags": [
-            "research",
-            "business",
-            "policy",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/0/996/124.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/91324e07-710d-42d0-8d35-e79afa06d964.png",
-          "color": "#d97706"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -2300,6 +2143,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-10-02 15:55",
-  "totalNews": 139
+  "updateTime": "2026-10-03 15:34",
+  "totalNews": 129
 }
