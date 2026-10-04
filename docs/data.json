@@ -1,10 +1,149 @@
 {
   "newsData": [
     {
+      "date": "2026-10-04",
+      "dateLabel": "10月4日",
+      "id": "d04",
+      "items": [
+        {
+          "id": "bd518e8b23e7",
+          "title": "AI算力硬合作，马斯克还是更相信中国制造",
+          "desc": "一种混搭的可能：英特尔继续供先进工艺，即前端用14A；后端再接台积电，来补工厂运营、良率、封装这些能力。",
+          "source": "量子位",
+          "date": "2026-10-04",
+          "dateLabel": "10月4日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/10/501605.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "585da9204b3b",
+          "title": "最火AI岗位FDE：月薪5万，都干这些…",
+          "desc": "什么是FDE？它会一直存在吗？",
+          "source": "量子位",
+          "date": "2026-10-04",
+          "dateLabel": "10月4日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/10/501506.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "4a53bf9bed56",
+          "title": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
+          "desc": "专业3D模型反而更稀缺了",
+          "source": "量子位",
+          "date": "2026-10-04",
+          "dateLabel": "10月4日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://www.qbitai.com/2026/10/501451.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "f7b9a3bc5042",
+          "title": "OpenAI GPT-6 Astra 破解拿破仑 1809 年密信，揭示 217 年前军事部署",
+          "desc": "IT之家 10 月 4 日消息，一名 AI 研究人员借助 OpenAI GPT-6 Astra 成功破解了一封拿破仑 · 波拿巴写于 1809 年的加密军事信件。这封信此前因密码本遗失，在过去 217 年里始终未能被完整解读。该破解工作由 SentinelOne 员工、AI 工程师卡特 · 丘奇（Carter Church）完成。他表示，他使用 GPT-6 Astra 模型，从一张历史文献扫描图像",
+          "source": "IT之家",
+          "date": "2026-10-04",
+          "dateLabel": "10月4日",
+          "tags": [
+            "model",
+            "research"
+          ],
+          "url": "https://www.ithome.com/1/009/643.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/58ff02ad-3c5e-47a1-a0bb-121a3daef594.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "b966fbeefe6e",
+          "title": "谷歌在英国应诉 12 亿英镑集体诉讼，被指 Play 商店向消费者转嫁高额佣金",
+          "desc": "IT之家 10 月 4 日消息，谷歌即将应诉一桩索赔金额 12 亿英镑（IT之家注：现汇率约合 106.75 亿元人民币）的诉讼。该诉讼指控十余年间，数百万英国安卓手机用户在应用下载业务上一直被多收费用。这也是针对大型科技企业市场势力的又一起法律纠纷。如果开庭前夕未能达成和解，这起由堡垒投资集团（Fortress Investment Group）出资、阿布扎比穆巴达拉（Mubadala）投资部门",
+          "source": "IT之家",
+          "date": "2026-10-04",
+          "dateLabel": "10月4日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/009/641.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/6b511454-e131-49ad-851f-73ba7e322811.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "c09ccd00767a",
+          "title": "余承东：华为半导体已在手机、AI、智能汽车等领域成功设计并量产 381 款 τ 芯片",
+          "desc": "IT之家 10 月 4 日消息，在今年 5 月的 2026 国际电路与系统研讨会上，华为公司董事、半导体业务部总裁何庭波在主旨演讲中首次提出半导体全新演进路径 ——“韬（τ）定律”。华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东今日发布视频，透露华为半导体已经在手机、AI、通用计算、网络、智能汽车等多个领域成功设计并量产了 381 款 τ 芯片。据余承东介绍，过去芯片性能提升主要依",
+          "source": "IT之家",
+          "date": "2026-10-04",
+          "dateLabel": "10月4日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/009/638.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/5/294ad19f-aaff-4ba3-89ea-359bd0bdbabd.jpg?x-bce-process=image/auto-orient,o_1",
+          "color": "#d97706"
+        },
+        {
+          "id": "e0c96346521c",
+          "title": "华为四代 τ 芯片首次集体亮相，余承东详解麒麟 9050 系列首发逻辑折叠技术",
+          "desc": "IT之家 10 月 4 日消息，在 10 月 1 日的华为 Mate 90 系列及全场景新品发布会上，华为年度旗舰 ——Mate 90 系列手机正式发布，全系搭载了韬定律芯片。旗舰 τ 芯片：麒麟 9030（Mate 90）、麒麟 9035（Mate 90 Pro）；逻辑折叠 τ 芯片：麒麟 9050（Mate 90 Pro Max）、麒麟 9050 Pro（Mate 90 Pro Max / R",
+          "source": "IT之家",
+          "date": "2026-10-04",
+          "dateLabel": "10月4日",
+          "tags": [
+            "model",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/009/633.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/a64dda62-cdb1-4288-bfe8-68a0357d9457.jpg?x-bce-process=image/auto-orient,o_1",
+          "color": "#d97706"
+        },
+        {
+          "id": "49899161cfd2",
+          "title": "马斯克旗下 xAI 上诉成功，明尼苏达州 AI 虚假裸照禁令被暂时叫停",
+          "desc": "IT之家 10 月 4 日消息，据路透社报道，埃隆 · 马斯克旗下的 xAI 于当地时间本周五成功说服美国一家联邦上诉法院，叫停明尼苏达州的全美首个 AI 生成虚假裸照禁令。这家科技兼社交媒体企业正在提起诉讼，主张该项州立法律违宪。IT之家注意到，总部设在圣路易斯的美国第八巡回上诉法院下发裁定，应 xAI 的请求颁布临时禁令，暂时搁置该法案的实施。就在上个月，初审法院的法官曾经驳回马斯克一方申请暂",
+          "source": "IT之家",
+          "date": "2026-10-04",
+          "dateLabel": "10月4日",
+          "tags": [
+            "policy"
+          ],
+          "url": "https://www.ithome.com/1/009/631.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2025/11/d8b7c57e-fb56-4450-8abf-fc451bb5336c.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-10-03",
       "dateLabel": "10月3日",
       "id": "d03",
       "items": [
+        {
+          "id": "14be4ea05b51",
+          "title": "DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师",
+          "desc": "岗位JD甩了篇技术报告",
+          "source": "量子位",
+          "date": "2026-10-03",
+          "dateLabel": "10月3日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/10/501381.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
         {
           "id": "73db40be5cb8",
           "title": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
@@ -34,90 +173,31 @@
           "color": "#7c3aed"
         },
         {
-          "id": "4d01c03a7f06",
-          "title": "爱彼迎 Airbnb 民宿房东利用 AI 图片勒索房客要求其支付维修费，后者利用水印检测器成功识破",
-          "desc": "综合外媒 PC Gamer 报道，近期一名用户 FurinaDeFontaine 在 Reddit 平台发文，称自己使用爱彼迎 Airbnb 订民宿退房后，房主用 AI 生成了一张所谓的“马桶漏水”照片，试图向其勒索 1,700 美元（IT之家注：现汇率约合 11,414 元人民币）“维修费”。据 FurinaDeFontaine 介绍，涉事房东据称隶属澳大利亚当地规模较大的一家民宿运营公司，在自",
+          "id": "a65cec39a6fc",
+          "title": "AI 仅用 5 天做出《辐射：纽约》游戏，被贝塞斯达发函叫停",
+          "desc": "IT之家 10 月 4 日消息，眼下玩家群体正在放开手脚使用人工智能，依靠它打造各类全新的融合游戏作品，同时借助重编译突破老游戏原有的限制。不过这股风潮或许即将迎来来自 IP 持有企业更强的阻力。据IT之家了解，《辐射：纽约》是一款完全依靠 Claude Opus 5.5 生成代码制作的浏览器游戏。制作者克里斯弗斯特（Chrisfirst）表示，整个开发过程只花了五天，全部内容都由代码生成。这款游",
+          "source": "IT之家",
+          "date": "2026-10-03",
+          "dateLabel": "10月3日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://www.ithome.com/1/009/595.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/f1d24454-200d-432f-b5b8-ef263a88aba6.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "54879461c961",
+          "title": "微软承认 Win11 26H2 更新后会导致部分游戏和应用崩溃，KB5124010 存在音频解码问题",
+          "desc": "IT之家 10 月 4 日消息，微软已确认，2026 年 9 月的可选更新 KB5124010 会导致部分依赖系统内置 AC-3（杜比数字）音频解码的应用和游戏崩溃。据 Windows Report 报道，该问题影响 Windows 11 24H2、25H2 和 26H2 三个版本，微软表示正在开发修复程序，计划通过未来的 Windows 更新推送。根据微软官方文档的描述，该 Bug 的表现因应用",
           "source": "IT之家",
           "date": "2026-10-03",
           "dateLabel": "10月3日",
           "tags": [
             "business"
           ],
-          "url": "https://www.ithome.com/1/009/473.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/df41ea2a-45c1-4d03-beda-580a107e21b2.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "cacceeb828ad",
-          "title": "前索尼 PlayStation 负责人莱登喊话微软 XBOX CEO 夏尔马：现在就是你们的 Dreamcast 时刻",
-          "desc": "IT之家 10 月 3 日消息，据外媒 Eurogamer 今天（3 日）报道，前索尼 PlayStation 负责人肖恩 · 莱登认为，XBOX 需要尽快明确自己的定位：究竟继续做需要独占游戏支撑的主机平台，还是凭借动视暴雪等业务转向大型游戏发行商。无论选择哪条路，都不能再在独占策略上反复摇摆。本世代 XBOX Series X|S 销量持续下滑，微软对第一方游戏的独占政策也几经变化。菲尔 · ",
-          "source": "IT之家",
-          "date": "2026-10-03",
-          "dateLabel": "10月3日",
-          "tags": [
-            "policy"
-          ],
-          "url": "https://www.ithome.com/1/009/455.htm",
-          "image": "",
-          "color": "#d97706"
-        },
-        {
-          "id": "fbc6e918ad7c",
-          "title": "“争气机”换更强“争气芯”：全系韬芯片之华为 Mate 90 发布，央视报道称走出世界半导体的新路",
-          "desc": "IT之家 10 月 3 日消息，在 10 月 1 日的华为 Mate 90 系列及全场景新品发布会上，华为年度旗舰 ——Mate 90 系列手机正式发布，全系搭载了韬定律芯片。旗舰 τ 芯片：麒麟 9030（Mate 90）、麒麟 9035（Mate 90 Pro）；逻辑折叠 τ 芯片：麒麟 9050（Mate 90 Pro Max）、麒麟 9050 Pro（Mate 90 Pro Max / R",
-          "source": "IT之家",
-          "date": "2026-10-03",
-          "dateLabel": "10月3日",
-          "tags": [
-            "model",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/009/451.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/a64dda62-cdb1-4288-bfe8-68a0357d9457.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "794d7152683d",
-          "title": "GOG 喜加一：Roguelike 铁路经营模拟游戏《Bounty Train》免费领",
-          "desc": "IT之家 10 月 3 日消息，GOG 平台现已开启新一轮限时免费“喜加一”活动，玩家可以在北京时间 2026 年 10 月 5 日 21:00 前免费领取 Roguelike 铁路经营模拟游戏《Bounty Train（赏金列车）》，本作提供简体中文界面 / 字幕。IT之家附领取地址（https://www.gog.com/en/game/bounty_train）。公开信息显示，《Bounty",
-          "source": "IT之家",
-          "date": "2026-10-03",
-          "dateLabel": "10月3日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/009/448.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/4eaf90fa-f74e-4e96-9a85-23da6adb4a84.png",
-          "color": "#d97706"
-        },
-        {
-          "id": "69f7f8c10f52",
-          "title": "HPE 获得其首笔 AMD \"Helios\" AI 机架订单，价值 12 亿美元",
-          "desc": "IT之家 10 月 3 日消息，HPE（慧与）当地时间 9 月 30 日宣布获得该企业首笔 AMD \"Helios\" AI 机架系统订单。这笔价值 12 亿美元（IT之家注：现汇率约合 80.57 亿元人民币）的订单由私有云基础设施企业 Vultr 下达。Vultr 是 Juniper Networks（瞻博网络）的合作伙伴。而在 HPE 收购 Juniper Networks 后，这份关系也得到",
-          "source": "IT之家",
-          "date": "2026-10-03",
-          "dateLabel": "10月3日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/009/446.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/0d66ae03-3eb2-41c7-a4d4-497243bfceaf.jpg",
-          "color": "#d97706"
-        },
-        {
-          "id": "54c422aa26f0",
-          "title": "佳能 EOS R7 V 曝光：专用视频 APS-C 画幅相机，预估 2027 年底发布",
-          "desc": "IT之家 10 月 3 日消息，科技媒体 dailycameranews 昨日（10 月 2 日）发布博文，报道称佳能拟将旗舰 APS-C 产品线拆分为照片与视频两条路线，其中专用视频机型 EOS R7 V 预计于 2027 年底或 2028 年初发布。IT之家援引博文介绍，佳能计划将旗舰 APS-C 无反产品线细分为两条路线。一款为以高速连拍为核心的 EOS R7 Mark II，另一款为专用视",
-          "source": "IT之家",
-          "date": "2026-10-03",
-          "dateLabel": "10月3日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/009/445.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/715ded86-4d58-4ff2-8c7d-78d1adf2f4b1.png",
+          "url": "https://www.ithome.com/1/009/593.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/a500738d-eb94-4cad-9a8d-0534ebeba398.jpg?x-bce-process=image/format,f_auto",
           "color": "#d97706"
         }
       ]
@@ -188,21 +268,6 @@
             "research"
           ],
           "url": "https://www.qbitai.com/2026/10/499812.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "a176bc8721d5",
-          "title": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
-          "desc": "价格只有Astra一半",
-          "source": "量子位",
-          "date": "2026-10-01",
-          "dateLabel": "10月1日",
-          "tags": [
-            "model",
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/10/499663.html",
           "image": "",
           "color": "#7c3aed"
         }
@@ -2010,114 +2075,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-08-31",
-      "dateLabel": "8月31日",
-      "id": "d31",
-      "items": [
-        {
-          "id": "909418f1f273",
-          "title": "VC疯了！200万现金冠军奖，又花4000万造了一座AI「创业乌托邦」",
-          "desc": "划重点：这次不是你挨家敲门，是VC排队来看你。",
-          "source": "量子位",
-          "date": "2026-08-31",
-          "dateLabel": "8月31日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/08/481928.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "e807262208a1",
-          "title": "滴滴自动驾驶新一代车型开启载客测试服务",
-          "desc": "近期，滴滴自动驾驶新一代 Robotaxi R2正式开启无人载客测试服务",
-          "source": "量子位",
-          "date": "2026-08-31",
-          "dateLabel": "8月31日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/08/481923.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "1b18b92e7617",
-          "title": "范式与华为达成重磅算力战略合作，成为首批拥抱国产最高端算力底座的AI企业",
-          "desc": "范式与华为达成重磅算力战略合作，成为首批拥抱国产最高端算力底座的AI企业",
-          "source": "量子位",
-          "date": "2026-08-31",
-          "dateLabel": "8月31日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/08/481919.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "f8d3c72e378e",
-          "title": "「GPT-6」灰测demo刷屏！周四发布在即",
-          "desc": "核弹爆炸",
-          "source": "量子位",
-          "date": "2026-08-31",
-          "dateLabel": "8月31日",
-          "tags": [
-            "model",
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/08/481893.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "5731c188ad58",
-          "title": "OpenAI买几万台Mac搞强化训练！英伟达的活被苹果抢了",
-          "desc": "什么样的AI业务，英伟达GPU和谷歌TPU搞不定，非得用Mac",
-          "source": "量子位",
-          "date": "2026-08-31",
-          "dateLabel": "8月31日",
-          "tags": [
-            "research",
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/08/481759.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "12c4fdfc7dd1",
-          "title": "全国第三，公司第二，“初创黑马”灵犀智涌用ROSS Harness把机器人送进工业具身智能第一梯队",
-          "desc": "灵犀智涌用一台由Demo级本体组装而成的机器人，成为工业场景赛除行业头部企业外唯一获奖的机器人公司。",
-          "source": "量子位",
-          "date": "2026-08-31",
-          "dateLabel": "8月31日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://www.qbitai.com/2026/08/481750.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "ef24072af190",
-          "title": "AQuA：让量化研究 Agent 持续进化，也让回测结果经得起检验",
-          "desc": "自主研究系统的上限，不只取决于模型有多聪明，也取决于系统能否分辨什么是新证据，什么只是一次偶然的高分。",
-          "source": "量子位",
-          "date": "2026-08-31",
-          "dateLabel": "8月31日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://www.qbitai.com/2026/08/481475.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -2143,6 +2100,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-10-03 15:34",
-  "totalNews": 129
+  "updateTime": "2026-10-04 15:45",
+  "totalNews": 126
 }
