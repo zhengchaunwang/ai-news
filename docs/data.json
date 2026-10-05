@@ -1,6 +1,127 @@
 {
   "newsData": [
     {
+      "date": "2026-10-05",
+      "dateLabel": "10月5日",
+      "id": "d05",
+      "items": [
+        {
+          "id": "13bc54a5bf32",
+          "title": "刚刚，Hinton发了首篇RSI论文",
+          "desc": "AI已经开始真正进入「造下一代AI」的流水线",
+          "source": "量子位",
+          "date": "2026-10-05",
+          "dateLabel": "10月5日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.qbitai.com/2026/10/501705.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "fbd8dea09a15",
+          "title": "限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus",
+          "desc": "有改进就体验，没改进就重置，横竖不亏。",
+          "source": "量子位",
+          "date": "2026-10-05",
+          "dateLabel": "10月5日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/10/501700.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "03cfea1fc41c",
+          "title": "开发者自制 ForceWare 382.69 非官方驱动，让 32 位 Windows XP 系统支持英伟达 GTX 10 系 Pascal 架构显卡",
+          "desc": "IT之家 10 月 5 日消息，据外媒 Tweaktown 报道，一款名为 ForceWare 382.69 的非官方驱动近日引发业界关注，该驱动可以让 32 位 Windows XP 系统支持包括英伟达 GeForce GTX 1080 Ti 在内的 Pascal 架构显卡。IT之家获悉，该驱动由开发者 SupraGSX 设计，其基于英伟达 ForceWare 368.81 驱动进行了修改，并将",
+          "source": "IT之家",
+          "date": "2026-10-05",
+          "dateLabel": "10月5日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.ithome.com/1/009/832.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/12b2cb8b-e769-44ee-8379-df5043034f57.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "62e0e1d7505e",
+          "title": "映众推出 AGS-6220V2 双路服务器：6U 机架，提供 8 条 PCIe 插槽",
+          "desc": "IT之家 10 月 5 日消息，映众 (INNO3D) 今日宣布推出 GPU 服务器 AGS-6220V2。其采用机架式部署设计，高度达到 6U，支持 2 颗第五代英特尔至强处理器 \"Emeralds Rapid SP\"。AGS-6220V2 上的每颗处理器均支持 8 通道 2DPC 内存，共有 32 条 RDIMM 插槽。其整机提供 8 条 PCIe Gen5 ×16 插槽、2 个 25GbE ",
+          "source": "IT之家",
+          "date": "2026-10-05",
+          "dateLabel": "10月5日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/009/824.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/1a258619-1162-4d72-ac7d-3a0e5bda8843.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "b5c9ea3a8af0",
+          "title": "爱好者自制天气时钟：基于 Freenove FNK0103S 开发板、可选装人在传感器",
+          "desc": "IT之家 10 月 5 日消息，据外媒 XDA 报道，一位爱好者 sudu1988 在 Reddit 发帖，展示了自己打造的天气时钟，该机可以从 Open-Meteo 获取天气数据，并显示当前时间、实时天气以及未来天气预报。硬件方面，该机基于 Freenove FNK0103S 开发板，搭载 ESP32-WROOM-32E 芯片，并配备一块 4 英寸 ST7796 显示屏和 XPT2046 电阻式",
+          "source": "IT之家",
+          "date": "2026-10-05",
+          "dateLabel": "10月5日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/009/819.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/0352b283-d290-48b6-9811-66ac81f0d23a.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "4579ad42da4e",
+          "title": "消息某厂商 2 亿像素三摄旗舰机被砍，预计为小米 18 Ultra",
+          "desc": "IT之家 10 月 5 日消息，博主 @数码闲聊站 发文，曝光了一款未能量产的旗舰手机，该机计划采用 1mm 级四等边直屏、配备三颗 2 亿像素摄像头（包括 1/1.12 英寸 LOFIC 主摄、1/1.56 英寸超广角，以及 1/1.28 英寸 LOFIC 连续光学变焦潜望长焦），搭载高端旗舰芯片，跑分超过 500 万。还规划了多光谱镜头、磁吸外接镜头、0916 马达以及对称式双扬声器等配置。但",
+          "source": "IT之家",
+          "date": "2026-10-05",
+          "dateLabel": "10月5日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/009/815.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/2c8e4cf8-0b1a-4506-b842-2f3e6fad8dfe.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "ca12c93c15f7",
+          "title": "圆刚推出 AI 降噪麦克风 A113，工作温度范围达 -25℃ 至 +60℃",
+          "desc": "IT之家 10 月 5 日消息，圆刚 (AVerMedia) 近日推出了 AIClear Mic (A113) 麦克风。这一型号面向工业应用，工作温度范围达 -25℃ 至 +60℃、存放温度范围达 -40℃ 至 +85℃。AIClear Mic 支持人工智能驱动的降噪功能，可为边缘应用清除音频环境中的环境噪声，使语音识别准确率提升 60% 以上。而在声纹认证场景中，该功能也能提高身份验证的准确性。",
+          "source": "IT之家",
+          "date": "2026-10-05",
+          "dateLabel": "10月5日",
+          "tags": [
+            "policy"
+          ],
+          "url": "https://www.ithome.com/1/009/811.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/864f4b7f-1cea-4a54-be89-afbd795063fe.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "11f01d592aa7",
+          "title": "台达将基于英伟达 Hyperion 平台开发下一代自动驾驶技术",
+          "desc": "IT之家 10 月 5 日消息，台达 (Delta) 上月末宣布将与 NVIDIA（英伟达）合作，利用 NVIDIA Hyperion 平台加速下代智能、高效、安全自动驾驶系统的开发。此番合作结合了 NVIDIA Hyperion 平台、Halos 安全系统，以及台达在汽车能源管理、电动汽车动力系统、车载高性能计算方面的丰富专业知识，有望加强两家公司在自动驾驶领域的协同效应。负责出行业务的台达执行",
+          "source": "IT之家",
+          "date": "2026-10-05",
+          "dateLabel": "10月5日",
+          "tags": [
+            "business",
+            "policy"
+          ],
+          "url": "https://www.ithome.com/1/009/808.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/83544903-c287-40e9-89ac-c3837036f1b4.jpg",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-10-04",
       "dateLabel": "10月4日",
       "id": "d04",
@@ -47,80 +168,6 @@
           "url": "https://www.qbitai.com/2026/10/501451.html",
           "image": "",
           "color": "#7c3aed"
-        },
-        {
-          "id": "f7b9a3bc5042",
-          "title": "OpenAI GPT-6 Astra 破解拿破仑 1809 年密信，揭示 217 年前军事部署",
-          "desc": "IT之家 10 月 4 日消息，一名 AI 研究人员借助 OpenAI GPT-6 Astra 成功破解了一封拿破仑 · 波拿巴写于 1809 年的加密军事信件。这封信此前因密码本遗失，在过去 217 年里始终未能被完整解读。该破解工作由 SentinelOne 员工、AI 工程师卡特 · 丘奇（Carter Church）完成。他表示，他使用 GPT-6 Astra 模型，从一张历史文献扫描图像",
-          "source": "IT之家",
-          "date": "2026-10-04",
-          "dateLabel": "10月4日",
-          "tags": [
-            "model",
-            "research"
-          ],
-          "url": "https://www.ithome.com/1/009/643.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/58ff02ad-3c5e-47a1-a0bb-121a3daef594.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "b966fbeefe6e",
-          "title": "谷歌在英国应诉 12 亿英镑集体诉讼，被指 Play 商店向消费者转嫁高额佣金",
-          "desc": "IT之家 10 月 4 日消息，谷歌即将应诉一桩索赔金额 12 亿英镑（IT之家注：现汇率约合 106.75 亿元人民币）的诉讼。该诉讼指控十余年间，数百万英国安卓手机用户在应用下载业务上一直被多收费用。这也是针对大型科技企业市场势力的又一起法律纠纷。如果开庭前夕未能达成和解，这起由堡垒投资集团（Fortress Investment Group）出资、阿布扎比穆巴达拉（Mubadala）投资部门",
-          "source": "IT之家",
-          "date": "2026-10-04",
-          "dateLabel": "10月4日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/009/641.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/6b511454-e131-49ad-851f-73ba7e322811.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "c09ccd00767a",
-          "title": "余承东：华为半导体已在手机、AI、智能汽车等领域成功设计并量产 381 款 τ 芯片",
-          "desc": "IT之家 10 月 4 日消息，在今年 5 月的 2026 国际电路与系统研讨会上，华为公司董事、半导体业务部总裁何庭波在主旨演讲中首次提出半导体全新演进路径 ——“韬（τ）定律”。华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东今日发布视频，透露华为半导体已经在手机、AI、通用计算、网络、智能汽车等多个领域成功设计并量产了 381 款 τ 芯片。据余承东介绍，过去芯片性能提升主要依",
-          "source": "IT之家",
-          "date": "2026-10-04",
-          "dateLabel": "10月4日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/009/638.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/5/294ad19f-aaff-4ba3-89ea-359bd0bdbabd.jpg?x-bce-process=image/auto-orient,o_1",
-          "color": "#d97706"
-        },
-        {
-          "id": "e0c96346521c",
-          "title": "华为四代 τ 芯片首次集体亮相，余承东详解麒麟 9050 系列首发逻辑折叠技术",
-          "desc": "IT之家 10 月 4 日消息，在 10 月 1 日的华为 Mate 90 系列及全场景新品发布会上，华为年度旗舰 ——Mate 90 系列手机正式发布，全系搭载了韬定律芯片。旗舰 τ 芯片：麒麟 9030（Mate 90）、麒麟 9035（Mate 90 Pro）；逻辑折叠 τ 芯片：麒麟 9050（Mate 90 Pro Max）、麒麟 9050 Pro（Mate 90 Pro Max / R",
-          "source": "IT之家",
-          "date": "2026-10-04",
-          "dateLabel": "10月4日",
-          "tags": [
-            "model",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/009/633.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/a64dda62-cdb1-4288-bfe8-68a0357d9457.jpg?x-bce-process=image/auto-orient,o_1",
-          "color": "#d97706"
-        },
-        {
-          "id": "49899161cfd2",
-          "title": "马斯克旗下 xAI 上诉成功，明尼苏达州 AI 虚假裸照禁令被暂时叫停",
-          "desc": "IT之家 10 月 4 日消息，据路透社报道，埃隆 · 马斯克旗下的 xAI 于当地时间本周五成功说服美国一家联邦上诉法院，叫停明尼苏达州的全美首个 AI 生成虚假裸照禁令。这家科技兼社交媒体企业正在提起诉讼，主张该项州立法律违宪。IT之家注意到，总部设在圣路易斯的美国第八巡回上诉法院下发裁定，应 xAI 的请求颁布临时禁令，暂时搁置该法案的实施。就在上个月，初审法院的法官曾经驳回马斯克一方申请暂",
-          "source": "IT之家",
-          "date": "2026-10-04",
-          "dateLabel": "10月4日",
-          "tags": [
-            "policy"
-          ],
-          "url": "https://www.ithome.com/1/009/631.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2025/11/d8b7c57e-fb56-4450-8abf-fc451bb5336c.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
         }
       ]
     },
@@ -171,34 +218,6 @@
           "url": "https://www.qbitai.com/2026/10/500148.html",
           "image": "",
           "color": "#7c3aed"
-        },
-        {
-          "id": "a65cec39a6fc",
-          "title": "AI 仅用 5 天做出《辐射：纽约》游戏，被贝塞斯达发函叫停",
-          "desc": "IT之家 10 月 4 日消息，眼下玩家群体正在放开手脚使用人工智能，依靠它打造各类全新的融合游戏作品，同时借助重编译突破老游戏原有的限制。不过这股风潮或许即将迎来来自 IP 持有企业更强的阻力。据IT之家了解，《辐射：纽约》是一款完全依靠 Claude Opus 5.5 生成代码制作的浏览器游戏。制作者克里斯弗斯特（Chrisfirst）表示，整个开发过程只花了五天，全部内容都由代码生成。这款游",
-          "source": "IT之家",
-          "date": "2026-10-03",
-          "dateLabel": "10月3日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://www.ithome.com/1/009/595.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/f1d24454-200d-432f-b5b8-ef263a88aba6.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "54879461c961",
-          "title": "微软承认 Win11 26H2 更新后会导致部分游戏和应用崩溃，KB5124010 存在音频解码问题",
-          "desc": "IT之家 10 月 4 日消息，微软已确认，2026 年 9 月的可选更新 KB5124010 会导致部分依赖系统内置 AC-3（杜比数字）音频解码的应用和游戏崩溃。据 Windows Report 报道，该问题影响 Windows 11 24H2、25H2 和 26H2 三个版本，微软表示正在开发修复程序，计划通过未来的 Windows 更新推送。根据微软官方文档的描述，该 Bug 的表现因应用",
-          "source": "IT之家",
-          "date": "2026-10-03",
-          "dateLabel": "10月3日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/009/593.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/a500738d-eb94-4cad-9a8d-0534ebeba398.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
         }
       ]
     },
@@ -233,20 +252,6 @@
             "research"
           ],
           "url": "https://www.qbitai.com/2026/10/499991.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "556a133957a6",
-          "title": "arXiv最严新规！每人每月最多提交2篇，拒稿不退额度",
-          "desc": "换区也没用",
-          "source": "量子位",
-          "date": "2026-10-02",
-          "dateLabel": "10月2日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://www.qbitai.com/2026/10/499958.html",
           "image": "",
           "color": "#7c3aed"
         }
@@ -1997,84 +2002,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-09-01",
-      "dateLabel": "9月1日",
-      "id": "d01",
-      "items": [
-        {
-          "id": "09b255a10576",
-          "title": "3秒出片比播放还快，MiniMax打开了AI视频的实时商业化路径",
-          "desc": "3秒出片比播放还快，MiniMax打开了AI视频的实时商业化路径",
-          "source": "量子位",
-          "date": "2026-09-01",
-          "dateLabel": "9月1日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/09/482512.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "14834a0c514c",
-          "title": "GitHub最热架构图Agent，开发者故事看哭了",
-          "desc": "美观且支持实时更新的架构图，也能用AI一键生成了！",
-          "source": "量子位",
-          "date": "2026-09-01",
-          "dateLabel": "9月1日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://www.qbitai.com/2026/09/482469.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "208ed80c0f99",
-          "title": "急急急用电！马斯克开造燃气轮机叶片",
-          "desc": "SpaceX正在德克萨斯州筹备燃气轮机叶片铸造工厂",
-          "source": "量子位",
-          "date": "2026-09-01",
-          "dateLabel": "9月1日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/09/482451.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "9c8b127665ab",
-          "title": "A社化身A割！Claude官宣永久提额25%，结果到手反而少17%",
-          "desc": "主打一个明升暗降，理直气壮",
-          "source": "量子位",
-          "date": "2026-09-01",
-          "dateLabel": "9月1日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://www.qbitai.com/2026/09/482406.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "39bb2a9371b1",
-          "title": "自进化WAM来了！清华AIR联手域变换提出具身In-Context Causal Learning",
-          "desc": "参数冻结，能力暴涨",
-          "source": "量子位",
-          "date": "2026-09-01",
-          "dateLabel": "9月1日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/09/482337.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -2100,6 +2027,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-10-04 15:45",
-  "totalNews": 126
+  "updateTime": "2026-10-05 16:19",
+  "totalNews": 121
 }
