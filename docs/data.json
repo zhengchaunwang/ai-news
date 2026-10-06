@@ -1,10 +1,146 @@
 {
   "newsData": [
     {
+      "date": "2026-10-06",
+      "dateLabel": "10月6日",
+      "id": "d06",
+      "items": [
+        {
+          "id": "3eed14d7b96e",
+          "title": "OpenAI「疯狂28天」首日，这都发了些啥啊…",
+          "desc": "OpenAI「疯狂28天」首日，这都发了些啥啊…",
+          "source": "量子位",
+          "date": "2026-10-06",
+          "dateLabel": "10月6日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/10/501726.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "08ff474e63f7",
+          "title": "微软 OneDrive 18.11.2 测试版发布，下个版本不再支持苹果 iOS / iPadOS 18 系统",
+          "desc": "IT之家 10 月 6 日消息，微软现已通过 TestFlight 分发 OneDrive 18.11.2 测试版。官方在更新日志中提醒，18.12.1 将是最后一个支持苹果 iOS / iPadOS 18 系统的版本，下个版本仅支持 iOS / iPadOS 26/27 系统。IT之家了解到，微软 OneDrive 可以在所有设备上备份、保护、同步和访问用户的照片和文件。通过 OneDrive ",
+          "source": "IT之家",
+          "date": "2026-10-06",
+          "dateLabel": "10月6日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/010/011.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/577fdc48-16dd-453f-b319-8fb7b63fea7a.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "721f21e2420f",
+          "title": "消息称 Meta 和微软要求员工减少使用 Claude，多用自家 AI 节省成本",
+          "desc": "IT之家 10 月 6 日消息，据 The Information 报道，Meta 与微软已要求员工减少使用 Anthropic 旗下的 AI 模型 Claude 以削减成本，并要求员工更多使用自研 AI 工具。据悉，微软高层在今年早些时候曾预计，公司内部使用 Anthropic AI 的年支出将至少达到 10 亿美元（IT之家注：现汇率约合 67.14 亿元人民币）。随后，微软要求员工减少对 C",
+          "source": "IT之家",
+          "date": "2026-10-06",
+          "dateLabel": "10月6日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://www.ithome.com/1/010/010.htm",
+          "image": "",
+          "color": "#d97706"
+        },
+        {
+          "id": "aef8344fed86",
+          "title": "OPPO 推出 F35 5G 系列手机：8000mAh 电池，天玑 6360 Max/7360 Max 芯片",
+          "desc": "IT之家 10 月 6 日消息，OPPO 现已在印度市场推出 F35 5G/F35 Pro 5G 手机，新品定位中低端市场，采用 8000mAh 大电池，以及天玑 6360 Max/7360 Max 芯片，起售价为 38,999 卢比（IT之家注：现汇率约合 2,725 元人民币）。据介绍，OPPO F35 5G 手机搭载 6.57 英寸 AMOLED 屏幕，分辨率为 2372×1080，支持 1",
+          "source": "IT之家",
+          "date": "2026-10-06",
+          "dateLabel": "10月6日",
+          "tags": [
+            "model",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/010/007.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/009728b1-b37b-4af5-b2ed-f475232b2466.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "82c5af049d06",
+          "title": "OpenAI 与 Anthropic 向澳大利亚表态：支持出台数据泄露相关监管法规",
+          "desc": "IT之家 10 月 6 日消息，据路透社报道，OpenAI 与 Anthropic 于周二向澳大利亚议会表态，支持出台相关法规，强制要求企业通报其 AI 智能体所造成的数据泄露事件。两家机构同时坦承，目前是否通知监管当局完全由企业自主决定。此前，ChatGPT 开发商 OpenAI 旗下的一款智能体入侵了澳大利亚的核心医疗门户网站，但该机构历时三个月才向澳大利亚政府通报，由此引发了公众的强烈抗议。",
+          "source": "IT之家",
+          "date": "2026-10-06",
+          "dateLabel": "10月6日",
+          "tags": [
+            "model",
+            "policy"
+          ],
+          "url": "https://www.ithome.com/1/010/003.htm",
+          "image": "",
+          "color": "#d97706"
+        },
+        {
+          "id": "cabb11652b12",
+          "title": "谷歌 Googlebook 笔记本解锁 BL 指南上线后，Magisk 确认适配",
+          "desc": "IT之家 10 月 6 日消息，首批谷歌 Googlebook 笔记本已经于前两天在美国市场上市，宏碁、华硕、联想、惠普、戴尔等厂商均有推出对应机型。这些笔记本运行 Googlebook OS 操作系统，融合了 Android 的软件和 ChromeOS 桌面特性，支持运行完整版 Chrome 浏览器并提供独立 Linux 环境。如今，谷歌已经在官网给出了 Googlebook 的解锁 Bootl",
+          "source": "IT之家",
+          "date": "2026-10-06",
+          "dateLabel": "10月6日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/010/002.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/026c4686-feb3-4a61-82b0-d4a85fd47568.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "8c735c66bfc4",
+          "title": "索尼音乐 9 月要求下架 26 万首 AI 伪造歌曲：阿黛尔等艺人被冒充，请求量较 3 月近乎翻倍",
+          "desc": "IT之家 10 月 6 日消息，金融时报（FT）昨日（10 月 5 日）发布博文，报道称索尼音乐已要求各数字平台删除超过 26 万首冒充其旗下艺人的 AI 生成曲目。在数量方面，报道称是索尼音乐娱乐公司（Sony Music Entertainment）要求流媒体平台在 9 月底前下架超过 26 万首歌曲，这一数字几乎是 3 月底 13.5 万首的两倍。索尼表示，这些曲目利用生成式 AI 深度伪造",
+          "source": "IT之家",
+          "date": "2026-10-06",
+          "dateLabel": "10月6日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/010/001.htm",
+          "image": "",
+          "color": "#d97706"
+        },
+        {
+          "id": "b3d8c0869dd2",
+          "title": "韩国拟推 4.7 万亿韩元专项计划，明年 3 月起研发前沿 AI 大模型",
+          "desc": "IT之家 10 月 6 日消息，据路透社报道，韩国科学技术信息通信部表示，韩国拟推出一项总规模 4.7 万亿韩元（IT之家注：现汇率约合 233.03 亿元人民币）的专项计划，自 2027 年 3 月起研发前沿人工智能大模型。首尔方面希望借此在尖端 AI 的全球竞争当中争取一席之地。韩国科学技术信息通信部称，待韩国国会于 12 月审议通过 2027 财年预算之后，政府将通过竞争性招标遴选本项目的牵",
+          "source": "IT之家",
+          "date": "2026-10-06",
+          "dateLabel": "10月6日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://www.ithome.com/1/010/000.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2025/11/62b5ea8d-908b-4cef-8fe9-837cb9190d66.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-10-05",
       "dateLabel": "10月5日",
       "id": "d05",
       "items": [
+        {
+          "id": "3d373331a1b2",
+          "title": "刚刚，诺贝尔奖颁给光遗传学！",
+          "desc": "从绿藻里的光开关，到控制神经元",
+          "source": "量子位",
+          "date": "2026-10-05",
+          "dateLabel": "10月5日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/10/501720.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
         {
           "id": "13bc54a5bf32",
           "title": "刚刚，Hinton发了首篇RSI论文",
@@ -32,92 +168,6 @@
           "url": "https://www.qbitai.com/2026/10/501700.html",
           "image": "",
           "color": "#7c3aed"
-        },
-        {
-          "id": "03cfea1fc41c",
-          "title": "开发者自制 ForceWare 382.69 非官方驱动，让 32 位 Windows XP 系统支持英伟达 GTX 10 系 Pascal 架构显卡",
-          "desc": "IT之家 10 月 5 日消息，据外媒 Tweaktown 报道，一款名为 ForceWare 382.69 的非官方驱动近日引发业界关注，该驱动可以让 32 位 Windows XP 系统支持包括英伟达 GeForce GTX 1080 Ti 在内的 Pascal 架构显卡。IT之家获悉，该驱动由开发者 SupraGSX 设计，其基于英伟达 ForceWare 368.81 驱动进行了修改，并将",
-          "source": "IT之家",
-          "date": "2026-10-05",
-          "dateLabel": "10月5日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://www.ithome.com/1/009/832.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/12b2cb8b-e769-44ee-8379-df5043034f57.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "62e0e1d7505e",
-          "title": "映众推出 AGS-6220V2 双路服务器：6U 机架，提供 8 条 PCIe 插槽",
-          "desc": "IT之家 10 月 5 日消息，映众 (INNO3D) 今日宣布推出 GPU 服务器 AGS-6220V2。其采用机架式部署设计，高度达到 6U，支持 2 颗第五代英特尔至强处理器 \"Emeralds Rapid SP\"。AGS-6220V2 上的每颗处理器均支持 8 通道 2DPC 内存，共有 32 条 RDIMM 插槽。其整机提供 8 条 PCIe Gen5 ×16 插槽、2 个 25GbE ",
-          "source": "IT之家",
-          "date": "2026-10-05",
-          "dateLabel": "10月5日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/009/824.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/1a258619-1162-4d72-ac7d-3a0e5bda8843.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "b5c9ea3a8af0",
-          "title": "爱好者自制天气时钟：基于 Freenove FNK0103S 开发板、可选装人在传感器",
-          "desc": "IT之家 10 月 5 日消息，据外媒 XDA 报道，一位爱好者 sudu1988 在 Reddit 发帖，展示了自己打造的天气时钟，该机可以从 Open-Meteo 获取天气数据，并显示当前时间、实时天气以及未来天气预报。硬件方面，该机基于 Freenove FNK0103S 开发板，搭载 ESP32-WROOM-32E 芯片，并配备一块 4 英寸 ST7796 显示屏和 XPT2046 电阻式",
-          "source": "IT之家",
-          "date": "2026-10-05",
-          "dateLabel": "10月5日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/009/819.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/0352b283-d290-48b6-9811-66ac81f0d23a.png",
-          "color": "#d97706"
-        },
-        {
-          "id": "4579ad42da4e",
-          "title": "消息某厂商 2 亿像素三摄旗舰机被砍，预计为小米 18 Ultra",
-          "desc": "IT之家 10 月 5 日消息，博主 @数码闲聊站 发文，曝光了一款未能量产的旗舰手机，该机计划采用 1mm 级四等边直屏、配备三颗 2 亿像素摄像头（包括 1/1.12 英寸 LOFIC 主摄、1/1.56 英寸超广角，以及 1/1.28 英寸 LOFIC 连续光学变焦潜望长焦），搭载高端旗舰芯片，跑分超过 500 万。还规划了多光谱镜头、磁吸外接镜头、0916 马达以及对称式双扬声器等配置。但",
-          "source": "IT之家",
-          "date": "2026-10-05",
-          "dateLabel": "10月5日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/009/815.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/2c8e4cf8-0b1a-4506-b842-2f3e6fad8dfe.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "ca12c93c15f7",
-          "title": "圆刚推出 AI 降噪麦克风 A113，工作温度范围达 -25℃ 至 +60℃",
-          "desc": "IT之家 10 月 5 日消息，圆刚 (AVerMedia) 近日推出了 AIClear Mic (A113) 麦克风。这一型号面向工业应用，工作温度范围达 -25℃ 至 +60℃、存放温度范围达 -40℃ 至 +85℃。AIClear Mic 支持人工智能驱动的降噪功能，可为边缘应用清除音频环境中的环境噪声，使语音识别准确率提升 60% 以上。而在声纹认证场景中，该功能也能提高身份验证的准确性。",
-          "source": "IT之家",
-          "date": "2026-10-05",
-          "dateLabel": "10月5日",
-          "tags": [
-            "policy"
-          ],
-          "url": "https://www.ithome.com/1/009/811.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/864f4b7f-1cea-4a54-be89-afbd795063fe.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "11f01d592aa7",
-          "title": "台达将基于英伟达 Hyperion 平台开发下一代自动驾驶技术",
-          "desc": "IT之家 10 月 5 日消息，台达 (Delta) 上月末宣布将与 NVIDIA（英伟达）合作，利用 NVIDIA Hyperion 平台加速下代智能、高效、安全自动驾驶系统的开发。此番合作结合了 NVIDIA Hyperion 平台、Halos 安全系统，以及台达在汽车能源管理、电动汽车动力系统、车载高性能计算方面的丰富专业知识，有望加强两家公司在自动驾驶领域的协同效应。负责出行业务的台达执行",
-          "source": "IT之家",
-          "date": "2026-10-05",
-          "dateLabel": "10月5日",
-          "tags": [
-            "business",
-            "policy"
-          ],
-          "url": "https://www.ithome.com/1/009/808.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/83544903-c287-40e9-89ac-c3837036f1b4.jpg",
-          "color": "#d97706"
         }
       ]
     },
@@ -1905,103 +1955,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-09-02",
-      "dateLabel": "9月2日",
-      "id": "d02",
-      "items": [
-        {
-          "id": "abf996569494",
-          "title": "SkyProduction天工工作台：从剧本到成片，一套工作台把精品短剧创作真正跑起来",
-          "desc": "SkyProduction（天工工作台）全新版本于8月31日正式上线",
-          "source": "量子位",
-          "date": "2026-09-02",
-          "dateLabel": "9月2日",
-          "tags": [
-            "model",
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/09/483274.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "4e334a88e782",
-          "title": "还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍",
-          "desc": "蚂蚁集团推出统一宽表系统OmniTable，论文获评VLDB 2026工业赛道最佳论文",
-          "source": "量子位",
-          "date": "2026-09-02",
-          "dateLabel": "9月2日",
-          "tags": [
-            "model",
-            "research",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/09/483104.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "79d49bc81023",
-          "title": "阿里更新旗舰模型Qwen3.8-Max，前端编程能力跃居全球第一",
-          "desc": "阿里更新旗舰模型Qwen3.8-Max，前端编程能力跃居全球第一",
-          "source": "量子位",
-          "date": "2026-09-02",
-          "dateLabel": "9月2日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/09/483101.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "5fbc7e885461",
-          "title": "前字节强化学习专家孙鹏博士加盟星尘智能，完善Physical AI全栈技术布局",
-          "desc": "9月2日，前字节跳动强化学习专家、前腾讯Robotics X智能体中⼼负责⼈孙鹏博⼠正式加入星尘智能",
-          "source": "量子位",
-          "date": "2026-09-02",
-          "dateLabel": "9月2日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/09/483097.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "fc3d40c8cf43",
-          "title": "企业级Agent落地样板间！百融硅基员工批量上岗，按结果领工资",
-          "desc": "AI客服日扛1.5万通电话",
-          "source": "量子位",
-          "date": "2026-09-02",
-          "dateLabel": "9月2日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/09/482967.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "893c346b4069",
-          "title": "Claude最强Fable 5.1发布！8项屠榜，最高降价45%，反蒸馏机制上线",
-          "desc": "无论你此前让Claude处理什么任务，Fable 5.1都能做更多，并且把最难的部分完成得更出色",
-          "source": "量子位",
-          "date": "2026-09-02",
-          "dateLabel": "9月2日",
-          "tags": [
-            "model",
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/09/482652.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -2027,6 +1980,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-10-05 16:19",
-  "totalNews": 121
+  "updateTime": "2026-10-06 16:33",
+  "totalNews": 118
 }
