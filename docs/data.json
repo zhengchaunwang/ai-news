@@ -1,10 +1,161 @@
 {
   "newsData": [
     {
+      "date": "2026-10-07",
+      "dateLabel": "10月7日",
+      "id": "d07",
+      "items": [
+        {
+          "id": "6211df7bbebf",
+          "title": "Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司",
+          "desc": "在 a16z 首份消费级 AI 应用月收入榜单中，Meshy 位列第 31 名，与 OpenAI、Anthropic、Canva、Superhuman、Higgsfield 等共同上榜",
+          "source": "量子位",
+          "date": "2026-10-07",
+          "dateLabel": "10月7日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/10/501791.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "4a4f63589e04",
+          "title": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
+          "desc": "三位菲尔兹奖得主：不代表认可",
+          "source": "量子位",
+          "date": "2026-10-07",
+          "dateLabel": "10月7日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.qbitai.com/2026/10/501749.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "40ce5fcbe95f",
+          "title": "微软 XBOX CEO 夏尔马透露：XBOX PC 商店已是中国排名第一的 PC 游戏平台",
+          "desc": "IT之家 10 月 7 日消息，据科技媒体 Windows Central 报道，微软 XBOX CEO 阿莎 · 夏尔马（Asha Sharma）今日在内部会议发表全体讲话。她在会上提到，XBOX 部门今年进行大规模重组之前，她们实际处于“自由落体”下滑状态。夏尔马表示，XBOX 需要以正确的方式服务最有价值的玩家，否则 XBOX 没有资格在主机以外的市场继续扩张。她计划继续强化第九世代主机（X",
+          "source": "IT之家",
+          "date": "2026-10-07",
+          "dateLabel": "10月7日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/010/223.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/41161d68-8daa-4262-80bb-448e5f8bd518.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "6de7e3381585",
+          "title": "高通官网发布与华为专利许可协议补充声明：关于该协议与逻辑折叠芯片技术有关的说法不属实",
+          "desc": "IT之家 10 月 7 日消息，华为与高通 10 月 5 日宣布达成一项长期、广泛的专利许可协议，该协议包含双方在 5G、计算、人工智能、网络等多个技术领域的专利组合交叉许可，同时高通将收购华为在计算、人工智能、网络及其他技术领域的部分美国专利。随后彭博社报道称，高通公司已获得支撑华为逻辑折叠芯片制造技术的专利许可。这一消息引发网络热议。10 月 6 日，高通官网发布补充声明，回应了目前的网传消息",
+          "source": "IT之家",
+          "date": "2026-10-07",
+          "dateLabel": "10月7日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/010/215.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/9fb8ce92-f440-4f66-b168-fd6dc31b0172.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "a6047ca8dfbd",
+          "title": "谷歌推出全新 macOS 应用 AI Edge Foresight，支持离线记录会议纪要",
+          "desc": "IT之家 10 月 7 日消息，谷歌现已推出全新 macOS 应用 AI Edge Foresight，向苹果用户展示 EmbeddingGemma 2 端侧多模态模型的实力。这款应用可以帮助用户处理线上、线下会议笔记，支持完全离线运行。据介绍，这款应用采用 EmbeddingGemma 2 模型，它可以调用 Mac 的麦克风和系统音频，自动结合用户的笔记，整理出润色的线上、线下会议纪要。同时，这",
+          "source": "IT之家",
+          "date": "2026-10-07",
+          "dateLabel": "10月7日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.ithome.com/1/010/214.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/2667fbe1-92db-451e-b6f9-fa44eabca257.gif",
+          "color": "#d97706"
+        },
+        {
+          "id": "aaa33b53cfdc",
+          "title": "加纳等 3 个国别顶级域名遭劫持，谷歌 Chrome 紧急封锁未授权 HTTPS 证书",
+          "desc": "IT之家 10 月 7 日消息，谷歌昨日（10 月 6 日）发布公告，称 .gh（加纳）、.sl（塞拉利昂）和 .as（美属萨摩亚）三个国家和地区代码顶级域名（ccTLD）遭劫持，Chrome 已封禁相关未授权 HTTPS 证书。IT之家援引博文介绍，谷歌上周注意到相关攻击，攻击者入侵第 3 方域名注册管理系统，并篡改权威域名系统（DNS）记录，并利用 DNS 控制权，通过证书机构的自动化域名控制",
+          "source": "IT之家",
+          "date": "2026-10-07",
+          "dateLabel": "10月7日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/010/213.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/c3cb054a-c9e5-43b2-9127-6ae0ea9a014b.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "448aa639822a",
+          "title": "改为 4 位数：英特尔 Nova Lake-S 处理器命名添新证据，AIDA64 列出 4xxx 系列",
+          "desc": "IT之家 10 月 7 日消息，科技媒体 Wccftech 昨日（10 月 6 日）发布博文，报道称在 10 月 5 日发布的 8.40.8510 Beta 版 AIDA64 Extreme 更新中，新证据表明英特尔 Nova Lake-S 处理器采用酷睿 Ultra 4000 命名方案。在更新日志中，有一条写道：“识别英特尔酷睿 Ultra 5/7/9 4xxx 系列（又名 Nova Lake-",
+          "source": "IT之家",
+          "date": "2026-10-07",
+          "dateLabel": "10月7日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/010/210.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/c95bc936-31cc-471d-906a-a1d3943358c5.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "7a9b5e26fb4a",
+          "title": "打通 AirDrop：小米 18 Pro Max 手机上线“与 Apple 设备互传”功能",
+          "desc": "IT之家 10 月 7 日消息，据博主 @懒酱的日记本 分享，搭载澎湃 OS 4 系统的小米 18 Pro Max 已上线“与 Apple 设备互传”功能。从配图来看，新功能打通了苹果隔空投送 AirDrop。需要注意的是，在互传过程中，对方的 Apple 设备需在“控制中心”将“隔空投送”（AirDrop）设为“所有人（10 分钟）”即可接收文件。据IT之家此前报道，今年 9 月，小米互联正式上",
+          "source": "IT之家",
+          "date": "2026-10-07",
+          "dateLabel": "10月7日",
+          "tags": [
+            "model",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/010/209.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/f5bfb865-bf3b-41b3-bd34-efea144d5dbb.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-10-06",
       "dateLabel": "10月6日",
       "id": "d06",
       "items": [
+        {
+          "id": "b669a271d49f",
+          "title": "刚刚，诺贝尔物理奖一人独揽！",
+          "desc": "南极洲甚至有一座高地以他名字命名",
+          "source": "量子位",
+          "date": "2026-10-06",
+          "dateLabel": "10月6日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/10/501746.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "2b94c3c6b4e9",
+          "title": "不er，咋陶哲轩也成AI减速派了？？",
+          "desc": "不er，咋陶哲轩也成AI减速派了？？",
+          "source": "量子位",
+          "date": "2026-10-06",
+          "dateLabel": "10月6日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/10/501736.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
         {
           "id": "3eed14d7b96e",
           "title": "OpenAI「疯狂28天」首日，这都发了些啥啊…",
@@ -18,107 +169,6 @@
           "url": "https://www.qbitai.com/2026/10/501726.html",
           "image": "",
           "color": "#7c3aed"
-        },
-        {
-          "id": "08ff474e63f7",
-          "title": "微软 OneDrive 18.11.2 测试版发布，下个版本不再支持苹果 iOS / iPadOS 18 系统",
-          "desc": "IT之家 10 月 6 日消息，微软现已通过 TestFlight 分发 OneDrive 18.11.2 测试版。官方在更新日志中提醒，18.12.1 将是最后一个支持苹果 iOS / iPadOS 18 系统的版本，下个版本仅支持 iOS / iPadOS 26/27 系统。IT之家了解到，微软 OneDrive 可以在所有设备上备份、保护、同步和访问用户的照片和文件。通过 OneDrive ",
-          "source": "IT之家",
-          "date": "2026-10-06",
-          "dateLabel": "10月6日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/010/011.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/577fdc48-16dd-453f-b319-8fb7b63fea7a.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "721f21e2420f",
-          "title": "消息称 Meta 和微软要求员工减少使用 Claude，多用自家 AI 节省成本",
-          "desc": "IT之家 10 月 6 日消息，据 The Information 报道，Meta 与微软已要求员工减少使用 Anthropic 旗下的 AI 模型 Claude 以削减成本，并要求员工更多使用自研 AI 工具。据悉，微软高层在今年早些时候曾预计，公司内部使用 Anthropic AI 的年支出将至少达到 10 亿美元（IT之家注：现汇率约合 67.14 亿元人民币）。随后，微软要求员工减少对 C",
-          "source": "IT之家",
-          "date": "2026-10-06",
-          "dateLabel": "10月6日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://www.ithome.com/1/010/010.htm",
-          "image": "",
-          "color": "#d97706"
-        },
-        {
-          "id": "aef8344fed86",
-          "title": "OPPO 推出 F35 5G 系列手机：8000mAh 电池，天玑 6360 Max/7360 Max 芯片",
-          "desc": "IT之家 10 月 6 日消息，OPPO 现已在印度市场推出 F35 5G/F35 Pro 5G 手机，新品定位中低端市场，采用 8000mAh 大电池，以及天玑 6360 Max/7360 Max 芯片，起售价为 38,999 卢比（IT之家注：现汇率约合 2,725 元人民币）。据介绍，OPPO F35 5G 手机搭载 6.57 英寸 AMOLED 屏幕，分辨率为 2372×1080，支持 1",
-          "source": "IT之家",
-          "date": "2026-10-06",
-          "dateLabel": "10月6日",
-          "tags": [
-            "model",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/010/007.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/009728b1-b37b-4af5-b2ed-f475232b2466.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "82c5af049d06",
-          "title": "OpenAI 与 Anthropic 向澳大利亚表态：支持出台数据泄露相关监管法规",
-          "desc": "IT之家 10 月 6 日消息，据路透社报道，OpenAI 与 Anthropic 于周二向澳大利亚议会表态，支持出台相关法规，强制要求企业通报其 AI 智能体所造成的数据泄露事件。两家机构同时坦承，目前是否通知监管当局完全由企业自主决定。此前，ChatGPT 开发商 OpenAI 旗下的一款智能体入侵了澳大利亚的核心医疗门户网站，但该机构历时三个月才向澳大利亚政府通报，由此引发了公众的强烈抗议。",
-          "source": "IT之家",
-          "date": "2026-10-06",
-          "dateLabel": "10月6日",
-          "tags": [
-            "model",
-            "policy"
-          ],
-          "url": "https://www.ithome.com/1/010/003.htm",
-          "image": "",
-          "color": "#d97706"
-        },
-        {
-          "id": "cabb11652b12",
-          "title": "谷歌 Googlebook 笔记本解锁 BL 指南上线后，Magisk 确认适配",
-          "desc": "IT之家 10 月 6 日消息，首批谷歌 Googlebook 笔记本已经于前两天在美国市场上市，宏碁、华硕、联想、惠普、戴尔等厂商均有推出对应机型。这些笔记本运行 Googlebook OS 操作系统，融合了 Android 的软件和 ChromeOS 桌面特性，支持运行完整版 Chrome 浏览器并提供独立 Linux 环境。如今，谷歌已经在官网给出了 Googlebook 的解锁 Bootl",
-          "source": "IT之家",
-          "date": "2026-10-06",
-          "dateLabel": "10月6日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/010/002.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/026c4686-feb3-4a61-82b0-d4a85fd47568.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "8c735c66bfc4",
-          "title": "索尼音乐 9 月要求下架 26 万首 AI 伪造歌曲：阿黛尔等艺人被冒充，请求量较 3 月近乎翻倍",
-          "desc": "IT之家 10 月 6 日消息，金融时报（FT）昨日（10 月 5 日）发布博文，报道称索尼音乐已要求各数字平台删除超过 26 万首冒充其旗下艺人的 AI 生成曲目。在数量方面，报道称是索尼音乐娱乐公司（Sony Music Entertainment）要求流媒体平台在 9 月底前下架超过 26 万首歌曲，这一数字几乎是 3 月底 13.5 万首的两倍。索尼表示，这些曲目利用生成式 AI 深度伪造",
-          "source": "IT之家",
-          "date": "2026-10-06",
-          "dateLabel": "10月6日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/010/001.htm",
-          "image": "",
-          "color": "#d97706"
-        },
-        {
-          "id": "b3d8c0869dd2",
-          "title": "韩国拟推 4.7 万亿韩元专项计划，明年 3 月起研发前沿 AI 大模型",
-          "desc": "IT之家 10 月 6 日消息，据路透社报道，韩国科学技术信息通信部表示，韩国拟推出一项总规模 4.7 万亿韩元（IT之家注：现汇率约合 233.03 亿元人民币）的专项计划，自 2027 年 3 月起研发前沿人工智能大模型。首尔方面希望借此在尖端 AI 的全球竞争当中争取一席之地。韩国科学技术信息通信部称，待韩国国会于 12 月审议通过 2027 财年预算之后，政府将通过竞争性招标遴选本项目的牵",
-          "source": "IT之家",
-          "date": "2026-10-06",
-          "dateLabel": "10月6日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://www.ithome.com/1/010/000.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2025/11/62b5ea8d-908b-4cef-8fe9-837cb9190d66.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
         }
       ]
     },
@@ -202,20 +252,6 @@
             "business"
           ],
           "url": "https://www.qbitai.com/2026/10/501506.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "4a53bf9bed56",
-          "title": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
-          "desc": "专业3D模型反而更稀缺了",
-          "source": "量子位",
-          "date": "2026-10-04",
-          "dateLabel": "10月4日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://www.qbitai.com/2026/10/501451.html",
           "image": "",
           "color": "#7c3aed"
         }
@@ -1860,101 +1896,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-09-03",
-      "dateLabel": "9月3日",
-      "id": "d03",
-      "items": [
-        {
-          "id": "cc6d515b80cc",
-          "title": "新版GPT Image 2.5已经能伪造GPT-6发布会了",
-          "desc": "改进GPT Image 2的噪点问题",
-          "source": "量子位",
-          "date": "2026-09-03",
-          "dateLabel": "9月3日",
-          "tags": [
-            "model",
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/09/483948.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "106d8e33d26b",
-          "title": "刚刚，GPT-6正式发布！OpenAI：欢迎来到AGI时代",
-          "desc": "全球最强C",
-          "source": "量子位",
-          "date": "2026-09-03",
-          "dateLabel": "9月3日",
-          "tags": [
-            "model",
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/09/483898.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "893a145441ac",
-          "title": "“没有Token的CS学生，应立即退学”",
-          "desc": "禁止古法编程、Token自费",
-          "source": "量子位",
-          "date": "2026-09-03",
-          "dateLabel": "9月3日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/09/483839.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "4fe4a0f7a2b1",
-          "title": "腾讯WorkBuddy联名硬件来了！首批100多家伙伴入场",
-          "desc": "眼镜、耳机、麦克风都来了",
-          "source": "量子位",
-          "date": "2026-09-03",
-          "dateLabel": "9月3日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/09/483786.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "6ab7d33beaa8",
-          "title": "世界生成模型来了3D头部玩家，可进入生产管线的场景级生成时代来临！",
-          "desc": "单图直出场景，顶会最佳论文落地",
-          "source": "量子位",
-          "date": "2026-09-03",
-          "dateLabel": "9月3日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://www.qbitai.com/2026/09/483189.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "c1b8c523d9aa",
-          "title": "陈大年复出，入局大模型",
-          "desc": "首秀逼近DeepSeek万亿旗舰",
-          "source": "量子位",
-          "date": "2026-09-03",
-          "dateLabel": "9月3日",
-          "tags": [
-            "model",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/09/483600.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -1980,6 +1921,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-10-06 16:33",
-  "totalNews": 118
+  "updateTime": "2026-10-07 16:08",
+  "totalNews": 114
 }
