@@ -1,10 +1,176 @@
 {
   "newsData": [
     {
+      "date": "2026-10-08",
+      "dateLabel": "10月8日",
+      "id": "d08",
+      "items": [
+        {
+          "id": "0887dca51e1f",
+          "title": "打不过就投降，保时捷裁员9000人，回归燃油车主线",
+          "desc": "管理岗砍掉四成，顶级车型涨价20%卖",
+          "source": "量子位",
+          "date": "2026-10-08",
+          "dateLabel": "10月8日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/10/501930.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "a9b97b68814f",
+          "title": "大模型原生智能体手机STEPX Neo将于10月13日正式发布",
+          "desc": "大模型原生智能体手机STEPX Neo将于10月13日正式发布",
+          "source": "量子位",
+          "date": "2026-10-08",
+          "dateLabel": "10月8日",
+          "tags": [
+            "model",
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/10/501915.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "47bfce7d3832",
+          "title": "GPT-6今起免费用！拒答变少，话变多了",
+          "desc": "ChatGPT聊天框长出界面",
+          "source": "量子位",
+          "date": "2026-10-08",
+          "dateLabel": "10月8日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://www.qbitai.com/2026/10/501834.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "568697e18591",
+          "title": "Claude新模型发布！跑分暴击GPT-6 Luna，价格比梁文谷还便宜，OpenAI只能送重置卡挽尊",
+          "desc": "小模型新守门员",
+          "source": "量子位",
+          "date": "2026-10-08",
+          "dateLabel": "10月8日",
+          "tags": [
+            "model",
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/10/501832.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "1d464fca69d4",
+          "title": "AMD 苏姿丰访韩，会见三星电子联席 CEO 全永铉",
+          "desc": "IT之家 10 月 8 日消息，据韩媒 ChosunBiz 报道，AMD 首席执行官苏姿丰昨天下午抵达韩国首尔的三星电子瑞草办公楼，会见三星电子联席 CEO 全永铉。双方会面持续了 3 个多小时，苏姿丰接受采访时表示：“三星是一家优秀的合作伙伴，我们一直在进行良好的战略讨论。”▲ 苏姿丰，图源：AMD当记者问到双方是否会在物理 AI 领域展开合作时，她回答道：“我们未来将在非常广泛的领域展开合作。",
+          "source": "IT之家",
+          "date": "2026-10-08",
+          "dateLabel": "10月8日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/010/578.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/c1203bdb-8b32-4a0c-880b-b73368f53868.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "7e3933515633",
+          "title": "香港恒生科技指数收跌 2.89%，创 2024 年 9 月以来新低",
+          "desc": "IT之家 10 月 8 日消息，香港恒生指数今日收跌 1.43%，恒生科技指数跌 2.89% 创 2024 年 9 月 26 日以来新低。IT之家注意到，港股大模型“双雄”领跌，MINIMAX-W 跌超 13%，智谱跌超 7%。半导体股集体下跌，壁仞科技跌超 11%，华虹宏力跌超 9%，兆易创新、江波龙跌超 7%，中芯国际、澜起科技跌超 6%，上海复旦跌超 5%。光通信、PCB 概念股普跌，海光芯",
+          "source": "IT之家",
+          "date": "2026-10-08",
+          "dateLabel": "10月8日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/010/574.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/d500c5e8-6db0-4065-ba9c-149aa88b5b82.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "c0d0bbcdd752",
+          "title": "消息称 AMD 多款显卡 10 月起正式上调指导价，最高涨价 700 元",
+          "desc": "IT之家 10 月 8 日消息，据博板堂旗下公众号 ChannelGate 视博合聚今日消息，AMD 总部已经通知显卡产品，从 10 月 1 日正式执行涨价，包括国内以及国外全球市场均统一涨价。报道称，AMD 主要考虑到显存一顆 2G 成本再次上涨幅度约 10% 左右，以及芯片代工成本的上涨等因素影响，决定针对显卡产品的价格普遍拉涨，将涉及大部分型号均有一定不同程度的上涨。报道提到，AMD Q4 ",
+          "source": "IT之家",
+          "date": "2026-10-08",
+          "dateLabel": "10月8日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/010/565.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/de55cb76-6d75-4bd0-bfa1-e5e1faf041dc.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "16288e84005a",
+          "title": "腾讯 WorkBuddy 上线独立文件浏览器，本地文件可直呼 AI 处理",
+          "desc": "IT之家 10 月 8 日消息，腾讯今天宣布，旗下 AI 办公产品 WorkBuddy 现已正式上线独立文件浏览器。用户现在可以在文件资源管理器 / Finder 找到一份文件，右键选择 WorkBuddy 打开，就能在独立窗口中查看文件，并直接调用 AI 进行分析、修改或继续处理。IT之家了解到，WorkBuddy 文件浏览器可以直接打开 Word、Excel、PPT、PDF、Markdown、",
+          "source": "IT之家",
+          "date": "2026-10-08",
+          "dateLabel": "10月8日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/010/562.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/31723ed3-0461-4ff4-8e30-dd92a8c22cd7.png",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-10-07",
       "dateLabel": "10月7日",
       "id": "d07",
       "items": [
+        {
+          "id": "12666fd57bf7",
+          "title": "迟到25年！诺贝尔化学奖揭晓，95岁法国教授圆梦",
+          "desc": "迟到25年！诺贝尔化学奖揭晓，95岁法国教授圆梦",
+          "source": "量子位",
+          "date": "2026-10-07",
+          "dateLabel": "10月7日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/10/501825.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "f657ed01ced8",
+          "title": "《怪物史莱克》编剧也来了！这家AI影视公司，视频模型全球第二！",
+          "desc": "《怪物史莱克》编剧也来了！这家AI影视公司，视频模型全球第二！",
+          "source": "量子位",
+          "date": "2026-10-07",
+          "dateLabel": "10月7日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/10/501803.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "4bfffcdde0e6",
+          "title": "晕…这年头还有说人话的AI不",
+          "desc": "晕…这年头还有说人话的AI不",
+          "source": "量子位",
+          "date": "2026-10-07",
+          "dateLabel": "10月7日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/10/501796.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
         {
           "id": "6211df7bbebf",
           "title": "Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司",
@@ -32,94 +198,6 @@
           "url": "https://www.qbitai.com/2026/10/501749.html",
           "image": "",
           "color": "#7c3aed"
-        },
-        {
-          "id": "40ce5fcbe95f",
-          "title": "微软 XBOX CEO 夏尔马透露：XBOX PC 商店已是中国排名第一的 PC 游戏平台",
-          "desc": "IT之家 10 月 7 日消息，据科技媒体 Windows Central 报道，微软 XBOX CEO 阿莎 · 夏尔马（Asha Sharma）今日在内部会议发表全体讲话。她在会上提到，XBOX 部门今年进行大规模重组之前，她们实际处于“自由落体”下滑状态。夏尔马表示，XBOX 需要以正确的方式服务最有价值的玩家，否则 XBOX 没有资格在主机以外的市场继续扩张。她计划继续强化第九世代主机（X",
-          "source": "IT之家",
-          "date": "2026-10-07",
-          "dateLabel": "10月7日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/010/223.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/41161d68-8daa-4262-80bb-448e5f8bd518.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "6de7e3381585",
-          "title": "高通官网发布与华为专利许可协议补充声明：关于该协议与逻辑折叠芯片技术有关的说法不属实",
-          "desc": "IT之家 10 月 7 日消息，华为与高通 10 月 5 日宣布达成一项长期、广泛的专利许可协议，该协议包含双方在 5G、计算、人工智能、网络等多个技术领域的专利组合交叉许可，同时高通将收购华为在计算、人工智能、网络及其他技术领域的部分美国专利。随后彭博社报道称，高通公司已获得支撑华为逻辑折叠芯片制造技术的专利许可。这一消息引发网络热议。10 月 6 日，高通官网发布补充声明，回应了目前的网传消息",
-          "source": "IT之家",
-          "date": "2026-10-07",
-          "dateLabel": "10月7日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/010/215.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/9fb8ce92-f440-4f66-b168-fd6dc31b0172.jpg",
-          "color": "#d97706"
-        },
-        {
-          "id": "a6047ca8dfbd",
-          "title": "谷歌推出全新 macOS 应用 AI Edge Foresight，支持离线记录会议纪要",
-          "desc": "IT之家 10 月 7 日消息，谷歌现已推出全新 macOS 应用 AI Edge Foresight，向苹果用户展示 EmbeddingGemma 2 端侧多模态模型的实力。这款应用可以帮助用户处理线上、线下会议笔记，支持完全离线运行。据介绍，这款应用采用 EmbeddingGemma 2 模型，它可以调用 Mac 的麦克风和系统音频，自动结合用户的笔记，整理出润色的线上、线下会议纪要。同时，这",
-          "source": "IT之家",
-          "date": "2026-10-07",
-          "dateLabel": "10月7日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://www.ithome.com/1/010/214.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/2667fbe1-92db-451e-b6f9-fa44eabca257.gif",
-          "color": "#d97706"
-        },
-        {
-          "id": "aaa33b53cfdc",
-          "title": "加纳等 3 个国别顶级域名遭劫持，谷歌 Chrome 紧急封锁未授权 HTTPS 证书",
-          "desc": "IT之家 10 月 7 日消息，谷歌昨日（10 月 6 日）发布公告，称 .gh（加纳）、.sl（塞拉利昂）和 .as（美属萨摩亚）三个国家和地区代码顶级域名（ccTLD）遭劫持，Chrome 已封禁相关未授权 HTTPS 证书。IT之家援引博文介绍，谷歌上周注意到相关攻击，攻击者入侵第 3 方域名注册管理系统，并篡改权威域名系统（DNS）记录，并利用 DNS 控制权，通过证书机构的自动化域名控制",
-          "source": "IT之家",
-          "date": "2026-10-07",
-          "dateLabel": "10月7日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/010/213.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/c3cb054a-c9e5-43b2-9127-6ae0ea9a014b.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "448aa639822a",
-          "title": "改为 4 位数：英特尔 Nova Lake-S 处理器命名添新证据，AIDA64 列出 4xxx 系列",
-          "desc": "IT之家 10 月 7 日消息，科技媒体 Wccftech 昨日（10 月 6 日）发布博文，报道称在 10 月 5 日发布的 8.40.8510 Beta 版 AIDA64 Extreme 更新中，新证据表明英特尔 Nova Lake-S 处理器采用酷睿 Ultra 4000 命名方案。在更新日志中，有一条写道：“识别英特尔酷睿 Ultra 5/7/9 4xxx 系列（又名 Nova Lake-",
-          "source": "IT之家",
-          "date": "2026-10-07",
-          "dateLabel": "10月7日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/010/210.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/c95bc936-31cc-471d-906a-a1d3943358c5.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "7a9b5e26fb4a",
-          "title": "打通 AirDrop：小米 18 Pro Max 手机上线“与 Apple 设备互传”功能",
-          "desc": "IT之家 10 月 7 日消息，据博主 @懒酱的日记本 分享，搭载澎湃 OS 4 系统的小米 18 Pro Max 已上线“与 Apple 设备互传”功能。从配图来看，新功能打通了苹果隔空投送 AirDrop。需要注意的是，在互传过程中，对方的 Apple 设备需在“控制中心”将“隔空投送”（AirDrop）设为“所有人（10 分钟）”即可接收文件。据IT之家此前报道，今年 9 月，小米互联正式上",
-          "source": "IT之家",
-          "date": "2026-10-07",
-          "dateLabel": "10月7日",
-          "tags": [
-            "model",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/010/209.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/f5bfb865-bf3b-41b3-bd34-efea144d5dbb.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
         }
       ]
     },
@@ -139,34 +217,6 @@
             "business"
           ],
           "url": "https://www.qbitai.com/2026/10/501746.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "2b94c3c6b4e9",
-          "title": "不er，咋陶哲轩也成AI减速派了？？",
-          "desc": "不er，咋陶哲轩也成AI减速派了？？",
-          "source": "量子位",
-          "date": "2026-10-06",
-          "dateLabel": "10月6日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/10/501736.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "3eed14d7b96e",
-          "title": "OpenAI「疯狂28天」首日，这都发了些啥啊…",
-          "desc": "OpenAI「疯狂28天」首日，这都发了些啥啊…",
-          "source": "量子位",
-          "date": "2026-10-06",
-          "dateLabel": "10月6日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/10/501726.html",
           "image": "",
           "color": "#7c3aed"
         }
@@ -1829,73 +1879,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-09-04",
-      "dateLabel": "9月4日",
-      "id": "d04",
-      "items": [
-        {
-          "id": "d08e8ca7bcee",
-          "title": "趋境科技与摩尔线程达成战略合作，高品质 AI Token 国产异构方案性价比超越国际先进算力",
-          "desc": "国产卡跑出高品质 AI Token 生产级性能",
-          "source": "量子位",
-          "date": "2026-09-04",
-          "dateLabel": "9月4日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/09/484547.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "9240b6fc8257",
-          "title": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
-          "desc": "星尘智能（Astribot） 基座模型团队发布能异步执行的在线强化学习框架 SmoothRL",
-          "source": "量子位",
-          "date": "2026-09-04",
-          "dateLabel": "9月4日",
-          "tags": [
-            "model",
-            "research",
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/09/484437.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "0eb80d375c39",
-          "title": "九问ScienceDiscovery实现树搜索驱动RSI，加速科学发现，小时级写出通用积分器，低成本找出物理科学规律",
-          "desc": "不训练模型、不调参数",
-          "source": "量子位",
-          "date": "2026-09-04",
-          "dateLabel": "9月4日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://www.qbitai.com/2026/09/484293.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "a8afa7609f0f",
-          "title": "金融AI的年度大考交卷了：2万名选手、30+家机构、百亿级数据开源",
-          "desc": "5000支队伍同台做题，写尽行业四年变化",
-          "source": "量子位",
-          "date": "2026-09-04",
-          "dateLabel": "9月4日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/09/484203.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -1921,6 +1904,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-10-07 16:08",
-  "totalNews": 114
+  "updateTime": "2026-10-08 16:24",
+  "totalNews": 113
 }
