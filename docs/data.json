@@ -1,126 +1,160 @@
 {
   "newsData": [
     {
+      "date": "2026-10-09",
+      "dateLabel": "10月9日",
+      "id": "d09",
+      "items": [
+        {
+          "id": "c42cca2b4911",
+          "title": "《柳叶刀》研究表明：AI 有望改善医患关系",
+          "desc": "Google 研究成果首次登上《柳叶刀》主刊",
+          "source": "量子位",
+          "date": "2026-10-09",
+          "dateLabel": "10月9日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.qbitai.com/2026/10/502359.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "3aedd2f82a12",
+          "title": "灵巧操作头号玩家：Sharpa把指尖「触觉」进化到全面「体感」",
+          "desc": "机器人摆脱展会、舞台Demo，产生真实商业价值，究竟需要哪些东西？",
+          "source": "量子位",
+          "date": "2026-10-09",
+          "dateLabel": "10月9日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.qbitai.com/2026/10/502330.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "543ac71d2341",
+          "title": "清华具身模型登顶全球第一！突围GPT-6、英伟达，不靠外挂和额外数据",
+          "desc": "星动纪元选择将视频预测与动作学习分阶段训练，重点不是「视频、动作一锅炖」，而是把两者「解耦」，重新「排序」。",
+          "source": "量子位",
+          "date": "2026-10-09",
+          "dateLabel": "10月9日",
+          "tags": [
+            "model",
+            "research",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/10/502125.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "02c3b229f06d",
+          "title": "尊界深夜回应“刹车踏板断裂”，懂车帝再发声",
+          "desc": "江淮再度跌停",
+          "source": "量子位",
+          "date": "2026-10-09",
+          "dateLabel": "10月9日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/10/502114.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "3df2747ab3a6",
+          "title": "openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业",
+          "desc": "多Agent协同还能自我进化",
+          "source": "量子位",
+          "date": "2026-10-09",
+          "dateLabel": "10月9日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/10/502106.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "04a5a8e9bd0e",
+          "title": "代码造世界，扩散绘现实：AgentGarten让智能体在实时试炼场中边玩边进化",
+          "desc": "让AI反复试错的“练兵场”来了",
+          "source": "量子位",
+          "date": "2026-10-09",
+          "dateLabel": "10月9日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/10/502096.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "5c928c4ea88d",
+          "title": "陶哲轩带头宣战！人类数学家联合抵制OpenAI",
+          "desc": "彻底撕破脸了",
+          "source": "量子位",
+          "date": "2026-10-09",
+          "dateLabel": "10月9日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/10/502089.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "6b4fe1f65595",
+          "title": "不等Gemini 4了！谷歌发布办公Agent，支持调用Claude",
+          "desc": "新的“缝合怪”已经出现，怎么能够停滞不前",
+          "source": "量子位",
+          "date": "2026-10-09",
+          "dateLabel": "10月9日",
+          "tags": [
+            "model",
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/10/502083.html",
+          "image": "",
+          "color": "#7c3aed"
+        }
+      ]
+    },
+    {
       "date": "2026-10-08",
       "dateLabel": "10月8日",
       "id": "d08",
       "items": [
         {
-          "id": "0887dca51e1f",
-          "title": "打不过就投降，保时捷裁员9000人，回归燃油车主线",
-          "desc": "管理岗砍掉四成，顶级车型涨价20%卖",
+          "id": "37ef34f5f3cd",
+          "title": "真香！做这个邪恶老奶版「GTA 6」，我只花了5元！",
+          "desc": "Vidu Q4预览版，了解一下~",
           "source": "量子位",
           "date": "2026-10-08",
           "dateLabel": "10月8日",
           "tags": [
             "business"
           ],
-          "url": "https://www.qbitai.com/2026/10/501930.html",
+          "url": "https://www.qbitai.com/2026/10/502049.html",
           "image": "",
           "color": "#7c3aed"
         },
         {
-          "id": "a9b97b68814f",
-          "title": "大模型原生智能体手机STEPX Neo将于10月13日正式发布",
-          "desc": "大模型原生智能体手机STEPX Neo将于10月13日正式发布",
+          "id": "ed5396bc3fd4",
+          "title": "正行创新亮相APRCE 2026，发布全球首个零售物理智能24/7服务解决方案",
+          "desc": "打造便利店“人机协作”运营新模式",
           "source": "量子位",
-          "date": "2026-10-08",
-          "dateLabel": "10月8日",
-          "tags": [
-            "model",
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/10/501915.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "47bfce7d3832",
-          "title": "GPT-6今起免费用！拒答变少，话变多了",
-          "desc": "ChatGPT聊天框长出界面",
-          "source": "量子位",
-          "date": "2026-10-08",
-          "dateLabel": "10月8日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://www.qbitai.com/2026/10/501834.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "568697e18591",
-          "title": "Claude新模型发布！跑分暴击GPT-6 Luna，价格比梁文谷还便宜，OpenAI只能送重置卡挽尊",
-          "desc": "小模型新守门员",
-          "source": "量子位",
-          "date": "2026-10-08",
-          "dateLabel": "10月8日",
-          "tags": [
-            "model",
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/10/501832.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "1d464fca69d4",
-          "title": "AMD 苏姿丰访韩，会见三星电子联席 CEO 全永铉",
-          "desc": "IT之家 10 月 8 日消息，据韩媒 ChosunBiz 报道，AMD 首席执行官苏姿丰昨天下午抵达韩国首尔的三星电子瑞草办公楼，会见三星电子联席 CEO 全永铉。双方会面持续了 3 个多小时，苏姿丰接受采访时表示：“三星是一家优秀的合作伙伴，我们一直在进行良好的战略讨论。”▲ 苏姿丰，图源：AMD当记者问到双方是否会在物理 AI 领域展开合作时，她回答道：“我们未来将在非常广泛的领域展开合作。",
-          "source": "IT之家",
           "date": "2026-10-08",
           "dateLabel": "10月8日",
           "tags": [
             "business"
           ],
-          "url": "https://www.ithome.com/1/010/578.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/c1203bdb-8b32-4a0c-880b-b73368f53868.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "7e3933515633",
-          "title": "香港恒生科技指数收跌 2.89%，创 2024 年 9 月以来新低",
-          "desc": "IT之家 10 月 8 日消息，香港恒生指数今日收跌 1.43%，恒生科技指数跌 2.89% 创 2024 年 9 月 26 日以来新低。IT之家注意到，港股大模型“双雄”领跌，MINIMAX-W 跌超 13%，智谱跌超 7%。半导体股集体下跌，壁仞科技跌超 11%，华虹宏力跌超 9%，兆易创新、江波龙跌超 7%，中芯国际、澜起科技跌超 6%，上海复旦跌超 5%。光通信、PCB 概念股普跌，海光芯",
-          "source": "IT之家",
-          "date": "2026-10-08",
-          "dateLabel": "10月8日",
-          "tags": [
-            "model",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/010/574.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/d500c5e8-6db0-4065-ba9c-149aa88b5b82.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "c0d0bbcdd752",
-          "title": "消息称 AMD 多款显卡 10 月起正式上调指导价，最高涨价 700 元",
-          "desc": "IT之家 10 月 8 日消息，据博板堂旗下公众号 ChannelGate 视博合聚今日消息，AMD 总部已经通知显卡产品，从 10 月 1 日正式执行涨价，包括国内以及国外全球市场均统一涨价。报道称，AMD 主要考虑到显存一顆 2G 成本再次上涨幅度约 10% 左右，以及芯片代工成本的上涨等因素影响，决定针对显卡产品的价格普遍拉涨，将涉及大部分型号均有一定不同程度的上涨。报道提到，AMD Q4 ",
-          "source": "IT之家",
-          "date": "2026-10-08",
-          "dateLabel": "10月8日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/010/565.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/de55cb76-6d75-4bd0-bfa1-e5e1faf041dc.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "16288e84005a",
-          "title": "腾讯 WorkBuddy 上线独立文件浏览器，本地文件可直呼 AI 处理",
-          "desc": "IT之家 10 月 8 日消息，腾讯今天宣布，旗下 AI 办公产品 WorkBuddy 现已正式上线独立文件浏览器。用户现在可以在文件资源管理器 / Finder 找到一份文件，右键选择 WorkBuddy 打开，就能在独立窗口中查看文件，并直接调用 AI 进行分析、修改或继续处理。IT之家了解到，WorkBuddy 文件浏览器可以直接打开 Word、Excel、PPT、PDF、Markdown、",
-          "source": "IT之家",
-          "date": "2026-10-08",
-          "dateLabel": "10月8日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/010/562.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/31723ed3-0461-4ff4-8e30-dd92a8c22cd7.png",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/10/502035.html",
+          "image": "",
+          "color": "#7c3aed"
         }
       ]
     },
@@ -1813,72 +1847,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-09-05",
-      "dateLabel": "9月5日",
-      "id": "d05",
-      "items": [
-        {
-          "id": "0c7536aedfb0",
-          "title": "GPT-6带火循环Transformer，阿里早已布局",
-          "desc": "手握两篇顶会论文",
-          "source": "量子位",
-          "date": "2026-09-05",
-          "dateLabel": "9月5日",
-          "tags": [
-            "model",
-            "research",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/09/484726.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "ea9fea697eae",
-          "title": "押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司",
-          "desc": "当AI开始“预演”一场暴雨",
-          "source": "量子位",
-          "date": "2026-09-05",
-          "dateLabel": "9月5日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/09/484683.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "3488ba227456",
-          "title": "陶哲轩吐槽GPT-6孪生素数新突破：令人无语的一幕",
-          "desc": "AI直接吐出正确答案，但最关键的可能不是答案",
-          "source": "量子位",
-          "date": "2026-09-05",
-          "dateLabel": "9月5日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://www.qbitai.com/2026/09/484649.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "602f1c57c57b",
-          "title": "这个世界模型训练完就“退场”，机器人反而更能干了",
-          "desc": "如此“反骨”的方法，具体又是怎么实现的？",
-          "source": "量子位",
-          "date": "2026-09-05",
-          "dateLabel": "9月5日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://www.qbitai.com/2026/09/484611.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -1904,6 +1872,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-10-08 16:24",
-  "totalNews": 113
+  "updateTime": "2026-10-09 16:28",
+  "totalNews": 111
 }
