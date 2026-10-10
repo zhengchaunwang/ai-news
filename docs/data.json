@@ -1,10 +1,192 @@
 {
   "newsData": [
     {
+      "date": "2026-10-10",
+      "dateLabel": "10月10日",
+      "id": "d10",
+      "items": [
+        {
+          "id": "e2c5e005534a",
+          "title": "特斯拉FSD，在欧洲被打回原形",
+          "desc": "马斯克反而发文道谢？",
+          "source": "量子位",
+          "date": "2026-10-10",
+          "dateLabel": "10月10日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/10/502467.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "af6bf648d2b4",
+          "title": "IMF：如应用得当，人工智能可以使全球经济年增速提高 0. 5 个百分点",
+          "desc": "IT之家 10 月 10 日消息，国际货币基金组织 (IMF) 总裁克里斯塔利娜 · 格奥尔基耶娃在本月 7 日的一篇题为《在持续变化世界经济的纵横激流中稳舵前行》的演讲稿强调了人工智能的对全球经济的影响。格奥尔基耶娃表示，人工智能带来的正向需求冲击正与地缘政治引发的能源供给负面冲击一道拉扯全球经济，而这两股力量的总体影响在全球范围内分布极不均衡。全球用于人工智能的投资占 GDP 的比重将达到并很",
+          "source": "IT之家",
+          "date": "2026-10-10",
+          "dateLabel": "10月10日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/011/407.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/d177fb8d-9c68-4a41-bc5b-4f976397d7a5.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "75351163c5ac",
+          "title": "教育部：教师 AI 素养全覆盖培训启动",
+          "desc": "IT之家 10 月 10 日消息，据央视新闻报道，教育部今天（10 日）在京召开人工智能赋能教师发展现场会。国家智慧教育平台教师发展中心全新升级上线，同时，教师人工智能素养全覆盖培训启动。新上线的教师发展中心开设 AI 素养专区，集成人工智能学习资源、智能工具和研修社群，为教师自主学习和全覆盖培训提供支撑。作为全覆盖培训第一课，教育部邀请一线教师、校长和教育局长开展现场沉浸式、场景式示范培训，展示",
+          "source": "IT之家",
+          "date": "2026-10-10",
+          "dateLabel": "10月10日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/011/400.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2025/3/3075e035-0f6e-4e2a-8def-16bb5c7b6145.jpg?x-bce-process=image/watermark,text_QUnnlJ_miJA,type_RlpMYW5UaW5nSGVpU0JHQg==,size_20,color_ffffffdd,skw_1,skc_00000051,g_7,blr_50,bls_50,x_8,y_8",
+          "color": "#d97706"
+        },
+        {
+          "id": "19f28a1ef453",
+          "title": "传英伟达将不再向 GeForce 游戏显卡分配 GB202 GPU",
+          "desc": "IT之家 10 月 10 日消息，消息人士 MEGAsizeGPU (@Zed__Wang) 今日爆料称，NVIDIA（英伟达）将不再向 GeForce RTX 50 系列游戏显卡分配 GB202，该 GPU 的供应将由 RTX PRO Blackwell 专业显卡独占。这意味着 GeForce RTX 5090 / 5090 D v2 两款旗舰产品都将停产，玩家可入手的最高性能游戏显卡将降级至 ",
+          "source": "IT之家",
+          "date": "2026-10-10",
+          "dateLabel": "10月10日",
+          "tags": [
+            "model",
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/011/397.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/7cac1cc2-b2b6-4f61-94ab-6937f94aa95b.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "b0f6afe54cc3",
+          "title": "消息称某厂 2nm 阔折叠工程机采用三星屏、哈苏全焦段影像，预计 OPPO 旗下",
+          "desc": "IT之家 10 月 10 日消息，据博主 @数码闲聊站 今日爆料，某厂阔家族将率先推出搭载 2nm 芯片的阔折叠，结合该博主此前的爆料习惯，预计该机为 OPPO 旗下。据其爆料，该机采用 7.6 英寸无痕铰链方案，工程机是三星屏，搭载 200Mp 大底主摄 +50Mp 超广角 +50Mp 潜望长焦 +3Mp 多光谱镜头，哈苏全焦段影像，主打轻薄无痕全能。IT之家注意到，早在今年 1 月，该博主便爆",
+          "source": "IT之家",
+          "date": "2026-10-10",
+          "dateLabel": "10月10日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/011/396.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/389831ff-d40f-43b8-9cca-22b482719314.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "4364be7f80c4",
+          "title": "给 AI 植入广告涉“虚假宣传”，深圳一家 GEO 服务商被市场监管局处以 5 万元罚款",
+          "desc": "IT之家 10 月 10 日消息，据深圳市市场监管局，近期一家小型服务商因“套取 AI 收录标准、批量编造虚假排名”，被市场监管局处以 5 万元罚款。GEO（AI 模型输出结果优化）自 DeepSeek 爆红后兴起，与传统 SEO（搜索引擎优化）争夺网页排名不同，GEO 瞄准的是大模型的回复内容。服务商通过研究 AI 的回答偏好，生产、投放更容易被 AI 引用的内容，帮助商家在 AI 问答中获得曝",
+          "source": "IT之家",
+          "date": "2026-10-10",
+          "dateLabel": "10月10日",
+          "tags": [
+            "model",
+            "research",
+            "policy",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/011/394.htm",
+          "image": "",
+          "color": "#d97706"
+        },
+        {
+          "id": "79a1e7beb711",
+          "title": "Meta 与多家伙伴合作推出 PAP 协议：规范个人智能体与企业服务交互方式",
+          "desc": "IT之家 10 月 10 日消息，人工智能企业 Sierra 当地时间宣布，其与 Meta 以及行业合作伙伴 Shopify、Stripe、沃尔玛、Genesys、Instinct、Rocket 共同推出个人智能体协议 (Personal Agent Protocol, PAP)。PAP 旨在规范个人智能体与企业服务的交互方式，为智能体创造更为高效安全的互动环境。在这一过程中，消费者能确保其利益得",
+          "source": "IT之家",
+          "date": "2026-10-10",
+          "dateLabel": "10月10日",
+          "tags": [
+            "model",
+            "business",
+            "policy"
+          ],
+          "url": "https://www.ithome.com/1/011/392.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/df036214-12e0-4483-8ad4-196d531f48e1.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "6264cd7ae64c",
+          "title": "一加 Ace 7 手机跑分曝光：高通第五代骁龙 8 至尊版芯片，16GB 内存",
+          "desc": "IT之家 10 月 10 日消息，型号为 PMS110 的一加（OnePlus）手机昨日（10 月 9 日）现身 GeekBench 跑分库，目前共有 3 条 GeekBench 6 记录，跑分最高的一条单核成绩为 3,627 分，多核成绩为 11,016 分，该机预估关联一加 Ace 7 手机。根据跑分页面显示，PMS110 手机搭载高通“SM8850”芯片组，包含六个主频为 3.63GHz 的",
+          "source": "IT之家",
+          "date": "2026-10-10",
+          "dateLabel": "10月10日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/011/391.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/322ffd54-543e-4528-800b-a213843657c3.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-10-09",
       "dateLabel": "10月9日",
       "id": "d09",
       "items": [
+        {
+          "id": "140db3a19252",
+          "title": "TRAE终于把Code和Work合并了",
+          "desc": "大写的方便",
+          "source": "量子位",
+          "date": "2026-10-09",
+          "dateLabel": "10月9日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/10/502426.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "77000e7517bc",
+          "title": "联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一",
+          "desc": "联想天禧AI自主研发的专业代码智能体框架TianxiCode 以71%的问题解决率登顶全球第一名",
+          "source": "量子位",
+          "date": "2026-10-09",
+          "dateLabel": "10月9日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/10/502422.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "761f9fc8122a",
+          "title": "0.2秒急停、秒级重规划！因果智能走进真实世界",
+          "desc": "这是一台机器人正在关闭微波炉门时，因人手突然插进来而紧急悬停的时间",
+          "source": "量子位",
+          "date": "2026-10-09",
+          "dateLabel": "10月9日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.qbitai.com/2026/10/502411.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "abe69588ea4a",
+          "title": "字节找到了DeepSeek时强时弱的原因",
+          "desc": "答不答得对，得看Token站位",
+          "source": "量子位",
+          "date": "2026-10-09",
+          "dateLabel": "10月9日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/10/502364.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
         {
           "id": "c42cca2b4911",
           "title": "《柳叶刀》研究表明：AI 有望改善医患关系",
@@ -60,64 +242,6 @@
             "business"
           ],
           "url": "https://www.qbitai.com/2026/10/502114.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "3df2747ab3a6",
-          "title": "openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业",
-          "desc": "多Agent协同还能自我进化",
-          "source": "量子位",
-          "date": "2026-10-09",
-          "dateLabel": "10月9日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/10/502106.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "04a5a8e9bd0e",
-          "title": "代码造世界，扩散绘现实：AgentGarten让智能体在实时试炼场中边玩边进化",
-          "desc": "让AI反复试错的“练兵场”来了",
-          "source": "量子位",
-          "date": "2026-10-09",
-          "dateLabel": "10月9日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/10/502096.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "5c928c4ea88d",
-          "title": "陶哲轩带头宣战！人类数学家联合抵制OpenAI",
-          "desc": "彻底撕破脸了",
-          "source": "量子位",
-          "date": "2026-10-09",
-          "dateLabel": "10月9日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/10/502089.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "6b4fe1f65595",
-          "title": "不等Gemini 4了！谷歌发布办公Agent，支持调用Claude",
-          "desc": "新的“缝合怪”已经出现，怎么能够停滞不前",
-          "source": "量子位",
-          "date": "2026-10-09",
-          "dateLabel": "10月9日",
-          "tags": [
-            "model",
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/10/502083.html",
           "image": "",
           "color": "#7c3aed"
         }
@@ -1812,41 +1936,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-09-06",
-      "dateLabel": "9月6日",
-      "id": "d06",
-      "items": [
-        {
-          "id": "9fa40eb24790",
-          "title": "具身ICL来了创业玩家！上下文成Scaling新赛道",
-          "desc": "让机器人学会利用更长的多模态Context",
-          "source": "量子位",
-          "date": "2026-09-06",
-          "dateLabel": "9月6日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://www.qbitai.com/2026/09/484897.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "7eb478c40c63",
-          "title": "B站首届AI创造公开赛收官，超八成参赛者为一人团队",
-          "desc": "B站首届AI创造公开赛收官，超八成参赛者为一人团队",
-          "source": "量子位",
-          "date": "2026-09-06",
-          "dateLabel": "9月6日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/09/484890.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -1872,6 +1961,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-10-09 16:28",
-  "totalNews": 111
+  "updateTime": "2026-10-10 16:05",
+  "totalNews": 117
 }
