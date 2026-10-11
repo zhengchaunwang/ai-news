@@ -1,6 +1,127 @@
 {
   "newsData": [
     {
+      "date": "2026-10-11",
+      "dateLabel": "10月11日",
+      "id": "d11",
+      "items": [
+        {
+          "id": "90f0b0bef23c",
+          "title": "Qwen-Image-2.1 Pro 和 Turbo API 上线千问 AI 平台，将图像生成与编辑能力接入应用",
+          "desc": "IT之家 10 月 11 日消息，千问 AI 平台今日宣布，Qwen-Image-2.1 Pro 和 Turbo API 现已正式上线千问 AI 平台。开发者可以通过 API 将图像生成与编辑能力接入应用，无需自行部署模型、管理推理环境，即可围绕设计、电商、内容创作等场景搭建自己的工作流。与此同时，Qwen-Image-2.1-Turbo 模型权重同步开放。现在，用户可以在千问 AI 平台查看 Q",
+          "source": "IT之家",
+          "date": "2026-10-11",
+          "dateLabel": "10月11日",
+          "tags": [
+            "model",
+            "research",
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/011/622.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/ea1df9e6-3f84-4344-b22e-b4d4251b3fb0.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "5717fb53aa81",
+          "title": "微软设计副总裁谈 Win11 为何无法让 10 亿用户满意：每个人的偏好都不一样",
+          "desc": "IT之家 10 月 11 日消息，据科技媒体 Windows Latest 今天报道，微软 Win11 未来几个月将迎来 UI 焕新，重点改造系统中的各种传统功能。近日一位用户质疑道，既然 Win11 新版搜索能完成所有操作，那为何还需要开始菜单时，微软高管做出了回应。IT之家从原报道获悉，微软最近宣布推出全新 Windows 搜索，用户可直接在搜索菜单中执行更改系统设置等操作，无需打开“设置”应",
+          "source": "IT之家",
+          "date": "2026-10-11",
+          "dateLabel": "10月11日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/011/621.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/2d2e1a10-5194-48dc-ba3c-345f1f740720.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "5f01774a4661",
+          "title": "特朗普将 AI 人工智能改为 SI 超级智能后，马斯克宣布 SpaceXAI 官方账号正式更名 SpaceXSI",
+          "desc": "IT之家 10 月 11 日消息，今日凌晨 4 点，马斯克在社交平台发布一张截图，宣布 SpaceXAI 的官方账号已更名为“SpaceX Super Intelligence”（@SpaceXSI）。参考IT之家此前报道，美东时间 9 月 29 日，美国总统特朗普正式签署行政令，下令所有行政部门和机构使用“超级智能”（Super Intelligence，简称 SI）一词代替人工智能（AI）。在",
+          "source": "IT之家",
+          "date": "2026-10-11",
+          "dateLabel": "10月11日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/011/620.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/7c48ba2a-faba-4ef8-8c16-190ffbf40a16.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "94cc0e7ff21e",
+          "title": "“第二代豆包手机”努比亚 NaviX Ultra「内测实验室」计划即将开启，10 月 14 日直播",
+          "desc": "IT之家 10 月 11 日消息，努比亚今日宣布 NaviX Ultra「内测实验室」计划即将开启，面向尝鲜用户开放内测资格，抢先体验最新版本能力。10 月 14 日 19:00，首场进化直播。IT之家注意到，“第二代豆包手机”努比亚 NaviX Ultra 于 9 月 16 日发布，号称“全球首款 AI 智能体手机”，由中兴通讯努比亚全链路主导打造，实现一句话让 AI 跨应用执行复杂任务，豆包手",
+          "source": "IT之家",
+          "date": "2026-10-11",
+          "dateLabel": "10月11日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/011/617.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/2e852779-5040-489f-9b88-821778ecc9ba.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "358526e61959",
+          "title": "马斯克称给信用卡拍照就能用 Grok Bot 购物，OpenAI 蒂博调侃“不如直接把卡发网上”",
+          "desc": "IT之家 10 月 11 日消息，xAI 首席执行官埃隆 · 马斯克今日发文称：“买东西时，你只需要拍一张信用卡照片发到聊天框，Grok Bot 就会在网上搜索最佳优惠然后下单。”IT之家注意到，OpenAI Codex&ChatGPT 团队负责人蒂博 · 索蒂奥回应道：“那我干脆直接把卡放这儿得了。”并附上一张 AI 生成的虚构信用卡照片，持卡人名字就是他本人“Thibault Sottiaux",
+          "source": "IT之家",
+          "date": "2026-10-11",
+          "dateLabel": "10月11日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://www.ithome.com/1/011/616.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/8d082354-db61-4927-9a31-9da37900d22f.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "2ffb3dae86b0",
+          "title": "马斯克称尽管自己目前不知道如何制造微芯片，但一定会弄清楚",
+          "desc": "IT之家 10 月 11 日消息，据彭博社报道，埃隆 · 马斯克（Elon Musk）表示，鉴于其旗下公司在制造定制设备方面的专长，他相信自己的公司很可能会“找到比任何人都更好地制造芯片的方法”。在得克萨斯州奥斯汀的特斯拉超级工厂外，马斯克向到场的客户与投资人坦言，尽管自己目前“不知道如何制造微芯片，但我们（一定）会弄清楚”。在周六通过线上直播参与 X Takeover 活动时，他特别提到，此前在",
+          "source": "IT之家",
+          "date": "2026-10-11",
+          "dateLabel": "10月11日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/011/613.htm",
+          "image": "",
+          "color": "#d97706"
+        },
+        {
+          "id": "6e08928bbea7",
+          "title": "美国任天堂总裁强调 Switch 2 多样化游戏阵容：从 5 岁到 95 岁都能玩",
+          "desc": "IT之家 10 月 11 日消息，美国任天堂总裁德文 · 普里查德（Devon Pritchard）近日接受《综艺》杂志采访，她认为 Switch 2 游戏机尚处初期阶段，还有非常多战略优势可以发挥。IT之家注意到，任天堂 Switch 2 相比第一代 Switch 拥有更出色的画面表现和更强的机能，可带来全新游戏玩法。今年，微软已决定让《使命召唤》系列游戏重新登陆任天堂主机，距上一次已有十多年，",
+          "source": "IT之家",
+          "date": "2026-10-11",
+          "dateLabel": "10月11日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/011/604.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/55e6302f-d1ab-482c-9462-b1b73e1fe553.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "09ee98f0481b",
+          "title": "微软任命前 Reddit 首席产品官 Maria Angelidou-Smith 出任《我的世界》开发商 Mojang 新任 CEO",
+          "desc": "IT之家 10 月 11 日消息，微软 XBOX 宣布，前 Reddit 首席产品官 Maria Angelidou-Smith 将出任《我的世界》开发商 Mojang 的新任 CEO，接替 Kayleen Walters。她将于 10 月 19 日正式上任，直接向 Xbox CEO Asha Sharma 汇报。微软 XBOX 业务 CEO Asha Sharma 在内部备忘录中表示，Mojan",
+          "source": "IT之家",
+          "date": "2026-10-11",
+          "dateLabel": "10月11日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/011/602.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/d079bec5-8a4c-48d7-8126-83547b4ef6a1.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-10-10",
       "dateLabel": "10月10日",
       "id": "d10",
@@ -18,110 +139,6 @@
           "url": "https://www.qbitai.com/2026/10/502467.html",
           "image": "",
           "color": "#7c3aed"
-        },
-        {
-          "id": "af6bf648d2b4",
-          "title": "IMF：如应用得当，人工智能可以使全球经济年增速提高 0. 5 个百分点",
-          "desc": "IT之家 10 月 10 日消息，国际货币基金组织 (IMF) 总裁克里斯塔利娜 · 格奥尔基耶娃在本月 7 日的一篇题为《在持续变化世界经济的纵横激流中稳舵前行》的演讲稿强调了人工智能的对全球经济的影响。格奥尔基耶娃表示，人工智能带来的正向需求冲击正与地缘政治引发的能源供给负面冲击一道拉扯全球经济，而这两股力量的总体影响在全球范围内分布极不均衡。全球用于人工智能的投资占 GDP 的比重将达到并很",
-          "source": "IT之家",
-          "date": "2026-10-10",
-          "dateLabel": "10月10日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/011/407.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/d177fb8d-9c68-4a41-bc5b-4f976397d7a5.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "75351163c5ac",
-          "title": "教育部：教师 AI 素养全覆盖培训启动",
-          "desc": "IT之家 10 月 10 日消息，据央视新闻报道，教育部今天（10 日）在京召开人工智能赋能教师发展现场会。国家智慧教育平台教师发展中心全新升级上线，同时，教师人工智能素养全覆盖培训启动。新上线的教师发展中心开设 AI 素养专区，集成人工智能学习资源、智能工具和研修社群，为教师自主学习和全覆盖培训提供支撑。作为全覆盖培训第一课，教育部邀请一线教师、校长和教育局长开展现场沉浸式、场景式示范培训，展示",
-          "source": "IT之家",
-          "date": "2026-10-10",
-          "dateLabel": "10月10日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/011/400.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2025/3/3075e035-0f6e-4e2a-8def-16bb5c7b6145.jpg?x-bce-process=image/watermark,text_QUnnlJ_miJA,type_RlpMYW5UaW5nSGVpU0JHQg==,size_20,color_ffffffdd,skw_1,skc_00000051,g_7,blr_50,bls_50,x_8,y_8",
-          "color": "#d97706"
-        },
-        {
-          "id": "19f28a1ef453",
-          "title": "传英伟达将不再向 GeForce 游戏显卡分配 GB202 GPU",
-          "desc": "IT之家 10 月 10 日消息，消息人士 MEGAsizeGPU (@Zed__Wang) 今日爆料称，NVIDIA（英伟达）将不再向 GeForce RTX 50 系列游戏显卡分配 GB202，该 GPU 的供应将由 RTX PRO Blackwell 专业显卡独占。这意味着 GeForce RTX 5090 / 5090 D v2 两款旗舰产品都将停产，玩家可入手的最高性能游戏显卡将降级至 ",
-          "source": "IT之家",
-          "date": "2026-10-10",
-          "dateLabel": "10月10日",
-          "tags": [
-            "model",
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/011/397.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/7cac1cc2-b2b6-4f61-94ab-6937f94aa95b.jpg",
-          "color": "#d97706"
-        },
-        {
-          "id": "b0f6afe54cc3",
-          "title": "消息称某厂 2nm 阔折叠工程机采用三星屏、哈苏全焦段影像，预计 OPPO 旗下",
-          "desc": "IT之家 10 月 10 日消息，据博主 @数码闲聊站 今日爆料，某厂阔家族将率先推出搭载 2nm 芯片的阔折叠，结合该博主此前的爆料习惯，预计该机为 OPPO 旗下。据其爆料，该机采用 7.6 英寸无痕铰链方案，工程机是三星屏，搭载 200Mp 大底主摄 +50Mp 超广角 +50Mp 潜望长焦 +3Mp 多光谱镜头，哈苏全焦段影像，主打轻薄无痕全能。IT之家注意到，早在今年 1 月，该博主便爆",
-          "source": "IT之家",
-          "date": "2026-10-10",
-          "dateLabel": "10月10日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/011/396.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/389831ff-d40f-43b8-9cca-22b482719314.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "4364be7f80c4",
-          "title": "给 AI 植入广告涉“虚假宣传”，深圳一家 GEO 服务商被市场监管局处以 5 万元罚款",
-          "desc": "IT之家 10 月 10 日消息，据深圳市市场监管局，近期一家小型服务商因“套取 AI 收录标准、批量编造虚假排名”，被市场监管局处以 5 万元罚款。GEO（AI 模型输出结果优化）自 DeepSeek 爆红后兴起，与传统 SEO（搜索引擎优化）争夺网页排名不同，GEO 瞄准的是大模型的回复内容。服务商通过研究 AI 的回答偏好，生产、投放更容易被 AI 引用的内容，帮助商家在 AI 问答中获得曝",
-          "source": "IT之家",
-          "date": "2026-10-10",
-          "dateLabel": "10月10日",
-          "tags": [
-            "model",
-            "research",
-            "policy",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/011/394.htm",
-          "image": "",
-          "color": "#d97706"
-        },
-        {
-          "id": "79a1e7beb711",
-          "title": "Meta 与多家伙伴合作推出 PAP 协议：规范个人智能体与企业服务交互方式",
-          "desc": "IT之家 10 月 10 日消息，人工智能企业 Sierra 当地时间宣布，其与 Meta 以及行业合作伙伴 Shopify、Stripe、沃尔玛、Genesys、Instinct、Rocket 共同推出个人智能体协议 (Personal Agent Protocol, PAP)。PAP 旨在规范个人智能体与企业服务的交互方式，为智能体创造更为高效安全的互动环境。在这一过程中，消费者能确保其利益得",
-          "source": "IT之家",
-          "date": "2026-10-10",
-          "dateLabel": "10月10日",
-          "tags": [
-            "model",
-            "business",
-            "policy"
-          ],
-          "url": "https://www.ithome.com/1/011/392.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/df036214-12e0-4483-8ad4-196d531f48e1.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "6264cd7ae64c",
-          "title": "一加 Ace 7 手机跑分曝光：高通第五代骁龙 8 至尊版芯片，16GB 内存",
-          "desc": "IT之家 10 月 10 日消息，型号为 PMS110 的一加（OnePlus）手机昨日（10 月 9 日）现身 GeekBench 跑分库，目前共有 3 条 GeekBench 6 记录，跑分最高的一条单核成绩为 3,627 分，多核成绩为 11,016 分，该机预估关联一加 Ace 7 手机。根据跑分页面显示，PMS110 手机搭载高通“SM8850”芯片组，包含六个主频为 3.63GHz 的",
-          "source": "IT之家",
-          "date": "2026-10-10",
-          "dateLabel": "10月10日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/011/391.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/322ffd54-543e-4528-800b-a213843657c3.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
         }
       ]
     },
@@ -1915,27 +1932,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-09-07",
-      "dateLabel": "9月7日",
-      "id": "d07",
-      "items": [
-        {
-          "id": "e83eba6f6269",
-          "title": "3秒变身！会合体的机器人，卖到全球50国",
-          "desc": "谁说现在机器人都长得差不多的！",
-          "source": "量子位",
-          "date": "2026-09-07",
-          "dateLabel": "9月7日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://www.qbitai.com/2026/09/485525.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -1961,6 +1957,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-10-10 16:05",
+  "updateTime": "2026-10-11 16:16",
   "totalNews": 117
 }
