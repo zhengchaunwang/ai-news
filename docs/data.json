@@ -1,123 +1,238 @@
 {
   "newsData": [
     {
+      "date": "2026-10-12",
+      "dateLabel": "10月12日",
+      "id": "d12",
+      "items": [
+        {
+          "id": "fb97f774cfee",
+          "title": "华为AI靠RSI通关25款游戏！操作次数比人类少56%",
+          "desc": "游戏打到21:0，AI甚至不用再调用大模型了",
+          "source": "量子位",
+          "date": "2026-10-12",
+          "dateLabel": "10月12日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/10/502654.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "f28ff02335eb",
+          "title": "智谱新模型，490 tokens/s！",
+          "desc": "GLM「速度仙人」来了？",
+          "source": "量子位",
+          "date": "2026-10-12",
+          "dateLabel": "10月12日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/10/502649.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "dd187fba5e10",
+          "title": "因内存涨价潮叠加《GTA6》抢购潮：消息称微软 XBOX Series X 游戏机在国际市场持续面临供应短缺局面",
+          "desc": "据 Notebookcheck 报道，微软 XBOX Series X 游戏主机在欧洲、拉丁美洲等多个市场持续面临供应短缺局面，部分零售商甚至将 XBOX Series X 的售价提高至官方建议零售价的两倍。外媒援引 ResetEra 论坛玩家反馈，一位玩家 Firmus_Anguis 透露，瑞典当地目前仅有一家零售商销售 XBOX Series X 主机，价格却高得惊人。作为参考，目前 XBOX",
+          "source": "IT之家",
+          "date": "2026-10-12",
+          "dateLabel": "10月12日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/011/971.htm",
+          "image": "",
+          "color": "#d97706"
+        },
+        {
+          "id": "10ed9cb79b77",
+          "title": "微软 Win11 最古老工具之一：Hyper-V 管理器将支持深色模式",
+          "desc": "IT之家 10 月 12 日消息，据科技媒体 Windows Latest 昨天报道，微软 Win11 系统并没有采用统一设计语言，其自带应用和各种对话框仍分散地使用不同框架。微软未来将使用 WinUI 重构大量旧版 UI，但对于某些特别老的组件，微软选择直接加入深色模式，在现代化之前改善使用体验。IT之家从原报道获悉，微软近期已为 Win11 的删除文件、复制文件对话框加入深色模式。并且经典 W",
+          "source": "IT之家",
+          "date": "2026-10-12",
+          "dateLabel": "10月12日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/011/969.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/83b37d8f-5149-44d6-bd1d-94c0c665b730.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "ed887e993a73",
+          "title": "上汽大众 ID.ERA 5X 官宣 11 月上市，家族首款纯电车型",
+          "desc": "IT之家 10 月 12 日消息，在今日的上汽大众 ID. ERA 8X 上市发布会中，上汽大众宣布 ID. ERA 5X 车型将于 11 月正式上市。这是上汽大众 ID. ERA 家族首款纯电车型，定位“超能纯电 SUV”，搭载激光雷达、“行云智行”智能辅助驾驶系统，拥有 2815mm 轴距，配备宁德时代电池。ID.ERA 5X 配备 192 线激光雷达、地平线征程 6H 芯片、标配 4 纳米 ",
+          "source": "IT之家",
+          "date": "2026-10-12",
+          "dateLabel": "10月12日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/011/962.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/447affa9-13b2-4dea-9a92-793f0fa688e0.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "38b5e86d5801",
+          "title": "报告称 AI 开发普及以来美国初级程序员就业人数下降约 20%，专家警告 10 年后可能没高级人才可用",
+          "desc": "IT之家 10 月 12 日消息，据 CNBC 今日报道，自 2025 年 2 月 Anthropic 的 Claude Code 发布以来，美国软件开发职位发布数量不降反增。Indeed Hiring Lab 的数据显示，自 2025 年 2 月以来，美国软件开发职位发布增长了近 15%，而整体就业市场招聘数量下降了 7%。一些经济专家指出，软件招聘信息的反弹证实了对 AI 和就业市场的乐观看法",
+          "source": "IT之家",
+          "date": "2026-10-12",
+          "dateLabel": "10月12日",
+          "tags": [
+            "model",
+            "business",
+            "policy"
+          ],
+          "url": "https://www.ithome.com/1/011/958.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/fe60bd24-c4b0-4bec-b633-b4fdc12afab9.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "27daf31abeff",
+          "title": "Arena 公布新一轮 AI 大模型周榜：Claude Opus 5.5 Max 首登智能体榜首，国产多模型稳定中上游",
+          "desc": "IT之家 10 月 12 日消息，Arena（arena.ai）平台发布 2026 年第 41 周 AI 大模型排行榜，覆盖时间为 2026-10-05 ~ 2026-10-11。本期榜单中，Anthropic 全新 Claude Opus 5.5 Max 首次入榜智能体榜即夺得第一；国产模型 kimi-k3-max 稳居综合榜前 20，qwen3.8-max 等多款国产模型保持稳定排名，整体处于",
+          "source": "IT之家",
+          "date": "2026-10-12",
+          "dateLabel": "10月12日",
+          "tags": [
+            "model",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/011/948.htm",
+          "image": "",
+          "color": "#d97706"
+        },
+        {
+          "id": "d4d34523e47a",
+          "title": "2026 华为终端创新技术沟通会首日十大技术品牌亮相，一图读懂",
+          "desc": "IT之家 10 月 12 日现场消息，华为终端创新技术沟通会今日在上海练秋湖启幕。根据安排，活动将持续至明日。今天是活动的第一天，IT之家在现场了解到，首发登场的十大技术是灵珑屏、灵盾防窥屏、昆仑玻璃、华为悦彰、麒麟芯片、XMAGE 华为睿影、玄武架构、天工铰链、星迹定位和静谧通话。预计明天将介绍云晰柔光屏、小艺、方舟引擎、星闪、鸿蒙星河互联、鸿蒙星盾安全、鸿蒙空间计算、TruSense 玄玑感知",
+          "source": "IT之家",
+          "date": "2026-10-12",
+          "dateLabel": "10月12日",
+          "tags": [
+            "research",
+            "business",
+            "policy",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/011/939.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/6507b4fe-b84c-4919-a74c-6cd26778e24b.jpg",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-10-11",
       "dateLabel": "10月11日",
       "id": "d11",
       "items": [
         {
-          "id": "90f0b0bef23c",
-          "title": "Qwen-Image-2.1 Pro 和 Turbo API 上线千问 AI 平台，将图像生成与编辑能力接入应用",
-          "desc": "IT之家 10 月 11 日消息，千问 AI 平台今日宣布，Qwen-Image-2.1 Pro 和 Turbo API 现已正式上线千问 AI 平台。开发者可以通过 API 将图像生成与编辑能力接入应用，无需自行部署模型、管理推理环境，即可围绕设计、电商、内容创作等场景搭建自己的工作流。与此同时，Qwen-Image-2.1-Turbo 模型权重同步开放。现在，用户可以在千问 AI 平台查看 Q",
-          "source": "IT之家",
+          "id": "17e9d45edb36",
+          "title": "用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针",
+          "desc": "一套生成论文初稿的多智能体工作流",
+          "source": "量子位",
           "date": "2026-10-11",
           "dateLabel": "10月11日",
           "tags": [
-            "model",
+            "research"
+          ],
+          "url": "https://www.qbitai.com/2026/10/502644.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "0ab9a0280e6e",
+          "title": "何恺明团队发布多模态Harness框架",
+          "desc": "多模态模型的视觉原生Harness，来了！",
+          "source": "量子位",
+          "date": "2026-10-11",
+          "dateLabel": "10月11日",
+          "tags": [
             "research",
             "business"
           ],
-          "url": "https://www.ithome.com/1/011/622.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/ea1df9e6-3f84-4344-b22e-b4d4251b3fb0.png",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/10/502628.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "5717fb53aa81",
-          "title": "微软设计副总裁谈 Win11 为何无法让 10 亿用户满意：每个人的偏好都不一样",
-          "desc": "IT之家 10 月 11 日消息，据科技媒体 Windows Latest 今天报道，微软 Win11 未来几个月将迎来 UI 焕新，重点改造系统中的各种传统功能。近日一位用户质疑道，既然 Win11 新版搜索能完成所有操作，那为何还需要开始菜单时，微软高管做出了回应。IT之家从原报道获悉，微软最近宣布推出全新 Windows 搜索，用户可直接在搜索菜单中执行更改系统设置等操作，无需打开“设置”应",
-          "source": "IT之家",
+          "id": "0c5bd0c58bee",
+          "title": "陶哲轩：数学2.0时代已至！",
+          "desc": "陶哲轩：数学2.0时代已至！",
+          "source": "量子位",
           "date": "2026-10-11",
           "dateLabel": "10月11日",
           "tags": [
             "business"
           ],
-          "url": "https://www.ithome.com/1/011/621.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/2d2e1a10-5194-48dc-ba3c-345f1f740720.png",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/10/502594.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "5f01774a4661",
-          "title": "特朗普将 AI 人工智能改为 SI 超级智能后，马斯克宣布 SpaceXAI 官方账号正式更名 SpaceXSI",
-          "desc": "IT之家 10 月 11 日消息，今日凌晨 4 点，马斯克在社交平台发布一张截图，宣布 SpaceXAI 的官方账号已更名为“SpaceX Super Intelligence”（@SpaceXSI）。参考IT之家此前报道，美东时间 9 月 29 日，美国总统特朗普正式签署行政令，下令所有行政部门和机构使用“超级智能”（Super Intelligence，简称 SI）一词代替人工智能（AI）。在",
-          "source": "IT之家",
+          "id": "8972d295d675",
+          "title": "王的猜想，刚刚扩展到四维",
+          "desc": "王的猜想，刚刚扩展到四维",
+          "source": "量子位",
           "date": "2026-10-11",
           "dateLabel": "10月11日",
           "tags": [
             "business"
           ],
-          "url": "https://www.ithome.com/1/011/620.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/7c48ba2a-faba-4ef8-8c16-190ffbf40a16.jpg",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/10/502584.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "94cc0e7ff21e",
-          "title": "“第二代豆包手机”努比亚 NaviX Ultra「内测实验室」计划即将开启，10 月 14 日直播",
-          "desc": "IT之家 10 月 11 日消息，努比亚今日宣布 NaviX Ultra「内测实验室」计划即将开启，面向尝鲜用户开放内测资格，抢先体验最新版本能力。10 月 14 日 19:00，首场进化直播。IT之家注意到，“第二代豆包手机”努比亚 NaviX Ultra 于 9 月 16 日发布，号称“全球首款 AI 智能体手机”，由中兴通讯努比亚全链路主导打造，实现一句话让 AI 跨应用执行复杂任务，豆包手",
-          "source": "IT之家",
+          "id": "7b2a0ed51f9f",
+          "title": "硅谷AI现状：谁有算力谁是爹",
+          "desc": "马斯克连横A社，硅谷VC开始囤GPU",
+          "source": "量子位",
           "date": "2026-10-11",
           "dateLabel": "10月11日",
           "tags": [
             "business"
           ],
-          "url": "https://www.ithome.com/1/011/617.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/2e852779-5040-489f-9b88-821778ecc9ba.png",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/10/502585.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "358526e61959",
-          "title": "马斯克称给信用卡拍照就能用 Grok Bot 购物，OpenAI 蒂博调侃“不如直接把卡发网上”",
-          "desc": "IT之家 10 月 11 日消息，xAI 首席执行官埃隆 · 马斯克今日发文称：“买东西时，你只需要拍一张信用卡照片发到聊天框，Grok Bot 就会在网上搜索最佳优惠然后下单。”IT之家注意到，OpenAI Codex&ChatGPT 团队负责人蒂博 · 索蒂奥回应道：“那我干脆直接把卡放这儿得了。”并附上一张 AI 生成的虚构信用卡照片，持卡人名字就是他本人“Thibault Sottiaux",
-          "source": "IT之家",
+          "id": "7c7b65355f1f",
+          "title": "下架8个月，GPT-4o的拯救行动居然还在继续",
+          "desc": "初代4o的API快照进入停用倒计时",
+          "source": "量子位",
           "date": "2026-10-11",
           "dateLabel": "10月11日",
           "tags": [
             "model"
           ],
-          "url": "https://www.ithome.com/1/011/616.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/8d082354-db61-4927-9a31-9da37900d22f.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "2ffb3dae86b0",
-          "title": "马斯克称尽管自己目前不知道如何制造微芯片，但一定会弄清楚",
-          "desc": "IT之家 10 月 11 日消息，据彭博社报道，埃隆 · 马斯克（Elon Musk）表示，鉴于其旗下公司在制造定制设备方面的专长，他相信自己的公司很可能会“找到比任何人都更好地制造芯片的方法”。在得克萨斯州奥斯汀的特斯拉超级工厂外，马斯克向到场的客户与投资人坦言，尽管自己目前“不知道如何制造微芯片，但我们（一定）会弄清楚”。在周六通过线上直播参与 X Takeover 活动时，他特别提到，此前在",
-          "source": "IT之家",
-          "date": "2026-10-11",
-          "dateLabel": "10月11日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/011/613.htm",
+          "url": "https://www.qbitai.com/2026/10/502550.html",
           "image": "",
-          "color": "#d97706"
+          "color": "#7c3aed"
         },
         {
-          "id": "6e08928bbea7",
-          "title": "美国任天堂总裁强调 Switch 2 多样化游戏阵容：从 5 岁到 95 岁都能玩",
-          "desc": "IT之家 10 月 11 日消息，美国任天堂总裁德文 · 普里查德（Devon Pritchard）近日接受《综艺》杂志采访，她认为 Switch 2 游戏机尚处初期阶段，还有非常多战略优势可以发挥。IT之家注意到，任天堂 Switch 2 相比第一代 Switch 拥有更出色的画面表现和更强的机能，可带来全新游戏玩法。今年，微软已决定让《使命召唤》系列游戏重新登陆任天堂主机，距上一次已有十多年，",
-          "source": "IT之家",
+          "id": "4e7491debf2f",
+          "title": "DeepSeek Bot来了！民间版，DSH装个插件就能用",
+          "desc": "Grok Bot我养不起，ds bot不得高低尝尝咸淡？",
+          "source": "量子位",
           "date": "2026-10-11",
           "dateLabel": "10月11日",
           "tags": [
-            "business"
+            "model",
+            "cn"
           ],
-          "url": "https://www.ithome.com/1/011/604.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/55e6302f-d1ab-482c-9462-b1b73e1fe553.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "09ee98f0481b",
-          "title": "微软任命前 Reddit 首席产品官 Maria Angelidou-Smith 出任《我的世界》开发商 Mojang 新任 CEO",
-          "desc": "IT之家 10 月 11 日消息，微软 XBOX 宣布，前 Reddit 首席产品官 Maria Angelidou-Smith 将出任《我的世界》开发商 Mojang 的新任 CEO，接替 Kayleen Walters。她将于 10 月 19 日正式上任，直接向 Xbox CEO Asha Sharma 汇报。微软 XBOX 业务 CEO Asha Sharma 在内部备忘录中表示，Mojan",
-          "source": "IT之家",
-          "date": "2026-10-11",
-          "dateLabel": "10月11日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/011/602.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/d079bec5-8a4c-48d7-8126-83547b4ef6a1.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/10/502544.html",
+          "image": "",
+          "color": "#7c3aed"
         }
       ]
     },
@@ -127,16 +242,16 @@
       "id": "d10",
       "items": [
         {
-          "id": "e2c5e005534a",
-          "title": "特斯拉FSD，在欧洲被打回原形",
-          "desc": "马斯克反而发文道谢？",
+          "id": "1062e09366a4",
+          "title": "西门子将亮相2026工博会：以软硬协同的工业全栈能力，推动物理AI加速落地",
+          "desc": "西门子将以更集中、更场景化的方式，展示其工业全栈能力",
           "source": "量子位",
           "date": "2026-10-10",
           "dateLabel": "10月10日",
           "tags": [
             "business"
           ],
-          "url": "https://www.qbitai.com/2026/10/502467.html",
+          "url": "https://www.qbitai.com/2026/10/502541.html",
           "image": "",
           "color": "#7c3aed"
         }
@@ -1911,27 +2026,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-09-08",
-      "dateLabel": "9月8日",
-      "id": "d08",
-      "items": [
-        {
-          "id": "12983432bbca",
-          "title": "感谢用GPT-6搓3D的！燃烧自己的token换来一次全体重置",
-          "desc": "Blender也不用学了",
-          "source": "量子位",
-          "date": "2026-09-08",
-          "dateLabel": "9月8日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://www.qbitai.com/2026/09/485854.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -1957,6 +2051,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-10-11 16:16",
-  "totalNews": 117
+  "updateTime": "2026-10-12 16:35",
+  "totalNews": 123
 }
