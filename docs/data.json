@@ -1,131 +1,163 @@
 {
   "newsData": [
     {
+      "date": "2026-10-13",
+      "dateLabel": "10月13日",
+      "id": "d13",
+      "items": [
+        {
+          "id": "aab579c97646",
+          "title": "中国车企反攻德系车心脏！巴黎车展国产品牌独占三成，大众CEO连忙呼吁抱团迎战",
+          "desc": "宝马保时捷缺席",
+          "source": "量子位",
+          "date": "2026-10-13",
+          "dateLabel": "10月13日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/10/502992.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "efb79060ebc6",
+          "title": "华为哈勃投了个98年博士！让机器人皮肤变色，团队平均23岁",
+          "desc": "让材料感知压力，造出超薄高密度电子皮肤",
+          "source": "量子位",
+          "date": "2026-10-13",
+          "dateLabel": "10月13日",
+          "tags": [
+            "research",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/10/502954.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "9982daa2bc76",
+          "title": "Claude团队又搞事：实测AI全自主复制进智能家电",
+          "desc": "拉马克进化的幽灵",
+          "source": "量子位",
+          "date": "2026-10-13",
+          "dateLabel": "10月13日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://www.qbitai.com/2026/10/502920.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "0ca0a03d7adc",
+          "title": "“模态进化”：第八届亿邦产业互联网年会暨首届产业智能体大会双会合体定档",
+          "desc": "由亿邦动力主办的“2026第八届亿邦产业互联网年会暨首届产业智能体大会”正式定档",
+          "source": "量子位",
+          "date": "2026-10-13",
+          "dateLabel": "10月13日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/10/502907.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "af1edb719d17",
+          "title": "9大赛道，23份企业真实考卷！上海具身智能大考，邀千队共解题",
+          "desc": "赢奖金、拿融资、送出海",
+          "source": "量子位",
+          "date": "2026-10-13",
+          "dateLabel": "10月13日",
+          "tags": [
+            "research",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/10/502784.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "3b98b3d13125",
+          "title": "退差价、约保养、订球场、跟客服磨赔偿，千问Go什么都想管",
+          "desc": "丢一句话进去，事儿就办完了",
+          "source": "量子位",
+          "date": "2026-10-13",
+          "dateLabel": "10月13日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/10/502849.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "2baef088c3d8",
+          "title": "单轮23亿，累计43亿，无问芯穹刷新国产AI Infra赛道融资双重纪录",
+          "desc": "算力、模型、行业，三层生意一起做",
+          "source": "量子位",
+          "date": "2026-10-13",
+          "dateLabel": "10月13日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/10/502767.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "4ba1e58dd665",
+          "title": "优必选上榜 2026 年《财富》全球未来成长 120 强，位列全球第 11、中国企业第一",
+          "desc": "优必选以总分 115 拿下2026 Fortune Future 120全球第 11 名",
+          "source": "量子位",
+          "date": "2026-10-13",
+          "dateLabel": "10月13日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/10/502770.html",
+          "image": "",
+          "color": "#7c3aed"
+        }
+      ]
+    },
+    {
       "date": "2026-10-12",
       "dateLabel": "10月12日",
       "id": "d12",
       "items": [
         {
-          "id": "fb97f774cfee",
-          "title": "华为AI靠RSI通关25款游戏！操作次数比人类少56%",
-          "desc": "游戏打到21:0，AI甚至不用再调用大模型了",
+          "id": "223cdccef5f1",
+          "title": "2026没过完，已有480亿美元投进了物理AI",
+          "desc": "日均10亿元流入",
           "source": "量子位",
-          "date": "2026-10-12",
-          "dateLabel": "10月12日",
-          "tags": [
-            "model",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/10/502654.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "f28ff02335eb",
-          "title": "智谱新模型，490 tokens/s！",
-          "desc": "GLM「速度仙人」来了？",
-          "source": "量子位",
-          "date": "2026-10-12",
-          "dateLabel": "10月12日",
-          "tags": [
-            "model",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/10/502649.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "dd187fba5e10",
-          "title": "因内存涨价潮叠加《GTA6》抢购潮：消息称微软 XBOX Series X 游戏机在国际市场持续面临供应短缺局面",
-          "desc": "据 Notebookcheck 报道，微软 XBOX Series X 游戏主机在欧洲、拉丁美洲等多个市场持续面临供应短缺局面，部分零售商甚至将 XBOX Series X 的售价提高至官方建议零售价的两倍。外媒援引 ResetEra 论坛玩家反馈，一位玩家 Firmus_Anguis 透露，瑞典当地目前仅有一家零售商销售 XBOX Series X 主机，价格却高得惊人。作为参考，目前 XBOX",
-          "source": "IT之家",
           "date": "2026-10-12",
           "dateLabel": "10月12日",
           "tags": [
             "business"
           ],
-          "url": "https://www.ithome.com/1/011/971.htm",
+          "url": "https://www.qbitai.com/2026/10/502741.html",
           "image": "",
-          "color": "#d97706"
+          "color": "#7c3aed"
         },
         {
-          "id": "10ed9cb79b77",
-          "title": "微软 Win11 最古老工具之一：Hyper-V 管理器将支持深色模式",
-          "desc": "IT之家 10 月 12 日消息，据科技媒体 Windows Latest 昨天报道，微软 Win11 系统并没有采用统一设计语言，其自带应用和各种对话框仍分散地使用不同框架。微软未来将使用 WinUI 重构大量旧版 UI，但对于某些特别老的组件，微软选择直接加入深色模式，在现代化之前改善使用体验。IT之家从原报道获悉，微软近期已为 Win11 的删除文件、复制文件对话框加入深色模式。并且经典 W",
-          "source": "IT之家",
-          "date": "2026-10-12",
-          "dateLabel": "10月12日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/011/969.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/83b37d8f-5149-44d6-bd1d-94c0c665b730.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "ed887e993a73",
-          "title": "上汽大众 ID.ERA 5X 官宣 11 月上市，家族首款纯电车型",
-          "desc": "IT之家 10 月 12 日消息，在今日的上汽大众 ID. ERA 8X 上市发布会中，上汽大众宣布 ID. ERA 5X 车型将于 11 月正式上市。这是上汽大众 ID. ERA 家族首款纯电车型，定位“超能纯电 SUV”，搭载激光雷达、“行云智行”智能辅助驾驶系统，拥有 2815mm 轴距，配备宁德时代电池。ID.ERA 5X 配备 192 线激光雷达、地平线征程 6H 芯片、标配 4 纳米 ",
-          "source": "IT之家",
-          "date": "2026-10-12",
-          "dateLabel": "10月12日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/011/962.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/447affa9-13b2-4dea-9a92-793f0fa688e0.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "38b5e86d5801",
-          "title": "报告称 AI 开发普及以来美国初级程序员就业人数下降约 20%，专家警告 10 年后可能没高级人才可用",
-          "desc": "IT之家 10 月 12 日消息，据 CNBC 今日报道，自 2025 年 2 月 Anthropic 的 Claude Code 发布以来，美国软件开发职位发布数量不降反增。Indeed Hiring Lab 的数据显示，自 2025 年 2 月以来，美国软件开发职位发布增长了近 15%，而整体就业市场招聘数量下降了 7%。一些经济专家指出，软件招聘信息的反弹证实了对 AI 和就业市场的乐观看法",
-          "source": "IT之家",
-          "date": "2026-10-12",
-          "dateLabel": "10月12日",
-          "tags": [
-            "model",
-            "business",
-            "policy"
-          ],
-          "url": "https://www.ithome.com/1/011/958.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/fe60bd24-c4b0-4bec-b633-b4fdc12afab9.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "27daf31abeff",
-          "title": "Arena 公布新一轮 AI 大模型周榜：Claude Opus 5.5 Max 首登智能体榜首，国产多模型稳定中上游",
-          "desc": "IT之家 10 月 12 日消息，Arena（arena.ai）平台发布 2026 年第 41 周 AI 大模型排行榜，覆盖时间为 2026-10-05 ~ 2026-10-11。本期榜单中，Anthropic 全新 Claude Opus 5.5 Max 首次入榜智能体榜即夺得第一；国产模型 kimi-k3-max 稳居综合榜前 20，qwen3.8-max 等多款国产模型保持稳定排名，整体处于",
-          "source": "IT之家",
-          "date": "2026-10-12",
-          "dateLabel": "10月12日",
-          "tags": [
-            "model",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/011/948.htm",
-          "image": "",
-          "color": "#d97706"
-        },
-        {
-          "id": "d4d34523e47a",
-          "title": "2026 华为终端创新技术沟通会首日十大技术品牌亮相，一图读懂",
-          "desc": "IT之家 10 月 12 日现场消息，华为终端创新技术沟通会今日在上海练秋湖启幕。根据安排，活动将持续至明日。今天是活动的第一天，IT之家在现场了解到，首发登场的十大技术是灵珑屏、灵盾防窥屏、昆仑玻璃、华为悦彰、麒麟芯片、XMAGE 华为睿影、玄武架构、天工铰链、星迹定位和静谧通话。预计明天将介绍云晰柔光屏、小艺、方舟引擎、星闪、鸿蒙星河互联、鸿蒙星盾安全、鸿蒙空间计算、TruSense 玄玑感知",
-          "source": "IT之家",
+          "id": "6ff58ba6f77d",
+          "title": "具身智能回到产业现场， 思灵机器人Agile Robots携12款展品亮相2026工博会",
+          "desc": "思灵机器人Agile Robots携12款展品参展第26届中国国际工业博览会。",
+          "source": "量子位",
           "date": "2026-10-12",
           "dateLabel": "10月12日",
           "tags": [
             "research",
-            "business",
-            "policy",
             "cn"
           ],
-          "url": "https://www.ithome.com/1/011/939.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/6507b4fe-b84c-4919-a74c-6cd26778e24b.jpg",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/10/502683.html",
+          "image": "",
+          "color": "#7c3aed"
         }
       ]
     },
@@ -1931,101 +1963,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-09-09",
-      "dateLabel": "9月9日",
-      "id": "d09",
-      "items": [
-        {
-          "id": "a818a4283a5c",
-          "title": "刚刚，苹果首款折叠屏发布！15999元起，AI参与设计",
-          "desc": "一比根号二的小胖折叠",
-          "source": "量子位",
-          "date": "2026-09-09",
-          "dateLabel": "9月9日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/09/486450.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "6c3f64573dfb",
-          "title": "国产AI4S计算平台登场亮相2026外滩大会 算力技术与人才布局双向发力",
-          "desc": "国产AI4S计算平台登场亮相2026外滩大会 算力技术与人才布局双向发力",
-          "source": "量子位",
-          "date": "2026-09-09",
-          "dateLabel": "9月9日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/09/486370.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "89af7b97ce3f",
-          "title": "蚂蚁百灵发布首个金融增强模型，AI开始进入真实投研工作流",
-          "desc": "蚂蚁集团百灵首个金融增强开放模型 Ling-3.0-flash-Fin发布。",
-          "source": "量子位",
-          "date": "2026-09-09",
-          "dateLabel": "9月9日",
-          "tags": [
-            "model",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/09/486288.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "d82b9e9aa4d3",
-          "title": "具身机器人能搞定超市盘点吗？全球七万门店正在给出答案",
-          "desc": "从Demo到货架，这两家公司要让具身智能算得过账",
-          "source": "量子位",
-          "date": "2026-09-09",
-          "dateLabel": "9月9日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://www.qbitai.com/2026/09/486280.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "82a4bcbc2bf6",
-          "title": "SkyProduction限免活动第二期：MiniMax H3会员限时免费无限用！",
-          "desc": "8月28日-9月1日，SkyProduction（天工工作台）联合阿里巴巴通义万相，推出了Wan 3.0模型限时免费活动",
-          "source": "量子位",
-          "date": "2026-09-09",
-          "dateLabel": "9月9日",
-          "tags": [
-            "model",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/09/486052.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "7ee3c40c2d45",
-          "title": "宜宾，一场机器人“招聘会”的产业雄心",
-          "desc": "9月3日，宜宾国际会展中心，55支机器人团队正在完成一场特殊的“面试”。",
-          "source": "量子位",
-          "date": "2026-09-09",
-          "dateLabel": "9月9日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://www.qbitai.com/2026/09/486038.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -2051,6 +1988,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-10-12 16:35",
-  "totalNews": 123
+  "updateTime": "2026-10-13 16:55",
+  "totalNews": 119
 }
