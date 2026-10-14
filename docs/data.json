@@ -1,10 +1,182 @@
 {
   "newsData": [
     {
+      "date": "2026-10-14",
+      "dateLabel": "10月14日",
+      "id": "d14",
+      "items": [
+        {
+          "id": "a0b756d13df5",
+          "title": "国内最年轻AI教授创业：要让世界模型走向全身全模态",
+          "desc": "给Ego补上缺失的交互信息",
+          "source": "量子位",
+          "date": "2026-10-14",
+          "dateLabel": "10月14日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/10/503172.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "ec268fbf13b7",
+          "title": "调度效率提升80%！商汤大装置助力上海量子城市首批智能体落地",
+          "desc": "从“懂空间”到“能干活”",
+          "source": "量子位",
+          "date": "2026-10-14",
+          "dateLabel": "10月14日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/10/503173.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "c7e7849b0f2c",
+          "title": "响应速度比Claude Code快3倍，实现真正无限上下文！APUS AI开源Reflex Agent",
+          "desc": "10月13日，APUS AI（麒麟合盛网络技术股份有限公司）宣布开源Personal Agent产品Reflex Agent",
+          "source": "量子位",
+          "date": "2026-10-14",
+          "dateLabel": "10月14日",
+          "tags": [
+            "model",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/10/503165.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "3a0fa24fe6c7",
+          "title": "告别资料散落，让知识持续积累：openJiuwen首发个人知识空间，重塑个人办公智能体新体验！",
+          "desc": "一次采集，反复使用",
+          "source": "量子位",
+          "date": "2026-10-14",
+          "dateLabel": "10月14日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/10/503157.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "de936be7db55",
+          "title": "红魔 × UBISOFT 育碧达成游戏合作，红魔 12 Pro+ 跨端首发《孤岛惊魂 3》",
+          "desc": "IT之家 10 月 14 日消息，红魔游戏手机官方今日宣布，与 UBISOFT 育碧正式成为官方游戏合作伙伴。据介绍，《孤岛惊魂 3》是双方首个合作游戏，将在全新红魔 12 Pro+ 游戏手机上跨端首发。综合IT之家此前报道，红魔 12 Pro+ 将搭载高通第六代骁龙 8 超级至尊版芯片，主打“更轻、更薄、更窄、更圆润”。新机还将采用红魔第九代屏下技术，打造无孔全面屏。官方表示，红魔 12 Pro",
+          "source": "IT之家",
+          "date": "2026-10-14",
+          "dateLabel": "10月14日",
+          "tags": [
+            "model",
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/012/897.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/9de1c374-ca45-4fa2-8a30-55cec7e0e420.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "68abbd98a97f",
+          "title": "阿里千问办公发布电商版，开启邀测",
+          "desc": "IT之家 10 月 14 日现场消息，阿里千问办公今日正式发布针对电商行业的 AI 生产力工具 —— 千问办公电商版，助力商家运营方式升级。千问办公 CEO 陈宇森表示：“千问办公电商版的定位是一款独立第三方电商 Agent，面向市面上所有电商平台和商家开放，我们欢迎所有平台的商家工具、行业软件接入。”IT之家在发布会现场获悉，千问办公电商版已开启邀测，用户在千问办公中切换“电商经营”模式即可体验",
+          "source": "IT之家",
+          "date": "2026-10-14",
+          "dateLabel": "10月14日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/012/875.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/54542eae-6844-42b5-9d4e-63bd958e46ff.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "b20ec1e0f7fb",
+          "title": "日月光推出 3D 垂直整合 PowerSiP 解决方案，可减半寄生布线损耗",
+          "desc": "IT之家 10 月 14 日消息，OSAT 龙头日月光半导体 (ASE) 昨日宣布推出基于 PowerSiP 平台的 3D 系统级封装解决方案。这一方案可实现 VRM（电压调节模块）的垂直整合，大幅缩短电流传输路径，降低超半数寄生布线损耗。日月光表示，先进的高性能 AI SoC 功耗已突破 1000W，这意味着需要 1V 以下电压传输超 1000A 的峰值电流，传统的横向架构在电力通过 PCB、封",
+          "source": "IT之家",
+          "date": "2026-10-14",
+          "dateLabel": "10月14日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.ithome.com/1/012/861.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/3c28719c-ef6e-4660-89a4-104d239473ae.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "712336f7ae5f",
+          "title": "华为畅享 100 系列手机前瞻爆料：消息称 Pro 延续麒麟 8 系平台 + 6.84 英寸 1.5K LTPS 直屏方案",
+          "desc": "IT之家 10 月 14 日消息，博主 @数码闲聊站 今日放出了华为畅享 100 系列手机的前瞻爆料。据称，Pro 有曜金黑 / 雪域白 / 流沙金 / 蔚蓝海四种配色，屏幕还是 6.84 英寸 1.5K LTPS 直屏，采用麒麟 8 系平台打造，电池容量超 8000mAh。而标准版和低配版有幻夜黑 / 冰川白 / 云水蓝三种配色，会做运营商渠道机，包括移动 AI 定制版，用来继续冲量。有网友询问",
+          "source": "IT之家",
+          "date": "2026-10-14",
+          "dateLabel": "10月14日",
+          "tags": [
+            "model",
+            "policy",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/012/835.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/1fcbd7c0-185e-485a-bc53-91a0bc4e7c29.png",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-10-13",
       "dateLabel": "10月13日",
       "id": "d13",
       "items": [
+        {
+          "id": "37b20dec4145",
+          "title": "iPhone断网跑35B多模态！国产开源新模型，只占3G内存",
+          "desc": "面壁开源MiniCPM-V 4.7",
+          "source": "量子位",
+          "date": "2026-10-13",
+          "dateLabel": "10月13日",
+          "tags": [
+            "research",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/10/503109.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "f0a4b029d4e1",
+          "title": "魔法原子具身Agent框架拿下MolmoSpaces全球第一",
+          "desc": "让VLA从“演示可用”逼近“产线可用”",
+          "source": "量子位",
+          "date": "2026-10-13",
+          "dateLabel": "10月13日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/10/503107.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "0e3c1f605d78",
+          "title": "梁文锋投了Swin Transformer作者！DeepSeek开始布局具身大脑",
+          "desc": "Winverse AI",
+          "source": "量子位",
+          "date": "2026-10-13",
+          "dateLabel": "10月13日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/10/503093.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
         {
           "id": "aab579c97646",
           "title": "中国车企反攻德系车心脏！巴黎车展国产品牌独占三成，大众CEO连忙呼吁抱团迎战",
@@ -46,80 +218,6 @@
             "model"
           ],
           "url": "https://www.qbitai.com/2026/10/502920.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "0ca0a03d7adc",
-          "title": "“模态进化”：第八届亿邦产业互联网年会暨首届产业智能体大会双会合体定档",
-          "desc": "由亿邦动力主办的“2026第八届亿邦产业互联网年会暨首届产业智能体大会”正式定档",
-          "source": "量子位",
-          "date": "2026-10-13",
-          "dateLabel": "10月13日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/10/502907.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "af1edb719d17",
-          "title": "9大赛道，23份企业真实考卷！上海具身智能大考，邀千队共解题",
-          "desc": "赢奖金、拿融资、送出海",
-          "source": "量子位",
-          "date": "2026-10-13",
-          "dateLabel": "10月13日",
-          "tags": [
-            "research",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/10/502784.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "3b98b3d13125",
-          "title": "退差价、约保养、订球场、跟客服磨赔偿，千问Go什么都想管",
-          "desc": "丢一句话进去，事儿就办完了",
-          "source": "量子位",
-          "date": "2026-10-13",
-          "dateLabel": "10月13日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/10/502849.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "2baef088c3d8",
-          "title": "单轮23亿，累计43亿，无问芯穹刷新国产AI Infra赛道融资双重纪录",
-          "desc": "算力、模型、行业，三层生意一起做",
-          "source": "量子位",
-          "date": "2026-10-13",
-          "dateLabel": "10月13日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/10/502767.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "4ba1e58dd665",
-          "title": "优必选上榜 2026 年《财富》全球未来成长 120 强，位列全球第 11、中国企业第一",
-          "desc": "优必选以总分 115 拿下2026 Fortune Future 120全球第 11 名",
-          "source": "量子位",
-          "date": "2026-10-13",
-          "dateLabel": "10月13日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/10/502770.html",
           "image": "",
           "color": "#7c3aed"
         }
@@ -1867,102 +1965,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-09-10",
-      "dateLabel": "9月10日",
-      "id": "d10",
-      "items": [
-        {
-          "id": "f9dd21bb5bd7",
-          "title": "ECCV上，顶尖学者们开始研究如何让AI做生意了",
-          "desc": "多模态AI大牛轮番登台，全球64支团队组团解题",
-          "source": "量子位",
-          "date": "2026-09-10",
-          "dateLabel": "9月10日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://www.qbitai.com/2026/09/486934.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "897fb640cfd0",
-          "title": "全球首个3D原生城市世界模型ABot-Earth 0.7发布，构建AI理解真实世界的入口",
-          "desc": "9月10日，阿里巴巴集团旗下高德正式发布全球首个3D原生城市世界模型ABot-Earth 0.7。",
-          "source": "量子位",
-          "date": "2026-09-10",
-          "dateLabel": "9月10日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/09/486900.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "625220b19667",
-          "title": "全球首个可仿真的人–场景交互重建框架 HSImul3R：让人类视频真正成为机器人技能来源",
-          "desc": "大晓机器人联合南洋理工大学 S-Lab、上海人工智能实验室发布全新人–场景交互重建研究 HSImul3R",
-          "source": "量子位",
-          "date": "2026-09-10",
-          "dateLabel": "9月10日",
-          "tags": [
-            "research",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/09/486747.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "aa1100171545",
-          "title": "这个新开源的世界模型只有1.3B，单卡就能实时跑！",
-          "desc": "轻量版LingBot-World 2.0",
-          "source": "量子位",
-          "date": "2026-09-10",
-          "dateLabel": "9月10日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/09/486716.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "61893ed1b725",
-          "title": "AGI时代的第一个生图模型，ChatGPT Images 2.5上线",
-          "desc": "主打生成更快，细节更好，改图也终于越来越像“真·修图”了。",
-          "source": "量子位",
-          "date": "2026-09-10",
-          "dateLabel": "9月10日",
-          "tags": [
-            "model",
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/09/486684.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "843eb9deb86f",
-          "title": "营销科技巨头蓝色光标与全球达人营销AI平台AhaCreator达成深度合作，让品牌更高效连接全球500万创作者",
-          "desc": "从一次投放到一套增长系统，AI 让海外达人营销可规模化复制",
-          "source": "量子位",
-          "date": "2026-09-10",
-          "dateLabel": "9月10日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/09/486651.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -1988,6 +1990,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-10-13 16:55",
+  "updateTime": "2026-10-14 15:05",
   "totalNews": 119
 }
