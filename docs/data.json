@@ -1,10 +1,217 @@
 {
   "newsData": [
     {
+      "date": "2026-10-15",
+      "dateLabel": "10月15日",
+      "id": "d15",
+      "items": [
+        {
+          "id": "d21dd61f6c48",
+          "title": "7天几百元开一家店！用千问办公电商版，立省启动资金5万元",
+          "desc": "给企业Agent打了个样",
+          "source": "量子位",
+          "date": "2026-10-15",
+          "dateLabel": "10月15日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/10/503303.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "4386285cfd71",
+          "title": "努比亚 NaviX Ultra 手机「内测实验室」计划限量开放 300 内测名额，可抢先体验在研 AI 能力",
+          "desc": "IT之家 10 月 15 日消息，在昨晚的努比亚 NaviX Ultra 首场进化直播中，努比亚手机官方宣布，将开启「内测实验室」计划。▲ IT之家实拍：努比亚 NaviX Ultra 手机据介绍，努比亚 NaviX Ultra 手机用户参与「内测实验室」计划，可更早体验实验室内测功能（含在研 AI 能力等），并帮助官方将想法延伸为产品力的正式功能。根据规划，努比亚 NaviX Ultra 手机的",
+          "source": "IT之家",
+          "date": "2026-10-15",
+          "dateLabel": "10月15日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/013/417.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/0e4936a3-b24d-4cc3-adb6-963f699a43d4.jpg?x-bce-process=image/auto-orient,o_1",
+          "color": "#d97706"
+        },
+        {
+          "id": "8a01a8c38c83",
+          "title": "懂车帝回应“邀约博主黑尊界”等传言：相关言论不实",
+          "desc": "IT之家 10 月 15 日消息，据第一财经，针对网传“懂车帝邀约博主黑尊界”“年营收超过 245 亿元”等消息，懂车帝相关负责人回应称：网传“黑尊界”相关言论不实，公司已溯源取证，将采取法律措施维护公司合法权益。针对前述“245 亿元营收”的传闻，该负责人回应称：此说法来自 3 月的一篇网络 AI 生成文章，相关信息均不实，懂车帝从未对外发布营收数据。据IT之家此前报道，今年 10 月 8 日，",
+          "source": "IT之家",
+          "date": "2026-10-15",
+          "dateLabel": "10月15日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/013/411.htm",
+          "image": "",
+          "color": "#d97706"
+        },
+        {
+          "id": "4d2d78587d30",
+          "title": "性能最高提升 35%：非官方英伟达 DLSS 预设 C 登场，RTX 30 系列显卡也能用",
+          "desc": "IT之家 10 月 15 日消息，开源显卡工具 Universal MFG Unlocker 1.5.0 发布，破解了英伟达刚推出不久的 DLSS 帧生成“预设 C”（Preset C），让旧款 RTX 40 和 RTX 30 系列显卡玩家也能免费体验，性能最高提升 35%。IT之家注：DLSS 预设 C（Preset C）是英伟达针对 DLSS 帧生成（Frame Generation）技术，带",
+          "source": "IT之家",
+          "date": "2026-10-15",
+          "dateLabel": "10月15日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/013/405.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/b1739552-481e-4409-895a-8be13482234a.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "1de9bcb17b38",
+          "title": "消息称某厂中端影像机暂定下个月，预计为 OPPO Reno 17 系列",
+          "desc": "IT之家 10 月 15 日消息，微博博主 @智慧皮卡丘 昨日发文称，某厂中端影像机开案大小屏，屏幕尺寸各不相同，有 AI 按键，暂定下个月发布。据介绍，这款手机主打潮流外观和 2 亿像素影像，视频实况和修图有新玩法。从博主文中的 Tag 来看，这款手机预计是 OPPO Reno 17 系列。据IT之家了解，OPPO Reno 16 系列手机发布于今年 5 月，配备 6.32 英寸 / 6.78 ",
+          "source": "IT之家",
+          "date": "2026-10-15",
+          "dateLabel": "10月15日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/013/390.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/9932811a-75e3-43dc-b376-d94263dc5fe7.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "301eb1c53ae4",
+          "title": "乐道对全部车型、超 20 万全量用户推重要升级版本 Coconut 3.3.0，覆盖智能辅助驾驶等功能域",
+          "desc": "IT之家 10 月 15 日消息，乐道品牌营销传播负责人马磊今日宣布，时隔 80 天，乐道汽车对全部车型、超 20 万全量用户再次推送智能系统重要升级版本 Coconut 3.3.0。据介绍，新版本包含 30 项功能更新，覆盖智能辅助驾驶、智能座舱、AI 小乐等功能域。马磊表示，智能辅助驾驶已成为用户购车决策中越来越重要的一项。此次升级新增了针对雨天的防御性驾驶能力等功能提升，还为全量用户新增 O",
+          "source": "IT之家",
+          "date": "2026-10-15",
+          "dateLabel": "10月15日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/013/389.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/60993757-5bb1-42d3-9aab-c5fe825c0923.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "72e946bf3bef",
+          "title": "全球金融监管标准制定机构呼吁：银行、企业要加强对 AI 智能体的人工监管",
+          "desc": "IT之家 10 月 15 日消息，据路透社今天（15 日）午间报道，全球金融监管标准制定机构金融稳定理事会向银行及其他企业发出呼吁，要求加强对 AI 智能体的人工监督，并将这一要求纳入 AI 风险管理的最终版指引。金融稳定理事会公布指引之际，各国监管机构也在加紧防范 AI 带来的风险，其中就包含了利用 AI 发动网络攻击的威胁。在 6 月发布的指引草案中，金融稳定理事会曾强烈建议金融机构董事会参考",
+          "source": "IT之家",
+          "date": "2026-10-15",
+          "dateLabel": "10月15日",
+          "tags": [
+            "business",
+            "policy"
+          ],
+          "url": "https://www.ithome.com/1/013/375.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2025/5/39a9a3ce-4a94-4bdc-836f-24acb72cad34.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1",
+          "color": "#d97706"
+        },
+        {
+          "id": "42c4020b4e8e",
+          "title": "ATK 宝可梦联名皮卡丘款外设预售，键鼠垫三件套到手价 799 元",
+          "desc": "IT之家 10 月 15 日消息，ATK 现已启动宝可梦 IP 皮卡丘款外设的预售。此次新品包括联名的 RS7 Air 磁轴键盘、烈空 F1 V3 Ultimate+ 鼠标、鼠标垫，单品到手价分别为 399 元、369 元、69 元，套装到手价则是 799 元。皮卡丘联名 RS7 Air 磁轴键盘采用 75% 配列，搭载冰刃磁轴，支持 8kHz 轮询率、32kHz 全键扫描率、256kHz 全键扫",
+          "source": "IT之家",
+          "date": "2026-10-15",
+          "dateLabel": "10月15日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/013/370.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/3b189eb8-bfa8-45ab-910c-0e24597eecc9.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-10-14",
       "dateLabel": "10月14日",
       "id": "d14",
       "items": [
+        {
+          "id": "4ff9a7d808e6",
+          "title": "抢先盘点2026全球开发者先锋大会暨国际具身智能技能大赛十大亮点！",
+          "desc": "“具身进实景，劳动最光荣”",
+          "source": "量子位",
+          "date": "2026-10-14",
+          "dateLabel": "10月14日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.qbitai.com/2026/10/503294.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "cd67a15f58ba",
+          "title": "阶跃终端首款「Agent手机」STEPX Neo正式发布，创客先行",
+          "desc": "这妥妥是个物理版Agent啊！",
+          "source": "量子位",
+          "date": "2026-10-14",
+          "dateLabel": "10月14日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/10/503244.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "d5d0aa6777c8",
+          "title": "智能不出彩的「领克」，刚靠一次坠崖事故出圈了",
+          "desc": "汽车竞争正在回归汽车本身",
+          "source": "量子位",
+          "date": "2026-10-14",
+          "dateLabel": "10月14日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/10/503231.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "424427feed4a",
+          "title": "《变形计》综艺赛博复活，AI版MrBeast爆火，LibTV下场「造星」了",
+          "desc": "从创意到成本，AI正在重写综艺的生产逻辑",
+          "source": "量子位",
+          "date": "2026-10-14",
+          "dateLabel": "10月14日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/10/503211.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "3ec97f2b23f2",
+          "title": "STEPX首款大模型原生智能体手机STEPX Neo正式发布",
+          "desc": "2026年10月13日，大模型原生AI终端品牌STEPX（阶跃终端）旗下首款大模型原生智能体手机STEPX Neo正式发布",
+          "source": "量子位",
+          "date": "2026-10-14",
+          "dateLabel": "10月14日",
+          "tags": [
+            "model",
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/10/503201.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "c8aaf087ae7a",
+          "title": "MemSilicon完成国际首款高密度、大容量1T4R 1Gb RRAM芯片流片",
+          "desc": "CMOS标准工艺兼容的1TnR技术路线加速研发。",
+          "source": "量子位",
+          "date": "2026-10-14",
+          "dateLabel": "10月14日",
+          "tags": [
+            "business",
+            "policy"
+          ],
+          "url": "https://www.qbitai.com/2026/10/503198.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
         {
           "id": "a0b756d13df5",
           "title": "国内最年轻AI教授创业：要让世界模型走向全身全模态",
@@ -34,96 +241,6 @@
           "url": "https://www.qbitai.com/2026/10/503173.html",
           "image": "",
           "color": "#7c3aed"
-        },
-        {
-          "id": "c7e7849b0f2c",
-          "title": "响应速度比Claude Code快3倍，实现真正无限上下文！APUS AI开源Reflex Agent",
-          "desc": "10月13日，APUS AI（麒麟合盛网络技术股份有限公司）宣布开源Personal Agent产品Reflex Agent",
-          "source": "量子位",
-          "date": "2026-10-14",
-          "dateLabel": "10月14日",
-          "tags": [
-            "model",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/10/503165.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "3a0fa24fe6c7",
-          "title": "告别资料散落，让知识持续积累：openJiuwen首发个人知识空间，重塑个人办公智能体新体验！",
-          "desc": "一次采集，反复使用",
-          "source": "量子位",
-          "date": "2026-10-14",
-          "dateLabel": "10月14日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/10/503157.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "de936be7db55",
-          "title": "红魔 × UBISOFT 育碧达成游戏合作，红魔 12 Pro+ 跨端首发《孤岛惊魂 3》",
-          "desc": "IT之家 10 月 14 日消息，红魔游戏手机官方今日宣布，与 UBISOFT 育碧正式成为官方游戏合作伙伴。据介绍，《孤岛惊魂 3》是双方首个合作游戏，将在全新红魔 12 Pro+ 游戏手机上跨端首发。综合IT之家此前报道，红魔 12 Pro+ 将搭载高通第六代骁龙 8 超级至尊版芯片，主打“更轻、更薄、更窄、更圆润”。新机还将采用红魔第九代屏下技术，打造无孔全面屏。官方表示，红魔 12 Pro",
-          "source": "IT之家",
-          "date": "2026-10-14",
-          "dateLabel": "10月14日",
-          "tags": [
-            "model",
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/012/897.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/9de1c374-ca45-4fa2-8a30-55cec7e0e420.jpg",
-          "color": "#d97706"
-        },
-        {
-          "id": "68abbd98a97f",
-          "title": "阿里千问办公发布电商版，开启邀测",
-          "desc": "IT之家 10 月 14 日现场消息，阿里千问办公今日正式发布针对电商行业的 AI 生产力工具 —— 千问办公电商版，助力商家运营方式升级。千问办公 CEO 陈宇森表示：“千问办公电商版的定位是一款独立第三方电商 Agent，面向市面上所有电商平台和商家开放，我们欢迎所有平台的商家工具、行业软件接入。”IT之家在发布会现场获悉，千问办公电商版已开启邀测，用户在千问办公中切换“电商经营”模式即可体验",
-          "source": "IT之家",
-          "date": "2026-10-14",
-          "dateLabel": "10月14日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/012/875.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/54542eae-6844-42b5-9d4e-63bd958e46ff.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "b20ec1e0f7fb",
-          "title": "日月光推出 3D 垂直整合 PowerSiP 解决方案，可减半寄生布线损耗",
-          "desc": "IT之家 10 月 14 日消息，OSAT 龙头日月光半导体 (ASE) 昨日宣布推出基于 PowerSiP 平台的 3D 系统级封装解决方案。这一方案可实现 VRM（电压调节模块）的垂直整合，大幅缩短电流传输路径，降低超半数寄生布线损耗。日月光表示，先进的高性能 AI SoC 功耗已突破 1000W，这意味着需要 1V 以下电压传输超 1000A 的峰值电流，传统的横向架构在电力通过 PCB、封",
-          "source": "IT之家",
-          "date": "2026-10-14",
-          "dateLabel": "10月14日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://www.ithome.com/1/012/861.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/3c28719c-ef6e-4660-89a4-104d239473ae.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "712336f7ae5f",
-          "title": "华为畅享 100 系列手机前瞻爆料：消息称 Pro 延续麒麟 8 系平台 + 6.84 英寸 1.5K LTPS 直屏方案",
-          "desc": "IT之家 10 月 14 日消息，博主 @数码闲聊站 今日放出了华为畅享 100 系列手机的前瞻爆料。据称，Pro 有曜金黑 / 雪域白 / 流沙金 / 蔚蓝海四种配色，屏幕还是 6.84 英寸 1.5K LTPS 直屏，采用麒麟 8 系平台打造，电池容量超 8000mAh。而标准版和低配版有幻夜黑 / 冰川白 / 云水蓝三种配色，会做运营商渠道机，包括移动 AI 定制版，用来继续冲量。有网友询问",
-          "source": "IT之家",
-          "date": "2026-10-14",
-          "dateLabel": "10月14日",
-          "tags": [
-            "model",
-            "policy",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/012/835.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/1fcbd7c0-185e-485a-bc53-91a0bc4e7c29.png",
-          "color": "#d97706"
         }
       ]
     },
@@ -1915,56 +2032,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-09-11",
-      "dateLabel": "9月11日",
-      "id": "d11",
-      "items": [
-        {
-          "id": "c4214bb1ff29",
-          "title": "银行Agent上岗：4200万小微经营者可用，信贷、票据、财税一把梭",
-          "desc": "看清「一个真正的人」",
-          "source": "量子位",
-          "date": "2026-09-11",
-          "dateLabel": "9月11日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/09/487631.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "06626e696c21",
-          "title": "啊？Anthropic最高320万招销售，只为服务Meta",
-          "desc": "原来你俩互相下单呢",
-          "source": "量子位",
-          "date": "2026-09-11",
-          "dateLabel": "9月11日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/09/487573.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "9327ee4f12e0",
-          "title": "百度秒哒再升级！让最懂业务的人，亲手造自己的系统",
-          "desc": "把开发、交付和接单全打通了",
-          "source": "量子位",
-          "date": "2026-09-11",
-          "dateLabel": "9月11日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/09/487415.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -1990,6 +2057,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-10-14 15:05",
-  "totalNews": 119
+  "updateTime": "2026-10-15 14:56",
+  "totalNews": 124
 }
