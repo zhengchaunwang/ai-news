@@ -1,123 +1,252 @@
 {
   "newsData": [
     {
+      "date": "2026-10-16",
+      "dateLabel": "10月16日",
+      "id": "d16",
+      "items": [
+        {
+          "id": "ddf474e5c1db",
+          "title": "马斯克：第二代 Roadster 将是最后一款“人工驾驶”特斯拉车型",
+          "desc": "IT之家 10 月 16 日消息，特斯拉将未来押注于自动驾驶，第二代 Roadster 是一个重要例外。特斯拉 CEO 埃隆 · 马斯克在发布会上宣布，随着 Model S 和 Model X 即将退出产品阵容，Roadster 最终将成为特斯拉唯一一款专为人工驾驶打造的车型。“从长远来看，这台车实际上将是特斯拉最后一款由人亲自驾驶的汽车…… 既然只有这么一款，那就要把它的性能推向极限，甚至突破极",
+          "source": "IT之家",
+          "date": "2026-10-16",
+          "dateLabel": "10月16日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/013/916.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/c9eef9ab-32c8-4510-b587-379dfeeeeaa9.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "b9fdeaae73cc",
+          "title": "丹麦最高法院裁定：AI 生成儿童色情内容同样获刑",
+          "desc": "IT之家 10 月 16 日消息，据彭博社 15 日报道，丹麦最高法院维持对一名 31 岁男子判处的 18 个月监禁刑罚。该男子因持有并传播数万张 AI 生成的儿童色情图像而获刑。这起备受关注的案件，涉及丹麦现行打击儿童性虐待影像的法律如何适用于 AI 合成内容。该国最高法院裁定，即使 AI 生成的未成年人色情图像没有真实人物作为原型，也同样受到丹麦《刑法》约束，不能因为图像中的人物是虚构的就减轻",
+          "source": "IT之家",
+          "date": "2026-10-16",
+          "dateLabel": "10月16日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/013/914.htm",
+          "image": "",
+          "color": "#d97706"
+        },
+        {
+          "id": "49d57087f210",
+          "title": "Ternary Bonsai 2 系列 AI 模型登场：苹果 iPhone 18 Pro Max 上本地吞吐最高每秒 120 个词元",
+          "desc": "IT之家 10 月 16 日消息，AI 公司 PrismML 昨日（10 月 15 日）发布博文，宣布推出 Ternary Bonsai 2 系列模型，共有 2B、4B 和 9B 三种规模，目标在手机、PC 以及可穿戴设备上本地运行 AI 智能体，执行推理、识图、调用工具等能力。Ternary Bonsai 2 系列模型基于阿里的 Qwen 3.5 基座构建，采用“三元”权重表示法，即仅用 -1、",
+          "source": "IT之家",
+          "date": "2026-10-16",
+          "dateLabel": "10月16日",
+          "tags": [
+            "model",
+            "research",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/013/894.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/5097a109-353a-4c05-8d0c-c9d262e1fe3c.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "ff1a94a4ffae",
+          "title": "消息称三星验证阶段高通新旗舰芯片“发烧”：时隔 5 年 Galaxy S27 Ultra 手机有望回归使用 Exynos 2700",
+          "desc": "IT之家 10 月 16 日消息，数码博主 @i冰宇宙 今天（10 月 16 日）援引《首尔经济日报》报道，称三星在为 Galaxy S27 Ultra 旗舰手机做最终性能验证时，发现高通第六代骁龙 8 超级至尊版（Snapdragon 8 Elite Extreme 6th generation）存在过热问题。报道称内部测试显示，该芯片在高负载运行时温度反复超过阈值，并出现处理速度下降的情况。三",
+          "source": "IT之家",
+          "date": "2026-10-16",
+          "dateLabel": "10月16日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/013/868.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/01838543-95dc-40d8-b3a2-6c63f56e76a1.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "8f0a320181f1",
+          "title": "专为《微软模拟飞行》打造：Echo XPC 手柄海外开订，179.99 美元、11 月发售",
+          "desc": "IT之家 10 月 16 日消息，据外媒 NotebookCheck 今天（16 日）午间报道，Honeycomb 的飞行模拟手柄 Echo Aviation Controller XPC 现已在美国开放免费预约，售价 179.99 美元（IT之家注：现汇率约合 1,206 元人民币），将于 11 月 20 日正式开售，随后陆续登陆其他市场。该手柄兼容 XBOX 和 PC，配备隧道磁阻摇杆、霍尔效",
+          "source": "IT之家",
+          "date": "2026-10-16",
+          "dateLabel": "10月16日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/013/865.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/9dc41a40-a7f7-44e9-a2f0-b450926ab03f.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "4e2d18acbaf5",
+          "title": "智元宣布与首批 20+ 高校合作，投入超 2 亿元建设具身智能人才生态",
+          "desc": "IT之家 10 月 16 日消息，智元本周发布公告，“元苼生态发展计划”与国内众多高校开展合作，共建具身智能产教融合创新实践平台。基于具身智能真实教学与科研需求，智元将投入千台具身智能设备，双方将进行课程共建、课题共研、实训共育，打通产业前沿技术与高校人才培养的衔接壁垒。首批合作的 20 多所高等院校包括北京大学、清华大学、浙江大学、华南理工大学、上海交通大学、西安交通大学、东南大学、中山大学等。",
+          "source": "IT之家",
+          "date": "2026-10-16",
+          "dateLabel": "10月16日",
+          "tags": [
+            "research",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/013/864.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/9a57d9b1-4f36-44e0-abd6-f70172882b58.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "7e186e9fdbe6",
+          "title": "腾讯 WorkBuddy 和 CodeBuddy 宣布 DeepSeek 服务故障用户 7 天内积分全额返还，额外送 500 积分",
+          "desc": "IT之家 10 月 16 日消息，DeepSeek 网页 / API 服务 10 月 15 日早间出现服务问题，经过近 5 个小时的修复恢复正常。对此，DeepSeek 官方开放平台宣布补偿所有 API 用户 7 天内的消耗金额。腾讯 WorkBuddy 和 CodeBuddy 今日跟进发布补偿公告，针对在 WorkBuddy 或 CodeBuddy 国内版端内使用 DeepSeek 模型并受到影",
+          "source": "IT之家",
+          "date": "2026-10-16",
+          "dateLabel": "10月16日",
+          "tags": [
+            "model",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/013/848.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/8200dd19-eb2f-49dd-950a-9fe050beb84f.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "ca2b23636d80",
+          "title": "东风风神 L8+ 将于 10 月 23 日上市，搭载 Momenta R7 世界模型",
+          "desc": "IT之家 10 月 16 日消息，据易车消息，东风风神 L8+ 将于 10 月 23 日正式上市。新车搭载天元智驾 T800，采用 Momenta R7 世界模型，配备英伟达 Thor-U 芯片，算力可达 700TOPS，支持城市和高速 NOA。动力方面，东风风神 L8+ 搭载 1.5T 发动机 + 电机组成的插电混动系统。据IT之家此前报道，东风风神在今年 7 月宣布，下半年将发布风神 L8Y/",
+          "source": "IT之家",
+          "date": "2026-10-16",
+          "dateLabel": "10月16日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/013/846.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/e02234e1-7806-44db-9bff-86ab30572ec1.jpg",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-10-15",
       "dateLabel": "10月15日",
       "id": "d15",
       "items": [
         {
-          "id": "d21dd61f6c48",
-          "title": "7天几百元开一家店！用千问办公电商版，立省启动资金5万元",
-          "desc": "给企业Agent打了个样",
+          "id": "5550751c3b7f",
+          "title": "京东11.11：首日下单用户数同比双位数增长、超百项服务首次全景亮相",
+          "desc": "京东11.11已于10月12日晚8点全面开启，首日下单用户数实现同比双位数增长。",
           "source": "量子位",
-          "date": "2026-10-15",
-          "dateLabel": "10月15日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/10/503303.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "4386285cfd71",
-          "title": "努比亚 NaviX Ultra 手机「内测实验室」计划限量开放 300 内测名额，可抢先体验在研 AI 能力",
-          "desc": "IT之家 10 月 15 日消息，在昨晚的努比亚 NaviX Ultra 首场进化直播中，努比亚手机官方宣布，将开启「内测实验室」计划。▲ IT之家实拍：努比亚 NaviX Ultra 手机据介绍，努比亚 NaviX Ultra 手机用户参与「内测实验室」计划，可更早体验实验室内测功能（含在研 AI 能力等），并帮助官方将想法延伸为产品力的正式功能。根据规划，努比亚 NaviX Ultra 手机的",
-          "source": "IT之家",
-          "date": "2026-10-15",
-          "dateLabel": "10月15日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/013/417.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/0e4936a3-b24d-4cc3-adb6-963f699a43d4.jpg?x-bce-process=image/auto-orient,o_1",
-          "color": "#d97706"
-        },
-        {
-          "id": "8a01a8c38c83",
-          "title": "懂车帝回应“邀约博主黑尊界”等传言：相关言论不实",
-          "desc": "IT之家 10 月 15 日消息，据第一财经，针对网传“懂车帝邀约博主黑尊界”“年营收超过 245 亿元”等消息，懂车帝相关负责人回应称：网传“黑尊界”相关言论不实，公司已溯源取证，将采取法律措施维护公司合法权益。针对前述“245 亿元营收”的传闻，该负责人回应称：此说法来自 3 月的一篇网络 AI 生成文章，相关信息均不实，懂车帝从未对外发布营收数据。据IT之家此前报道，今年 10 月 8 日，",
-          "source": "IT之家",
-          "date": "2026-10-15",
-          "dateLabel": "10月15日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/013/411.htm",
-          "image": "",
-          "color": "#d97706"
-        },
-        {
-          "id": "4d2d78587d30",
-          "title": "性能最高提升 35%：非官方英伟达 DLSS 预设 C 登场，RTX 30 系列显卡也能用",
-          "desc": "IT之家 10 月 15 日消息，开源显卡工具 Universal MFG Unlocker 1.5.0 发布，破解了英伟达刚推出不久的 DLSS 帧生成“预设 C”（Preset C），让旧款 RTX 40 和 RTX 30 系列显卡玩家也能免费体验，性能最高提升 35%。IT之家注：DLSS 预设 C（Preset C）是英伟达针对 DLSS 帧生成（Frame Generation）技术，带",
-          "source": "IT之家",
           "date": "2026-10-15",
           "dateLabel": "10月15日",
           "tags": [
             "business",
             "cn"
           ],
-          "url": "https://www.ithome.com/1/013/405.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/b1739552-481e-4409-895a-8be13482234a.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/10/503645.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "1de9bcb17b38",
-          "title": "消息称某厂中端影像机暂定下个月，预计为 OPPO Reno 17 系列",
-          "desc": "IT之家 10 月 15 日消息，微博博主 @智慧皮卡丘 昨日发文称，某厂中端影像机开案大小屏，屏幕尺寸各不相同，有 AI 按键，暂定下个月发布。据介绍，这款手机主打潮流外观和 2 亿像素影像，视频实况和修图有新玩法。从博主文中的 Tag 来看，这款手机预计是 OPPO Reno 17 系列。据IT之家了解，OPPO Reno 16 系列手机发布于今年 5 月，配备 6.32 英寸 / 6.78 ",
-          "source": "IT之家",
+          "id": "89287ff6c018",
+          "title": "库克：苹果智能接入阿里千问大模型，10月底在中国发布测试版本",
+          "desc": "Siri AI这次不包括在内",
+          "source": "量子位",
+          "date": "2026-10-15",
+          "dateLabel": "10月15日",
+          "tags": [
+            "model",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/10/503640.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "27ab74e6163a",
+          "title": "量子位智库发布Agent落地报告！拆解企业智能化六大断点，附全链路破局框架",
+          "desc": "Agent究竟该如何深入业务毛细血管？",
+          "source": "量子位",
           "date": "2026-10-15",
           "dateLabel": "10月15日",
           "tags": [
             "business"
           ],
-          "url": "https://www.ithome.com/1/013/390.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/9932811a-75e3-43dc-b376-d94263dc5fe7.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/10/503614.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "301eb1c53ae4",
-          "title": "乐道对全部车型、超 20 万全量用户推重要升级版本 Coconut 3.3.0，覆盖智能辅助驾驶等功能域",
-          "desc": "IT之家 10 月 15 日消息，乐道品牌营销传播负责人马磊今日宣布，时隔 80 天，乐道汽车对全部车型、超 20 万全量用户再次推送智能系统重要升级版本 Coconut 3.3.0。据介绍，新版本包含 30 项功能更新，覆盖智能辅助驾驶、智能座舱、AI 小乐等功能域。马磊表示，智能辅助驾驶已成为用户购车决策中越来越重要的一项。此次升级新增了针对雨天的防御性驾驶能力等功能提升，还为全量用户新增 O",
-          "source": "IT之家",
-          "date": "2026-10-15",
-          "dateLabel": "10月15日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/013/389.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/60993757-5bb1-42d3-9aab-c5fe825c0923.png",
-          "color": "#d97706"
-        },
-        {
-          "id": "72e946bf3bef",
-          "title": "全球金融监管标准制定机构呼吁：银行、企业要加强对 AI 智能体的人工监管",
-          "desc": "IT之家 10 月 15 日消息，据路透社今天（15 日）午间报道，全球金融监管标准制定机构金融稳定理事会向银行及其他企业发出呼吁，要求加强对 AI 智能体的人工监督，并将这一要求纳入 AI 风险管理的最终版指引。金融稳定理事会公布指引之际，各国监管机构也在加紧防范 AI 带来的风险，其中就包含了利用 AI 发动网络攻击的威胁。在 6 月发布的指引草案中，金融稳定理事会曾强烈建议金融机构董事会参考",
-          "source": "IT之家",
+          "id": "d68935e2b2d4",
+          "title": "2026 TMOT首个AI智能体走进电音现场，让听众成为音乐共创者",
+          "desc": "10月17日至18日，顶尖电音节The Magic of Tomorrowland 2026将在上海举行。",
+          "source": "量子位",
           "date": "2026-10-15",
           "dateLabel": "10月15日",
           "tags": [
             "business",
-            "policy"
+            "cn"
           ],
-          "url": "https://www.ithome.com/1/013/375.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2025/5/39a9a3ce-4a94-4bdc-836f-24acb72cad34.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/10/503611.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "42c4020b4e8e",
-          "title": "ATK 宝可梦联名皮卡丘款外设预售，键鼠垫三件套到手价 799 元",
-          "desc": "IT之家 10 月 15 日消息，ATK 现已启动宝可梦 IP 皮卡丘款外设的预售。此次新品包括联名的 RS7 Air 磁轴键盘、烈空 F1 V3 Ultimate+ 鼠标、鼠标垫，单品到手价分别为 399 元、369 元、69 元，套装到手价则是 799 元。皮卡丘联名 RS7 Air 磁轴键盘采用 75% 配列，搭载冰刃磁轴，支持 8kHz 轮询率、32kHz 全键扫描率、256kHz 全键扫",
-          "source": "IT之家",
+          "id": "f8f4e21603e9",
+          "title": "这个双十一，百灵新模型干起活来不烧心",
+          "desc": "大模型好不好用，百灵拿成品说话",
+          "source": "量子位",
+          "date": "2026-10-15",
+          "dateLabel": "10月15日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://www.qbitai.com/2026/10/503532.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "da275cfd0140",
+          "title": "AI时代，商学院这样培养未来商业领袖",
+          "desc": "未来十年共创1000个AI课题",
+          "source": "量子位",
           "date": "2026-10-15",
           "dateLabel": "10月15日",
           "tags": [
             "business"
           ],
-          "url": "https://www.ithome.com/1/013/370.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/3b189eb8-bfa8-45ab-910c-0e24597eecc9.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/10/503504.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "06f94ff71033",
+          "title": "基元律动宣布开发者入驻超30万，开启双11预售福利",
+          "desc": "基元律动（Token Rhythm）宣布已有超过30万名开发者入驻，同期推出双11预售限时福利。",
+          "source": "量子位",
+          "date": "2026-10-15",
+          "dateLabel": "10月15日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/10/503501.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "35289d2c96b2",
+          "title": "苹果AI国内上线，阿里百度浮出水面",
+          "desc": "苹果 Apple Intelligence（苹果智能）在中国大陆的上线进入最后阶段。",
+          "source": "量子位",
+          "date": "2026-10-15",
+          "dateLabel": "10月15日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/10/503497.html",
+          "image": "",
+          "color": "#7c3aed"
         }
       ]
     },
@@ -1995,43 +2124,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-09-12",
-      "dateLabel": "9月12日",
-      "id": "d12",
-      "items": [
-        {
-          "id": "3f1764027062",
-          "title": "“算力中国·年度卓越成就”发布 太初元碁超智融合计算系统入选",
-          "desc": "太初（杭州）集成电路有限公司新一代超智融合计算系统元碁Hypertintellix入选“算力中国·年度卓越成就”。",
-          "source": "量子位",
-          "date": "2026-09-12",
-          "dateLabel": "9月12日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/09/487860.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "2bcda088d467",
-          "title": "A社承认Claude安全对齐存在缺陷，但“尚无解决方案”",
-          "desc": "Claude越界攻击真实系统，并非只是测试系统的设置问题，模型本身的安全问题也出了问题。",
-          "source": "量子位",
-          "date": "2026-09-12",
-          "dateLabel": "9月12日",
-          "tags": [
-            "model",
-            "policy"
-          ],
-          "url": "https://www.qbitai.com/2026/09/487796.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -2057,6 +2149,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-10-15 14:56",
-  "totalNews": 124
+  "updateTime": "2026-10-16 14:43",
+  "totalNews": 130
 }
