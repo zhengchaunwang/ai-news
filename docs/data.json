@@ -1,128 +1,245 @@
 {
   "newsData": [
     {
+      "date": "2026-10-17",
+      "dateLabel": "10月17日",
+      "id": "d17",
+      "items": [
+        {
+          "id": "43d872395ef0",
+          "title": "我国首个全自主可控气象 AI 集合预报系统“风清”正式投入业务运行",
+          "desc": "IT之家 10 月 17 日消息，据香港文汇报，“风清”人工智能全球短中期集合天气预报系统 V1.0 近日通过业务化评审，正式投入全国气象业务运行。该系统依托国家超级计算天津中心核心节点的十万卡 AI4S 超算集群完成全流程训练与迭代，是我国首个实现数据、模型和算力完全自主可控的业务级气象 AI 集合预报模型，标志着天津超算算力在支撑我国气象人工智能技术发展方面取得重要进展。据介绍，“风清”系统依",
+          "source": "IT之家",
+          "date": "2026-10-17",
+          "dateLabel": "10月17日",
+          "tags": [
+            "research",
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/014/289.htm",
+          "image": "",
+          "color": "#d97706"
+        },
+        {
+          "id": "86bed2390e2f",
+          "title": "微软领英 LinkedIn 加码副业生态：创作者可开付费咨询、视频广告分成",
+          "desc": "IT之家 10 月 17 日消息，科技媒体 Android Headline 昨日（10 月 16 日）发布博文，报道称微软旗下求职平台领英（LinkedIn）正加速从“数字简历平台”转向服务副业者与内容创作者的职业社交平台。IT之家援引博文介绍，LinkedIn 将推出创作者控制台、视频前贴片广告收入分成，以及可在个人主页直接提供一对一付费咨询的功能。其中，创作者控制台将帮助用户分析内容表现、发",
+          "source": "IT之家",
+          "date": "2026-10-17",
+          "dateLabel": "10月17日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/014/287.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/feda96c0-9ef2-4b9b-bb06-3da9a5b412a6.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "a96f4a55db82",
+          "title": "你的算法你做主：Meta 为 Facebook 用户提供 AI 驱动推荐定制工具",
+          "desc": "IT之家 10 月 17 日消息，Meta 当地时间本月 13 日宣布，该企业正在为社交平台 Facebook 的用户提供 AI 驱动的推荐定制工具，让用户以自然的方式管理个性化推荐算法。\"Your algorithm\" 功能允许用户通过自然语言添加内容偏好标签。用户选择推送内容“感兴趣”或“不感兴趣”后，Facebook 会通过一系列简短的后续问题了解用户选择的具体原因，用于推荐算法的微调改进。",
+          "source": "IT之家",
+          "date": "2026-10-17",
+          "dateLabel": "10月17日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.ithome.com/1/014/286.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/2971f213-59fc-4bef-b3ac-9b50007ddb9e.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "7f16931ffa06",
+          "title": "Bolt 完成 Zeus GPU 测试芯片调试，实际产品预计 2028 年发售",
+          "desc": "IT之家 10 月 17 日消息，GPU 初创企业 Bolt Graphics 当地时间本月 13 日宣布，其已完成 Zeus 架构 GPU 测试芯片的调试工作，为商用产品的 2028 年发售打下了基础。Bolt 的 Zeus 架构集成专用电磁仿真硬件，同时也能加速路径追踪图形负载，适用于物理 AI 等复杂计算场景。Bolt 在台积电 12nm 工艺上进行了小尺寸测试芯片的流片。该测试芯片仅有 6",
+          "source": "IT之家",
+          "date": "2026-10-17",
+          "dateLabel": "10月17日",
+          "tags": [
+            "research",
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/014/283.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/de4e65c3-7fb7-4edd-8f8d-a8dc1ceb4ac7.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "e885593418b6",
+          "title": "英伟达黄仁勋称 AI 现在不是泡沫，安全不应成为减速理由",
+          "desc": "IT之家 10 月 17 日消息，英国当地时间 10 月 14 日在伦敦接受彭博记者 Emily Chang 采访时，英伟达首席执行官黄仁勋表示当前 AI 需求远大于供给，不认为现阶段处于“AI 泡沫”阶段，不过他也承认未来供给可能超过需求。在采访中，黄仁勋表示：“泡沫发生在供给超过需求的时候。最终供需会趋于平衡，而且在某个时候，供给可能会超过需求，但不是今天。今天，需求远远大于供给。”面对 AI",
+          "source": "IT之家",
+          "date": "2026-10-17",
+          "dateLabel": "10月17日",
+          "tags": [
+            "policy"
+          ],
+          "url": "https://www.ithome.com/1/014/274.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/f11681e3-c323-4fe3-a0a9-77c6ca277b6c.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "cabfa01cf2b6",
+          "title": "谷歌 DeepMind 哈萨比斯预警：若不对 AI 采取安全措施，未来恐发生严重事故",
+          "desc": "IT之家 10 月 17 日消息，据路透社报道，谷歌 DeepMind 联合创始人兼董事长德米斯 · 哈萨比斯（Demis Hassabis）于本周三表示，近期由 AI 智能体发起的网络攻击事件是“前哨预警”；如果各方不进一步提升系统安全性，全球可能很快会面临严重的网络安全事件。兼任谷歌母公司 Alphabet 首席科学家的哈萨比斯在都柏林举行的一场人工智能峰会上表示：“我认为这些攻击事件对我们而",
+          "source": "IT之家",
+          "date": "2026-10-17",
+          "dateLabel": "10月17日",
+          "tags": [
+            "policy"
+          ],
+          "url": "https://www.ithome.com/1/014/264.htm",
+          "image": "",
+          "color": "#d97706"
+        },
+        {
+          "id": "7c6d17c245e7",
+          "title": "前高管喊话微软修 Win11 26H2 任务栏：侧边贴靠后无法自动隐藏 / 调整大小",
+          "desc": "IT之家 10 月 17 日消息，科技媒体 Windows Latest 发布博文，报道称曾任微软 Windows 与 Bing 负责人的米哈伊尔 · 帕拉欣（Mikhail Parakhin）今天（10 月 17 日）在 X 平台发布推文，公开批评 Windows 11 26H2 的任务栏体验，称其“尚不可用”。帕拉欣以搜索引擎、广告技术、云计算和消费级 AI 产品见长，曾于 2007 年至 2",
+          "source": "IT之家",
+          "date": "2026-10-17",
+          "dateLabel": "10月17日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/014/261.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/120968b1-45bf-49bd-aa19-0444914edf3c.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "d35ba78e8c0e",
+          "title": "为避免银行存款大量流失，花旗、美银出手限制智能体访问客户账户",
+          "desc": "IT之家 10 月 17 日消息，美国银行业向监管机构警告，AI 智能体可能为了帮助用户获得更高收益，自动将闲置资金转往其他账户，导致银行存款大量流失。据英国《金融时报》16 日报道，花旗集团和美国银行也已出手，限制 AI 智能体访问客户账户。花旗称，为保障客户账户和个人信息安全，该行禁止第三方 AI 智能体或助手登录客户账户，也不允许其直接通过花旗的数字银行平台办理交易。美国银行 CEO 布莱恩",
+          "source": "IT之家",
+          "date": "2026-10-17",
+          "dateLabel": "10月17日",
+          "tags": [
+            "policy"
+          ],
+          "url": "https://www.ithome.com/1/014/260.htm",
+          "image": "",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-10-16",
       "dateLabel": "10月16日",
       "id": "d16",
       "items": [
         {
-          "id": "ddf474e5c1db",
-          "title": "马斯克：第二代 Roadster 将是最后一款“人工驾驶”特斯拉车型",
-          "desc": "IT之家 10 月 16 日消息，特斯拉将未来押注于自动驾驶，第二代 Roadster 是一个重要例外。特斯拉 CEO 埃隆 · 马斯克在发布会上宣布，随着 Model S 和 Model X 即将退出产品阵容，Roadster 最终将成为特斯拉唯一一款专为人工驾驶打造的车型。“从长远来看，这台车实际上将是特斯拉最后一款由人亲自驾驶的汽车…… 既然只有这么一款，那就要把它的性能推向极限，甚至突破极",
-          "source": "IT之家",
+          "id": "6056706dc61e",
+          "title": "清华特奖得主AI创业再+1：GeoPT一作入局物理世界模型",
+          "desc": "从搭载物理建模能力的世界模型切入",
+          "source": "量子位",
           "date": "2026-10-16",
           "dateLabel": "10月16日",
           "tags": [
-            "business"
+            "business",
+            "cn"
           ],
-          "url": "https://www.ithome.com/1/013/916.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/c9eef9ab-32c8-4510-b587-379dfeeeeaa9.png",
-          "color": "#d97706"
-        },
-        {
-          "id": "b9fdeaae73cc",
-          "title": "丹麦最高法院裁定：AI 生成儿童色情内容同样获刑",
-          "desc": "IT之家 10 月 16 日消息，据彭博社 15 日报道，丹麦最高法院维持对一名 31 岁男子判处的 18 个月监禁刑罚。该男子因持有并传播数万张 AI 生成的儿童色情图像而获刑。这起备受关注的案件，涉及丹麦现行打击儿童性虐待影像的法律如何适用于 AI 合成内容。该国最高法院裁定，即使 AI 生成的未成年人色情图像没有真实人物作为原型，也同样受到丹麦《刑法》约束，不能因为图像中的人物是虚构的就减轻",
-          "source": "IT之家",
-          "date": "2026-10-16",
-          "dateLabel": "10月16日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/013/914.htm",
+          "url": "https://www.qbitai.com/2026/10/503880.html",
           "image": "",
-          "color": "#d97706"
+          "color": "#7c3aed"
         },
         {
-          "id": "49d57087f210",
-          "title": "Ternary Bonsai 2 系列 AI 模型登场：苹果 iPhone 18 Pro Max 上本地吞吐最高每秒 120 个词元",
-          "desc": "IT之家 10 月 16 日消息，AI 公司 PrismML 昨日（10 月 15 日）发布博文，宣布推出 Ternary Bonsai 2 系列模型，共有 2B、4B 和 9B 三种规模，目标在手机、PC 以及可穿戴设备上本地运行 AI 智能体，执行推理、识图、调用工具等能力。Ternary Bonsai 2 系列模型基于阿里的 Qwen 3.5 基座构建，采用“三元”权重表示法，即仅用 -1、",
-          "source": "IT之家",
+          "id": "f24023f8322c",
+          "title": "从“看懂世界”到“预演下一步”：世界模型与 VLA，如何让机器人拥有真正的“具身大脑”？",
+          "desc": "VLA解决“能干”，世界模型解决“想清楚再干”",
+          "source": "量子位",
           "date": "2026-10-16",
           "dateLabel": "10月16日",
           "tags": [
-            "model",
-            "research",
-            "business",
-            "cn"
+            "research"
           ],
-          "url": "https://www.ithome.com/1/013/894.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/5097a109-353a-4c05-8d0c-c9d262e1fe3c.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/10/503865.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "ff1a94a4ffae",
-          "title": "消息称三星验证阶段高通新旗舰芯片“发烧”：时隔 5 年 Galaxy S27 Ultra 手机有望回归使用 Exynos 2700",
-          "desc": "IT之家 10 月 16 日消息，数码博主 @i冰宇宙 今天（10 月 16 日）援引《首尔经济日报》报道，称三星在为 Galaxy S27 Ultra 旗舰手机做最终性能验证时，发现高通第六代骁龙 8 超级至尊版（Snapdragon 8 Elite Extreme 6th generation）存在过热问题。报道称内部测试显示，该芯片在高负载运行时温度反复超过阈值，并出现处理速度下降的情况。三",
-          "source": "IT之家",
-          "date": "2026-10-16",
-          "dateLabel": "10月16日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/013/868.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/01838543-95dc-40d8-b3a2-6c63f56e76a1.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "8f0a320181f1",
-          "title": "专为《微软模拟飞行》打造：Echo XPC 手柄海外开订，179.99 美元、11 月发售",
-          "desc": "IT之家 10 月 16 日消息，据外媒 NotebookCheck 今天（16 日）午间报道，Honeycomb 的飞行模拟手柄 Echo Aviation Controller XPC 现已在美国开放免费预约，售价 179.99 美元（IT之家注：现汇率约合 1,206 元人民币），将于 11 月 20 日正式开售，随后陆续登陆其他市场。该手柄兼容 XBOX 和 PC，配备隧道磁阻摇杆、霍尔效",
-          "source": "IT之家",
+          "id": "26eae6ab9c8d",
+          "title": "说真话就能拿10万？网易叭哥说重金求“真需求”，不卡专业学历",
+          "desc": "网易首个AI原生语音Agent「网易叭哥说」上线 “用户荣誉联创计划”，投入 10 万元征集产品建议",
+          "source": "量子位",
           "date": "2026-10-16",
           "dateLabel": "10月16日",
           "tags": [
             "business"
           ],
-          "url": "https://www.ithome.com/1/013/865.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/9dc41a40-a7f7-44e9-a2f0-b450926ab03f.png",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/10/503861.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "4e2d18acbaf5",
-          "title": "智元宣布与首批 20+ 高校合作，投入超 2 亿元建设具身智能人才生态",
-          "desc": "IT之家 10 月 16 日消息，智元本周发布公告，“元苼生态发展计划”与国内众多高校开展合作，共建具身智能产教融合创新实践平台。基于具身智能真实教学与科研需求，智元将投入千台具身智能设备，双方将进行课程共建、课题共研、实训共育，打通产业前沿技术与高校人才培养的衔接壁垒。首批合作的 20 多所高等院校包括北京大学、清华大学、浙江大学、华南理工大学、上海交通大学、西安交通大学、东南大学、中山大学等。",
-          "source": "IT之家",
+          "id": "f51d35c2df4b",
+          "title": "霸榜三大基准！优必选 Thinker-WM：多模态统一表征，单模型实现六大能力",
+          "desc": "优必选 Thinker-WM在三大公认具身世界模型基准评测中全部拿下第一名",
+          "source": "量子位",
           "date": "2026-10-16",
           "dateLabel": "10月16日",
           "tags": [
-            "research",
-            "business",
-            "cn"
+            "research"
           ],
-          "url": "https://www.ithome.com/1/013/864.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/9a57d9b1-4f36-44e0-abd6-f70172882b58.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/10/503843.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "7e186e9fdbe6",
-          "title": "腾讯 WorkBuddy 和 CodeBuddy 宣布 DeepSeek 服务故障用户 7 天内积分全额返还，额外送 500 积分",
-          "desc": "IT之家 10 月 16 日消息，DeepSeek 网页 / API 服务 10 月 15 日早间出现服务问题，经过近 5 个小时的修复恢复正常。对此，DeepSeek 官方开放平台宣布补偿所有 API 用户 7 天内的消耗金额。腾讯 WorkBuddy 和 CodeBuddy 今日跟进发布补偿公告，针对在 WorkBuddy 或 CodeBuddy 国内版端内使用 DeepSeek 模型并受到影",
-          "source": "IT之家",
+          "id": "92c313dea9c0",
+          "title": "范式智能联合睿思智联推出开源一站式  生产级 AI 部署平台 “模域ModelSphere”",
+          "desc": "范式智能技术集团有限公司联合北京睿思智联科技有限公司宣布，一站式生产级 AI 部署平台“模域”正式上线。",
+          "source": "量子位",
           "date": "2026-10-16",
           "dateLabel": "10月16日",
           "tags": [
-            "model",
             "business",
             "cn"
           ],
-          "url": "https://www.ithome.com/1/013/848.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/8200dd19-eb2f-49dd-950a-9fe050beb84f.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/10/503829.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "ca2b23636d80",
-          "title": "东风风神 L8+ 将于 10 月 23 日上市，搭载 Momenta R7 世界模型",
-          "desc": "IT之家 10 月 16 日消息，据易车消息，东风风神 L8+ 将于 10 月 23 日正式上市。新车搭载天元智驾 T800，采用 Momenta R7 世界模型，配备英伟达 Thor-U 芯片，算力可达 700TOPS，支持城市和高速 NOA。动力方面，东风风神 L8+ 搭载 1.5T 发动机 + 电机组成的插电混动系统。据IT之家此前报道，东风风神在今年 7 月宣布，下半年将发布风神 L8Y/",
-          "source": "IT之家",
+          "id": "420316892dcf",
+          "title": "68岁亚马逊CTO：别让恐惧，替企业做AI决策",
+          "desc": "经验没有压缩算法",
+          "source": "量子位",
+          "date": "2026-10-16",
+          "dateLabel": "10月16日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.qbitai.com/2026/10/503815.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "ea6c2c0c4912",
+          "title": "超1亿元融资砸向四川具身科技！要把「情绪价值」卖进千家万户",
+          "desc": "9.8万元起售，冲刺万台量产",
+          "source": "量子位",
           "date": "2026-10-16",
           "dateLabel": "10月16日",
           "tags": [
             "business"
           ],
-          "url": "https://www.ithome.com/1/013/846.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/e02234e1-7806-44db-9bff-86ab30572ec1.jpg",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/10/503782.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "756e4f6351ad",
+          "title": "百度世界2026五大亮点曝光，企业和开发者值得关注什么？",
+          "desc": "10月15日，百度官方公众号发文公布百度世界2026五大亮点",
+          "source": "量子位",
+          "date": "2026-10-16",
+          "dateLabel": "10月16日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/10/503779.html",
+          "image": "",
+          "color": "#7c3aed"
         }
       ]
     },
@@ -2061,69 +2178,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-09-13",
-      "dateLabel": "9月13日",
-      "id": "d13",
-      "items": [
-        {
-          "id": "eb8b541fa42c",
-          "title": "2000+真实场景搬进仿真！一个导航模型零样本“通吃”四种机器人本体",
-          "desc": "亮源新创的Physical Al路线清晰了",
-          "source": "量子位",
-          "date": "2026-09-13",
-          "dateLabel": "9月13日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://www.qbitai.com/2026/09/488672.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "7ef774673eb1",
-          "title": "GitHub三榜第一背后，一个“专升本”工程师的十年",
-          "desc": "出身寒微不是耻辱，放弃自己才是。",
-          "source": "量子位",
-          "date": "2026-09-13",
-          "dateLabel": "9月13日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/09/488519.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "2a7396db193f",
-          "title": "今年外滩最特别Agent：能干活，能陪聊，还会朋友圈拉黑你",
-          "desc": "Agent的下一步是关系型生产力",
-          "source": "量子位",
-          "date": "2026-09-13",
-          "dateLabel": "9月13日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/09/488447.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "a8eb80afd153",
-          "title": "OpenAI年内不上市了！奥特曼支持对手Dario呼吁：AI该踩刹车了",
-          "desc": "RSI太危险，得管！",
-          "source": "量子位",
-          "date": "2026-09-13",
-          "dateLabel": "9月13日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/09/488380.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -2149,6 +2203,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-10-16 14:43",
-  "totalNews": 130
+  "updateTime": "2026-10-17 14:32",
+  "totalNews": 134
 }
