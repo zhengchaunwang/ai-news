@@ -1,128 +1,250 @@
 {
   "newsData": [
     {
+      "date": "2026-10-20",
+      "dateLabel": "10月20日",
+      "id": "d20",
+      "items": [
+        {
+          "id": "dd677775858b",
+          "title": "Claude新模型曝光！能跳出思维定势，修Bug治标又治本",
+          "desc": "OpenAI只掏出一个6.1 Terra…",
+          "source": "量子位",
+          "date": "2026-10-20",
+          "dateLabel": "10月20日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://www.qbitai.com/2026/10/504314.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "fde6fd078ab7",
+          "title": "荣耀 Magic6 系列手机「AI 随心握」功能推送，升级至 110 版本可体验",
+          "desc": "IT之家 10 月 20 日消息，荣耀产品维护与升级工作人员 @荣耀小芳哥 今日宣布，Magic6 系列手机「AI 随心握」功能现已推送，升级至 110 版本即可体验。IT之家附设置方法如下：1. 进入“设置 > 荣耀 AI & YOYO > AI 随心握”，确认开关已开启；2. 进入“电话”，点击右上角三个点 > 设置，将“解锁后来电通知”设置为“横幅”目前，荣耀 Magic8 RSR 保时捷设",
+          "source": "IT之家",
+          "date": "2026-10-20",
+          "dateLabel": "10月20日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/015/315.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/43433d47-6283-4386-a581-167fe8b63f4a.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "26469b659a69",
+          "title": "思科总裁用 AI 智能体盘点并取消无用订阅服务，一年省下上千美元",
+          "desc": "IT之家 10 月 20 日消息，如果你总被突如其来、莫名其妙的订阅账单搞得头疼，思科总裁兼产品主管吉图・帕特尔（Jeetu Patel）也深有同感。帕特尔向《商业内幕》透露，他个人在用四到五款不同的 AI 智能体，包括 Meta 的 Muse、Instinct 以及 OpenAI 的 Dots，用来整合新闻、总结财报电话会议记录，甚至帮女儿订购演唱会门票。而最近，一款智能体帮他大幅削减订阅费用的",
+          "source": "IT之家",
+          "date": "2026-10-20",
+          "dateLabel": "10月20日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/015/314.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2025/11/62b5ea8d-908b-4cef-8fe9-837cb9190d66.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "62e1c6486fe1",
+          "title": "消息称微软正考虑大幅下调新款入门级 12 英寸 Surface 设备硬件规格，重新评估处理器选型",
+          "desc": "IT之家 10 月 20 日消息，据 DigiTimes 报道，微软正在重新评估 Surface 产品策略，以应对苹果 MacBook Neo 激进的定价策略和不断上涨的零部件成本。目前该公司正考虑大幅下调旗下新款入门级 12 英寸 Surface 设备的硬件规格，同时重新评估处理器选型。此前有消息称，相应入门级 12 英寸 Surface 将搭载 AMD 首款 Arm 架构笔记本处理器“Soun",
+          "source": "IT之家",
+          "date": "2026-10-20",
+          "dateLabel": "10月20日",
+          "tags": [
+            "research",
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/015/311.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/9/e826c305-e7ff-449f-ba51-ed248cd0a2fe.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "fc102d065f63",
+          "title": "点一下 Win11 桌面就打开必应？外媒称微软 Bing 壁纸应用存在引流行为",
+          "desc": "IT之家 10 月 20 日消息，科技媒体 Windows Latest 昨日（10 月 19 日）发布博文，测试最新版微软必应壁纸（Bing Wallpaper，用户可选安装）后，发现该应用会在用户左键点击 Windows 11 桌面背景后，自动通过默认浏览器打开必应（Bing）网站。该媒体指出微软曾于 2025 年测试相关特性，首次点击桌面调用默认浏览器访问必应网站之后，可以间隔 24 小时重",
+          "source": "IT之家",
+          "date": "2026-10-20",
+          "dateLabel": "10月20日",
+          "tags": [
+            "research",
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/015/310.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/b0adb95c-f7cb-4466-ab98-c37ddbbe38a7.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "4a1a4f455920",
+          "title": "微软 XBOX 手柄无线控制器 X25 特别版国行现货发售，优惠价 558 元",
+          "desc": "IT之家 10 月 20 日消息，微软宣布旗下 XBOX 无线控制器 X25 特别版国行现已在京东现货发售，定价为 588 元，优惠促销价 558 元。京东微软 XBOX 无线控制器 X25 特别版券后 558 元领 30 元券该产品采用经典半透明绿色设计，向初代 XBOX 游戏机进行致敬，其采用透明上盖、背盖，并首次为电池盖引入透明设计，绿色 XBOX  按钮的灵感源自当年让全球玩家初识 Xbo",
+          "source": "IT之家",
+          "date": "2026-10-20",
+          "dateLabel": "10月20日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/015/306.htm",
+          "image": "https://img14.360buyimg.com/pop/jfs/t1/528916/4/8319/59391/6ad1cbdaFabc775d2/0083320320a0231f.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "5aab206cab0e",
+          "title": "1399 → 679 元起：小米 Sound 2 Pro 音箱京东新低，两分频架构 + 可组 4.0 环绕声",
+          "desc": "小米 Sound 2 Pro 音箱今年 1 月 20 日开售，可联动 Sound 2 Max 搭建 4.0 环绕声，官方定价 1399 元。今日 11.11 京东直降至：部分地区国补 10%，实付 791.2 元。部分地区国补 15%，实付 747.2 元。京东小米 Sound 2 Pro 智能音箱超级小爱 AI 大模型音响国补后 747 元起领 9 折券PLUS 会员还可在 20:00 蹲点抢 ",
+          "source": "IT之家",
+          "date": "2026-10-20",
+          "dateLabel": "10月20日",
+          "tags": [
+            "model",
+            "research",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/015/300.htm",
+          "image": "https://img14.360buyimg.com/pop/jfs/t1/382512/10/22834/14901/69677623F731f1052/00831e01e08516db.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "561b9caccd8d",
+          "title": "OpenAI 上线 ChatGPT Slides 幻灯片工具，支持团队协作编辑",
+          "desc": "IT之家 10 月 20 日消息，OpenAI 于上月发布了 ChatGPT Space，配套包含 Pages、Slides、Sheets 等工具。该公司当时表示，Slides 和 Sheets 会在后续推出。几周之后，OpenAI 终于在 ChatGPT 中上线了 Slides（幻灯片工具）。ChatGPT 官方账号在 X 平台发文，公布现已可用的多项 ChatGPT Slides 功能。用户现",
+          "source": "IT之家",
+          "date": "2026-10-20",
+          "dateLabel": "10月20日",
+          "tags": [
+            "model",
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/015/298.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/9e49829f-0eab-4186-8449-590c81451d6a.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-10-19",
       "dateLabel": "10月19日",
       "id": "d19",
       "items": [
         {
-          "id": "2f41802054ac",
-          "title": "游戏公司未成年退款多退三万元，对方拒不返还、AI 伪造录音被当庭训诫",
-          "desc": "IT之家 10 月 19 日消息，据央视新闻报道，在陕西西安雁塔法院审结的一起“不当得利纠纷”案中，游戏公司在返还未成年人充值退款后，却因为转账时操作失误，多退了三万多元。面对这笔“意外之财”，对方不仅拒不返还，而且在庭审中还使用 AI 伪造通话录音试图蒙混过关。小涵（化名）使用游戏平台充值了约 5 万元，其母亲刘某将游戏公司诉至广州某法院。经法院调解，双方达成协议：游戏公司按 30% 的比例退还",
-          "source": "IT之家",
+          "id": "8fa76bc59737",
+          "title": "从百比特芯片到整机交付，这家量子计算公司正将量子算力推向可调用服务",
+          "desc": "同步搭建千比特规模量子算力云平台",
+          "source": "量子位",
           "date": "2026-10-19",
           "dateLabel": "10月19日",
           "tags": [
             "business"
           ],
-          "url": "https://www.ithome.com/1/014/836.htm",
+          "url": "https://www.qbitai.com/2026/10/504277.html",
           "image": "",
-          "color": "#d97706"
+          "color": "#7c3aed"
         },
         {
-          "id": "a8bbea7215ce",
-          "title": "腾讯 AI 管家 Marvis（马维斯）上架麒麟软件商店，深度适配国产操作系统",
-          "desc": "IT之家 10 月 19 日消息，腾讯官方今天宣布，旗下人工智能管家 Marvis（马维斯）已上架麒麟软件商店，面向银河麒麟桌面操作系统版本：V10SP1（X86、ARM），支持多款国产 CPU 和主流计算平台。IT之家了解到，Marvis 是一款操作系统层级的个人 AI 管家，它可以直接操控电脑，执行调整屏幕亮度、切换深色模式等。例如用户可以向它提问：“鼠标用着怎么不跟手，帮我调下”，小马就会自",
-          "source": "IT之家",
+          "id": "15651d261ef6",
+          "title": "通研院孵化的团队，也盯上了RSI",
+          "desc": "当AI越来越懂你，如何让智能真正属于你？",
+          "source": "量子位",
+          "date": "2026-10-19",
+          "dateLabel": "10月19日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/10/504294.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "f476d4516054",
+          "title": "2026物理AI与世界模型大会医疗健康世界模型分会场在南京举行",
+          "desc": "2026年10月19日下午，医疗健康世界模型分会场在南京国际博览中心钟山厅举行",
+          "source": "量子位",
+          "date": "2026-10-19",
+          "dateLabel": "10月19日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/10/504266.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "ecad39c9aecb",
+          "title": "全栈自研！国产高端互连芯片，稳了!",
+          "desc": "六年蛰伏出货80万颗",
+          "source": "量子位",
           "date": "2026-10-19",
           "dateLabel": "10月19日",
           "tags": [
             "business",
             "cn"
           ],
-          "url": "https://www.ithome.com/1/014/832.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/085e02f0-b2c5-4dd8-a716-588eee07657c.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/10/504225.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "bf7b37009724",
-          "title": "消息称某厂超大杯手机基本确定骁龙 8EE6 芯片、暂定排期明年 3-4 月，预计为 vivo X500 Ultra",
-          "desc": "IT之家 10 月 19 日消息，微博博主 @数码闲聊站 今天在微博透露，某厂超大杯手机基本确定采用 SM8975 / 骁龙 8EE6 芯片，暂定排期 2027 年 3 月-4 月。据介绍，这款手机将采用 6.85 英寸 BOE 2K+144Hz LTPO 屏幕，LIPO 四等边大 R 角直屏，配备 3D 超声波指纹。后续有用户在评论区询问：“有三超大底两亿吗”，博主回复道：“没有”；另一名用户则",
-          "source": "IT之家",
+          "id": "d9899bafbe9f",
+          "title": "AI 开始挑战最复杂的系统：生命",
+          "desc": "10 月 17 日，哲源科技发布 WHIRLPO 计算医学平台。",
+          "source": "量子位",
           "date": "2026-10-19",
           "dateLabel": "10月19日",
           "tags": [
             "business"
           ],
-          "url": "https://www.ithome.com/1/014/826.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/d5e85fe5-743a-4224-b5f0-7658ad81f00c.png",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/10/504242.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "bdda89457793",
-          "title": "理想汽车 CEO 李想谈“自研和合作”，称是不同阶段的不同选择",
-          "desc": "IT之家 10 月 19 日消息，理想汽车 CEO 李想今日再度发文，谈及了“自研和合作”。他表示，这是不同阶段的不同选择。2020 年，我们决定自研。芯片、三电、增程器，这些核心环节，我们一步步做了起来。同时，我们也不排斥和任何技术顶级的供应商合作。自研和合作，是不同阶段的不同选择。据IT之家今日早些时候报道，李想认为汽车主机厂深入研究电池核心技术，有利于行业发展和消费者利益。他称这个世界既需要",
-          "source": "IT之家",
-          "date": "2026-10-19",
-          "dateLabel": "10月19日",
-          "tags": [
-            "research",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/014/816.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/1b60c03a-9fee-453b-b508-79927edf79aa.jpg",
-          "color": "#d97706"
-        },
-        {
-          "id": "ad7962334f57",
-          "title": "大晓机器人发布具身基模型 ACE-Brain-0.6，六项空间感知评测超越 OpenAI GPT-6 Astra",
-          "desc": "IT之家 10 月 19 日消息，大晓机器人发布视觉空间锚定增强型具身基模型 ACE-Brain-0.6，该模型基于 Qwen3.5-9B 进行监督微调，重点提升目标识别、空间定位及交互区域判断能力。据大晓披露，该模型使用约百万条空间锚定训练样本，在八项 Grounding 评测中有六项成绩超过 OpenAI GPT-6 Astra。其中，七项公开基准平均得分为 74.53 分，高于后者的 73.",
-          "source": "IT之家",
-          "date": "2026-10-19",
-          "dateLabel": "10月19日",
-          "tags": [
-            "model",
-            "research",
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/014/815.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/7bb4ff5d-8024-4826-85f5-44d4fb1f625b.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "8dcfae0efa0f",
-          "title": "字节火山引擎发起 Seedance 精品 AI 剧激励计划，单部作品最高可获 20 万元",
-          "desc": "IT之家 10 月 19 日消息，字节跳动旗下火山引擎发起精品 AI 剧激励计划，面向使用 Seedance 制作并在红果短剧 App 上线的精品 AI 漫短剧提供激励。IT之家注意到，公告显示，符合条件的 AI 剧按红果热度值进行月度排名，进入当月 AI 剧 TOP50 并通过审核后，可获相应激励；其中月度排名前 10 的作品，单部激励最高可达 20 万元。首期活动申报截止时间为 2027 年 ",
-          "source": "IT之家",
+          "id": "9699295bc33b",
+          "title": "达摩院玄铁出席RISC-V中国峰会，首发车规产品路线图",
+          "desc": "10月19日，RISC-V中国峰会在深圳举行。",
+          "source": "量子位",
           "date": "2026-10-19",
           "dateLabel": "10月19日",
           "tags": [
             "business",
             "cn"
           ],
-          "url": "https://www.ithome.com/1/014/794.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/5a6920ab-719d-4741-86ae-388762c7f534.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/10/504238.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "63433d0b4d28",
-          "title": "Linux 7.3 内核稳定版更新发布：提高 I/O 性能，进一步支持 AMD Zen 6 架构",
-          "desc": "IT之家 10 月 19 日消息，Linux 7.3 内核今日正式发布，带来更高效的 I/O 性能，并进一步支持了 AMD Zen 6 架构，功能也更加丰富。新版本还带来 Steam Controller 2026 内核驱动程序的支持、对旧款 AMD GPU 的优化、针对视频显存有限系统的改进性 VRAM 管理。在过去的一周里，Linux 开发者进行了各种漏洞修复工作，包括持续出现的 AI / L",
-          "source": "IT之家",
+          "id": "623e47ae54b0",
+          "title": "赛场交卷 未来已来——首届全球具身智能应用创新挑战赛暨2026中国机器人大赛闭幕",
+          "desc": "10月18日下午，首届全球具身智能应用创新挑战赛暨2026中国机器人大赛落下帷幕。",
+          "source": "量子位",
           "date": "2026-10-19",
           "dateLabel": "10月19日",
           "tags": [
             "research",
-            "business"
+            "cn"
           ],
-          "url": "https://www.ithome.com/1/014/775.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/08f2b8d0-b893-4e0d-9d4c-dbcbfb978a89.png",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/10/504199.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "f1b11985c53e",
-          "title": "微软 Surface 鼠标 (第 2 代) 国行定价 688 元，支持高级触觉反馈",
-          "desc": "IT之家 10 月 19 日消息，微软官方商城现已确认，此前发布的 Surface 鼠标 (第 2 代) 国行定价为 688 元。Surface 鼠标 (第 2 代) 三维 112.5 × 63.2 × 36.4 (mm)，拥有亲肤触感硅胶上盖，内附 2 节 AAA 碱性电池，质量（含电池）115 克，支持蓝牙 6.0 规范，可同时连接最多三台设备。其配备 4 个按键和 1 个机械滚轮，采用低噪音",
-          "source": "IT之家",
+          "id": "46265780d6a4",
+          "title": "日均6万亿Token服务背后，商汤大装置如何提升推理效能？",
+          "desc": "AI基础设施竞争转向高质量Token产能",
+          "source": "量子位",
           "date": "2026-10-19",
           "dateLabel": "10月19日",
           "tags": [
-            "business"
+            "research",
+            "cn"
           ],
-          "url": "https://www.ithome.com/1/014/772.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/44aaef01-4f9e-4056-9954-5057e5d18096.jpg",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/10/504188.html",
+          "image": "",
+          "color": "#7c3aed"
         }
       ]
     },
@@ -1987,72 +2109,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-09-16",
-      "dateLabel": "9月16日",
-      "id": "d16",
-      "items": [
-        {
-          "id": "e05bfb685990",
-          "title": "通用能力不打折，空间具身智能断层领先！ZDTaichu5.0-9B国产开源，跻身全球多模态第一梯队",
-          "desc": "九大空间测试10B规模通用模型中8项第一",
-          "source": "量子位",
-          "date": "2026-09-16",
-          "dateLabel": "9月16日",
-          "tags": [
-            "research",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/09/490839.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "c789acfbb537",
-          "title": "AI大模型工场2026 AI产业生态大会今日举办，大咖同台共探智能生长与产业共生",
-          "desc": "9月15日，由AI大模型工场主办的“2026 AI产业生态大会”在北京举行。",
-          "source": "量子位",
-          "date": "2026-09-16",
-          "dateLabel": "9月16日",
-          "tags": [
-            "model",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/09/490760.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "ad746dc24de6",
-          "title": "高通技术公司携手中兴努比亚和豆包手机助手，共同推动智能手机迈入个人AI新时代",
-          "desc": "第五代骁龙8至尊版赋能全新AI智能体手机努比亚NaviX Ultra，加速智能体体验规模化落地",
-          "source": "量子位",
-          "date": "2026-09-16",
-          "dateLabel": "9月16日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/09/490756.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "de726d0e7b32",
-          "title": "基元律动与无问芯穹达成战略合作，推进高质量Token供给与应用",
-          "desc": "2026年 9 月 15 日，AI基础设施公司基元律动（TokenRhythm）与无问芯穹（Infinigence AI）签署战略合作协议。",
-          "source": "量子位",
-          "date": "2026-09-16",
-          "dateLabel": "9月16日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/09/490750.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -2078,6 +2134,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-10-19 15:18",
-  "totalNews": 125
+  "updateTime": "2026-10-20 15:09",
+  "totalNews": 129
 }
