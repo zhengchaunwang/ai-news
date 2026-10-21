@@ -1,127 +1,251 @@
 {
   "newsData": [
     {
+      "date": "2026-10-21",
+      "dateLabel": "10月21日",
+      "id": "d21",
+      "items": [
+        {
+          "id": "088dcb11e882",
+          "title": "飞书豆包工作AI先锋未来人才大赛：企业正在争抢会用AI做成事的人",
+          "desc": "先看真实问题解决力",
+          "source": "量子位",
+          "date": "2026-10-21",
+          "dateLabel": "10月21日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/10/504608.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "aa18f16f07d0",
+          "title": "理想宣布：电池自燃报废赔新车！自研6年后有底气了",
+          "desc": "电池、电驱、超充一把梭，冬天多跑30公里",
+          "source": "量子位",
+          "date": "2026-10-21",
+          "dateLabel": "10月21日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/10/504551.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "e849fcf8ab0f",
+          "title": "高通 V2X 芯片组将支持日本 760MHz 标准，实现全球几乎所有主要区域覆盖",
+          "desc": "IT之家 10 月 21 日消息，Qualcomm（高通）当地时间本月 20 日宣布，其 V2X（车联网）芯片组将在现有 5.9GHz 频段的基础上增加对日本 760MHz ARIB-T109 标准的支持，实现对全球几乎所有主要区域的覆盖。这一改进可减少对特定区域硬件的需求，降低部署复杂性，并加速 V2X 技术的部署，从而提升驾驶员、乘客以及弱势道路使用者的安全性。V2X 技术能够提供可靠的实时通",
+          "source": "IT之家",
+          "date": "2026-10-21",
+          "dateLabel": "10月21日",
+          "tags": [
+            "business",
+            "policy"
+          ],
+          "url": "https://www.ithome.com/1/015/863.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/ebb1bd50-dcba-4abb-b3e1-e90840ab654b.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "308872e9187c",
+          "title": "小米 REDMI K100 手机出厂搭载澎湃 OS 4 系统，支持旗舰同款柔光玻璃效果",
+          "desc": "IT之家 10 月 21 日消息，小米官方今天宣布，REDMI K100 手机将出厂搭载澎湃 HyperOS 4 操作系统，拥有小米旗舰同款生命感美学、柔光玻璃效果，体验“更流畅”。据介绍，澎湃 OS4 将拥有 Xiaomi MiMo 大模型驱动的超级小爱 2.0，支持便捷记忆等 AI 新体验。还能跨设备互通，平板、PC 直接处理手机数据，更有全方位隐私守护。IT之家了解到，REDMI K100 ",
+          "source": "IT之家",
+          "date": "2026-10-21",
+          "dateLabel": "10月21日",
+          "tags": [
+            "model",
+            "policy",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/015/855.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/5fe010bd-47f3-41a5-ab7e-2059d0aa556e.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "8fa8fc4f307e",
+          "title": "中国科协名誉主席万钢：预期 2030 年 L3 级自动驾驶渗透率将超过 35%",
+          "desc": "IT之家 10 月 21 日消息，据财联社报道，中国科学技术协会名誉主席万钢 10 月 21 日在 2026 世界智能网联汽车大会开幕式上表示，随着新型传感器件和系统等成本下探及 AI 大模型技术加速赋能，2026 年上半年我国具备 L2 级辅助驾驶功能的乘用车新车渗透率已突破 70%，预计 2030 年将达到 95% 以上。万钢同时表示，高级别自动驾驶技术加速落地，截至 2026 年上半年，全国",
+          "source": "IT之家",
+          "date": "2026-10-21",
+          "dateLabel": "10月21日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/015/852.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/dcf76833-f166-4613-b06f-29cb39df5c25.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "a8709422079b",
+          "title": "印度 eMudhra 中间证书私钥存在严重缺陷：Chrome、Firefox 迅速阻断，Go、Python、Rust 均需更新",
+          "desc": "IT之家 10 月 21 日消息，印度证书颁发机构 eMudhra 的 8 个中间证书私钥被发现在生成时存在严重缺陷，Mozilla、谷歌、苹果、微软以及多个开发工具链已紧急吊销相关证书或发布更新。此次事件源于 eMudhra 旗下 emSign 的 8 张中间 CA（证书颁发机构）证书在私钥生成环节存在严重缺陷，正常情况下应具备 384 位随机性的 P-384 私钥实际取值却仅相当于个位数或两位",
+          "source": "IT之家",
+          "date": "2026-10-21",
+          "dateLabel": "10月21日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/015/849.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/760700d6-54b5-4c94-9699-0bdb267be5a0.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "fedd056c034f",
+          "title": "苹果 AirPods 5 全国国补 999 → 755 元，AirPods Pro 3 限地区 1178 元再降新低",
+          "desc": "今晚 21 点起，京东自营 AirPods 5 实测开启全国国补，国补 15% 后 PLUS 仅需 755 元起破冰新低。京东 PLUS 目前可领 100、125 元 AirPods 5 加补券，180 元 AirPods Pro 3 加补券：点此领券。京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次：点此抽取。京东 Apple AirPods 5 支持主动降噪国补后 755 元",
+          "source": "IT之家",
+          "date": "2026-10-21",
+          "dateLabel": "10月21日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/015/827.htm",
+          "image": "https://img14.360buyimg.com/pop/jfs/t1/508991/23/5637/15808/6aa1af6bF62a0b555/00833203207564db.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "7c877beacafd",
+          "title": "10 年来最大底层变革：微软 OneDrive 引入 Hero Links，链接分享后还能随时改权限",
+          "desc": "IT之家 10 月 21 日消息，在昨日（10 月 20 日）举办的 OneDrive 与 Copilot 主题活动中，微软宣布为 OneDrive 和 SharePoint 推出全新的 Hero Links 文件共享体系。微软称，这是 Microsoft 365 文件共享自 2014 年引入链接共享以来的“十多年来”最大底层变革。微软表示用户过去分享同一份文件或文件夹，往往需要生成多个共享链接，",
+          "source": "IT之家",
+          "date": "2026-10-21",
+          "dateLabel": "10月21日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/015/811.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/4ca9d582-2bfe-414f-82de-ac565163d58e.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-10-20",
       "dateLabel": "10月20日",
       "id": "d20",
       "items": [
         {
-          "id": "dd677775858b",
-          "title": "Claude新模型曝光！能跳出思维定势，修Bug治标又治本",
-          "desc": "OpenAI只掏出一个6.1 Terra…",
+          "id": "a43cc512c899",
+          "title": "国模Agent第一！MiniMax爆改Flash战力，全时段大肥鱼谷价",
+          "desc": "兔皮底下，竟然是MiniMax！",
           "source": "量子位",
           "date": "2026-10-20",
           "dateLabel": "10月20日",
           "tags": [
             "model"
           ],
-          "url": "https://www.qbitai.com/2026/10/504314.html",
+          "url": "https://www.qbitai.com/2026/10/504517.html",
           "image": "",
           "color": "#7c3aed"
         },
         {
-          "id": "fde6fd078ab7",
-          "title": "荣耀 Magic6 系列手机「AI 随心握」功能推送，升级至 110 版本可体验",
-          "desc": "IT之家 10 月 20 日消息，荣耀产品维护与升级工作人员 @荣耀小芳哥 今日宣布，Magic6 系列手机「AI 随心握」功能现已推送，升级至 110 版本即可体验。IT之家附设置方法如下：1. 进入“设置 > 荣耀 AI & YOYO > AI 随心握”，确认开关已开启；2. 进入“电话”，点击右上角三个点 > 设置，将“解锁后来电通知”设置为“横幅”目前，荣耀 Magic8 RSR 保时捷设",
-          "source": "IT之家",
+          "id": "039123771588",
+          "title": "RSI三块关键拼图，MemT 1.0从模型层补上「记忆」",
+          "desc": "把记忆原生焊进Transformer",
+          "source": "量子位",
           "date": "2026-10-20",
           "dateLabel": "10月20日",
           "tags": [
             "business"
           ],
-          "url": "https://www.ithome.com/1/015/315.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/43433d47-6283-4386-a581-167fe8b63f4a.jpg",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/10/504456.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "26469b659a69",
-          "title": "思科总裁用 AI 智能体盘点并取消无用订阅服务，一年省下上千美元",
-          "desc": "IT之家 10 月 20 日消息，如果你总被突如其来、莫名其妙的订阅账单搞得头疼，思科总裁兼产品主管吉图・帕特尔（Jeetu Patel）也深有同感。帕特尔向《商业内幕》透露，他个人在用四到五款不同的 AI 智能体，包括 Meta 的 Muse、Instinct 以及 OpenAI 的 Dots，用来整合新闻、总结财报电话会议记录，甚至帮女儿订购演唱会门票。而最近，一款智能体帮他大幅削减订阅费用的",
-          "source": "IT之家",
-          "date": "2026-10-20",
-          "dateLabel": "10月20日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/015/314.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2025/11/62b5ea8d-908b-4cef-8fe9-837cb9190d66.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "62e1c6486fe1",
-          "title": "消息称微软正考虑大幅下调新款入门级 12 英寸 Surface 设备硬件规格，重新评估处理器选型",
-          "desc": "IT之家 10 月 20 日消息，据 DigiTimes 报道，微软正在重新评估 Surface 产品策略，以应对苹果 MacBook Neo 激进的定价策略和不断上涨的零部件成本。目前该公司正考虑大幅下调旗下新款入门级 12 英寸 Surface 设备的硬件规格，同时重新评估处理器选型。此前有消息称，相应入门级 12 英寸 Surface 将搭载 AMD 首款 Arm 架构笔记本处理器“Soun",
-          "source": "IT之家",
-          "date": "2026-10-20",
-          "dateLabel": "10月20日",
-          "tags": [
-            "research",
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/015/311.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/9/e826c305-e7ff-449f-ba51-ed248cd0a2fe.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "fc102d065f63",
-          "title": "点一下 Win11 桌面就打开必应？外媒称微软 Bing 壁纸应用存在引流行为",
-          "desc": "IT之家 10 月 20 日消息，科技媒体 Windows Latest 昨日（10 月 19 日）发布博文，测试最新版微软必应壁纸（Bing Wallpaper，用户可选安装）后，发现该应用会在用户左键点击 Windows 11 桌面背景后，自动通过默认浏览器打开必应（Bing）网站。该媒体指出微软曾于 2025 年测试相关特性，首次点击桌面调用默认浏览器访问必应网站之后，可以间隔 24 小时重",
-          "source": "IT之家",
-          "date": "2026-10-20",
-          "dateLabel": "10月20日",
-          "tags": [
-            "research",
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/015/310.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/b0adb95c-f7cb-4466-ab98-c37ddbbe38a7.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "4a1a4f455920",
-          "title": "微软 XBOX 手柄无线控制器 X25 特别版国行现货发售，优惠价 558 元",
-          "desc": "IT之家 10 月 20 日消息，微软宣布旗下 XBOX 无线控制器 X25 特别版国行现已在京东现货发售，定价为 588 元，优惠促销价 558 元。京东微软 XBOX 无线控制器 X25 特别版券后 558 元领 30 元券该产品采用经典半透明绿色设计，向初代 XBOX 游戏机进行致敬，其采用透明上盖、背盖，并首次为电池盖引入透明设计，绿色 XBOX  按钮的灵感源自当年让全球玩家初识 Xbo",
-          "source": "IT之家",
+          "id": "a501dd62c4f7",
+          "title": "比亚迪成为2026年APEC会议官方合作伙伴",
+          "desc": "2026年10月16日，比亚迪集团正式成为亚太经合组织第三十三次领导人非正式会议官方合作伙伴",
+          "source": "量子位",
           "date": "2026-10-20",
           "dateLabel": "10月20日",
           "tags": [
             "business",
             "cn"
           ],
-          "url": "https://www.ithome.com/1/015/306.htm",
-          "image": "https://img14.360buyimg.com/pop/jfs/t1/528916/4/8319/59391/6ad1cbdaFabc775d2/0083320320a0231f.png",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/10/504452.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "5aab206cab0e",
-          "title": "1399 → 679 元起：小米 Sound 2 Pro 音箱京东新低，两分频架构 + 可组 4.0 环绕声",
-          "desc": "小米 Sound 2 Pro 音箱今年 1 月 20 日开售，可联动 Sound 2 Max 搭建 4.0 环绕声，官方定价 1399 元。今日 11.11 京东直降至：部分地区国补 10%，实付 791.2 元。部分地区国补 15%，实付 747.2 元。京东小米 Sound 2 Pro 智能音箱超级小爱 AI 大模型音响国补后 747 元起领 9 折券PLUS 会员还可在 20:00 蹲点抢 ",
-          "source": "IT之家",
+          "id": "27f53537f673",
+          "title": "技术赋能全球化深耕 比亚迪携多品牌亮相2026巴黎车展",
+          "desc": "当地时间10月12日，2026巴黎国际车展正式启幕。",
+          "source": "量子位",
           "date": "2026-10-20",
           "dateLabel": "10月20日",
           "tags": [
-            "model",
-            "research",
+            "business",
             "cn"
           ],
-          "url": "https://www.ithome.com/1/015/300.htm",
-          "image": "https://img14.360buyimg.com/pop/jfs/t1/382512/10/22834/14901/69677623F731f1052/00831e01e08516db.png",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/10/504435.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "561b9caccd8d",
-          "title": "OpenAI 上线 ChatGPT Slides 幻灯片工具，支持团队协作编辑",
-          "desc": "IT之家 10 月 20 日消息，OpenAI 于上月发布了 ChatGPT Space，配套包含 Pages、Slides、Sheets 等工具。该公司当时表示，Slides 和 Sheets 会在后续推出。几周之后，OpenAI 终于在 ChatGPT 中上线了 Slides（幻灯片工具）。ChatGPT 官方账号在 X 平台发文，公布现已可用的多项 ChatGPT Slides 功能。用户现",
-          "source": "IT之家",
+          "id": "2ea93680d4f2",
+          "title": "首Token延迟降低32.4%！是石科技集群调度大招，国产推理再提效",
+          "desc": "最新发布TokenFleet调度框架",
+          "source": "量子位",
           "date": "2026-10-20",
           "dateLabel": "10月20日",
           "tags": [
-            "model",
+            "research",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/10/504421.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "7c1d9845b15b",
+          "title": "Meshy推出Meshy Edit：基于全新自研AI模型，一句指令实现3D模型局部编辑",
+          "desc": "圈选修改区域，一句话描述改动，约一分钟生成新模型，未选中区域保持原样",
+          "source": "量子位",
+          "date": "2026-10-20",
+          "dateLabel": "10月20日",
+          "tags": [
             "business"
           ],
-          "url": "https://www.ithome.com/1/015/298.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/9e49829f-0eab-4186-8449-590c81451d6a.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/10/504415.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "c2a32a711e44",
+          "title": "赛豆首款AI汽车公告图公示，价格被按零件猜到了20万以上",
+          "desc": "宁德时代电池上车",
+          "source": "量子位",
+          "date": "2026-10-20",
+          "dateLabel": "10月20日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/10/504395.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "f3902f2d7746",
+          "title": "AI硬件出海，别当“背景板”，GTC2026 Shanghai「AI硬件专区」邀你占位",
+          "desc": "2026 年 11 月 4 日至 5 日，GTC2026 全球流量大会（上海）将在上海世博展览馆 H3 馆举办",
+          "source": "量子位",
+          "date": "2026-10-20",
+          "dateLabel": "10月20日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/10/504372.html",
+          "image": "",
+          "color": "#7c3aed"
         }
       ]
     },
@@ -2074,41 +2198,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-09-17",
-      "dateLabel": "9月17日",
-      "id": "d17",
-      "items": [
-        {
-          "id": "495873ccb341",
-          "title": "从“会回答”到“会办事”，vivo如何解AI手机这道题？",
-          "desc": "构建个体专属AI助理",
-          "source": "量子位",
-          "date": "2026-09-17",
-          "dateLabel": "9月17日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/09/491649.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "02cd052ec0b0",
-          "title": "Claude Code团队讲究啊，这都往外说",
-          "desc": "工程师的核心永远是Problem Solving。",
-          "source": "量子位",
-          "date": "2026-09-17",
-          "dateLabel": "9月17日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://www.qbitai.com/2026/09/491596.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -2134,6 +2223,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-10-20 15:09",
-  "totalNews": 129
+  "updateTime": "2026-10-21 15:02",
+  "totalNews": 135
 }
