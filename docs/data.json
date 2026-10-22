@@ -1,10 +1,210 @@
 {
   "newsData": [
     {
+      "date": "2026-10-22",
+      "dateLabel": "10月22日",
+      "id": "d22",
+      "items": [
+        {
+          "id": "5fa3c4da7299",
+          "title": "华为 AI 眼镜获 HarmonyOS 6.0.0.159 SP5 升级：新增头动支付等功能，连续录像时长提升至 5 分钟",
+          "desc": "IT之家 10 月 22 日消息，据博主 @Adak封狼居胥 今日分享，华为 AI 眼镜现开启了 HarmonyOS 6.0.0.159 SP5 升级，新版本支付能力升级，新增停车场扫码支付、头动支付，连续录像时长也提升到 5 分钟。博主分享的新功能演示图如下：据IT之家此前报道，华为 AI 眼镜于今年 4 月发布，售价 2499 元起。其采用全新轻量化新型材料和精密堆叠技术，镜腿薄至 6.25m",
+          "source": "IT之家",
+          "date": "2026-10-22",
+          "dateLabel": "10月22日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/016/448.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/44fbeceb-f1ae-4ba7-88f6-712044a23952.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "5e9b06ebd83e",
+          "title": "科大讯飞首发星火语音基座大模型 SparkAudio 1.0：中英文任意切换、说话人实时识别，输入法里就能用",
+          "desc": "IT之家 10 月 22 日消息，在今日下午的科大讯飞全球 1024 开发者节活动中，科大讯飞宣布首发星火语音基座大模型 SparkAudio 1.0。SparkAudio 1.0 集成了机器翻译、语音识别、语义理解等能力，显著提升了基础语音能力。模型宣称在实时说话人分离、环境理解、音频理解、情绪识别等方面“表现卓越”，推动人工智能向物理世界应用迈进。官方通过一段电影片段的分析，展示了模型对声音内",
+          "source": "IT之家",
+          "date": "2026-10-22",
+          "dateLabel": "10月22日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/016/445.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/436a4782-0945-4c79-9f3e-497a2f11936d.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "450466fc33d2",
+          "title": "富士通客户端计算多系笔电 2026 年冬季上新，提供带光驱型号",
+          "desc": "IT之家 10 月 22 日消息，富士通客户端计算 (FCCL) 今日发布了 2026 年冬季新品阵容，除此前介绍的 FMV Note U 外，C、M、A、Q 几条产品线均有升级。FMV Note CFMV Note C 是一款 13.3\" 型号，新一代产品搭载 AMD 锐龙 AI 7 445，拥有机加工铝材机身，可选地平线蓝和粉金配色。其新增触控支持，强化机身散热，提供 HDMI 输出，支持杜比",
+          "source": "IT之家",
+          "date": "2026-10-22",
+          "dateLabel": "10月22日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/016/418.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/2fe6e925-92fe-499a-bc2d-62da0b56bfa4.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "596ea972c01a",
+          "title": "讯飞星火 X2.6 端云一体大模型发布，首次基于全国产算力实现代码和智能体能力突破",
+          "desc": "IT之家 10 月 22 日消息，在今日下午的科大讯飞全球 1024 开发者节活动中，讯飞星火 X2.6 端云一体大模型正式发布。讯飞星火 X2.6 宣称首次基于全国产算力实现代码和智能体能力突破。科大讯飞董事长刘庆峰表示，只有星火一家是用全国产算力训练的，其他全是在 N 卡上训练，而且科大讯飞的尺寸是最小的。此外，刘庆峰表示讯飞星火 X2.6 率先突破国产芯片长程任务的训练效率瓶颈，适配国产平台",
+          "source": "IT之家",
+          "date": "2026-10-22",
+          "dateLabel": "10月22日",
+          "tags": [
+            "model",
+            "research",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/016/403.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/caec226c-e127-4ae6-81ea-d4cf5785659c.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "b142253865a8",
+          "title": "软银股价较 6 月高点接近腰斩，AI 投资烧钱模式遭市场质疑",
+          "desc": "IT之家 10 月 22 日消息，据彭博社报道，随着融资成本不断上升，投资者开始质疑软银集团能否持续投入巨额资金发展人工智能，软银市值可能较 6 月高点腰斩。当地时间 22 日，软银股价盘中一度下跌 6.7%，较 6 月 2 日创下的历史最高点累计跌幅达到 50%。美国超大市值企业的财报表现，也未能打消市场疑虑。市场对 AI 投资的担忧此前因美国云计算服务商 CoreWeave 陷入债务困境而加剧",
+          "source": "IT之家",
+          "date": "2026-10-22",
+          "dateLabel": "10月22日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/016/383.htm",
+          "image": "",
+          "color": "#d97706"
+        },
+        {
+          "id": "f9cbadadb539",
+          "title": "消息称索尼 PS6 物料成本比微软 XBOX Helix 游戏主机低约 200 美元",
+          "desc": "IT之家 10 月 22 日消息，消息源 @Kepler_L2 昨日（10 月 21 日）在 X 平台发布推文，称索尼下一代主机 PS6 的整机物料清单（BOM）成本，将比微软下一代游戏主机 Project Helix 方案低约 200 美元（IT之家注：现汇率约合 1,338 元人民币）。科技媒体 gamingbolt 指出，微软下一代 XBOX 主机将采用代号为 Magnus 的核心芯片，由 ",
+          "source": "IT之家",
+          "date": "2026-10-22",
+          "dateLabel": "10月22日",
+          "tags": [
+            "model",
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/016/371.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/f2c84013-be16-41a6-a940-2f37de21b80c.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "360a3c93fffc",
+          "title": "谷歌 Google Cloud 计划部署至多 96 万块 GPU 的英伟达 Vera Rubin 平台",
+          "desc": "IT之家 10 月 22 日消息，Google（谷歌）云服务业务 Google Cloud 当地时间 21 日宣布，其计划将基于 NVIDIA（英伟达）Vera Rubin 平台的基础设施扩展到多个算力站点，最多可部署 96 万个 Rubin GPU。Google Cloud 同日表示，其基于 NVIDIA Vera Rubin NVL72 机架级系统的 A5X 实例正式上线。该实例采用了 NVI",
+          "source": "IT之家",
+          "date": "2026-10-22",
+          "dateLabel": "10月22日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/016/367.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/18003e65-1970-4905-90d1-ce1b077cf9f9.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "e9bd87591b85",
+          "title": "总台菁彩声车载测试序列发布，可在车上感受沉浸式三维环绕音效",
+          "desc": "IT之家 10 月 22 日消息，据央视新闻报道，以“菁彩无界 智启全球”为主题的 2026 UWA SUMMIT（世界超高清视频产业联盟产业发展大会）于 10 月 21 日在广东深圳举行。大会旨在聚合超高清全产业链资源，深化跨行业协同合作，加速超高清视音频技术创新与商业化落地，构建具备国际竞争力的产业生态。聚焦 AI 赋能超高清视音频产业，大会集中发布标准、技术等成果超 20 项。其中，中央广播",
+          "source": "IT之家",
+          "date": "2026-10-22",
+          "dateLabel": "10月22日",
+          "tags": [
+            "business",
+            "policy",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/016/365.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/bacf6e8a-db1f-466f-bd2a-e62bf1848761.png",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-10-21",
       "dateLabel": "10月21日",
       "id": "d21",
       "items": [
+        {
+          "id": "e17a1c4a45cb",
+          "title": "多智能体协同重构医疗AI！清华AIR孵化：医生AI分身“坐诊”医院",
+          "desc": "医疗AI质变时刻",
+          "source": "量子位",
+          "date": "2026-10-21",
+          "dateLabel": "10月21日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/10/504734.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "c59f55c89861",
+          "title": "生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月",
+          "desc": "10月21日，生数科技世界模型团队正式开启Motubrain 2.0训练全流程公开直播",
+          "source": "量子位",
+          "date": "2026-10-21",
+          "dateLabel": "10月21日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.qbitai.com/2026/10/504730.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "bbd4604c63fc",
+          "title": "LeCun押注的世界模型，中国一家清华系公司已经做进了机器人",
+          "desc": "世界模型赛道新看点：千诀隐变量可辨识性方向的研究，比LeCun相近工作早一年，不堆画面预测，主打物理规律与跨本体复用。",
+          "source": "量子位",
+          "date": "2026-10-21",
+          "dateLabel": "10月21日",
+          "tags": [
+            "research",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/10/504653.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "9df1a7728ea9",
+          "title": "量智齐飞！4个月9款车落地，轻舟城市NOA击穿10-20万体验天花板",
+          "desc": "百万台搭载打底，智驾普及与安全并重",
+          "source": "量子位",
+          "date": "2026-10-21",
+          "dateLabel": "10月21日",
+          "tags": [
+            "policy"
+          ],
+          "url": "https://www.qbitai.com/2026/10/504638.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "e85b9a444161",
+          "title": "实探宁德时代总部：“去宁化”是喊太大声了",
+          "desc": "电池开发，分工远比想象复杂",
+          "source": "量子位",
+          "date": "2026-10-21",
+          "dateLabel": "10月21日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/10/504618.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
         {
           "id": "088dcb11e882",
           "title": "飞书豆包工作AI先锋未来人才大赛：企业正在争抢会用AI做成事的人",
@@ -33,95 +233,6 @@
           "url": "https://www.qbitai.com/2026/10/504551.html",
           "image": "",
           "color": "#7c3aed"
-        },
-        {
-          "id": "e849fcf8ab0f",
-          "title": "高通 V2X 芯片组将支持日本 760MHz 标准，实现全球几乎所有主要区域覆盖",
-          "desc": "IT之家 10 月 21 日消息，Qualcomm（高通）当地时间本月 20 日宣布，其 V2X（车联网）芯片组将在现有 5.9GHz 频段的基础上增加对日本 760MHz ARIB-T109 标准的支持，实现对全球几乎所有主要区域的覆盖。这一改进可减少对特定区域硬件的需求，降低部署复杂性，并加速 V2X 技术的部署，从而提升驾驶员、乘客以及弱势道路使用者的安全性。V2X 技术能够提供可靠的实时通",
-          "source": "IT之家",
-          "date": "2026-10-21",
-          "dateLabel": "10月21日",
-          "tags": [
-            "business",
-            "policy"
-          ],
-          "url": "https://www.ithome.com/1/015/863.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/ebb1bd50-dcba-4abb-b3e1-e90840ab654b.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "308872e9187c",
-          "title": "小米 REDMI K100 手机出厂搭载澎湃 OS 4 系统，支持旗舰同款柔光玻璃效果",
-          "desc": "IT之家 10 月 21 日消息，小米官方今天宣布，REDMI K100 手机将出厂搭载澎湃 HyperOS 4 操作系统，拥有小米旗舰同款生命感美学、柔光玻璃效果，体验“更流畅”。据介绍，澎湃 OS4 将拥有 Xiaomi MiMo 大模型驱动的超级小爱 2.0，支持便捷记忆等 AI 新体验。还能跨设备互通，平板、PC 直接处理手机数据，更有全方位隐私守护。IT之家了解到，REDMI K100 ",
-          "source": "IT之家",
-          "date": "2026-10-21",
-          "dateLabel": "10月21日",
-          "tags": [
-            "model",
-            "policy",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/015/855.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/5fe010bd-47f3-41a5-ab7e-2059d0aa556e.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "8fa8fc4f307e",
-          "title": "中国科协名誉主席万钢：预期 2030 年 L3 级自动驾驶渗透率将超过 35%",
-          "desc": "IT之家 10 月 21 日消息，据财联社报道，中国科学技术协会名誉主席万钢 10 月 21 日在 2026 世界智能网联汽车大会开幕式上表示，随着新型传感器件和系统等成本下探及 AI 大模型技术加速赋能，2026 年上半年我国具备 L2 级辅助驾驶功能的乘用车新车渗透率已突破 70%，预计 2030 年将达到 95% 以上。万钢同时表示，高级别自动驾驶技术加速落地，截至 2026 年上半年，全国",
-          "source": "IT之家",
-          "date": "2026-10-21",
-          "dateLabel": "10月21日",
-          "tags": [
-            "model",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/015/852.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/dcf76833-f166-4613-b06f-29cb39df5c25.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "a8709422079b",
-          "title": "印度 eMudhra 中间证书私钥存在严重缺陷：Chrome、Firefox 迅速阻断，Go、Python、Rust 均需更新",
-          "desc": "IT之家 10 月 21 日消息，印度证书颁发机构 eMudhra 的 8 个中间证书私钥被发现在生成时存在严重缺陷，Mozilla、谷歌、苹果、微软以及多个开发工具链已紧急吊销相关证书或发布更新。此次事件源于 eMudhra 旗下 emSign 的 8 张中间 CA（证书颁发机构）证书在私钥生成环节存在严重缺陷，正常情况下应具备 384 位随机性的 P-384 私钥实际取值却仅相当于个位数或两位",
-          "source": "IT之家",
-          "date": "2026-10-21",
-          "dateLabel": "10月21日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/015/849.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/760700d6-54b5-4c94-9699-0bdb267be5a0.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "fedd056c034f",
-          "title": "苹果 AirPods 5 全国国补 999 → 755 元，AirPods Pro 3 限地区 1178 元再降新低",
-          "desc": "今晚 21 点起，京东自营 AirPods 5 实测开启全国国补，国补 15% 后 PLUS 仅需 755 元起破冰新低。京东 PLUS 目前可领 100、125 元 AirPods 5 加补券，180 元 AirPods Pro 3 加补券：点此领券。京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次：点此抽取。京东 Apple AirPods 5 支持主动降噪国补后 755 元",
-          "source": "IT之家",
-          "date": "2026-10-21",
-          "dateLabel": "10月21日",
-          "tags": [
-            "model",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/015/827.htm",
-          "image": "https://img14.360buyimg.com/pop/jfs/t1/508991/23/5637/15808/6aa1af6bF62a0b555/00833203207564db.jpg",
-          "color": "#d97706"
-        },
-        {
-          "id": "7c877beacafd",
-          "title": "10 年来最大底层变革：微软 OneDrive 引入 Hero Links，链接分享后还能随时改权限",
-          "desc": "IT之家 10 月 21 日消息，在昨日（10 月 20 日）举办的 OneDrive 与 Copilot 主题活动中，微软宣布为 OneDrive 和 SharePoint 推出全新的 Hero Links 文件共享体系。微软称，这是 Microsoft 365 文件共享自 2014 年引入链接共享以来的“十多年来”最大底层变革。微软表示用户过去分享同一份文件或文件夹，往往需要生成多个共享链接，",
-          "source": "IT之家",
-          "date": "2026-10-21",
-          "dateLabel": "10月21日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/015/811.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/4ca9d582-2bfe-414f-82de-ac565163d58e.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
         }
       ]
     },
@@ -170,80 +281,6 @@
             "cn"
           ],
           "url": "https://www.qbitai.com/2026/10/504452.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "27f53537f673",
-          "title": "技术赋能全球化深耕 比亚迪携多品牌亮相2026巴黎车展",
-          "desc": "当地时间10月12日，2026巴黎国际车展正式启幕。",
-          "source": "量子位",
-          "date": "2026-10-20",
-          "dateLabel": "10月20日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/10/504435.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "2ea93680d4f2",
-          "title": "首Token延迟降低32.4%！是石科技集群调度大招，国产推理再提效",
-          "desc": "最新发布TokenFleet调度框架",
-          "source": "量子位",
-          "date": "2026-10-20",
-          "dateLabel": "10月20日",
-          "tags": [
-            "research",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/10/504421.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "7c1d9845b15b",
-          "title": "Meshy推出Meshy Edit：基于全新自研AI模型，一句指令实现3D模型局部编辑",
-          "desc": "圈选修改区域，一句话描述改动，约一分钟生成新模型，未选中区域保持原样",
-          "source": "量子位",
-          "date": "2026-10-20",
-          "dateLabel": "10月20日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/10/504415.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "c2a32a711e44",
-          "title": "赛豆首款AI汽车公告图公示，价格被按零件猜到了20万以上",
-          "desc": "宁德时代电池上车",
-          "source": "量子位",
-          "date": "2026-10-20",
-          "dateLabel": "10月20日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/10/504395.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "f3902f2d7746",
-          "title": "AI硬件出海，别当“背景板”，GTC2026 Shanghai「AI硬件专区」邀你占位",
-          "desc": "2026 年 11 月 4 日至 5 日，GTC2026 全球流量大会（上海）将在上海世博展览馆 H3 馆举办",
-          "source": "量子位",
-          "date": "2026-10-20",
-          "dateLabel": "10月20日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/10/504372.html",
           "image": "",
           "color": "#7c3aed"
         }
@@ -2176,28 +2213,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-09-18",
-      "dateLabel": "9月18日",
-      "id": "d18",
-      "items": [
-        {
-          "id": "b46a9d8c667e",
-          "title": "无问芯穹与华环电子签署战略合作，共同探索国产异构算力AI基础设施新方向",
-          "desc": "协同布局AI基础设施",
-          "source": "量子位",
-          "date": "2026-09-18",
-          "dateLabel": "9月18日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/09/492426.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -2223,6 +2238,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-10-21 15:02",
-  "totalNews": 135
+  "updateTime": "2026-10-22 15:04",
+  "totalNews": 136
 }
