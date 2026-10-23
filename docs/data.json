@@ -1,130 +1,175 @@
 {
   "newsData": [
     {
+      "date": "2026-10-23",
+      "dateLabel": "10月23日",
+      "id": "d23",
+      "items": [
+        {
+          "id": "990285e5772f",
+          "title": "限时权益价 11.98 万元起，上汽荣威家越 07 汽车上市",
+          "desc": "IT之家 10 月 23 日消息，荣威宣布旗下家越 07 汽车正式上市，限时权益价 11.98 万元起。官方同步推出多项权益，全系免费赠送豆包座舱助手智能礼、激光雷达版与激光雷达智尊版免费赠送 Momenta R7 世界模型高阶功能包，同时还提供“AI 极速制冰冷暖两用冰箱”、“后排 AI 陪看护眼娱乐屏”等配件。荣威家越 07车型指导价（万元）限时权益价（万元）220 智享版12.7811.98",
+          "source": "IT之家",
+          "date": "2026-10-23",
+          "dateLabel": "10月23日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/017/007.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/1f32cdaa-90e2-4029-a48b-49d937548058.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1",
+          "color": "#d97706"
+        },
+        {
+          "id": "89a2e313526e",
+          "title": "惠普战 99 Ultra \"Gorgon Halo\" 移动工作站上架，标价 59999 元",
+          "desc": "IT之家 10 月 23 日消息，HP（惠普）现已在电商平台上架新款的战 99 Ultra (ZHAN99 Ultra 16 G3a AI) 移动工作站。该型号基于 AMD 锐龙 AI Max+ PRO 495 处理器，配备 128GB 内存、1TB 存储，标价 59,999 元，10 月 30 日 20:00 开售。IT之家注意到，这款机型很有可能就是全球市场的 ZBook Ultra G3a ",
+          "source": "IT之家",
+          "date": "2026-10-23",
+          "dateLabel": "10月23日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/017/003.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/9700a27f-b9dc-43c1-be3a-d09675f45c2b.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "b03b0bf0a63c",
+          "title": "“AI 教父”辛顿再抛悲观论：AI 已经拥有意识，人类必须与其友好相处",
+          "desc": "IT之家 10 月 23 日消息，被誉为“AI 教父”之一的英国计算机科学家杰弗里 · 辛顿，再次对人类的未来发出悲观警告。辛顿接受英国《每日电讯报》采访时坚称，AI 已经具备意识，人类必须与 AI 友好相处，否则“我们就完了”。在他看来，即便是当下的 AI 模型，也拥有自己的意识。“AI 拥有与人类同等程度的主观体验。最近有篇论文发现，AI 如果认为自己在接受测试，就会改变行为。它知道自己在接受",
+          "source": "IT之家",
+          "date": "2026-10-23",
+          "dateLabel": "10月23日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.ithome.com/1/016/998.htm",
+          "image": "",
+          "color": "#d97706"
+        },
+        {
+          "id": "f5c97c246769",
+          "title": "微星首款带屏风冷 MPG COREFROZR AP15 上市：三路数显，549 元",
+          "desc": "IT之家 10 月 23 日消息，微星 (MSI) 首款带屏处理器风冷散热器 MPG COREFROZR AP15 现已上市。其支持三路数显，可同时监控 CPU、GPU、DRAM 温度，售价 549 元。MPG COREFROZR AP15 整体为双塔双风扇 6 热管铜底结构，塔体采取避让内存模组的非对称偏移设计，支持免拆风扇安装，兼容微星 EZ Conn 一线连。其两颗风扇均为 12025 规格",
+          "source": "IT之家",
+          "date": "2026-10-23",
+          "dateLabel": "10月23日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/016/974.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/ae9f7586-99b9-4481-b202-00424eb4dfdb.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "f857eed03c30",
+          "title": "2027 款极狐阿尔法 S5 纯电宽体轿跑预售：标配激光雷达，12.18 万元起",
+          "desc": "IT之家 10 月 23 日消息，2027 款极狐阿尔法 S5 车型今日宣布开启预售，定位“AI 高性能宽体轿跑”可选三个版本，预售价 12.18 万元起。650 PLUS 激光版 12.18 万元650 MAX 激光版 13.18 万元750 MAX 激光神行版 14.48 万元该车限时赠送价值 5000 元特殊外观颜色，可享三电终身质保、电池自燃烧一赔一、8 年 / 16 万公里电池衰减超限值",
+          "source": "IT之家",
+          "date": "2026-10-23",
+          "dateLabel": "10月23日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/016/969.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/f9b0fafa-da54-4397-8bb5-7ec262e8cfbc.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "46bb0ead99e2",
+          "title": "Counterpoint：2026 年 Q3 印度智能手机出货量跌至十年来最低水平，印度国产品牌 Ai+ 异军突起销量飙升 306%",
+          "desc": "IT之家 10 月 23 日消息，根据 Counterpoint Research 月度印度智能手机追踪报告，2026 年第三季度（7-9 月）印度智能手机出货量同比下降 20%，跌至十年来最低水平。报告称，创纪录的内存价格推高了设备成本，导致大多数品牌出货量下滑。在需求持续疲软的情况下，即便在节日季之前，原始设备制造商（OEM）也控制了渠道库存。研究分析师 Shubham Singh 表示，第三",
+          "source": "IT之家",
+          "date": "2026-10-23",
+          "dateLabel": "10月23日",
+          "tags": [
+            "research",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/016/961.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/32d57628-5436-4729-a2dc-1caec487fcb4.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "771969ceaf82",
+          "title": "黄仁勋：对英伟达与长鑫存储合作持开放态度，没有哪个国家在制造业方面比中国更强",
+          "desc": "IT之家 10 月 23 日消息，据 CNBC 当地时间 22 日报道，在英伟达 GTC 柏林大会期间，英伟达 CEO 黄仁勋接受了该媒体的专访。在被问及英伟达是否计划与长鑫存储展开合作并采购其内存产品时，黄仁勋表示：“我们持开放态度。我们与中国企业合作；整个世界都在供应链的某个地方与中国公司合作。”黄仁勋还表示，“中国在基础设施技术方面令人难以置信，没有哪个国家在制造业方面比中国更强，因此我们必",
+          "source": "IT之家",
+          "date": "2026-10-23",
+          "dateLabel": "10月23日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/016/962.htm",
+          "image": "",
+          "color": "#d97706"
+        },
+        {
+          "id": "49723fc325d4",
+          "title": "AYN 高通跃龙 Q8 掌机 Odin 3 Portal 开启预售，起价 2798 元",
+          "desc": "IT之家 10 月 23 日消息，AYN 现已启动 Android 掌机 Odin 3 Portal 的预售。这一型号基于高通跃龙 Q8 平台，配备骁龙 8 Elite 同款 Adreno 830 GPU。Odin 3 Portal 三维 257×101×17.2 (mm)，配备 7\" 1080×1920 120Hz OLED 屏幕，覆盖 AGAF 玻璃，内置主动散热系统，集成 9000mAh 电",
+          "source": "IT之家",
+          "date": "2026-10-23",
+          "dateLabel": "10月23日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/016/911.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/a563b85a-8005-4f2d-b890-9191f9839948.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-10-22",
       "dateLabel": "10月22日",
       "id": "d22",
       "items": [
         {
-          "id": "5fa3c4da7299",
-          "title": "华为 AI 眼镜获 HarmonyOS 6.0.0.159 SP5 升级：新增头动支付等功能，连续录像时长提升至 5 分钟",
-          "desc": "IT之家 10 月 22 日消息，据博主 @Adak封狼居胥 今日分享，华为 AI 眼镜现开启了 HarmonyOS 6.0.0.159 SP5 升级，新版本支付能力升级，新增停车场扫码支付、头动支付，连续录像时长也提升到 5 分钟。博主分享的新功能演示图如下：据IT之家此前报道，华为 AI 眼镜于今年 4 月发布，售价 2499 元起。其采用全新轻量化新型材料和精密堆叠技术，镜腿薄至 6.25m",
-          "source": "IT之家",
+          "id": "d78a385f2078",
+          "title": "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
+          "desc": "FSD一年增长70万付费用户",
+          "source": "量子位",
           "date": "2026-10-22",
           "dateLabel": "10月22日",
           "tags": [
             "business",
             "cn"
           ],
-          "url": "https://www.ithome.com/1/016/448.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/44fbeceb-f1ae-4ba7-88f6-712044a23952.png",
-          "color": "#d97706"
-        },
-        {
-          "id": "5e9b06ebd83e",
-          "title": "科大讯飞首发星火语音基座大模型 SparkAudio 1.0：中英文任意切换、说话人实时识别，输入法里就能用",
-          "desc": "IT之家 10 月 22 日消息，在今日下午的科大讯飞全球 1024 开发者节活动中，科大讯飞宣布首发星火语音基座大模型 SparkAudio 1.0。SparkAudio 1.0 集成了机器翻译、语音识别、语义理解等能力，显著提升了基础语音能力。模型宣称在实时说话人分离、环境理解、音频理解、情绪识别等方面“表现卓越”，推动人工智能向物理世界应用迈进。官方通过一段电影片段的分析，展示了模型对声音内",
-          "source": "IT之家",
-          "date": "2026-10-22",
-          "dateLabel": "10月22日",
-          "tags": [
-            "model",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/016/445.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/436a4782-0945-4c79-9f3e-497a2f11936d.jpg",
-          "color": "#d97706"
-        },
-        {
-          "id": "450466fc33d2",
-          "title": "富士通客户端计算多系笔电 2026 年冬季上新，提供带光驱型号",
-          "desc": "IT之家 10 月 22 日消息，富士通客户端计算 (FCCL) 今日发布了 2026 年冬季新品阵容，除此前介绍的 FMV Note U 外，C、M、A、Q 几条产品线均有升级。FMV Note CFMV Note C 是一款 13.3\" 型号，新一代产品搭载 AMD 锐龙 AI 7 445，拥有机加工铝材机身，可选地平线蓝和粉金配色。其新增触控支持，强化机身散热，提供 HDMI 输出，支持杜比",
-          "source": "IT之家",
-          "date": "2026-10-22",
-          "dateLabel": "10月22日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/016/418.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/2fe6e925-92fe-499a-bc2d-62da0b56bfa4.jpg",
-          "color": "#d97706"
-        },
-        {
-          "id": "596ea972c01a",
-          "title": "讯飞星火 X2.6 端云一体大模型发布，首次基于全国产算力实现代码和智能体能力突破",
-          "desc": "IT之家 10 月 22 日消息，在今日下午的科大讯飞全球 1024 开发者节活动中，讯飞星火 X2.6 端云一体大模型正式发布。讯飞星火 X2.6 宣称首次基于全国产算力实现代码和智能体能力突破。科大讯飞董事长刘庆峰表示，只有星火一家是用全国产算力训练的，其他全是在 N 卡上训练，而且科大讯飞的尺寸是最小的。此外，刘庆峰表示讯飞星火 X2.6 率先突破国产芯片长程任务的训练效率瓶颈，适配国产平台",
-          "source": "IT之家",
-          "date": "2026-10-22",
-          "dateLabel": "10月22日",
-          "tags": [
-            "model",
-            "research",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/016/403.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/caec226c-e127-4ae6-81ea-d4cf5785659c.jpg",
-          "color": "#d97706"
-        },
-        {
-          "id": "b142253865a8",
-          "title": "软银股价较 6 月高点接近腰斩，AI 投资烧钱模式遭市场质疑",
-          "desc": "IT之家 10 月 22 日消息，据彭博社报道，随着融资成本不断上升，投资者开始质疑软银集团能否持续投入巨额资金发展人工智能，软银市值可能较 6 月高点腰斩。当地时间 22 日，软银股价盘中一度下跌 6.7%，较 6 月 2 日创下的历史最高点累计跌幅达到 50%。美国超大市值企业的财报表现，也未能打消市场疑虑。市场对 AI 投资的担忧此前因美国云计算服务商 CoreWeave 陷入债务困境而加剧",
-          "source": "IT之家",
-          "date": "2026-10-22",
-          "dateLabel": "10月22日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/016/383.htm",
+          "url": "https://www.qbitai.com/2026/10/504841.html",
           "image": "",
-          "color": "#d97706"
+          "color": "#7c3aed"
         },
         {
-          "id": "f9cbadadb539",
-          "title": "消息称索尼 PS6 物料成本比微软 XBOX Helix 游戏主机低约 200 美元",
-          "desc": "IT之家 10 月 22 日消息，消息源 @Kepler_L2 昨日（10 月 21 日）在 X 平台发布推文，称索尼下一代主机 PS6 的整机物料清单（BOM）成本，将比微软下一代游戏主机 Project Helix 方案低约 200 美元（IT之家注：现汇率约合 1,338 元人民币）。科技媒体 gamingbolt 指出，微软下一代 XBOX 主机将采用代号为 Magnus 的核心芯片，由 ",
-          "source": "IT之家",
-          "date": "2026-10-22",
-          "dateLabel": "10月22日",
-          "tags": [
-            "model",
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/016/371.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/f2c84013-be16-41a6-a940-2f37de21b80c.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "360a3c93fffc",
-          "title": "谷歌 Google Cloud 计划部署至多 96 万块 GPU 的英伟达 Vera Rubin 平台",
-          "desc": "IT之家 10 月 22 日消息，Google（谷歌）云服务业务 Google Cloud 当地时间 21 日宣布，其计划将基于 NVIDIA（英伟达）Vera Rubin 平台的基础设施扩展到多个算力站点，最多可部署 96 万个 Rubin GPU。Google Cloud 同日表示，其基于 NVIDIA Vera Rubin NVL72 机架级系统的 A5X 实例正式上线。该实例采用了 NVI",
-          "source": "IT之家",
-          "date": "2026-10-22",
-          "dateLabel": "10月22日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/016/367.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/18003e65-1970-4905-90d1-ce1b077cf9f9.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "e9bd87591b85",
-          "title": "总台菁彩声车载测试序列发布，可在车上感受沉浸式三维环绕音效",
-          "desc": "IT之家 10 月 22 日消息，据央视新闻报道，以“菁彩无界 智启全球”为主题的 2026 UWA SUMMIT（世界超高清视频产业联盟产业发展大会）于 10 月 21 日在广东深圳举行。大会旨在聚合超高清全产业链资源，深化跨行业协同合作，加速超高清视音频技术创新与商业化落地，构建具备国际竞争力的产业生态。聚焦 AI 赋能超高清视音频产业，大会集中发布标准、技术等成果超 20 项。其中，中央广播",
-          "source": "IT之家",
+          "id": "456782364421",
+          "title": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
+          "desc": "中电信人工智能科技有限公司星辰通用人工智能实验室正式发布并开源意图理解专用模型 Xing4.0-29B-Intent",
+          "source": "量子位",
           "date": "2026-10-22",
           "dateLabel": "10月22日",
           "tags": [
             "business",
-            "policy",
             "cn"
           ],
-          "url": "https://www.ithome.com/1/016/365.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/bacf6e8a-db1f-466f-bd2a-e62bf1848761.png",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/10/504832.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "1c7aa7c952b8",
+          "title": "谁在给OpenAI供应具身数据？",
+          "desc": "挤进全球Physical AI核心供应链",
+          "source": "量子位",
+          "date": "2026-10-22",
+          "dateLabel": "10月22日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/10/504800.html",
+          "image": "",
+          "color": "#7c3aed"
         }
       ]
     },
@@ -2092,127 +2137,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-09-19",
-      "dateLabel": "9月19日",
-      "id": "d19",
-      "items": [
-        {
-          "id": "6f4854734980",
-          "title": "“留给人类阻止AI的时间不多了”",
-          "desc": "AI有可能终结我们所有人",
-          "source": "量子位",
-          "date": "2026-09-19",
-          "dateLabel": "9月19日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/09/492755.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "eb42908df42d",
-          "title": "马斯克批量收购破产公司ing…世界首富脑子是不一样",
-          "desc": "老马想买倒闭公司数据为哪般",
-          "source": "量子位",
-          "date": "2026-09-19",
-          "dateLabel": "9月19日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/09/492661.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "b077001caeb7",
-          "title": "27B模型分分钟交付网页，Qwen 3.8还是太能了",
-          "desc": "设计、前端一口气全干了，结果后端没来上班",
-          "source": "量子位",
-          "date": "2026-09-19",
-          "dateLabel": "9月19日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/09/492573.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "25f9e658adea",
-          "title": "Nature：AI重生到1900，这一世抢先爱因斯坦提出光量子",
-          "desc": "AI能否提出相对论？",
-          "source": "量子位",
-          "date": "2026-09-19",
-          "dateLabel": "9月19日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/09/492550.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "1eb8fc730147",
-          "title": "千万奖池找“鲸锐”！单项奖金200万，只等一个最会用AI讲故事的你",
-          "desc": "1000万，把才华送上真正的大舞台",
-          "source": "量子位",
-          "date": "2026-09-19",
-          "dateLabel": "9月19日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/09/492501.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "735b01ae402c",
-          "title": "华为汪涛：华为要打造AI算力底座，只做好一颗芯片远远不够",
-          "desc": "CANN跨过拐点，华为补上软件生态",
-          "source": "量子位",
-          "date": "2026-09-19",
-          "dateLabel": "9月19日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/09/492476.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "3b7eed2c04b4",
-          "title": "陶哲轩代表SAIR Foundation宣布正式启动“开放数学模型计划”",
-          "desc": "让开放模型与可负担的算力成为数学研究的共享基石",
-          "source": "量子位",
-          "date": "2026-09-19",
-          "dateLabel": "9月19日",
-          "tags": [
-            "research",
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/09/492467.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "205144cd981f",
-          "title": "AI离“理解万物”还有多远？先拿癌细胞和行星轨道试试水",
-          "desc": "同一预测核心，跨七类系统验证",
-          "source": "量子位",
-          "date": "2026-09-19",
-          "dateLabel": "9月19日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/09/492429.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -2238,6 +2162,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-10-22 15:04",
-  "totalNews": 136
+  "updateTime": "2026-10-23 14:56",
+  "totalNews": 131
 }
