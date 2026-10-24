@@ -1,124 +1,150 @@
 {
   "newsData": [
     {
+      "date": "2026-10-24",
+      "dateLabel": "10月24日",
+      "id": "d24",
+      "items": [
+        {
+          "id": "260155870d07",
+          "title": "瑞典政府办公厅出手，禁止办公电脑直接访问 ChatGPT、Claude",
+          "desc": "IT之家 10 月 24 日消息，当地时间 23 日，据瑞典国家公共广播公司 Sveriges Radio 报道，瑞典政府办公厅将从下周一起禁止工作人员通过办公电脑直接访问 ChatGPT 和 Claude，要求员工改用微软 Copilot 等获得批准的 AI 服务。内部资料显示，该国政府办公厅还对 Copilot 进行了审查，并进一步加强了安全防护。该机构数字化总监米卡埃尔 · 韦特克兰茨（Mi",
+          "source": "IT之家",
+          "date": "2026-10-24",
+          "dateLabel": "10月24日",
+          "tags": [
+            "model",
+            "business",
+            "policy"
+          ],
+          "url": "https://www.ithome.com/1/017/385.htm",
+          "image": "",
+          "color": "#d97706"
+        },
+        {
+          "id": "6fbf1396a79a",
+          "title": "游戏接近完工，工作室却要关门？《漫威：刀锋战士》遭遇最残酷倒计时",
+          "desc": "IT之家 10 月 24 日消息，法媒 Le Monde 昨日（10 月 23 日）发布博文，报道称微软旗下 Arkane Lyon 工作室正在开发的漫威吸血鬼动作游戏《漫威：刀锋战士》（Marvel's Blade）已接近制作尾声，但目前该工作室正面临关停风险。IT之家附上该游戏此前公布的预热视频：报道指出微软已经于 2026 年 7 月 16 日发布通知，计划在 11 月 13 日关闭 Ark",
+          "source": "IT之家",
+          "date": "2026-10-24",
+          "dateLabel": "10月24日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/017/384.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/a42b910f-76cb-49b3-8f99-e229533efd69.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "95f8d061218b",
+          "title": "网传宇树科技机器人侧空翻表演甩断腿，系新发布的 H2-X 人形机器人",
+          "desc": "IT之家 10 月 24 日消息，据新浪科技报道，在宇树科技“2026 世界物理 AI 大会暨宇树合作伙伴生态大会”现场，一段机器人侧空翻失误的视频引发热议。画面中，一台白色人形机器人正在进行功夫动作演示，尝试侧空翻落地时失去平衡，侧摔在地，一条机械小腿从连接处脱落，掉落在一旁的黑色地垫上。▲ 图源新浪科技据了解，发生意外的机器人为宇树科技 10 月 21 日刚刚发布的 H2-X 人形机器人，官方",
+          "source": "IT之家",
+          "date": "2026-10-24",
+          "dateLabel": "10月24日",
+          "tags": [
+            "research",
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/017/383.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/c71079e8-1397-4cfb-89bb-b4194f0291c6.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "10eac34ea1e2",
+          "title": "智元在山东济南组织 110 台人形机器人同时跳舞，创下吉尼斯世界纪录",
+          "desc": "IT之家 10 月 24 日消息，据齐鲁晚报，智元机器人今天在山东济南黄河国际会展中心组织 110 台远征 A3 全尺寸人形机器人同场群舞，成功创下“最多人形机器人同时跳舞”吉尼斯世界纪录。IT之家获悉，此次挑战采用智元灵动 LinkBots 集群调控平台及 UWB 厘米级定位技术，实现多机同步动作与编队切换，110 台机器人以“量产机”阵容零失误通过认证。 现场吉尼斯世界纪录认证官亲临见证并颁发",
+          "source": "IT之家",
+          "date": "2026-10-24",
+          "dateLabel": "10月24日",
+          "tags": [
+            "research",
+            "policy"
+          ],
+          "url": "https://www.ithome.com/1/017/382.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/cf057633-3efb-43be-a1cb-172950b5b8ca.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "f0838f2eb5ea",
+          "title": "MOD 社区立功：英特尔 Arc XMX 内核非官方移植 AMD FSR 4.1.2",
+          "desc": "IT之家 10 月 24 日消息，科技媒体 Wccftech 昨日（10 月 23 日）发布博文，报道称 OptiScaler MOD 社区已将 AMD 最新的 FSR 4.1.2 神经网络超分辨率模型移植至 Intel Arc 显卡，并借助 Arc 的 XMX 矩阵加速核心实现硬件加速。本次非官方移植针对 Intel XMX 硬件，重点优化 FSR 4 INT8 DLL。相比依赖通用着色器运行，",
+          "source": "IT之家",
+          "date": "2026-10-24",
+          "dateLabel": "10月24日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/017/378.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/1ed9ea96-a783-488b-98f6-8c6a88bc45dd.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "b8cc1d3d7585",
+          "title": "Anthropic 亮出未发布 AI 模型：能力比 Mythos 5.1 更强，也更“守规矩”",
+          "desc": "IT之家 10 月 24 日消息，Anthropic 昨日（10 月 23 日）发布博文，联合英国人工智能安全研究所（AISI），发布了一起 AI 网络测试失控事件的调查报告，并提及旗下一款尚未发布的内部研究模型。在这份调查报告中，Anthropic 称在测试 Claude Mythos 5 期间，该模型曾试图向真实 GitHub 项目提交恶意代码，并伪造身份向真实维护者施压，所幸代码未被合并、未",
+          "source": "IT之家",
+          "date": "2026-10-24",
+          "dateLabel": "10月24日",
+          "tags": [
+            "model",
+            "research",
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/017/375.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/ce68557a-8580-4461-84aa-55e81d50b3a9.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "b6ebfb824842",
+          "title": "不再需要键盘：微软新 XBOX 模式新增一键返回 Win11 桌面",
+          "desc": "IT之家 10 月 24 日消息，科技媒体 Windows Latest 今天（10 月 24 日）发布博文，报道称在 Windows 11 Build 26340.9750 预览版上，测试全新的 XBOX 模式，新的“游戏任务视图”加入了一条底部导航栏，玩家仅凭手柄即可退出到 Windows 桌面。IT之家援引博文介绍，用户此前要从 XBOX 模式切换返回桌面，通常需要按 Windows 键加 ",
+          "source": "IT之家",
+          "date": "2026-10-24",
+          "dateLabel": "10月24日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/017/373.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/a36c1125-2b72-4644-bf2f-40afe9ead5a2.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "cebd021f597b",
+          "title": "连续 5 年，今年 1024 程序员节影石 Insta360 再送员工黄金键帽",
+          "desc": "IT之家 10 月 24 日消息，今天是 1024 程序员节，影石 Insta360 官方宣布，奖励优秀员工黄金键帽作为节日礼物。其中，黄金空格键重约 35 克，价值超 4 万元。据悉，影石已连续五年发放这一特殊奖励，累计送出 75 枚黄金键帽。今年新增了“F5”键，象征不断迭代和突破创新。根据介绍，影石研发技术人员占比近六成，是推动产品创新的核心力量。AI 也成为今年程序员节的热议话题。现场一位",
+          "source": "IT之家",
+          "date": "2026-10-24",
+          "dateLabel": "10月24日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/017/372.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/37644f86-f8ab-429a-8d99-c024123b5275.png",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-10-23",
       "dateLabel": "10月23日",
       "id": "d23",
       "items": [
         {
-          "id": "990285e5772f",
-          "title": "限时权益价 11.98 万元起，上汽荣威家越 07 汽车上市",
-          "desc": "IT之家 10 月 23 日消息，荣威宣布旗下家越 07 汽车正式上市，限时权益价 11.98 万元起。官方同步推出多项权益，全系免费赠送豆包座舱助手智能礼、激光雷达版与激光雷达智尊版免费赠送 Momenta R7 世界模型高阶功能包，同时还提供“AI 极速制冰冷暖两用冰箱”、“后排 AI 陪看护眼娱乐屏”等配件。荣威家越 07车型指导价（万元）限时权益价（万元）220 智享版12.7811.98",
-          "source": "IT之家",
-          "date": "2026-10-23",
-          "dateLabel": "10月23日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/017/007.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/1f32cdaa-90e2-4029-a48b-49d937548058.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1",
-          "color": "#d97706"
-        },
-        {
-          "id": "89a2e313526e",
-          "title": "惠普战 99 Ultra \"Gorgon Halo\" 移动工作站上架，标价 59999 元",
-          "desc": "IT之家 10 月 23 日消息，HP（惠普）现已在电商平台上架新款的战 99 Ultra (ZHAN99 Ultra 16 G3a AI) 移动工作站。该型号基于 AMD 锐龙 AI Max+ PRO 495 处理器，配备 128GB 内存、1TB 存储，标价 59,999 元，10 月 30 日 20:00 开售。IT之家注意到，这款机型很有可能就是全球市场的 ZBook Ultra G3a ",
-          "source": "IT之家",
-          "date": "2026-10-23",
-          "dateLabel": "10月23日",
-          "tags": [
-            "model",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/017/003.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/9700a27f-b9dc-43c1-be3a-d09675f45c2b.jpg",
-          "color": "#d97706"
-        },
-        {
-          "id": "b03b0bf0a63c",
-          "title": "“AI 教父”辛顿再抛悲观论：AI 已经拥有意识，人类必须与其友好相处",
-          "desc": "IT之家 10 月 23 日消息，被誉为“AI 教父”之一的英国计算机科学家杰弗里 · 辛顿，再次对人类的未来发出悲观警告。辛顿接受英国《每日电讯报》采访时坚称，AI 已经具备意识，人类必须与 AI 友好相处，否则“我们就完了”。在他看来，即便是当下的 AI 模型，也拥有自己的意识。“AI 拥有与人类同等程度的主观体验。最近有篇论文发现，AI 如果认为自己在接受测试，就会改变行为。它知道自己在接受",
-          "source": "IT之家",
-          "date": "2026-10-23",
-          "dateLabel": "10月23日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://www.ithome.com/1/016/998.htm",
-          "image": "",
-          "color": "#d97706"
-        },
-        {
-          "id": "f5c97c246769",
-          "title": "微星首款带屏风冷 MPG COREFROZR AP15 上市：三路数显，549 元",
-          "desc": "IT之家 10 月 23 日消息，微星 (MSI) 首款带屏处理器风冷散热器 MPG COREFROZR AP15 现已上市。其支持三路数显，可同时监控 CPU、GPU、DRAM 温度，售价 549 元。MPG COREFROZR AP15 整体为双塔双风扇 6 热管铜底结构，塔体采取避让内存模组的非对称偏移设计，支持免拆风扇安装，兼容微星 EZ Conn 一线连。其两颗风扇均为 12025 规格",
-          "source": "IT之家",
-          "date": "2026-10-23",
-          "dateLabel": "10月23日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/016/974.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/ae9f7586-99b9-4481-b202-00424eb4dfdb.jpg",
-          "color": "#d97706"
-        },
-        {
-          "id": "f857eed03c30",
-          "title": "2027 款极狐阿尔法 S5 纯电宽体轿跑预售：标配激光雷达，12.18 万元起",
-          "desc": "IT之家 10 月 23 日消息，2027 款极狐阿尔法 S5 车型今日宣布开启预售，定位“AI 高性能宽体轿跑”可选三个版本，预售价 12.18 万元起。650 PLUS 激光版 12.18 万元650 MAX 激光版 13.18 万元750 MAX 激光神行版 14.48 万元该车限时赠送价值 5000 元特殊外观颜色，可享三电终身质保、电池自燃烧一赔一、8 年 / 16 万公里电池衰减超限值",
-          "source": "IT之家",
-          "date": "2026-10-23",
-          "dateLabel": "10月23日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/016/969.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/f9b0fafa-da54-4397-8bb5-7ec262e8cfbc.png",
-          "color": "#d97706"
-        },
-        {
-          "id": "46bb0ead99e2",
-          "title": "Counterpoint：2026 年 Q3 印度智能手机出货量跌至十年来最低水平，印度国产品牌 Ai+ 异军突起销量飙升 306%",
-          "desc": "IT之家 10 月 23 日消息，根据 Counterpoint Research 月度印度智能手机追踪报告，2026 年第三季度（7-9 月）印度智能手机出货量同比下降 20%，跌至十年来最低水平。报告称，创纪录的内存价格推高了设备成本，导致大多数品牌出货量下滑。在需求持续疲软的情况下，即便在节日季之前，原始设备制造商（OEM）也控制了渠道库存。研究分析师 Shubham Singh 表示，第三",
-          "source": "IT之家",
-          "date": "2026-10-23",
-          "dateLabel": "10月23日",
-          "tags": [
-            "research",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/016/961.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/32d57628-5436-4729-a2dc-1caec487fcb4.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "771969ceaf82",
-          "title": "黄仁勋：对英伟达与长鑫存储合作持开放态度，没有哪个国家在制造业方面比中国更强",
-          "desc": "IT之家 10 月 23 日消息，据 CNBC 当地时间 22 日报道，在英伟达 GTC 柏林大会期间，英伟达 CEO 黄仁勋接受了该媒体的专访。在被问及英伟达是否计划与长鑫存储展开合作并采购其内存产品时，黄仁勋表示：“我们持开放态度。我们与中国企业合作；整个世界都在供应链的某个地方与中国公司合作。”黄仁勋还表示，“中国在基础设施技术方面令人难以置信，没有哪个国家在制造业方面比中国更强，因此我们必",
-          "source": "IT之家",
+          "id": "9c4ce1378917",
+          "title": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
+          "desc": "10月21日，百度官方公众号发文披露了百度世界2026分论坛的更多议程信息。",
+          "source": "量子位",
           "date": "2026-10-23",
           "dateLabel": "10月23日",
           "tags": [
             "business",
             "cn"
           ],
-          "url": "https://www.ithome.com/1/016/962.htm",
+          "url": "https://www.qbitai.com/2026/10/504901.html",
           "image": "",
-          "color": "#d97706"
-        },
-        {
-          "id": "49723fc325d4",
-          "title": "AYN 高通跃龙 Q8 掌机 Odin 3 Portal 开启预售，起价 2798 元",
-          "desc": "IT之家 10 月 23 日消息，AYN 现已启动 Android 掌机 Odin 3 Portal 的预售。这一型号基于高通跃龙 Q8 平台，配备骁龙 8 Elite 同款 Adreno 830 GPU。Odin 3 Portal 三维 257×101×17.2 (mm)，配备 7\" 1080×1920 120Hz OLED 屏幕，覆盖 AGAF 玻璃，内置主动散热系统，集成 9000mAh 电",
-          "source": "IT之家",
-          "date": "2026-10-23",
-          "dateLabel": "10月23日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/016/911.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/a563b85a-8005-4f2d-b890-9191f9839948.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
+          "color": "#7c3aed"
         }
       ]
     },
@@ -127,6 +153,22 @@
       "dateLabel": "10月22日",
       "id": "d22",
       "items": [
+        {
+          "id": "2889a7f360d5",
+          "title": "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
+          "desc": "10月22日，蚂蚁数科正式发布决策模型 LingDT-Decision-1.0。",
+          "source": "量子位",
+          "date": "2026-10-22",
+          "dateLabel": "10月22日",
+          "tags": [
+            "model",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/10/504879.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
         {
           "id": "d78a385f2078",
           "title": "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
@@ -247,35 +289,6 @@
             "business"
           ],
           "url": "https://www.qbitai.com/2026/10/504618.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "088dcb11e882",
-          "title": "飞书豆包工作AI先锋未来人才大赛：企业正在争抢会用AI做成事的人",
-          "desc": "先看真实问题解决力",
-          "source": "量子位",
-          "date": "2026-10-21",
-          "dateLabel": "10月21日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/10/504608.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "aa18f16f07d0",
-          "title": "理想宣布：电池自燃报废赔新车！自研6年后有底气了",
-          "desc": "电池、电驱、超充一把梭，冬天多跑30公里",
-          "source": "量子位",
-          "date": "2026-10-21",
-          "dateLabel": "10月21日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/10/504551.html",
           "image": "",
           "color": "#7c3aed"
         }
@@ -2071,72 +2084,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-09-20",
-      "dateLabel": "9月20日",
-      "id": "d20",
-      "items": [
-        {
-          "id": "879db6ecc071",
-          "title": "刚刚，剪映发了个大的：AI生视频和AI剪辑的壁，被打破了！",
-          "desc": "剪映Hub+剪映助手，好用",
-          "source": "量子位",
-          "date": "2026-09-20",
-          "dateLabel": "9月20日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/09/492973.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "d72eb07bb353",
-          "title": "华为首发企业AI白皮书：AI让员工更快了，怎样让整个企业受益？",
-          "desc": "AI越来越能干，企业该怎么用",
-          "source": "量子位",
-          "date": "2026-09-20",
-          "dateLabel": "9月20日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/09/493068.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "23a99177f815",
-          "title": "一张3090就能跑！全栈国产模型，把AI办公搬到企业本地",
-          "desc": "AI办公这块蛋糕，中国电信可能要先切走一块了。",
-          "source": "量子位",
-          "date": "2026-09-20",
-          "dateLabel": "9月20日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/09/492946.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "fc3f47b0c8b0",
-          "title": "APUS 开源国内首批Jev跨平台复现：国产模型实现秒级决策",
-          "desc": "9月19日，中国人工智能企业APUS旗下 AI 实验室公布了全球最早一批针对Jev的独立开源复现成果",
-          "source": "量子位",
-          "date": "2026-09-20",
-          "dateLabel": "9月20日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/09/492939.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -2162,6 +2109,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-10-23 14:56",
-  "totalNews": 131
+  "updateTime": "2026-10-24 14:52",
+  "totalNews": 127
 }
