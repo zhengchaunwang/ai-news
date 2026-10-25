@@ -1,127 +1,147 @@
 {
   "newsData": [
     {
+      "date": "2026-10-25",
+      "dateLabel": "10月25日",
+      "id": "d25",
+      "items": [
+        {
+          "id": "39670ec149f6",
+          "title": "聚焦帕金森病、癫痫等 10 类疾病方向，全国首个国家脑机接口高质量数据集建设项目启动",
+          "desc": "IT之家 10 月 25 日消息，据极目新闻报道，华中科技大学同济医学院附属同济医院牵头的脑机接口高质量数据集建设项目，24 日在武汉正式启动。根据建设方案，该项目拟于 2027 年建成投用，聚焦脑卒中康复、脊髓损伤、帕金森病、癫痫、意识障碍、顽固性疼痛、面瘫、言语功能障碍、运动障碍性疾病和胃肠神经调控等 10 类疾病方向，基本覆盖神经调控与功能重建的主要临床场景。项目以破解数据碎片化问题为导向，",
+          "source": "IT之家",
+          "date": "2026-10-25",
+          "dateLabel": "10月25日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/017/607.htm",
+          "image": "",
+          "color": "#d97706"
+        },
+        {
+          "id": "3e29a69de93a",
+          "title": "赛力斯赛豆科技 AIVA 全球首家 AI 生活实验室今日开幕，店内展出 ME7 实车",
+          "desc": "IT之家 10 月 25 日消息，由重庆市沙坪坝区与赛力斯共同投资的赛豆科技 AIVA 首款量产车 —— ME7 已于今年 9 月在法国巴黎尚普拉特勒城堡完成全球首秀。目前，新车已完成工信部申报，将推出单电机以及双电机两个版本，均提供 5 座布局，可选装红色卡钳、黑色车顶、不同造型轮辋、拖钩孔、电连接头、ETC 车载装置，配备汽车事件数据记录系统（EDR）。IT之家注意到，赛豆科技 AIVA 汽车",
+          "source": "IT之家",
+          "date": "2026-10-25",
+          "dateLabel": "10月25日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/017/602.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/6fa84a50-4ec7-4a4b-9b72-e511e2adf4a9.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "fd886bbf2490",
+          "title": "特斯拉确认正自研 AI 地图，将随 FSD v15 逐步推送",
+          "desc": "IT之家 10 月 25 日消息，在最新的特斯拉财报电话会议上，特斯拉副总裁阿肖克 · 埃卢斯瓦米（Ashok Elluswamy）宣布，特斯拉正在自研一套基于 AI 的地图导航系统。这套全新地图方案将随 FSD v15 上线，融合车队采集数据、个性化路线规划，同时支持 FSD 语音控制。据IT之家了解，特斯拉目前的导航是第三方地图内容搭配自研软件。此前“偏好路线”功能上线时就有报道说明：谷歌通过",
+          "source": "IT之家",
+          "date": "2026-10-25",
+          "dateLabel": "10月25日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/017/597.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/dbc62bbb-9883-42b3-bc96-d3559d539d5c.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "237bb2dd0b80",
+          "title": "网络安全专家：AI 发现的漏洞，很快或将引发新的安全隐患",
+          "desc": "IT之家 10 月 25 日消息，路透社采访的七名网络安全专家认为，随着 AI 技术不断揭示软件中隐藏的安全漏洞，类似本周全球多地政府网站接连中断服务的事件，几乎肯定会再次发生。美国马萨诸塞州网络威胁情报公司 VulnCheck 即将发布的研究显示，AI 推动了软件漏洞发现数量的增长，过去一年发现的漏洞数量同比翻了一番。数字基础设施公司 Cloudflare 的 CEO 马修 · 普林斯指出：“我",
+          "source": "IT之家",
+          "date": "2026-10-25",
+          "dateLabel": "10月25日",
+          "tags": [
+            "research",
+            "business",
+            "policy"
+          ],
+          "url": "https://www.ithome.com/1/017/592.htm",
+          "image": "",
+          "color": "#d97706"
+        },
+        {
+          "id": "5e5326529b40",
+          "title": "雷神 ZERO Air 15 双十一大促：12499 元起，轻至 1.54kg 兼顾便携与性能释放",
+          "desc": "IT之家 10 月 25 日消息，双十一大促已经开启，笔记本产品也迎来新一轮优惠。此前在 CES 2026 上，雷神推出了面向未来的“轻型”游戏本新品 —— 雷神 ZERO Air。官方表示，该系列产品希望在兼顾便携性的同时，保留游戏本的性能表现，其中雷神 ZERO Air 15 在 1.54kg 的机身内实现了 160W 性能释放，并搭载第三代英特尔酷睿 Ultra 处理器以及 RTX 50 系",
+          "source": "IT之家",
+          "date": "2026-10-25",
+          "dateLabel": "10月25日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/017/591.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/f29a632d-0fc0-45df-a17c-eee969e34f5c.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "f818a98f2bda",
+          "title": "摆脱微软并不容易？丹麦政府因技术问题放弃“弃用 Office”计划",
+          "desc": "IT之家 10 月 25 日消息，2025 年，丹麦政府宣布计划弃用 Windows 和微软 Office，改用 Linux 等开源软件，希望借此降低对微软等美国科技企业的依赖，避免受到政策多变的美国政府牵制。然而据外媒 Neowin 今天（25 日）上午报道，丹麦推动软件自主的计划未能取得预期成果。丹麦放弃了以英国软件公司 Collabora 的办公软件取代微软 Office 的计划。原本的计划",
+          "source": "IT之家",
+          "date": "2026-10-25",
+          "dateLabel": "10月25日",
+          "tags": [
+            "business",
+            "policy",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/017/580.htm",
+          "image": "",
+          "color": "#d97706"
+        },
+        {
+          "id": "63d1f571715c",
+          "title": "卢伟冰再谈小米 18 Fold 手机折痕：采用新一代折叠架构，平均深度 ≤30μm",
+          "desc": "IT之家 10 月 25 日消息，小米集团合伙人 / 总裁、手机部总裁、小米品牌总经理卢伟冰今日发文，再度谈及了小米 18 Fold 中折叠手机的折痕情况：采用新一代折叠架构，强度更高，更抗冲击同时带来超强折痕控制，平均折痕深度 ≤30μm据IT之家此前报道，小米 18 Fold 中折叠手机发布于 9 月 7 日，首发玄戒 O3 芯片，配备 5.38″ 外屏 +7.58″ 内屏，并后置徕卡专业三摄",
+          "source": "IT之家",
+          "date": "2026-10-25",
+          "dateLabel": "10月25日",
+          "tags": [
+            "research",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/017/579.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/21486d7f-dcdd-4c0d-9720-840226da4228.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "1e0b2580055a",
+          "title": "苹果 iPhone Duo 拆解：双电池 4883mAh，无实体 SIM 卡槽",
+          "desc": "IT之家 10 月 25 日消息，YouTube 频道 REWA Technology 与 Phone Repair Guru 放出了首批 iPhone Duo 的拆机视频，让外界得以看清这款折叠机型的内部构造。IT之家注意到，iPhone Duo 采用双电芯设计，两块电池都依靠电控胶拆卸：大容量电池：2962 mAh（11.56 Wh）小容量电池：1921 mAh（7.5 Wh）总容量：4883",
+          "source": "IT之家",
+          "date": "2026-10-25",
+          "dateLabel": "10月25日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/017/578.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/c6d94ce5-7367-4b98-9c2d-654031b583b3.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-10-24",
       "dateLabel": "10月24日",
       "id": "d24",
       "items": [
         {
-          "id": "260155870d07",
-          "title": "瑞典政府办公厅出手，禁止办公电脑直接访问 ChatGPT、Claude",
-          "desc": "IT之家 10 月 24 日消息，当地时间 23 日，据瑞典国家公共广播公司 Sveriges Radio 报道，瑞典政府办公厅将从下周一起禁止工作人员通过办公电脑直接访问 ChatGPT 和 Claude，要求员工改用微软 Copilot 等获得批准的 AI 服务。内部资料显示，该国政府办公厅还对 Copilot 进行了审查，并进一步加强了安全防护。该机构数字化总监米卡埃尔 · 韦特克兰茨（Mi",
+          "id": "f0745706bbdf",
+          "title": "微软 Edge 浏览器已原生支持 GPC 隐私控制功能，Chrome 也已开展相关测试",
+          "desc": "IT之家 10 月 25 日消息，微软在 Edge 浏览器中推出了一项和隐私相关的更新：浏览器原生内置了全球隐私控制（GPC）开关。据IT之家了解，万维网联盟（W3C）在 2020 年 10 月推出了全球隐私控制（GPC）规范，用来帮助用户落实《加州消费者隐私法案》（CCPA）和《通用数据保护条例》（GDPR）赋予的权利。这是一套基于浏览器的技术标准，用户可以自动向外传递隐私偏好，告知网站不要出售",
           "source": "IT之家",
           "date": "2026-10-24",
           "dateLabel": "10月24日",
           "tags": [
-            "model",
-            "business",
             "policy"
           ],
-          "url": "https://www.ithome.com/1/017/385.htm",
-          "image": "",
-          "color": "#d97706"
-        },
-        {
-          "id": "6fbf1396a79a",
-          "title": "游戏接近完工，工作室却要关门？《漫威：刀锋战士》遭遇最残酷倒计时",
-          "desc": "IT之家 10 月 24 日消息，法媒 Le Monde 昨日（10 月 23 日）发布博文，报道称微软旗下 Arkane Lyon 工作室正在开发的漫威吸血鬼动作游戏《漫威：刀锋战士》（Marvel's Blade）已接近制作尾声，但目前该工作室正面临关停风险。IT之家附上该游戏此前公布的预热视频：报道指出微软已经于 2026 年 7 月 16 日发布通知，计划在 11 月 13 日关闭 Ark",
-          "source": "IT之家",
-          "date": "2026-10-24",
-          "dateLabel": "10月24日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/017/384.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/a42b910f-76cb-49b3-8f99-e229533efd69.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "95f8d061218b",
-          "title": "网传宇树科技机器人侧空翻表演甩断腿，系新发布的 H2-X 人形机器人",
-          "desc": "IT之家 10 月 24 日消息，据新浪科技报道，在宇树科技“2026 世界物理 AI 大会暨宇树合作伙伴生态大会”现场，一段机器人侧空翻失误的视频引发热议。画面中，一台白色人形机器人正在进行功夫动作演示，尝试侧空翻落地时失去平衡，侧摔在地，一条机械小腿从连接处脱落，掉落在一旁的黑色地垫上。▲ 图源新浪科技据了解，发生意外的机器人为宇树科技 10 月 21 日刚刚发布的 H2-X 人形机器人，官方",
-          "source": "IT之家",
-          "date": "2026-10-24",
-          "dateLabel": "10月24日",
-          "tags": [
-            "research",
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/017/383.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/c71079e8-1397-4cfb-89bb-b4194f0291c6.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "10eac34ea1e2",
-          "title": "智元在山东济南组织 110 台人形机器人同时跳舞，创下吉尼斯世界纪录",
-          "desc": "IT之家 10 月 24 日消息，据齐鲁晚报，智元机器人今天在山东济南黄河国际会展中心组织 110 台远征 A3 全尺寸人形机器人同场群舞，成功创下“最多人形机器人同时跳舞”吉尼斯世界纪录。IT之家获悉，此次挑战采用智元灵动 LinkBots 集群调控平台及 UWB 厘米级定位技术，实现多机同步动作与编队切换，110 台机器人以“量产机”阵容零失误通过认证。 现场吉尼斯世界纪录认证官亲临见证并颁发",
-          "source": "IT之家",
-          "date": "2026-10-24",
-          "dateLabel": "10月24日",
-          "tags": [
-            "research",
-            "policy"
-          ],
-          "url": "https://www.ithome.com/1/017/382.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/cf057633-3efb-43be-a1cb-172950b5b8ca.jpg",
-          "color": "#d97706"
-        },
-        {
-          "id": "f0838f2eb5ea",
-          "title": "MOD 社区立功：英特尔 Arc XMX 内核非官方移植 AMD FSR 4.1.2",
-          "desc": "IT之家 10 月 24 日消息，科技媒体 Wccftech 昨日（10 月 23 日）发布博文，报道称 OptiScaler MOD 社区已将 AMD 最新的 FSR 4.1.2 神经网络超分辨率模型移植至 Intel Arc 显卡，并借助 Arc 的 XMX 矩阵加速核心实现硬件加速。本次非官方移植针对 Intel XMX 硬件，重点优化 FSR 4 INT8 DLL。相比依赖通用着色器运行，",
-          "source": "IT之家",
-          "date": "2026-10-24",
-          "dateLabel": "10月24日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/017/378.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/1ed9ea96-a783-488b-98f6-8c6a88bc45dd.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "b8cc1d3d7585",
-          "title": "Anthropic 亮出未发布 AI 模型：能力比 Mythos 5.1 更强，也更“守规矩”",
-          "desc": "IT之家 10 月 24 日消息，Anthropic 昨日（10 月 23 日）发布博文，联合英国人工智能安全研究所（AISI），发布了一起 AI 网络测试失控事件的调查报告，并提及旗下一款尚未发布的内部研究模型。在这份调查报告中，Anthropic 称在测试 Claude Mythos 5 期间，该模型曾试图向真实 GitHub 项目提交恶意代码，并伪造身份向真实维护者施压，所幸代码未被合并、未",
-          "source": "IT之家",
-          "date": "2026-10-24",
-          "dateLabel": "10月24日",
-          "tags": [
-            "model",
-            "research",
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/017/375.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/ce68557a-8580-4461-84aa-55e81d50b3a9.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "b6ebfb824842",
-          "title": "不再需要键盘：微软新 XBOX 模式新增一键返回 Win11 桌面",
-          "desc": "IT之家 10 月 24 日消息，科技媒体 Windows Latest 今天（10 月 24 日）发布博文，报道称在 Windows 11 Build 26340.9750 预览版上，测试全新的 XBOX 模式，新的“游戏任务视图”加入了一条底部导航栏，玩家仅凭手柄即可退出到 Windows 桌面。IT之家援引博文介绍，用户此前要从 XBOX 模式切换返回桌面，通常需要按 Windows 键加 ",
-          "source": "IT之家",
-          "date": "2026-10-24",
-          "dateLabel": "10月24日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/017/373.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/a36c1125-2b72-4644-bf2f-40afe9ead5a2.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "cebd021f597b",
-          "title": "连续 5 年，今年 1024 程序员节影石 Insta360 再送员工黄金键帽",
-          "desc": "IT之家 10 月 24 日消息，今天是 1024 程序员节，影石 Insta360 官方宣布，奖励优秀员工黄金键帽作为节日礼物。其中，黄金空格键重约 35 克，价值超 4 万元。据悉，影石已连续五年发放这一特殊奖励，累计送出 75 枚黄金键帽。今年新增了“F5”键，象征不断迭代和突破创新。根据介绍，影石研发技术人员占比近六成，是推动产品创新的核心力量。AI 也成为今年程序员节的热议话题。现场一位",
-          "source": "IT之家",
-          "date": "2026-10-24",
-          "dateLabel": "10月24日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/017/372.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/37644f86-f8ab-429a-8d99-c024123b5275.png",
+          "url": "https://www.ithome.com/1/017/535.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/d3b3e9fb-7b45-456c-a37f-c99e8589911b.jpg?x-bce-process=image/format,f_auto",
           "color": "#d97706"
         }
       ]
@@ -2017,73 +2037,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-09-21",
-      "dateLabel": "9月21日",
-      "id": "d21",
-      "items": [
-        {
-          "id": "96cb02edbb9f",
-          "title": "SkyProduction天工工作台中秋国庆特惠第二波：Seedance 2.5 720P 低至 0.27 元/秒，全网地板价！",
-          "desc": "9月15日，SkyProduction（天工工作台）中秋国庆折上折活动正式开启！",
-          "source": "量子位",
-          "date": "2026-09-21",
-          "dateLabel": "9月21日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://www.qbitai.com/2026/09/493268.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "a5f7d785c007",
-          "title": "啊啊啊GPT-6 Astra这么不安全！这次马斯克都瘫坐了",
-          "desc": "97%尝试危险行为",
-          "source": "量子位",
-          "date": "2026-09-21",
-          "dateLabel": "9月21日",
-          "tags": [
-            "model",
-            "policy"
-          ],
-          "url": "https://www.qbitai.com/2026/09/493241.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "4c37927cef39",
-          "title": "长三角安全人工智能安徽省实验室发布星界、星驭、星鉴三大AI安全解决方案",
-          "desc": "9月19日，第一届中国网络空间安全大会（CCSC 2026）的高水平专题论坛在安徽合肥正式举办。",
-          "source": "量子位",
-          "date": "2026-09-21",
-          "dateLabel": "9月21日",
-          "tags": [
-            "business",
-            "policy",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/09/493235.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "aef9e39beb94",
-          "title": "国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单",
-          "desc": "OceanBase团队提交的Data Agent方案登顶国际数据智能体基准Data Agent Benchmark",
-          "source": "量子位",
-          "date": "2026-09-21",
-          "dateLabel": "9月21日",
-          "tags": [
-            "research",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/09/493231.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -2109,6 +2062,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-10-24 14:52",
-  "totalNews": 127
+  "updateTime": "2026-10-25 15:15",
+  "totalNews": 124
 }
