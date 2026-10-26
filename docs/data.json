@@ -1,6 +1,130 @@
 {
   "newsData": [
     {
+      "date": "2026-10-26",
+      "dateLabel": "10月26日",
+      "id": "d26",
+      "items": [
+        {
+          "id": "f378fee52b52",
+          "title": "趋境科技完成 B 轮融资，半年实现超十倍速增长，加速高品质 AI Token 规模化交付",
+          "desc": "高品质 AI Token 成为行业新风向",
+          "source": "量子位",
+          "date": "2026-10-26",
+          "dateLabel": "10月26日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/10/505429.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "9029941e8e4b",
+          "title": "KV Cache砍掉99%，单卡吞吐飙6倍，港科CMU联手岩山科技开源新模型",
+          "desc": "一张卡，512路长推理同时跑",
+          "source": "量子位",
+          "date": "2026-10-26",
+          "dateLabel": "10月26日",
+          "tags": [
+            "research",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/10/505407.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "d9ae16dac3e4",
+          "title": "WorkBuddy进驻企微！终于不用我当文件传输助手了。。。",
+          "desc": "AI同事自带工作记忆上岗",
+          "source": "量子位",
+          "date": "2026-10-26",
+          "dateLabel": "10月26日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/10/505365.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "85ccf7dc514a",
+          "title": "被OpenAIGemini共同选择的实时语音交互，凭什么是这家中国公司？",
+          "desc": "一场对话式AI的风向标大会",
+          "source": "量子位",
+          "date": "2026-10-26",
+          "dateLabel": "10月26日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/10/505341.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "26c928daca11",
+          "title": "无问芯穹与三体宇宙联合发布智子Agent 1.0",
+          "desc": "打造以多智能体协同为核心的角色Agent",
+          "source": "量子位",
+          "date": "2026-10-26",
+          "dateLabel": "10月26日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/10/505309.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "1a54858c17e3",
+          "title": "马斯克给机器人建了个学校！腾出百万车型产线来量产",
+          "desc": "擎天柱将复制FSD训练思路",
+          "source": "量子位",
+          "date": "2026-10-26",
+          "dateLabel": "10月26日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.qbitai.com/2026/10/505271.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "97d4afd9e5eb",
+          "title": "10亿Tokens免费送！实测全国产算力模型Spark-X2.6，纯代码搓出3D故宫",
+          "desc": "从训练、推理到端侧部署，讯飞坚持全栈自主可控",
+          "source": "量子位",
+          "date": "2026-10-26",
+          "dateLabel": "10月26日",
+          "tags": [
+            "research",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/10/505225.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "0fa452db641f",
+          "title": "支付宝AI支付发起年度黑客松大赛，邀开发者把AI创意变成生意",
+          "desc": "10月24日，支付宝AI支付联合观猹发起“PAYATHON 2026”年度黑客松",
+          "source": "量子位",
+          "date": "2026-10-26",
+          "dateLabel": "10月26日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/10/505218.html",
+          "image": "",
+          "color": "#7c3aed"
+        }
+      ]
+    },
+    {
       "date": "2026-10-25",
       "dateLabel": "10月25日",
       "id": "d25",
@@ -2015,28 +2139,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-09-22",
-      "dateLabel": "9月22日",
-      "id": "d22",
-      "items": [
-        {
-          "id": "051393d3c690",
-          "title": "陆川手搓历史现场，王珞丹熬夜抽卡，阿里全模态开始兜底生产",
-          "desc": "阿里：三年之内会出现一个原生的全模态统一生成模型，未来体验将不再受限于模态边界。",
-          "source": "量子位",
-          "date": "2026-09-22",
-          "dateLabel": "9月22日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/09/494429.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -2062,6 +2164,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-10-25 15:15",
-  "totalNews": 124
+  "updateTime": "2026-10-26 15:24",
+  "totalNews": 131
 }
