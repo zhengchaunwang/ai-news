@@ -1,124 +1,247 @@
 {
   "newsData": [
     {
+      "date": "2026-10-27",
+      "dateLabel": "10月27日",
+      "id": "d27",
+      "items": [
+        {
+          "id": "bc537060496a",
+          "title": "钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会",
+          "desc": "10 月 23 日，以 “ AI is Profitable ” 为主题的 2026 TGC 科技增长大会于广州召开。",
+          "source": "量子位",
+          "date": "2026-10-27",
+          "dateLabel": "10月27日",
+          "tags": [
+            "model",
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/10/505580.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "c5c7e5f30322",
+          "title": "一加 Ace 7 系列搭载自研「电竞三芯」：支持 185Hz 刷新率、520Hz 多指触控采样率",
+          "desc": "IT之家 10 月 27 日消息，一加 Ace 7 系列今日官宣搭载自研「电竞三芯」，灵犀触控芯片 T3、电竞网络芯片 G3、超级显示芯片 P4。据介绍，灵犀触控芯片 T3 支持 520Hz 多指触控采样率、游戏官方联调分区触控；电竞网络芯片 G3，蜂窝游戏卡顿率降低 46%，蜂窝游戏时延降低 17%，WiFi 抢网能力提升 37%；超级显示芯片 P4，支持 185Hz 持续输出，运动轮廓更清楚。",
+          "source": "IT之家",
+          "date": "2026-10-27",
+          "dateLabel": "10月27日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/018/429.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/82784057-793d-473f-a8d7-797e6f995fce.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "9211df6e693c",
+          "title": "消息称苹果 iPhone Duo 自带反向无线充电模块：尚未激活，可为 Apple Watch / AirPods 补电",
+          "desc": "IT之家 10 月 27 日消息，博主 @Kang 发文，透露苹果 iPhone Duo 手机集成了 Apple Watch 手表反冲无线充模块，该模块预计也可以为 AirPods 充电，不过相应功能目前并未激活。IT之家注意到，该博主还在评论区透露相应反冲无线充模块仅 iPhone Duo 独占，iPhone 18 Pro / Max 并未配备。事实上，从 2019 年开始就有各种传言称苹果计划",
+          "source": "IT之家",
+          "date": "2026-10-27",
+          "dateLabel": "10月27日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://www.ithome.com/1/018/427.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/574d2879-5b85-4f9b-b1b1-56a3be086fa4.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "4642b59509df",
+          "title": "微星 MAG B850 TOMAHAWK MAX WIFI II 战斧导弹主板发售：14 相 80A 供电 + WiFi 7，1849 元",
+          "desc": "IT之家 10 月 27 日消息，微星 MAG B850 TOMAHAWK MAX WIFI II 战斧导弹主板已正式开售，京东定价为 1849 元。该主板基于 AMD B850 芯片组、采用 AM5 接口，支持锐龙 9850X3D、9700X、9800X3D 等处理器，采用 ATX 板型与银灰风格散热装甲。京东微星（MSI）MAG B850 TOMAHAWK MAX WIFI II 战斧导弹主板",
+          "source": "IT之家",
+          "date": "2026-10-27",
+          "dateLabel": "10月27日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/018/424.htm",
+          "image": "https://img14.360buyimg.com/pop/jfs/t1/546262/31/946/365860/6acc73fbF51d6bec5/00835dc5dc0bb578.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "bb7eb8b5efa2",
+          "title": "智元发布具身 Agent 框架 Genie Master：机器人能边工作边进化",
+          "desc": "IT之家 10 月 27 日消息，今日智元正式发布具身 Agent 框架 Genie Master，让机器人在上岗的过程中边解锁新技能。据悉，搭载该框架的精灵 G2，在真实便利店上岗期间，不依赖人工示范与调试，自己定位失败原因、调整策略、沉淀经验，做到了在多个复杂精细任务上持续改进，实现“无人在环”的持续自我进化。这是行业首次跳出仿真环境、走出实验室，首次在真实业务场景中验证 Physical R",
+          "source": "IT之家",
+          "date": "2026-10-27",
+          "dateLabel": "10月27日",
+          "tags": [
+            "research",
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/018/423.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/936dbc41-335a-4a59-827c-47ae64dea90a.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "278f0e978896",
+          "title": "Anthropic“史上最大 IPO”在即，或为澳大利亚最大银行带来数十亿澳元意外之财",
+          "desc": "IT之家 10 月 27 日消息，据彭博社今天（27 日）午间报道，随着 Anthropic 估值飙升，澳大利亚联邦银行有望借其首次公开募股（IPO），套现一年多前购入的股份。联邦银行是澳大利亚最大的银行，2025 年 3 月曾参与 Anthropic 的 E 轮融资。截至去年 6 月 30 日，这笔投资价值 1.53 亿澳元（IT之家注：现汇率约合 7.17 亿元人民币），到今年 6 月底升至 ",
+          "source": "IT之家",
+          "date": "2026-10-27",
+          "dateLabel": "10月27日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/018/417.htm",
+          "image": "",
+          "color": "#d97706"
+        },
+        {
+          "id": "323abfb6d5fe",
+          "title": "消息称苹果 iPhone 18e 手机将配备 6.12 英寸 60Hz LTPS OLED 面板，匹配 48Mp 单摄",
+          "desc": "IT之家 10 月 27 日消息，博主 @数码闲聊站 发文，透露苹果 iPhone 18e 将配备一块 6.12 英寸 60Hz LTPS OLED，搭载 2nm A20 芯片，匹配 48Mp 单摄，前摄可能会升级 24Mp。IT之家注意到，苹果 iPhone 18/18e 手机预计明年春季发布，除了本次曝光的 iPhone 18e 外，此前消息显示 iPhone 18 标准版搭载 A20 芯片，",
+          "source": "IT之家",
+          "date": "2026-10-27",
+          "dateLabel": "10月27日",
+          "tags": [
+            "business",
+            "policy"
+          ],
+          "url": "https://www.ithome.com/1/018/415.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/0cfa404d-7333-4174-8818-501cbcd79d84.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "f5cdd98bae3d",
+          "title": "Acoustune 推出 AS2200 便携耳放：基于 AK4493SEQ，支持 3.5mm 与 4.4mm 输出",
+          "desc": "IT之家 10 月 27 日消息，日本音频设备品牌 Acoustune 当地时间 23 日发布了便携式 USB 耳机放大器 AS2200。这一型号基于旭化成的 AK4493SEQ 音频 DAC 芯片，提供 3.5mm 单端与 4.4mm 平衡输出。AS2200 外壳为 CNC 铝合金，集成小型 OLED 信息显示屏。其支持 32bit / 768kHz PCM 与 DSD512 解析度，拥有 6 ",
+          "source": "IT之家",
+          "date": "2026-10-27",
+          "dateLabel": "10月27日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/018/410.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/2d383fb3-af2a-4153-a916-e769128a0d49.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-10-26",
       "dateLabel": "10月26日",
       "id": "d26",
       "items": [
         {
-          "id": "f378fee52b52",
-          "title": "趋境科技完成 B 轮融资，半年实现超十倍速增长，加速高品质 AI Token 规模化交付",
-          "desc": "高品质 AI Token 成为行业新风向",
+          "id": "c9886b807ff8",
+          "title": "刚刚，Anthropic公开335页招股书：史上最大IPO，史上最亏AI公司",
+          "desc": "地球最富兄妹俩堂堂来袭！7名联创仍紧握50.1%总投票权",
           "source": "量子位",
           "date": "2026-10-26",
           "dateLabel": "10月26日",
           "tags": [
             "business"
           ],
-          "url": "https://www.qbitai.com/2026/10/505429.html",
+          "url": "https://www.qbitai.com/2026/10/505551.html",
           "image": "",
           "color": "#7c3aed"
         },
         {
-          "id": "9029941e8e4b",
-          "title": "KV Cache砍掉99%，单卡吞吐飙6倍，港科CMU联手岩山科技开源新模型",
-          "desc": "一张卡，512路长推理同时跑",
+          "id": "c69335438503",
+          "title": "AI时代，一个人能有多大能量？天禧AI × 观猹大会现场实测个人AI跨端协同新体验",
+          "desc": "10月23日至25日，以“见证超能发生”为主题的“天禧AI × 观猹大会”在杭州茶叶博览会会议会展中心启幕。",
+          "source": "量子位",
+          "date": "2026-10-26",
+          "dateLabel": "10月26日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/10/505539.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "9dddaa0d722e",
+          "title": "OpenAI开始断网训练最强模型：“安全起见”",
+          "desc": "模型开始利用GPU缓存聊天？",
           "source": "量子位",
           "date": "2026-10-26",
           "dateLabel": "10月26日",
           "tags": [
             "research",
             "business",
-            "cn"
+            "policy"
           ],
-          "url": "https://www.qbitai.com/2026/10/505407.html",
+          "url": "https://www.qbitai.com/2026/10/505529.html",
           "image": "",
           "color": "#7c3aed"
         },
         {
-          "id": "d9ae16dac3e4",
-          "title": "WorkBuddy进驻企微！终于不用我当文件传输助手了。。。",
-          "desc": "AI同事自带工作记忆上岗",
+          "id": "0930f5dde468",
+          "title": "A社联创演讲：AI奇点已来",
+          "desc": "所谓奇点，或许是AI跃过人类的那个点。",
           "source": "量子位",
           "date": "2026-10-26",
           "dateLabel": "10月26日",
           "tags": [
             "business"
           ],
-          "url": "https://www.qbitai.com/2026/10/505365.html",
+          "url": "https://www.qbitai.com/2026/10/505521.html",
           "image": "",
           "color": "#7c3aed"
         },
         {
-          "id": "85ccf7dc514a",
-          "title": "被OpenAIGemini共同选择的实时语音交互，凭什么是这家中国公司？",
-          "desc": "一场对话式AI的风向标大会",
-          "source": "量子位",
-          "date": "2026-10-26",
-          "dateLabel": "10月26日",
-          "tags": [
-            "model",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/10/505341.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "26c928daca11",
-          "title": "无问芯穹与三体宇宙联合发布智子Agent 1.0",
-          "desc": "打造以多智能体协同为核心的角色Agent",
+          "id": "5733487391f5",
+          "title": "NeoLab第一个商业模式：转售GPU",
+          "desc": "从冲刺AGI到转售GPU。",
           "source": "量子位",
           "date": "2026-10-26",
           "dateLabel": "10月26日",
           "tags": [
             "business"
           ],
-          "url": "https://www.qbitai.com/2026/10/505309.html",
+          "url": "https://www.qbitai.com/2026/10/505478.html",
           "image": "",
           "color": "#7c3aed"
         },
         {
-          "id": "1a54858c17e3",
-          "title": "马斯克给机器人建了个学校！腾出百万车型产线来量产",
-          "desc": "擎天柱将复制FSD训练思路",
+          "id": "cbd3a99794d4",
+          "title": "中国近50%的新云生意，竟被这家公司包揽！",
+          "desc": "有点意外，但也不意外",
           "source": "量子位",
           "date": "2026-10-26",
           "dateLabel": "10月26日",
           "tags": [
-            "research"
-          ],
-          "url": "https://www.qbitai.com/2026/10/505271.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "97d4afd9e5eb",
-          "title": "10亿Tokens免费送！实测全国产算力模型Spark-X2.6，纯代码搓出3D故宫",
-          "desc": "从训练、推理到端侧部署，讯飞坚持全栈自主可控",
-          "source": "量子位",
-          "date": "2026-10-26",
-          "dateLabel": "10月26日",
-          "tags": [
-            "research",
             "business",
             "cn"
           ],
-          "url": "https://www.qbitai.com/2026/10/505225.html",
+          "url": "https://www.qbitai.com/2026/10/505454.html",
           "image": "",
           "color": "#7c3aed"
         },
         {
-          "id": "0fa452db641f",
-          "title": "支付宝AI支付发起年度黑客松大赛，邀开发者把AI创意变成生意",
-          "desc": "10月24日，支付宝AI支付联合观猹发起“PAYATHON 2026”年度黑客松",
+          "id": "496d7027748a",
+          "title": "从“言传身教”到“触类旁通”：AI既需要“名师指引”，也需要“自我修行”",
+          "desc": "人工智能正在从人机“言传身教”走向自学“触类旁通”。",
           "source": "量子位",
           "date": "2026-10-26",
           "dateLabel": "10月26日",
           "tags": [
             "business"
           ],
-          "url": "https://www.qbitai.com/2026/10/505218.html",
+          "url": "https://www.qbitai.com/2026/10/505443.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "9d2f4e49e6e2",
+          "title": "长安汽车赵非：汽车将成为端侧物理AI规模最大的应用载体 | 2026世界智能网联汽车大会",
+          "desc": "10月21日，2026世界智能网联汽车大会在北京召开",
+          "source": "量子位",
+          "date": "2026-10-26",
+          "dateLabel": "10月26日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/10/505436.html",
           "image": "",
           "color": "#7c3aed"
         }
@@ -2087,58 +2210,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-09-23",
-      "dateLabel": "9月23日",
-      "id": "d23",
-      "items": [
-        {
-          "id": "42af26708f43",
-          "title": "联想亮相阿里云栖大会：联想天禧AI把超级组织落地到端侧",
-          "desc": "联想天禧AI携全场景多端产品矩阵亮相阿里云栖大会",
-          "source": "量子位",
-          "date": "2026-09-23",
-          "dateLabel": "9月23日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/09/496609.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "4782a1ee94e9",
-          "title": "让Token生产更高效：异构混推的关键技术演进与创新实践",
-          "desc": "商汤大装置异构混推创新实践与技术演进",
-          "source": "量子位",
-          "date": "2026-09-23",
-          "dateLabel": "9月23日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/09/496578.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "aa677f634dd4",
-          "title": "汇智智能发布Hellome：国内首个FDE直连智能体服务平台，把AI交付周期压进“周”",
-          "desc": "企业AI服务迎来平台化交付时代",
-          "source": "量子位",
-          "date": "2026-09-23",
-          "dateLabel": "9月23日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/09/496493.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -2164,6 +2235,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-10-26 15:24",
-  "totalNews": 131
+  "updateTime": "2026-10-27 15:17",
+  "totalNews": 136
 }
