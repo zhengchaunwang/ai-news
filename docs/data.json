@@ -1,125 +1,255 @@
 {
   "newsData": [
     {
+      "date": "2026-10-28",
+      "dateLabel": "10月28日",
+      "id": "d28",
+      "items": [
+        {
+          "id": "dbfdb8ba9f32",
+          "title": "Personal Agent走向真实任务，蚂蚁百灵开源 Ling-3.1-flash-1019",
+          "desc": "10月28 日，蚂蚁集团旗下百灵大模型正式开源 Ling-3.1-flash-1019。",
+          "source": "量子位",
+          "date": "2026-10-28",
+          "dateLabel": "10月28日",
+          "tags": [
+            "model",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/10/505928.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "821b16df42f3",
+          "title": "北京：新建算力中心 100% 使用绿电",
+          "desc": "IT之家 10 月 28 日消息，北京市人民政府上周印发《北京市“十五五”时期新型能源体系规划》。其中提出全力扩大绿电进京规模、加快推进市域外绿电基地建设，有序推进绿电错峰交易、分时段交易等跨省跨区绿电交易规模化发展。外调绿电规模力争达到 710 亿千瓦时。IT之家注意到，该规划还提出统筹能源资源与算力布局协同，提升算力设施能源供给质量，新建算力中心 100% 使用绿电。推进算力、通信基站和机房等",
+          "source": "IT之家",
+          "date": "2026-10-28",
+          "dateLabel": "10月28日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/018/943.htm",
+          "image": "",
+          "color": "#d97706"
+        },
+        {
+          "id": "d77efb40493a",
+          "title": "驰为推出 GameBook Max 18 英寸游戏本：最高酷睿 i9-14900HX 处理器、RTX 5060 显卡",
+          "desc": "IT之家 10 月 28 日消息，驰为现已在海外市场推出新款 GameBook Max 游戏本，采用 18 英寸屏幕，最高可选英特尔酷睿 i9 处理器，起售价 1,799 美元（IT之家注：现汇率约合 12,019 元人民币）。据介绍，这款笔记本提供英特尔酷睿 i7-14650HX 和酷睿 i9-14900HX 两种处理器可选，所有配置均搭配英伟达 RTX 5060 显卡，拥有 8GB GDDR7",
+          "source": "IT之家",
+          "date": "2026-10-28",
+          "dateLabel": "10月28日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/018/938.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/4bfcbc7e-11b0-4efc-abba-027992ec0e4c.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "ff081eda4fc8",
+          "title": "华为 FreeClip 2 耳夹耳机拼色设计上市，限时优惠价 1249 元",
+          "desc": "IT之家 10 月 28 日消息，华为双十一焕新季全场景新品发布会正在举行，华为 FreeClip 2 耳夹耳机带来全新潮玩拼色设计，售价 1299 元。限时优惠 50 元，到手价 1249 元。IT之家注意到，该产品采用三色配饰环设计，带来蓝 / 黄、红 / 蓝、红 / 黄拼色设计，支持左右耳自适应，搭载 AI 智能体耳边助手，支持个性弹窗、高清空间音频、IP57 防尘抗水、星闪精确查找。续航方",
+          "source": "IT之家",
+          "date": "2026-10-28",
+          "dateLabel": "10月28日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/018/929.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/7c646a4e-44e3-4c20-ab7a-0278cf4399dc.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "b4df473c7778",
+          "title": "探究微软 Win11 可原生运行的最古老图形应用，距今约 34 年",
+          "desc": "IT之家 10 月 28 日消息，Windows 11 系统目前兼容原生运行的最古老图形 GUI 应用是谁？可以追溯到几年前？科技博客 enlyth 于 10 月 26 日发布博文，带着这个问题，探究背后的答案。该博主通过测试，认为一款链接日期为 1992 年 11 月 16 日的 Windows 图形界面程序 CDPLAYER.EXE，无需修改、无需模拟器，即可在最新版 Windows 11 上",
+          "source": "IT之家",
+          "date": "2026-10-28",
+          "dateLabel": "10月28日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/018/926.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/cc7d3c8d-e176-4cac-8b62-f4164634efb8.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "808ea0a81722",
+          "title": "华为 Pura90 系列手机全面升级鸿蒙 7 系统，新机出厂全面搭载 HarmonyOS 7",
+          "desc": "IT之家 10 月 28 日消息，华为双十一焕新季全场景新品发布会正在举行，华为 Pura90 Plus 手机正式发布，搭载麒麟 9025 芯片，焕新优惠价 5199 元起。在今天的发布会上，华为董事、终端 BG CEO 何刚宣布，华为 Pura90 系列现已全面搭载 HarmonyOS 7 系统，这意味着大家接下来能买到的 Pura90 系列新机都已默认预装 HarmonyOS 7。参考IT之家",
+          "source": "IT之家",
+          "date": "2026-10-28",
+          "dateLabel": "10月28日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/018/923.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/2ad07719-21b7-4135-8e34-4c900b3a7534.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "aad165a4d93f",
+          "title": "华为畅享 100 手机发布：搭载麒麟 8000S 芯片，1399 元起",
+          "desc": "IT之家 10 月 28 日消息，华为畅享 100 标准版今天在华为双十一焕新季 · 全场景新品发布会上发布，售价 1399 元起，将于 10 月 31 日 10:08 开售。IT之家附具体售价如下：128GB 版 1399 元256GB 版 1699 元华为畅享 100 标准版搭载麒麟 8000S 芯片，提供 128 和 256GB 两个存储版本，预装 HarmonyOS 7 系统，提供冰川白、",
+          "source": "IT之家",
+          "date": "2026-10-28",
+          "dateLabel": "10月28日",
+          "tags": [
+            "business",
+            "policy",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/018/922.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/6aa54904-d21f-4c32-a702-c36bb8c43336.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "4aa3518eb857",
+          "title": "华为畅享 100 Pro 手机发布：定位“轻盈小直屏”、麒麟 8020A 加持，1799-2699 元",
+          "desc": "IT之家 10 月 28 日消息，在今天下午的华为双十一焕新季全场景新品发布会上，华为畅享 100 Pro 手机正式发布。该机搭载麒麟 8020A 芯片 + 鸿蒙 7，电池容量为 6100mAh，定位“轻盈小直屏”，重量仅有 192g。京东华为畅享 100 Pro 幻夜黑 128GB1799 元直达链接新机将于 10 月 31 日开售。IT之家附价格信息如下：128GB：1799 元256GB：2",
+          "source": "IT之家",
+          "date": "2026-10-28",
+          "dateLabel": "10月28日",
+          "tags": [
+            "model",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/018/920.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/ec78e23c-6b23-4773-946f-42ec2c909a63.png",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-10-27",
       "dateLabel": "10月27日",
       "id": "d27",
       "items": [
         {
-          "id": "bc537060496a",
-          "title": "钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会",
-          "desc": "10 月 23 日，以 “ AI is Profitable ” 为主题的 2026 TGC 科技增长大会于广州召开。",
+          "id": "19de2cb5d592",
+          "title": "不藏了！人形机器人全开源动真格，从机械结构一路拆到运动算法",
+          "desc": "人形机器人全套图纸开源！从关节到算法，下载就能自己造。",
           "source": "量子位",
           "date": "2026-10-27",
           "dateLabel": "10月27日",
           "tags": [
-            "model",
-            "business"
+            "research",
+            "business",
+            "cn"
           ],
-          "url": "https://www.qbitai.com/2026/10/505580.html",
+          "url": "https://www.qbitai.com/2026/10/505865.html",
           "image": "",
           "color": "#7c3aed"
         },
         {
-          "id": "c5c7e5f30322",
-          "title": "一加 Ace 7 系列搭载自研「电竞三芯」：支持 185Hz 刷新率、520Hz 多指触控采样率",
-          "desc": "IT之家 10 月 27 日消息，一加 Ace 7 系列今日官宣搭载自研「电竞三芯」，灵犀触控芯片 T3、电竞网络芯片 G3、超级显示芯片 P4。据介绍，灵犀触控芯片 T3 支持 520Hz 多指触控采样率、游戏官方联调分区触控；电竞网络芯片 G3，蜂窝游戏卡顿率降低 46%，蜂窝游戏时延降低 17%，WiFi 抢网能力提升 37%；超级显示芯片 P4，支持 185Hz 持续输出，运动轮廓更清楚。",
-          "source": "IT之家",
+          "id": "29733a0e4c45",
+          "title": "印奇把4D雷达也端到端了",
+          "desc": "毫米波雷达，AI算力10TOPS",
+          "source": "量子位",
           "date": "2026-10-27",
           "dateLabel": "10月27日",
           "tags": [
             "business"
           ],
-          "url": "https://www.ithome.com/1/018/429.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/82784057-793d-473f-a8d7-797e6f995fce.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/10/505852.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "9211df6e693c",
-          "title": "消息称苹果 iPhone Duo 自带反向无线充电模块：尚未激活，可为 Apple Watch / AirPods 补电",
-          "desc": "IT之家 10 月 27 日消息，博主 @Kang 发文，透露苹果 iPhone Duo 手机集成了 Apple Watch 手表反冲无线充模块，该模块预计也可以为 AirPods 充电，不过相应功能目前并未激活。IT之家注意到，该博主还在评论区透露相应反冲无线充模块仅 iPhone Duo 独占，iPhone 18 Pro / Max 并未配备。事实上，从 2019 年开始就有各种传言称苹果计划",
-          "source": "IT之家",
-          "date": "2026-10-27",
-          "dateLabel": "10月27日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://www.ithome.com/1/018/427.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/574d2879-5b85-4f9b-b1b1-56a3be086fa4.jpg",
-          "color": "#d97706"
-        },
-        {
-          "id": "4642b59509df",
-          "title": "微星 MAG B850 TOMAHAWK MAX WIFI II 战斧导弹主板发售：14 相 80A 供电 + WiFi 7，1849 元",
-          "desc": "IT之家 10 月 27 日消息，微星 MAG B850 TOMAHAWK MAX WIFI II 战斧导弹主板已正式开售，京东定价为 1849 元。该主板基于 AMD B850 芯片组、采用 AM5 接口，支持锐龙 9850X3D、9700X、9800X3D 等处理器，采用 ATX 板型与银灰风格散热装甲。京东微星（MSI）MAG B850 TOMAHAWK MAX WIFI II 战斧导弹主板",
-          "source": "IT之家",
+          "id": "b5f0d29d88f0",
+          "title": "乔布斯的皮克斯，狂赞中国物理AI数据终端",
+          "desc": "顶尖智能汽车玩家的终局，不会停在智能汽车",
+          "source": "量子位",
           "date": "2026-10-27",
           "dateLabel": "10月27日",
           "tags": [
             "business",
             "cn"
           ],
-          "url": "https://www.ithome.com/1/018/424.htm",
-          "image": "https://img14.360buyimg.com/pop/jfs/t1/546262/31/946/365860/6acc73fbF51d6bec5/00835dc5dc0bb578.jpg",
-          "color": "#d97706"
-        },
-        {
-          "id": "bb7eb8b5efa2",
-          "title": "智元发布具身 Agent 框架 Genie Master：机器人能边工作边进化",
-          "desc": "IT之家 10 月 27 日消息，今日智元正式发布具身 Agent 框架 Genie Master，让机器人在上岗的过程中边解锁新技能。据悉，搭载该框架的精灵 G2，在真实便利店上岗期间，不依赖人工示范与调试，自己定位失败原因、调整策略、沉淀经验，做到了在多个复杂精细任务上持续改进，实现“无人在环”的持续自我进化。这是行业首次跳出仿真环境、走出实验室，首次在真实业务场景中验证 Physical R",
-          "source": "IT之家",
-          "date": "2026-10-27",
-          "dateLabel": "10月27日",
-          "tags": [
-            "research",
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/018/423.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/936dbc41-335a-4a59-827c-47ae64dea90a.jpg",
-          "color": "#d97706"
-        },
-        {
-          "id": "278f0e978896",
-          "title": "Anthropic“史上最大 IPO”在即，或为澳大利亚最大银行带来数十亿澳元意外之财",
-          "desc": "IT之家 10 月 27 日消息，据彭博社今天（27 日）午间报道，随着 Anthropic 估值飙升，澳大利亚联邦银行有望借其首次公开募股（IPO），套现一年多前购入的股份。联邦银行是澳大利亚最大的银行，2025 年 3 月曾参与 Anthropic 的 E 轮融资。截至去年 6 月 30 日，这笔投资价值 1.53 亿澳元（IT之家注：现汇率约合 7.17 亿元人民币），到今年 6 月底升至 ",
-          "source": "IT之家",
-          "date": "2026-10-27",
-          "dateLabel": "10月27日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/018/417.htm",
+          "url": "https://www.qbitai.com/2026/10/505830.html",
           "image": "",
-          "color": "#d97706"
+          "color": "#7c3aed"
         },
         {
-          "id": "323abfb6d5fe",
-          "title": "消息称苹果 iPhone 18e 手机将配备 6.12 英寸 60Hz LTPS OLED 面板，匹配 48Mp 单摄",
-          "desc": "IT之家 10 月 27 日消息，博主 @数码闲聊站 发文，透露苹果 iPhone 18e 将配备一块 6.12 英寸 60Hz LTPS OLED，搭载 2nm A20 芯片，匹配 48Mp 单摄，前摄可能会升级 24Mp。IT之家注意到，苹果 iPhone 18/18e 手机预计明年春季发布，除了本次曝光的 iPhone 18e 外，此前消息显示 iPhone 18 标准版搭载 A20 芯片，",
-          "source": "IT之家",
+          "id": "c53a52ab5aea",
+          "title": "Physical RSI第一站！便利店打工“人”自己进化，物理AI飞轮启动了",
+          "desc": "无人在环进店实测啃下长尾场景",
+          "source": "量子位",
+          "date": "2026-10-27",
+          "dateLabel": "10月27日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/10/505799.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "017f3151068f",
+          "title": "KV Cache被压成常数！OCR开源新王：页数没上限，缓存砍96%",
+          "desc": "OCR 3.0时代，来了",
+          "source": "量子位",
           "date": "2026-10-27",
           "dateLabel": "10月27日",
           "tags": [
             "business",
-            "policy"
+            "cn"
           ],
-          "url": "https://www.ithome.com/1/018/415.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/0cfa404d-7333-4174-8818-501cbcd79d84.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/10/505773.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "f5cdd98bae3d",
-          "title": "Acoustune 推出 AS2200 便携耳放：基于 AK4493SEQ，支持 3.5mm 与 4.4mm 输出",
-          "desc": "IT之家 10 月 27 日消息，日本音频设备品牌 Acoustune 当地时间 23 日发布了便携式 USB 耳机放大器 AS2200。这一型号基于旭化成的 AK4493SEQ 音频 DAC 芯片，提供 3.5mm 单端与 4.4mm 平衡输出。AS2200 外壳为 CNC 铝合金，集成小型 OLED 信息显示屏。其支持 32bit / 768kHz PCM 与 DSD512 解析度，拥有 6 ",
-          "source": "IT之家",
+          "id": "4783723088c6",
+          "title": "GPT-6.1 Terra首批网友实测来了！1折价格获得Astra级电脑操作能力",
+          "desc": "同一天，OpenAI还甩出3项AI科学新发现",
+          "source": "量子位",
+          "date": "2026-10-27",
+          "dateLabel": "10月27日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://www.qbitai.com/2026/10/505719.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "65d851e049b2",
+          "title": "国产AI 3D大模型Hi3D来了！开源可商用，PK干掉GPT-6",
+          "desc": "还是专业的模型做专业的事情",
+          "source": "量子位",
+          "date": "2026-10-27",
+          "dateLabel": "10月27日",
+          "tags": [
+            "model",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/10/505694.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "576e9005fb95",
+          "title": "做能源与算力的“搭桥人”：达卯科技以能源大脑定义算电协同 | CPE 2026",
+          "desc": "破解绿电直连项目落地僵局",
+          "source": "量子位",
           "date": "2026-10-27",
           "dateLabel": "10月27日",
           "tags": [
             "business"
           ],
-          "url": "https://www.ithome.com/1/018/410.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/2d383fb3-af2a-4153-a916-e769128a0d49.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/10/505687.html",
+          "image": "",
+          "color": "#7c3aed"
         }
       ]
     },
@@ -2158,58 +2288,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-09-24",
-      "dateLabel": "9月24日",
-      "id": "d24",
-      "items": [
-        {
-          "id": "5cdd57e82c40",
-          "title": "出海Agent“小元AI”入驻腾讯WorkBuddy：找买家写开发信谈生意",
-          "desc": "懂出海，能记忆，自进化",
-          "source": "量子位",
-          "date": "2026-09-24",
-          "dateLabel": "9月24日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/09/496961.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "8486ba3c75b6",
-          "title": "PCIe显卡被低估了！内核补齐+通信重构，DeepSeek推理吞吐翻近7倍",
-          "desc": "1.5台6000D跑赢1台B300！",
-          "source": "量子位",
-          "date": "2026-09-24",
-          "dateLabel": "9月24日",
-          "tags": [
-            "model",
-            "research",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/09/496925.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "3813f039aada",
-          "title": "时隔十年，AI大牛署名新论文",
-          "desc": "让自动驾驶“走一步想十步”",
-          "source": "量子位",
-          "date": "2026-09-24",
-          "dateLabel": "9月24日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://www.qbitai.com/2026/09/496834.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -2235,6 +2313,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-10-27 15:17",
-  "totalNews": 136
+  "updateTime": "2026-10-28 15:54",
+  "totalNews": 141
 }
