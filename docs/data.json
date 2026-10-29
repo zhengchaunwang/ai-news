@@ -1,130 +1,205 @@
 {
   "newsData": [
     {
+      "date": "2026-10-29",
+      "dateLabel": "10月29日",
+      "id": "d29",
+      "items": [
+        {
+          "id": "aa7890a0c2c3",
+          "title": "文远知行001号员工带队，景烁科技首轮融资数千万美元",
+          "desc": "10月29日，文远知行披露旗下子公司景烁科技首次融资进展",
+          "source": "量子位",
+          "date": "2026-10-29",
+          "dateLabel": "10月29日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/10/506281.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "7d10f0f4f2af",
+          "title": "小雨智造与国家钢结构质检中心共建实验室，乔忠良：具身智能新质生产力已成事实",
+          "desc": "2026年10月27日，“工业具身智能焊接与检测技术联合实验室”正式揭牌成立。",
+          "source": "量子位",
+          "date": "2026-10-29",
+          "dateLabel": "10月29日",
+          "tags": [
+            "research",
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/10/506273.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "d5b4f6e3560e",
+          "title": "刚刚，扩散模型杀进Agent主场！350亿参数，速度比Jev快一倍",
+          "desc": "用扩散模型怎么做做Agent？",
+          "source": "量子位",
+          "date": "2026-10-29",
+          "dateLabel": "10月29日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/10/505934.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "2759306cfc4a",
+          "title": "24万开卖！理想重造i6，李想：目标全球畅销",
+          "desc": "理想今年最后一场发布会，自研电池芯片全部上车",
+          "source": "量子位",
+          "date": "2026-10-29",
+          "dateLabel": "10月29日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/10/506246.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "3b1c113bf9ec",
+          "title": "刚刚，Gemini 4 Carbon全面超越Opus 5.5！首发Token半价",
+          "desc": "能连肝数日修Bug，免疫提示词注入",
+          "source": "量子位",
+          "date": "2026-10-29",
+          "dateLabel": "10月29日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://www.qbitai.com/2026/10/506227.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "2c304d7c9fe7",
+          "title": "智元稚晖君：很多跳舞机器人本质上是闭着眼睛的动作模仿，实时感知响应是靠遥控器无法做到的",
+          "desc": "IT之家 10 月 29 日消息，据澎湃新闻消息，智元联合创始人、总裁兼 CTO 彭志辉（网名“稚晖君”）今日表示，很多跳舞机器人本质上都是闭着眼睛的动作模仿，实时感知响应是靠遥控器无法做到的。IT之家从原报道获悉，彭志辉透露，大家现在看到的很多跳舞机器人，本质上都是闭着眼睛的 mimic，也就是动作模仿。下一步他们计划引入感知模型，智元已在此前发布其感控一体模型。例如在运动会中，智元机器人就是靠",
+          "source": "IT之家",
+          "date": "2026-10-29",
+          "dateLabel": "10月29日",
+          "tags": [
+            "research",
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/019/566.htm",
+          "image": "",
+          "color": "#d97706"
+        },
+        {
+          "id": "be29b6f55187",
+          "title": "专为大模型设计：新芯航途 X7 Ultra 芯片中国首发量产 Armv9 车规级 CPU",
+          "desc": "IT之家 10 月 29 日现场消息，在今天的发布会上，XHEART 新芯航途 CEO 李宗霖正式发布全新 X7 Ultra 大模型芯片。据介绍，这枚芯片专为大模型设计，拥有超大核 NPU 架构，核内数据交互对比核间数据交互，互联速率 TB/s 数量级提升。另外，芯片的多级缓存架构支持大容量、高并发特性，可降低推理时延与功耗。新芯航途 X7 Ultra 大模型芯片内置高精度大模型专用算子加速引擎，",
+          "source": "IT之家",
+          "date": "2026-10-29",
+          "dateLabel": "10月29日",
+          "tags": [
+            "model",
+            "research",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/019/564.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/5859f4e5-26ff-4924-bb32-e3c71b8b2032.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "9627d45751ba",
+          "title": "Anduril 与高通联手推出“美国制造”笔记本 BlueChip，承诺明年上市时本土零部件占比将达 65%",
+          "desc": "IT之家 10 月 29 日消息，当地时间周二，美国防务承包商安杜里尔公司（Anduril）与芯片厂商高通公司宣布达成合作，计划在美国本土生产笔记本电脑，首款机型 BlueChip 定于 2027 年推出。双方同时提出一项长期目标，推动计算机行业打造一套完整的美国本土供应链。据IT之家了解，一款美国本土制造的笔记本算得上一件新鲜事，因为美国主流电脑企业都不在本土生产笔记本，苹果、戴尔、惠普、微软皆",
+          "source": "IT之家",
+          "date": "2026-10-29",
+          "dateLabel": "10月29日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/019/562.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/6167ddcc-55dd-4d3a-940e-f982c18f7ef5.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-10-28",
       "dateLabel": "10月28日",
       "id": "d28",
       "items": [
         {
-          "id": "dbfdb8ba9f32",
-          "title": "Personal Agent走向真实任务，蚂蚁百灵开源 Ling-3.1-flash-1019",
-          "desc": "10月28 日，蚂蚁集团旗下百灵大模型正式开源 Ling-3.1-flash-1019。",
+          "id": "b87320418d22",
+          "title": "【图片中转测试，未发布】工程能力一键复用，专心卷新能力！轮子造一次就够了｜详解FluxVLA Engine技术报告",
+          "desc": "让基建作为常驻buff",
           "source": "量子位",
           "date": "2026-10-28",
           "dateLabel": "10月28日",
           "tags": [
-            "model",
-            "business",
-            "cn"
+            "business"
           ],
-          "url": "https://www.qbitai.com/2026/10/505928.html",
+          "url": "https://www.qbitai.com/2026/10/506194.html",
           "image": "",
           "color": "#7c3aed"
         },
         {
-          "id": "821b16df42f3",
-          "title": "北京：新建算力中心 100% 使用绿电",
-          "desc": "IT之家 10 月 28 日消息，北京市人民政府上周印发《北京市“十五五”时期新型能源体系规划》。其中提出全力扩大绿电进京规模、加快推进市域外绿电基地建设，有序推进绿电错峰交易、分时段交易等跨省跨区绿电交易规模化发展。外调绿电规模力争达到 710 亿千瓦时。IT之家注意到，该规划还提出统筹能源资源与算力布局协同，提升算力设施能源供给质量，新建算力中心 100% 使用绿电。推进算力、通信基站和机房等",
-          "source": "IT之家",
+          "id": "3a76e694ae0f",
+          "title": "工程能力一键复用，专心卷新能力！轮子造一次就够了｜详解FluxVLA Engine技术报告",
+          "desc": "让基建作为常驻buff",
+          "source": "量子位",
           "date": "2026-10-28",
           "dateLabel": "10月28日",
           "tags": [
-            "business",
-            "cn"
+            "business"
           ],
-          "url": "https://www.ithome.com/1/018/943.htm",
+          "url": "https://www.qbitai.com/2026/10/506098.html",
           "image": "",
-          "color": "#d97706"
+          "color": "#7c3aed"
         },
         {
-          "id": "d77efb40493a",
-          "title": "驰为推出 GameBook Max 18 英寸游戏本：最高酷睿 i9-14900HX 处理器、RTX 5060 显卡",
-          "desc": "IT之家 10 月 28 日消息，驰为现已在海外市场推出新款 GameBook Max 游戏本，采用 18 英寸屏幕，最高可选英特尔酷睿 i9 处理器，起售价 1,799 美元（IT之家注：现汇率约合 12,019 元人民币）。据介绍，这款笔记本提供英特尔酷睿 i7-14650HX 和酷睿 i9-14900HX 两种处理器可选，所有配置均搭配英伟达 RTX 5060 显卡，拥有 8GB GDDR7",
-          "source": "IT之家",
+          "id": "80e5b8f48432",
+          "title": "威卡：用数据集链接具身智能和工程机械",
+          "desc": "威卡：为工程机械的智能化与少人化，提供一条被验证的路径",
+          "source": "量子位",
+          "date": "2026-10-28",
+          "dateLabel": "10月28日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.qbitai.com/2026/10/506063.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "c53e08c735e4",
+          "title": "19个项目18个成功，6个GPCR靶点全获命中！国产AI制药再破技术天花板",
+          "desc": "精度达AlphaFold 3两倍，分子之心拿下高难度抗体设计",
+          "source": "量子位",
+          "date": "2026-10-28",
+          "dateLabel": "10月28日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/10/506055.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "00368a5a2497",
+          "title": "0营收估值200亿美元，具身版OpenAI又融10亿美元",
+          "desc": "斯坦福伯克利宗师组团，贝索斯红杉抢着送钱",
+          "source": "量子位",
           "date": "2026-10-28",
           "dateLabel": "10月28日",
           "tags": [
             "business"
           ],
-          "url": "https://www.ithome.com/1/018/938.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/4bfcbc7e-11b0-4efc-abba-027992ec0e4c.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "ff081eda4fc8",
-          "title": "华为 FreeClip 2 耳夹耳机拼色设计上市，限时优惠价 1249 元",
-          "desc": "IT之家 10 月 28 日消息，华为双十一焕新季全场景新品发布会正在举行，华为 FreeClip 2 耳夹耳机带来全新潮玩拼色设计，售价 1299 元。限时优惠 50 元，到手价 1249 元。IT之家注意到，该产品采用三色配饰环设计，带来蓝 / 黄、红 / 蓝、红 / 黄拼色设计，支持左右耳自适应，搭载 AI 智能体耳边助手，支持个性弹窗、高清空间音频、IP57 防尘抗水、星闪精确查找。续航方",
-          "source": "IT之家",
-          "date": "2026-10-28",
-          "dateLabel": "10月28日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/018/929.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/7c646a4e-44e3-4c20-ab7a-0278cf4399dc.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "b4df473c7778",
-          "title": "探究微软 Win11 可原生运行的最古老图形应用，距今约 34 年",
-          "desc": "IT之家 10 月 28 日消息，Windows 11 系统目前兼容原生运行的最古老图形 GUI 应用是谁？可以追溯到几年前？科技博客 enlyth 于 10 月 26 日发布博文，带着这个问题，探究背后的答案。该博主通过测试，认为一款链接日期为 1992 年 11 月 16 日的 Windows 图形界面程序 CDPLAYER.EXE，无需修改、无需模拟器，即可在最新版 Windows 11 上",
-          "source": "IT之家",
-          "date": "2026-10-28",
-          "dateLabel": "10月28日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/018/926.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/cc7d3c8d-e176-4cac-8b62-f4164634efb8.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "808ea0a81722",
-          "title": "华为 Pura90 系列手机全面升级鸿蒙 7 系统，新机出厂全面搭载 HarmonyOS 7",
-          "desc": "IT之家 10 月 28 日消息，华为双十一焕新季全场景新品发布会正在举行，华为 Pura90 Plus 手机正式发布，搭载麒麟 9025 芯片，焕新优惠价 5199 元起。在今天的发布会上，华为董事、终端 BG CEO 何刚宣布，华为 Pura90 系列现已全面搭载 HarmonyOS 7 系统，这意味着大家接下来能买到的 Pura90 系列新机都已默认预装 HarmonyOS 7。参考IT之家",
-          "source": "IT之家",
-          "date": "2026-10-28",
-          "dateLabel": "10月28日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/018/923.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/2ad07719-21b7-4135-8e34-4c900b3a7534.jpg",
-          "color": "#d97706"
-        },
-        {
-          "id": "aad165a4d93f",
-          "title": "华为畅享 100 手机发布：搭载麒麟 8000S 芯片，1399 元起",
-          "desc": "IT之家 10 月 28 日消息，华为畅享 100 标准版今天在华为双十一焕新季 · 全场景新品发布会上发布，售价 1399 元起，将于 10 月 31 日 10:08 开售。IT之家附具体售价如下：128GB 版 1399 元256GB 版 1699 元华为畅享 100 标准版搭载麒麟 8000S 芯片，提供 128 和 256GB 两个存储版本，预装 HarmonyOS 7 系统，提供冰川白、",
-          "source": "IT之家",
-          "date": "2026-10-28",
-          "dateLabel": "10月28日",
-          "tags": [
-            "business",
-            "policy",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/018/922.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/6aa54904-d21f-4c32-a702-c36bb8c43336.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "4aa3518eb857",
-          "title": "华为畅享 100 Pro 手机发布：定位“轻盈小直屏”、麒麟 8020A 加持，1799-2699 元",
-          "desc": "IT之家 10 月 28 日消息，在今天下午的华为双十一焕新季全场景新品发布会上，华为畅享 100 Pro 手机正式发布。该机搭载麒麟 8020A 芯片 + 鸿蒙 7，电池容量为 6100mAh，定位“轻盈小直屏”，重量仅有 192g。京东华为畅享 100 Pro 幻夜黑 128GB1799 元直达链接新机将于 10 月 31 日开售。IT之家附价格信息如下：128GB：1799 元256GB：2",
-          "source": "IT之家",
-          "date": "2026-10-28",
-          "dateLabel": "10月28日",
-          "tags": [
-            "model",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/018/920.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/ec78e23c-6b23-4773-946f-42ec2c909a63.png",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/10/506042.html",
+          "image": "",
+          "color": "#7c3aed"
         }
       ]
     },
@@ -259,121 +334,18 @@
       "id": "d26",
       "items": [
         {
-          "id": "c9886b807ff8",
-          "title": "刚刚，Anthropic公开335页招股书：史上最大IPO，史上最亏AI公司",
-          "desc": "地球最富兄妹俩堂堂来袭！7名联创仍紧握50.1%总投票权",
-          "source": "量子位",
+          "id": "c5f139d41282",
+          "title": "（更新）Meta 宣布至多 975 亿美元重大融资计划，为人工智能等业务筹集资金",
+          "desc": "10 月 29 日更新Meta 在当地时间 27 日将 A 类普通股远期出售的金额提升至 250 亿美元，股权融资潜在总规模同步提升。原文IT之家 10 月 26 日消息，Meta 美国当地时间今日宣布了总额至多 950 亿美元（IT之家注：现汇率约合 6,343.57 亿元人民币）的重大融资计划，为企业核心业务和新兴人工智能领域的持续发展提供资金支持。这 950 亿美元分为多个部分，包括 225",
+          "source": "IT之家",
           "date": "2026-10-26",
           "dateLabel": "10月26日",
           "tags": [
             "business"
           ],
-          "url": "https://www.qbitai.com/2026/10/505551.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "c69335438503",
-          "title": "AI时代，一个人能有多大能量？天禧AI × 观猹大会现场实测个人AI跨端协同新体验",
-          "desc": "10月23日至25日，以“见证超能发生”为主题的“天禧AI × 观猹大会”在杭州茶叶博览会会议会展中心启幕。",
-          "source": "量子位",
-          "date": "2026-10-26",
-          "dateLabel": "10月26日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/10/505539.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "9dddaa0d722e",
-          "title": "OpenAI开始断网训练最强模型：“安全起见”",
-          "desc": "模型开始利用GPU缓存聊天？",
-          "source": "量子位",
-          "date": "2026-10-26",
-          "dateLabel": "10月26日",
-          "tags": [
-            "research",
-            "business",
-            "policy"
-          ],
-          "url": "https://www.qbitai.com/2026/10/505529.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "0930f5dde468",
-          "title": "A社联创演讲：AI奇点已来",
-          "desc": "所谓奇点，或许是AI跃过人类的那个点。",
-          "source": "量子位",
-          "date": "2026-10-26",
-          "dateLabel": "10月26日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/10/505521.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "5733487391f5",
-          "title": "NeoLab第一个商业模式：转售GPU",
-          "desc": "从冲刺AGI到转售GPU。",
-          "source": "量子位",
-          "date": "2026-10-26",
-          "dateLabel": "10月26日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/10/505478.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "cbd3a99794d4",
-          "title": "中国近50%的新云生意，竟被这家公司包揽！",
-          "desc": "有点意外，但也不意外",
-          "source": "量子位",
-          "date": "2026-10-26",
-          "dateLabel": "10月26日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/10/505454.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "496d7027748a",
-          "title": "从“言传身教”到“触类旁通”：AI既需要“名师指引”，也需要“自我修行”",
-          "desc": "人工智能正在从人机“言传身教”走向自学“触类旁通”。",
-          "source": "量子位",
-          "date": "2026-10-26",
-          "dateLabel": "10月26日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/10/505443.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "9d2f4e49e6e2",
-          "title": "长安汽车赵非：汽车将成为端侧物理AI规模最大的应用载体 | 2026世界智能网联汽车大会",
-          "desc": "10月21日，2026世界智能网联汽车大会在北京召开",
-          "source": "量子位",
-          "date": "2026-10-26",
-          "dateLabel": "10月26日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/10/505436.html",
-          "image": "",
-          "color": "#7c3aed"
+          "url": "https://www.ithome.com/1/018/144.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/3d14550e-ccfc-4f68-b4ef-37b3d823df6c.jpg",
+          "color": "#d97706"
         }
       ]
     },
@@ -2223,71 +2195,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-09-25",
-      "dateLabel": "9月25日",
-      "id": "d25",
-      "items": [
-        {
-          "id": "323aaf7a9a17",
-          "title": "“AlphaGo”杀进足球场！自我对弈140年，机器人成“梅西终结者”",
-          "desc": "“AlphaGo”杀进足球场！自我对弈140年，机器人成“梅西终结者”",
-          "source": "量子位",
-          "date": "2026-09-25",
-          "dateLabel": "9月25日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://www.qbitai.com/2026/09/497278.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "a4302c20590b",
-          "title": "OpenAI闯大祸！GPT竟黑进医保系统，黄仁勋：管不住就关掉",
-          "desc": "OpenAI闯大祸！GPT竟黑进医保系统，黄仁勋：管不住就关掉",
-          "source": "量子位",
-          "date": "2026-09-25",
-          "dateLabel": "9月25日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://www.qbitai.com/2026/09/497177.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "2dfd8ca6928b",
-          "title": "亮出“中国最强AI芯片”还不够，平头哥又甩出一手开源",
-          "desc": "大厂造芯，正在从交付芯片，走向更广泛的开放共建阶段。",
-          "source": "量子位",
-          "date": "2026-09-25",
-          "dateLabel": "9月25日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/09/497108.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "c7f9282ec990",
-          "title": "别人忙着卷Code，Kimi抽身反打浏览器插件：网页操作一秒变Skill",
-          "desc": "Agent的手越伸越长",
-          "source": "量子位",
-          "date": "2026-09-25",
-          "dateLabel": "9月25日",
-          "tags": [
-            "model",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/09/497075.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -2313,6 +2220,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-10-28 15:54",
-  "totalNews": 141
+  "updateTime": "2026-10-29 16:00",
+  "totalNews": 135
 }
