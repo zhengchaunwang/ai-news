@@ -1,127 +1,205 @@
 {
   "newsData": [
     {
+      "date": "2026-10-30",
+      "dateLabel": "10月30日",
+      "id": "d30",
+      "items": [
+        {
+          "id": "3281aa24b423",
+          "title": "RSI立大功！国产开源登顶全球第一，1.3B OXR重塑OCR",
+          "desc": "解析一切",
+          "source": "量子位",
+          "date": "2026-10-30",
+          "dateLabel": "10月30日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/10/506686.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "9571c704770a",
+          "title": "Claude新模型曝光：新Fable，新Opus…",
+          "desc": "Claude新模型曝光：新Fable，新Opus…",
+          "source": "量子位",
+          "date": "2026-10-30",
+          "dateLabel": "10月30日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://www.qbitai.com/2026/10/506674.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "f07e1403bc29",
+          "title": "从学习人类到学习机器人同伴，清华大学联合无问芯穹、智元提出具身智能规模化落地新路径",
+          "desc": "让机器人成为彼此的“老师”",
+          "source": "量子位",
+          "date": "2026-10-30",
+          "dateLabel": "10月30日",
+          "tags": [
+            "research",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/10/506662.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "ce91df698abc",
+          "title": "前排围观！MEET2027报名通道正式开启，首批重磅嘉宾已就位",
+          "desc": "前排围观！MEET2027报名通道正式开启，首批重磅嘉宾已就位",
+          "source": "量子位",
+          "date": "2026-10-30",
+          "dateLabel": "10月30日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/10/506609.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "7eac07b1d1f7",
+          "title": "买车送终身AI？智己LS8纯电版25万起！全系线控底盘宁德时代标配",
+          "desc": "Momenta世界模型上车",
+          "source": "量子位",
+          "date": "2026-10-30",
+          "dateLabel": "10月30日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/10/506569.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "63d6d4609808",
+          "title": "DeepSeek 官网代码曝光 Cyber 网安独立模型：分企业版与个人版，小范围灰度中",
+          "desc": "IT之家 10 月 30 日消息，今日有大量开发者在 DeepSeek 官网的前端代码中发现了一组与“Cyber”网络安全模型相关的申请入口与接口逻辑。从流出的代码信息来看，申请页面的路由指向 /usage/ model-application，并设置了 feature gate 开关，未获得权限的账号访问时会被重定向回用量页面。代码中还出现了与 Cyber Key 创建、额度管理相关的接口，以及",
+          "source": "IT之家",
+          "date": "2026-10-30",
+          "dateLabel": "10月30日",
+          "tags": [
+            "model",
+            "policy",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/020/154.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/51948db7-35c4-4066-a8ed-b046270d2f70.jpg?x-bce-process=image/resize,w_1200,h_540",
+          "color": "#d97706"
+        },
+        {
+          "id": "935342d365bf",
+          "title": "曝印度 AI 企业 AM Intelligence 寻求 30 亿美元融资，用于订购英伟达芯片",
+          "desc": "IT之家 10 月 30 日消息，今天（30 日）上午，据彭博社援引知情人士消息称，印度 AI 基础设施企业 AM Intelligence 计划融资最多 30 亿美元（IT之家注：现汇率约合 200.31 亿元人民币），用于购买此前宣布采购的英伟达下一代芯片。AI 热潮带动的企业举债规模持续扩大。AM Intelligence 由印度可再生能源企业 Greenko 集团的创始人创办。知情人士透露",
+          "source": "IT之家",
+          "date": "2026-10-30",
+          "dateLabel": "10月30日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/020/152.htm",
+          "image": "",
+          "color": "#d97706"
+        },
+        {
+          "id": "a1119637fa2e",
+          "title": "小米 REDMI 回应 K100 选用骁龙 8 至尊版：的确非最新平台，但三方测试部分游戏表现不输“8EE6”",
+          "desc": "IT之家 10 月 30 日消息，小米 REDMI 红米手机官方微博今日发布了“K100 答网友问”专栏文章，针对 K100 为什么用骁龙 8 至尊版、REDMI Clip Neo 为什么是双 MIC 设计等问题进行了解答。▲ IT之家开箱：小米 REDMI K100 黑色版图赏IT之家附小米 REDMI 红米手机本期答网友问重点内容如下：K100 为什么用骁龙 8 至尊版？这不是两年前发的芯片吗",
+          "source": "IT之家",
+          "date": "2026-10-30",
+          "dateLabel": "10月30日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/020/150.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/4461e665-2d4f-4ab1-953d-b9dfd85734cd.jpg",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-10-29",
       "dateLabel": "10月29日",
       "id": "d29",
       "items": [
         {
-          "id": "aa7890a0c2c3",
-          "title": "文远知行001号员工带队，景烁科技首轮融资数千万美元",
-          "desc": "10月29日，文远知行披露旗下子公司景烁科技首次融资进展",
+          "id": "cad737b6bed2",
+          "title": "STEPX Neo 发布两周即迎首次升级，智能体能力持续释放",
+          "desc": "阶跃终端旗下大模型原生智能体手机 STEPX Neo 在发布两周后即迎来首次升级",
           "source": "量子位",
-          "date": "2026-10-29",
-          "dateLabel": "10月29日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/10/506281.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "7d10f0f4f2af",
-          "title": "小雨智造与国家钢结构质检中心共建实验室，乔忠良：具身智能新质生产力已成事实",
-          "desc": "2026年10月27日，“工业具身智能焊接与检测技术联合实验室”正式揭牌成立。",
-          "source": "量子位",
-          "date": "2026-10-29",
-          "dateLabel": "10月29日",
-          "tags": [
-            "research",
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/10/506273.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "d5b4f6e3560e",
-          "title": "刚刚，扩散模型杀进Agent主场！350亿参数，速度比Jev快一倍",
-          "desc": "用扩散模型怎么做做Agent？",
-          "source": "量子位",
-          "date": "2026-10-29",
-          "dateLabel": "10月29日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/10/505934.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "2759306cfc4a",
-          "title": "24万开卖！理想重造i6，李想：目标全球畅销",
-          "desc": "理想今年最后一场发布会，自研电池芯片全部上车",
-          "source": "量子位",
-          "date": "2026-10-29",
-          "dateLabel": "10月29日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/10/506246.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "3b1c113bf9ec",
-          "title": "刚刚，Gemini 4 Carbon全面超越Opus 5.5！首发Token半价",
-          "desc": "能连肝数日修Bug，免疫提示词注入",
-          "source": "量子位",
-          "date": "2026-10-29",
-          "dateLabel": "10月29日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://www.qbitai.com/2026/10/506227.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "2c304d7c9fe7",
-          "title": "智元稚晖君：很多跳舞机器人本质上是闭着眼睛的动作模仿，实时感知响应是靠遥控器无法做到的",
-          "desc": "IT之家 10 月 29 日消息，据澎湃新闻消息，智元联合创始人、总裁兼 CTO 彭志辉（网名“稚晖君”）今日表示，很多跳舞机器人本质上都是闭着眼睛的动作模仿，实时感知响应是靠遥控器无法做到的。IT之家从原报道获悉，彭志辉透露，大家现在看到的很多跳舞机器人，本质上都是闭着眼睛的 mimic，也就是动作模仿。下一步他们计划引入感知模型，智元已在此前发布其感控一体模型。例如在运动会中，智元机器人就是靠",
-          "source": "IT之家",
-          "date": "2026-10-29",
-          "dateLabel": "10月29日",
-          "tags": [
-            "research",
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/019/566.htm",
-          "image": "",
-          "color": "#d97706"
-        },
-        {
-          "id": "be29b6f55187",
-          "title": "专为大模型设计：新芯航途 X7 Ultra 芯片中国首发量产 Armv9 车规级 CPU",
-          "desc": "IT之家 10 月 29 日现场消息，在今天的发布会上，XHEART 新芯航途 CEO 李宗霖正式发布全新 X7 Ultra 大模型芯片。据介绍，这枚芯片专为大模型设计，拥有超大核 NPU 架构，核内数据交互对比核间数据交互，互联速率 TB/s 数量级提升。另外，芯片的多级缓存架构支持大容量、高并发特性，可降低推理时延与功耗。新芯航途 X7 Ultra 大模型芯片内置高精度大模型专用算子加速引擎，",
-          "source": "IT之家",
           "date": "2026-10-29",
           "dateLabel": "10月29日",
           "tags": [
             "model",
-            "research",
-            "business",
-            "cn"
+            "business"
           ],
-          "url": "https://www.ithome.com/1/019/564.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/5859f4e5-26ff-4924-bb32-e3c71b8b2032.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/10/506554.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "9627d45751ba",
-          "title": "Anduril 与高通联手推出“美国制造”笔记本 BlueChip，承诺明年上市时本土零部件占比将达 65%",
-          "desc": "IT之家 10 月 29 日消息，当地时间周二，美国防务承包商安杜里尔公司（Anduril）与芯片厂商高通公司宣布达成合作，计划在美国本土生产笔记本电脑，首款机型 BlueChip 定于 2027 年推出。双方同时提出一项长期目标，推动计算机行业打造一套完整的美国本土供应链。据IT之家了解，一款美国本土制造的笔记本算得上一件新鲜事，因为美国主流电脑企业都不在本土生产笔记本，苹果、戴尔、惠普、微软皆",
-          "source": "IT之家",
+          "id": "717210a53b97",
+          "title": "中国MaaS市场TOP2，商汤大装置再度蝉联",
+          "desc": "在大模型私有化市场，商汤大装置以9.4%的市场份额，再次稳居第二位",
+          "source": "量子位",
+          "date": "2026-10-29",
+          "dateLabel": "10月29日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/10/506550.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "9621cefac008",
+          "title": "AI安全是AI规模化应用“加速器”",
+          "desc": "AI安全不是AI发展的“刹车片”，而是AI高质量发展的“加速器”。",
+          "source": "量子位",
+          "date": "2026-10-29",
+          "dateLabel": "10月29日",
+          "tags": [
+            "policy"
+          ],
+          "url": "https://www.qbitai.com/2026/10/506544.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "c48da3091fdd",
+          "title": "奥特曼和Dario同台唱rap！Genspark新视频Agent上线，零基础也能拍短剧",
+          "desc": "All in one、任何人都能用",
+          "source": "量子位",
           "date": "2026-10-29",
           "dateLabel": "10月29日",
           "tags": [
             "business"
           ],
-          "url": "https://www.ithome.com/1/019/562.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/6167ddcc-55dd-4d3a-940e-f982c18f7ef5.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/10/506478.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "1f827b2eda75",
+          "title": "物理学也要被AI攻陷了？5道20多年量子公开问题被突破",
+          "desc": "MIT最后一位三学位天才出手了。",
+          "source": "量子位",
+          "date": "2026-10-29",
+          "dateLabel": "10月29日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/10/506477.html",
+          "image": "",
+          "color": "#7c3aed"
         }
       ]
     },
@@ -2142,59 +2220,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-09-26",
-      "dateLabel": "9月26日",
-      "id": "d26",
-      "items": [
-        {
-          "id": "46b8f24716d8",
-          "title": "索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准",
-          "desc": "“世界模型”开始成为具身智能跨越商业化“奇点”的新叙事。",
-          "source": "量子位",
-          "date": "2026-09-26",
-          "dateLabel": "9月26日",
-          "tags": [
-            "research",
-            "business",
-            "policy"
-          ],
-          "url": "https://www.qbitai.com/2026/09/498478.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "5def01160142",
-          "title": "AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo",
-          "desc": "Simate将训练、推理与评测全流程接入自研Infra，通过极致的任务编排与资源调度，同时并行推进数十条相互独立的研究路线。",
-          "source": "量子位",
-          "date": "2026-09-26",
-          "dateLabel": "9月26日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://www.qbitai.com/2026/09/498271.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "35a3781ecf9f",
-          "title": "笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub",
-          "desc": "GitHub现在最火热的大模型开源小蜂鸟Colibrì是个啥？",
-          "source": "量子位",
-          "date": "2026-09-26",
-          "dateLabel": "9月26日",
-          "tags": [
-            "model",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/09/497624.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -2220,6 +2245,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-10-29 16:00",
-  "totalNews": 135
+  "updateTime": "2026-10-30 16:02",
+  "totalNews": 137
 }
