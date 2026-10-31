@@ -1,10 +1,149 @@
 {
   "newsData": [
     {
+      "date": "2026-10-31",
+      "dateLabel": "10月31日",
+      "id": "d31",
+      "items": [
+        {
+          "id": "076358108123",
+          "title": "微软大规模自愿离职补偿计划引员工担忧，高管澄清“并非要裁 6 万人”",
+          "desc": "IT之家 10 月 31 日消息，微软本周推出的大规模员工自愿离职补偿计划震惊业界，也引发外界质疑：微软为什么会考虑让这么多人离职？微软内部同样议论纷纷：公司难道想减少 6 万名员工？AI 会取代这些岗位吗？接下来是不是还要裁员？《商业内幕》近日采访了多名匿名微软内部人士，希望弄清这项计划背后的真实情况。从目前掌握的信息来看，微软似乎只是因为离职补偿计划覆盖范围太广，无意间引发了员工恐慌，迫使管理",
+          "source": "IT之家",
+          "date": "2026-10-31",
+          "dateLabel": "10月31日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/020/506.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2025/5/064cca50-2baa-40ab-bbcb-39b4e830a8a2.jpg?x-bce-process=image/watermark,text_QUnnlJ_miJA,type_RlpMYW5UaW5nSGVpU0JHQg==,size_28,color_ffffffdd,skw_1,skc_00000051,g_7,blr_50,bls_50,x_11,y_11/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "53d6b57db0e0",
+          "title": "马斯克 xAI Grok 已支持中国银联和支付宝付款，用户反馈首月订阅半价",
+          "desc": "IT之家 10 月 31 日消息，有用户反馈，马斯克旗下 xAI 的 Grok 现已支持中国银联和支付宝付款，订阅页面的地区选项还可选择中国大陆、中国香港、中国澳门和中国台湾。IT之家查询发现属实。X 用户 @jordan1oi 反馈称，通过支付宝首次订阅 Grok 可享首月半价优惠。除此之外，有需要的用户还可以选择 Apple Pay 和 Google Pay，绑定银行账户支付还将返现 5 美元",
+          "source": "IT之家",
+          "date": "2026-10-31",
+          "dateLabel": "10月31日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/020/504.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/f7e8e167-b6ec-43af-96de-36297a965890.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "779d2f54e050",
+          "title": "全球首富马斯克预言：2029 年太空 AI 算力将远超地面算力",
+          "desc": "IT之家 10 月 31 日消息，全球首富埃隆 · 马斯克（Elon Musk）今天（10 月 31 日）在 X 平台发布推文，预言 2029 年部署到近地轨道的 AI 与云计算处理能力，将远远超过地面算力。IT之家附上相关截图如下：马斯克预言到 2028 年，轨道算力（太空计算能力）每月新增部署量将超过地面算力，而到 2029 年“远超”地面算力。这里的“轨道算力”指部署在卫星或太空数据中心里的",
+          "source": "IT之家",
+          "date": "2026-10-31",
+          "dateLabel": "10月31日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/020/499.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/9787f0d0-02b9-4cf8-8819-0f451c11b12e.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "f7d70bd32321",
+          "title": "跌掉一个 SpaceX？AI 投资回报引投资者担忧，纳斯达克本月或蒸发 2 万亿美元市值",
+          "desc": "IT之家 10 月 31 日消息，据路透社 30 日报道，纳斯达克 100 指数 10 月市值恐蒸发超过 2 万亿美元（IT之家注：现汇率约合 13.34 万亿元人民币）。随着科技巨头公布财报，投资者对 AI 投资回报的疑虑进一步加深：投入巨额资金建设 AI 基础设施，究竟多久才能收回成本？如果损失达到这一规模，蒸发的市值将略高于 SpaceX 的整体估值。受 AI 投资热潮降温影响，纳斯达克 1",
+          "source": "IT之家",
+          "date": "2026-10-31",
+          "dateLabel": "10月31日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/020/488.htm",
+          "image": "",
+          "color": "#d97706"
+        },
+        {
+          "id": "0bd7969ed690",
+          "title": "OpenAI 奥尔特曼谈内存短缺：全球 DRAM 应优先供给数据中心，闲置在玩家 PC 里是浪费",
+          "desc": "IT之家 10 月 31 日消息，OpenAI CEO 萨姆・奥尔特曼昨日在接受 YouTube 播客节目 Cheeky Pint 采访时论证了降低计算成本的必要性。他表示，在 DRAM 存储芯片供应紧张的情况下，将内存集中部署在数据中心并提高利用率，才能够更有效地利用有限的资源。奥尔特曼在节目中谈到了 AI 行业面临的全球算力供应问题，并以个人电脑运行本地 AI 模型为例，解释了自己的观点。随着",
+          "source": "IT之家",
+          "date": "2026-10-31",
+          "dateLabel": "10月31日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/020/483.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/4c2b95a7-7f3a-4f7b-9344-c306931dd342.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "9ec8d4911cbc",
+          "title": "AI 热潮降温？消息称 OpenAI 最新融资目标缩水 100 亿美元，降幅 33%",
+          "desc": "IT之家 10 月 31 日消息，金融时报（FT）今天（10 月 31 日）发布博文，报道称 ChatGPT 开发商 OpenAI 已下调最新一轮融资目标，将原先的 300 亿美元（IT之家注：现汇率约合 2,000.87 亿元人民币）目标下调约 100 亿美元（现汇率约合 666.96 亿元人民币），目前正寻求以约 1.25 万亿美元（现汇率约合 8.34 万亿元人民币）估值融资约 200 亿美",
+          "source": "IT之家",
+          "date": "2026-10-31",
+          "dateLabel": "10月31日",
+          "tags": [
+            "model",
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/020/478.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/a10c936a-310f-447d-b63c-27fb22d6e533.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "86467dff1623",
+          "title": "OpenCode 启动 Cheepseek 第四阶段：10 美元订阅享 100 美元 DeepSeek V4.1 Flash 额度",
+          "desc": "IT之家 10 月 31 日消息，AI 编程工具 OpenCode 今天（10 月 31 日）在 X 平台发布推文，宣布启动 Operation Cheepseek 第四阶段，订阅用户可使用价值 100 美元（现汇率约合 667 元人民币）的 DeepSeek V4.1 Flash 模型额度。IT之家注：Operation Cheepseek 是 OpenCode 推出的低成本高额度模型使用计划，",
+          "source": "IT之家",
+          "date": "2026-10-31",
+          "dateLabel": "10月31日",
+          "tags": [
+            "model",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/020/474.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/d992ade2-4704-4c9f-848d-d7ca02f79fe2.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "178ba5bbcc7d",
+          "title": "Anthropic 出手：Claude Opus 5.5 不再帮你“AI 复刻游戏”",
+          "desc": "IT之家 10 月 31 日消息，游戏媒体 gamedeveloper 今天（10 月 31 日）发布博文，报道称 Anthropic 已在 AI 编程工具 Claude Code 中，限制 Opus 5.5 模型帮助用户复刻特定现有游戏。开发者 @chasmmmmmmmmmmm 昨日（10 月 30 日）在 X 平台发布推文，称 Claude Code 在 10 月 27 日前后，为 Opus ",
+          "source": "IT之家",
+          "date": "2026-10-31",
+          "dateLabel": "10月31日",
+          "tags": [
+            "model",
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/020/471.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/a1aea0c6-23cd-477b-b092-ebce25a31b15.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-10-30",
       "dateLabel": "10月30日",
       "id": "d30",
       "items": [
+        {
+          "id": "93316e1e74cb",
+          "title": "英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成",
+          "desc": "英伟达与麻省理工学院团队，在 Hugging Face 发布了视频增强项目 Open-H3-Regenerate-2K 的模型权重",
+          "source": "量子位",
+          "date": "2026-10-30",
+          "dateLabel": "10月30日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/10/506743.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
         {
           "id": "3281aa24b423",
           "title": "RSI立大功！国产开源登顶全球第一，1.3B OXR重塑OCR",
@@ -76,51 +215,6 @@
           "url": "https://www.qbitai.com/2026/10/506569.html",
           "image": "",
           "color": "#7c3aed"
-        },
-        {
-          "id": "63d6d4609808",
-          "title": "DeepSeek 官网代码曝光 Cyber 网安独立模型：分企业版与个人版，小范围灰度中",
-          "desc": "IT之家 10 月 30 日消息，今日有大量开发者在 DeepSeek 官网的前端代码中发现了一组与“Cyber”网络安全模型相关的申请入口与接口逻辑。从流出的代码信息来看，申请页面的路由指向 /usage/ model-application，并设置了 feature gate 开关，未获得权限的账号访问时会被重定向回用量页面。代码中还出现了与 Cyber Key 创建、额度管理相关的接口，以及",
-          "source": "IT之家",
-          "date": "2026-10-30",
-          "dateLabel": "10月30日",
-          "tags": [
-            "model",
-            "policy",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/020/154.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/51948db7-35c4-4066-a8ed-b046270d2f70.jpg?x-bce-process=image/resize,w_1200,h_540",
-          "color": "#d97706"
-        },
-        {
-          "id": "935342d365bf",
-          "title": "曝印度 AI 企业 AM Intelligence 寻求 30 亿美元融资，用于订购英伟达芯片",
-          "desc": "IT之家 10 月 30 日消息，今天（30 日）上午，据彭博社援引知情人士消息称，印度 AI 基础设施企业 AM Intelligence 计划融资最多 30 亿美元（IT之家注：现汇率约合 200.31 亿元人民币），用于购买此前宣布采购的英伟达下一代芯片。AI 热潮带动的企业举债规模持续扩大。AM Intelligence 由印度可再生能源企业 Greenko 集团的创始人创办。知情人士透露",
-          "source": "IT之家",
-          "date": "2026-10-30",
-          "dateLabel": "10月30日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/020/152.htm",
-          "image": "",
-          "color": "#d97706"
-        },
-        {
-          "id": "a1119637fa2e",
-          "title": "小米 REDMI 回应 K100 选用骁龙 8 至尊版：的确非最新平台，但三方测试部分游戏表现不输“8EE6”",
-          "desc": "IT之家 10 月 30 日消息，小米 REDMI 红米手机官方微博今日发布了“K100 答网友问”专栏文章，针对 K100 为什么用骁龙 8 至尊版、REDMI Clip Neo 为什么是双 MIC 设计等问题进行了解答。▲ IT之家开箱：小米 REDMI K100 黑色版图赏IT之家附小米 REDMI 红米手机本期答网友问重点内容如下：K100 为什么用骁龙 8 至尊版？这不是两年前发的芯片吗",
-          "source": "IT之家",
-          "date": "2026-10-30",
-          "dateLabel": "10月30日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/020/150.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/4461e665-2d4f-4ab1-953d-b9dfd85734cd.jpg",
-          "color": "#d97706"
         }
       ]
     },
@@ -184,20 +278,6 @@
             "business"
           ],
           "url": "https://www.qbitai.com/2026/10/506478.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "1f827b2eda75",
-          "title": "物理学也要被AI攻陷了？5道20多年量子公开问题被突破",
-          "desc": "MIT最后一位三学位天才出手了。",
-          "source": "量子位",
-          "date": "2026-10-29",
-          "dateLabel": "10月29日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/10/506477.html",
           "image": "",
           "color": "#7c3aed"
         }
@@ -2155,71 +2235,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-09-27",
-      "dateLabel": "9月27日",
-      "id": "d27",
-      "items": [
-        {
-          "id": "a1e56ceeff23",
-          "title": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层",
-          "desc": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层",
-          "source": "量子位",
-          "date": "2026-09-27",
-          "dateLabel": "9月27日",
-          "tags": [
-            "model",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/09/498633.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "e510e7753dbd",
-          "title": "量子计算走上桌面！“小盒子”跑通端到端，数据全程不出门",
-          "desc": "想让开发者“说句话就能跑量子计算”",
-          "source": "量子位",
-          "date": "2026-09-27",
-          "dateLabel": "9月27日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/09/498605.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "925ad8760dc2",
-          "title": "又快又能打！匿名模型玉兔模型杀上双榜第一，Coding实测全记录",
-          "desc": "中秋假期文具OpenRouter调用日榜榜首",
-          "source": "量子位",
-          "date": "2026-09-27",
-          "dateLabel": "9月27日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/09/498584.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "2276e0a24ce8",
-          "title": "啥题啊能干崩OpenAI最强模型训练…",
-          "desc": "啥题啊能干崩OpenAI最强模型训练…",
-          "source": "量子位",
-          "date": "2026-09-27",
-          "dateLabel": "9月27日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://www.qbitai.com/2026/09/498546.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -2245,6 +2260,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-10-30 16:02",
-  "totalNews": 137
+  "updateTime": "2026-10-31 15:59",
+  "totalNews": 138
 }
