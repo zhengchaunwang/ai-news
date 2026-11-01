@@ -1,126 +1,195 @@
 {
   "newsData": [
     {
+      "date": "2026-11-01",
+      "dateLabel": "11月1日",
+      "id": "d01",
+      "items": [
+        {
+          "id": "421db8b0f130",
+          "title": "清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考",
+          "desc": "让AI像牛顿一样思考",
+          "source": "量子位",
+          "date": "2026-11-01",
+          "dateLabel": "11月1日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/11/507031.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "4bdf1718a292",
+          "title": "老牌便利店机器人售货折戟：实验室锤炼上万次，货架前还是摔瓶子",
+          "desc": "这事还是想得太简单了",
+          "source": "量子位",
+          "date": "2026-11-01",
+          "dateLabel": "11月1日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.qbitai.com/2026/11/506990.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "b456d89afc7e",
+          "title": "Jev新成果，再次引爆开源",
+          "desc": "再次“性价比屠夫”",
+          "source": "量子位",
+          "date": "2026-11-01",
+          "dateLabel": "11月1日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/11/506922.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "402cb0f1a087",
+          "title": "上下水版 4599 → 1063 元：科沃斯 T50 PRO 扫拖机器人国补 2 折新低，81mm 纤薄机身",
+          "desc": "【京东活动可能随时变更，需以实付款为准】科沃斯 T50 PRO 扫拖机器人发布于 2024 年 9 月，该款扫拖机器人拥有 81mm 机身，支持 15800Pa 吸力（1.58 万 Pa 吸力），“上下水版”首发价 4599 元。京东 11.11 大促期间，按下方步骤下单，叠加 15% 国补后，“京东购物”小程序购物车结算，仅需 1063.92 元：领 9 折券：点此查看。下单时选择“以旧换新 →",
+          "source": "IT之家",
+          "date": "2026-11-01",
+          "dateLabel": "11月1日",
+          "tags": [
+            "model",
+            "research",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/020/760.htm",
+          "image": "https://img14.360buyimg.com/pop/jfs/t1/436276/17/14086/41880/6a0d2183Fa819f29a/0083320320f1a714.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "cda066b05ba3",
+          "title": "消息称 AMD 拟计划本月再调涨 GPU + D6 显存套料供货成本",
+          "desc": "IT之家 11 月 1 日消息，据博板堂 / 视讯堂旗下“ChannelGate 视博合聚”爆料，AMD“将针对 GPU + D6 显存套料的供货成本再次执行上涨政策”，预计将继续影响 AMD 显卡 11 月份（本月）的成本价格走向。该消息源透露，AMD 现在每个季度都会根据 GPU 与显存颗粒成本的影响，立即执行新的供货成本价，对 GPU+ 显存供货成本及时涨价的，AMD 涨价风格是每个季度执行",
+          "source": "IT之家",
+          "date": "2026-11-01",
+          "dateLabel": "11月1日",
+          "tags": [
+            "business",
+            "policy"
+          ],
+          "url": "https://www.ithome.com/1/020/749.htm",
+          "image": "",
+          "color": "#d97706"
+        },
+        {
+          "id": "09f84d73d2a3",
+          "title": "AI 简历泛滥之下，Z 世代求职者开始担心自己“看起来像 AI”过不了初筛",
+          "desc": "IT之家 11 月 1 日消息，据科技媒体 TechRadar 今天报道，如今求职正变得越来越困难。应聘者不仅要应对 AI 初筛，还要努力让自己的遣词看起来更像真人，同时具备吸引人的特质。IT之家从原报道获悉，招聘平台 Greenhouse 近期对英国、爱尔兰地区 1100 多名求职者展开调查，结果发现 Z 世代求职者与 60 岁以上人士相比，对 AI 招聘初筛有着更深刻认知。在调查人群中，有 8",
+          "source": "IT之家",
+          "date": "2026-11-01",
+          "dateLabel": "11月1日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/020/747.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/d14cd0ed-4456-4a7e-8e08-0d0fd8b20717.jpg?x-bce-process=image/watermark,text_QUnnlJ_miJA,type_RlpMYW5UaW5nSGVpU0JHQg==,size_28,color_ffffffdd,skw_1,skc_00000051,g_7,blr_50,bls_50,x_11,y_11",
+          "color": "#d97706"
+        },
+        {
+          "id": "79297a659a88",
+          "title": "久多良木健：我们当年推出 PlayStation 并不是为了报复任天堂",
+          "desc": "IT之家 11 月 1 日消息，被誉为“索尼 PlayStation 之父”的久多良木健最近表示，他们当年开发 PlayStation 并不是为了向任天堂复仇。IT之家了解到，久多良木健在索尼任职工程师期间，为任天堂家用机 Super Famicom（SFC）打造过音频芯片。后来任天堂还和索尼进行过合作，开发名为 SFC 光盘驱动器外设，以及一款兼容卡带和 CD 的原型机“Play Station",
+          "source": "IT之家",
+          "date": "2026-11-01",
+          "dateLabel": "11月1日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/020/741.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2025/3/69f0de99-49a6-4aff-8c95-ed54da62d66a.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "d230871bcf7f",
+          "title": "上市两月 2068 → 1288 元：小米米家扫拖机器人 7C 新低，支持滚筒活水增压拖地",
+          "desc": "小米米家扫拖机器人 7C 今年 8 月 27 日开售，京东首发国补到手价 2068 元。今日 11.11 加码仅需 1288 元即可入手，大降价：下单时选择“以旧换新” → 个护健康 → 电动牙刷（不回收）京东米家扫地机器人 7C 水箱版券后 1299 元领 8.8 折券京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次：点此抽取。IT之家从商品页面获悉，这款新品支持滚筒活水拖地，",
+          "source": "IT之家",
+          "date": "2026-11-01",
+          "dateLabel": "11月1日",
+          "tags": [
+            "research",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/020/740.htm",
+          "image": "https://img14.360buyimg.com/pop/jfs/t1/508134/9/1278/18457/6a82a774F6eb7e7fd/0083320320479f04.png",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-10-31",
       "dateLabel": "10月31日",
       "id": "d31",
       "items": [
         {
-          "id": "076358108123",
-          "title": "微软大规模自愿离职补偿计划引员工担忧，高管澄清“并非要裁 6 万人”",
-          "desc": "IT之家 10 月 31 日消息，微软本周推出的大规模员工自愿离职补偿计划震惊业界，也引发外界质疑：微软为什么会考虑让这么多人离职？微软内部同样议论纷纷：公司难道想减少 6 万名员工？AI 会取代这些岗位吗？接下来是不是还要裁员？《商业内幕》近日采访了多名匿名微软内部人士，希望弄清这项计划背后的真实情况。从目前掌握的信息来看，微软似乎只是因为离职补偿计划覆盖范围太广，无意间引发了员工恐慌，迫使管理",
-          "source": "IT之家",
+          "id": "093600badaec",
+          "title": "刚刚，DeepSeek重磅开源：Agent底座架构！",
+          "desc": "AI已经自己找到Bug并提交PR",
+          "source": "量子位",
           "date": "2026-10-31",
           "dateLabel": "10月31日",
           "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/020/506.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2025/5/064cca50-2baa-40ab-bbcb-39b4e830a8a2.jpg?x-bce-process=image/watermark,text_QUnnlJ_miJA,type_RlpMYW5UaW5nSGVpU0JHQg==,size_28,color_ffffffdd,skw_1,skc_00000051,g_7,blr_50,bls_50,x_11,y_11/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "53d6b57db0e0",
-          "title": "马斯克 xAI Grok 已支持中国银联和支付宝付款，用户反馈首月订阅半价",
-          "desc": "IT之家 10 月 31 日消息，有用户反馈，马斯克旗下 xAI 的 Grok 现已支持中国银联和支付宝付款，订阅页面的地区选项还可选择中国大陆、中国香港、中国澳门和中国台湾。IT之家查询发现属实。X 用户 @jordan1oi 反馈称，通过支付宝首次订阅 Grok 可享首月半价优惠。除此之外，有需要的用户还可以选择 Apple Pay 和 Google Pay，绑定银行账户支付还将返现 5 美元",
-          "source": "IT之家",
-          "date": "2026-10-31",
-          "dateLabel": "10月31日",
-          "tags": [
+            "model",
+            "research",
             "business",
             "cn"
           ],
-          "url": "https://www.ithome.com/1/020/504.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/f7e8e167-b6ec-43af-96de-36297a965890.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "779d2f54e050",
-          "title": "全球首富马斯克预言：2029 年太空 AI 算力将远超地面算力",
-          "desc": "IT之家 10 月 31 日消息，全球首富埃隆 · 马斯克（Elon Musk）今天（10 月 31 日）在 X 平台发布推文，预言 2029 年部署到近地轨道的 AI 与云计算处理能力，将远远超过地面算力。IT之家附上相关截图如下：马斯克预言到 2028 年，轨道算力（太空计算能力）每月新增部署量将超过地面算力，而到 2029 年“远超”地面算力。这里的“轨道算力”指部署在卫星或太空数据中心里的",
-          "source": "IT之家",
-          "date": "2026-10-31",
-          "dateLabel": "10月31日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/020/499.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/9787f0d0-02b9-4cf8-8819-0f451c11b12e.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "f7d70bd32321",
-          "title": "跌掉一个 SpaceX？AI 投资回报引投资者担忧，纳斯达克本月或蒸发 2 万亿美元市值",
-          "desc": "IT之家 10 月 31 日消息，据路透社 30 日报道，纳斯达克 100 指数 10 月市值恐蒸发超过 2 万亿美元（IT之家注：现汇率约合 13.34 万亿元人民币）。随着科技巨头公布财报，投资者对 AI 投资回报的疑虑进一步加深：投入巨额资金建设 AI 基础设施，究竟多久才能收回成本？如果损失达到这一规模，蒸发的市值将略高于 SpaceX 的整体估值。受 AI 投资热潮降温影响，纳斯达克 1",
-          "source": "IT之家",
-          "date": "2026-10-31",
-          "dateLabel": "10月31日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/020/488.htm",
+          "url": "https://www.qbitai.com/2026/10/506904.html",
           "image": "",
-          "color": "#d97706"
+          "color": "#7c3aed"
         },
         {
-          "id": "0bd7969ed690",
-          "title": "OpenAI 奥尔特曼谈内存短缺：全球 DRAM 应优先供给数据中心，闲置在玩家 PC 里是浪费",
-          "desc": "IT之家 10 月 31 日消息，OpenAI CEO 萨姆・奥尔特曼昨日在接受 YouTube 播客节目 Cheeky Pint 采访时论证了降低计算成本的必要性。他表示，在 DRAM 存储芯片供应紧张的情况下，将内存集中部署在数据中心并提高利用率，才能够更有效地利用有限的资源。奥尔特曼在节目中谈到了 AI 行业面临的全球算力供应问题，并以个人电脑运行本地 AI 模型为例，解释了自己的观点。随着",
-          "source": "IT之家",
+          "id": "35bb852b95d1",
+          "title": "你的8G iPad里有12G内存！库克走了但他的刀法追着我砍",
+          "desc": "苹果“牛奶倒河里”式操作翻红",
+          "source": "量子位",
           "date": "2026-10-31",
           "dateLabel": "10月31日",
           "tags": [
             "business"
           ],
-          "url": "https://www.ithome.com/1/020/483.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/4c2b95a7-7f3a-4f7b-9344-c306931dd342.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/10/506884.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "9ec8d4911cbc",
-          "title": "AI 热潮降温？消息称 OpenAI 最新融资目标缩水 100 亿美元，降幅 33%",
-          "desc": "IT之家 10 月 31 日消息，金融时报（FT）今天（10 月 31 日）发布博文，报道称 ChatGPT 开发商 OpenAI 已下调最新一轮融资目标，将原先的 300 亿美元（IT之家注：现汇率约合 2,000.87 亿元人民币）目标下调约 100 亿美元（现汇率约合 666.96 亿元人民币），目前正寻求以约 1.25 万亿美元（现汇率约合 8.34 万亿元人民币）估值融资约 200 亿美",
-          "source": "IT之家",
+          "id": "19b64f9a4cfb",
+          "title": "世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用",
+          "desc": "AI算力利用“九九成”",
+          "source": "量子位",
           "date": "2026-10-31",
           "dateLabel": "10月31日",
           "tags": [
-            "model",
             "business"
           ],
-          "url": "https://www.ithome.com/1/020/478.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/a10c936a-310f-447d-b63c-27fb22d6e533.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/10/506866.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "86467dff1623",
-          "title": "OpenCode 启动 Cheepseek 第四阶段：10 美元订阅享 100 美元 DeepSeek V4.1 Flash 额度",
-          "desc": "IT之家 10 月 31 日消息，AI 编程工具 OpenCode 今天（10 月 31 日）在 X 平台发布推文，宣布启动 Operation Cheepseek 第四阶段，订阅用户可使用价值 100 美元（现汇率约合 667 元人民币）的 DeepSeek V4.1 Flash 模型额度。IT之家注：Operation Cheepseek 是 OpenCode 推出的低成本高额度模型使用计划，",
-          "source": "IT之家",
+          "id": "37525cf40062",
+          "title": "刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」",
+          "desc": "200美元Ultra用户先用",
+          "source": "量子位",
           "date": "2026-10-31",
           "dateLabel": "10月31日",
           "tags": [
-            "model",
-            "business",
-            "cn"
+            "model"
           ],
-          "url": "https://www.ithome.com/1/020/474.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/d992ade2-4704-4c9f-848d-d7ca02f79fe2.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "178ba5bbcc7d",
-          "title": "Anthropic 出手：Claude Opus 5.5 不再帮你“AI 复刻游戏”",
-          "desc": "IT之家 10 月 31 日消息，游戏媒体 gamedeveloper 今天（10 月 31 日）发布博文，报道称 Anthropic 已在 AI 编程工具 Claude Code 中，限制 Opus 5.5 模型帮助用户复刻特定现有游戏。开发者 @chasmmmmmmmmmmm 昨日（10 月 30 日）在 X 平台发布推文，称 Claude Code 在 10 月 27 日前后，为 Opus ",
-          "source": "IT之家",
-          "date": "2026-10-31",
-          "dateLabel": "10月31日",
-          "tags": [
-            "model",
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/020/471.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/a1aea0c6-23cd-477b-b092-ebce25a31b15.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/10/506855.html",
+          "image": "",
+          "color": "#7c3aed"
         }
       ]
     },
@@ -130,89 +199,45 @@
       "id": "d30",
       "items": [
         {
-          "id": "93316e1e74cb",
-          "title": "英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成",
-          "desc": "英伟达与麻省理工学院团队，在 Hugging Face 发布了视频增强项目 Open-H3-Regenerate-2K 的模型权重",
+          "id": "9151a03abc80",
+          "title": "榜一，拿来吧你！智元这波双模型杀穿多榜榜单",
+          "desc": "xs，还要给机器人打绩效",
           "source": "量子位",
           "date": "2026-10-30",
           "dateLabel": "10月30日",
           "tags": [
-            "business",
+            "research"
+          ],
+          "url": "https://www.qbitai.com/2026/10/506819.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "9e1bfdbeb2bf",
+          "title": "AI零帧起手写算子，反超DeepSeek人类手写巅峰：快了9.8%！",
+          "desc": "之前还连登昇腾三榜第一",
+          "source": "量子位",
+          "date": "2026-10-30",
+          "dateLabel": "10月30日",
+          "tags": [
+            "model",
             "cn"
           ],
-          "url": "https://www.qbitai.com/2026/10/506743.html",
+          "url": "https://www.qbitai.com/2026/10/506785.html",
           "image": "",
           "color": "#7c3aed"
         },
         {
-          "id": "3281aa24b423",
-          "title": "RSI立大功！国产开源登顶全球第一，1.3B OXR重塑OCR",
-          "desc": "解析一切",
-          "source": "量子位",
-          "date": "2026-10-30",
-          "dateLabel": "10月30日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/10/506686.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "9571c704770a",
-          "title": "Claude新模型曝光：新Fable，新Opus…",
-          "desc": "Claude新模型曝光：新Fable，新Opus…",
-          "source": "量子位",
-          "date": "2026-10-30",
-          "dateLabel": "10月30日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://www.qbitai.com/2026/10/506674.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "f07e1403bc29",
-          "title": "从学习人类到学习机器人同伴，清华大学联合无问芯穹、智元提出具身智能规模化落地新路径",
-          "desc": "让机器人成为彼此的“老师”",
-          "source": "量子位",
-          "date": "2026-10-30",
-          "dateLabel": "10月30日",
-          "tags": [
-            "research",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/10/506662.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "ce91df698abc",
-          "title": "前排围观！MEET2027报名通道正式开启，首批重磅嘉宾已就位",
-          "desc": "前排围观！MEET2027报名通道正式开启，首批重磅嘉宾已就位",
+          "id": "6bca5271cd15",
+          "title": "“超能模式”重磅登场！联想天禧AI 4.5全端升级，三大场景打造“职场超能搭档”",
+          "desc": "10月30日，联想天禧AI 4.5迎来AIPC端正式发布。",
           "source": "量子位",
           "date": "2026-10-30",
           "dateLabel": "10月30日",
           "tags": [
             "business"
           ],
-          "url": "https://www.qbitai.com/2026/10/506609.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "7eac07b1d1f7",
-          "title": "买车送终身AI？智己LS8纯电版25万起！全系线控底盘宁德时代标配",
-          "desc": "Momenta世界模型上车",
-          "source": "量子位",
-          "date": "2026-10-30",
-          "dateLabel": "10月30日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/10/506569.html",
+          "url": "https://www.qbitai.com/2026/10/506779.html",
           "image": "",
           "color": "#7c3aed"
         }
@@ -2214,27 +2239,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-09-28",
-      "dateLabel": "9月28日",
-      "id": "d28",
-      "items": [
-        {
-          "id": "7dd8ceba44b0",
-          "title": "工业创新进入“组队局”，拆解西门子Xcelerator开放生态的赋能链路",
-          "desc": "工业平台已经卷到帮伙伴拿线索、做Agent、出海了",
-          "source": "量子位",
-          "date": "2026-09-28",
-          "dateLabel": "9月28日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/09/498877.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -2260,6 +2264,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-10-31 15:59",
+  "updateTime": "2026-11-01 16:41",
   "totalNews": 138
 }
