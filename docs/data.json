@@ -1,10 +1,161 @@
 {
   "newsData": [
     {
+      "date": "2026-11-02",
+      "dateLabel": "11月2日",
+      "id": "d02",
+      "items": [
+        {
+          "id": "89b5b89a1f9c",
+          "title": "央视严选「中国AI创业十骏」：唯一AI制药公司是清华系",
+          "desc": "模型管线双驱动",
+          "source": "量子位",
+          "date": "2026-11-02",
+          "dateLabel": "11月2日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/11/507150.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "d84fea07434f",
+          "title": "小米开源了个150元的AI小玩意，火到配件都涨价了",
+          "desc": "能指挥Agent干活，还能控制智能家居",
+          "source": "量子位",
+          "date": "2026-11-02",
+          "dateLabel": "11月2日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/11/507107.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "4a74cd32f7f2",
+          "title": "GPT-6.2 Astra开启灰测！Claude Mythos 5.5同日曝光",
+          "desc": "HuggingFace疑似泄露权重已被下5000次",
+          "source": "量子位",
+          "date": "2026-11-02",
+          "dateLabel": "11月2日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://www.qbitai.com/2026/11/507082.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "32b68a016564",
+          "title": "土耳其就谷歌搜索 AI 功能发起调查并实施临时监管举措",
+          "desc": "IT之家 11 月 2 日消息，土耳其竞争管理局当地时间今日宣布启动一项调查，以确定谷歌搜索服务中的“AI 概览”“AI 模式”功能是否违反了该国《竞争保护法》的规定。此次调查涵盖以下内容：“AI 概览”“AI 模式”功能如何改变用户获取信息的方式？这些改变是否对新闻出版商和其他内容创作者的流量产生了不利影响？与新闻出版商签订的关于内容使用的协议中是否包含不公平的合同条款？“AI 概览”“AI 模",
+          "source": "IT之家",
+          "date": "2026-11-02",
+          "dateLabel": "11月2日",
+          "tags": [
+            "policy"
+          ],
+          "url": "https://www.ithome.com/1/021/122.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/cad44ff5-453d-4e2e-94ba-5fb57d2e35e7.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "217ab223cb93",
+          "title": "首届 CMG 世界机器人登泰山大赛赛果出炉，最快 27 分 26 秒夺冠",
+          "desc": "IT之家 11 月 2 日消息，首届 CMG 世界机器人登泰山大赛于今日（11 月 2 日）在山东泰安正式开赛，近 90 支赛队同台竞技，在红门至中天门（3100 级台阶、600 米高差）千年盘道开启实景山地竞技比拼。据央视新闻报道，经过激烈角逐，多项冠军揭晓：人形机器人竞速赛的正赛赛段（红门广场 — 斗母宫），智身凌岳队以最终成绩 27 分 26 秒夺冠。人形机器人竞速赛挑战赛段（斗母宫 — 壶",
+          "source": "IT之家",
+          "date": "2026-11-02",
+          "dateLabel": "11月2日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.ithome.com/1/021/102.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/1a64f12d-b7e3-4975-aa24-61c1d91b7864.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "81046b18dc61",
+          "title": "三星计划 2030 年底前关闭 8 英寸晶圆代工所有产线",
+          "desc": "IT之家 11 月 2 日消息，据《科创板日报》报道，三星电子已决定全面退出 8 英寸晶圆代工业务，公司近期已通知客户，计划在 2030 年底前关闭所有相关生产线。IT之家注意到，此前，三星电子一直仅表示将逐步缩减 8 英寸生产线，此次则是首次明确提出业务退出的具体时间表，之后公司计划将人力和设备投资集中于基于 12 英寸晶圆先进制程。长期委托三星电子进行芯片生产的韩国本土无晶圆厂（Fabless",
+          "source": "IT之家",
+          "date": "2026-11-02",
+          "dateLabel": "11月2日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/021/101.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/f3297a18-dd2c-4817-b6f6-543889ce15da.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "155216b37931",
+          "title": "TrendForce 预测：AI CPU 需求强劲，高容量 MLCC 缺货将延续至 2027H1",
+          "desc": "IT之家 11 月 2 日消息，TrendForce（集邦）10 月 29 日发布预测，认为在人工智能计算负载转向推理和智能体的影响下，CPU 需求走强，带动高容量 MLCC（IT之家注：多层陶瓷电容器）需求激增。在上游 NVIDIA、AMD 新一代高规格 AI 算力平台放量的推动下，这类 MLCC 的缺货预计将持续到 2027 年上半年。此外，AI 基建带动光通信板块，光收发模块 MLCC 也出",
+          "source": "IT之家",
+          "date": "2026-11-02",
+          "dateLabel": "11月2日",
+          "tags": [
+            "research",
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/021/096.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/2/2857a9ea-26d0-417a-ac27-a774e9721d87.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "531866197fd7",
+          "title": "研究者在《我的世界》测试 AI 智能体集群：协作容易官僚化，对战 GPT 胜率更高",
+          "desc": "IT之家 11 月 2 日消息，Y Combinator 与 Olam Labs 的人工智能研究人员近期在游戏场景中测试了智能体集群。研究选用《我的世界》及其各类玩法作为试验沙盒，让上百个智能体在其中协作或者相互对抗。研究思路是，借助游戏内的协作与冲突，帮助人们理解现实世界里那些引发广泛关注的智能体事件。IT之家注意到，这项研究有助于厘清近期各类智能体集群事件里的利弊得失，方便技术开发者对相关能力",
+          "source": "IT之家",
+          "date": "2026-11-02",
+          "dateLabel": "11月2日",
+          "tags": [
+            "model",
+            "research"
+          ],
+          "url": "https://www.ithome.com/1/021/095.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/529bbb82-58d0-4f44-9d97-81ce667ff5da.jpg",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-11-01",
       "dateLabel": "11月1日",
       "id": "d01",
       "items": [
+        {
+          "id": "80ae0990087b",
+          "title": "三年前布局，今年爆火丨西湖大学成立新中心",
+          "desc": "西湖世界模型研究中心成立",
+          "source": "量子位",
+          "date": "2026-11-01",
+          "dateLabel": "11月1日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.qbitai.com/2026/11/507076.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "9a6d4b1990b5",
+          "title": "Claude紧急叫停！暗改Harness禁止逆向游戏",
+          "desc": "Claude紧急叫停！暗改Harness禁止逆向游戏",
+          "source": "量子位",
+          "date": "2026-11-01",
+          "dateLabel": "11月1日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://www.qbitai.com/2026/11/507038.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
         {
           "id": "421db8b0f130",
           "title": "清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考",
@@ -48,82 +199,6 @@
           "url": "https://www.qbitai.com/2026/11/506922.html",
           "image": "",
           "color": "#7c3aed"
-        },
-        {
-          "id": "402cb0f1a087",
-          "title": "上下水版 4599 → 1063 元：科沃斯 T50 PRO 扫拖机器人国补 2 折新低，81mm 纤薄机身",
-          "desc": "【京东活动可能随时变更，需以实付款为准】科沃斯 T50 PRO 扫拖机器人发布于 2024 年 9 月，该款扫拖机器人拥有 81mm 机身，支持 15800Pa 吸力（1.58 万 Pa 吸力），“上下水版”首发价 4599 元。京东 11.11 大促期间，按下方步骤下单，叠加 15% 国补后，“京东购物”小程序购物车结算，仅需 1063.92 元：领 9 折券：点此查看。下单时选择“以旧换新 →",
-          "source": "IT之家",
-          "date": "2026-11-01",
-          "dateLabel": "11月1日",
-          "tags": [
-            "model",
-            "research",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/020/760.htm",
-          "image": "https://img14.360buyimg.com/pop/jfs/t1/436276/17/14086/41880/6a0d2183Fa819f29a/0083320320f1a714.png",
-          "color": "#d97706"
-        },
-        {
-          "id": "cda066b05ba3",
-          "title": "消息称 AMD 拟计划本月再调涨 GPU + D6 显存套料供货成本",
-          "desc": "IT之家 11 月 1 日消息，据博板堂 / 视讯堂旗下“ChannelGate 视博合聚”爆料，AMD“将针对 GPU + D6 显存套料的供货成本再次执行上涨政策”，预计将继续影响 AMD 显卡 11 月份（本月）的成本价格走向。该消息源透露，AMD 现在每个季度都会根据 GPU 与显存颗粒成本的影响，立即执行新的供货成本价，对 GPU+ 显存供货成本及时涨价的，AMD 涨价风格是每个季度执行",
-          "source": "IT之家",
-          "date": "2026-11-01",
-          "dateLabel": "11月1日",
-          "tags": [
-            "business",
-            "policy"
-          ],
-          "url": "https://www.ithome.com/1/020/749.htm",
-          "image": "",
-          "color": "#d97706"
-        },
-        {
-          "id": "09f84d73d2a3",
-          "title": "AI 简历泛滥之下，Z 世代求职者开始担心自己“看起来像 AI”过不了初筛",
-          "desc": "IT之家 11 月 1 日消息，据科技媒体 TechRadar 今天报道，如今求职正变得越来越困难。应聘者不仅要应对 AI 初筛，还要努力让自己的遣词看起来更像真人，同时具备吸引人的特质。IT之家从原报道获悉，招聘平台 Greenhouse 近期对英国、爱尔兰地区 1100 多名求职者展开调查，结果发现 Z 世代求职者与 60 岁以上人士相比，对 AI 招聘初筛有着更深刻认知。在调查人群中，有 8",
-          "source": "IT之家",
-          "date": "2026-11-01",
-          "dateLabel": "11月1日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/020/747.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/d14cd0ed-4456-4a7e-8e08-0d0fd8b20717.jpg?x-bce-process=image/watermark,text_QUnnlJ_miJA,type_RlpMYW5UaW5nSGVpU0JHQg==,size_28,color_ffffffdd,skw_1,skc_00000051,g_7,blr_50,bls_50,x_11,y_11",
-          "color": "#d97706"
-        },
-        {
-          "id": "79297a659a88",
-          "title": "久多良木健：我们当年推出 PlayStation 并不是为了报复任天堂",
-          "desc": "IT之家 11 月 1 日消息，被誉为“索尼 PlayStation 之父”的久多良木健最近表示，他们当年开发 PlayStation 并不是为了向任天堂复仇。IT之家了解到，久多良木健在索尼任职工程师期间，为任天堂家用机 Super Famicom（SFC）打造过音频芯片。后来任天堂还和索尼进行过合作，开发名为 SFC 光盘驱动器外设，以及一款兼容卡带和 CD 的原型机“Play Station",
-          "source": "IT之家",
-          "date": "2026-11-01",
-          "dateLabel": "11月1日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/020/741.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2025/3/69f0de99-49a6-4aff-8c95-ed54da62d66a.jpg",
-          "color": "#d97706"
-        },
-        {
-          "id": "d230871bcf7f",
-          "title": "上市两月 2068 → 1288 元：小米米家扫拖机器人 7C 新低，支持滚筒活水增压拖地",
-          "desc": "小米米家扫拖机器人 7C 今年 8 月 27 日开售，京东首发国补到手价 2068 元。今日 11.11 加码仅需 1288 元即可入手，大降价：下单时选择“以旧换新” → 个护健康 → 电动牙刷（不回收）京东米家扫地机器人 7C 水箱版券后 1299 元领 8.8 折券京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次：点此抽取。IT之家从商品页面获悉，这款新品支持滚筒活水拖地，",
-          "source": "IT之家",
-          "date": "2026-11-01",
-          "dateLabel": "11月1日",
-          "tags": [
-            "research",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/020/740.htm",
-          "image": "https://img14.360buyimg.com/pop/jfs/t1/508134/9/1278/18457/6a82a774F6eb7e7fd/0083320320479f04.png",
-          "color": "#d97706"
         }
       ]
     },
@@ -160,34 +235,6 @@
             "business"
           ],
           "url": "https://www.qbitai.com/2026/10/506884.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "19b64f9a4cfb",
-          "title": "世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用",
-          "desc": "AI算力利用“九九成”",
-          "source": "量子位",
-          "date": "2026-10-31",
-          "dateLabel": "10月31日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/10/506866.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "37525cf40062",
-          "title": "刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」",
-          "desc": "200美元Ultra用户先用",
-          "source": "量子位",
-          "date": "2026-10-31",
-          "dateLabel": "10月31日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://www.qbitai.com/2026/10/506855.html",
           "image": "",
           "color": "#7c3aed"
         }
@@ -2204,41 +2251,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-09-29",
-      "dateLabel": "9月29日",
-      "id": "d29",
-      "items": [
-        {
-          "id": "62d855e060f4",
-          "title": "OpenAI光速上新GPT-6.1 Sol！一晚上25项更新，都在这里了",
-          "desc": "今年devday牙膏挤爆",
-          "source": "量子位",
-          "date": "2026-09-29",
-          "dateLabel": "9月29日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://www.qbitai.com/2026/09/499246.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "65adeae300ae",
-          "title": "正行创新联合创始人杨宇欣正式亮相：出任总裁，负责全球业务拓展",
-          "desc": "推动公司具身模型、本体、软件等全栈能力进入更多真实场景",
-          "source": "量子位",
-          "date": "2026-09-29",
-          "dateLabel": "9月29日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/09/499239.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -2264,6 +2276,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-11-01 16:41",
-  "totalNews": 138
+  "updateTime": "2026-11-02 16:52",
+  "totalNews": 139
 }
