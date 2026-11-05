@@ -1,126 +1,149 @@
 {
   "newsData": [
     {
-      "date": "2026-11-04",
-      "dateLabel": "11月4日",
-      "id": "d04",
+      "date": "2026-11-05",
+      "dateLabel": "11月5日",
+      "id": "d05",
       "items": [
         {
-          "id": "6b01aafbd0b9",
-          "title": "让Agent首次拥有“视听双流记忆”：openJiuwen Agent-Memory看懂长视频，关键事件一个不落",
-          "desc": "长视频记忆精度飙升，问答时延最高降97%",
+          "id": "f515e0d2145d",
+          "title": "百度开源文心5.5 Flash Base，多基准测试刷新同尺寸模型 SOTA",
+          "desc": "11月5日，百度正式开源最新基座模型文心5.5 Flash Base",
           "source": "量子位",
-          "date": "2026-11-04",
-          "dateLabel": "11月4日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/11/507533.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "f7ff514465e5",
-          "title": "Netflix 上线 AI Discover 标签页，可按照用户心情推荐影视内容",
-          "desc": "IT之家 11 月 4 日消息，Netflix 当地时间周二宣布，推出一个名为“AI Discover”的全新标签页，让用户尝试通过新的方式寻找下一部想看的影视作品。该标签页上线后的首项实验功能，将根据用户当下的心情和观看需求提供内容推荐。据IT之家了解，用户可以从一系列经过策划的主题中进行选择，这些主题会展示相关影视剧的片段，并根据用户的心情、观看偏好、可支配时间，以及最新和热门内容进行分类。主",
-          "source": "IT之家",
-          "date": "2026-11-04",
-          "dateLabel": "11月4日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/022/254.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/0b380e38-58da-4193-bdde-c1fbaf2e0628.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "5573ef303ecf",
-          "title": "微软 XGP 订阅 11 月第一波入库阵容公布：含《足球经理 27》等游戏",
-          "desc": "IT之家 11 月 4 日消息，微软今日公布 XBOX Game Pass 订阅服务 11 月第 1 波入库游戏阵容。本月的领衔作品有《足球经理 27》等。游戏名入库时间覆盖层级支持平台《足球经理 27》（首发）现已上线Ultimate 和 PCPC《吸血鬼爬行者》11 月 4 日Premium云游戏、Xbox Series X|S、掌机、PC《Void/Breaker》11 月 4 日Ultim",
-          "source": "IT之家",
-          "date": "2026-11-04",
-          "dateLabel": "11月4日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/022/248.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/de5ed032-c4c1-402f-a4ba-5d6b8aa6e76f.png",
-          "color": "#d97706"
-        },
-        {
-          "id": "5f010725f6c6",
-          "title": "电网接入周期漫长，AI 数据中心改装飞机发动机自主发电",
-          "desc": "IT之家 11 月 4 日消息，由于接入电网和新建发电机组需要排队等待数年，一些 AI 数据中心开始改造退役喷气式飞机发动机，将其用作发电设备。据《纽约时报》报道称，这些发动机经过改装后可以燃烧天然气，为数据中心提供电力。这些发动机来自退役飞机，经过重新制造后改用天然气驱动，显然不是永久性发电厂。但它们也反映出一个现实：电力供应已经远远跟不上 AI 数据中心的建设速度。对于那些苦等电网接入的企业而",
-          "source": "IT之家",
-          "date": "2026-11-04",
-          "dateLabel": "11月4日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/022/243.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/50d07c2f-15d9-4c87-92c1-e686ddc959f1.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "e9c15b52fa41",
-          "title": "微软 Rewards 奖励计划上新：国区 7,500 积分可兑 30 天B站大会员",
-          "desc": "IT之家 11 月 4 日消息，微软 Microsoft Rewards 奖励计划现已上新，国区用户可以使用 7,500 积分兑换 B 站 30 天大会员，相应兑换码先到先得，有效期至 11 月 20 日，IT之家附参与地址（https://rewards.bing.com/ redeem/sku/000499036904）。IT之家注意到，目前国区用户还可以使用 Rewards 积分兑换滴滴 8",
-          "source": "IT之家",
-          "date": "2026-11-04",
-          "dateLabel": "11月4日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/022/233.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/f6ce557c-74ae-48fe-97f1-8e9a9fd96ca6.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "b2a56ac96939",
-          "title": "Anthropic 正开发 FlashProve 开源系统：用密码学证明 AI 输出来自哪个模型",
-          "desc": "IT之家 11 月 4 日消息，Anthropic 正在开发一套开源系统，用于验证某一 AI 输出究竟由哪个模型生成。根据该公司周二发布的一篇博客文章，这套名为 FlashProve 的系统旨在实现研究人员所称的“可证明推理”（provable inference）：通过密码学证明，为特定输出提供数学层面的保证，证明其确实来自某个指定模型。借助这套系统，用户可以确认自己收到的答案是否真的由其认为正",
-          "source": "IT之家",
-          "date": "2026-11-04",
-          "dateLabel": "11月4日",
+          "date": "2026-11-05",
+          "dateLabel": "11月5日",
           "tags": [
             "model",
             "research",
             "business",
             "cn"
           ],
-          "url": "https://www.ithome.com/1/022/231.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/ee3722f1-3062-42a7-b858-0c840e43d5b9.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/11/507787.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "4b1343fb8660",
-          "title": "谷歌为 Google 通讯录 / 信息 / 电话推送新版图标，覆盖安卓系统应用及网页服务",
-          "desc": "IT之家 11 月 4 日消息，谷歌在其博客发文，透露正陆续向 Android 设备推送新版 Google 通讯录、Google 信息和 Google 电话应用图标。据谷歌介绍，此次视觉调整主要是为了让应用图标在手机主屏幕上更加醒目、清晰。开发团队重新调整了图标边缘的弧度，使整体造型更加圆润，同时将原本较为单一的纯色背景改为色彩更加丰富的渐变效果，让图标看起来更具层次感和动感。需要注意的是，此次更",
-          "source": "IT之家",
-          "date": "2026-11-04",
-          "dateLabel": "11月4日",
+          "id": "e9ed8cd1dd04",
+          "title": "MIT神作被锤：Astra爆改Qwen权重？就吹吧！",
+          "desc": "spaCy作者长文炮轰",
+          "source": "量子位",
+          "date": "2026-11-05",
+          "dateLabel": "11月5日",
           "tags": [
             "business"
           ],
-          "url": "https://www.ithome.com/1/022/229.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/e1e01e99-ed92-4b0a-87bc-3846b433edec.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/11/507782.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "1fec5d1658df",
-          "title": "OpenAI 展示员工“副业”硬件成果：一周出图、一月出样，外壳、电路板、固件 AI 全包办",
-          "desc": "IT之家 11 月 4 日消息，OpenAI 公司昨日（11 月 3 日）发布博文，公布 AI 辅助实体产品研发的最新进展，展示 GPT‑6 Astra 在机械、电路及软件协同设计中的应用，并宣布与马自达开展研究合作，将模型用于汽车设计与仿真评估。IT之家附上相关视频如下：在 AI 辅助实体产品研发方面，OpenAI 称两名团队成员利用业余时间，在不到一周内借助 Astra 完成一款可与 Code",
-          "source": "IT之家",
-          "date": "2026-11-04",
-          "dateLabel": "11月4日",
+          "id": "b02d1656fe93",
+          "title": "以“真实工作”检验机器人价值，XROGO在CeMAT ASIA发布机器人到岗计划",
+          "desc": "像雇人一样雇机器人",
+          "source": "量子位",
+          "date": "2026-11-05",
+          "dateLabel": "11月5日",
           "tags": [
-            "model",
             "research",
             "business"
           ],
-          "url": "https://www.ithome.com/1/022/204.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/c5826f6f-8a0c-48f5-afbd-1c36831db8a5.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/11/507767.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "389dd5874156",
+          "title": "基于本体+知识+Harness+Datat Agent的智能体完整落地链路！",
+          "desc": "Data + AI 技术实践巡展 · 上海站",
+          "source": "量子位",
+          "date": "2026-11-05",
+          "dateLabel": "11月5日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/11/507696.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "fe0f6170d8a7",
+          "title": "GPT-Image-2.6全量上线！直出GIF和SVG，6.2 Astra也现身了",
+          "desc": "最快6秒出图",
+          "source": "量子位",
+          "date": "2026-11-05",
+          "dateLabel": "11月5日",
+          "tags": [
+            "model",
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/11/507707.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "6d80e97bda68",
+          "title": "Linux内核被挖出948个漏洞！OpenAI花120万美元找到的",
+          "desc": "被轰成筛子了…",
+          "source": "量子位",
+          "date": "2026-11-05",
+          "dateLabel": "11月5日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/11/507697.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "c5fdd71bfbaa",
+          "title": "太初元碁入选2026年世界互联网大会领先科技奖收录成果集《科技之魅》",
+          "desc": "11月2日，2026年世界互联网大会领先科技奖收录成果集《科技之魅》正式对外发布。",
+          "source": "量子位",
+          "date": "2026-11-05",
+          "dateLabel": "11月5日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/11/507688.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "0ca0d2cc641a",
+          "title": "从3D生成到世界模型，这家AI公司想和年轻人一起定义问题",
+          "desc": "薪资+期权不限！实习生也能训核心模型",
+          "source": "量子位",
+          "date": "2026-11-05",
+          "dateLabel": "11月5日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/11/507675.html",
+          "image": "",
+          "color": "#7c3aed"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "dateLabel": "11月4日",
+      "id": "d04",
+      "items": [
+        {
+          "id": "ba0358826489",
+          "title": "百度无人车搞出“黑客帝国”！世界模型实时推演全局，跑一天抵三年",
+          "desc": "连路人都有自己的想法",
+          "source": "量子位",
+          "date": "2026-11-04",
+          "dateLabel": "11月4日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/11/507647.html",
+          "image": "",
+          "color": "#7c3aed"
         }
       ]
     },
@@ -2288,42 +2311,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-10-02",
-      "dateLabel": "10月2日",
-      "id": "d02",
-      "items": [
-        {
-          "id": "8a3aed5c47a2",
-          "title": "openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗",
-          "desc": "让每一次请求选对模型，让每一次反馈都成为下一次更优、更省的选择",
-          "source": "量子位",
-          "date": "2026-10-02",
-          "dateLabel": "10月2日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/10/500098.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "eb295060cfc7",
-          "title": "丘成桐新论文致谢了GPT和Claude",
-          "desc": "44年前被亲自列入问题清单",
-          "source": "量子位",
-          "date": "2026-10-02",
-          "dateLabel": "10月2日",
-          "tags": [
-            "model",
-            "research"
-          ],
-          "url": "https://www.qbitai.com/2026/10/499991.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -2349,6 +2336,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-11-04 16:35",
-  "totalNews": 144
+  "updateTime": "2026-11-05 16:56",
+  "totalNews": 143
 }
