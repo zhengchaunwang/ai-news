@@ -1,125 +1,175 @@
 {
   "newsData": [
     {
+      "date": "2026-11-06",
+      "dateLabel": "11月6日",
+      "id": "d06",
+      "items": [
+        {
+          "id": "2c3589d2e0bb",
+          "title": "DeepSeek带火稀疏计算，国产芯片公司加速突围：这家公司又融近10亿",
+          "desc": "Q3营收实现数倍增长",
+          "source": "量子位",
+          "date": "2026-11-06",
+          "dateLabel": "11月6日",
+          "tags": [
+            "model",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/11/508155.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "eadd198f71e0",
+          "title": "一边赛博修仙，一边卖家电！AI短剧开始冲双11业绩了？",
+          "desc": "挑战商业视频的高难度场景",
+          "source": "量子位",
+          "date": "2026-11-06",
+          "dateLabel": "11月6日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/11/508118.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "d198626e632f",
+          "title": "从RSI、Agent、Physical AI到整个系统栈，2026 奇点智能技术大会最新日程公布！",
+          "desc": "11 月 20—21 日，2026 奇点智能技术大会将在北京万达文华酒店举行。",
+          "source": "量子位",
+          "date": "2026-11-06",
+          "dateLabel": "11月6日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/11/508143.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "53c1b6f6e6c4",
+          "title": "99.4%登顶全球第一！这个中国AI师承世界冠军",
+          "desc": "一举刷新「AI安全世界杯」CyberGym世界纪录",
+          "source": "量子位",
+          "date": "2026-11-06",
+          "dateLabel": "11月6日",
+          "tags": [
+            "policy",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/11/508107.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "ef1ede628908",
+          "title": "香港金融科技周 x StartmeupHK 2026主论坛：以「金融+」、「AI+」及全球拓展开拓新机遇",
+          "desc": "香港金融科技周 x StartmeupHK 2026踏入第11届",
+          "source": "量子位",
+          "date": "2026-11-06",
+          "dateLabel": "11月6日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/11/507988.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "9279a60b3eb1",
+          "title": "AI短剧门槛降降降！实测即梦短剧工作室：剧本分镜预演一条龙，伙伴计划长期护航",
+          "desc": "Seedance 2.5 单秒低至0.15元",
+          "source": "量子位",
+          "date": "2026-11-06",
+          "dateLabel": "11月6日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/11/507972.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "8dabffd8ee47",
+          "title": "腾讯 Hy4 调用激增已十倍扩容，Agent 能力开源模型第一",
+          "desc": "11月 5 日，腾讯宣布因 Hy4 调用激增，WorkBuddy 已进行十倍扩容",
+          "source": "量子位",
+          "date": "2026-11-06",
+          "dateLabel": "11月6日",
+          "tags": [
+            "model",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/11/507967.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "dee6de004bb6",
+          "title": "QQ 鸿蒙版 App 发布 9.2.80 正式版更新：空间相册支持 AI 修复、简洁模式上线",
+          "desc": "IT之家 11 月 6 日消息，QQ 鸿蒙版 App 今日在华为应用市场（App Gallery）发布了 9.2.80 (3592) 正式版更新。IT之家附 QQ 鸿蒙版 App 新功能如下：空间说说新增查看浏览量群通知体验升级纯文本消息支持部分选中空间相册新增支持 AI 修复群禁言支持定时和单独成员禁言聊天新增支持号码识别QQ 群文件功能体验优化新增支持简洁模式目前 QQ 鸿蒙版获 5.1 万个",
+          "source": "IT之家",
+          "date": "2026-11-06",
+          "dateLabel": "11月6日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/023/411.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/c928d03a-c220-44dd-8d88-d6eafc6cb426.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-11-05",
       "dateLabel": "11月5日",
       "id": "d05",
       "items": [
         {
-          "id": "f515e0d2145d",
-          "title": "百度开源文心5.5 Flash Base，多基准测试刷新同尺寸模型 SOTA",
-          "desc": "11月5日，百度正式开源最新基座模型文心5.5 Flash Base",
-          "source": "量子位",
-          "date": "2026-11-05",
-          "dateLabel": "11月5日",
-          "tags": [
-            "model",
-            "research",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/11/507787.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "e9ed8cd1dd04",
-          "title": "MIT神作被锤：Astra爆改Qwen权重？就吹吧！",
-          "desc": "spaCy作者长文炮轰",
+          "id": "589df108f36b",
+          "title": "孩子的人生大事，你要怎样的AI？海亮科服把AI生涯规划带给更多家庭",
+          "desc": "基础规划免费！",
           "source": "量子位",
           "date": "2026-11-05",
           "dateLabel": "11月5日",
           "tags": [
             "business"
           ],
-          "url": "https://www.qbitai.com/2026/11/507782.html",
+          "url": "https://www.qbitai.com/2026/11/507919.html",
           "image": "",
           "color": "#7c3aed"
         },
         {
-          "id": "b02d1656fe93",
-          "title": "以“真实工作”检验机器人价值，XROGO在CeMAT ASIA发布机器人到岗计划",
-          "desc": "像雇人一样雇机器人",
-          "source": "量子位",
-          "date": "2026-11-05",
-          "dateLabel": "11月5日",
-          "tags": [
-            "research",
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/11/507767.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "389dd5874156",
-          "title": "基于本体+知识+Harness+Datat Agent的智能体完整落地链路！",
-          "desc": "Data + AI 技术实践巡展 · 上海站",
-          "source": "量子位",
-          "date": "2026-11-05",
-          "dateLabel": "11月5日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/11/507696.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "fe0f6170d8a7",
-          "title": "GPT-Image-2.6全量上线！直出GIF和SVG，6.2 Astra也现身了",
-          "desc": "最快6秒出图",
-          "source": "量子位",
-          "date": "2026-11-05",
-          "dateLabel": "11月5日",
-          "tags": [
-            "model",
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/11/507707.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "6d80e97bda68",
-          "title": "Linux内核被挖出948个漏洞！OpenAI花120万美元找到的",
-          "desc": "被轰成筛子了…",
+          "id": "97d90cc0f3a0",
+          "title": "三条AI技术路线终将合流？智象创始人梅涛提出智能体化的世界模型",
+          "desc": "走向“智能体化世界模型”。",
           "source": "量子位",
           "date": "2026-11-05",
           "dateLabel": "11月5日",
           "tags": [
             "business"
           ],
-          "url": "https://www.qbitai.com/2026/11/507697.html",
+          "url": "https://www.qbitai.com/2026/11/507834.html",
           "image": "",
           "color": "#7c3aed"
         },
         {
-          "id": "c5fdd71bfbaa",
-          "title": "太初元碁入选2026年世界互联网大会领先科技奖收录成果集《科技之魅》",
-          "desc": "11月2日，2026年世界互联网大会领先科技奖收录成果集《科技之魅》正式对外发布。",
+          "id": "d62fe033c2b9",
+          "title": "拼多多让年轻人造草莓工厂，170天后“答案”熟了",
+          "desc": "拼多多把农创赛搬出了PPT。",
           "source": "量子位",
           "date": "2026-11-05",
           "dateLabel": "11月5日",
           "tags": [
             "business"
           ],
-          "url": "https://www.qbitai.com/2026/11/507688.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "0ca0d2cc641a",
-          "title": "从3D生成到世界模型，这家AI公司想和年轻人一起定义问题",
-          "desc": "薪资+期权不限！实习生也能训核心模型",
-          "source": "量子位",
-          "date": "2026-11-05",
-          "dateLabel": "11月5日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/11/507675.html",
+          "url": "https://www.qbitai.com/2026/11/507823.html",
           "image": "",
           "color": "#7c3aed"
         }
@@ -2261,56 +2311,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-10-03",
-      "dateLabel": "10月3日",
-      "id": "d03",
-      "items": [
-        {
-          "id": "14be4ea05b51",
-          "title": "DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师",
-          "desc": "岗位JD甩了篇技术报告",
-          "source": "量子位",
-          "date": "2026-10-03",
-          "dateLabel": "10月3日",
-          "tags": [
-            "model",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/10/501381.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "73db40be5cb8",
-          "title": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
-          "desc": "又咋啦。。。",
-          "source": "量子位",
-          "date": "2026-10-03",
-          "dateLabel": "10月3日",
-          "tags": [
-            "policy"
-          ],
-          "url": "https://www.qbitai.com/2026/10/501368.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "0a0c6dc29e1f",
-          "title": "Jev估值100亿美元！创始人Diogo Almeida回答一切",
-          "desc": "Jev估值100亿美元！创始人Diogo Almeida回答一切",
-          "source": "量子位",
-          "date": "2026-10-03",
-          "dateLabel": "10月3日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/10/500148.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -2336,6 +2336,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-11-05 16:56",
+  "updateTime": "2026-11-06 16:55",
   "totalNews": 143
 }
