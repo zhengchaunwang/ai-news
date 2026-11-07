@@ -1,6 +1,136 @@
 {
   "newsData": [
     {
+      "date": "2026-11-07",
+      "dateLabel": "11月7日",
+      "id": "d07",
+      "items": [
+        {
+          "id": "6fd81d312497",
+          "title": "Anthropic 神秘模型“立功”，AI 帮助攻克量子计算领域重大难题",
+          "desc": "IT之家 11 月 7 日消息，据《商业内幕》今天（7 日）上午报道，AI 帮助攻克了量子计算领域一项长期悬而未决的重大难题。物理研究机构 Physical Superintelligence（PSI）宣布，借助 Anthropic 一款尚未发布的 AI 模型，量子计算领域的阿伦森－安拜尼斯猜想成功得到证明。这项猜想自 2008 年提出以来一直未获证明，研究的是量子计算机在何种条件下能够获得远超传",
+          "source": "IT之家",
+          "date": "2026-11-07",
+          "dateLabel": "11月7日",
+          "tags": [
+            "research",
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/023/752.htm",
+          "image": "",
+          "color": "#d97706"
+        },
+        {
+          "id": "e413bc800969",
+          "title": "“超视距安全预警”可识别结冰等危险路况并提示，吉利发布首个车道级气象环境监测大模型",
+          "desc": "IT之家 11 月 7 日消息，11 月 5 日，吉利汽车集团与中国气象局地球系统数值预报中心正式签署战略合作框架协议。双方联合推出行业首个“智象-星睿交通气象大模型”，该模型聚焦结冰、团雾等极端气象场景，可实现车道级气象环境实时监测与提示，为进一步提升复杂天气条件下的行车安全与自动驾驶系统可靠运行提供支撑。其中针对能见度骤然下降、暗冰在特定桥面或背阴路段形成、暴雨在局地路段造成积水等这些“看得见",
+          "source": "IT之家",
+          "date": "2026-11-07",
+          "dateLabel": "11月7日",
+          "tags": [
+            "model",
+            "business",
+            "policy",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/023/749.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/b8e9f238-3482-4ae4-9622-dc0327a2a09b.gif",
+          "color": "#d97706"
+        },
+        {
+          "id": "0a484c666d7f",
+          "title": "Meta 推出基于 Muse Wonder 训练的现有模型专用版本，主动记忆与专注能力下放",
+          "desc": "IT之家 11 月 7 日消息，Meta 在上月发布了 Muse Wonder 系列模型。当地时间 11 月 6 日，Meta 宣布推出基于 Muse Wonder 训练的现有模型专用版本，并全面推送给 Muse 与 Meta AI 用户。在发布 Muse Wonder 时，Meta 首次推出了主动记忆（Active Memory）与主动专注（Active Focus）两项核心特性。如今这两项能力",
+          "source": "IT之家",
+          "date": "2026-11-07",
+          "dateLabel": "11月7日",
+          "tags": [
+            "research",
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/023/744.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/4d60a9ab-d706-47f2-bfd5-1b49ce887a94.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "bf5ddd6d5442",
+          "title": "奔驰承认 L3 自动驾驶推进得“太超前”：当下专心搞 L2、未来直接上 L4",
+          "desc": "IT之家 11 月 7 日消息，作为最早一批在美国推出 L3 级自动驾驶的车企，奔驰近期的动作却略显反常 —— 登陆当地市场的最新款 S 级没有配备这项技术。随着奔驰将重心转向更先进的驾驶辅助系统，其自动驾驶技术路线也发生了变化。奔驰 CTO 约尔格 · 布尔策近日在媒体圆桌会议上接受外媒 Road & Track 采访时谈到，早年率先推出 L3 级自动驾驶技术，让奔驰明白了一个道理：抢先推出新技",
+          "source": "IT之家",
+          "date": "2026-11-07",
+          "dateLabel": "11月7日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/023/737.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/2391066a-1819-48e7-9a8c-fb2d84297985.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "f0e388a2489b",
+          "title": "DeepSeek 网页 / API 服务突发部分中断，提示“服务器暂时不可用”",
+          "desc": "IT之家 11 月 7 日消息，据多位IT之家网友反馈，DeepSeek 今日突发出现服务问题，对话提示“服务器暂时不可用”。此外，DeepSeek 官方服务状态页面显示，DeepSeek 网页 / API 服务出现部分中断，官方正在排查问题，目前已中断超 3 分钟。",
+          "source": "IT之家",
+          "date": "2026-11-07",
+          "dateLabel": "11月7日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/023/697.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/ad5211ab-04f2-460a-9189-6c0c3fa88b8c.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "e29a25480079",
+          "title": "国行 Siri AI 新线索：苹果 iOS 27.3 首个开发者预览版新增专属功能 Flag",
+          "desc": "IT之家 11 月 7 日消息，消息源 @itspdfu 今天（11 月 7 日）在 X 平台发布推文，报道称苹果公司正努力在中国大陆引入 Siri AI，在 iOS 27.3 首个开发者预览版 Beta 系统中已添加相关的功能标志。消息源称在 iOS 27.3 系统中，苹果公司为 IntelligenceFlow 新增了一个名为 LinwoodChinaMainland 的功能标志（featur",
+          "source": "IT之家",
+          "date": "2026-11-07",
+          "dateLabel": "11月7日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/023/696.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/7fbb18b5-b599-4606-8177-032f40a8c588.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "5a7e74aea4c3",
+          "title": "员工用 AI 辅助办公被开除，法院判决公司赔偿 4.6 万",
+          "desc": "IT之家 11 月 7 日消息，据央视财经今日报道，吴女士在一家保险公司担任法务，2024 年 7 月，为优化工作流程、提升 PPT 制作及数据分析效率，她将自行整理加工后的公司稽核问题数据表，上传至公司部门领导和直属领导多次推荐的第三方 AI 平台用于辅助办公。不料一个月后她竟被公司以“严重违反信息安全等相关规定”为由解除了劳动合同。吴女士向北京市朝阳区劳动人事争议仲裁委员会申请仲裁，法院经审理",
+          "source": "IT之家",
+          "date": "2026-11-07",
+          "dateLabel": "11月7日",
+          "tags": [
+            "business",
+            "policy",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/023/695.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/cb77d1f1-2ecf-4631-af70-28bcaf892937.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "42739416490c",
+          "title": "全新里程碑：全国首个非侵入式脑机接口项目完成 818 号令备案",
+          "desc": "IT之家 11 月 7 日消息，11 月 4 日，由天津大学脑机交互与人机共融海河实验室（以下简称“实验室”）团队研发，依托天津市环湖医院开展临床工作，燧世（天津）智能科技有限公司、北京品驰医疗设备股份有限公司协同制备的《SCS 联合无创脑控混动外骨骼训练治疗慢性卒中下肢运动障碍的安全性与可行性探索研究》项目，正式完成国家生物医学新技术临床研究 818 号令备案。IT之家注：国务院第 818 号令",
+          "source": "IT之家",
+          "date": "2026-11-07",
+          "dateLabel": "11月7日",
+          "tags": [
+            "research",
+            "policy",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/023/693.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/3b662c6d-2e0f-4ef4-81c6-78673dd9e3cb.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-11-06",
       "dateLabel": "11月6日",
       "id": "d06",
@@ -108,21 +238,6 @@
           "url": "https://www.qbitai.com/2026/11/507967.html",
           "image": "",
           "color": "#7c3aed"
-        },
-        {
-          "id": "dee6de004bb6",
-          "title": "QQ 鸿蒙版 App 发布 9.2.80 正式版更新：空间相册支持 AI 修复、简洁模式上线",
-          "desc": "IT之家 11 月 6 日消息，QQ 鸿蒙版 App 今日在华为应用市场（App Gallery）发布了 9.2.80 (3592) 正式版更新。IT之家附 QQ 鸿蒙版 App 新功能如下：空间说说新增查看浏览量群通知体验升级纯文本消息支持部分选中空间相册新增支持 AI 修复群禁言支持定时和单独成员禁言聊天新增支持号码识别QQ 群文件功能体验优化新增支持简洁模式目前 QQ 鸿蒙版获 5.1 万个",
-          "source": "IT之家",
-          "date": "2026-11-06",
-          "dateLabel": "11月6日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/023/411.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/c928d03a-c220-44dd-8d88-d6eafc6cb426.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
         }
       ]
     },
@@ -2275,42 +2390,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-10-04",
-      "dateLabel": "10月4日",
-      "id": "d04",
-      "items": [
-        {
-          "id": "bd518e8b23e7",
-          "title": "AI算力硬合作，马斯克还是更相信中国制造",
-          "desc": "一种混搭的可能：英特尔继续供先进工艺，即前端用14A；后端再接台积电，来补工厂运营、良率、封装这些能力。",
-          "source": "量子位",
-          "date": "2026-10-04",
-          "dateLabel": "10月4日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/10/501605.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "585da9204b3b",
-          "title": "最火AI岗位FDE：月薪5万，都干这些…",
-          "desc": "什么是FDE？它会一直存在吗？",
-          "source": "量子位",
-          "date": "2026-10-04",
-          "dateLabel": "10月4日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/10/501506.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -2336,6 +2415,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-11-06 16:55",
-  "totalNews": 143
+  "updateTime": "2026-11-07 16:17",
+  "totalNews": 148
 }
