@@ -1,132 +1,235 @@
 {
   "newsData": [
     {
+      "date": "2026-11-08",
+      "dateLabel": "11月8日",
+      "id": "d08",
+      "items": [
+        {
+          "id": "aa8831021558",
+          "title": "资本正在撤离“世界模型”",
+          "desc": "没有永远的夏天",
+          "source": "量子位",
+          "date": "2026-11-08",
+          "dateLabel": "11月8日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/11/508466.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "c2d3bc6dad9b",
+          "title": "物理智能开源平台 Hitch Open 在进博会发布，142 拍刷新 AI 机器人乒乓对打世界纪录",
+          "desc": "IT之家 11 月 8 日消息，据临港集团，11 月 7 日，第九届中国国际进口博览会迎来物理智能领域全球首秀。来自美国加州硅谷、学术底座源自加州大学伯克利分校的全球物理智能开源平台 Hitch Open，在进博会临港展示区举行全球发布会，正式面向全球开源发布物理智能平台。 IT之家获悉，现场完成 AI 自主决策机器人乒乓对打挑战，由上海交通大学 — 上海创智学院高岳教授团队与 Hitch Ope",
+          "source": "IT之家",
+          "date": "2026-11-08",
+          "dateLabel": "11月8日",
+          "tags": [
+            "research",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/023/920.htm",
+          "image": "",
+          "color": "#d97706"
+        },
+        {
+          "id": "962eb1b4d70b",
+          "title": "上纬新材刘东方：当前启元机器人的月活超过 98%，平均每位用户每天交互 100 多次",
+          "desc": "IT之家 11 月 8 日消息，上纬新材启元机器人第 10,000 台个人机器人正式下线。上纬新材启元机器人联席总裁、Q 业务部总裁刘东方介绍：当前启元机器人的月活超过 98%，日均在线峰值超过 40%，日均在线时长 3 小时，平均每位用户每天交互 100 多次。IT之家注意到，在量产现场，刘东方将编号为“NO.10000”的启元 Q1 交付给代表用户吴晓波。据介绍，3 天前，启元机器人完成了对启",
+          "source": "IT之家",
+          "date": "2026-11-08",
+          "dateLabel": "11月8日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.ithome.com/1/023/917.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/897c3ebc-12af-4e59-ba85-894d4d3138c1.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "12c4b4c335f4",
+          "title": "国家能源局：在算力等新兴产业带动下，我国用电需求仍将刚性增长、预计相当于每年新增 3 个上海市的用电量",
+          "desc": "IT之家 11 月 8 日消息，11 月 6 日，国家发展改革委举行奋进“十五五”系列新闻发布会，介绍筑牢安全底座有关情况。国家能源局发展规划司副司长葛炬在发布会上表示，“十五五”时期，在算力等新兴产业带动下，我国用电需求仍将刚性增长，预计年均增量将达到 6000 亿度左右，相当于每年新增 3 个上海市的用电量。为做好电力保供，我们建立了电力供应充裕度预警机制，提出 2030 年电力供应充裕度大于",
+          "source": "IT之家",
+          "date": "2026-11-08",
+          "dateLabel": "11月8日",
+          "tags": [
+            "business",
+            "policy",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/023/911.htm",
+          "image": "",
+          "color": "#d97706"
+        },
+        {
+          "id": "91de36eb0ec5",
+          "title": "前 Rockstar 技术总监：爱好者“AI 移植游戏潮”或迫使官方加速发布《GTA6》PC 版",
+          "desc": "IT之家 11 月 8 日消息，前 Rockstar 技术总监 Obbe Vermeij 近日接受外媒《Rock Paper Shotgun》采访时表示，随着 AI  模型逐渐具备反编译和移植游戏的能力，Rockstar 可能已调整《GTA6》的 PC 版发行策略，避免黑客提前将主机平台的《GTA6》打包为可在 PC 平台运行的移植版本，进而影响游戏销量。Vermeij 表示，近几个月 AI 技术",
+          "source": "IT之家",
+          "date": "2026-11-08",
+          "dateLabel": "11月8日",
+          "tags": [
+            "research",
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/023/908.htm",
+          "image": "",
+          "color": "#d97706"
+        },
+        {
+          "id": "5afae9c99529",
+          "title": "NASA 发布月球基地建设与核动力月球车发射新规划，SpaceX、蓝色起源等竞争百亿美元合同",
+          "desc": "IT之家 11 月 8 日消息，美国国家航空航天局（NASA）于当地时间周六公布最新规划，旨在拓展月球基地项目的探测、科研以及基础设施建设能力。NASA 正联合美国本土企业，计划在月球南极实现长期驻留；本次资金投入将用于推进商业机器人货运任务、名为 PROMISE 的核动力月球车、发射与轨道转移服务以及月面基础设施建设。月球基地货运着陆器首先来看月球基地货运着陆器，NASA 选定八家企业进入商业月",
+          "source": "IT之家",
+          "date": "2026-11-08",
+          "dateLabel": "11月8日",
+          "tags": [
+            "model",
+            "research",
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/023/907.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/c590fa9f-b757-4ed6-81c9-330757d02dcf.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "78e66e99681b",
+          "title": "微软：正持续优化 Win11 内存占用，26H2 版本下 8GB RAM 机型特定场景表现可“对标”2021 年 16GB RAM 机器",
+          "desc": "IT之家 11 月 8 日消息，微软发布博客文章，称 Windows 开发团队正在持续优化系统占用，如今安装了最新 Windows 11 26H2 版本、配备 8GB RAM 笔记本在多项日常及高负载任务中的表现已接近 2021 年 Windows 11 刚发布时的 16GB RAM 笔记本。微软 Windows 业务负责人帕万・达武卢里（Pavan Davuluri）介绍称，Windows 多年",
+          "source": "IT之家",
+          "date": "2026-11-08",
+          "dateLabel": "11月8日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/023/906.htm",
+          "image": "",
+          "color": "#d97706"
+        },
+        {
+          "id": "5fef6764ab83",
+          "title": "伯恩斯坦：OpenAI 至 2030 年算力基础设施支出或达 6140 亿美元，低于此前 7500 亿美元传闻",
+          "desc": "IT之家 11 月 8 日消息，据智通财经报道，伯恩斯坦分析师 MarkMoerdler 估算，OpenAI 已披露的算力合作协议对应的基础设施支出，到 2030 年累计可能达到 6,140 亿美元（IT之家注：现汇率约合 4.11 万亿元人民币），明显低于《华尔街日报》此前传出的 7,500 亿美元（现汇率约合 5.02 万亿元人民币）。据报道，该测算假设所有已识别合同均按计划执行，但实际支出可",
+          "source": "IT之家",
+          "date": "2026-11-08",
+          "dateLabel": "11月8日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/023/905.htm",
+          "image": "",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-11-07",
       "dateLabel": "11月7日",
       "id": "d07",
       "items": [
         {
-          "id": "6fd81d312497",
-          "title": "Anthropic 神秘模型“立功”，AI 帮助攻克量子计算领域重大难题",
-          "desc": "IT之家 11 月 7 日消息，据《商业内幕》今天（7 日）上午报道，AI 帮助攻克了量子计算领域一项长期悬而未决的重大难题。物理研究机构 Physical Superintelligence（PSI）宣布，借助 Anthropic 一款尚未发布的 AI 模型，量子计算领域的阿伦森－安拜尼斯猜想成功得到证明。这项猜想自 2008 年提出以来一直未获证明，研究的是量子计算机在何种条件下能够获得远超传",
-          "source": "IT之家",
+          "id": "92b3673bd010",
+          "title": "GitHub不堪重负！OpenAI收购替代品，A社原地自研，马斯克也要搞",
+          "desc": "AI写代码太快，基础设施跟不上了",
+          "source": "量子位",
           "date": "2026-11-07",
           "dateLabel": "11月7日",
           "tags": [
-            "research",
-            "business"
+            "policy"
           ],
-          "url": "https://www.ithome.com/1/023/752.htm",
+          "url": "https://www.qbitai.com/2026/11/508449.html",
           "image": "",
-          "color": "#d97706"
+          "color": "#7c3aed"
         },
         {
-          "id": "e413bc800969",
-          "title": "“超视距安全预警”可识别结冰等危险路况并提示，吉利发布首个车道级气象环境监测大模型",
-          "desc": "IT之家 11 月 7 日消息，11 月 5 日，吉利汽车集团与中国气象局地球系统数值预报中心正式签署战略合作框架协议。双方联合推出行业首个“智象-星睿交通气象大模型”，该模型聚焦结冰、团雾等极端气象场景，可实现车道级气象环境实时监测与提示，为进一步提升复杂天气条件下的行车安全与自动驾驶系统可靠运行提供支撑。其中针对能见度骤然下降、暗冰在特定桥面或背阴路段形成、暴雨在局地路段造成积水等这些“看得见",
-          "source": "IT之家",
-          "date": "2026-11-07",
-          "dateLabel": "11月7日",
-          "tags": [
-            "model",
-            "business",
-            "policy",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/023/749.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/b8e9f238-3482-4ae4-9622-dc0327a2a09b.gif",
-          "color": "#d97706"
-        },
-        {
-          "id": "0a484c666d7f",
-          "title": "Meta 推出基于 Muse Wonder 训练的现有模型专用版本，主动记忆与专注能力下放",
-          "desc": "IT之家 11 月 7 日消息，Meta 在上月发布了 Muse Wonder 系列模型。当地时间 11 月 6 日，Meta 宣布推出基于 Muse Wonder 训练的现有模型专用版本，并全面推送给 Muse 与 Meta AI 用户。在发布 Muse Wonder 时，Meta 首次推出了主动记忆（Active Memory）与主动专注（Active Focus）两项核心特性。如今这两项能力",
-          "source": "IT之家",
-          "date": "2026-11-07",
-          "dateLabel": "11月7日",
-          "tags": [
-            "research",
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/023/744.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/4d60a9ab-d706-47f2-bfd5-1b49ce887a94.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "bf5ddd6d5442",
-          "title": "奔驰承认 L3 自动驾驶推进得“太超前”：当下专心搞 L2、未来直接上 L4",
-          "desc": "IT之家 11 月 7 日消息，作为最早一批在美国推出 L3 级自动驾驶的车企，奔驰近期的动作却略显反常 —— 登陆当地市场的最新款 S 级没有配备这项技术。随着奔驰将重心转向更先进的驾驶辅助系统，其自动驾驶技术路线也发生了变化。奔驰 CTO 约尔格 · 布尔策近日在媒体圆桌会议上接受外媒 Road & Track 采访时谈到，早年率先推出 L3 级自动驾驶技术，让奔驰明白了一个道理：抢先推出新技",
-          "source": "IT之家",
+          "id": "3e1d1fda4d7f",
+          "title": "OpenAI新融资到账110亿美元，不及原计划一半",
+          "desc": "融资缩水，硅谷投资人也谨慎了",
+          "source": "量子位",
           "date": "2026-11-07",
           "dateLabel": "11月7日",
           "tags": [
             "business"
           ],
-          "url": "https://www.ithome.com/1/023/737.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/2391066a-1819-48e7-9a8c-fb2d84297985.png",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/11/508344.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "f0e388a2489b",
-          "title": "DeepSeek 网页 / API 服务突发部分中断，提示“服务器暂时不可用”",
-          "desc": "IT之家 11 月 7 日消息，据多位IT之家网友反馈，DeepSeek 今日突发出现服务问题，对话提示“服务器暂时不可用”。此外，DeepSeek 官方服务状态页面显示，DeepSeek 网页 / API 服务出现部分中断，官方正在排查问题，目前已中断超 3 分钟。",
-          "source": "IT之家",
+          "id": "a10d4ba92ee6",
+          "title": "为了去AI味，人类开始主动写烂文章了……",
+          "desc": "需要说明的是，这并不意味着不会说人话就一定是人，也不意味着说人话的就一定不是AI.......",
+          "source": "量子位",
+          "date": "2026-11-07",
+          "dateLabel": "11月7日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/11/508330.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "d270dfc94fec",
+          "title": "抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？",
+          "desc": "苦单Session久矣，两大Agent玩家不谋而合。",
+          "source": "量子位",
           "date": "2026-11-07",
           "dateLabel": "11月7日",
           "tags": [
             "model",
             "cn"
           ],
-          "url": "https://www.ithome.com/1/023/697.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/ad5211ab-04f2-460a-9189-6c0c3fa88b8c.jpg",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/11/508264.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "e29a25480079",
-          "title": "国行 Siri AI 新线索：苹果 iOS 27.3 首个开发者预览版新增专属功能 Flag",
-          "desc": "IT之家 11 月 7 日消息，消息源 @itspdfu 今天（11 月 7 日）在 X 平台发布推文，报道称苹果公司正努力在中国大陆引入 Siri AI，在 iOS 27.3 首个开发者预览版 Beta 系统中已添加相关的功能标志。消息源称在 iOS 27.3 系统中，苹果公司为 IntelligenceFlow 新增了一个名为 LinwoodChinaMainland 的功能标志（featur",
-          "source": "IT之家",
+          "id": "24fae3fe60b8",
+          "title": "AGENTS.MD，危险危险危险！！！",
+          "desc": "全新的电脑病毒",
+          "source": "量子位",
+          "date": "2026-11-07",
+          "dateLabel": "11月7日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/11/508244.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "46170ddec587",
+          "title": "浙大00后博士生再交卷！把十几种物理要素装进一个世界模型｜华为昇腾原生",
+          "desc": "中国版cosmos再交卷",
+          "source": "量子位",
           "date": "2026-11-07",
           "dateLabel": "11月7日",
           "tags": [
             "business",
             "cn"
           ],
-          "url": "https://www.ithome.com/1/023/696.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/7fbb18b5-b599-4606-8177-032f40a8c588.png",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/11/508236.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "5a7e74aea4c3",
-          "title": "员工用 AI 辅助办公被开除，法院判决公司赔偿 4.6 万",
-          "desc": "IT之家 11 月 7 日消息，据央视财经今日报道，吴女士在一家保险公司担任法务，2024 年 7 月，为优化工作流程、提升 PPT 制作及数据分析效率，她将自行整理加工后的公司稽核问题数据表，上传至公司部门领导和直属领导多次推荐的第三方 AI 平台用于辅助办公。不料一个月后她竟被公司以“严重违反信息安全等相关规定”为由解除了劳动合同。吴女士向北京市朝阳区劳动人事争议仲裁委员会申请仲裁，法院经审理",
-          "source": "IT之家",
+          "id": "576763dfa76b",
+          "title": "Jeff Dean李飞飞最新对谈：全是RSI非共识",
+          "desc": "RSI不可能无限快",
+          "source": "量子位",
           "date": "2026-11-07",
           "dateLabel": "11月7日",
           "tags": [
-            "business",
-            "policy",
-            "cn"
+            "business"
           ],
-          "url": "https://www.ithome.com/1/023/695.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/cb77d1f1-2ecf-4631-af70-28bcaf892937.jpg",
-          "color": "#d97706"
-        },
-        {
-          "id": "42739416490c",
-          "title": "全新里程碑：全国首个非侵入式脑机接口项目完成 818 号令备案",
-          "desc": "IT之家 11 月 7 日消息，11 月 4 日，由天津大学脑机交互与人机共融海河实验室（以下简称“实验室”）团队研发，依托天津市环湖医院开展临床工作，燧世（天津）智能科技有限公司、北京品驰医疗设备股份有限公司协同制备的《SCS 联合无创脑控混动外骨骼训练治疗慢性卒中下肢运动障碍的安全性与可行性探索研究》项目，正式完成国家生物医学新技术临床研究 818 号令备案。IT之家注：国务院第 818 号令",
-          "source": "IT之家",
-          "date": "2026-11-07",
-          "dateLabel": "11月7日",
-          "tags": [
-            "research",
-            "policy",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/023/693.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/3b662c6d-2e0f-4ef4-81c6-78673dd9e3cb.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/11/508196.html",
+          "image": "",
+          "color": "#7c3aed"
         }
       ]
     },
@@ -136,106 +239,30 @@
       "id": "d06",
       "items": [
         {
-          "id": "2c3589d2e0bb",
-          "title": "DeepSeek带火稀疏计算，国产芯片公司加速突围：这家公司又融近10亿",
-          "desc": "Q3营收实现数倍增长",
-          "source": "量子位",
-          "date": "2026-11-06",
-          "dateLabel": "11月6日",
-          "tags": [
-            "model",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/11/508155.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "eadd198f71e0",
-          "title": "一边赛博修仙，一边卖家电！AI短剧开始冲双11业绩了？",
-          "desc": "挑战商业视频的高难度场景",
+          "id": "d7c7bb323505",
+          "title": "A\\三大内部模型曝光！领先Opus5.5三个月，RSI缩短80%实验时间",
+          "desc": "Dario刚喊减速…",
           "source": "量子位",
           "date": "2026-11-06",
           "dateLabel": "11月6日",
           "tags": [
             "business"
           ],
-          "url": "https://www.qbitai.com/2026/11/508118.html",
+          "url": "https://www.qbitai.com/2026/11/508184.html",
           "image": "",
           "color": "#7c3aed"
         },
         {
-          "id": "d198626e632f",
-          "title": "从RSI、Agent、Physical AI到整个系统栈，2026 奇点智能技术大会最新日程公布！",
-          "desc": "11 月 20—21 日，2026 奇点智能技术大会将在北京万达文华酒店举行。",
-          "source": "量子位",
-          "date": "2026-11-06",
-          "dateLabel": "11月6日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/11/508143.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "53c1b6f6e6c4",
-          "title": "99.4%登顶全球第一！这个中国AI师承世界冠军",
-          "desc": "一举刷新「AI安全世界杯」CyberGym世界纪录",
-          "source": "量子位",
-          "date": "2026-11-06",
-          "dateLabel": "11月6日",
-          "tags": [
-            "policy",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/11/508107.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "ef1ede628908",
-          "title": "香港金融科技周 x StartmeupHK 2026主论坛：以「金融+」、「AI+」及全球拓展开拓新机遇",
-          "desc": "香港金融科技周 x StartmeupHK 2026踏入第11届",
+          "id": "14fb21ccc3f2",
+          "title": "为什么每个 Personal Agent 背后，都必须配备一台“云电脑”？",
+          "desc": "PPIO 沙箱，把“云电脑”做成开箱即用的 API",
           "source": "量子位",
           "date": "2026-11-06",
           "dateLabel": "11月6日",
           "tags": [
             "business"
           ],
-          "url": "https://www.qbitai.com/2026/11/507988.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "9279a60b3eb1",
-          "title": "AI短剧门槛降降降！实测即梦短剧工作室：剧本分镜预演一条龙，伙伴计划长期护航",
-          "desc": "Seedance 2.5 单秒低至0.15元",
-          "source": "量子位",
-          "date": "2026-11-06",
-          "dateLabel": "11月6日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/11/507972.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "8dabffd8ee47",
-          "title": "腾讯 Hy4 调用激增已十倍扩容，Agent 能力开源模型第一",
-          "desc": "11月 5 日，腾讯宣布因 Hy4 调用激增，WorkBuddy 已进行十倍扩容",
-          "source": "量子位",
-          "date": "2026-11-06",
-          "dateLabel": "11月6日",
-          "tags": [
-            "model",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/11/507967.html",
+          "url": "https://www.qbitai.com/2026/11/508174.html",
           "image": "",
           "color": "#7c3aed"
         }
@@ -2341,55 +2368,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-10-05",
-      "dateLabel": "10月5日",
-      "id": "d05",
-      "items": [
-        {
-          "id": "3d373331a1b2",
-          "title": "刚刚，诺贝尔奖颁给光遗传学！",
-          "desc": "从绿藻里的光开关，到控制神经元",
-          "source": "量子位",
-          "date": "2026-10-05",
-          "dateLabel": "10月5日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/10/501720.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "13bc54a5bf32",
-          "title": "刚刚，Hinton发了首篇RSI论文",
-          "desc": "AI已经开始真正进入「造下一代AI」的流水线",
-          "source": "量子位",
-          "date": "2026-10-05",
-          "dateLabel": "10月5日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://www.qbitai.com/2026/10/501705.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "fbd8dea09a15",
-          "title": "限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus",
-          "desc": "有改进就体验，没改进就重置，横竖不亏。",
-          "source": "量子位",
-          "date": "2026-10-05",
-          "dateLabel": "10月5日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/10/501700.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -2415,6 +2393,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-11-07 16:17",
-  "totalNews": 148
+  "updateTime": "2026-11-08 16:35",
+  "totalNews": 147
 }
