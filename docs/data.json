@@ -1,10 +1,147 @@
 {
   "newsData": [
     {
+      "date": "2026-11-09",
+      "dateLabel": "11月9日",
+      "id": "d09",
+      "items": [
+        {
+          "id": "3cea9c337222",
+          "title": "千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了",
+          "desc": "11月9日，千问办公发布2.0版本",
+          "source": "量子位",
+          "date": "2026-11-09",
+          "dateLabel": "11月9日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/11/508694.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "abf2612ddf75",
+          "title": "叙事奔涌，何以为锚?丨第 20 届中国投资年会·有限合伙人峰会即将启幕",
+          "desc": "厘清故事与现实的边界，回归投资与产业的底层逻辑。",
+          "source": "量子位",
+          "date": "2026-11-09",
+          "dateLabel": "11月9日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/11/508690.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "0fa3018e541e",
+          "title": "L3大撤退！奔驰宝马官宣不玩了：还没L2好用",
+          "desc": "最早量产的亲自泼冷水",
+          "source": "量子位",
+          "date": "2026-11-09",
+          "dateLabel": "11月9日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/11/508629.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "3f3747d71424",
+          "title": "AI接管一家8万Star开源公司，写代码、派任务、查Bug全包了",
+          "desc": "Worker不够了主管Agent还能自己招！",
+          "source": "量子位",
+          "date": "2026-11-09",
+          "dateLabel": "11月9日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/11/508607.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "54375381ccca",
+          "title": "基元律动发布NeoHorse-1.5-Flash Preview，Agent模型RSI进入第二轮迭代",
+          "desc": "11月5日，基元律动（TokenRhythm）发布Agent原生模型NeoHorse-1.5-Flash Preview。",
+          "source": "量子位",
+          "date": "2026-11-09",
+          "dateLabel": "11月9日",
+          "tags": [
+            "model",
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/11/508603.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "96c4c0096be4",
+          "title": "当AI在加速狂奔，什么反而应该“慢”下来？",
+          "desc": "“让人放心，把人放大。”",
+          "source": "量子位",
+          "date": "2026-11-09",
+          "dateLabel": "11月9日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/11/508586.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "15f20f7c174b",
+          "title": "寻找最会讲故事的AI创作者，虎鲸文娱鲸锐AI创作大赛走进清华大学",
+          "desc": "11月6日，清华大学举行“新技术激发文化新活力，用AI讲好中国故事”鲸锐AI创作大赛大咖对谈活动",
+          "source": "量子位",
+          "date": "2026-11-09",
+          "dateLabel": "11月9日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/11/508566.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "f126a9ee305e",
+          "title": "黄仁勋承认出轨发全员信道歉！英伟达启动紧急调查",
+          "desc": "英伟达暗盘跌2%",
+          "source": "量子位",
+          "date": "2026-11-09",
+          "dateLabel": "11月9日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/11/508498.html",
+          "image": "",
+          "color": "#7c3aed"
+        }
+      ]
+    },
+    {
       "date": "2026-11-08",
       "dateLabel": "11月8日",
       "id": "d08",
       "items": [
+        {
+          "id": "7f52edf42552",
+          "title": "终端侧AI：从单点应用走向智能体体验",
+          "desc": "高通在第九届进博会展出端侧MoE智能体",
+          "source": "量子位",
+          "date": "2026-11-08",
+          "dateLabel": "11月8日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/11/508478.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
         {
           "id": "aa8831021558",
           "title": "资本正在撤离“世界模型”",
@@ -18,111 +155,6 @@
           "url": "https://www.qbitai.com/2026/11/508466.html",
           "image": "",
           "color": "#7c3aed"
-        },
-        {
-          "id": "c2d3bc6dad9b",
-          "title": "物理智能开源平台 Hitch Open 在进博会发布，142 拍刷新 AI 机器人乒乓对打世界纪录",
-          "desc": "IT之家 11 月 8 日消息，据临港集团，11 月 7 日，第九届中国国际进口博览会迎来物理智能领域全球首秀。来自美国加州硅谷、学术底座源自加州大学伯克利分校的全球物理智能开源平台 Hitch Open，在进博会临港展示区举行全球发布会，正式面向全球开源发布物理智能平台。 IT之家获悉，现场完成 AI 自主决策机器人乒乓对打挑战，由上海交通大学 — 上海创智学院高岳教授团队与 Hitch Ope",
-          "source": "IT之家",
-          "date": "2026-11-08",
-          "dateLabel": "11月8日",
-          "tags": [
-            "research",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/023/920.htm",
-          "image": "",
-          "color": "#d97706"
-        },
-        {
-          "id": "962eb1b4d70b",
-          "title": "上纬新材刘东方：当前启元机器人的月活超过 98%，平均每位用户每天交互 100 多次",
-          "desc": "IT之家 11 月 8 日消息，上纬新材启元机器人第 10,000 台个人机器人正式下线。上纬新材启元机器人联席总裁、Q 业务部总裁刘东方介绍：当前启元机器人的月活超过 98%，日均在线峰值超过 40%，日均在线时长 3 小时，平均每位用户每天交互 100 多次。IT之家注意到，在量产现场，刘东方将编号为“NO.10000”的启元 Q1 交付给代表用户吴晓波。据介绍，3 天前，启元机器人完成了对启",
-          "source": "IT之家",
-          "date": "2026-11-08",
-          "dateLabel": "11月8日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://www.ithome.com/1/023/917.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/897c3ebc-12af-4e59-ba85-894d4d3138c1.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "12c4b4c335f4",
-          "title": "国家能源局：在算力等新兴产业带动下，我国用电需求仍将刚性增长、预计相当于每年新增 3 个上海市的用电量",
-          "desc": "IT之家 11 月 8 日消息，11 月 6 日，国家发展改革委举行奋进“十五五”系列新闻发布会，介绍筑牢安全底座有关情况。国家能源局发展规划司副司长葛炬在发布会上表示，“十五五”时期，在算力等新兴产业带动下，我国用电需求仍将刚性增长，预计年均增量将达到 6000 亿度左右，相当于每年新增 3 个上海市的用电量。为做好电力保供，我们建立了电力供应充裕度预警机制，提出 2030 年电力供应充裕度大于",
-          "source": "IT之家",
-          "date": "2026-11-08",
-          "dateLabel": "11月8日",
-          "tags": [
-            "business",
-            "policy",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/023/911.htm",
-          "image": "",
-          "color": "#d97706"
-        },
-        {
-          "id": "91de36eb0ec5",
-          "title": "前 Rockstar 技术总监：爱好者“AI 移植游戏潮”或迫使官方加速发布《GTA6》PC 版",
-          "desc": "IT之家 11 月 8 日消息，前 Rockstar 技术总监 Obbe Vermeij 近日接受外媒《Rock Paper Shotgun》采访时表示，随着 AI  模型逐渐具备反编译和移植游戏的能力，Rockstar 可能已调整《GTA6》的 PC 版发行策略，避免黑客提前将主机平台的《GTA6》打包为可在 PC 平台运行的移植版本，进而影响游戏销量。Vermeij 表示，近几个月 AI 技术",
-          "source": "IT之家",
-          "date": "2026-11-08",
-          "dateLabel": "11月8日",
-          "tags": [
-            "research",
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/023/908.htm",
-          "image": "",
-          "color": "#d97706"
-        },
-        {
-          "id": "5afae9c99529",
-          "title": "NASA 发布月球基地建设与核动力月球车发射新规划，SpaceX、蓝色起源等竞争百亿美元合同",
-          "desc": "IT之家 11 月 8 日消息，美国国家航空航天局（NASA）于当地时间周六公布最新规划，旨在拓展月球基地项目的探测、科研以及基础设施建设能力。NASA 正联合美国本土企业，计划在月球南极实现长期驻留；本次资金投入将用于推进商业机器人货运任务、名为 PROMISE 的核动力月球车、发射与轨道转移服务以及月面基础设施建设。月球基地货运着陆器首先来看月球基地货运着陆器，NASA 选定八家企业进入商业月",
-          "source": "IT之家",
-          "date": "2026-11-08",
-          "dateLabel": "11月8日",
-          "tags": [
-            "model",
-            "research",
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/023/907.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/c590fa9f-b757-4ed6-81c9-330757d02dcf.png",
-          "color": "#d97706"
-        },
-        {
-          "id": "78e66e99681b",
-          "title": "微软：正持续优化 Win11 内存占用，26H2 版本下 8GB RAM 机型特定场景表现可“对标”2021 年 16GB RAM 机器",
-          "desc": "IT之家 11 月 8 日消息，微软发布博客文章，称 Windows 开发团队正在持续优化系统占用，如今安装了最新 Windows 11 26H2 版本、配备 8GB RAM 笔记本在多项日常及高负载任务中的表现已接近 2021 年 Windows 11 刚发布时的 16GB RAM 笔记本。微软 Windows 业务负责人帕万・达武卢里（Pavan Davuluri）介绍称，Windows 多年",
-          "source": "IT之家",
-          "date": "2026-11-08",
-          "dateLabel": "11月8日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/023/906.htm",
-          "image": "",
-          "color": "#d97706"
-        },
-        {
-          "id": "5fef6764ab83",
-          "title": "伯恩斯坦：OpenAI 至 2030 年算力基础设施支出或达 6140 亿美元，低于此前 7500 亿美元传闻",
-          "desc": "IT之家 11 月 8 日消息，据智通财经报道，伯恩斯坦分析师 MarkMoerdler 估算，OpenAI 已披露的算力合作协议对应的基础设施支出，到 2030 年累计可能达到 6,140 亿美元（IT之家注：现汇率约合 4.11 万亿元人民币），明显低于《华尔街日报》此前传出的 7,500 亿美元（现汇率约合 5.02 万亿元人民币）。据报道，该测算假设所有已识别合同均按计划执行，但实际支出可",
-          "source": "IT之家",
-          "date": "2026-11-08",
-          "dateLabel": "11月8日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/023/905.htm",
-          "image": "",
-          "color": "#d97706"
         }
       ]
     },
@@ -2347,27 +2379,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-10-06",
-      "dateLabel": "10月6日",
-      "id": "d06",
-      "items": [
-        {
-          "id": "b669a271d49f",
-          "title": "刚刚，诺贝尔物理奖一人独揽！",
-          "desc": "南极洲甚至有一座高地以他名字命名",
-          "source": "量子位",
-          "date": "2026-10-06",
-          "dateLabel": "10月6日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/10/501746.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -2393,6 +2404,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-11-08 16:35",
-  "totalNews": 147
+  "updateTime": "2026-11-09 17:05",
+  "totalNews": 148
 }
