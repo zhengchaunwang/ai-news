@@ -1,10 +1,164 @@
 {
   "newsData": [
     {
+      "date": "2026-11-10",
+      "dateLabel": "11月10日",
+      "id": "d10",
+      "items": [
+        {
+          "id": "0af186857462",
+          "title": "摩托罗拉宽折叠手机 Razr Flex 2027 首次官网确认，将配高通第五代骁龙 8 芯片",
+          "desc": "IT之家 11 月 10 日消息，科技媒体 9to5Google 昨日（11 月 9 日）发布博文，报道称在澳大利亚摩托罗拉官方支持页面，出现了“motorola razr flex – 2027”的踪迹，首次在官方支持文档中出现宽折叠手机 Razr Flex 2027，上市后将会和苹果 iPhone Duo 正面竞争。不过本次官方支持文档并未提供其它有用信息，只显示这款折叠手机将于 2027 年",
+          "source": "IT之家",
+          "date": "2026-11-10",
+          "dateLabel": "11月10日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/024/921.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/6f5ab92f-8649-4d28-ac75-4888c14b26c5.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "a9992c82fc8d",
+          "title": "任天堂账户“轻松登入”功能 2027 年 1 月 26 日下线",
+          "desc": "IT之家 11 月 10 日消息，根据任天堂官方声明，Nintendo Account “轻松登入”功能将于 2027 年 1 月 26 日 15:00（北京时间）下线。Nintendo Account“轻松登入”目前仅剩对谷歌 / 苹果账号资料的支持。该功能下线后，任天堂也将不再支持以谷歌 / 苹果账号资料建立 Nintendo Account。My Nintendo 点数计划中与谷歌账号的连动",
+          "source": "IT之家",
+          "date": "2026-11-10",
+          "dateLabel": "11月10日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/024/905.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/50329c01-a0b1-4c66-94e6-d0409b8980ac.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "cb2e0a0b2f25",
+          "title": "影目科技宣布召回 4701 副 INMO AIR3 智能眼镜，将进行 OTA 免费升级",
+          "desc": "IT之家 11 月 10 日消息，IT之家从国家市场监督管理总局获悉，日前，四川影目科技有限公司按照《消费品召回管理暂行规定》的要求，主动向国家市场监督管理总局和四川省市场监督管理局报告了召回计划。将自即日起，召回 2025 年 5 月-2026 年 6 月期间制造的部分 INMO AIR3 智能眼镜，共计 4701 副。本次召回范围内的 INMO AIR3 智能眼镜，在搭载部分未经官方测试的第三",
+          "source": "IT之家",
+          "date": "2026-11-10",
+          "dateLabel": "11月10日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/024/893.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/10522a9b-86ba-49eb-bf95-c336dffea4d3.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "c7c6aaf5b807",
+          "title": "万代南梦宫解散并清算 Reflector，计提 2100 万欧元亏损",
+          "desc": "IT之家 11 月 10 日消息，Bandai Namco（万代南梦宫）当地时间今日宣布，董事会决议清算欧洲部门下属的加拿大游戏开发商 Reflector Entertainment，并因此计提约 2,100 万欧元（IT之家注：现汇率约合 1.57 亿元人民币）亏损。Reflector Entertainment 在 2024 年推出了动作冒险游戏《无名九使：觉醒》(Unknown 9: Awa",
+          "source": "IT之家",
+          "date": "2026-11-10",
+          "dateLabel": "11月10日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/024/889.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/ca78ba5d-ac7e-40de-ae43-8314126ddb9d.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "de86b6998b1e",
+          "title": "官方正在修复：Claude Code 被爆把密码写进项目文件，GitHub 上发现 2539 个真实凭据",
+          "desc": "IT之家 11 月 10 日消息，科技媒体 Ars Technica 昨日（11 月 9 日）发布博文，指出 AI 编程智能体 Claude Code 正在把部分开发者的敏感凭据意外暴露到公开的 GitHub 仓库中。安全公司 Apiiro 的研究人员发现，超过 10 万份 Claude Code 本地设置文件被上传至公共仓库，其中约 1,100 份文件含有数据库密码、API Token、私钥或 ",
+          "source": "IT之家",
+          "date": "2026-11-10",
+          "dateLabel": "11月10日",
+          "tags": [
+            "model",
+            "research",
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/024/888.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/0b955661-03bc-4ce8-93d4-9f1cc363e24a.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "cc2360b87cbd",
+          "title": "泰国给数据中心戴上“紧箍咒”：噪音限 70 分贝，温升不超 2 摄氏度",
+          "desc": "IT之家 11 月 10 日消息，据彭博社报道，随着人工智能投资热潮推动数据中心建设迅速扩张，泰国出台了针对数据中心噪音、热量和用水的新规定，为这一快速发展的行业设定了明确的环境限制。泰国经济规划机构秘书长丹努查 · 皮查亚南（Danucha Pichayanan）周二表示，内阁已批准相关规定。根据新规，数据中心的不间断电源系统运行时，噪音必须控制在约 70 分贝（A 计权分贝，dBA）以内。这一",
+          "source": "IT之家",
+          "date": "2026-11-10",
+          "dateLabel": "11月10日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/024/887.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/4/f0ab67e6-9e71-4d95-ac65-31fa692dae0a.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "842848a4059e",
+          "title": "国产再突破：中微公司首台等离子体晶圆切割设备成功交付国内重要集成电路封装客户",
+          "desc": "IT之家 11 月 10 日消息，中微半导体设备（上海）股份有限公司（简称“中微公司”）近日发布其全新产品 ——Primo Matrix 双反应台等离子体晶圆切割设备，今日宣布首台设备已顺利付运国内重要集成电路封装客户。随着先进封装技术成为延续摩尔定律的重要路径，晶圆切割作为封装工艺中的关键环节，直接影响芯片良率与生产效率。针对先进封装对高精度、低损伤、窄切割道的迫切需求，中微公司在等离子晶圆切割",
+          "source": "IT之家",
+          "date": "2026-11-10",
+          "dateLabel": "11月10日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/024/884.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/668e7354-6395-4b9f-b609-b7b76f1b1e36.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "eadf3392569d",
+          "title": "太空建造迈出关键一步：机器人首次在太空自主组装天线桁架，未来或建造千米级结构",
+          "desc": "IT之家 11 月 10 日消息，将大型设备送入地球轨道并不容易。如果先把大量小型零部件送上太空，再在轨道上将它们组装成大型结构，难度可能更低，但传统方案往往仍需要宇航员参与。考虑到太空环境充满辐射，宇航员在轨道上工作的时间自然是越短越好。由美国加州理工学院（Caltech）研发、美国国防高级研究计划局（DARPA）资助的一款机器人，近日展示了一种新的太空建造方案：其成功在轨道上将独立零部件组装成",
+          "source": "IT之家",
+          "date": "2026-11-10",
+          "dateLabel": "11月10日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.ithome.com/1/024/880.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/880d3617-9077-44ad-ad49-d586fe9cf135.jpg",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-11-09",
       "dateLabel": "11月9日",
       "id": "d09",
       "items": [
+        {
+          "id": "a8725fc0f103",
+          "title": "“AI毁了我的计算机学位”",
+          "desc": "教授也用Claude糊弄…",
+          "source": "量子位",
+          "date": "2026-11-09",
+          "dateLabel": "11月9日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://www.qbitai.com/2026/11/508706.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "09cd48fd0bbb",
+          "title": "腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满",
+          "desc": "腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满",
+          "source": "量子位",
+          "date": "2026-11-09",
+          "dateLabel": "11月9日",
+          "tags": [
+            "model",
+            "research",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/11/507843.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
         {
           "id": "3cea9c337222",
           "title": "千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了",
@@ -89,35 +243,6 @@
             "business"
           ],
           "url": "https://www.qbitai.com/2026/11/508586.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "15f20f7c174b",
-          "title": "寻找最会讲故事的AI创作者，虎鲸文娱鲸锐AI创作大赛走进清华大学",
-          "desc": "11月6日，清华大学举行“新技术激发文化新活力，用AI讲好中国故事”鲸锐AI创作大赛大咖对谈活动",
-          "source": "量子位",
-          "date": "2026-11-09",
-          "dateLabel": "11月9日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/11/508566.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "f126a9ee305e",
-          "title": "黄仁勋承认出轨发全员信道歉！英伟达启动紧急调查",
-          "desc": "英伟达暗盘跌2%",
-          "source": "量子位",
-          "date": "2026-11-09",
-          "dateLabel": "11月9日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/11/508498.html",
           "image": "",
           "color": "#7c3aed"
         }
@@ -2302,83 +2427,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-10-07",
-      "dateLabel": "10月7日",
-      "id": "d07",
-      "items": [
-        {
-          "id": "12666fd57bf7",
-          "title": "迟到25年！诺贝尔化学奖揭晓，95岁法国教授圆梦",
-          "desc": "迟到25年！诺贝尔化学奖揭晓，95岁法国教授圆梦",
-          "source": "量子位",
-          "date": "2026-10-07",
-          "dateLabel": "10月7日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/10/501825.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "f657ed01ced8",
-          "title": "《怪物史莱克》编剧也来了！这家AI影视公司，视频模型全球第二！",
-          "desc": "《怪物史莱克》编剧也来了！这家AI影视公司，视频模型全球第二！",
-          "source": "量子位",
-          "date": "2026-10-07",
-          "dateLabel": "10月7日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/10/501803.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "4bfffcdde0e6",
-          "title": "晕…这年头还有说人话的AI不",
-          "desc": "晕…这年头还有说人话的AI不",
-          "source": "量子位",
-          "date": "2026-10-07",
-          "dateLabel": "10月7日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/10/501796.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "6211df7bbebf",
-          "title": "Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司",
-          "desc": "在 a16z 首份消费级 AI 应用月收入榜单中，Meshy 位列第 31 名，与 OpenAI、Anthropic、Canva、Superhuman、Higgsfield 等共同上榜",
-          "source": "量子位",
-          "date": "2026-10-07",
-          "dateLabel": "10月7日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/10/501791.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "4a4f63589e04",
-          "title": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
-          "desc": "三位菲尔兹奖得主：不代表认可",
-          "source": "量子位",
-          "date": "2026-10-07",
-          "dateLabel": "10月7日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://www.qbitai.com/2026/10/501749.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -2404,6 +2452,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-11-09 17:05",
-  "totalNews": 148
+  "updateTime": "2026-11-10 17:14",
+  "totalNews": 151
 }
