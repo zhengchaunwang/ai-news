@@ -1,125 +1,246 @@
 {
   "newsData": [
     {
+      "date": "2026-11-11",
+      "dateLabel": "11月11日",
+      "id": "d11",
+      "items": [
+        {
+          "id": "77f7861b4316",
+          "title": "曝 SpaceX 探索服务器机架层“去英伟达化”：只买芯片，更多配套硬件自行采购",
+          "desc": "IT之家 11 月 11 日消息，半导体研究机构 SemiAnalysis 今天（11 日）上午在 X 平台发文披露，SpaceX 正在开发一款名为 Kessel 的定制 AI 服务器机架，计划保留英伟达芯片，但自行采购更多配套硬件。Kessel 将同时用于地面数据中心和太空轨道计算。采用 Kessel 设计后，SpaceX 仍将使用英伟达芯片，但能自行决定更多配套硬件的选型。据介绍，Kessel",
+          "source": "IT之家",
+          "date": "2026-11-11",
+          "dateLabel": "11月11日",
+          "tags": [
+            "research",
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/025/597.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/473bce9b-8233-4154-a82e-289bb350a7e6.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "cf15834d511d",
+          "title": "原创内容被判定“AI 生成未标识”，用户把平台告上法庭",
+          "desc": "IT之家 11 月 11 日消息，网络平台上由 AI 生成的内容越来越多，依据《人工智能生成合成内容标识办法》的规定，AI 生成的内容需要标注，如果不标注，平台可以依法采取限流、下架、限制账号等处置措施，相关主体还可能承担相应法律责任。如果用户自己创作的内容被平台认定为 AI 生成内容进行了处理，怎么办？中央广播电视总台中国之声今日报道，北京互联网法院日前披露了一起相关诉讼的审理情况。图源：Pex",
+          "source": "IT之家",
+          "date": "2026-11-11",
+          "dateLabel": "11月11日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/025/592.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/9d0ce789-6e31-4e97-88fa-b73d53565ec4.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "3e5ce0798613",
+          "title": "AI 数据中心挤占成熟制程产能，汽车芯片供应链面临瓶颈",
+          "desc": "IT之家 11 月 11 日消息，据路透社报道，安世半导体临时首席执行官斯特凡 · 蒂尔格（Stefan Tilger）周二在慕尼黑举行的 Electronica 电子展上接受采访时表示，随着供应商将制造产能转向快速增长的 AI 数据中心市场，减少对汽车和工业设备所用成熟制程芯片的投入，安世半导体目前的订单已经“完全超额”。蒂尔格表示，部分竞争对手已经将产能从安世半导体供应的通用型半导体产品转移出",
+          "source": "IT之家",
+          "date": "2026-11-11",
+          "dateLabel": "11月11日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/025/588.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2025/11/d596d79a-d271-4730-b5d0-29a7a382b3e1.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "c9b69417c984",
+          "title": "24Gb GDDR7 价格过高，传 16GB 版本 GeForce RTX 5080 显卡回归市场",
+          "desc": "IT之家 11 月 11 日消息，渠道消息平台 博板堂 版主 高手一号 昨日爆料称，NVIDIA（英伟达）已向 AIC 合作伙伴通知放弃 2027 年 1 月上市 GeForce RTX 5080 24GB 显卡，这一型号暂无明确的上市排期。消息人士宣称，此番搁置的本质原因还是单颗粒 24Gb (3GB) 的 GDDR7 显存价格仍处于高位，导致整卡成本结构难以满足商业化的需求。随着 24GB 版",
+          "source": "IT之家",
+          "date": "2026-11-11",
+          "dateLabel": "11月11日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/025/586.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/727f221d-3b7c-4aa0-8b92-80e384dd2f95.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "679e3c420f36",
+          "title": "我国加快推进“人工智能+自然资源”深度融合，计划 2030 年集成打造智能化国土空间治理基础平台",
+          "desc": "IT之家 11 月 11 日消息，据央视新闻今日报道，自然资源部、国家发展改革委近日发布关于“人工智能 + 自然资源”的实施意见，加快推动人工智能在自然资源领域规模化、产业化创新应用，服务国土空间规划“一张图”智能化升级。其中，意见明确分阶段发展目标：到 2028 年，实现人工智能在自然资源领域的示范应用，建成时空地理信息、国土空间规划与治理、海洋、地质矿产、林业草原等重点方向的高质量数据集、大模",
+          "source": "IT之家",
+          "date": "2026-11-11",
+          "dateLabel": "11月11日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/025/575.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/3a4a4dbd-82bb-45c3-8fc1-b25674d0f1be.png?x-bce-process=image/watermark,text_QUnnlJ_miJA,type_RlpMYW5UaW5nSGVpU0JHQg==,size_28,color_ffffffdd,skw_1,skc_00000051,g_7,blr_50,bls_50,x_11,y_11",
+          "color": "#d97706"
+        },
+        {
+          "id": "c92d7642a167",
+          "title": "佳能发布 KrF 半导体光刻机 FPA-6400ES6a，宣称实现高生产率和业界高水平套刻精度",
+          "desc": "IT之家 11 月 11 日消息，11 月 10 日，佳能在日本东京宣布，将于 2026 年 12 月上旬发售面向存储和逻辑芯片的 KrF（IT之家注：氟化氪）扫描式半导体光刻机“FPA-6400ES6a”。▲ KrF 扫描式半导体光刻机“FPA-6400ES6a”官方表示，通过新开发的超高加速度载台缩短驱动时间，这款 KrF 扫描式半导体光刻机新产品具备每小时 400 片晶圆的高产能；同时新开发",
+          "source": "IT之家",
+          "date": "2026-11-11",
+          "dateLabel": "11月11日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/025/574.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/3ac277f1-9e6e-4a77-aecb-521129fdada5.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "f8f00a0faaa9",
+          "title": "红果短剧上线 AI 剧虚拟形象确权功能",
+          "desc": "IT之家 11 月 11 日消息，红果短剧创作者中心 11 月 9 日发布《AI 剧虚拟形象创编与确权能力上线公告》。公告指出，在 AI 剧虚拟形象创作中，形象可能来源于真人授权、上游 IP 授权或原创创作，涉及肖像、美术设计等多类权益。为帮助各位创作者前置上传权属材料，避免后续发布作品受到影响，平台现提供“虚拟形象创编与确权”能力支持。公告内容提到，如版权人已取得真人授权或上游 IP 授权，或已",
+          "source": "IT之家",
+          "date": "2026-11-11",
+          "dateLabel": "11月11日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/025/569.htm",
+          "image": "",
+          "color": "#d97706"
+        },
+        {
+          "id": "70e051a99d2a",
+          "title": "OpenAI 宣布 12 月 11 日停用 ChatGPT 旧版语音模式，全面转向 GPT-Live",
+          "desc": "IT之家 11 月 11 日消息，早在 2024 年，OpenAI 就推出了 Advanced Voice Mode（高级语音模式），让用户能够与 ChatGPT 进行更加自然的语音交流。最初的 Standard Voice Mode（标准语音模式）需要分别通过语音转文字、语言模型和文字转语音等模型完成交互，而 Advanced Voice Mode 可以直接处理和生成音频，因此响应速度更快，对话",
+          "source": "IT之家",
+          "date": "2026-11-11",
+          "dateLabel": "11月11日",
+          "tags": [
+            "model",
+            "policy"
+          ],
+          "url": "https://www.ithome.com/1/025/567.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/1fa32ac5-3c80-4d76-89ac-f8e50f324f58.jpg",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-11-10",
       "dateLabel": "11月10日",
       "id": "d10",
       "items": [
         {
-          "id": "0af186857462",
-          "title": "摩托罗拉宽折叠手机 Razr Flex 2027 首次官网确认，将配高通第五代骁龙 8 芯片",
-          "desc": "IT之家 11 月 10 日消息，科技媒体 9to5Google 昨日（11 月 9 日）发布博文，报道称在澳大利亚摩托罗拉官方支持页面，出现了“motorola razr flex – 2027”的踪迹，首次在官方支持文档中出现宽折叠手机 Razr Flex 2027，上市后将会和苹果 iPhone Duo 正面竞争。不过本次官方支持文档并未提供其它有用信息，只显示这款折叠手机将于 2027 年",
-          "source": "IT之家",
+          "id": "5ddcfc2356de",
+          "title": "从芯片到千比特整机，超导量子计算还有一场硬仗",
+          "desc": "近亿元融资刚刚落袋",
+          "source": "量子位",
           "date": "2026-11-10",
           "dateLabel": "11月10日",
           "tags": [
             "business"
           ],
-          "url": "https://www.ithome.com/1/024/921.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/6f5ab92f-8649-4d28-ac75-4888c14b26c5.png",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/11/509017.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "a9992c82fc8d",
-          "title": "任天堂账户“轻松登入”功能 2027 年 1 月 26 日下线",
-          "desc": "IT之家 11 月 10 日消息，根据任天堂官方声明，Nintendo Account “轻松登入”功能将于 2027 年 1 月 26 日 15:00（北京时间）下线。Nintendo Account“轻松登入”目前仅剩对谷歌 / 苹果账号资料的支持。该功能下线后，任天堂也将不再支持以谷歌 / 苹果账号资料建立 Nintendo Account。My Nintendo 点数计划中与谷歌账号的连动",
-          "source": "IT之家",
+          "id": "a2c2663be552",
+          "title": "从“一脑多机”到“一脑多手”，蚂蚁灵波开源LingBot-Touch触觉基础模型",
+          "desc": "11月10日，蚂蚁灵波科技开源触觉基础模型LingBot-Touch",
+          "source": "量子位",
           "date": "2026-11-10",
           "dateLabel": "11月10日",
           "tags": [
             "business",
             "cn"
           ],
-          "url": "https://www.ithome.com/1/024/905.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/50329c01-a0b1-4c66-94e6-d0409b8980ac.png",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/11/508996.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "cb2e0a0b2f25",
-          "title": "影目科技宣布召回 4701 副 INMO AIR3 智能眼镜，将进行 OTA 免费升级",
-          "desc": "IT之家 11 月 10 日消息，IT之家从国家市场监督管理总局获悉，日前，四川影目科技有限公司按照《消费品召回管理暂行规定》的要求，主动向国家市场监督管理总局和四川省市场监督管理局报告了召回计划。将自即日起，召回 2025 年 5 月-2026 年 6 月期间制造的部分 INMO AIR3 智能眼镜，共计 4701 副。本次召回范围内的 INMO AIR3 智能眼镜，在搭载部分未经官方测试的第三",
-          "source": "IT之家",
+          "id": "afe003e06bb4",
+          "title": "Agent自演进驶入“双轨时代”！openJiuwen首发TTSE经验学习框架",
+          "desc": "让每一次任务，都成为下一次进步的起点",
+          "source": "量子位",
           "date": "2026-11-10",
           "dateLabel": "11月10日",
           "tags": [
             "business"
           ],
-          "url": "https://www.ithome.com/1/024/893.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/10522a9b-86ba-49eb-bf95-c336dffea4d3.jpg",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/11/508998.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "c7c6aaf5b807",
-          "title": "万代南梦宫解散并清算 Reflector，计提 2100 万欧元亏损",
-          "desc": "IT之家 11 月 10 日消息，Bandai Namco（万代南梦宫）当地时间今日宣布，董事会决议清算欧洲部门下属的加拿大游戏开发商 Reflector Entertainment，并因此计提约 2,100 万欧元（IT之家注：现汇率约合 1.57 亿元人民币）亏损。Reflector Entertainment 在 2024 年推出了动作冒险游戏《无名九使：觉醒》(Unknown 9: Awa",
-          "source": "IT之家",
+          "id": "7a9bdcb95498",
+          "title": "成立四个月，融资过亿美金：TensorWorld物原科技要跑通“物理真实”路线",
+          "desc": "TensorWorld物原科技在一个月内已拿到过亿美元融资",
+          "source": "量子位",
           "date": "2026-11-10",
           "dateLabel": "11月10日",
           "tags": [
             "business"
           ],
-          "url": "https://www.ithome.com/1/024/889.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/ca78ba5d-ac7e-40de-ae43-8314126ddb9d.jpg",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/11/508991.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "de86b6998b1e",
-          "title": "官方正在修复：Claude Code 被爆把密码写进项目文件，GitHub 上发现 2539 个真实凭据",
-          "desc": "IT之家 11 月 10 日消息，科技媒体 Ars Technica 昨日（11 月 9 日）发布博文，指出 AI 编程智能体 Claude Code 正在把部分开发者的敏感凭据意外暴露到公开的 GitHub 仓库中。安全公司 Apiiro 的研究人员发现，超过 10 万份 Claude Code 本地设置文件被上传至公共仓库，其中约 1,100 份文件含有数据库密码、API Token、私钥或 ",
-          "source": "IT之家",
+          "id": "0450ca3b6d82",
+          "title": "达卯科技与浦东环保能源战略合作，黎明智算中心算电协同平台启动",
+          "desc": "加速东部城市型智算中心向E-AIDC演进",
+          "source": "量子位",
           "date": "2026-11-10",
           "dateLabel": "11月10日",
           "tags": [
-            "model",
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/11/508985.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "41ebe76ad885",
+          "title": "Token卷到触觉了！机器人终于有了通用手感",
+          "desc": "蚂蚁灵波开源LingBot-Touch",
+          "source": "量子位",
+          "date": "2026-11-10",
+          "dateLabel": "11月10日",
+          "tags": [
             "research",
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/024/888.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/0b955661-03bc-4ce8-93d4-9f1cc363e24a.png",
-          "color": "#d97706"
-        },
-        {
-          "id": "cc2360b87cbd",
-          "title": "泰国给数据中心戴上“紧箍咒”：噪音限 70 分贝，温升不超 2 摄氏度",
-          "desc": "IT之家 11 月 10 日消息，据彭博社报道，随着人工智能投资热潮推动数据中心建设迅速扩张，泰国出台了针对数据中心噪音、热量和用水的新规定，为这一快速发展的行业设定了明确的环境限制。泰国经济规划机构秘书长丹努查 · 皮查亚南（Danucha Pichayanan）周二表示，内阁已批准相关规定。根据新规，数据中心的不间断电源系统运行时，噪音必须控制在约 70 分贝（A 计权分贝，dBA）以内。这一",
-          "source": "IT之家",
-          "date": "2026-11-10",
-          "dateLabel": "11月10日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/024/887.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/4/f0ab67e6-9e71-4d95-ac65-31fa692dae0a.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "842848a4059e",
-          "title": "国产再突破：中微公司首台等离子体晶圆切割设备成功交付国内重要集成电路封装客户",
-          "desc": "IT之家 11 月 10 日消息，中微半导体设备（上海）股份有限公司（简称“中微公司”）近日发布其全新产品 ——Primo Matrix 双反应台等离子体晶圆切割设备，今日宣布首台设备已顺利付运国内重要集成电路封装客户。随着先进封装技术成为延续摩尔定律的重要路径，晶圆切割作为封装工艺中的关键环节，直接影响芯片良率与生产效率。针对先进封装对高精度、低损伤、窄切割道的迫切需求，中微公司在等离子晶圆切割",
-          "source": "IT之家",
-          "date": "2026-11-10",
-          "dateLabel": "11月10日",
-          "tags": [
             "business",
             "cn"
           ],
-          "url": "https://www.ithome.com/1/024/884.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/668e7354-6395-4b9f-b609-b7b76f1b1e36.jpg",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/11/508919.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "eadf3392569d",
-          "title": "太空建造迈出关键一步：机器人首次在太空自主组装天线桁架，未来或建造千米级结构",
-          "desc": "IT之家 11 月 10 日消息，将大型设备送入地球轨道并不容易。如果先把大量小型零部件送上太空，再在轨道上将它们组装成大型结构，难度可能更低，但传统方案往往仍需要宇航员参与。考虑到太空环境充满辐射，宇航员在轨道上工作的时间自然是越短越好。由美国加州理工学院（Caltech）研发、美国国防高级研究计划局（DARPA）资助的一款机器人，近日展示了一种新的太空建造方案：其成功在轨道上将独立零部件组装成",
-          "source": "IT之家",
+          "id": "a1f104f40373",
+          "title": "Fable 5.2首批实测来了！网友：Opus突然不香了",
+          "desc": "作曲、拍片、3D建模一条龙全包圆",
+          "source": "量子位",
           "date": "2026-11-10",
           "dateLabel": "11月10日",
           "tags": [
-            "research"
+            "business"
           ],
-          "url": "https://www.ithome.com/1/024/880.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/880d3617-9077-44ad-ad49-d586fe9cf135.jpg",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/11/508912.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "9a3dab11f290",
+          "title": "100轮图像编辑这道「毙刷题」，新出的Seedream 5.5稳上来了！",
+          "desc": "速度提了，API价格降了",
+          "source": "量子位",
+          "date": "2026-11-10",
+          "dateLabel": "11月10日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/11/508828.html",
+          "image": "",
+          "color": "#7c3aed"
         }
       ]
     },
@@ -129,120 +250,16 @@
       "id": "d09",
       "items": [
         {
-          "id": "a8725fc0f103",
-          "title": "“AI毁了我的计算机学位”",
-          "desc": "教授也用Claude糊弄…",
-          "source": "量子位",
-          "date": "2026-11-09",
-          "dateLabel": "11月9日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://www.qbitai.com/2026/11/508706.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "09cd48fd0bbb",
-          "title": "腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满",
-          "desc": "腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满",
-          "source": "量子位",
-          "date": "2026-11-09",
-          "dateLabel": "11月9日",
-          "tags": [
-            "model",
-            "research",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/11/507843.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "3cea9c337222",
-          "title": "千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了",
-          "desc": "11月9日，千问办公发布2.0版本",
+          "id": "0d21828ef8e8",
+          "title": "中大本科生反AI逆向项目火了！让黑客Token账单原地暴涨300倍",
+          "desc": "投毒 → 耗尽预算 → 诱导误判",
           "source": "量子位",
           "date": "2026-11-09",
           "dateLabel": "11月9日",
           "tags": [
             "business"
           ],
-          "url": "https://www.qbitai.com/2026/11/508694.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "abf2612ddf75",
-          "title": "叙事奔涌，何以为锚?丨第 20 届中国投资年会·有限合伙人峰会即将启幕",
-          "desc": "厘清故事与现实的边界，回归投资与产业的底层逻辑。",
-          "source": "量子位",
-          "date": "2026-11-09",
-          "dateLabel": "11月9日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/11/508690.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "0fa3018e541e",
-          "title": "L3大撤退！奔驰宝马官宣不玩了：还没L2好用",
-          "desc": "最早量产的亲自泼冷水",
-          "source": "量子位",
-          "date": "2026-11-09",
-          "dateLabel": "11月9日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/11/508629.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "3f3747d71424",
-          "title": "AI接管一家8万Star开源公司，写代码、派任务、查Bug全包了",
-          "desc": "Worker不够了主管Agent还能自己招！",
-          "source": "量子位",
-          "date": "2026-11-09",
-          "dateLabel": "11月9日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/11/508607.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "54375381ccca",
-          "title": "基元律动发布NeoHorse-1.5-Flash Preview，Agent模型RSI进入第二轮迭代",
-          "desc": "11月5日，基元律动（TokenRhythm）发布Agent原生模型NeoHorse-1.5-Flash Preview。",
-          "source": "量子位",
-          "date": "2026-11-09",
-          "dateLabel": "11月9日",
-          "tags": [
-            "model",
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/11/508603.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "96c4c0096be4",
-          "title": "当AI在加速狂奔，什么反而应该“慢”下来？",
-          "desc": "“让人放心，把人放大。”",
-          "source": "量子位",
-          "date": "2026-11-09",
-          "dateLabel": "11月9日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/11/508586.html",
+          "url": "https://www.qbitai.com/2026/11/508787.html",
           "image": "",
           "color": "#7c3aed"
         }
@@ -2392,41 +2409,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-10-08",
-      "dateLabel": "10月8日",
-      "id": "d08",
-      "items": [
-        {
-          "id": "37ef34f5f3cd",
-          "title": "真香！做这个邪恶老奶版「GTA 6」，我只花了5元！",
-          "desc": "Vidu Q4预览版，了解一下~",
-          "source": "量子位",
-          "date": "2026-10-08",
-          "dateLabel": "10月8日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/10/502049.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "ed5396bc3fd4",
-          "title": "正行创新亮相APRCE 2026，发布全球首个零售物理智能24/7服务解决方案",
-          "desc": "打造便利店“人机协作”运营新模式",
-          "source": "量子位",
-          "date": "2026-10-08",
-          "dateLabel": "10月8日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/10/502035.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -2452,6 +2434,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-11-10 17:14",
-  "totalNews": 151
+  "updateTime": "2026-11-11 16:50",
+  "totalNews": 150
 }
