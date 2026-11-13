@@ -1,125 +1,254 @@
 {
   "newsData": [
     {
+      "date": "2026-11-13",
+      "dateLabel": "11月13日",
+      "id": "d13",
+      "items": [
+        {
+          "id": "f7ed546625bc",
+          "title": "国际中文教育垂直大模型亮相，为全球中文学习者等群体提供智能化服务",
+          "desc": "IT之家 11 月 13 日消息，据央视新闻报道，11 月 13 日，2026 世界中文大会在北京开幕，会上发布语飞国际中文教育垂直大模型，为全球中文学习者、教师和教育机构提供智能化服务。面向全球中文学习者，模型可提供即时反馈的学习评测、随问随答的个性化辅导；面向教师，支持在多轮对话中快速生成覆盖课前备课、课堂互动、课后巩固的教学素材，提升教学效率；面向全球中文教育机构，提供标准化接口，连接各方、",
+          "source": "IT之家",
+          "date": "2026-11-13",
+          "dateLabel": "11月13日",
+          "tags": [
+            "model",
+            "research",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/026/801.htm",
+          "image": "",
+          "color": "#d97706"
+        },
+        {
+          "id": "2c6f0f28913b",
+          "title": "鸿蒙智行问界新 M8 正式上市，37.98 万-46.98 万元",
+          "desc": "IT之家 11 月 13 日现场消息，今天（13 日）下午，鸿蒙智行问界新 M8 正式上市。新车定位家庭智慧旗舰 SUV，面向 L3 级自动驾驶架构设计，搭载华为乾崑智驾 ADS 5、新一代全向立体融合感知系统，号称研发投入 15 亿元，拥有 126 项创新技术。IT之家从发布会现场获悉，问界新 M8 的售价如下：增程版阔五座：Max 售 37.98 万元，Max+ 售 39.98 万元，Ultr",
+          "source": "IT之家",
+          "date": "2026-11-13",
+          "dateLabel": "11月13日",
+          "tags": [
+            "research",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/026/799.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/e3a64fb3-afc7-469b-9dc5-98f1afa4ede4.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "7e63e3422eed",
+          "title": "演示时连续 2 次撞墙：亚马逊 Ring 安防无人机取消手动控制，让 AI 全权接管",
+          "desc": "IT之家 11 月 13 日消息，科技媒体 Android Headline 昨日（11 月 12 日）发布博文，报道称由于在演示过程中连续出现 2 次撞墙故障，亚马逊旗下智能家居品牌 Ring 确认其首款安防无人机摄像头 Drone Cam 不再开放手动操控功能。IT之家曾于 11 月 10 日报道，亚马逊 Ring 推出 Drone Cam 家用安防无人机，配备 2K 摄像头，支持 148 度",
+          "source": "IT之家",
+          "date": "2026-11-13",
+          "dateLabel": "11月13日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/026/791.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/bc35a034-08f9-4b30-b8ba-cf16e8c8a23a.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "98d7f3064b1c",
+          "title": "上海警方通报“和平饭店 51 万元天价账单”系 AI 生成：实为酒类销售公司营销自家产品，15 名涉案人员被抓",
+          "desc": "IT之家 11 月 13 日消息，据央视新闻报道，近期网传一张所谓“和平饭店 51 万元天价账单”，引发民众热议。对此，上海黄浦警方通报相应“账单”系 AI 生成，外省市一互联网酒类销售公司负责人赵某某为博取关注、提升销量，组织王某某、董某、董某某等人利用 AI 软件篡改上述饭店账单金额，将饭店用酒改为自己公司的销售酒类，并制作虚假视频，通过控制账号、雇佣代发等方式在网络大量传播。▲ 网传虚假账单",
+          "source": "IT之家",
+          "date": "2026-11-13",
+          "dateLabel": "11月13日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/026/764.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/c3a6597d-4555-4189-8cfd-e6df2a2c9150.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "f5aede63a141",
+          "title": "不用显卡：玩家靠停产傲腾内存跑通 2.8 万亿参数 Kimi K3 AI 模型，每秒输出 1.5 词元",
+          "desc": "IT之家 11 月 13 日消息，网友 u/IndividualSurvival 于 11 月 2 日在 Reddit 社区发帖，分享了一项家庭实验室尝试，在不配备显卡的情况下，使用已停产的英特尔傲腾持久内存，成功运行 2.8 万亿参数的月之暗面 Kimi K3 模型。IT之家注：“傲腾”（Intel Optane）是一套基于 3D XPoint 的内存与存储产品技术，是英特尔与美光共同开发的非易",
+          "source": "IT之家",
+          "date": "2026-11-13",
+          "dateLabel": "11月13日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/026/759.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/6d24b0f3-5213-4a77-b61e-655241674f87.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "cc5536ee8938",
+          "title": "AI 接管手机迈出关键一步：谷歌 Gemini 自动化应用名单曝光，当前共计 134 款",
+          "desc": "IT之家 11 月 13 日消息，科技媒体 Android Authority 昨日（11 月 12 日）发布博文，报道称谷歌 Gemini 任务自动化功能适配应用清单被曝光，共计 134 款 App，覆盖外卖、打车、购物、旅行及办公等场景，但不代表这些应用已全部开放自动操作。IT之家援引博文介绍，截至 11 月 12 日，在稳定版安卓 17 QPR2 的目标应用列表中包含 114 个应用，而在 ",
+          "source": "IT之家",
+          "date": "2026-11-13",
+          "dateLabel": "11月13日",
+          "tags": [
+            "model",
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/026/752.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/e9d8a075-eccc-41ff-8e66-c42c9cfb249b.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "eaafd8cca760",
+          "title": "UCIe 4.0 规范发布，将芯粒互连扩展至系统级集成",
+          "desc": "IT之家 11 月 13 日消息，UCIe 联盟当地时间 12 日发布了该芯粒互连规范的 4.0 版本。最新的迭代将 UCIe 架构从芯片级接口设计扩展到满足将多个芯片集成到统一的封装系统的关键要求。UCIe 4.0 引入了标准的片上存储器链路，UCIe.mem 协议简化了 SoC 与存储器逻辑裸片间的集成，实现了高达 93.75% 的数据效率和约 2.5 TB/s/mm 的晶边带宽密度；新的功率",
+          "source": "IT之家",
+          "date": "2026-11-13",
+          "dateLabel": "11月13日",
+          "tags": [
+            "research",
+            "business",
+            "policy"
+          ],
+          "url": "https://www.ithome.com/1/026/751.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/4da36f7a-0fa2-4fbf-bfad-5c1406fef7d9.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "bb4983a096fa",
+          "title": "华为余承东：问界新 M8 研发投入 15 亿元，技术创新 126 项",
+          "desc": "IT之家 11 月 13 日现场消息，鸿蒙智行问界新 M8 上市发布会于今日举行，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东上台发表演讲。余承东表示，华为在问界新 M8 上研发投入超 15 亿元，实现技术创新 126 项，为用户带来了更豪华的空间、更强大的智能、更旗舰的底盘和驱动、更长的续航更快的补能。余承东表示，问界新 M8 采用了面向 L3 级自动驾驶的架构设计，搭载华为乾",
+          "source": "IT之家",
+          "date": "2026-11-13",
+          "dateLabel": "11月13日",
+          "tags": [
+            "research",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/026/746.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/1ea2e677-435a-40c0-be90-9bd715641df0.jpg",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-11-12",
       "dateLabel": "11月12日",
       "id": "d12",
       "items": [
         {
-          "id": "e21e9f33b3bd",
-          "title": "MTE 支持回归后，GrapheneOS 即将实现谷歌 Pixel 11 系列智能手机适配",
-          "desc": "IT之家 11 月 12 日消息，GrapheneOS 官方昨日表示，随着上游 Android 17 QPR2 为 Pixel 11 系列带回对 MTE 功能的支持，该第三方 Android 发行版也将正式适配谷歌最新一代智能手机。MTE 全称内存标记扩展，可实时检测内存错误，大幅降低漏洞被利用风险。这项安全功能在一般 Android 发行版中甚少被利用，但却是 GrapheneOS 这个主打安全",
-          "source": "IT之家",
-          "date": "2026-11-12",
-          "dateLabel": "11月12日",
-          "tags": [
-            "policy"
-          ],
-          "url": "https://www.ithome.com/1/026/179.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/e65b3d78-dba3-47d4-a5bb-e83fa458d4bb.png",
-          "color": "#d97706"
-        },
-        {
-          "id": "d486d881a9f0",
-          "title": "特斯拉 Robotaxi 得州注册车辆数量反超 Waymo，Cybercab 已占近半",
-          "desc": "IT之家 11 月 12 日消息，特斯拉 Robotaxi 的注册车辆数量首次超过 Waymo，成为美国得克萨斯州自动驾驶车辆登记名单中规模最大的车队。根据得克萨斯州机动车辆管理局（TxDMV）的公开登记数据，截至 11 月 10 日，特斯拉旗下 Tesla Robotaxi, LLC 名下共有 1302 辆登记车辆，略高于 Waymo 的 1297 辆。这次反超幅度虽然不大，但确实反映在官方登记",
-          "source": "IT之家",
-          "date": "2026-11-12",
-          "dateLabel": "11月12日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/026/167.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/12bc0f80-6fba-4453-888e-a123a0c297d4.jpg",
-          "color": "#d97706"
-        },
-        {
-          "id": "7f92cf9d1b39",
-          "title": "澳洲航空宣布裁员 850 人，工会质疑其借 AI 之名削减本土岗位",
-          "desc": "IT之家 11 月 12 日消息，据路透社今天（12 日）报道，澳大利亚国家航空公司澳洲航空宣布，将与咨询公司埃森哲合作推进 AI 转型，裁减 850 个岗位，并把部分企业职能外包至海外。此举引发工会质疑，认为澳航是在借 AI 之名掩饰裁员的真正原因。IT之家注：所谓“AI 洗白”，就是企业声称裁员是因为采用 AI 技术，实际上却可能主要是为了降低成本，例如将本土岗位转移到海外。今年，科技公司 W",
-          "source": "IT之家",
-          "date": "2026-11-12",
-          "dateLabel": "11月12日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/026/157.htm",
-          "image": "",
-          "color": "#d97706"
-        },
-        {
-          "id": "fdbff00ec296",
-          "title": "长鑫科技副总裁骆晓东：来自服务器市场的内存需求占比超 50%",
-          "desc": "IT之家 11 月 12 日消息，据中国基金报报道，长鑫科技副总裁骆晓东今日（11 月 12 日）在第八届 IC 企业家大会上发表了题为《算力分层时代探索 DRAM 产品新边界》的主题演讲。骆晓东指出，算力增长趋势还在持续。据行业预测，2024 年到 2031 年，全球 AI 算力年均增速将达 96.1%；2026 年到 2030 年，DRAM 年均需求增速将达 21%。但在 AI 驱动下，各细分",
-          "source": "IT之家",
-          "date": "2026-11-12",
-          "dateLabel": "11月12日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/026/154.htm",
-          "image": "",
-          "color": "#d97706"
-        },
-        {
-          "id": "d0b76f120d2d",
-          "title": "消息称安克押注的机器人公司阿米奥大幅收缩，原 CTO、COO 和产品负责人均已离职",
-          "desc": "IT之家 11 月 12 日消息，据雷峰网 · 鲸犀消息，聚焦工业场景的阿米奥机器人，正经历核心团队出走与组织收缩，公司原 CTO、COO 和产品负责人均已离职。与此同时，阿米奥机器人的团队规模从巅峰期约 130 人收缩至含实习生在内的 70 余人，且新一轮优化仍在进行中。据悉，阿米奥创始人刘方是小米汽车自动驾驶原产品技术负责人和量产负责人，历经了小米自动驾驶团队筹建、技术研发和量产落地的全过程。",
-          "source": "IT之家",
+          "id": "122980916fb5",
+          "title": "多模态“源神”！MiniMax开源SOTA生图模型，原生4K，一张两毛",
+          "desc": "「CAD拆解」",
+          "source": "量子位",
           "date": "2026-11-12",
           "dateLabel": "11月12日",
           "tags": [
             "research",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/026/135.htm",
-          "image": "",
-          "color": "#d97706"
-        },
-        {
-          "id": "8d15681116ee",
-          "title": "京东 2026 双十一战报出炉：产生超 3 亿服务订单、超 2000 个家电家居品牌成交额同比增长 100%",
-          "desc": "IT之家 11 月 12 日消息，京东现已公布 2026 年度双十一成交数据，截至 11 月 11 日 23:59，2026 年京东 11.11 共售出超 5000 万件 AI 产品，产生超 3 亿服务订单，第一次参加京东 11.11 的新用户平均下单 6 件商品。京东表示，截至 11 月 11 日 23:59，JoyInside 累计完成超 7000 万次交互，已经成为百万家庭的 AI 伙伴。J",
-          "source": "IT之家",
-          "date": "2026-11-12",
-          "dateLabel": "11月12日",
-          "tags": [
             "business",
             "cn"
           ],
-          "url": "https://www.ithome.com/1/026/131.htm",
+          "url": "https://www.qbitai.com/2026/11/509440.html",
           "image": "",
-          "color": "#d97706"
+          "color": "#7c3aed"
         },
         {
-          "id": "cc8930cbfe04",
-          "title": "日本政府考虑对前沿 AI 失控行为设立处罚措施，拟修订法律应对拒不配合的恶意企业",
-          "desc": "IT之家 11 月 12 日消息，据共同社昨天报道，日本政府正考虑要求 AI 企业履行安全保障义务，并新增处罚措施应对前沿 AI 的失控风险。IT之家从原报道获悉，日本政府计划今年年底前公布制度改革整体方案，相关内容已在某个讨论 AI 法律制度的非公开工作组会议中得到确认。此举旨在应对 AI 网络攻击、失控等重大威胁，确保政府能对拒绝协商的恶意企业采取应对措施。目前 AI 企业的业务分工日益细化，",
-          "source": "IT之家",
+          "id": "e791889c84a1",
+          "title": "从通用大模型到学习过程智能，AI如何真正进入课堂？",
+          "desc": "银河智学首席科学家邓澍军博士发表主题演讲",
+          "source": "量子位",
           "date": "2026-11-12",
           "dateLabel": "11月12日",
           "tags": [
-            "policy"
+            "model"
           ],
-          "url": "https://www.ithome.com/1/026/125.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/10e89d5d-8e3f-44e4-a989-fca3fa7f736e.jpg",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/11/509404.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "906241c80bca",
-          "title": "半岛铁盒推出 F40-AI 全塔机箱：支持 SSI-EEB 主板，提供 12 个硬盘位，650 元",
-          "desc": "IT之家 11 月 12 日消息，半岛铁盒现已在京东上架 F40 全塔机箱，该机箱支持 SSI-EEB 主板，提供 12 个硬盘位，兼容 360 水冷，定价为 650 元。京东半岛铁盒 F40-AI 机箱 650 元直达链接该机箱尺寸为 550 x 248 x 550mm，前面板采用六边形网孔设计，机箱采用快拆侧板并配备防脱落螺丝，多面均标配可水洗防尘网，I/O 方面提供两个 USB-A 3.0 ",
-          "source": "IT之家",
+          "id": "55f2c5411a4f",
+          "title": "Anthropic启动IPO路演，估值已缩水6000亿美元",
+          "desc": "全世界都在踩刹车，达里奥一个人踩油门",
+          "source": "量子位",
           "date": "2026-11-12",
           "dateLabel": "11月12日",
           "tags": [
-            "business",
-            "cn"
+            "business"
           ],
-          "url": "https://www.ithome.com/1/026/120.htm",
-          "image": "https://img14.360buyimg.com/pop/jfs/t1/567933/30/5146/95166/6aebe175F96e7fb63/0083320320f91c31.jpg",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/11/509381.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "71d3c47b63c6",
+          "title": "马斯克Grok泄露自家机密！SpaceX特斯拉工资绩效全曝光",
+          "desc": "Grok在让人破绷这件事上，从来不会让人失望。",
+          "source": "量子位",
+          "date": "2026-11-12",
+          "dateLabel": "11月12日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/11/509355.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "c7c820a60b2d",
+          "title": "让AI真正懂业务：璇玑如何成为企业AI的语义基础设施",
+          "desc": "企业 AI 的难题，不只是模型够不够强",
+          "source": "量子位",
+          "date": "2026-11-12",
+          "dateLabel": "11月12日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/11/509349.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "81694b097292",
+          "title": "马斯克已准备好聘请黄仁勋",
+          "desc": "老黄出轨认错、再曝婚外恋",
+          "source": "量子位",
+          "date": "2026-11-12",
+          "dateLabel": "11月12日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/11/509334.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "fdb0b5044519",
+          "title": "Anthropic玻璃翼计划被质疑！近4万个候补漏洞，只修了217条",
+          "desc": "只管挖不管埋。",
+          "source": "量子位",
+          "date": "2026-11-12",
+          "dateLabel": "11月12日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/11/509291.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "ce64e8329fb1",
+          "title": "百曜科技入选全球 The Information 50！",
+          "desc": "百曜科技入选“2026年全球最具潜力 50 家初创公司”榜单。",
+          "source": "量子位",
+          "date": "2026-11-12",
+          "dateLabel": "11月12日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/11/509285.html",
+          "image": "",
+          "color": "#7c3aed"
         }
       ]
     },
@@ -129,37 +258,9 @@
       "id": "d11",
       "items": [
         {
-          "id": "2d17cfb871ea",
-          "title": "双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替",
-          "desc": "价格、门槛全打穿",
-          "source": "量子位",
-          "date": "2026-11-11",
-          "dateLabel": "11月11日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/11/509146.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "09a67e9a71a9",
-          "title": "从“卖Token”到“卖结果” | 科技有「联想」沙龙激辩Token经济三大议题",
-          "desc": "10月30日，“科技有「联想」·Token畅想曲”线下沙龙在京举行。",
-          "source": "量子位",
-          "date": "2026-11-11",
-          "dateLabel": "11月11日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/11/509088.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "ce85fa856791",
-          "title": "卷起来了！11月11日，大模型厂商在天猫打5折",
-          "desc": "大模型厂商智谱、MiniMax、千问办公、阿里云、Qoder都在天猫打5折。",
+          "id": "e57dea39fa3b",
+          "title": "纯代码造《后室》，116秒切20种画风！文心新模型玩嗨了",
+          "desc": "模型即将开源",
           "source": "量子位",
           "date": "2026-11-11",
           "dateLabel": "11月11日",
@@ -168,21 +269,7 @@
             "business",
             "cn"
           ],
-          "url": "https://www.qbitai.com/2026/11/509085.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "a6db27ca98fe",
-          "title": "无人拖拉机真正下地了！新疆大田深翻30+厘米，丘沃智能开物™系统首次完整曝光",
-          "desc": "L4无人化作业走向规模交付",
-          "source": "量子位",
-          "date": "2026-11-11",
-          "dateLabel": "11月11日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/11/509052.html",
+          "url": "https://www.qbitai.com/2026/11/509224.html",
           "image": "",
           "color": "#7c3aed"
         }
@@ -2304,27 +2391,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-10-10",
-      "dateLabel": "10月10日",
-      "id": "d10",
-      "items": [
-        {
-          "id": "1062e09366a4",
-          "title": "西门子将亮相2026工博会：以软硬协同的工业全栈能力，推动物理AI加速落地",
-          "desc": "西门子将以更集中、更场景化的方式，展示其工业全栈能力",
-          "source": "量子位",
-          "date": "2026-10-10",
-          "dateLabel": "10月10日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/10/502541.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -2350,6 +2416,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-11-12 17:17",
-  "totalNews": 144
+  "updateTime": "2026-11-13 17:03",
+  "totalNews": 148
 }
