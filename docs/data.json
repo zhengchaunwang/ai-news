@@ -1,133 +1,250 @@
 {
   "newsData": [
     {
+      "date": "2026-11-14",
+      "dateLabel": "11月14日",
+      "id": "d14",
+      "items": [
+        {
+          "id": "2d42afa3b3d0",
+          "title": "299 美元月费约为 1% 车价：马斯克回应 Cybercab 自动驾驶订阅费太高，应在 115 美元左右",
+          "desc": "IT之家 11 月 14 日消息，全球首富埃隆 · 马斯克（Elon Musk）今天（11 月 14 日）在 X 平台发布推文，回应科技博主 @MKBHD 关于“Cybercab 每月 299 美元（IT之家注：现汇率约合 1,999 元人民币）的订阅费用过高”情况，认为合理价格应该在 115 美元（现汇率约合 768.8 元人民币）左右。IT之家今天报道，特斯拉开始向部分个人用户开放 Cyber",
+          "source": "IT之家",
+          "date": "2026-11-14",
+          "dateLabel": "11月14日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/027/159.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/fea6ddb6-7e57-4421-855b-839d8a59e442.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "23a09244cbde",
+          "title": "谷歌推送 Android Auto 18.2 测试版，代码显示官方正持续开发浅色模式菜单界面",
+          "desc": "IT之家 11 月 14 日消息，外媒 9to5Google 在拆解谷歌 Android Auto 18.2 测试版时发现，谷歌仍在继续开发 Android Auto 的浅色模式菜单界面。具体来看，官方在本次更新中悄悄调整了超过 100 项界面资源文件，主要涉及按钮等用户界面元素。res/drawable/ic_mr_button_connected_14_dark.xmlres/drawable",
+          "source": "IT之家",
+          "date": "2026-11-14",
+          "dateLabel": "11月14日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/027/158.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/5e0b9a21-d09a-46e5-9b7c-08a5e579e705.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "20c5e24ab3f6",
+          "title": "微软确认消费者产品服务已恢复，企业服务仍在监控",
+          "desc": "IT之家 11 月 14 日消息，微软今天（14 日）通报称，截至协调世界时 13 日 16 时 10 分（IT之家注：北京时间 11 月 14 日 0 时 10 分），面向个人用户的产品和服务已全面恢复，Microsoft 365 企业服务也出现了持续恢复的迹象。对于企业服务故障，微软仍在监测此次事件期间积压的邮件，尚未确认问题完全解决。微软在服务状态页面的更新中指出：“考虑到此次事件造成的严重",
+          "source": "IT之家",
+          "date": "2026-11-14",
+          "dateLabel": "11月14日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/027/156.htm",
+          "image": "",
+          "color": "#d97706"
+        },
+        {
+          "id": "0ffe8c67d3e0",
+          "title": "游戏《红色沙漠》开发商将 AI 应用范围扩展至整个开发管线，强调核心创作仍由人工主导",
+          "desc": "IT之家 11 月 14 日消息，据 TechPowerUp 报道，《红色沙漠》于 2026 年 3 月发售后，曾因正式版游戏中包含 AI 生成的资产而遭到玩家抵制。尽管 Pearl Abyss 随后移除了这些资产，并辩称它们只是审核时意外遗漏的占位符，但该工作室似乎并未因此却步，仍打算在未来的游戏中继续使用生成式 AI。这一点在其近期发布的财报中得到了证实 —— Pearl Abyss 在报告中",
+          "source": "IT之家",
+          "date": "2026-11-14",
+          "dateLabel": "11月14日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/027/154.htm",
+          "image": "",
+          "color": "#d97706"
+        },
+        {
+          "id": "063ad6ebe63d",
+          "title": "HMD 2320 Flip 4G 功能机曝光：紫光展锐 T127 芯片，1.77 英寸外屏",
+          "desc": "IT之家 11 月 14 日消息，消息源 smashx_60 发文，曝光了 HMD 2320 Flip 4G 翻盖功能机规格信息，该机外观预计和 HMD 2360 Flip 大致相同。该机配备 1.77 英寸外屏和 2.4 英寸 LCD 内屏，内置 0.3Mp 摄像头。使用紫光展锐 T127 芯片，匹配 64MB RAM 和 128GB 存储空间，搭载 1450mAh 电池（支持 2.75W 充电",
+          "source": "IT之家",
+          "date": "2026-11-14",
+          "dateLabel": "11月14日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/027/151.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/10/ef9c5e86-69ad-4455-8ccc-5bc278e7fa1f.png?x-bce-process=image/auto-orient,o_1",
+          "color": "#d97706"
+        },
+        {
+          "id": "c1d12676a79d",
+          "title": "新西兰最大零售商 The Warehouse 爆发员工抗议：如厕时间都用 AI 管",
+          "desc": "IT之家 11 月 14 日消息，当地时间 13 日，据英国《独立报》报道，新西兰最大零售商 The Warehouse 集团的员工指控，公司利用 AI 监控如厕时间，导致部分员工不得不在配送中心的通道里大小便。本周，The Warehouse 集团位于奥克兰和基督城的配送中心有 300 多名员工举行抗议，担心 AI 监控侵犯隐私，以及新技术的应用可能引发大规模裁员。员工认为，公司对机器人的重视程",
+          "source": "IT之家",
+          "date": "2026-11-14",
+          "dateLabel": "11月14日",
+          "tags": [
+            "research",
+            "policy"
+          ],
+          "url": "https://www.ithome.com/1/027/150.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/56a92901-498d-4838-af0d-9c7a20cea19f.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "449f8ec833c6",
+          "title": "《巫师 3》新 DLC 杰洛特波兰语配音演员中风后声音沙哑，CDPR 利用 AI 技术还原其早期声线",
+          "desc": "IT之家 11 月 14 日消息，CD Projekt Red 确认，《巫师 3：狂猎》新剧情扩展包《Songs of the Past》杰洛特的波兰语配音将采用 Respeecher 的 AI 语音转换技术进行处理。IT之家获悉，自 2007 年首部《巫师》游戏推出以来，演员 Jacek Rozenek 一直担任杰洛特的波兰语配音演员，但在 2019 年其中风后声音变得低沉、沙哑。对此，CDPR",
+          "source": "IT之家",
+          "date": "2026-11-14",
+          "dateLabel": "11月14日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://www.ithome.com/1/027/147.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/424da57f-2e20-43fd-8ad2-f4742afe1ffa.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "0a7963bda093",
+          "title": "小特朗普支持的公司称未来 5~10 年大多数战争将由机器人来打",
+          "desc": "IT之家 11 月 14 日消息，由埃里克 · 特朗普（Eric Trump）投资支持机器人公司 Foundation 的联合创始人迈克 · 勒布朗（Mike LeBlanc）表示，未来 5~10 年内，全球大部分主要战斗将由机器完成。在接受福克斯新闻数字版（Fox News Digital）采访时，勒布朗表示：“我预计未来五到十年，人形机器人、地面车辆和无人机将承担大部分主要作战任务，人类只负责",
+          "source": "IT之家",
+          "date": "2026-11-14",
+          "dateLabel": "11月14日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.ithome.com/1/027/144.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/31e473b2-1902-4337-ac10-8c77040274a8.png",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-11-13",
       "dateLabel": "11月13日",
       "id": "d13",
       "items": [
         {
-          "id": "f7ed546625bc",
-          "title": "国际中文教育垂直大模型亮相，为全球中文学习者等群体提供智能化服务",
-          "desc": "IT之家 11 月 13 日消息，据央视新闻报道，11 月 13 日，2026 世界中文大会在北京开幕，会上发布语飞国际中文教育垂直大模型，为全球中文学习者、教师和教育机构提供智能化服务。面向全球中文学习者，模型可提供即时反馈的学习评测、随问随答的个性化辅导；面向教师，支持在多轮对话中快速生成覆盖课前备课、课堂互动、课后巩固的教学素材，提升教学效率；面向全球中文教育机构，提供标准化接口，连接各方、",
-          "source": "IT之家",
+          "id": "86caa6d6e976",
+          "title": "黄仁勋辞职，英伟达33年首换帅，市值蒸发超3万亿",
+          "desc": "一个时代结束了",
+          "source": "量子位",
           "date": "2026-11-13",
           "dateLabel": "11月13日",
           "tags": [
-            "model",
-            "research",
-            "business",
-            "cn"
+            "business"
           ],
-          "url": "https://www.ithome.com/1/026/801.htm",
+          "url": "https://www.qbitai.com/2026/11/509995.html",
           "image": "",
-          "color": "#d97706"
+          "color": "#7c3aed"
         },
         {
-          "id": "2c6f0f28913b",
-          "title": "鸿蒙智行问界新 M8 正式上市，37.98 万-46.98 万元",
-          "desc": "IT之家 11 月 13 日现场消息，今天（13 日）下午，鸿蒙智行问界新 M8 正式上市。新车定位家庭智慧旗舰 SUV，面向 L3 级自动驾驶架构设计，搭载华为乾崑智驾 ADS 5、新一代全向立体融合感知系统，号称研发投入 15 亿元，拥有 126 项创新技术。IT之家从发布会现场获悉，问界新 M8 的售价如下：增程版阔五座：Max 售 37.98 万元，Max+ 售 39.98 万元，Ultr",
-          "source": "IT之家",
+          "id": "51618ce55bd6",
+          "title": "MEET2027含金量再加码：AI4S/量子计算/AI Infra…第二批嘉宾强势来袭！",
+          "desc": "12.9 北京，来MEET2027现场",
+          "source": "量子位",
+          "date": "2026-11-13",
+          "dateLabel": "11月13日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/11/509827.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "02ee0e3da3b7",
+          "title": "中国AI突破复杂肺癌诊疗！中美医疗圈集体坐不住了",
+          "desc": "250名国内顶尖三甲医院医生联合评测",
+          "source": "量子位",
           "date": "2026-11-13",
           "dateLabel": "11月13日",
           "tags": [
             "research",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/11/509796.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "7fd153d0e459",
+          "title": "比亚迪第1900万辆新能源汽车下线，科技新奢旗舰SUV方程豹钛9开启预订",
+          "desc": "比亚迪第1900万辆新能源汽车在西安工厂正式下线",
+          "source": "量子位",
+          "date": "2026-11-13",
+          "dateLabel": "11月13日",
+          "tags": [
             "business",
             "cn"
           ],
-          "url": "https://www.ithome.com/1/026/799.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/e3a64fb3-afc7-469b-9dc5-98f1afa4ede4.jpg",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/11/509730.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "7e63e3422eed",
-          "title": "演示时连续 2 次撞墙：亚马逊 Ring 安防无人机取消手动控制，让 AI 全权接管",
-          "desc": "IT之家 11 月 13 日消息，科技媒体 Android Headline 昨日（11 月 12 日）发布博文，报道称由于在演示过程中连续出现 2 次撞墙故障，亚马逊旗下智能家居品牌 Ring 确认其首款安防无人机摄像头 Drone Cam 不再开放手动操控功能。IT之家曾于 11 月 10 日报道，亚马逊 Ring 推出 Drone Cam 家用安防无人机，配备 2K 摄像头，支持 148 度",
-          "source": "IT之家",
+          "id": "c64698cbb3f7",
+          "title": "从仰望极速新纪录和鼎曜全球发布 看比亚迪的国际化与高端化之路",
+          "desc": "比亚迪正在把规模优势转化为技术与品牌价值",
+          "source": "量子位",
+          "date": "2026-11-13",
+          "dateLabel": "11月13日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/11/509716.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "9c0f999523c0",
+          "title": "比亚迪与神州租车首批闪充车及闪充站投放仪式顺利举行，战略合作落地兑现，闪充中国再次提速",
+          "desc": "2026年11月10日，比亚迪与神州租车首批闪充车及闪充站投放仪式在山东济南隆重举办",
+          "source": "量子位",
+          "date": "2026-11-13",
+          "dateLabel": "11月13日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/11/509710.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "7667285bb163",
+          "title": "高难盲测超越GPT-6-Astra与Opus-5！无界前沿开源Fx-Bio-1031，把RSI带进生命科学",
+          "desc": "数据不出域、本地可部署",
+          "source": "量子位",
+          "date": "2026-11-13",
+          "dateLabel": "11月13日",
+          "tags": [
+            "model",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/11/509663.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "2315e1f0d5a6",
+          "title": "openJiuwen发布RSI原生AgentOS，让Agent自由变身，持续迭代！",
+          "desc": "想要什么功能，让Agent自己开发",
+          "source": "量子位",
           "date": "2026-11-13",
           "dateLabel": "11月13日",
           "tags": [
             "business"
           ],
-          "url": "https://www.ithome.com/1/026/791.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/bc35a034-08f9-4b30-b8ba-cf16e8c8a23a.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "98d7f3064b1c",
-          "title": "上海警方通报“和平饭店 51 万元天价账单”系 AI 生成：实为酒类销售公司营销自家产品，15 名涉案人员被抓",
-          "desc": "IT之家 11 月 13 日消息，据央视新闻报道，近期网传一张所谓“和平饭店 51 万元天价账单”，引发民众热议。对此，上海黄浦警方通报相应“账单”系 AI 生成，外省市一互联网酒类销售公司负责人赵某某为博取关注、提升销量，组织王某某、董某、董某某等人利用 AI 软件篡改上述饭店账单金额，将饭店用酒改为自己公司的销售酒类，并制作虚假视频，通过控制账号、雇佣代发等方式在网络大量传播。▲ 网传虚假账单",
-          "source": "IT之家",
-          "date": "2026-11-13",
-          "dateLabel": "11月13日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/026/764.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/c3a6597d-4555-4189-8cfd-e6df2a2c9150.jpg",
-          "color": "#d97706"
-        },
-        {
-          "id": "f5aede63a141",
-          "title": "不用显卡：玩家靠停产傲腾内存跑通 2.8 万亿参数 Kimi K3 AI 模型，每秒输出 1.5 词元",
-          "desc": "IT之家 11 月 13 日消息，网友 u/IndividualSurvival 于 11 月 2 日在 Reddit 社区发帖，分享了一项家庭实验室尝试，在不配备显卡的情况下，使用已停产的英特尔傲腾持久内存，成功运行 2.8 万亿参数的月之暗面 Kimi K3 模型。IT之家注：“傲腾”（Intel Optane）是一套基于 3D XPoint 的内存与存储产品技术，是英特尔与美光共同开发的非易",
-          "source": "IT之家",
-          "date": "2026-11-13",
-          "dateLabel": "11月13日",
-          "tags": [
-            "model",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/026/759.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/6d24b0f3-5213-4a77-b61e-655241674f87.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "cc5536ee8938",
-          "title": "AI 接管手机迈出关键一步：谷歌 Gemini 自动化应用名单曝光，当前共计 134 款",
-          "desc": "IT之家 11 月 13 日消息，科技媒体 Android Authority 昨日（11 月 12 日）发布博文，报道称谷歌 Gemini 任务自动化功能适配应用清单被曝光，共计 134 款 App，覆盖外卖、打车、购物、旅行及办公等场景，但不代表这些应用已全部开放自动操作。IT之家援引博文介绍，截至 11 月 12 日，在稳定版安卓 17 QPR2 的目标应用列表中包含 114 个应用，而在 ",
-          "source": "IT之家",
-          "date": "2026-11-13",
-          "dateLabel": "11月13日",
-          "tags": [
-            "model",
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/026/752.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/e9d8a075-eccc-41ff-8e66-c42c9cfb249b.png",
-          "color": "#d97706"
-        },
-        {
-          "id": "eaafd8cca760",
-          "title": "UCIe 4.0 规范发布，将芯粒互连扩展至系统级集成",
-          "desc": "IT之家 11 月 13 日消息，UCIe 联盟当地时间 12 日发布了该芯粒互连规范的 4.0 版本。最新的迭代将 UCIe 架构从芯片级接口设计扩展到满足将多个芯片集成到统一的封装系统的关键要求。UCIe 4.0 引入了标准的片上存储器链路，UCIe.mem 协议简化了 SoC 与存储器逻辑裸片间的集成，实现了高达 93.75% 的数据效率和约 2.5 TB/s/mm 的晶边带宽密度；新的功率",
-          "source": "IT之家",
-          "date": "2026-11-13",
-          "dateLabel": "11月13日",
-          "tags": [
-            "research",
-            "business",
-            "policy"
-          ],
-          "url": "https://www.ithome.com/1/026/751.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/4da36f7a-0fa2-4fbf-bfad-5c1406fef7d9.jpg",
-          "color": "#d97706"
-        },
-        {
-          "id": "bb4983a096fa",
-          "title": "华为余承东：问界新 M8 研发投入 15 亿元，技术创新 126 项",
-          "desc": "IT之家 11 月 13 日现场消息，鸿蒙智行问界新 M8 上市发布会于今日举行，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东上台发表演讲。余承东表示，华为在问界新 M8 上研发投入超 15 亿元，实现技术创新 126 项，为用户带来了更豪华的空间、更强大的智能、更旗舰的底盘和驱动、更长的续航更快的补能。余承东表示，问界新 M8 采用了面向 L3 级自动驾驶的架构设计，搭载华为乾",
-          "source": "IT之家",
-          "date": "2026-11-13",
-          "dateLabel": "11月13日",
-          "tags": [
-            "research",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/026/746.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/1ea2e677-435a-40c0-be90-9bd715641df0.jpg",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/11/509653.html",
+          "image": "",
+          "color": "#7c3aed"
         }
       ]
     },
@@ -2284,113 +2401,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-10-11",
-      "dateLabel": "10月11日",
-      "id": "d11",
-      "items": [
-        {
-          "id": "17e9d45edb36",
-          "title": "用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针",
-          "desc": "一套生成论文初稿的多智能体工作流",
-          "source": "量子位",
-          "date": "2026-10-11",
-          "dateLabel": "10月11日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://www.qbitai.com/2026/10/502644.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "0ab9a0280e6e",
-          "title": "何恺明团队发布多模态Harness框架",
-          "desc": "多模态模型的视觉原生Harness，来了！",
-          "source": "量子位",
-          "date": "2026-10-11",
-          "dateLabel": "10月11日",
-          "tags": [
-            "research",
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/10/502628.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "0c5bd0c58bee",
-          "title": "陶哲轩：数学2.0时代已至！",
-          "desc": "陶哲轩：数学2.0时代已至！",
-          "source": "量子位",
-          "date": "2026-10-11",
-          "dateLabel": "10月11日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/10/502594.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "8972d295d675",
-          "title": "王的猜想，刚刚扩展到四维",
-          "desc": "王的猜想，刚刚扩展到四维",
-          "source": "量子位",
-          "date": "2026-10-11",
-          "dateLabel": "10月11日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/10/502584.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "7b2a0ed51f9f",
-          "title": "硅谷AI现状：谁有算力谁是爹",
-          "desc": "马斯克连横A社，硅谷VC开始囤GPU",
-          "source": "量子位",
-          "date": "2026-10-11",
-          "dateLabel": "10月11日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/10/502585.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "7c7b65355f1f",
-          "title": "下架8个月，GPT-4o的拯救行动居然还在继续",
-          "desc": "初代4o的API快照进入停用倒计时",
-          "source": "量子位",
-          "date": "2026-10-11",
-          "dateLabel": "10月11日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://www.qbitai.com/2026/10/502550.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "4e7491debf2f",
-          "title": "DeepSeek Bot来了！民间版，DSH装个插件就能用",
-          "desc": "Grok Bot我养不起，ds bot不得高低尝尝咸淡？",
-          "source": "量子位",
-          "date": "2026-10-11",
-          "dateLabel": "10月11日",
-          "tags": [
-            "model",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/10/502544.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -2416,6 +2426,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-11-13 17:03",
-  "totalNews": 148
+  "updateTime": "2026-11-14 16:35",
+  "totalNews": 149
 }
