@@ -1,124 +1,214 @@
 {
   "newsData": [
     {
+      "date": "2026-11-15",
+      "dateLabel": "11月15日",
+      "id": "d15",
+      "items": [
+        {
+          "id": "62eaffab9eb5",
+          "title": "利用 AI 将国漫角色改成情色形象，7 名“黄图画师”获刑",
+          "desc": "IT之家 11 月 15 日消息，据“婺城检察”公众号，近期金华市婺城区检察院对一批“黄图画师”提起公诉，涉案嫌疑人陈某等 7 人被判有期徒刑二年至八个月不等。据报道，涉案嫌疑人陈某等掌控了数十个漫画爱好者群，群名大多带着“国漫”“同人”“角色交流”之类的字眼，其在群内以每份 5 元至 20 元的价格销售利用 AI 生成的国漫角色黄色图片，除了直接在群内售卖已制作好的图片压缩包之外，为了笼络客源、",
+          "source": "IT之家",
+          "date": "2026-11-15",
+          "dateLabel": "11月15日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/027/395.htm",
+          "image": "",
+          "color": "#d97706"
+        },
+        {
+          "id": "6d63eec40e72",
+          "title": "消息称 SK 海力士加快设备投资进度，进一步扩大 HBM4 产能",
+          "desc": "IT之家 11 月 15 日消息，据韩媒 Etnews 今天报道，尽管英伟达 CEO 更替等因素加剧 AI 行业不确定性，但 SK 海力士仍认为 HBM（IT之家注：高带宽内存）需求强劲。该公司计划重点投资 HBM 封装和测试环节的设备，并计划于明年上半年正式投入使用。据多位半导体设备行业人士透露，SK 海力士正与合作伙伴商讨采购 HBM4 生产设备。该公司主要与负责 HBM 键合、切割和检测等后",
+          "source": "IT之家",
+          "date": "2026-11-15",
+          "dateLabel": "11月15日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/027/392.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/4de7e21d-36d0-4d32-8a66-b98944ea3b06.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "2a1da0f8f9b0",
+          "title": "大众 ID.Buzz 变身自动驾驶出租车，May Mobility 计划到 2031 年投放 1 万辆",
+          "desc": "IT之家 11 月 15 日消息，当地时间周四，自动驾驶技术公司 May Mobility 宣布，计划将自家的自动驾驶系统整合到大众 ID. Buzz 上，让这款电动面包车进入允许无人驾驶出租车运营的市场。May Mobility 希望利用现有技术平台，为 ID. Buzz 加装相应的硬件和软件，使车辆具备“提前 10 秒预判未来路况”的能力。这并不意味着车辆真的能够预知未来，May Mobili",
+          "source": "IT之家",
+          "date": "2026-11-15",
+          "dateLabel": "11月15日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/027/358.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/c4b6105e-900e-473a-8c5e-b9639c8008e9.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "1ae5d7787a23",
+          "title": "韩国税务师“状元”考生 160 题仅错 1 题，利用 AI 作弊惊动青瓦台",
+          "desc": "IT之家 11 月 15 日消息，据韩联社今日报道，韩国总统秘书室长（幕僚长）林光铉 15 日表示，针对今年税务师考试第一名利用微型摄像头和人工智能（AI）作弊一事，青瓦台将于当天下午召开由政策室长主持的会议，商讨应对措施。这名考生此前因成绩异常突出受到质疑。税务师第一阶段考试共 160 道题，他仅错一题，四门科目中三门满分。15 日，他向警方自首并承认，在税务师一、二试及注册会计师一试中，曾用微",
+          "source": "IT之家",
+          "date": "2026-11-15",
+          "dateLabel": "11月15日",
+          "tags": [
+            "policy"
+          ],
+          "url": "https://www.ithome.com/1/027/357.htm",
+          "image": "",
+          "color": "#d97706"
+        },
+        {
+          "id": "b6f23a0582ff",
+          "title": "消息称科技界预期黄仁勋将在硅谷“东山再起”，业内高管称多家公司有意伸出橄榄枝",
+          "desc": "IT之家 11 月 15 日消息，据美媒 Politico 引述多位硅谷高管及行业内部人士报道称，科技界普遍预期黄仁勋将在硅谷“东山再起”。国防科技巨头 Anduril 创始人帕尔默 · 拉奇（Palmer Luckey）与 Perplexity AI 首席执行官阿拉温德 · 斯里尼瓦斯（Aravind Srinivas）已率先发声为黄仁勋辩护，埃隆 · 马斯克（Elon Musk）甚至放风称考虑",
+          "source": "IT之家",
+          "date": "2026-11-15",
+          "dateLabel": "11月15日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/027/354.htm",
+          "image": "",
+          "color": "#d97706"
+        },
+        {
+          "id": "791188ee35f2",
+          "title": "买下特斯拉 Cybercab 还有一堆限制：禁止贴膜、改装，订阅费可能会变动",
+          "desc": "IT之家 11 月 15 日消息，购买特斯拉 Cybercab，面临的限制可能比购买普通特斯拉汽车多得多。除了 29,990 美元（IT之家注：现汇率约合 20.1 万元人民币）的购车费用，车主还必须订阅特斯拉每月收费 299 美元（现汇率约合 2,000 元人民币）的 Autonomy 自动驾驶服务。根据订阅协议，即使车辆已经付费买下，车主在使用过程中仍须遵守一系列规定。特斯拉可以随时调整 Au",
+          "source": "IT之家",
+          "date": "2026-11-15",
+          "dateLabel": "11月15日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/027/350.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/e82098cc-3b0d-4b38-8716-ee816d714550.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "757db681b096",
+          "title": "消息称三星 One UI 9.5 系统将为多数自带应用带来智能体 AI 功能",
+          "desc": "IT之家 11 月 15 日消息，据科技媒体 Sammobile 昨天报道，三星 One UI 9.5 系统将为高端 Galaxy 手机和平板电脑带来系统级 AI 智能体，进一步拓展 Galaxy AI 的能力。IT之家从原报道获悉，三星已在设计 Personal Agent Core 功能，旨在将 AI 助手与系统自带应用深度整合。与传统语音助手不同，它能够通过自然语言对话管理多步骤工作流程，并",
+          "source": "IT之家",
+          "date": "2026-11-15",
+          "dateLabel": "11月15日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/027/349.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/e98bc38b-1054-44c0-8675-71faed4bc67c.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "15fae4ad7571",
+          "title": "爱好者将索尼 PS5 独占的 TGA 2024 年度游戏《宇宙机器人》移植到 PC 平台",
+          "desc": "IT之家 11 月 15 日消息，据外媒 ComputerBase 报道，近期有爱好者 imnotsharingmyname 将索尼 PS5 独占的 TGA 2024 年度游戏《宇宙机器人（Astro Bot）》移植到 PC 平台，同时为相应版本加入了英伟达 DLSS、帧生成和 Reflex 等技术。与近期出现的部分主机游戏 PC 移植项目类似，该项目并未通过模拟器运行游戏，而是将主机代码重新编译",
+          "source": "IT之家",
+          "date": "2026-11-15",
+          "dateLabel": "11月15日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.ithome.com/1/027/343.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/78ec2108-cba4-4dc5-be16-634b5b0d575c.png",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-11-14",
       "dateLabel": "11月14日",
       "id": "d14",
       "items": [
         {
-          "id": "2d42afa3b3d0",
-          "title": "299 美元月费约为 1% 车价：马斯克回应 Cybercab 自动驾驶订阅费太高，应在 115 美元左右",
-          "desc": "IT之家 11 月 14 日消息，全球首富埃隆 · 马斯克（Elon Musk）今天（11 月 14 日）在 X 平台发布推文，回应科技博主 @MKBHD 关于“Cybercab 每月 299 美元（IT之家注：现汇率约合 1,999 元人民币）的订阅费用过高”情况，认为合理价格应该在 115 美元（现汇率约合 768.8 元人民币）左右。IT之家今天报道，特斯拉开始向部分个人用户开放 Cyber",
-          "source": "IT之家",
+          "id": "ee3b449798cf",
+          "title": "英伟达上演“奥特曼2.0”，员工集体请愿：让老黄回家！",
+          "desc": "马斯克也签名了",
+          "source": "量子位",
           "date": "2026-11-14",
           "dateLabel": "11月14日",
           "tags": [
             "business"
           ],
-          "url": "https://www.ithome.com/1/027/159.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/fea6ddb6-7e57-4421-855b-839d8a59e442.jpg",
-          "color": "#d97706"
-        },
-        {
-          "id": "23a09244cbde",
-          "title": "谷歌推送 Android Auto 18.2 测试版，代码显示官方正持续开发浅色模式菜单界面",
-          "desc": "IT之家 11 月 14 日消息，外媒 9to5Google 在拆解谷歌 Android Auto 18.2 测试版时发现，谷歌仍在继续开发 Android Auto 的浅色模式菜单界面。具体来看，官方在本次更新中悄悄调整了超过 100 项界面资源文件，主要涉及按钮等用户界面元素。res/drawable/ic_mr_button_connected_14_dark.xmlres/drawable",
-          "source": "IT之家",
-          "date": "2026-11-14",
-          "dateLabel": "11月14日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/027/158.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/5e0b9a21-d09a-46e5-9b7c-08a5e579e705.png",
-          "color": "#d97706"
-        },
-        {
-          "id": "20c5e24ab3f6",
-          "title": "微软确认消费者产品服务已恢复，企业服务仍在监控",
-          "desc": "IT之家 11 月 14 日消息，微软今天（14 日）通报称，截至协调世界时 13 日 16 时 10 分（IT之家注：北京时间 11 月 14 日 0 时 10 分），面向个人用户的产品和服务已全面恢复，Microsoft 365 企业服务也出现了持续恢复的迹象。对于企业服务故障，微软仍在监测此次事件期间积压的邮件，尚未确认问题完全解决。微软在服务状态页面的更新中指出：“考虑到此次事件造成的严重",
-          "source": "IT之家",
-          "date": "2026-11-14",
-          "dateLabel": "11月14日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/027/156.htm",
+          "url": "https://www.qbitai.com/2026/11/510297.html",
           "image": "",
-          "color": "#d97706"
+          "color": "#7c3aed"
         },
         {
-          "id": "0ffe8c67d3e0",
-          "title": "游戏《红色沙漠》开发商将 AI 应用范围扩展至整个开发管线，强调核心创作仍由人工主导",
-          "desc": "IT之家 11 月 14 日消息，据 TechPowerUp 报道，《红色沙漠》于 2026 年 3 月发售后，曾因正式版游戏中包含 AI 生成的资产而遭到玩家抵制。尽管 Pearl Abyss 随后移除了这些资产，并辩称它们只是审核时意外遗漏的占位符，但该工作室似乎并未因此却步，仍打算在未来的游戏中继续使用生成式 AI。这一点在其近期发布的财报中得到了证实 —— Pearl Abyss 在报告中",
-          "source": "IT之家",
-          "date": "2026-11-14",
-          "dateLabel": "11月14日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/027/154.htm",
-          "image": "",
-          "color": "#d97706"
-        },
-        {
-          "id": "063ad6ebe63d",
-          "title": "HMD 2320 Flip 4G 功能机曝光：紫光展锐 T127 芯片，1.77 英寸外屏",
-          "desc": "IT之家 11 月 14 日消息，消息源 smashx_60 发文，曝光了 HMD 2320 Flip 4G 翻盖功能机规格信息，该机外观预计和 HMD 2360 Flip 大致相同。该机配备 1.77 英寸外屏和 2.4 英寸 LCD 内屏，内置 0.3Mp 摄像头。使用紫光展锐 T127 芯片，匹配 64MB RAM 和 128GB 存储空间，搭载 1450mAh 电池（支持 2.75W 充电",
-          "source": "IT之家",
-          "date": "2026-11-14",
-          "dateLabel": "11月14日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/027/151.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/ef9c5e86-69ad-4455-8ccc-5bc278e7fa1f.png?x-bce-process=image/auto-orient,o_1",
-          "color": "#d97706"
-        },
-        {
-          "id": "c1d12676a79d",
-          "title": "新西兰最大零售商 The Warehouse 爆发员工抗议：如厕时间都用 AI 管",
-          "desc": "IT之家 11 月 14 日消息，当地时间 13 日，据英国《独立报》报道，新西兰最大零售商 The Warehouse 集团的员工指控，公司利用 AI 监控如厕时间，导致部分员工不得不在配送中心的通道里大小便。本周，The Warehouse 集团位于奥克兰和基督城的配送中心有 300 多名员工举行抗议，担心 AI 监控侵犯隐私，以及新技术的应用可能引发大规模裁员。员工认为，公司对机器人的重视程",
-          "source": "IT之家",
+          "id": "c2eaefb7173a",
+          "title": "「史上最严」湿实验预测基准发布！推理拉满、算力翻5倍也白搭",
+          "desc": "斯坦福、哈佛、康奈尔……十余家顶尖团队齐坐一桌了",
+          "source": "量子位",
           "date": "2026-11-14",
           "dateLabel": "11月14日",
           "tags": [
             "research",
-            "policy"
+            "business"
           ],
-          "url": "https://www.ithome.com/1/027/150.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/56a92901-498d-4838-af0d-9c7a20cea19f.png",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/11/510232.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "449f8ec833c6",
-          "title": "《巫师 3》新 DLC 杰洛特波兰语配音演员中风后声音沙哑，CDPR 利用 AI 技术还原其早期声线",
-          "desc": "IT之家 11 月 14 日消息，CD Projekt Red 确认，《巫师 3：狂猎》新剧情扩展包《Songs of the Past》杰洛特的波兰语配音将采用 Respeecher 的 AI 语音转换技术进行处理。IT之家获悉，自 2007 年首部《巫师》游戏推出以来，演员 Jacek Rozenek 一直担任杰洛特的波兰语配音演员，但在 2019 年其中风后声音变得低沉、沙哑。对此，CDPR",
-          "source": "IT之家",
+          "id": "0d4d360e42c1",
+          "title": "程序员集体沉迷折纸飞机！最长滞空31.2秒",
+          "desc": "童年的纸飞机，现在终于飞回我手里～",
+          "source": "量子位",
           "date": "2026-11-14",
           "dateLabel": "11月14日",
           "tags": [
-            "model"
+            "business"
           ],
-          "url": "https://www.ithome.com/1/027/147.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/424da57f-2e20-43fd-8ad2-f4742afe1ffa.jpg",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/11/510150.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "0a7963bda093",
-          "title": "小特朗普支持的公司称未来 5~10 年大多数战争将由机器人来打",
-          "desc": "IT之家 11 月 14 日消息，由埃里克 · 特朗普（Eric Trump）投资支持机器人公司 Foundation 的联合创始人迈克 · 勒布朗（Mike LeBlanc）表示，未来 5~10 年内，全球大部分主要战斗将由机器完成。在接受福克斯新闻数字版（Fox News Digital）采访时，勒布朗表示：“我预计未来五到十年，人形机器人、地面车辆和无人机将承担大部分主要作战任务，人类只负责",
-          "source": "IT之家",
+          "id": "db7c8c4d448e",
+          "title": "绿电进Token出！联想重新定义词元工厂",
+          "desc": "年产2000万亿Token，成本狂降70%",
+          "source": "量子位",
           "date": "2026-11-14",
           "dateLabel": "11月14日",
           "tags": [
-            "research"
+            "business"
           ],
-          "url": "https://www.ithome.com/1/027/144.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/31e473b2-1902-4337-ac10-8c77040274a8.png",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/11/510094.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "6b340932bea5",
+          "title": "中专生拍出《哈利·波特》爆款！欧美明星、好莱坞制片人集体点赞",
+          "desc": "狂揽3000万播放量",
+          "source": "量子位",
+          "date": "2026-11-14",
+          "dateLabel": "11月14日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/11/510013.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "abc53801ec38",
+          "title": "突发！DeepSeek开放全家桶API",
+          "desc": "官方App功能均可自由组合调用",
+          "source": "量子位",
+          "date": "2026-11-14",
+          "dateLabel": "11月14日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/11/510003.html",
+          "image": "",
+          "color": "#7c3aed"
         }
       ]
     },
@@ -183,66 +273,6 @@
             "cn"
           ],
           "url": "https://www.qbitai.com/2026/11/509730.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "c64698cbb3f7",
-          "title": "从仰望极速新纪录和鼎曜全球发布 看比亚迪的国际化与高端化之路",
-          "desc": "比亚迪正在把规模优势转化为技术与品牌价值",
-          "source": "量子位",
-          "date": "2026-11-13",
-          "dateLabel": "11月13日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/11/509716.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "9c0f999523c0",
-          "title": "比亚迪与神州租车首批闪充车及闪充站投放仪式顺利举行，战略合作落地兑现，闪充中国再次提速",
-          "desc": "2026年11月10日，比亚迪与神州租车首批闪充车及闪充站投放仪式在山东济南隆重举办",
-          "source": "量子位",
-          "date": "2026-11-13",
-          "dateLabel": "11月13日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/11/509710.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "7667285bb163",
-          "title": "高难盲测超越GPT-6-Astra与Opus-5！无界前沿开源Fx-Bio-1031，把RSI带进生命科学",
-          "desc": "数据不出域、本地可部署",
-          "source": "量子位",
-          "date": "2026-11-13",
-          "dateLabel": "11月13日",
-          "tags": [
-            "model",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/11/509663.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "2315e1f0d5a6",
-          "title": "openJiuwen发布RSI原生AgentOS，让Agent自由变身，持续迭代！",
-          "desc": "想要什么功能，让Agent自己开发",
-          "source": "量子位",
-          "date": "2026-11-13",
-          "dateLabel": "11月13日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/11/509653.html",
           "image": "",
           "color": "#7c3aed"
         }
@@ -2365,42 +2395,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-10-12",
-      "dateLabel": "10月12日",
-      "id": "d12",
-      "items": [
-        {
-          "id": "223cdccef5f1",
-          "title": "2026没过完，已有480亿美元投进了物理AI",
-          "desc": "日均10亿元流入",
-          "source": "量子位",
-          "date": "2026-10-12",
-          "dateLabel": "10月12日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/10/502741.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "6ff58ba6f77d",
-          "title": "具身智能回到产业现场， 思灵机器人Agile Robots携12款展品亮相2026工博会",
-          "desc": "思灵机器人Agile Robots携12款展品参展第26届中国国际工业博览会。",
-          "source": "量子位",
-          "date": "2026-10-12",
-          "dateLabel": "10月12日",
-          "tags": [
-            "research",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/10/502683.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -2426,6 +2420,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-11-14 16:35",
+  "updateTime": "2026-11-15 16:49",
   "totalNews": 149
 }
