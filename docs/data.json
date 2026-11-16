@@ -1,6 +1,129 @@
 {
   "newsData": [
     {
+      "date": "2026-11-16",
+      "dateLabel": "11月16日",
+      "id": "d16",
+      "items": [
+        {
+          "id": "fc67b10b8bcb",
+          "title": "AI 大模型周榜：谷歌 Gemini 4 Carbon 首秀强势登顶，国产模型稳居视频榜前五阵营",
+          "desc": "IT之家 11 月 16 日消息，Arena（arena.ai）平台发布了 2026 年第 46 周（2026 年 11 月 9 日 ~11 月 15 日）大模型盲测投票榜单。本周最大看点来自谷歌：新模型 Gemini 4 Carbon (High) 首秀便以 1526 分登顶综合榜，同家族的 Gemini 4 Argon (High) 以 1522 分紧随其后，两者仅差 4 分，在误差范围内视为",
+          "source": "IT之家",
+          "date": "2026-11-16",
+          "dateLabel": "11月16日",
+          "tags": [
+            "model",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/027/775.htm",
+          "image": "",
+          "color": "#d97706"
+        },
+        {
+          "id": "f0f0d2d7b50f",
+          "title": "微软高管解释 Microsoft 365 服务为何全球宕机：三重故障引发连锁反应，击垮 80% 服务器",
+          "desc": "IT之家 11 月 16 日消息，当地时间 11 月 12 日，微软旗下 Microsoft 365 多项核心云服务发生大规模故障，导致 Outlook、Exchange Online、Teams、SharePoint 等在全世界范围宕机，数百万名用户超 12 小时无法访问电子邮件。今天微软发布了此次事故的初步报告。据初步判断，此次故障根本原因在于一个 7 月的软件缺陷，然后和另外两个基础设施问题",
+          "source": "IT之家",
+          "date": "2026-11-16",
+          "dateLabel": "11月16日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/027/801.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/b485d785-2969-4e7e-8f8d-7bbef9d54639.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "f04da3a16730",
+          "title": "轻信短视频“英伟达 RTX 5080 显卡降价近万元”虚假消息，杭州一居民被骗 1.58 万元",
+          "desc": "IT之家 11 月 16 日消息，据“平安西湖”公众号消息，杭州西湖区居民小杨（化名）近日因轻信短视频中的低价显卡信息，遭遇电信网络诈骗，损失 1.58 万元。IT之家参考通报获悉，11 月 5 日，小杨在家中刷手机时看到一条视频，称有显卡降价出售。小杨私聊对方商定款式和价格后，对方发来一个网店地址。小杨发现网店标价与双方商定价格差距较大，提出质疑。对方称可以改价，随后又以“平台有价格保护”为由，",
+          "source": "IT之家",
+          "date": "2026-11-16",
+          "dateLabel": "11月16日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/027/778.htm",
+          "image": "",
+          "color": "#d97706"
+        },
+        {
+          "id": "af7da409b705",
+          "title": "SK 海力士：计划未来 5 年将投入 1.4 万亿韩元扶持本土芯片供应商",
+          "desc": "IT之家 11 月 16 日消息，据路透社报道，韩国芯片制造商 SK 海力士（SK Hynix）周一表示，计划在未来 5 年内投入 1.4 万亿韩元（IT之家注：现汇率约合 70.03 亿元人民币），扶持韩国本土半导体材料、零部件及设备供应商，以进一步强化供应链，应对日益激烈的 AI 芯片市场竞争。与此同时，SK 海力士还公布了一项总投资额达 8,746 亿韩元（现汇率约合 43.75 亿元人民币",
+          "source": "IT之家",
+          "date": "2026-11-16",
+          "dateLabel": "11月16日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/027/768.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/7/70f50dcf-1e58-4e22-8869-8adeb2d1c976.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "9398701c9d18",
+          "title": "即时战略制游戏《英雄连 3》下月登陆 Mac 平台",
+          "desc": "IT之家 11 月 16 日消息，开发商 Relic Entertainment 近日宣布，即时战略制游戏《英雄连 3》将于下个月登陆 Mac 平台，具体日期暂未公布。IT之家了解到，《英雄连 3》游戏最初发售于 2023 年 2 月。本作融合了回合制大战略与实时微操战术。在单人战役中引入了“动态战役地图”系统，玩家可以像玩全战（Total War）一样在大地图上调兵遣将、建立补给线，进入战斗后则",
+          "source": "IT之家",
+          "date": "2026-11-16",
+          "dateLabel": "11月16日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/027/764.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/58a82941-d5f4-449c-961f-954facef1365.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "6d217f46171f",
+          "title": "日本 IT 求职平台 Paiza 开发用测试环境曝漏洞：已存在 13 年、约 90 万用户信息存在泄露可能性",
+          "desc": "IT之家 11 月 16 日消息，据外媒 ITMedia 报道，面向 IT 工程师提供求职的平台 Paiza 于 11 月 13 日通报，其开发用测试环境存在漏洞，其中存储的约 90 万条个人信息长期可以被已离职员工等第三方访问，相应漏洞已存在约 13 年。paiza 表示，该测试环境使用从正式环境复制的数据，并对姓名、地址等个人信息进行脱敏处理（隐藏或替换），以供开发测试使用。但在部分时期，部分",
+          "source": "IT之家",
+          "date": "2026-11-16",
+          "dateLabel": "11月16日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/027/763.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/8c23f6c1-88be-407e-965c-4931edcee715.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "da324eb25147",
+          "title": "股价单日暴跌 29% 后，英特尔及 CEO 陈立武遭股东集体诉讼",
+          "desc": "IT之家 11 月 16 日消息，据路透社报道，英特尔（Intel）遭到股东起诉。投资者指控这家美国芯片制造商隐瞒个人电脑（PC）市场长期低迷对公司业务造成的影响，误导股东，导致公司股价在单日暴跌近 29%。当地时间上周五，由一家密歇根州养老基金牵头的股东在美国加利福尼亚州圣何塞联邦法院提起拟议中的集体诉讼。股东认为，英特尔未能及时披露 PC 销量放缓和库存积压将对公司营收造成多大影响。诉讼文件指",
+          "source": "IT之家",
+          "date": "2026-11-16",
+          "dateLabel": "11月16日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/027/762.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2025/12/e6c9d1e6-fd2d-45af-b123-b9c830b7cf14.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "bb2ee1963470",
+          "title": "智平方 7 台人形机器人进驻 2026 APEC 新闻中心，服务中外媒体记者超 5000 名",
+          "desc": "IT之家 11 月 16 日消息，据深圳新闻联播公众号，2026 年 APEC 领导人会议周期间，深圳企业智平方在大会新闻中心投放 7 台人形机器人，为参会的媒体记者与嘉宾提供咖啡、冰淇淋、软饮等服务，服务中外媒体记者超 5000 名。据智平方介绍，这批机器人并非由机械臂完成出品，而是由人形机器人使用人类常用的咖啡机、冰淇淋机和果汁机制作完成。据了解，智平方在投放机器人前做了充足准备：有累计约 2",
+          "source": "IT之家",
+          "date": "2026-11-16",
+          "dateLabel": "11月16日",
+          "tags": [
+            "research",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/027/735.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/8f3a9351-c098-4221-a787-d3dea4507848.jpg",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-11-15",
       "dateLabel": "11月15日",
       "id": "d15",
@@ -2299,102 +2422,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-10-13",
-      "dateLabel": "10月13日",
-      "id": "d13",
-      "items": [
-        {
-          "id": "37b20dec4145",
-          "title": "iPhone断网跑35B多模态！国产开源新模型，只占3G内存",
-          "desc": "面壁开源MiniCPM-V 4.7",
-          "source": "量子位",
-          "date": "2026-10-13",
-          "dateLabel": "10月13日",
-          "tags": [
-            "research",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/10/503109.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "f0a4b029d4e1",
-          "title": "魔法原子具身Agent框架拿下MolmoSpaces全球第一",
-          "desc": "让VLA从“演示可用”逼近“产线可用”",
-          "source": "量子位",
-          "date": "2026-10-13",
-          "dateLabel": "10月13日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/10/503107.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "0e3c1f605d78",
-          "title": "梁文锋投了Swin Transformer作者！DeepSeek开始布局具身大脑",
-          "desc": "Winverse AI",
-          "source": "量子位",
-          "date": "2026-10-13",
-          "dateLabel": "10月13日",
-          "tags": [
-            "model",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/10/503093.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "aab579c97646",
-          "title": "中国车企反攻德系车心脏！巴黎车展国产品牌独占三成，大众CEO连忙呼吁抱团迎战",
-          "desc": "宝马保时捷缺席",
-          "source": "量子位",
-          "date": "2026-10-13",
-          "dateLabel": "10月13日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/10/502992.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "efb79060ebc6",
-          "title": "华为哈勃投了个98年博士！让机器人皮肤变色，团队平均23岁",
-          "desc": "让材料感知压力，造出超薄高密度电子皮肤",
-          "source": "量子位",
-          "date": "2026-10-13",
-          "dateLabel": "10月13日",
-          "tags": [
-            "research",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/10/502954.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "9982daa2bc76",
-          "title": "Claude团队又搞事：实测AI全自主复制进智能家电",
-          "desc": "拉马克进化的幽灵",
-          "source": "量子位",
-          "date": "2026-10-13",
-          "dateLabel": "10月13日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://www.qbitai.com/2026/10/502920.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -2420,6 +2447,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-11-15 16:49",
-  "totalNews": 149
+  "updateTime": "2026-11-16 16:59",
+  "totalNews": 151
 }
