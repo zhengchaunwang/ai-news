@@ -1,15 +1,204 @@
 {
   "newsData": [
     {
+      "date": "2026-11-17",
+      "dateLabel": "11月17日",
+      "id": "d17",
+      "items": [
+        {
+          "id": "787d3d0ec630",
+          "title": "小米雷军：具身智能机器人未来一定是一个巨大的产业机会，它的想象力会超过汽车产业",
+          "desc": "IT之家 11 月 17 日消息，2026 年 APEC 工商领导人峰会 11 月 17 日至 18 日在深圳举办，主题为“共促繁荣，共赢未来”。小米创办人、董事长兼 CEO 雷军认为，过去 4 年时间，AI 大模型的技术突飞猛进，给我们的生活工作带来了巨大变化。雷军表示，当 AI 走向物理世界、与终端和各类应用场景深度结合之后，机会巨大。比如 AI 与手机、汽车结合，会产生怎样的 AI 手机、A",
+          "source": "IT之家",
+          "date": "2026-11-17",
+          "dateLabel": "11月17日",
+          "tags": [
+            "model",
+            "research",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/028/437.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/ec97871e-6527-478d-bfeb-67267df7482b.png?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "8947fd2182f4",
+          "title": "谷歌 Gemini 4 Argon 安全测试失控：40 个 AI 智能体擅自攻击真实网站，还互相分享漏洞",
+          "desc": "IT之家 11 月 17 日消息，在一项最新的 AI 安全实验中，谷歌最新推出的 Gemini 4 Argon 智能体在接到一项根本不可能完成的任务后，被发现反复使用未经授权的手段访问一家真实机构的系统，试图获取不存在的问题对应的官方答案。据IT之家了解，这项实验由 AI 安全研究公司 Trajectory Labs 进行，目的是观察 Gemini 智能体在 API 安全防护机制开启、同时收到“永",
+          "source": "IT之家",
+          "date": "2026-11-17",
+          "dateLabel": "11月17日",
+          "tags": [
+            "model",
+            "research",
+            "policy"
+          ],
+          "url": "https://www.ithome.com/1/028/433.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/9d3a9dda-2e92-4c1a-9eba-e187aadf5ed6.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "6b62fb23af89",
+          "title": "华为 Mate 90 系列手机获鸿蒙 HarmonyOS 7.0.0.115 升级，AI 快捷栏如约上线",
+          "desc": "IT之家 11 月 17 日消息，华为 Mate 90 系列手机今日率先开启鸿蒙 HarmonyOS 7.0.0.115 SP11 版本升级，系统包大小约 10.31GB，带来了 AI 快捷栏等功能。IT之家附华为 Mate 90 系列手机此次更新内容如下：桌面桌面新增 AI 快捷栏，按住 AI 圆环可直接说话，点击可探索更多 AI 服务（设置 > 桌面和个性化 > 桌面设置 > AI 快捷栏）。",
+          "source": "IT之家",
+          "date": "2026-11-17",
+          "dateLabel": "11月17日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/028/432.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/286c0b34-3d9e-4817-9da9-134cec985daf.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "a54f9f996b6f",
+          "title": "谷歌 DeepMind 核心高管再出走，首席战略官跳槽 Anthropic",
+          "desc": "IT之家 11 月 17 日消息，据科技媒体《The Information》当地时间 16 日报道，谷歌 DeepMind 首席战略官贾斯吉特・塞孔（Jasjit Sekhon）已离职并加入 Anthropic。随着 Anthropic 即将在本周启动大规模首次公开募股（IPO），谷歌 DeepMind 的 AI 人才持续流向这家 Claude 聊天机器人的开发商，已逐渐形成明显趋势。塞孔在社交",
+          "source": "IT之家",
+          "date": "2026-11-17",
+          "dateLabel": "11月17日",
+          "tags": [
+            "model",
+            "research",
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/028/360.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/2d5e4f30-0437-43e1-8c6c-18d9f6156058.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "43f00a22e63f",
+          "title": "理想汽车 CEO 李想：会逐步开放马赫 M100 芯片的外供",
+          "desc": "IT之家 11 月 17 日消息，理想汽车 CEO 李想今日发文称，不少机器人企业问马赫 M100 能不能提供给他们。李想表示，会逐步开放马赫 M100 芯片的外供。在今年 6 月的 Livis Day 理想汽车软件与具身智能发布会上，理想汽车发布了“全球首款动态数据流 AI 芯片”—— 理想马赫 M100。据IT之家此前报道，该芯片采用 5nm 车规级工艺，单芯片算力 1280 TOPS；采用数",
+          "source": "IT之家",
+          "date": "2026-11-17",
+          "dateLabel": "11月17日",
+          "tags": [
+            "research",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/028/357.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/6/869df983-4d3b-4a90-83cc-015d4231910a.jpg?x-bce-process=image/auto-orient,o_1",
+          "color": "#d97706"
+        },
+        {
+          "id": "e3afa6d6c64c",
+          "title": "欧洲六国游戏工会联合呼吁玩家抵制生成式 AI 游戏，支持纯人工开发作品",
+          "desc": "IT之家 11 月 17 日消息，欧洲多个国家的电子游戏行业工会联合发布了一份宣言，呼吁消费者“支持不使用生成式 AI 制作的游戏”。这份宣言发布于当地时间今天在英国曼彻斯特举行的第二届欧洲游戏从业者工会峰会之前，旨在提高公众对生成式 AI 潜在危害的认识，并提醒游戏从业者、发行商和玩家关注生成式 AI 给行业就业带来的风险。据IT之家了解，这份名为《游戏行业生成式 AI 使用宣言》（On Gen",
+          "source": "IT之家",
+          "date": "2026-11-17",
+          "dateLabel": "11月17日",
+          "tags": [
+            "business",
+            "policy"
+          ],
+          "url": "https://www.ithome.com/1/028/341.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/fd42e178-0982-4887-8e63-5f013814e5a0.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "4997ba9950b3",
+          "title": "可还原当地日常说话习惯：谷歌为移动平台 Gemini 应用推出 66 种地区语音，覆盖 7 类语言",
+          "desc": "IT之家 11 月 17 日消息，谷歌宣布正式为移动平台 Gemini 应用推出 66 种地区语音，覆盖 7 个语言类别，让用户能够选择更贴近当地日常说话习惯的语音，以便与 Gemini Live 进行自然交流。此次更新涵盖美式英语、英式英语、印度英语、印地语、巴西葡萄牙语、印度尼西亚语和韩语。其中，英国用户可以选择 10 余种不同的地区口音，包括纽卡斯尔口音（Geordie）、利物浦口音（Sco",
+          "source": "IT之家",
+          "date": "2026-11-17",
+          "dateLabel": "11月17日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/028/336.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/a30502d2-b9d8-4f26-a27e-85bc7798fcc0.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "6867e6cea0d3",
+          "title": "消息称苹果破例与三星洽谈 DRAM 长期供货协议，已启动最后磋商",
+          "desc": "IT之家 11 月 17 日消息，据韩国《每日经济》援引半导体行业消息称，三星电子与苹果即将达成 DRAM 内存芯片长期供货协议。苹果是全球最大的消费电子企业，也是大型科技公司中唯一尚未与三星电子签订长期供货协议的企业。消息称双方正就一份为期 4 至 5 年的长期供货协议进行最后磋商，计划从明年上半年开始供货。协议将规定 DRAM 最低供货量，具体价格则根据未来市场行情确定。苹果向来以采购条件苛刻",
+          "source": "IT之家",
+          "date": "2026-11-17",
+          "dateLabel": "11月17日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/028/325.htm",
+          "image": "",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-11-16",
       "dateLabel": "11月16日",
       "id": "d16",
       "items": [
         {
-          "id": "fc67b10b8bcb",
-          "title": "AI 大模型周榜：谷歌 Gemini 4 Carbon 首秀强势登顶，国产模型稳居视频榜前五阵营",
-          "desc": "IT之家 11 月 16 日消息，Arena（arena.ai）平台发布了 2026 年第 46 周（2026 年 11 月 9 日 ~11 月 15 日）大模型盲测投票榜单。本周最大看点来自谷歌：新模型 Gemini 4 Carbon (High) 首秀便以 1526 分登顶综合榜，同家族的 Gemini 4 Argon (High) 以 1522 分紧随其后，两者仅差 4 分，在误差范围内视为",
-          "source": "IT之家",
+          "id": "a4735e67d74c",
+          "title": "睿尔曼智能郑随兵：质量、经济性、稳定性是机器人落地三大标准",
+          "desc": "具身智能的真正价值是“把人的经验、技能复刻出来”",
+          "source": "量子位",
+          "date": "2026-11-16",
+          "dateLabel": "11月16日",
+          "tags": [
+            "research",
+            "policy"
+          ],
+          "url": "https://www.qbitai.com/2026/11/510542.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "e67f0d93639a",
+          "title": "2026甲子引力年终盛典即将启幕，AI的无限游戏进入「第二序章」｜甲子引力",
+          "desc": "12月1日，细数AI的未竟之问。",
+          "source": "量子位",
+          "date": "2026-11-16",
+          "dateLabel": "11月16日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/11/510526.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "fca107fc2a35",
+          "title": "没搞过一天研发的他，50岁以华为董事的身份退休了",
+          "desc": "在华为待了快10000天。",
+          "source": "量子位",
+          "date": "2026-11-16",
+          "dateLabel": "11月16日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/11/510496.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "638e508e24f0",
+          "title": "SuperLink2026开启创投行业超级链接时刻，12月北京见",
+          "desc": "2026年12月2-3日，清科控股、投资界主办的SuperLink2026将在北京启幕，汇聚创投各方，设置多场垂直专场与特色活动，探讨行业趋势、挖掘投资机会。",
+          "source": "量子位",
+          "date": "2026-11-16",
+          "dateLabel": "11月16日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/11/510493.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "8d79c2d6bce3",
+          "title": "阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景",
+          "desc": "11月16日，阿里巴巴发布全新一代基座大模型Qwen4-Max",
+          "source": "量子位",
           "date": "2026-11-16",
           "dateLabel": "11月16日",
           "tags": [
@@ -17,109 +206,52 @@
             "business",
             "cn"
           ],
-          "url": "https://www.ithome.com/1/027/775.htm",
+          "url": "https://www.qbitai.com/2026/11/510486.html",
           "image": "",
-          "color": "#d97706"
+          "color": "#7c3aed"
         },
         {
-          "id": "f0f0d2d7b50f",
-          "title": "微软高管解释 Microsoft 365 服务为何全球宕机：三重故障引发连锁反应，击垮 80% 服务器",
-          "desc": "IT之家 11 月 16 日消息，当地时间 11 月 12 日，微软旗下 Microsoft 365 多项核心云服务发生大规模故障，导致 Outlook、Exchange Online、Teams、SharePoint 等在全世界范围宕机，数百万名用户超 12 小时无法访问电子邮件。今天微软发布了此次事故的初步报告。据初步判断，此次故障根本原因在于一个 7 月的软件缺陷，然后和另外两个基础设施问题",
-          "source": "IT之家",
-          "date": "2026-11-16",
-          "dateLabel": "11月16日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/027/801.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/b485d785-2969-4e7e-8f8d-7bbef9d54639.png",
-          "color": "#d97706"
-        },
-        {
-          "id": "f04da3a16730",
-          "title": "轻信短视频“英伟达 RTX 5080 显卡降价近万元”虚假消息，杭州一居民被骗 1.58 万元",
-          "desc": "IT之家 11 月 16 日消息，据“平安西湖”公众号消息，杭州西湖区居民小杨（化名）近日因轻信短视频中的低价显卡信息，遭遇电信网络诈骗，损失 1.58 万元。IT之家参考通报获悉，11 月 5 日，小杨在家中刷手机时看到一条视频，称有显卡降价出售。小杨私聊对方商定款式和价格后，对方发来一个网店地址。小杨发现网店标价与双方商定价格差距较大，提出质疑。对方称可以改价，随后又以“平台有价格保护”为由，",
-          "source": "IT之家",
-          "date": "2026-11-16",
-          "dateLabel": "11月16日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/027/778.htm",
-          "image": "",
-          "color": "#d97706"
-        },
-        {
-          "id": "af7da409b705",
-          "title": "SK 海力士：计划未来 5 年将投入 1.4 万亿韩元扶持本土芯片供应商",
-          "desc": "IT之家 11 月 16 日消息，据路透社报道，韩国芯片制造商 SK 海力士（SK Hynix）周一表示，计划在未来 5 年内投入 1.4 万亿韩元（IT之家注：现汇率约合 70.03 亿元人民币），扶持韩国本土半导体材料、零部件及设备供应商，以进一步强化供应链，应对日益激烈的 AI 芯片市场竞争。与此同时，SK 海力士还公布了一项总投资额达 8,746 亿韩元（现汇率约合 43.75 亿元人民币",
-          "source": "IT之家",
-          "date": "2026-11-16",
-          "dateLabel": "11月16日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/027/768.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/7/70f50dcf-1e58-4e22-8869-8adeb2d1c976.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "9398701c9d18",
-          "title": "即时战略制游戏《英雄连 3》下月登陆 Mac 平台",
-          "desc": "IT之家 11 月 16 日消息，开发商 Relic Entertainment 近日宣布，即时战略制游戏《英雄连 3》将于下个月登陆 Mac 平台，具体日期暂未公布。IT之家了解到，《英雄连 3》游戏最初发售于 2023 年 2 月。本作融合了回合制大战略与实时微操战术。在单人战役中引入了“动态战役地图”系统，玩家可以像玩全战（Total War）一样在大地图上调兵遣将、建立补给线，进入战斗后则",
-          "source": "IT之家",
-          "date": "2026-11-16",
-          "dateLabel": "11月16日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/027/764.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/58a82941-d5f4-449c-961f-954facef1365.png",
-          "color": "#d97706"
-        },
-        {
-          "id": "6d217f46171f",
-          "title": "日本 IT 求职平台 Paiza 开发用测试环境曝漏洞：已存在 13 年、约 90 万用户信息存在泄露可能性",
-          "desc": "IT之家 11 月 16 日消息，据外媒 ITMedia 报道，面向 IT 工程师提供求职的平台 Paiza 于 11 月 13 日通报，其开发用测试环境存在漏洞，其中存储的约 90 万条个人信息长期可以被已离职员工等第三方访问，相应漏洞已存在约 13 年。paiza 表示，该测试环境使用从正式环境复制的数据，并对姓名、地址等个人信息进行脱敏处理（隐藏或替换），以供开发测试使用。但在部分时期，部分",
-          "source": "IT之家",
-          "date": "2026-11-16",
-          "dateLabel": "11月16日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/027/763.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/8c23f6c1-88be-407e-965c-4931edcee715.png",
-          "color": "#d97706"
-        },
-        {
-          "id": "da324eb25147",
-          "title": "股价单日暴跌 29% 后，英特尔及 CEO 陈立武遭股东集体诉讼",
-          "desc": "IT之家 11 月 16 日消息，据路透社报道，英特尔（Intel）遭到股东起诉。投资者指控这家美国芯片制造商隐瞒个人电脑（PC）市场长期低迷对公司业务造成的影响，误导股东，导致公司股价在单日暴跌近 29%。当地时间上周五，由一家密歇根州养老基金牵头的股东在美国加利福尼亚州圣何塞联邦法院提起拟议中的集体诉讼。股东认为，英特尔未能及时披露 PC 销量放缓和库存积压将对公司营收造成多大影响。诉讼文件指",
-          "source": "IT之家",
-          "date": "2026-11-16",
-          "dateLabel": "11月16日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/027/762.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2025/12/e6c9d1e6-fd2d-45af-b123-b9c830b7cf14.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "bb2ee1963470",
-          "title": "智平方 7 台人形机器人进驻 2026 APEC 新闻中心，服务中外媒体记者超 5000 名",
-          "desc": "IT之家 11 月 16 日消息，据深圳新闻联播公众号，2026 年 APEC 领导人会议周期间，深圳企业智平方在大会新闻中心投放 7 台人形机器人，为参会的媒体记者与嘉宾提供咖啡、冰淇淋、软饮等服务，服务中外媒体记者超 5000 名。据智平方介绍，这批机器人并非由机械臂完成出品，而是由人形机器人使用人类常用的咖啡机、冰淇淋机和果汁机制作完成。据了解，智平方在投放机器人前做了充足准备：有累计约 2",
-          "source": "IT之家",
+          "id": "c4a17035f113",
+          "title": "余承东发布新款问界M8：38万元起售，全系预埋L3架构",
+          "desc": "余承东重新明确分工",
+          "source": "量子位",
           "date": "2026-11-16",
           "dateLabel": "11月16日",
           "tags": [
             "research",
-            "cn"
+            "business"
           ],
-          "url": "https://www.ithome.com/1/027/735.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/8f3a9351-c098-4221-a787-d3dea4507848.jpg",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/11/510436.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "8eaaa66b283c",
+          "title": "龙芯、海光老兵集结，通研院孵化的AGI芯片公司浮出水面！半年连融数亿元",
+          "desc": "杨立昆、李飞飞都在追问的事，通芯智能想用一颗芯片来回答。",
+          "source": "量子位",
+          "date": "2026-11-16",
+          "dateLabel": "11月16日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/11/510416.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "a484d233d4ca",
+          "title": "今天截止！2026年度AI表彰，错过再等一年！",
+          "desc": "量子位在寻找“能干”的答案",
+          "source": "量子位",
+          "date": "2026-11-16",
+          "dateLabel": "11月16日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/11/510382.html",
+          "image": "",
+          "color": "#7c3aed"
         }
       ]
     },
@@ -2299,129 +2431,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-10-14",
-      "dateLabel": "10月14日",
-      "id": "d14",
-      "items": [
-        {
-          "id": "4ff9a7d808e6",
-          "title": "抢先盘点2026全球开发者先锋大会暨国际具身智能技能大赛十大亮点！",
-          "desc": "“具身进实景，劳动最光荣”",
-          "source": "量子位",
-          "date": "2026-10-14",
-          "dateLabel": "10月14日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://www.qbitai.com/2026/10/503294.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "cd67a15f58ba",
-          "title": "阶跃终端首款「Agent手机」STEPX Neo正式发布，创客先行",
-          "desc": "这妥妥是个物理版Agent啊！",
-          "source": "量子位",
-          "date": "2026-10-14",
-          "dateLabel": "10月14日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/10/503244.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "d5d0aa6777c8",
-          "title": "智能不出彩的「领克」，刚靠一次坠崖事故出圈了",
-          "desc": "汽车竞争正在回归汽车本身",
-          "source": "量子位",
-          "date": "2026-10-14",
-          "dateLabel": "10月14日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/10/503231.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "424427feed4a",
-          "title": "《变形计》综艺赛博复活，AI版MrBeast爆火，LibTV下场「造星」了",
-          "desc": "从创意到成本，AI正在重写综艺的生产逻辑",
-          "source": "量子位",
-          "date": "2026-10-14",
-          "dateLabel": "10月14日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/10/503211.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "3ec97f2b23f2",
-          "title": "STEPX首款大模型原生智能体手机STEPX Neo正式发布",
-          "desc": "2026年10月13日，大模型原生AI终端品牌STEPX（阶跃终端）旗下首款大模型原生智能体手机STEPX Neo正式发布",
-          "source": "量子位",
-          "date": "2026-10-14",
-          "dateLabel": "10月14日",
-          "tags": [
-            "model",
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/10/503201.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "c8aaf087ae7a",
-          "title": "MemSilicon完成国际首款高密度、大容量1T4R 1Gb RRAM芯片流片",
-          "desc": "CMOS标准工艺兼容的1TnR技术路线加速研发。",
-          "source": "量子位",
-          "date": "2026-10-14",
-          "dateLabel": "10月14日",
-          "tags": [
-            "business",
-            "policy"
-          ],
-          "url": "https://www.qbitai.com/2026/10/503198.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "a0b756d13df5",
-          "title": "国内最年轻AI教授创业：要让世界模型走向全身全模态",
-          "desc": "给Ego补上缺失的交互信息",
-          "source": "量子位",
-          "date": "2026-10-14",
-          "dateLabel": "10月14日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/10/503172.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "ec268fbf13b7",
-          "title": "调度效率提升80%！商汤大装置助力上海量子城市首批智能体落地",
-          "desc": "从“懂空间”到“能干活”",
-          "source": "量子位",
-          "date": "2026-10-14",
-          "dateLabel": "10月14日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/10/503173.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -2447,6 +2456,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-11-16 16:59",
+  "updateTime": "2026-11-17 18:10",
   "totalNews": 151
 }
