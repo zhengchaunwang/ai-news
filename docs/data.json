@@ -1,132 +1,172 @@
 {
   "newsData": [
     {
+      "date": "2026-11-18",
+      "dateLabel": "11月18日",
+      "id": "d18",
+      "items": [
+        {
+          "id": "de29103a7d9a",
+          "title": "GPT-6.2难产！OpenAI怕了",
+          "desc": "OpenAI也终于活成了2022年谷歌的样子",
+          "source": "量子位",
+          "date": "2026-11-18",
+          "dateLabel": "11月18日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://www.qbitai.com/2026/11/510914.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "4d775615f86d",
+          "title": "全球首个医疗健康AI独立评测与分析平台InclusionMed正式上线",
+          "desc": "近日，全球首个医疗健康 AI 独立评测与分析平台InclusionMed 正式上线",
+          "source": "量子位",
+          "date": "2026-11-18",
+          "dateLabel": "11月18日",
+          "tags": [
+            "research",
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/11/510916.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "ed04a04d65cd",
+          "title": "思维链一作Jason Wei离职！怎么去Meta待一年都跑路",
+          "desc": "入职Meta刚满一年出头，竟然直接提桶跑路了！",
+          "source": "量子位",
+          "date": "2026-11-18",
+          "dateLabel": "11月18日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/11/510811.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "8d0bf0304592",
+          "title": "英伟达AMD首次联手押注！Genesis完成A轮融资，估值超230亿",
+          "desc": "具身全栈玩家",
+          "source": "量子位",
+          "date": "2026-11-18",
+          "dateLabel": "11月18日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/11/510821.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "00d843f9f58c",
+          "title": "潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？",
+          "desc": "小红书校招沙龙，一群技术高手认真对待年轻人的野心",
+          "source": "量子位",
+          "date": "2026-11-18",
+          "dateLabel": "11月18日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/11/510737.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "7899f46354b6",
+          "title": "黄仁勋不再沉默：我愿重掌英伟达！董事会：不考虑",
+          "desc": "英伟达公布了老黄离职后的首份财报",
+          "source": "量子位",
+          "date": "2026-11-18",
+          "dateLabel": "11月18日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/11/510726.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "8004da3580aa",
+          "title": "GPT-6.2 Astra和Sol王炸双发！3D又危了",
+          "desc": "Sol逼近旗舰性能",
+          "source": "量子位",
+          "date": "2026-11-18",
+          "dateLabel": "11月18日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://www.qbitai.com/2026/11/510707.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "b236403f159e",
+          "title": "亚马逊不排除放行外部 AI 购物智能体，前提是带来优质用户体验",
+          "desc": "IT之家 11 月 18 日消息，亚马逊此前关闭了外部 AI 购物智能体在其平台上直接下单的权限，但 CEO 安迪 · 贾西（Andy Jassy）表示，公司并没有彻底关上这扇门，未来仍有可能重新开放。贾西当地时间周二在 Semafor 举办的“硅谷与世界”大会上表示：“我认为，我们从来没有说过绝对不会开放。这件事的前提是必须为消费者提供良好的体验，而目前还没有做到这一点，同时双方也必须实现公平的",
+          "source": "IT之家",
+          "date": "2026-11-18",
+          "dateLabel": "11月18日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/028/933.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2025/12/95087e6d-4661-4eed-ba13-0b737018ce33.jpg",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-11-17",
       "dateLabel": "11月17日",
       "id": "d17",
       "items": [
         {
-          "id": "787d3d0ec630",
-          "title": "小米雷军：具身智能机器人未来一定是一个巨大的产业机会，它的想象力会超过汽车产业",
-          "desc": "IT之家 11 月 17 日消息，2026 年 APEC 工商领导人峰会 11 月 17 日至 18 日在深圳举办，主题为“共促繁荣，共赢未来”。小米创办人、董事长兼 CEO 雷军认为，过去 4 年时间，AI 大模型的技术突飞猛进，给我们的生活工作带来了巨大变化。雷军表示，当 AI 走向物理世界、与终端和各类应用场景深度结合之后，机会巨大。比如 AI 与手机、汽车结合，会产生怎样的 AI 手机、A",
-          "source": "IT之家",
-          "date": "2026-11-17",
-          "dateLabel": "11月17日",
-          "tags": [
-            "model",
-            "research",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/028/437.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/ec97871e-6527-478d-bfeb-67267df7482b.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "8947fd2182f4",
-          "title": "谷歌 Gemini 4 Argon 安全测试失控：40 个 AI 智能体擅自攻击真实网站，还互相分享漏洞",
-          "desc": "IT之家 11 月 17 日消息，在一项最新的 AI 安全实验中，谷歌最新推出的 Gemini 4 Argon 智能体在接到一项根本不可能完成的任务后，被发现反复使用未经授权的手段访问一家真实机构的系统，试图获取不存在的问题对应的官方答案。据IT之家了解，这项实验由 AI 安全研究公司 Trajectory Labs 进行，目的是观察 Gemini 智能体在 API 安全防护机制开启、同时收到“永",
-          "source": "IT之家",
-          "date": "2026-11-17",
-          "dateLabel": "11月17日",
-          "tags": [
-            "model",
-            "research",
-            "policy"
-          ],
-          "url": "https://www.ithome.com/1/028/433.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/9d3a9dda-2e92-4c1a-9eba-e187aadf5ed6.jpg",
-          "color": "#d97706"
-        },
-        {
-          "id": "6b62fb23af89",
-          "title": "华为 Mate 90 系列手机获鸿蒙 HarmonyOS 7.0.0.115 升级，AI 快捷栏如约上线",
-          "desc": "IT之家 11 月 17 日消息，华为 Mate 90 系列手机今日率先开启鸿蒙 HarmonyOS 7.0.0.115 SP11 版本升级，系统包大小约 10.31GB，带来了 AI 快捷栏等功能。IT之家附华为 Mate 90 系列手机此次更新内容如下：桌面桌面新增 AI 快捷栏，按住 AI 圆环可直接说话，点击可探索更多 AI 服务（设置 > 桌面和个性化 > 桌面设置 > AI 快捷栏）。",
-          "source": "IT之家",
-          "date": "2026-11-17",
-          "dateLabel": "11月17日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/028/432.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/286c0b34-3d9e-4817-9da9-134cec985daf.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "a54f9f996b6f",
-          "title": "谷歌 DeepMind 核心高管再出走，首席战略官跳槽 Anthropic",
-          "desc": "IT之家 11 月 17 日消息，据科技媒体《The Information》当地时间 16 日报道，谷歌 DeepMind 首席战略官贾斯吉特・塞孔（Jasjit Sekhon）已离职并加入 Anthropic。随着 Anthropic 即将在本周启动大规模首次公开募股（IPO），谷歌 DeepMind 的 AI 人才持续流向这家 Claude 聊天机器人的开发商，已逐渐形成明显趋势。塞孔在社交",
-          "source": "IT之家",
-          "date": "2026-11-17",
-          "dateLabel": "11月17日",
-          "tags": [
-            "model",
-            "research",
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/028/360.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/2d5e4f30-0437-43e1-8c6c-18d9f6156058.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "43f00a22e63f",
-          "title": "理想汽车 CEO 李想：会逐步开放马赫 M100 芯片的外供",
-          "desc": "IT之家 11 月 17 日消息，理想汽车 CEO 李想今日发文称，不少机器人企业问马赫 M100 能不能提供给他们。李想表示，会逐步开放马赫 M100 芯片的外供。在今年 6 月的 Livis Day 理想汽车软件与具身智能发布会上，理想汽车发布了“全球首款动态数据流 AI 芯片”—— 理想马赫 M100。据IT之家此前报道，该芯片采用 5nm 车规级工艺，单芯片算力 1280 TOPS；采用数",
-          "source": "IT之家",
-          "date": "2026-11-17",
-          "dateLabel": "11月17日",
-          "tags": [
-            "research",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/028/357.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/6/869df983-4d3b-4a90-83cc-015d4231910a.jpg?x-bce-process=image/auto-orient,o_1",
-          "color": "#d97706"
-        },
-        {
-          "id": "e3afa6d6c64c",
-          "title": "欧洲六国游戏工会联合呼吁玩家抵制生成式 AI 游戏，支持纯人工开发作品",
-          "desc": "IT之家 11 月 17 日消息，欧洲多个国家的电子游戏行业工会联合发布了一份宣言，呼吁消费者“支持不使用生成式 AI 制作的游戏”。这份宣言发布于当地时间今天在英国曼彻斯特举行的第二届欧洲游戏从业者工会峰会之前，旨在提高公众对生成式 AI 潜在危害的认识，并提醒游戏从业者、发行商和玩家关注生成式 AI 给行业就业带来的风险。据IT之家了解，这份名为《游戏行业生成式 AI 使用宣言》（On Gen",
-          "source": "IT之家",
-          "date": "2026-11-17",
-          "dateLabel": "11月17日",
-          "tags": [
-            "business",
-            "policy"
-          ],
-          "url": "https://www.ithome.com/1/028/341.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/fd42e178-0982-4887-8e63-5f013814e5a0.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "4997ba9950b3",
-          "title": "可还原当地日常说话习惯：谷歌为移动平台 Gemini 应用推出 66 种地区语音，覆盖 7 类语言",
-          "desc": "IT之家 11 月 17 日消息，谷歌宣布正式为移动平台 Gemini 应用推出 66 种地区语音，覆盖 7 个语言类别，让用户能够选择更贴近当地日常说话习惯的语音，以便与 Gemini Live 进行自然交流。此次更新涵盖美式英语、英式英语、印度英语、印地语、巴西葡萄牙语、印度尼西亚语和韩语。其中，英国用户可以选择 10 余种不同的地区口音，包括纽卡斯尔口音（Geordie）、利物浦口音（Sco",
-          "source": "IT之家",
-          "date": "2026-11-17",
-          "dateLabel": "11月17日",
-          "tags": [
-            "model",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/028/336.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/a30502d2-b9d8-4f26-a27e-85bc7798fcc0.png",
-          "color": "#d97706"
-        },
-        {
-          "id": "6867e6cea0d3",
-          "title": "消息称苹果破例与三星洽谈 DRAM 长期供货协议，已启动最后磋商",
-          "desc": "IT之家 11 月 17 日消息，据韩国《每日经济》援引半导体行业消息称，三星电子与苹果即将达成 DRAM 内存芯片长期供货协议。苹果是全球最大的消费电子企业，也是大型科技公司中唯一尚未与三星电子签订长期供货协议的企业。消息称双方正就一份为期 4 至 5 年的长期供货协议进行最后磋商，计划从明年上半年开始供货。协议将规定 DRAM 最低供货量，具体价格则根据未来市场行情确定。苹果向来以采购条件苛刻",
-          "source": "IT之家",
+          "id": "0047bef15feb",
+          "title": "并购完成，李飞飞正式率队加入AMD！苏妈亲自欢迎",
+          "desc": "82亿美元股票，46天闪电交割",
+          "source": "量子位",
           "date": "2026-11-17",
           "dateLabel": "11月17日",
           "tags": [
             "business"
           ],
-          "url": "https://www.ithome.com/1/028/325.htm",
+          "url": "https://www.qbitai.com/2026/11/510695.html",
           "image": "",
-          "color": "#d97706"
+          "color": "#7c3aed"
+        },
+        {
+          "id": "19230e8a8def",
+          "title": "李沐加盟的Aimotion，是一家什么AI公司？",
+          "desc": "瞄准「产业级世界模型」",
+          "source": "量子位",
+          "date": "2026-11-17",
+          "dateLabel": "11月17日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/11/510688.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "de21277e1ae3",
+          "title": "材料科学智能体MatOS正式开源！大幅提高材料研发任务成功率",
+          "desc": "筛材料、找配方、开发新模型…拿下多项科研任务",
+          "source": "量子位",
+          "date": "2026-11-17",
+          "dateLabel": "11月17日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/11/510652.html",
+          "image": "",
+          "color": "#7c3aed"
         }
       ]
     },
@@ -2307,130 +2347,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-10-15",
-      "dateLabel": "10月15日",
-      "id": "d15",
-      "items": [
-        {
-          "id": "5550751c3b7f",
-          "title": "京东11.11：首日下单用户数同比双位数增长、超百项服务首次全景亮相",
-          "desc": "京东11.11已于10月12日晚8点全面开启，首日下单用户数实现同比双位数增长。",
-          "source": "量子位",
-          "date": "2026-10-15",
-          "dateLabel": "10月15日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/10/503645.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "89287ff6c018",
-          "title": "库克：苹果智能接入阿里千问大模型，10月底在中国发布测试版本",
-          "desc": "Siri AI这次不包括在内",
-          "source": "量子位",
-          "date": "2026-10-15",
-          "dateLabel": "10月15日",
-          "tags": [
-            "model",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/10/503640.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "27ab74e6163a",
-          "title": "量子位智库发布Agent落地报告！拆解企业智能化六大断点，附全链路破局框架",
-          "desc": "Agent究竟该如何深入业务毛细血管？",
-          "source": "量子位",
-          "date": "2026-10-15",
-          "dateLabel": "10月15日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/10/503614.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "d68935e2b2d4",
-          "title": "2026 TMOT首个AI智能体走进电音现场，让听众成为音乐共创者",
-          "desc": "10月17日至18日，顶尖电音节The Magic of Tomorrowland 2026将在上海举行。",
-          "source": "量子位",
-          "date": "2026-10-15",
-          "dateLabel": "10月15日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/10/503611.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "f8f4e21603e9",
-          "title": "这个双十一，百灵新模型干起活来不烧心",
-          "desc": "大模型好不好用，百灵拿成品说话",
-          "source": "量子位",
-          "date": "2026-10-15",
-          "dateLabel": "10月15日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://www.qbitai.com/2026/10/503532.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "da275cfd0140",
-          "title": "AI时代，商学院这样培养未来商业领袖",
-          "desc": "未来十年共创1000个AI课题",
-          "source": "量子位",
-          "date": "2026-10-15",
-          "dateLabel": "10月15日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/10/503504.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "06f94ff71033",
-          "title": "基元律动宣布开发者入驻超30万，开启双11预售福利",
-          "desc": "基元律动（Token Rhythm）宣布已有超过30万名开发者入驻，同期推出双11预售限时福利。",
-          "source": "量子位",
-          "date": "2026-10-15",
-          "dateLabel": "10月15日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/10/503501.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "35289d2c96b2",
-          "title": "苹果AI国内上线，阿里百度浮出水面",
-          "desc": "苹果 Apple Intelligence（苹果智能）在中国大陆的上线进入最后阶段。",
-          "source": "量子位",
-          "date": "2026-10-15",
-          "dateLabel": "10月15日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/10/503497.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -2456,6 +2372,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-11-17 18:10",
-  "totalNews": 151
+  "updateTime": "2026-11-18 17:43",
+  "totalNews": 146
 }
