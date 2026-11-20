@@ -1,10 +1,153 @@
 {
   "newsData": [
     {
+      "date": "2026-11-20",
+      "dateLabel": "11月20日",
+      "id": "d20",
+      "items": [
+        {
+          "id": "b1f02c591a02",
+          "title": "昇腾算力训出了双榜SOTA的具身世界模型，华为云这次想把整套底座开放出来",
+          "desc": "国产算力的成熟，把具身竞争维度从「芯片有多强」，拉入了一个比拼训练效率、数据规模、部署成本和场景落地速度的多维战场。",
+          "source": "量子位",
+          "date": "2026-11-20",
+          "dateLabel": "11月20日",
+          "tags": [
+            "research",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/11/511610.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "f5724a1e48bf",
+          "title": "新浪新闻·2026探索大会在京举行 虚实交融共探智能时代共生新图景",
+          "desc": "11月19日，由微博与新浪新闻联合主办的“新浪新闻·2026探索大会”在北京举办。",
+          "source": "量子位",
+          "date": "2026-11-20",
+          "dateLabel": "11月20日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/11/511603.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "f71ffc8eac7b",
+          "title": "双系统决策+双层自进化，Agnes让Agent效率最高提速14倍，成本骤降至1/27！",
+          "desc": "已开源Agnes Harness",
+          "source": "量子位",
+          "date": "2026-11-20",
+          "dateLabel": "11月20日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/11/511582.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "ce90b563e77b",
+          "title": "具身机器人进入真机时代，华为云CloudRobo开始组队发力了",
+          "desc": "一批卡可以轮流服务多家公司，一次适配也能让更多团队受益。算力不必家家从头买，工程上的坑也不用家家重新踩。",
+          "source": "量子位",
+          "date": "2026-11-20",
+          "dateLabel": "11月20日",
+          "tags": [
+            "research",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/11/511426.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "631e96acfd36",
+          "title": "今年前三季度我国数字产业收入超 32 万亿元，同比增长 14.8%",
+          "desc": "IT之家 11 月 20 日消息，据央视新闻今天（20 日）下午报道，前三季度，我国数字产业整体延续向优向好发展态势，收入增速加快，盈利水平持续提升，电子产品对外出口延续强劲增势，人工智能创新迭代提速，智能终端产品密集发布，产业新动能加速积蓄，为稳定经济增长、培育发展新质生产力、赋能千行百业数智转型提供有力支撑。一、发展质效持续提升IT之家从数据中获悉，前三季度，数字产业实现收入 32.41 万亿",
+          "source": "IT之家",
+          "date": "2026-11-20",
+          "dateLabel": "11月20日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/030/135.htm",
+          "image": "",
+          "color": "#d97706"
+        },
+        {
+          "id": "2649fa7477b0",
+          "title": "华为余承东：享界 V8 硬件具备 L3 自动驾驶能力但功能没开放，开车不能睡觉",
+          "desc": "IT之家 11 月 20 日消息，华为常务董事、产品投资委员会主任、终端 BG 董事长 @余承东 刚刚在微博发文称：“今天发布会上，有几句话讲的不准确，要纠正一下。享界 V8 现在给大家用的是 L2 辅助驾驶，L3 的硬件能力已具备，但还没有开放。大家用辅助驾驶要专心开车、按要求握好方向盘。现在还是 L2 时代，大家一定要注意安全，开车不能睡觉。”IT之家从今天下午的鸿蒙智行享界 V8 及星芒品牌",
+          "source": "IT之家",
+          "date": "2026-11-20",
+          "dateLabel": "11月20日",
+          "tags": [
+            "business",
+            "policy",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/030/132.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/f7f7699c-bb18-4c84-a96c-6e3c9876e9ce.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "759b6b268c56",
+          "title": "AMD XDNA2 NPU 率先获得 Unsloth Desktop 适配，支持超百款智能体",
+          "desc": "IT之家 11 月 20 日消息，AMD 当地时间 19 日宣布，其锐龙 AI 处理器上的 \"XDNA 2\" NPU 成为首款获得 Unsloth Desktop 本地界面支持的神经网络处理器。具体来看，兼容的应用程序向 Unsloth Desktop API 发送模型请求，而 Lemonade 和 FastFlowLM 则在 AMD XDNA 2 NPU 上处理模型服务和推理。模型的响应返回给应",
+          "source": "IT之家",
+          "date": "2026-11-20",
+          "dateLabel": "11月20日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.ithome.com/1/030/131.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/60480c06-95e2-4465-a51d-b4c1eb5dc128.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "2d870533e36a",
+          "title": "Anthropic 上市当天，离职研究员考克森在其总部外呼吁禁止 AI 递归自我改进",
+          "desc": "IT之家 11 月 20 日消息，据《商业内幕》报道，今年 9 月，Anthropic 前研究员雅各布 · 考克森因担忧 AI 发展而离职，并在美国引发了对 AI 技术的广泛恐慌。时间来到当地时间 19 日，随着 Anthropic 股票首次上市交易，考克森再次呼吁公众关注 AI 安全问题。这次，他在接受采访时强调：“他们买不买股票根本不重要。我们必须阻止递归自我改进。”IT之家注：“递归自我改进",
+          "source": "IT之家",
+          "date": "2026-11-20",
+          "dateLabel": "11月20日",
+          "tags": [
+            "research",
+            "business",
+            "policy"
+          ],
+          "url": "https://www.ithome.com/1/030/127.htm",
+          "image": "",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-11-19",
       "dateLabel": "11月19日",
       "id": "d19",
       "items": [
+        {
+          "id": "917462730461",
+          "title": "影视飓风、Manus、影石、OPPO……极客公园创新大会 2027 嘉宾阵容更新！",
+          "desc": "「Revaluation 价值，另有答案」",
+          "source": "量子位",
+          "date": "2026-11-19",
+          "dateLabel": "11月19日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/11/511258.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
         {
           "id": "8c0491e566a8",
           "title": "GTA6刷屏！零AI纯手搓的3A大作玩一个少一个了",
@@ -77,53 +220,6 @@
           "url": "https://www.qbitai.com/2026/11/511079.html",
           "image": "",
           "color": "#7c3aed"
-        },
-        {
-          "id": "824bf6416bb0",
-          "title": "范式下场做基模了！国产算力全链路训练，双模型同步亮相",
-          "desc": "语言模型单张3090卡即可运行",
-          "source": "量子位",
-          "date": "2026-11-19",
-          "dateLabel": "11月19日",
-          "tags": [
-            "research",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/11/511071.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "d7f68fd8feac",
-          "title": "初中毕业烘焙师，1 人搓出单集千万播放科幻剧，中国AI长片杀疯了！",
-          "desc": "国产AI工具实现「一个人就是一个剧组」",
-          "source": "量子位",
-          "date": "2026-11-19",
-          "dateLabel": "11月19日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/11/510947.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "ea99320a94ab",
-          "title": "AI 是移动网络未来十年最大战略机遇：华为发布下一代核心网演进白皮书，提出 AgenticCore 解决方案",
-          "desc": "IT之家 11 月 19 日消息，今日，由 Informa Tech 主办的第十一届全球核心网峰会上，华为云核心网产品线总裁高治国发表主题演讲。同时，华为发布《下一代核心网演进白皮书》，提出下一代核心网目标架构与演进路径。▲ 华为云核心网产品线总裁高治国发表主题演讲高治国指出，未来 5 至 10 年，Agentic AI 将跨越式演进，向全终端、全业务、全场景深度渗透。移动网络联接对象从人和物拓展",
-          "source": "IT之家",
-          "date": "2026-11-19",
-          "dateLabel": "11月19日",
-          "tags": [
-            "research",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/029/540.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/4da61922-1f2a-47ac-9017-669c2a05bc9a.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
         }
       ]
     },
@@ -2259,87 +2355,6 @@
           "color": "#d97706"
         }
       ]
-    },
-    {
-      "date": "2026-10-17",
-      "dateLabel": "10月17日",
-      "id": "d17",
-      "items": [
-        {
-          "id": "615c2ffa3ad0",
-          "title": "突发！DeepSeek新模型发布，超级性价比斩杀一切",
-          "desc": "新版本V4.1-Flash-1017，还开放了自研搜索API",
-          "source": "量子位",
-          "date": "2026-10-17",
-          "dateLabel": "10月17日",
-          "tags": [
-            "model",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/10/504067.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "63b4023dd1b9",
-          "title": "智谱新模型，懂法方面全球第一了",
-          "desc": "AI的风还是刮到了法律圈",
-          "source": "量子位",
-          "date": "2026-10-17",
-          "dateLabel": "10月17日",
-          "tags": [
-            "model",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/10/503965.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "e29c2ff10249",
-          "title": "清华开源！智能体操作系统任务成本降83%，AI记忆可查可改",
-          "desc": "整套系统原生支持MCP",
-          "source": "量子位",
-          "date": "2026-10-17",
-          "dateLabel": "10月17日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/10/503935.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "fdbe579447c7",
-          "title": "Claude半小时解开密码学悬案，学界集体走偏20年",
-          "desc": "谜底指向时间",
-          "source": "量子位",
-          "date": "2026-10-17",
-          "dateLabel": "10月17日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://www.qbitai.com/2026/10/503910.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "8ca5aa9fbda5",
-          "title": "科技企业出海，为啥我推荐你去迪拜？",
-          "desc": "通往全球市场的超级跳板",
-          "source": "量子位",
-          "date": "2026-10-17",
-          "dateLabel": "10月17日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/10/503893.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -2365,6 +2380,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-11-19 17:52",
-  "totalNews": 145
+  "updateTime": "2026-11-20 17:39",
+  "totalNews": 146
 }
