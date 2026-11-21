@@ -1,6 +1,129 @@
 {
   "newsData": [
     {
+      "date": "2026-11-21",
+      "dateLabel": "11月21日",
+      "id": "d21",
+      "items": [
+        {
+          "id": "49aa05b7efc8",
+          "title": "研究人员开发可生物降解纳米材料，有望让唇腭裂儿童再生颌骨",
+          "desc": "IT之家 11 月 21 日消息，据 ScitechDaily 报道，悉尼大学与昆士兰大学的研究人员近日开发出一种可生物降解的新型纳米材料，有望帮助先天性唇腭裂儿童再生缺失的颌骨。公开信息显示，唇腭裂是较为常见的先天性疾病，约每 700 名新生儿中就有 1 名受到影响。该疾病通常是由于胎儿发育期间，上唇或口腔顶部的组织未能完全融合所致。由此产生的颌骨缺损是治疗过程中最棘手的问题之一，可能影响患者的",
+          "source": "IT之家",
+          "date": "2026-11-21",
+          "dateLabel": "11月21日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.ithome.com/1/030/413.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/a31f0c9f-f7e7-4f3d-b0ff-147c9b58adc5.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "e11f118c67ea",
+          "title": "蔚来官宣 NWM 3.0 世界模型，11 月 25 日在 NIO IN 2026 蔚来创新科技日发布",
+          "desc": "IT之家 11 月 21 日消息，蔚来今日宣布，在即将于 11 月 25 日举办的 NIO IN 2026 蔚来创新科技日上，将正式发布 NWM 3.0 世界模型。官方表示，NWM 3.0 将会在模型架构、闭环训练、跨域融合等方面，带来蔚来智能辅助驾驶团队对物理世界人工智能的最新思考与探索成果，敬请期待。据IT之家此前报道，2024 年 7 月，蔚来发布行业首个智能辅助驾驶世界模型 ——「蔚来世界",
+          "source": "IT之家",
+          "date": "2026-11-21",
+          "dateLabel": "11月21日",
+          "tags": [
+            "research",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/030/410.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/218dfb16-8198-4c9b-965a-ee24a59b5e25.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "539fbbf4e9b9",
+          "title": "魅族 MIFI N1 随身 Wi-Fi 发售：搭移芯 EC800LE 芯片，3000mAh 电池，39 元起",
+          "desc": "IT之家 11 月 21 日消息，魅族 MIFI N1 随身 Wi-Fi 现已在京东上架发售，首发价 39 元起。京东魅族随身 Wi-Fi 券后 39 元领 5 元券据介绍，这款随身 Wi-Fi 搭载移芯 EC800LE，集成基带、射频、电源管理，支持智能切网；尺寸为 96.6×58×14.8mm，重约 102g；支持 Wi-Fi 6 协议，下行峰值 150Mbps；电池容量 3000mAh，通过",
+          "source": "IT之家",
+          "date": "2026-11-21",
+          "dateLabel": "11月21日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/030/407.htm",
+          "image": "https://img14.360buyimg.com/pop/jfs/t1/528485/3/14324/57397/6ac71148Ffeb14460/00833e83e8f18a20.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "098dd007a7b1",
+          "title": "韩国首次利用紧急灾难通知“0 级短信”打击 AI 辅助作弊行为，成功在高考中抓获 54 名违规考生",
+          "desc": "IT之家 11 月 21 日消息，据《韩国先驱报》报道，韩国教育部在 2027 学年度大学修学能力考试（韩国高考）中，首次利用紧急灾难通知“0 级短信”协助打击考试作弊行为，以此成功抓获 54 名违规考生。连同其他检查手段在内，累计有 111 名考生被查出携带违禁设备。根据韩国媒体报道，考试当天上午 8 时 30 分，也就是正式开考前 10 分钟，第一轮紧急警报响起，共有 31 名考生因携带未经允",
+          "source": "IT之家",
+          "date": "2026-11-21",
+          "dateLabel": "11月21日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/030/387.htm",
+          "image": "",
+          "color": "#d97706"
+        },
+        {
+          "id": "06fad12f56ee",
+          "title": "微软回应 To Do 待办应用明年停服，承诺帮用户“平稳过渡”",
+          "desc": "IT之家 11 月 21 日消息，科技媒体 NeoWin 今天（11 月 21 日）刊发来自微软 AI 和智能体产品总监霍华德 · 克劳（Howard Crow），回应旗下任务管理应用 Microsoft To Do 停运事件。IT之家曾于 11 月 19 日报道，微软官网发布公告，Microsoft To Do 将于 2027 年 6 月 30 日停用，包括网页版、Windows、Mac、iOS",
+          "source": "IT之家",
+          "date": "2026-11-21",
+          "dateLabel": "11月21日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/030/385.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/2e4473f0-5303-438c-a51f-d2c679ec5784.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "b49cdb7f329a",
+          "title": "谷歌为 Gemini 上线 GIF 动态图片生成功能，由 Omni 1.2 Flash 模型驱动",
+          "desc": "IT之家 11 月 21 日消息，谷歌宣布为 Gemini 上线 GIF 生成功能，相应功能由视频模型 Gemini Omni 1.2 Flash 驱动，可生成循环动态图效和搞笑表情包。该功能面向所有 Google AI 订阅用户开放，并在美国、日本、韩国、澳大利亚、加拿大、英国、德国和法国免费。用户可在主聊天输入提示词，或在图像与视频工具中选择 GIF 并描述需求，等待片刻即可生成图片。IT之家",
+          "source": "IT之家",
+          "date": "2026-11-21",
+          "dateLabel": "11月21日",
+          "tags": [
+            "model",
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/030/381.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/11f8c7d1-a87b-4e38-888f-7eb951f8836e.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "101da630a0a2",
+          "title": "Nothing 首款 AI 原生硬件设备定档 12 月 8 日亮相：无屏幕设计、预计主打会议记录用途",
+          "desc": "IT之家 11 月 21 日消息，Nothing 发文，预热旗下首款 AI 原生硬件设备将于 12 月 8 日正式亮相。这款产品将采用无屏幕设计，定位为面向日常办公与生产力场景的 AI 工具。从此前公布的预热图片来看，这款设备采用小巧的矩形机身，表面使用拉丝金属材质，并配有实体按键。其中一个面积较大的按键标有“Talk”字样，另一个按键则带有录音标识，机身上还提供红色与绿色 LED 状态指示灯，可",
+          "source": "IT之家",
+          "date": "2026-11-21",
+          "dateLabel": "11月21日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/030/379.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/77fb1ff2-cba8-423e-8a7e-f8867024a131.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "22c6558213e4",
+          "title": "“大空头”迈克尔 · 伯里谈 AI 股暴跌：我早就提醒过你们了",
+          "desc": "IT之家 11 月 21 日消息，“大空头”迈克尔 · 伯里在 X 平台发文称：“CoreWeave、Nebius、英伟达，还有半导体股，我都试着提醒过大家。我没让你们做空，但我提供的信息足以让你们决定卖出股票。”当地时间 20 日开盘，英伟达股价下跌约 4%，CoreWeave 和 Nebius 的跌幅均在 7% 左右。据《商业内幕》报道，自 10 月 6 日触及盘中高点以来，英伟达、CoreW",
+          "source": "IT之家",
+          "date": "2026-11-21",
+          "dateLabel": "11月21日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/030/378.htm",
+          "image": "",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-11-20",
       "dateLabel": "11月20日",
       "id": "d20",
@@ -66,66 +189,6 @@
           "url": "https://www.qbitai.com/2026/11/511426.html",
           "image": "",
           "color": "#7c3aed"
-        },
-        {
-          "id": "631e96acfd36",
-          "title": "今年前三季度我国数字产业收入超 32 万亿元，同比增长 14.8%",
-          "desc": "IT之家 11 月 20 日消息，据央视新闻今天（20 日）下午报道，前三季度，我国数字产业整体延续向优向好发展态势，收入增速加快，盈利水平持续提升，电子产品对外出口延续强劲增势，人工智能创新迭代提速，智能终端产品密集发布，产业新动能加速积蓄，为稳定经济增长、培育发展新质生产力、赋能千行百业数智转型提供有力支撑。一、发展质效持续提升IT之家从数据中获悉，前三季度，数字产业实现收入 32.41 万亿",
-          "source": "IT之家",
-          "date": "2026-11-20",
-          "dateLabel": "11月20日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/030/135.htm",
-          "image": "",
-          "color": "#d97706"
-        },
-        {
-          "id": "2649fa7477b0",
-          "title": "华为余承东：享界 V8 硬件具备 L3 自动驾驶能力但功能没开放，开车不能睡觉",
-          "desc": "IT之家 11 月 20 日消息，华为常务董事、产品投资委员会主任、终端 BG 董事长 @余承东 刚刚在微博发文称：“今天发布会上，有几句话讲的不准确，要纠正一下。享界 V8 现在给大家用的是 L2 辅助驾驶，L3 的硬件能力已具备，但还没有开放。大家用辅助驾驶要专心开车、按要求握好方向盘。现在还是 L2 时代，大家一定要注意安全，开车不能睡觉。”IT之家从今天下午的鸿蒙智行享界 V8 及星芒品牌",
-          "source": "IT之家",
-          "date": "2026-11-20",
-          "dateLabel": "11月20日",
-          "tags": [
-            "business",
-            "policy",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/030/132.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/f7f7699c-bb18-4c84-a96c-6e3c9876e9ce.png",
-          "color": "#d97706"
-        },
-        {
-          "id": "759b6b268c56",
-          "title": "AMD XDNA2 NPU 率先获得 Unsloth Desktop 适配，支持超百款智能体",
-          "desc": "IT之家 11 月 20 日消息，AMD 当地时间 19 日宣布，其锐龙 AI 处理器上的 \"XDNA 2\" NPU 成为首款获得 Unsloth Desktop 本地界面支持的神经网络处理器。具体来看，兼容的应用程序向 Unsloth Desktop API 发送模型请求，而 Lemonade 和 FastFlowLM 则在 AMD XDNA 2 NPU 上处理模型服务和推理。模型的响应返回给应",
-          "source": "IT之家",
-          "date": "2026-11-20",
-          "dateLabel": "11月20日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://www.ithome.com/1/030/131.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/60480c06-95e2-4465-a51d-b4c1eb5dc128.png",
-          "color": "#d97706"
-        },
-        {
-          "id": "2d870533e36a",
-          "title": "Anthropic 上市当天，离职研究员考克森在其总部外呼吁禁止 AI 递归自我改进",
-          "desc": "IT之家 11 月 20 日消息，据《商业内幕》报道，今年 9 月，Anthropic 前研究员雅各布 · 考克森因担忧 AI 发展而离职，并在美国引发了对 AI 技术的广泛恐慌。时间来到当地时间 19 日，随着 Anthropic 股票首次上市交易，考克森再次呼吁公众关注 AI 安全问题。这次，他在接受采访时强调：“他们买不买股票根本不重要。我们必须阻止递归自我改进。”IT之家注：“递归自我改进",
-          "source": "IT之家",
-          "date": "2026-11-20",
-          "dateLabel": "11月20日",
-          "tags": [
-            "research",
-            "business",
-            "policy"
-          ],
-          "url": "https://www.ithome.com/1/030/127.htm",
-          "image": "",
-          "color": "#d97706"
         }
       ]
     },
@@ -2318,43 +2381,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-10-18",
-      "dateLabel": "10月18日",
-      "id": "d18",
-      "items": [
-        {
-          "id": "9d096ce8380b",
-          "title": "VAST开源实时世界模型EdenLive！单消费级显卡、720P超24FPS",
-          "desc": "让人人都能自由创造并体验可交互世界",
-          "source": "量子位",
-          "date": "2026-10-18",
-          "dateLabel": "10月18日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/10/504136.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "6f8591eb3aad",
-          "title": "新增广东湖南：苹果 AirPods 国补 15%，5 代 758 元起、Pro 3 仅 1316 元",
-          "desc": "苹果 AirPods 5 支持主动降噪，国行定价 999 元起。苹果 AirPods Pro 第三代支持升级版主动降噪 + 心率传感功能，国行定价 1899 元。京东目前支持 广东、江苏、北京、湖南、吉林、河北、云南、四川、大连 政府补贴 15%，收货地址在上述地区即可。AirPods Pro (第三代) 今日叠加国补后仅需 1316 元：京东 AirPods Pro 第三代搭配 MagSafe ",
-          "source": "IT之家",
-          "date": "2026-10-18",
-          "dateLabel": "10月18日",
-          "tags": [
-            "model",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/014/610.htm",
-          "image": "https://img14.360buyimg.com/pop/jfs/t1/381520/39/7020/21664/694cf086Fc76bab4a/095d6e93e2e2a382.jpg",
-          "color": "#d97706"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -2380,6 +2406,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-11-20 17:39",
-  "totalNews": 146
+  "updateTime": "2026-11-21 17:11",
+  "totalNews": 148
 }
