@@ -1,128 +1,164 @@
 {
   "newsData": [
     {
-      "date": "2026-11-22",
-      "dateLabel": "11月22日",
-      "id": "d22",
+      "date": "2026-11-23",
+      "dateLabel": "11月23日",
+      "id": "d23",
       "items": [
         {
-          "id": "1fba46b8cca3",
-          "title": "马斯克预警：AI 行业明年可能面临严重资金短缺，或需要数千亿美元额外投入",
-          "desc": "IT之家 11 月 22 日消息，深度学习领域开源项目 Keras 创始人弗朗索瓦・肖莱（François Chollet）在 X 上发文称，要么你认为 AI 基础设施建设已经结束，AI 只是一场昙花一现的泡沫，且算力需求已经见顶；要么，这就是一次难得的买入机会。弗朗索瓦称，GPU 现货价格仍在上涨，产能难以保障，HBM 和 DRAM 到 2029 年的产能基本已被订满，芯片和存储供应预计将持续紧",
-          "source": "IT之家",
-          "date": "2026-11-22",
-          "dateLabel": "11月22日",
+          "id": "24d131b3f407",
+          "title": "XROGO郑随兵：机器人不能只在视频里，终究要进入工厂“真干活”",
+          "desc": "企业核心需求不是交付设备，而是能持续上岗的劳动力",
+          "source": "量子位",
+          "date": "2026-11-23",
+          "dateLabel": "11月23日",
           "tags": [
-            "business",
-            "cn"
+            "research"
           ],
-          "url": "https://www.ithome.com/1/030/628.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/140d06ad-8322-4de9-8630-f7b95456000a.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "99b1335fe399",
-          "title": "Neuralink 展示脑机接口新成果：瘫痪患者成功在《GTA 6》里自由驾驶、射击",
-          "desc": "IT之家 11 月 22 日消息，马斯克旗下脑机接口公司 Neuralink 于 21 日公布最新研究成果，展示了一名四肢瘫痪患者通过脑机接口，将大脑运动意图转换为游戏控制器信号，成功游玩热门游戏《GTA 6》。受试者能够在游戏中自由驾驶、射击，获得接近普通玩家的操作体验。参考 Neuralink 在 X 平台上发布的实验视频。画面显示，一名植入脑机接口芯片的临床试验参与者，通过在大脑中想象四肢不",
-          "source": "IT之家",
-          "date": "2026-11-22",
-          "dateLabel": "11月22日",
-          "tags": [
-            "research",
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/030/625.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/cf24a9ca-7d09-482c-8140-f4bfedf2d084.jpg",
-          "color": "#d97706"
-        },
-        {
-          "id": "838a4de2bc06",
-          "title": "Hidisc Sound Glasses 轻量化蓝牙音频眼镜发布：10mm 扬声器、5.5 小时续航，3980 日元",
-          "desc": "IT之家 11 月 22 日消息，制造商 Hidisc 宣布推出一款 Sound Glasses 轻量化蓝牙音频眼镜，该产品搭载蓝牙 6.0 技术、配有开放式扬声器，售价为 3,980 日元（IT之家注：现汇率约合 167.5 元人民币）。与如今功能日益复杂的智能眼镜不同，这款产品没有摄像头、AI 助手等功能，而是专注于提供基础的无线音频体验。其镜腿内置 10mm 扬声器，采用开放式音频设计，支持",
-          "source": "IT之家",
-          "date": "2026-11-22",
-          "dateLabel": "11月22日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/030/623.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/83bcf3c0-3ead-484d-81e8-0a482e3615f5.png",
-          "color": "#d97706"
-        },
-        {
-          "id": "70ece88929c5",
-          "title": "首次：天津大学脑机海河实验室实现人体超声脑机接口高时空分辨解码",
-          "desc": "IT之家 11 月 22 日消息，天津大学脑机海河实验室团队近日在国际权威期刊《科学 · 进展》（Science Advances）发表最新研究成果。团队提出了一种高鲁棒性（稳健性，Robustness）的超声调制脑电信号解码技术，首次实现人体被试数据层面的稳态视觉诱发电位（Steady-State Visual Evoked Potentials，SSVEP）脑电源信号高精度解码。该技术可在多种",
-          "source": "IT之家",
-          "date": "2026-11-22",
-          "dateLabel": "11月22日",
-          "tags": [
-            "research",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/030/622.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/c038ef35-0333-40a9-b256-98702b981ba7.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "87b2cc6dfbea",
-          "title": "消息称三星 Galaxy Watch 智能手表改为隔年发布，明年没有新品",
-          "desc": "IT之家 11 月 22 日消息，据韩媒 ETNews 今日报道，业界消息称，三星电子决定明年不推出智能手表 Galaxy Watch 系列新产品。此举打破了自 2018 年推出首款型号以来连续 9 年保持的年度发布惯例，今后的新产品发布周期将调整为两年一更（隔年发布）。此次决定是三星电子移动业务部门近期全力提升盈利能力基调的延续，三星电子在处理器和内存等核心零部件价格飙升的“芯片通胀”浪潮中，正",
-          "source": "IT之家",
-          "date": "2026-11-22",
-          "dateLabel": "11月22日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/030/619.htm",
+          "url": "https://www.qbitai.com/2026/11/512179.html",
           "image": "",
-          "color": "#d97706"
+          "color": "#7c3aed"
         },
         {
-          "id": "831cf8725643",
-          "title": "华为星芒 OSTA O1 Pro 新机星闪 E2.0 规格确认，支持电竞专链、精确查找等功能",
-          "desc": "IT之家 11 月 22 日消息，在 20 日下午发布的首款为 AI 而生的鸿蒙手机 —— 星芒 OSTA O1 Pro，华为官网确认其支持星闪 E2.0 技术。此外，华为官网星闪功能支持设备清单还揭示了 OSTA O1 Pro 的具体功能支持情况：OSTA O1 Pro 星闪功能支持一览产品型号星闪星闪音频星闪车钥匙星闪精确查找星闪手写笔 / 键盘 / 鼠标连接支持星闪功能的手表星闪电竞专链星闪",
-          "source": "IT之家",
-          "date": "2026-11-22",
-          "dateLabel": "11月22日",
+          "id": "a8c644bccffa",
+          "title": "蚂蚁医疗健康AI五连发！开源、本地部署、望闻问切全安排上了",
+          "desc": "阿福大升级：让模型像医生一样思考",
+          "source": "量子位",
+          "date": "2026-11-23",
+          "dateLabel": "11月23日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/11/512017.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "1d5b01eafdf8",
+          "title": "“Agent版arXiv”来了！936个智能体12个星期狂发近千篇论文，连同行评议都整上了",
+          "desc": "一个完全由AI组成的科学家社会，是什么样？",
+          "source": "量子位",
+          "date": "2026-11-23",
+          "dateLabel": "11月23日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.qbitai.com/2026/11/512004.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "f9e79ed0984f",
+          "title": "蚂蚁阿福同款大模型宣布开源，全球医生一台电脑就能解锁专业医疗 AI 能力",
+          "desc": "阿福App宣布新一轮升级，解锁越来越多健康服务新本领",
+          "source": "量子位",
+          "date": "2026-11-23",
+          "dateLabel": "11月23日",
           "tags": [
             "model",
             "business",
             "cn"
           ],
-          "url": "https://www.ithome.com/1/030/600.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/e1e5e1fd-11c5-491a-8941-659a192c4914.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/11/511998.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "4b4fa5bc3416",
-          "title": "蚂蚁集团 CEO 韩歆毅：人工智能已走到临床很多环节，相信 AI 可以成为连接医患延续照顾的可靠纽带",
-          "desc": "IT之家 11 月 22 日消息，据新浪科技今天报道，蚂蚁集团 CEO 韩歆毅今日在 2026 蚂蚁阿福医疗健康生态大会表示，AI 这几年已经走到了临床的很多环节。韩歆毅表示：“我们看到从门诊到病房，从随访到科研，其实需要思考一个根本的命题，当 AI 走进了医院，走进了患者的日常生活，到底应该怎样服务医学、服务医生、服务患者。”这名 CEO 认为，蚂蚁阿福的初心是希望从临床的真实需求出发，帮助医生",
-          "source": "IT之家",
-          "date": "2026-11-22",
-          "dateLabel": "11月22日",
+          "id": "5962f3b48762",
+          "title": "算力周期更迭，数据复合增长：为何存储经济性对中国规模化 AI 至关重要",
+          "desc": "AI 的未来将依赖能够在数据全生命周期中平衡性能、可靠性与经济性的存储架构。",
+          "source": "量子位",
+          "date": "2026-11-23",
+          "dateLabel": "11月23日",
+          "tags": [
+            "research",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/11/511989.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "d450bd22aa00",
+          "title": "当大模型接上真实机器人：RoboChallenge Zero首期评测发布",
+          "desc": "RoboChallenge正式发布全新评测基准RoboChallenge Zero",
+          "source": "量子位",
+          "date": "2026-11-23",
+          "dateLabel": "11月23日",
+          "tags": [
+            "model",
+            "research",
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/11/511978.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "eb2d9b4a19cf",
+          "title": "豆姐威武！豆包工作上新21个专业工作台，AI直接替你上班",
+          "desc": "豆包工作是目前字节优先级最高的产品",
+          "source": "量子位",
+          "date": "2026-11-23",
+          "dateLabel": "11月23日",
           "tags": [
             "business",
             "cn"
           ],
-          "url": "https://www.ithome.com/1/030/594.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/8/97a08501-97eb-4336-bfe3-11ce37f5b6f2.jpg",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/11/511933.html",
+          "image": "",
+          "color": "#7c3aed"
         },
         {
-          "id": "d18f23356473",
-          "title": "《以撒的结合：忏悔 +》最新“罪恶城”更新引争议，玩家称游戏音乐系 AI 工具生成",
-          "desc": "IT之家 11 月 22 日消息，据外媒 kotaku 报道，《以撒的结合：忏悔 +（The Binding of Isaac: Repentance+）》最新的“罪恶城”免费更新疑似使用了 AI 生成的背景音乐，引发 Steam 玩家集中差评。具体来看，本次更新主要是为了致敬《GTA6》，玩家在更新游戏后只需在开始挑战前输入代码“V1CE BSMT”，就能进入一个以罪恶城为主题的特别版本，其中包",
-          "source": "IT之家",
+          "id": "bd7171b984c9",
+          "title": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
+          "desc": "还透露了不少训练背后的秘诀",
+          "source": "量子位",
+          "date": "2026-11-23",
+          "dateLabel": "11月23日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.qbitai.com/2026/11/511921.html",
+          "image": "",
+          "color": "#7c3aed"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "dateLabel": "11月22日",
+      "id": "d22",
+      "items": [
+        {
+          "id": "ced8a78de0ba",
+          "title": "Nature：糖尿病大鼠成功恢复正常血糖！用电刺激迷走神经控糖",
+          "desc": "用葡萄糖发电控制血糖。",
+          "source": "量子位",
           "date": "2026-11-22",
           "dateLabel": "11月22日",
           "tags": [
             "business"
           ],
-          "url": "https://www.ithome.com/1/030/591.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/d89784ee-bb68-42b7-8899-072456c66cae.png",
-          "color": "#d97706"
+          "url": "https://www.qbitai.com/2026/11/511904.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "ee7afb5f1762",
+          "title": "A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿",
+          "desc": "A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿",
+          "source": "量子位",
+          "date": "2026-11-22",
+          "dateLabel": "11月22日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://www.qbitai.com/2026/11/511870.html",
+          "image": "",
+          "color": "#7c3aed"
         }
       ]
     },
@@ -2334,56 +2370,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-10-20",
-      "dateLabel": "10月20日",
-      "id": "d20",
-      "items": [
-        {
-          "id": "a43cc512c899",
-          "title": "国模Agent第一！MiniMax爆改Flash战力，全时段大肥鱼谷价",
-          "desc": "兔皮底下，竟然是MiniMax！",
-          "source": "量子位",
-          "date": "2026-10-20",
-          "dateLabel": "10月20日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://www.qbitai.com/2026/10/504517.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "039123771588",
-          "title": "RSI三块关键拼图，MemT 1.0从模型层补上「记忆」",
-          "desc": "把记忆原生焊进Transformer",
-          "source": "量子位",
-          "date": "2026-10-20",
-          "dateLabel": "10月20日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/10/504456.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "a501dd62c4f7",
-          "title": "比亚迪成为2026年APEC会议官方合作伙伴",
-          "desc": "2026年10月16日，比亚迪集团正式成为亚太经合组织第三十三次领导人非正式会议官方合作伙伴",
-          "source": "量子位",
-          "date": "2026-10-20",
-          "dateLabel": "10月20日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/10/504452.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -2409,6 +2395,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-11-22 17:21",
-  "totalNews": 148
+  "updateTime": "2026-11-23 18:17",
+  "totalNews": 147
 }
