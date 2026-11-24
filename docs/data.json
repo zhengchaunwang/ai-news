@@ -1,6 +1,132 @@
 {
   "newsData": [
     {
+      "date": "2026-11-24",
+      "dateLabel": "11月24日",
+      "id": "d24",
+      "items": [
+        {
+          "id": "ca7fc998eacf",
+          "title": "Google Cloud 出海峰会报名开启",
+          "desc": "2027 Google Cloud 出海峰会将于 1 月 14 日在北京中关村国际创新中心举行",
+          "source": "量子位",
+          "date": "2026-11-24",
+          "dateLabel": "11月24日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/11/512370.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "a8b127e3f599",
+          "title": "业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型",
+          "desc": "端侧老炮辛米尔，打通物理AI规模化落地之路",
+          "source": "量子位",
+          "date": "2026-11-24",
+          "dateLabel": "11月24日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/11/512362.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "17344785d3c3",
+          "title": "文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议",
+          "desc": "文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议",
+          "source": "量子位",
+          "date": "2026-11-24",
+          "dateLabel": "11月24日",
+          "tags": [
+            "model",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/11/512354.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "9e72d747f5bf",
+          "title": "八年研发，首搭方程豹钛9，全球首个折叠方向盘量产上车",
+          "desc": "11月19日，方程豹钛9上市，售价27.99万元起",
+          "source": "量子位",
+          "date": "2026-11-24",
+          "dateLabel": "11月24日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/11/512348.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "8610ded93442",
+          "title": "巴新总理见证，仰望U8交付巴布亚新几内亚市场",
+          "desc": "2026年11月18日，中国深圳——APEC会议期间，比亚迪仰望U8正式交付巴布亚新几内亚市场",
+          "source": "量子位",
+          "date": "2026-11-24",
+          "dateLabel": "11月24日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/11/512343.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "78f6ce08220f",
+          "title": "报名从速｜来MEET2027！听AI前沿实践者交出“判断”",
+          "desc": "12.9 北京，来MEET2027现场",
+          "source": "量子位",
+          "date": "2026-11-24",
+          "dateLabel": "11月24日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/11/512329.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "a6290bfea2eb",
+          "title": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，核心引擎向全球开源",
+          "desc": "中国AI数据平台加速崛起",
+          "source": "量子位",
+          "date": "2026-11-24",
+          "dateLabel": "11月24日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/11/512330.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "9413c9eeedef",
+          "title": "释放AI与出海强预期，近1500人参与亿邦产业互联网年会暨首届产业智能体大会",
+          "desc": "2026年11月20日，第八届亿邦产业互联网年会与首届产业智能体大会在北京国贸大酒店首次合体举行。",
+          "source": "量子位",
+          "date": "2026-11-24",
+          "dateLabel": "11月24日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/11/512305.html",
+          "image": "",
+          "color": "#7c3aed"
+        }
+      ]
+    },
+    {
       "date": "2026-11-23",
       "dateLabel": "11月23日",
       "id": "d23",
@@ -2291,85 +2417,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-10-21",
-      "dateLabel": "10月21日",
-      "id": "d21",
-      "items": [
-        {
-          "id": "e17a1c4a45cb",
-          "title": "多智能体协同重构医疗AI！清华AIR孵化：医生AI分身“坐诊”医院",
-          "desc": "医疗AI质变时刻",
-          "source": "量子位",
-          "date": "2026-10-21",
-          "dateLabel": "10月21日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/10/504734.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "c59f55c89861",
-          "title": "生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月",
-          "desc": "10月21日，生数科技世界模型团队正式开启Motubrain 2.0训练全流程公开直播",
-          "source": "量子位",
-          "date": "2026-10-21",
-          "dateLabel": "10月21日",
-          "tags": [
-            "research"
-          ],
-          "url": "https://www.qbitai.com/2026/10/504730.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "bbd4604c63fc",
-          "title": "LeCun押注的世界模型，中国一家清华系公司已经做进了机器人",
-          "desc": "世界模型赛道新看点：千诀隐变量可辨识性方向的研究，比LeCun相近工作早一年，不堆画面预测，主打物理规律与跨本体复用。",
-          "source": "量子位",
-          "date": "2026-10-21",
-          "dateLabel": "10月21日",
-          "tags": [
-            "research",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/10/504653.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "9df1a7728ea9",
-          "title": "量智齐飞！4个月9款车落地，轻舟城市NOA击穿10-20万体验天花板",
-          "desc": "百万台搭载打底，智驾普及与安全并重",
-          "source": "量子位",
-          "date": "2026-10-21",
-          "dateLabel": "10月21日",
-          "tags": [
-            "policy"
-          ],
-          "url": "https://www.qbitai.com/2026/10/504638.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "e85b9a444161",
-          "title": "实探宁德时代总部：“去宁化”是喊太大声了",
-          "desc": "电池开发，分工远比想象复杂",
-          "source": "量子位",
-          "date": "2026-10-21",
-          "dateLabel": "10月21日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/10/504618.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -2395,6 +2442,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-11-23 18:17",
-  "totalNews": 147
+  "updateTime": "2026-11-24 19:59",
+  "totalNews": 150
 }
