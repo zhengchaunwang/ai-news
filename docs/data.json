@@ -1,14 +1,137 @@
 {
   "newsData": [
     {
+      "date": "2026-11-25",
+      "dateLabel": "11月25日",
+      "id": "d25",
+      "items": [
+        {
+          "id": "129375fb308a",
+          "title": "Anthropic还藏着2个最强模型…",
+          "desc": "Fable5.2已经很旧了。",
+          "source": "量子位",
+          "date": "2026-11-25",
+          "dateLabel": "11月25日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/11/512538.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "d2850b79cea7",
+          "title": "完整议程！第二十一届中国IDC产业年度大典（IDCC2026）",
+          "desc": "第二十一届中国IDC产业年度大典（IDCC2026）暨2026全球数字基础设施科技展即将举办",
+          "source": "量子位",
+          "date": "2026-11-25",
+          "dateLabel": "11月25日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/11/512532.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "ad88252216c4",
+          "title": "A社Tibo被曝加盟OpenAI！上市前离职三人组异地团圆",
+          "desc": "OpenAI这下要有俩Tibo了",
+          "source": "量子位",
+          "date": "2026-11-25",
+          "dateLabel": "11月25日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/11/512515.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "81b4f94d9fbd",
+          "title": "华人计算机视觉泰斗二次创业！离开苹果下场，专注下一代空间与物理AI",
+          "desc": "复杂场景三维建模成本降至10美元以内",
+          "source": "量子位",
+          "date": "2026-11-25",
+          "dateLabel": "11月25日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/11/512498.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "3ac222c3ddfe",
+          "title": "Claude Opus 5.6灰测效果来了",
+          "desc": "整体效率大约是此前Opus版本的2到3倍。",
+          "source": "量子位",
+          "date": "2026-11-25",
+          "dateLabel": "11月25日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://www.qbitai.com/2026/11/512478.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "6198da8d275e",
+          "title": "英伟达开放 Nemotron-Labs-Image-30B-A3B 生图 AI 模型权重：某些跑分超 GPT Image 2",
+          "desc": "IT之家 11 月 25 日消息，科技媒体 Wccftech 今天（11 月 25 日）发布博文，报道称英伟达在 Hugging Face 平台悄然公开了 Nemotron-Labs-Image-30B-A3B 模型的权重。该模型采用混合专家架构，总参数达 300 亿，使用时激活 30 亿参数，对本地硬件更友好。Nemotron-Labs-Image-30B-A3B 是一款自回归图像生成模型，也是",
+          "source": "IT之家",
+          "date": "2026-11-25",
+          "dateLabel": "11月25日",
+          "tags": [
+            "model",
+            "research",
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/032/444.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/64e9948c-2353-448b-8495-d6dbc84df33e.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "d4d56200a152",
+          "title": "亚马逊今年资本开支预计达 2200 亿美元创历史新高，AWS CFO 称 AI 赛道宁快勿慢",
+          "desc": "IT之家 11 月 25 日消息，亚马逊预计今年资本开支将达到约 2,200 亿美元（IT之家注：现汇率约合 1.47 万亿元人民币），创下历史纪录，资金主要投向 AWS 以及人工智能基础设施。AWS 首席财务官约翰 · 费尔顿（John Felton）在接受 Business Insider 邮件采访时表示，公司会提前锁定土地、电力、审批这类建设周期漫长的资源，而服务器等设备采购则延后，等客户订",
+          "source": "IT之家",
+          "date": "2026-11-25",
+          "dateLabel": "11月25日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/032/435.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2025/12/95087e6d-4661-4eed-ba13-0b737018ce33.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "3c483b69d142",
+          "title": "部分第三方产品不兼容 11 月微软 Win11 更新，导致身份验证故障",
+          "desc": "IT之家 11 月 25 日消息，科技媒体 bleepingcomputer 今天（11 月 25 日）发布博文，报道称微软确认由于部分第三方产品不兼容新的安全要求，导致部分 Windows 11 用户安装微软 11 月累积更新后，可能会出现登录或身份验证失败故障。IT之家曾于 11 月 12 日报道，微软为了降低中间人攻击和 NTLM 中继攻击风险，在 11 月发布的累积更新中修复高危远程代码执",
+          "source": "IT之家",
+          "date": "2026-11-25",
+          "dateLabel": "11月25日",
+          "tags": [
+            "business",
+            "policy"
+          ],
+          "url": "https://www.ithome.com/1/032/421.htm",
+          "image": "",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-11-24",
       "dateLabel": "11月24日",
       "id": "d24",
       "items": [
         {
-          "id": "ca7fc998eacf",
-          "title": "Google Cloud 出海峰会报名开启",
-          "desc": "2027 Google Cloud 出海峰会将于 1 月 14 日在北京中关村国际创新中心举行",
+          "id": "03e4a9cb3269",
+          "title": "高德发布世界模型ABot-World 0.5，支持构建音画同步、可实时重塑的AI物理世界",
+          "desc": "近日，阿里巴巴集团旗下高德正式发布新一代通用交互式世界模型 ABot-World 0.5。",
           "source": "量子位",
           "date": "2026-11-24",
           "dateLabel": "11月24日",
@@ -16,58 +139,45 @@
             "business",
             "cn"
           ],
-          "url": "https://www.qbitai.com/2026/11/512370.html",
+          "url": "https://www.qbitai.com/2026/11/512454.html",
           "image": "",
           "color": "#7c3aed"
         },
         {
-          "id": "a8b127e3f599",
-          "title": "业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型",
-          "desc": "端侧老炮辛米尔，打通物理AI规模化落地之路",
+          "id": "26eb014f1115",
+          "title": "蚂蚁开源医疗健康预测模型，根据睡眠数据可预测未来六年150种疾病风险",
+          "desc": "蚂蚁刚刚发布医疗健康模型全家桶",
           "source": "量子位",
           "date": "2026-11-24",
           "dateLabel": "11月24日",
           "tags": [
-            "business"
+            "business",
+            "cn"
           ],
-          "url": "https://www.qbitai.com/2026/11/512362.html",
+          "url": "https://www.qbitai.com/2026/11/512451.html",
           "image": "",
           "color": "#7c3aed"
         },
         {
-          "id": "17344785d3c3",
-          "title": "文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议",
-          "desc": "文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议",
+          "id": "2dcc33badea7",
+          "title": "智谱刚刚发了GLM-5.4，全新架构的那种！网友直呼：超过预期",
+          "desc": "纯代码手搓了一个MV！",
           "source": "量子位",
           "date": "2026-11-24",
           "dateLabel": "11月24日",
           "tags": [
             "model",
-            "business",
+            "research",
             "cn"
           ],
-          "url": "https://www.qbitai.com/2026/11/512354.html",
+          "url": "https://www.qbitai.com/2026/11/512423.html",
           "image": "",
           "color": "#7c3aed"
         },
         {
-          "id": "9e72d747f5bf",
-          "title": "八年研发，首搭方程豹钛9，全球首个折叠方向盘量产上车",
-          "desc": "11月19日，方程豹钛9上市，售价27.99万元起",
-          "source": "量子位",
-          "date": "2026-11-24",
-          "dateLabel": "11月24日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/11/512348.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "8610ded93442",
-          "title": "巴新总理见证，仰望U8交付巴布亚新几内亚市场",
-          "desc": "2026年11月18日，中国深圳——APEC会议期间，比亚迪仰望U8正式交付巴布亚新几内亚市场",
+          "id": "bdc2e28b2ea0",
+          "title": "最新议程与嘉宾阵容公布！2027中国AIoT产业年会，11月27日深圳见",
+          "desc": "2026年11月27日，2027中国AIoT产业年会暨创新私董会将在深圳柏悦酒店举行",
           "source": "量子位",
           "date": "2026-11-24",
           "dateLabel": "11月24日",
@@ -75,14 +185,14 @@
             "business",
             "cn"
           ],
-          "url": "https://www.qbitai.com/2026/11/512343.html",
+          "url": "https://www.qbitai.com/2026/11/512411.html",
           "image": "",
           "color": "#7c3aed"
         },
         {
-          "id": "78f6ce08220f",
-          "title": "报名从速｜来MEET2027！听AI前沿实践者交出“判断”",
-          "desc": "12.9 北京，来MEET2027现场",
+          "id": "3e528850b9d3",
+          "title": "叙事时代丨第20届中国投资年会·有限合伙人峰会在沪成功举办",
+          "desc": "探讨未来产业布局与结构性新周期下的资产配置机遇。",
           "source": "量子位",
           "date": "2026-11-24",
           "dateLabel": "11月24日",
@@ -90,37 +200,7 @@
             "business",
             "cn"
           ],
-          "url": "https://www.qbitai.com/2026/11/512329.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "a6290bfea2eb",
-          "title": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，核心引擎向全球开源",
-          "desc": "中国AI数据平台加速崛起",
-          "source": "量子位",
-          "date": "2026-11-24",
-          "dateLabel": "11月24日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/11/512330.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "9413c9eeedef",
-          "title": "释放AI与出海强预期，近1500人参与亿邦产业互联网年会暨首届产业智能体大会",
-          "desc": "2026年11月20日，第八届亿邦产业互联网年会与首届产业智能体大会在北京国贸大酒店首次合体举行。",
-          "source": "量子位",
-          "date": "2026-11-24",
-          "dateLabel": "11月24日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/11/512305.html",
+          "url": "https://www.qbitai.com/2026/11/512387.html",
           "image": "",
           "color": "#7c3aed"
         }
@@ -2350,73 +2430,6 @@
           "color": "#7c3aed"
         }
       ]
-    },
-    {
-      "date": "2026-10-22",
-      "dateLabel": "10月22日",
-      "id": "d22",
-      "items": [
-        {
-          "id": "2889a7f360d5",
-          "title": "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
-          "desc": "10月22日，蚂蚁数科正式发布决策模型 LingDT-Decision-1.0。",
-          "source": "量子位",
-          "date": "2026-10-22",
-          "dateLabel": "10月22日",
-          "tags": [
-            "model",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/10/504879.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "d78a385f2078",
-          "title": "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
-          "desc": "FSD一年增长70万付费用户",
-          "source": "量子位",
-          "date": "2026-10-22",
-          "dateLabel": "10月22日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/10/504841.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "456782364421",
-          "title": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
-          "desc": "中电信人工智能科技有限公司星辰通用人工智能实验室正式发布并开源意图理解专用模型 Xing4.0-29B-Intent",
-          "source": "量子位",
-          "date": "2026-10-22",
-          "dateLabel": "10月22日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/10/504832.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "1c7aa7c952b8",
-          "title": "谁在给OpenAI供应具身数据？",
-          "desc": "挤进全球Physical AI核心供应链",
-          "source": "量子位",
-          "date": "2026-10-22",
-          "dateLabel": "10月22日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/10/504800.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -2442,6 +2455,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-11-24 19:59",
-  "totalNews": 150
+  "updateTime": "2026-11-25 18:51",
+  "totalNews": 151
 }
