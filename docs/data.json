@@ -1,28 +1,136 @@
 {
   "newsData": [
     {
+      "date": "2026-11-26",
+      "dateLabel": "11月26日",
+      "id": "d26",
+      "items": [
+        {
+          "id": "9e87c6b7805d",
+          "title": "极客公园创新大会 2027 全议程公布！",
+          "desc": "今天，IF 2027 全议程揭晓。",
+          "source": "量子位",
+          "date": "2026-11-26",
+          "dateLabel": "11月26日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/11/512952.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "816f03203fb4",
+          "title": "报名最后2天｜AI浪潮之中，来认识创造未来的人",
+          "desc": "12月6日，WAIC将携手第六届“海聚英才”全球创新创业峰会，把这场关于“人”的讨论带回现场。",
+          "source": "量子位",
+          "date": "2026-11-26",
+          "dateLabel": "11月26日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/11/512942.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "a4e811729be5",
+          "title": "顶尖商用级AI视频每秒只要5毛！中国开源新势力拿下全球第一",
+          "desc": "30秒一镜到底，可自动编排镜头",
+          "source": "量子位",
+          "date": "2026-11-26",
+          "dateLabel": "11月26日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/11/512916.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "060f6ef8833d",
+          "title": "任少卿带着世界模型3.0来了！蔚来智驾训练提效5倍，座舱也用上强化学习",
+          "desc": "李斌坦言：不做AI变革可能活不下去",
+          "source": "量子位",
+          "date": "2026-11-26",
+          "dateLabel": "11月26日",
+          "tags": [
+            "research",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/11/512897.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "b7d59deb0a4c",
+          "title": "沈向洋刚讲了好多AI非共识啊",
+          "desc": "“灵巧手是人类最后的尊严”",
+          "source": "量子位",
+          "date": "2026-11-26",
+          "dateLabel": "11月26日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/11/512840.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "2720a84b7243",
+          "title": "AI影视高地正在北影海淀一带崛起，「一人制片厂」基建搭好了",
+          "desc": "叠满海淀最强AI Buff。",
+          "source": "量子位",
+          "date": "2026-11-26",
+          "dateLabel": "11月26日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/11/512828.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "b43a2d21ce83",
+          "title": "刚刚，黎曼猜想证明代码暴砍了99.5%！只剩7.6万行",
+          "desc": "合着全让A➗揽了",
+          "source": "量子位",
+          "date": "2026-11-26",
+          "dateLabel": "11月26日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/11/512819.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "326f126d96db",
+          "title": "微软新专利公布：将天线阵列集成到手机屏幕玻璃内部，或为 Surface Phone 铺路",
+          "desc": "IT之家 11 月 26 日消息，美国专利商标局于 11 月 12 日披露了微软一项手机屏幕专利 US 2026/0360990 A1，微软在该专利中提出“将天线阵列直接集成到屏幕玻璃内部”，有望在不增加机身厚度的情况下，为手机容纳下尺寸更大的天线阵列，以改善信号情况。众所周知，智能手机内部空间十分有限，厂商通常需要通过缩小天线尺寸、让不同无线通信功能共用天线，或者直接取消毫米波（mmWave）、",
+          "source": "IT之家",
+          "date": "2026-11-26",
+          "dateLabel": "11月26日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/032/985.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/118015c4-598a-4957-a096-8f2cf059ca6f.jpg",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-11-25",
       "dateLabel": "11月25日",
       "id": "d25",
       "items": [
         {
-          "id": "129375fb308a",
-          "title": "Anthropic还藏着2个最强模型…",
-          "desc": "Fable5.2已经很旧了。",
-          "source": "量子位",
-          "date": "2026-11-25",
-          "dateLabel": "11月25日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.qbitai.com/2026/11/512538.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "d2850b79cea7",
-          "title": "完整议程！第二十一届中国IDC产业年度大典（IDCC2026）",
-          "desc": "第二十一届中国IDC产业年度大典（IDCC2026）暨2026全球数字基础设施科技展即将举办",
+          "id": "92bd4e2027f0",
+          "title": "我以为这是摄影作品，你告诉我这是最新的国产AI？！",
+          "desc": "商汤SenseNova U1.6",
           "source": "量子位",
           "date": "2026-11-25",
           "dateLabel": "11月25日",
@@ -30,96 +138,37 @@
             "business",
             "cn"
           ],
-          "url": "https://www.qbitai.com/2026/11/512532.html",
+          "url": "https://www.qbitai.com/2026/11/512748.html",
           "image": "",
           "color": "#7c3aed"
         },
         {
-          "id": "ad88252216c4",
-          "title": "A社Tibo被曝加盟OpenAI！上市前离职三人组异地团圆",
-          "desc": "OpenAI这下要有俩Tibo了",
+          "id": "e466f66a7350",
+          "title": "丢个故事就行！直出15分钟AI短片，家里二舅也能上手",
+          "desc": "丢个故事就行！直出15分钟AI短片，家里二舅也能上手",
           "source": "量子位",
           "date": "2026-11-25",
           "dateLabel": "11月25日",
           "tags": [
             "business"
           ],
-          "url": "https://www.qbitai.com/2026/11/512515.html",
+          "url": "https://www.qbitai.com/2026/11/512727.html",
           "image": "",
           "color": "#7c3aed"
         },
         {
-          "id": "81b4f94d9fbd",
-          "title": "华人计算机视觉泰斗二次创业！离开苹果下场，专注下一代空间与物理AI",
-          "desc": "复杂场景三维建模成本降至10美元以内",
+          "id": "c45650240174",
+          "title": "零基础也能做开发，智元灵心平台一年孵化超3万个机器人智能体",
+          "desc": "智元推出行业首个开放且完整的具身智能生态技术体系AIMA",
           "source": "量子位",
           "date": "2026-11-25",
           "dateLabel": "11月25日",
           "tags": [
-            "business"
+            "research"
           ],
-          "url": "https://www.qbitai.com/2026/11/512498.html",
+          "url": "https://www.qbitai.com/2026/11/512715.html",
           "image": "",
           "color": "#7c3aed"
-        },
-        {
-          "id": "3ac222c3ddfe",
-          "title": "Claude Opus 5.6灰测效果来了",
-          "desc": "整体效率大约是此前Opus版本的2到3倍。",
-          "source": "量子位",
-          "date": "2026-11-25",
-          "dateLabel": "11月25日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://www.qbitai.com/2026/11/512478.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "6198da8d275e",
-          "title": "英伟达开放 Nemotron-Labs-Image-30B-A3B 生图 AI 模型权重：某些跑分超 GPT Image 2",
-          "desc": "IT之家 11 月 25 日消息，科技媒体 Wccftech 今天（11 月 25 日）发布博文，报道称英伟达在 Hugging Face 平台悄然公开了 Nemotron-Labs-Image-30B-A3B 模型的权重。该模型采用混合专家架构，总参数达 300 亿，使用时激活 30 亿参数，对本地硬件更友好。Nemotron-Labs-Image-30B-A3B 是一款自回归图像生成模型，也是",
-          "source": "IT之家",
-          "date": "2026-11-25",
-          "dateLabel": "11月25日",
-          "tags": [
-            "model",
-            "research",
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/032/444.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/11/64e9948c-2353-448b-8495-d6dbc84df33e.png",
-          "color": "#d97706"
-        },
-        {
-          "id": "d4d56200a152",
-          "title": "亚马逊今年资本开支预计达 2200 亿美元创历史新高，AWS CFO 称 AI 赛道宁快勿慢",
-          "desc": "IT之家 11 月 25 日消息，亚马逊预计今年资本开支将达到约 2,200 亿美元（IT之家注：现汇率约合 1.47 万亿元人民币），创下历史纪录，资金主要投向 AWS 以及人工智能基础设施。AWS 首席财务官约翰 · 费尔顿（John Felton）在接受 Business Insider 邮件采访时表示，公司会提前锁定土地、电力、审批这类建设周期漫长的资源，而服务器等设备采购则延后，等客户订",
-          "source": "IT之家",
-          "date": "2026-11-25",
-          "dateLabel": "11月25日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/032/435.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2025/12/95087e6d-4661-4eed-ba13-0b737018ce33.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "3c483b69d142",
-          "title": "部分第三方产品不兼容 11 月微软 Win11 更新，导致身份验证故障",
-          "desc": "IT之家 11 月 25 日消息，科技媒体 bleepingcomputer 今天（11 月 25 日）发布博文，报道称微软确认由于部分第三方产品不兼容新的安全要求，导致部分 Windows 11 用户安装微软 11 月累积更新后，可能会出现登录或身份验证失败故障。IT之家曾于 11 月 12 日报道，微软为了降低中间人攻击和 NTLM 中继攻击风险，在 11 月发布的累积更新中修复高危远程代码执",
-          "source": "IT之家",
-          "date": "2026-11-25",
-          "dateLabel": "11月25日",
-          "tags": [
-            "business",
-            "policy"
-          ],
-          "url": "https://www.ithome.com/1/032/421.htm",
-          "image": "",
-          "color": "#d97706"
         }
       ]
     },
@@ -2408,28 +2457,6 @@
           "color": "#d97706"
         }
       ]
-    },
-    {
-      "date": "2026-10-23",
-      "dateLabel": "10月23日",
-      "id": "d23",
-      "items": [
-        {
-          "id": "9c4ce1378917",
-          "title": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
-          "desc": "10月21日，百度官方公众号发文披露了百度世界2026分论坛的更多议程信息。",
-          "source": "量子位",
-          "date": "2026-10-23",
-          "dateLabel": "10月23日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/10/504901.html",
-          "image": "",
-          "color": "#7c3aed"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -2455,6 +2482,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-11-25 18:51",
-  "totalNews": 151
+  "updateTime": "2026-11-26 18:27",
+  "totalNews": 153
 }
