@@ -1,6 +1,131 @@
 {
   "newsData": [
     {
+      "date": "2026-11-27",
+      "dateLabel": "11月27日",
+      "id": "d27",
+      "items": [
+        {
+          "id": "8cf8809a6d67",
+          "title": "韦东奕再获大奖！攻克近140年数学难题，获两位院士共同提名",
+          "desc": "淡泊名利，实至名归🎉",
+          "source": "量子位",
+          "date": "2026-11-27",
+          "dateLabel": "11月27日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/11/513320.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "c4b1e9e9d451",
+          "title": "DeepSeek APP突然更新账单，网友：要收费了？",
+          "desc": "网页App双端亮出聊天账单",
+          "source": "量子位",
+          "date": "2026-11-27",
+          "dateLabel": "11月27日",
+          "tags": [
+            "model",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/11/513305.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "05bc3f169cc5",
+          "title": "刚刚，首个带跨任务空间记忆的原生基模开源！机器人端侧就能跑",
+          "desc": "地图能随时修，记忆能跨任务用",
+          "source": "量子位",
+          "date": "2026-11-27",
+          "dateLabel": "11月27日",
+          "tags": [
+            "research",
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/11/513227.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "68d2ddad9d84",
+          "title": "钛动科技 × 腾讯云达成战略合作，用AI打开企业全球增长新空间",
+          "desc": "企业需要有用的 AI",
+          "source": "量子位",
+          "date": "2026-11-27",
+          "dateLabel": "11月27日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/11/513194.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "2931081620ec",
+          "title": "蚂蚁灵波发布LingBot-Map 2.0，模型自己修正“空间记忆”，把地图画更准",
+          "desc": "11 月 27 日，蚂蚁灵波科技发布流式三维重建模型 LingBot-Map 2.0",
+          "source": "量子位",
+          "date": "2026-11-27",
+          "dateLabel": "11月27日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/11/513211.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "a8a062762c5d",
+          "title": "20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩",
+          "desc": "Quickwit查询总耗时降31%，最高降87%",
+          "source": "量子位",
+          "date": "2026-11-27",
+          "dateLabel": "11月27日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.qbitai.com/2026/11/513163.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "8cba2a76dde2",
+          "title": "腾讯混元发布 Hy3D 3.6：高模表面更整洁、结构更清晰、刻画更细腻",
+          "desc": "3D生成的竞争重点正在从“能看”转向“能用”",
+          "source": "量子位",
+          "date": "2026-11-27",
+          "dateLabel": "11月27日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/11/513155.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "b548b5396138",
+          "title": "具身公司抱团回应：通用大模型跨维打击？没那么简单",
+          "desc": "具身公司抱团回应：通用大模型跨维打击？没那么简单",
+          "source": "量子位",
+          "date": "2026-11-27",
+          "dateLabel": "11月27日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://www.qbitai.com/2026/11/513125.html",
+          "image": "",
+          "color": "#7c3aed"
+        }
+      ]
+    },
+    {
       "date": "2026-11-26",
       "dateLabel": "11月26日",
       "id": "d26",
@@ -2436,27 +2561,6 @@
           "color": "#d97706"
         }
       ]
-    },
-    {
-      "date": "2026-10-24",
-      "dateLabel": "10月24日",
-      "id": "d24",
-      "items": [
-        {
-          "id": "f0745706bbdf",
-          "title": "微软 Edge 浏览器已原生支持 GPC 隐私控制功能，Chrome 也已开展相关测试",
-          "desc": "IT之家 10 月 25 日消息，微软在 Edge 浏览器中推出了一项和隐私相关的更新：浏览器原生内置了全球隐私控制（GPC）开关。据IT之家了解，万维网联盟（W3C）在 2020 年 10 月推出了全球隐私控制（GPC）规范，用来帮助用户落实《加州消费者隐私法案》（CCPA）和《通用数据保护条例》（GDPR）赋予的权利。这是一套基于浏览器的技术标准，用户可以自动向外传递隐私偏好，告知网站不要出售",
-          "source": "IT之家",
-          "date": "2026-10-24",
-          "dateLabel": "10月24日",
-          "tags": [
-            "policy"
-          ],
-          "url": "https://www.ithome.com/1/017/535.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/d3b3e9fb-7b45-456c-a37f-c99e8589911b.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -2482,6 +2586,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-11-26 18:27",
-  "totalNews": 153
+  "updateTime": "2026-11-27 18:30",
+  "totalNews": 160
 }
