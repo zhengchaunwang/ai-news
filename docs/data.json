@@ -1,10 +1,166 @@
 {
   "newsData": [
     {
+      "date": "2026-11-28",
+      "dateLabel": "11月28日",
+      "id": "d28",
+      "items": [
+        {
+          "id": "76ecd1468244",
+          "title": "亏贼！卡帕西用Claude搓出“美国版《文明》”，网友直接玩成全球接力赛",
+          "desc": "这种大模型现做的即时交互工具，能不能来一波知识付费？",
+          "source": "量子位",
+          "date": "2026-11-28",
+          "dateLabel": "11月28日",
+          "tags": [
+            "model"
+          ],
+          "url": "https://www.qbitai.com/2026/11/513428.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "99b3c4a1ca01",
+          "title": "999 → 789 元：苹果 AirPods 5 降噪耳机京东久违发车",
+          "desc": "今日京东自营 AirPods 大促加码，AirPods 5 支持主动降噪，官方定价 999 元，长续航 + 无线充电盒版定价 1149 元。今日 PLUS 国补后低至 789 元起，此优惠限账号：京东 Apple AirPods 5 支持主动降噪国补后 789 元直达链接京东 Apple AirPods 5 搭配无线充电盒 增强续航国补后 917 元直达链接AirPods 京东保价 7 天，一周内",
+          "source": "IT之家",
+          "date": "2026-11-28",
+          "dateLabel": "11月28日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/033/930.htm",
+          "image": "https://img14.360buyimg.com/pop/jfs/t1/508991/23/5637/15808/6aa1af6bF62a0b555/00833203207564db.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "309e2fd21b26",
+          "title": "将星闪联接、端侧 AI、超高清音视频融入开源鸿蒙，上海海思介绍 Hi-OHOS 平台",
+          "desc": "IT之家 11 月 28 日消息，2026 开源鸿蒙技术大会今日在南京举行。此次大会上，上海海思重点介绍了基于开源鸿蒙构建的统一 OS 平台 —— Hi-OHOS。官方表示，重构百亿 IoT 终端，需要一套系统原生的能力：有联接 —— 分布式软总线结合星闪硬总线，兑现设备跨品牌跨品类互联互通；有计算 ——AI 能力内建于系统框架，轻量终端也具备完整 AI 能力；有感知 —— 系统级框架统一适配视觉",
+          "source": "IT之家",
+          "date": "2026-11-28",
+          "dateLabel": "11月28日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/033/928.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/db055532-caf4-48a4-a672-352ae93736fe.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "ba81c71f5177",
+          "title": "《黑神话：悟空》制作人冯骥发 8000 字长文谈“后 AI 时代”：如果有一天没有任何工作需要人了，人该怎么办？",
+          "desc": "IT之家 11 月 28 日消息，11 月 27 日，游戏科学创始人、《黑神话：悟空》制作人冯骥在其个人公众号“冯骥 Yocar”发表了一篇名为《后 AI 时代最重要的问题》的长文，全文约 8000 字。文章发出后，引发全网热议。冯骥在文章开篇提出了一个问题：当人工智能（AI）在生产端大规模取代人类劳动后，整个社会应该如何看待人的价值？他认为，这就是后 AI 时代最重要的问题，没有之一。在他看来，",
+          "source": "IT之家",
+          "date": "2026-11-28",
+          "dateLabel": "11月28日",
+          "tags": [
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/033/927.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/8b76104d-a30f-44fd-b111-f549e9ff62e2.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "4d8665583d98",
+          "title": "雅砻江公司与华为获联合国“全球可持续工业 AI 解决方案奖”，方案落地于全球最大水光互补电站",
+          "desc": "IT之家 11 月 28 日消息，据华为数字能源分享，在联合国工业发展组织 60 周年纪念活动期间，雅砻江流域水电开发有限公司（简称“雅砻江公司”）与华为联合打造的“AI 赋能绿色能源方案”荣获“2026 年全球可持续工业 AI 解决方案奖”。▲ 雅砻江公司与华为联合荣获“2026 年全球可持续工业 AI 解决方案奖”据介绍，该奖项由联合国工业发展组织（UNIDO）、联合国贸易和发展会议（UNCT",
+          "source": "IT之家",
+          "date": "2026-11-28",
+          "dateLabel": "11月28日",
+          "tags": [
+            "business",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/033/914.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/2b5e2452-a426-45df-a71b-5d62e7c9f364.png",
+          "color": "#d97706"
+        },
+        {
+          "id": "57fbb19ffef8",
+          "title": "何小鹏：机器人交付后，预计首年实现良好盈利",
+          "desc": "IT之家 11 月 28 日消息，小鹏集团董事长、CEO 何小鹏在 2026 广州车展期间的活动中谈到了小鹏机器人。他表示，机器人作为小鹏的生态产品，交付后首年预计实现良好盈利。技术上，机器人产品 IRON 已实现全身运控与视听感知打通，触觉是主要攻关难点，压力、扭力等触觉能力有望今明两年取得突破，期待明年科技日展示新进展。此外，产品设计已兼顾海外多语言、安全、隐私合规要求，将先在国内交付，再拓展",
+          "source": "IT之家",
+          "date": "2026-11-28",
+          "dateLabel": "11月28日",
+          "tags": [
+            "research",
+            "policy",
+            "cn"
+          ],
+          "url": "https://www.ithome.com/1/033/912.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/c437f932-b7aa-4ae9-97c3-1a2b60e59e38.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        },
+        {
+          "id": "4e4d09cfd5b0",
+          "title": "长城皮卡 300 万全球用户大会明日举行，27 款长城山海炮亮相发布",
+          "desc": "IT之家 11 月 28 日消息，长城炮今日宣布，长城皮卡 300 万全球用户大会暨 27 款长城山海炮亮相发布将于 11 月 29 日广州车展举行。该车此前已经完成了工信部申报，整体设计基本延续在售车型，外观采用黑化设计。车辆升级为 Coffee OS 3 智能座舱，配备 Coffee GPT 大模型。此外智享版车型还将拥有高速 NOA 领航辅助能力。规格方面，IT之家获悉该车长宽高依然为 54",
+          "source": "IT之家",
+          "date": "2026-11-28",
+          "dateLabel": "11月28日",
+          "tags": [
+            "model",
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/033/911.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/c57aec22-0f22-474e-b136-bf88d092eded.jpg",
+          "color": "#d97706"
+        },
+        {
+          "id": "7018c015c69c",
+          "title": "马斯克：谷歌已表示有兴趣从 SpaceX 租用更多算力",
+          "desc": "IT之家 11 月 28 日消息，马斯克在 X 上透露，目前尚不确定哪家客户会采购更多算力，但谷歌已表示有兴趣从 SpaceX 租用更多算力。马斯克表示，面向高带宽训练配置的大规模连续算力集群，其租赁价格正在走高，有时甚至大幅上涨。而小规模算力（约 5,000 张 GPU 以内）的租金则在下滑。总体来看，SpaceX 算力的单张 GPU 平均租赁价格正呈上升趋势。IT之家注意到，据纽约时报报道，马",
+          "source": "IT之家",
+          "date": "2026-11-28",
+          "dateLabel": "11月28日",
+          "tags": [
+            "research",
+            "business"
+          ],
+          "url": "https://www.ithome.com/1/033/898.htm",
+          "image": "https://img.ithome.com/newsuploadfiles/2026/11/69d21dff-421a-4940-aea2-d9f8ec4ee62c.jpg?x-bce-process=image/format,f_auto",
+          "color": "#d97706"
+        }
+      ]
+    },
+    {
       "date": "2026-11-27",
       "dateLabel": "11月27日",
       "id": "d27",
       "items": [
+        {
+          "id": "417861b1fdba",
+          "title": "人形机器人开发者集合！众擎开放大小脑，10亿产业级生态支持计划也来了",
+          "desc": "一支团队在真机上验证的成果，可以成为下一支团队继续开发的起点。",
+          "source": "量子位",
+          "date": "2026-11-27",
+          "dateLabel": "11月27日",
+          "tags": [
+            "research"
+          ],
+          "url": "https://www.qbitai.com/2026/11/513352.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
+        {
+          "id": "4d3725330a3a",
+          "title": "全国首批首家！商汤大装置获Token工厂智算能力最高评级",
+          "desc": "商汤大装置Token工厂获得中国信通院Token工厂智算能力评估“全栈服务型·领先级”评级认证",
+          "source": "量子位",
+          "date": "2026-11-27",
+          "dateLabel": "11月27日",
+          "tags": [
+            "research",
+            "policy",
+            "cn"
+          ],
+          "url": "https://www.qbitai.com/2026/11/513346.html",
+          "image": "",
+          "color": "#7c3aed"
+        },
         {
           "id": "8cf8809a6d67",
           "title": "韦东奕再获大奖！攻克近140年数学难题，获两位院士共同提名",
@@ -91,35 +247,6 @@
             "business"
           ],
           "url": "https://www.qbitai.com/2026/11/513163.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "8cba2a76dde2",
-          "title": "腾讯混元发布 Hy3D 3.6：高模表面更整洁、结构更清晰、刻画更细腻",
-          "desc": "3D生成的竞争重点正在从“能看”转向“能用”",
-          "source": "量子位",
-          "date": "2026-11-27",
-          "dateLabel": "11月27日",
-          "tags": [
-            "business",
-            "cn"
-          ],
-          "url": "https://www.qbitai.com/2026/11/513155.html",
-          "image": "",
-          "color": "#7c3aed"
-        },
-        {
-          "id": "b548b5396138",
-          "title": "具身公司抱团回应：通用大模型跨维打击？没那么简单",
-          "desc": "具身公司抱团回应：通用大模型跨维打击？没那么简单",
-          "source": "量子位",
-          "date": "2026-11-27",
-          "dateLabel": "11月27日",
-          "tags": [
-            "model"
-          ],
-          "url": "https://www.qbitai.com/2026/11/513125.html",
           "image": "",
           "color": "#7c3aed"
         }
@@ -2436,131 +2563,6 @@
           "color": "#d97706"
         }
       ]
-    },
-    {
-      "date": "2026-10-25",
-      "dateLabel": "10月25日",
-      "id": "d25",
-      "items": [
-        {
-          "id": "39670ec149f6",
-          "title": "聚焦帕金森病、癫痫等 10 类疾病方向，全国首个国家脑机接口高质量数据集建设项目启动",
-          "desc": "IT之家 10 月 25 日消息，据极目新闻报道，华中科技大学同济医学院附属同济医院牵头的脑机接口高质量数据集建设项目，24 日在武汉正式启动。根据建设方案，该项目拟于 2027 年建成投用，聚焦脑卒中康复、脊髓损伤、帕金森病、癫痫、意识障碍、顽固性疼痛、面瘫、言语功能障碍、运动障碍性疾病和胃肠神经调控等 10 类疾病方向，基本覆盖神经调控与功能重建的主要临床场景。项目以破解数据碎片化问题为导向，",
-          "source": "IT之家",
-          "date": "2026-10-25",
-          "dateLabel": "10月25日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/017/607.htm",
-          "image": "",
-          "color": "#d97706"
-        },
-        {
-          "id": "3e29a69de93a",
-          "title": "赛力斯赛豆科技 AIVA 全球首家 AI 生活实验室今日开幕，店内展出 ME7 实车",
-          "desc": "IT之家 10 月 25 日消息，由重庆市沙坪坝区与赛力斯共同投资的赛豆科技 AIVA 首款量产车 —— ME7 已于今年 9 月在法国巴黎尚普拉特勒城堡完成全球首秀。目前，新车已完成工信部申报，将推出单电机以及双电机两个版本，均提供 5 座布局，可选装红色卡钳、黑色车顶、不同造型轮辋、拖钩孔、电连接头、ETC 车载装置，配备汽车事件数据记录系统（EDR）。IT之家注意到，赛豆科技 AIVA 汽车",
-          "source": "IT之家",
-          "date": "2026-10-25",
-          "dateLabel": "10月25日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/017/602.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/6fa84a50-4ec7-4a4b-9b72-e511e2adf4a9.jpg",
-          "color": "#d97706"
-        },
-        {
-          "id": "fd886bbf2490",
-          "title": "特斯拉确认正自研 AI 地图，将随 FSD v15 逐步推送",
-          "desc": "IT之家 10 月 25 日消息，在最新的特斯拉财报电话会议上，特斯拉副总裁阿肖克 · 埃卢斯瓦米（Ashok Elluswamy）宣布，特斯拉正在自研一套基于 AI 的地图导航系统。这套全新地图方案将随 FSD v15 上线，融合车队采集数据、个性化路线规划，同时支持 FSD 语音控制。据IT之家了解，特斯拉目前的导航是第三方地图内容搭配自研软件。此前“偏好路线”功能上线时就有报道说明：谷歌通过",
-          "source": "IT之家",
-          "date": "2026-10-25",
-          "dateLabel": "10月25日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/017/597.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/dbc62bbb-9883-42b3-bc96-d3559d539d5c.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "237bb2dd0b80",
-          "title": "网络安全专家：AI 发现的漏洞，很快或将引发新的安全隐患",
-          "desc": "IT之家 10 月 25 日消息，路透社采访的七名网络安全专家认为，随着 AI 技术不断揭示软件中隐藏的安全漏洞，类似本周全球多地政府网站接连中断服务的事件，几乎肯定会再次发生。美国马萨诸塞州网络威胁情报公司 VulnCheck 即将发布的研究显示，AI 推动了软件漏洞发现数量的增长，过去一年发现的漏洞数量同比翻了一番。数字基础设施公司 Cloudflare 的 CEO 马修 · 普林斯指出：“我",
-          "source": "IT之家",
-          "date": "2026-10-25",
-          "dateLabel": "10月25日",
-          "tags": [
-            "research",
-            "business",
-            "policy"
-          ],
-          "url": "https://www.ithome.com/1/017/592.htm",
-          "image": "",
-          "color": "#d97706"
-        },
-        {
-          "id": "5e5326529b40",
-          "title": "雷神 ZERO Air 15 双十一大促：12499 元起，轻至 1.54kg 兼顾便携与性能释放",
-          "desc": "IT之家 10 月 25 日消息，双十一大促已经开启，笔记本产品也迎来新一轮优惠。此前在 CES 2026 上，雷神推出了面向未来的“轻型”游戏本新品 —— 雷神 ZERO Air。官方表示，该系列产品希望在兼顾便携性的同时，保留游戏本的性能表现，其中雷神 ZERO Air 15 在 1.54kg 的机身内实现了 160W 性能释放，并搭载第三代英特尔酷睿 Ultra 处理器以及 RTX 50 系",
-          "source": "IT之家",
-          "date": "2026-10-25",
-          "dateLabel": "10月25日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/017/591.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/f29a632d-0fc0-45df-a17c-eee969e34f5c.png?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        },
-        {
-          "id": "f818a98f2bda",
-          "title": "摆脱微软并不容易？丹麦政府因技术问题放弃“弃用 Office”计划",
-          "desc": "IT之家 10 月 25 日消息，2025 年，丹麦政府宣布计划弃用 Windows 和微软 Office，改用 Linux 等开源软件，希望借此降低对微软等美国科技企业的依赖，避免受到政策多变的美国政府牵制。然而据外媒 Neowin 今天（25 日）上午报道，丹麦推动软件自主的计划未能取得预期成果。丹麦放弃了以英国软件公司 Collabora 的办公软件取代微软 Office 的计划。原本的计划",
-          "source": "IT之家",
-          "date": "2026-10-25",
-          "dateLabel": "10月25日",
-          "tags": [
-            "business",
-            "policy",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/017/580.htm",
-          "image": "",
-          "color": "#d97706"
-        },
-        {
-          "id": "63d1f571715c",
-          "title": "卢伟冰再谈小米 18 Fold 手机折痕：采用新一代折叠架构，平均深度 ≤30μm",
-          "desc": "IT之家 10 月 25 日消息，小米集团合伙人 / 总裁、手机部总裁、小米品牌总经理卢伟冰今日发文，再度谈及了小米 18 Fold 中折叠手机的折痕情况：采用新一代折叠架构，强度更高，更抗冲击同时带来超强折痕控制，平均折痕深度 ≤30μm据IT之家此前报道，小米 18 Fold 中折叠手机发布于 9 月 7 日，首发玄戒 O3 芯片，配备 5.38″ 外屏 +7.58″ 内屏，并后置徕卡专业三摄",
-          "source": "IT之家",
-          "date": "2026-10-25",
-          "dateLabel": "10月25日",
-          "tags": [
-            "research",
-            "business",
-            "cn"
-          ],
-          "url": "https://www.ithome.com/1/017/579.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/21486d7f-dcdd-4c0d-9720-840226da4228.png",
-          "color": "#d97706"
-        },
-        {
-          "id": "1e0b2580055a",
-          "title": "苹果 iPhone Duo 拆解：双电池 4883mAh，无实体 SIM 卡槽",
-          "desc": "IT之家 10 月 25 日消息，YouTube 频道 REWA Technology 与 Phone Repair Guru 放出了首批 iPhone Duo 的拆机视频，让外界得以看清这款折叠机型的内部构造。IT之家注意到，iPhone Duo 采用双电芯设计，两块电池都依靠电控胶拆卸：大容量电池：2962 mAh（11.56 Wh）小容量电池：1921 mAh（7.5 Wh）总容量：4883",
-          "source": "IT之家",
-          "date": "2026-10-25",
-          "dateLabel": "10月25日",
-          "tags": [
-            "business"
-          ],
-          "url": "https://www.ithome.com/1/017/578.htm",
-          "image": "https://img.ithome.com/newsuploadfiles/2026/10/c6d94ce5-7367-4b98-9c2d-654031b583b3.jpg?x-bce-process=image/format,f_auto",
-          "color": "#d97706"
-        }
-      ]
     }
   ],
   "sourcesData": [
@@ -2586,6 +2588,6 @@
       "region": "cn"
     }
   ],
-  "updateTime": "2026-11-27 18:30",
+  "updateTime": "2026-11-28 17:46",
   "totalNews": 160
 }
